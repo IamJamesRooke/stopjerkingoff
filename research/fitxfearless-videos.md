@@ -1,0 +1,26 @@
+# FitXFearless: videos relevant to the book
+
+From the main channel (793 videos listed 2026-11-14). Transcripts are still to be pulled: YouTube blocks cloud servers, so these need to come from James's machine or be pasted in.
+
+- [5 Things That Will Fix Your Poor Discipline Forever](https://www.youtube.com/watch?v=g_lQY2sg_HQ)
+- [How to Rewire your Brain to Enjoy Discipline](https://www.youtube.com/watch?v=K4U8EuOKVUI)
+- [Become Addicted To Discipline With These 6 Strategies](https://www.youtube.com/watch?v=RvOgtkyjJc0)
+- [Desexualize Your Brain And Regain Control (30 Day Plan)](https://www.youtube.com/watch?v=1UD2OrCCImo)
+- [Nofap made me more attractive (here’s why)](https://www.youtube.com/watch?v=mBgA7jORnXU)
+- [Does NoFap Actually Make You More Attractive?](https://www.youtube.com/watch?v=Ss5WMJhhwXE)
+- [How To ACTUALLY Lock In](https://www.youtube.com/watch?v=5u24X5tuCdQ)
+- [What Happens If You Masturbate TOO MUCH?](https://www.youtube.com/watch?v=ki9kvllX2HU)
+- [Give Me 10 Minutes And I'll Force You To Lock In](https://www.youtube.com/watch?v=e7-MhWgKqR4)
+- [HOW TO DE-SEXUALIZE YOUR BRAIN USING SEMEN RETENTION...](https://www.youtube.com/watch?v=WuZYCZkB3Yk)
+- [What Happens When You QUIT Masturbating?](https://www.youtube.com/watch?v=pde9YeZbCtM)
+- [Here's What Happens When You Lust After Women](https://www.youtube.com/watch?v=0tIQH3bU8oE)
+- [How To Desexualize Your Brain](https://www.youtube.com/watch?v=5YssueIJrZI)
+- [Most Guys STILL Aren’t On NoFap](https://www.youtube.com/watch?v=GCHF_iUpGuI)
+- [Desexualizing Your Brain Is a Cheat Code..{ HOW TO GUIDE!!! }](https://www.youtube.com/watch?v=gIkrQevaPh8)
+- [5 MASCULINE Ways To STOP Looking At Women With LUST...](https://www.youtube.com/watch?v=QKAmoWp76rQ)
+- [WHY NOFAP MAKES YOU MORE ATTRACTIVE THAN MOST MEN](https://www.youtube.com/watch?v=3T86TIqiQCU)
+- [I WISH I KNEW “THIS” BEFORE I STARTED NO FAP { Shocking 😱 }](https://www.youtube.com/watch?v=Ap-9Hkx8Nxc)
+- [I RELAPSED AFTER 2+ YEARS OF NOFAP { I FEEL HORRIBLE }](https://www.youtube.com/watch?v=AuD7NLR-oQM)
+- [THE TRUTH ABOUT SEMEN RETENTION ](https://www.youtube.com/watch?v=alZscRDIsSo)
+- [HOW TO NEVER RELAPSE AGAIN {NO FAP}](https://www.youtube.com/watch?v=kgOct7TPNnU)
+- [MY RESULTS AFTER 1 YEAR OF NOFAP { THE HARSH TRUTH !! }](https://www.youtube.com/watch?v=aOCZfnu1r_Y)
