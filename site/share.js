@@ -29,6 +29,10 @@
       ["Telegram", "telegram", "https://t.me/share/url?url=" + u + "&text=" + t],
       ["Email", "email", "mailto:?subject=" + encodeURIComponent(title) + "&body=" + encodeURIComponent(text + "\n\n" + url)]
     ];
+    // Remove gitbook's old Twitter/Facebook/share buttons.
+    Array.prototype.forEach.call(header.querySelectorAll("a.btn.pull-right, .dropdown.pull-right"), function (el) {
+      el.parentNode.removeChild(el);
+    });
     var bar = document.createElement("div");
     bar.className = "sjo-share";
     if (navigator.share) {

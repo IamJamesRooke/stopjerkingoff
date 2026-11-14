@@ -7,6 +7,7 @@ links and Book structured data, and writes sitemap.xml and robots.txt.
 """
 import html, json, re, sys
 from datetime import date
+import time
 from pathlib import Path
 
 SITE = "https://stopjerkingoff.com/"
@@ -99,6 +100,7 @@ for rmd in sorted(Path(".").glob("*.Rmd")):
 SOURCES["index"] = "index.Rmd"
 EDIT_PLACEHOLDER = EDIT_BASE + "%s"
 
+VERSION = str(int(time.time()))
 listed = []
 for p in pages:
     name = p.name
@@ -123,6 +125,8 @@ for p in pages:
     if name == "introduction.html":
         url = SITE  # canonical points at the homepage copy
     s = s.replace("</head>", head_tags(url, title, is_home, noindex) + "</head>", 1)
+    # Cache-bust our own files so readers get new styles and scripts right after a deploy.
+    s = re.sub(r'(href|src)="(style\.css|feedback\.js|counter\.js|share\.js)"', lambda m: f'{m.group(1)}="{m.group(2)}?v={VERSION}"', s)
     p.write_text(s, encoding="utf-8")
     if not noindex and name != "introduction.html":  # duplicate of the homepage
         listed.append(SITE if is_home else SITE + name)
