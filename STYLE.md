@@ -18,3 +18,12 @@ The book: *The Easy Peasy Way to Stop Jerking Off* by AnotherHackAuthor. It is a
 7. **Length:** roughly EasyPeasy's chapter length, up to 20% more.
 8. **Format:** R Markdown for Bookdown. Start the file with `# Chapter Title`; sub-headings use `## Heading {-}`.
 9. **Originality check:** `python3 /tmp/claude-0/-home-user/f73c4488-5e98-5895-9bd4-3978678a5a69/scratchpad/overlap.py <files>` must show 0 shared 7-word runs (Bible quotes excepted). Reword until it does.
+
+## Revision conventions (added 2026-11-14)
+
+- **Everything lives on `main`.** No branches and no pull requests. James edits the `.Rmd` files directly in VS Code.
+- **James's notes.** He leaves a note as an HTML comment on its own line (ideally `<!-- NOTE: ... -->`), next to the paragraph it refers to. When he says a chapter's notes are in: pull main, apply every note in that chapter in one pass, remove the note comments, keep his direct edits, commit to main, and report briefly.
+- **Word choice (James, 2026-11-14).** Use "masturbation" as the normal word. "Jerking off" is more vulgar: use it rarely and on purpose, for bluntness or shock. The title keeps it.
+- **"If you're an atheist, play along."** Use it once or twice in the whole book, not in every chapter. It is kept in the Introduction, the final step (Chapter 27) and the blessing (Chapter 32).
+- **Source names.** Creators such as FitXFearless are described in the body ("one coach") and named only in the SOURCES comment and on the attribution page.
+- **Quotes.** A quote that cannot be checked against its source becomes a paraphrase, with a note in SOURCES saying why.
