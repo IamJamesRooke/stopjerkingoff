@@ -6,7 +6,7 @@ Flags raised while drafting. Fix or check these in the editorial pass.
 
 - **James (2026-11-14): the name FitXFearless appears too often in the body and is off-putting.** Keep the credit (in SOURCES comments and the attribution page), but in the text let the story or anecdote carry the point, e.g. "one coach on YouTube" or just the idea itself. The focus is helping the reader, not the source.
 - Check every quote word for word against its source link (each chapter's `<!-- SOURCES -->` comment). The research was read through a summarising tool.
-- Check every Bible verse against the World English Bible text.
+- ~~Check every Bible verse against the World English Bible text.~~ Done 2026-11-14 (see "Revision 2" below).
 
 ## Introduction and Chapter 1
 - The "porn free for 10 years" testimony is about porn, not masturbation.
@@ -24,7 +24,7 @@ Flags raised while drafting. Fix or check these in the editorial pass.
 
 ## Chapters 6–10
 - Chapters 6 and 7 run about 30% over EasyPeasy's length; trim them.
-- Ch 10: Romans 7:15 is only partly quoted.
+- Ch 10: Romans 7:15 is only partly quoted. (The quoted sentence is exact; this is a stylistic call, not an error. Note that WEB editions differ in the verse's *first* sentence, which the book does not quote.)
 - Ch 8: three commenter assumptions ("four marriages", "her" = wife, gender); see SOURCES.
 - Ch 6: check the Screwtape "diminishes pleasure while increasing desire" line reads fairly in context.
 - Ch 10: the FitXFearless relapse reference is based on a video title only; "back at the bottom by the weekend" is illustration.
@@ -32,14 +32,14 @@ Flags raised while drafting. Fix or check these in the editorial pass.
 
 ## Chapters 11–16
 - Lewis fragments are repeated across chapters: "coming to love the prison" (14 and 8), "this harem, once admitted…" (14 and 18), and Fred's "beside myself…" (13 and 19). Dedupe.
-- Ch 12: check the WEB wording of Song of Solomon 2:15 ("plunder the vineyards").
+- ~~Ch 12: check the WEB wording of Song of Solomon 2:15 ("plunder the vineyards").~~ Confirmed: WEB reads "plunder".
 - Ch 13: "I Feel Dirty When I Go Before God…" comes from a commenter who also voiced suicidal thoughts (not reproduced). Decide whether to keep it.
 - Ch 13 ("A week in the life of a ration") and ch 14 ("how the evening goes") use invented "picture this" illustrations. Ch 14's "bird over your head" saying isn't in the research.
 - Quote context to check: Arnold's quote (11), the "relapse on purpose" quote (12), and the FitXFearless auto-captions.
 
 ## Ch 17–22
 
-- WEB verses written from memory; check: Romans 6:21 (17), James 1:8 (18), Matthew 6:33 (19), 1 John 1:9 and Romans 8:1 (20), 1 Corinthians 10:13 (21), Job 31:1 (22).
+- ~~WEB verses written from memory; check: Romans 6:21 (17), James 1:8 (18), Matthew 6:33 (19), 1 John 1:9 and Romans 8:1 (20), 1 Corinthians 10:13 (21), Job 31:1 (22).~~ All verified exact, 2026-11-14.
 - Ch 18 is about 2% over the +20% length cap. The Lewis fragment "they become merely the medium…" assumes "they" = the imagined women; the "I now hate sex…" quote assumes he blames the habit.
 - Ch 19 criticises FitXFearless by name ("literally proven", "get the woman you want"; captions say "enemy" for "energy"). The married-man example is about porn, not masturbation. It points to Chapter 15 for telling a trusted brother: confirm ch 15 gives that advice.
 - Ch 20: the "last time" story is generic; "JESUS DID IT!" paraphrases the man's own words loosely.
@@ -49,7 +49,7 @@ Flags raised while drafting. Fix or check these in the editorial pass.
 ## Ch 23–28
 
 - Length: 23, 24 and 26 are 2–6% over the +20% cap; 25 is about 11% over.
-- WEB verses to check: Matthew 5:45 (23), 2 Timothy 2:22 (24), 2 Timothy 1:7 (25), Psalm 124:7 (26), Galatians 5:1 and Matthew 5:37 (27), Proverbs 24:16 (28), plus Genesis 39:12 and Psalm 127:2 quoted in passing.
+- ~~WEB verses to check (23–28).~~ All verified exact, 2026-11-14.
 - Attributions to confirm: Gilkerson as "one pastor", Appiahkorang as "one Christian writer", Maltz as "a surgeon turned writer".
 - Carried over from EasyPeasy, not evidence: the five-day and three-week figures (26), "some readers get it before finishing", the "survived three weeks" friend anecdote (28), and the claim that men who keep a way back fail more often (25).
 - Ch 28: the "tell your wife or pastor" counsel is unsourced (the writer's own). The crisis-line sentence points to the Appendix, so check the Appendix covers it.
@@ -58,7 +58,7 @@ Flags raised while drafting. Fix or check these in the editorial pass.
 
 ## Ch 29–33 and Attribution
 
-- WEB verses from memory: Galatians 6:1, Luke 22:32 (29); Ecclesiastes 4:9-10, Ephesians 6:4, Micah 7:8 (30); Romans 6:14, James 4:7, Psalm 119:9, Psalm 51:10, Matthew 5:8, 1 Corinthians 6:19-20, Philippians 4:13, Hebrews 4:16, John 8:36 (31); Matthew 6:34, Matthew 10:8, Numbers 6:24-26 (32); Psalm 34:18, Romans 7:17 (33). Chapters 30 and 32 use three verses each.
+- ~~WEB verses from memory (29–33).~~ All verified exact, 2026-11-14.
 - Attributions: "a well-known pastor" (29) is "Pastor J.D." in research (Greear unconfirmed). Challies as "Canadian pastor", Chalmers as "old Scottish preacher", and the Augustine fig-tree details come from general knowledge. Eve and Maria assumed to be women.
 - Quote context: Lewis "least bad of all sins" gloss (30); Dobson's line is about teenagers, and the book disagrees with half of it; Piper's group line used for friends.
 - Not from research: Guillaco and the parody idea (from EasyPeasy), Jack Trimpey's addictive-voice section in the appendix (retold; cut if strict), 988 crisis number (general knowledge).
@@ -83,3 +83,38 @@ Still open:
 - Ch 2: the "since I was 12 ... now I'm 30" quote has an ellipsis from the research log. Read the full comment.
 - Ch 1: is the "carry on as normal until the end" framing right in tone? (James to decide.)
 - The EasyPeasy overlap check (overlap.py) was not re-run; only new sentences were added.
+
+## Revision 2: Scripture check against the World English Bible (2026-11-14)
+
+Every scripture citation in the book was checked against the full WEB text
+(verse-per-line edition from ebible.org, `eng-web_vpl.txt`, dated 12 Nov 2026):
+77 unique references, 100 citations, covering every chapter epigraph, every
+verse quoted in the body, the eleven verses in Chapter 31 and the blessing in
+Chapter 32.
+
+Two misquotes found and corrected:
+
+- **Ch 32 epigraph, Matthew 6:34:** "because tomorrow will be anxious for
+  itself" -> "**for** tomorrow will be anxious for itself".
+- **Ch 5, Psalm 4:8:** "for you, Yahweh alone, make me live in safety" ->
+  "for you **alone, Yahweh,** make me live in safety".
+
+Everything else is word-for-word WEB. The truncations are all honest: where the
+book quotes part of a verse, the quoted part matches exactly.
+
+Still open, and deliberately not changed:
+
+- The book uses straight apostrophes (`don't`); WEB uses typographic ones. This
+  is the book's house style throughout, not a quotation error.
+- **Ch 23, Matthew 5:45** opens mid-verse as `"...he makes his sun to rise"`,
+  where WEB has "For he makes". Dropping "For" after a leading ellipsis is
+  standard, so it was left alone - flagging it only so the choice is on record.
+- Verses quoted in part without an ellipsis (Romans 12:2 in ch 1, Colossians 2:8
+  in ch 4, Romans 7:15 in ch 10, Romans 8:1 in the Introduction and ch 20, and
+  others) are each documented in their chapter's SOURCES comment. Whether to
+  mark the truncations in the text is an editorial call, not a factual one.
+- **WEB editions differ.** Romans 7:15 reads "I don't *know* what I am doing" in
+  one edition and "I don't *understand*" in another; the ch 4 SOURCES comment
+  already notes the same problem in the second half of Colossians 2:8. Nothing
+  the book quotes falls in a varying passage, but the attribution page should
+  name which WEB edition the book follows.

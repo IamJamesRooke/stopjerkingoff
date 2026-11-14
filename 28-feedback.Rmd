@@ -155,5 +155,5 @@ Meanwhile do the ordinary, sensible things. Go to bed at the same time each nigh
 - The "survived three weeks" conversation is the pen-name author's voice, kept generic; it follows the shape of the equivalent anecdote in EasyPeasy and is not a documented event.
 - The advice on telling a wife or pastor is the book's own counsel, not drawn from a source. James 5:16 is paraphrased, not quoted. David and Jesus weeping (e.g. Psalm 6:6; John 11:35) are referred to, not quoted.
 - The crisis-line sentence follows the research note in more-sources.md section 6; it assumes the Appendix (Chapter 33) will list lines, as the outline plans.
-- Scripture (World English Bible): Proverbs 24:16 (first half); 1 John 1:9 (opening words, quoted in full in Chapter 20); Psalm 127:2 (the clause "he gives sleep to his loved ones"; check the wording).
+- Scripture (World English Bible): Proverbs 24:16 (first half); 1 John 1:9 (opening words, quoted in full in Chapter 20); Psalm 127:2 (the clause "he gives sleep to his loved ones"). All verified against the WEB text, 2026-11-14.
 -->

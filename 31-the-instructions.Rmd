@@ -56,5 +56,5 @@ EasyPeasy closes with affirmations. We'll use older words. Pick one or two, lear
 <!-- SOURCES (Chapter 31): no quotations other than Scripture.
 - The ten instructions follow EasyPeasy's list in order, reworded for this book. Instruction 8 swaps the bare decision in EasyPeasy's eighth instruction for the prayer and vow of Chapter 27.
 - "bye-bye, urges" is a nod to one of EasyPeasy's affirmations, not a quotation of it.
-- Scripture (World English Bible), all to be checked against the WEB text: Romans 6:14; James 4:7; Psalm 119:9; Psalm 51:10; Matthew 5:8; 1 Corinthians 6:19-20 (last clause of v. 19 and first clause of v. 20 only); Philippians 4:13; Hebrews 4:16; John 8:36 (the Introduction's verse, repeated on purpose).
+- Scripture (World English Bible), all verified against the WEB text, 2026-11-14: Romans 6:14; James 4:7; Psalm 119:9; Psalm 51:10; Matthew 5:8; 1 Corinthians 6:19-20 (last clause of v. 19 and first clause of v. 20 only); Philippians 4:13; Hebrews 4:16; John 8:36 (the Introduction's verse, repeated on purpose).
 -->

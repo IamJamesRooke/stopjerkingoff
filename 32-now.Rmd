@@ -1,6 +1,6 @@
 # Now
 
-> "Therefore don't be anxious for tomorrow, because tomorrow will be anxious for itself. Each day's own evil is sufficient."
+> "Therefore don't be anxious for tomorrow, for tomorrow will be anxious for itself. Each day's own evil is sufficient."
 >
 > — Matthew 6:34
 
@@ -81,5 +81,5 @@ AnotherHackAuthor
 - "Take up and read; Take up and read." — Augustine, *Confessions*, Book 8, ch. 12, §29, tr. E.B. Pusey (public domain), https://faculty.georgetown.edu/jod/augustine/Pusey/book08. The fig tree, the weeping, the child's voice "from the house next door" and the book lying beside him are told from general knowledge of the passage (§28-29), not from the research extract: check the details against Pusey. "Not yet" refers to the prayer quoted in earlier chapters.
 - No web address is given for this book because the outline says stopjerkingoff.com comes later; add it under "Pass it on" when it exists. "Send it in" assumes the public source repository linked in the book's sidebar.
 - The claim that EasyPeasy's authors "gave it away" rests on its CC BY-SA licence and free distribution at https://easypeasymethod.org/.
-- Scripture (World English Bible): Matthew 6:34; Matthew 10:8 (last sentence); Numbers 6:24-26. All three to be checked against the WEB text.
+- Scripture (World English Bible): Matthew 6:34; Matthew 10:8 (last sentence); Numbers 6:24-26. All three verified against the WEB text, 2026-11-14 (Matthew 6:34 was corrected: "for tomorrow", not "because tomorrow").
 -->
