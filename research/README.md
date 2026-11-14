@@ -13,3 +13,7 @@ Rules: never edit a quote's meaning, never invent a source, and keep long quotes
 ## Round 2 (2026-11-14)
 
 `round2/chapter-map.md` maps new testimonies, sermons and coaches to chapters and lists gaps in the draft; `round2/sources-log.md` holds every quote with its link. Sources: YouTube transcripts and comments (read in Chrome), Christian ministry sites. Reddit was unreachable this round.
+
+## Round 3 (2026-11-14)
+
+Dr. K (HealthyGamerGG) and more Bismark (FitXFearless): 16 + 3 new transcripts in transcripts/, candidate quotes and the chapter-mapped findings in round3/findings.md. Every quote was checked against its saved transcript.
