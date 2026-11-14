@@ -43,7 +43,7 @@ The book is free, honest and useful, so the job isn't "marketing". It's putting 
 - **Day 5:** post the X thread and the Facebook post (3.1, 3.2). Send the next five source emails.
 - **Day 6–7:** record two or three short videos from the scripts in 3.4 (a faceless text-on-screen format is fine). Reply to anyone who writes back.
 
-**What to measure:** visits to stopjerkingoff.com (add a free, privacy-friendly counter such as GoatCounter or Cloudflare Web Analytics if you want numbers), replies from sources, and messages from readers. One email from a man who says it worked is worth more than any number.
+**What to measure:** visits to stopjerkingoff.com (the site now has a GoatCounter visit counter), suggestions from the feedback box on each chapter page, replies from sources, and messages from readers. One email from a man who says it worked is worth more than any number.
 
 ---
 
