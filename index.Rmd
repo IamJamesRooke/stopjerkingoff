@@ -28,6 +28,8 @@ if (knitr::is_html_output(excludes = "epub")) {
 
 This free book will help you stop masturbating. You'll stop right away, you'll stay stopped, and you won't be miserable doing it. There are no cold showers in here, no rubber bands on your wrist, and no ninety-day streak counter to babysit. Nobody is going to shame you, and nobody is going to ask you to grit your teeth.
 
+This book is the sequel to the free book [*The Easy Peasy Way to Quit Porn*](https://easypeasymethod.org/), known as EasyPeasy. You can read this one first, and it will work on its own. But do consider reading that one first, especially if porn is still part of your habit. It is free, it takes a few hours, and this book is built on it.
+
 You don't need to stop, or even cut down, while you read. In fact, please don't try. Carry on exactly as you are until the last page. Trying to quit halfway through only gets in the way.
 
 That probably sounds backwards. Everything you've been told says the opposite: try harder, pray harder, hide the phone, reset the counter. Has any of it worked? If it had, you wouldn't be holding this book.
@@ -52,9 +54,9 @@ If you're reading this for a son, a husband, a brother or a friend, the best thi
 
 ## About this book {-}
 
-This book is a sequel.
+As I said at the top, this book is a sequel.
 
-If you've read the free hackbook [*The Easy Peasy Way to Quit Porn*](https://easypeasymethod.org/), you already know how this works. Maybe you used it to walk away from porn. Well done. You got out of the harem.
+If you've read EasyPeasy, you already know how this works. Maybe you used it to walk away from porn. Well done. You got out of the harem.
 
 But many men find that once the porn is gone, something is still there underneath: the hand, the late-night itch, the shower routine, the reel of memories that plays whenever you're bored or alone. One man finished EasyPeasy and reported back to a recovery forum. The videos had lost their hold on him long ago, he said, and he had blocked them "successfully, but I had/have problem with MO". (MO is forum shorthand for masturbation and orgasm. It comes from PMO: porn, masturbation, orgasm.)
 
