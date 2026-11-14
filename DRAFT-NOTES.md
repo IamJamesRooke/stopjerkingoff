@@ -19,3 +19,11 @@ Flags raised while drafting. Fix or check these in the editorial pass.
 - Ch 4: the tone toward Dobson ("the Big Monster in a good suit").
 - Ch 4: the claim that NoFap began with a thread about a testosterone study (sourced via Wikipedia).
 - Ch 3: one generic first-person line in the author's voice ("I went from daily to nothing in one step").
+
+## Chapters 6–10
+- Chapters 6 and 7 run about 30% over EasyPeasy's length; trim them.
+- Ch 10: Romans 7:15 is only partly quoted.
+- Ch 8: three commenter assumptions ("four marriages", "her" = wife, gender); see SOURCES.
+- Ch 6: check the Screwtape "diminishes pleasure while increasing desire" line reads fairly in context.
+- Ch 10: the FitXFearless relapse reference is based on a video title only; "back at the bottom by the weekend" is illustration.
+- Ch 7: the time sums assume 30 minutes a day.
