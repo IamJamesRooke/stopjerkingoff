@@ -100,7 +100,7 @@ Then you've missed an instruction. Find out which one. Some men understand every
 
 **"I fell. Am I back to zero?"**
 
-There's no counter in this book, so there's no zero to go back to. Your freedom was never a number.
+There's no counter in this book, so there's no zero to go back to. Your freedom was never a number. A man in a recovery group pictured it as a row of hurdles: "you cleanly got over ten and then you kind of stumbled on like the 11th but that doesn't mean that you've fallen over and you have to start again".
 
 But don't shrug it off. Something real happened. You fed the Little Monster and your conscience knows it. So do three things, in this order.
 
@@ -166,5 +166,6 @@ Meanwhile do the ordinary, sensible things. Go to bed at the same time each nigh
 - The "survived three weeks" conversation is the pen-name author's voice, kept generic; it follows the shape of the equivalent anecdote in EasyPeasy and is not a documented event.
 - The advice on telling a wife or pastor is the book's own counsel, not drawn from a source. James 5:16 is paraphrased, not quoted. David and Jesus weeping (e.g. Psalm 6:6; John 11:35) are referred to, not quoted.
 - The crisis-line sentence follows the research note in more-sources.md section 6; it assumes the Appendix (Chapter 33) will list lines, as the outline plans.
+- "you cleanly got over ten and then you kind of stumbled on like the 11th but that doesn't mean that you've fallen over and you have to start again" — a member of a NoFap group (not Dr. K) on HealthyGamerGG, "Porn Addiction Pt. 2: How to Deal with Relapse and Relationships", https://www.youtube.com/watch?v=lUVeUSIlQiI (auto-captions, checked against research/transcripts/healthygamer-lUVeUSIlQiI.md; the speaker's own image: "imagine the journey is like a series of hurdles"; research/round3/findings.md)
 - Scripture (World English Bible): Proverbs 24:16 (first half); 1 John 1:9 (opening words, quoted in full in Chapter 20); Psalm 127:2 (the clause "he gives sleep to his loved ones"). All verified against the WEB text, 2026-11-14.
 -->

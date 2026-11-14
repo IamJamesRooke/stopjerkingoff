@@ -191,3 +191,33 @@ but Revision 2 corrected the verse the other way, from the current ebible.org
 text. The two checks used different WEB editions. The book keeps the ebible.org
 reading until James chooses the edition. Also not applied: the Ch 4 NoFap
 thread still has no URL (it could not be found again).
+
+## Revision 5: round-three research folded in (2026-11-14)
+
+From research/round3/findings.md: Dr. K (the HealthyGamerGG psychiatrist) and
+more of Bismark (FitXFearless). In the body they are "a psychiatrist who treats
+porn addiction" and "one coach"; names and links are in SOURCES.
+
+- **Ch 8:** the "weak man" passage James asked for. Dr. K on numbing ("along
+  with it goes the hope"), a caller's "in like five minutes", the coach's
+  "You're a coward. You're a weak man." and the mirror, then the turn to grace
+  with Romans 8:1.
+- **Why it grips (Ch 5):** "It's about emotional regulation", boredom as the
+  number one cue, the sleep "self-medication", and "you can't give oxytocin to
+  yourself".
+- **Why fighting fails (Ch 1, 10, 20, 21, 28):** desperation fuels it; "the
+  more you fight the more you fail"; shame as 100 points against 20; the guilt
+  of the lost ten years; wait it out and do nothing; the flat spell is
+  temporary; a stumble at the eleventh hurdle is not a restart.
+- **The fair picture (Ch 4, 11, 19, 24):** "a 75 chance that you're fine",
+  granted and answered; the scheduled-use taper named and answered; retention
+  "magic" laughed at by the coach and called unproven but a possible "net
+  positive" by the psychiatrist; "replacement" squared with no substitutes.
+- **Ch 14:** "her pixels" and "just another like on her photo".
+
+Left out on purpose: the coach's prostate and cancer claim; "soft" and "women
+are attracted to strength" (Ch 19 says not to quit to impress women); Dr. K's
+"never think you've beaten it" (it cuts across "you are free"; could go in
+Ch 22 if James wants it); the early-exposure point for parents; "single-player
+game". Most Dr. K quotes are about pornography, and the text says so where it
+matters.
