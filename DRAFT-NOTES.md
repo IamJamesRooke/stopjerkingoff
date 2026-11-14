@@ -43,3 +43,13 @@ Flags raised while drafting. Fix or check these in the editorial pass.
 - Ch 20: the "last time" story is generic; "JESUS DID IT!" paraphrases the man's own words loosely.
 - Ch 21: retention defined as "not spilling it by your own hand", with a note that married men needn't hold back from their wives. The FitXFearless energy quote comes from a video that also claims "our semen is our energy source", which the chapter rejects. "Wet dreams aren't a sin" is stated as conviction.
 - Ch 22: file is 22-just-one-little-peek.Rmd but titled "Just One Little Look". The "I looked up one word" quote comes from a Reddit mirror listing with no permalink.
+
+## Ch 23–28
+
+- Length: 23, 24 and 26 are 2–6% over the +20% cap; 25 is about 11% over.
+- WEB verses to check: Matthew 5:45 (23), 2 Timothy 2:22 (24), 2 Timothy 1:7 (25), Psalm 124:7 (26), Galatians 5:1 and Matthew 5:37 (27), Proverbs 24:16 (28), plus Genesis 39:12 and Psalm 127:2 quoted in passing.
+- Attributions to confirm: Gilkerson as "one pastor", Appiahkorang as "one Christian writer", Maltz as "a surgeon turned writer".
+- Carried over from EasyPeasy, not evidence: the five-day and three-week figures (26), "some readers get it before finishing", the "survived three weeks" friend anecdote (28), and the claim that men who keep a way back fail more often (25).
+- Ch 28: the "tell your wife or pastor" counsel is unsourced (the writer's own). The crisis-line sentence points to the Appendix, so check the Appendix covers it.
+- FitXFearless quotes in 24 and 25 come from auto-captions; the video quoted in 25 also recommends site blockers, which the chapter doesn't. The antique-shopping commenter is assumed to be a man.
+- Ch 27: the prayer is original text. Matthew 5:37 frames the vow as a plain "No".
