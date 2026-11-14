@@ -8,8 +8,8 @@ output:
   bookdown::gitbook:
     config:
       fontsettings:
-        theme: night
-        family: sans
+        theme: white
+        family: serif
         size: 2
       edit: https://github.com/IamJamesRooke/stopjerkingoff/edit/main/%s
 documentclass: book

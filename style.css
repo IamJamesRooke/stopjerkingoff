@@ -68,3 +68,136 @@ pre code {
   position: absolute;
   left: -9999px;
 }
+
+/* ---------- Reading experience ---------- */
+/* Fonts: Literata for reading, Inter for headings and controls (loaded in tools/seo.py). */
+.book.font-family-0 .book-body .page-inner section.normal {
+  font-family: "Literata", Georgia, "Times New Roman", serif;
+}
+.book.font-family-1 .book-body .page-inner section.normal {
+  font-family: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+.book .book-summary,
+.book .book-header,
+.book .book-body .page-inner section.normal h1,
+.book .book-body .page-inner section.normal h2,
+.book .book-body .page-inner section.normal h3,
+.book .book-body .page-inner section.normal h4,
+#sjo-feedback, .downloads {
+  font-family: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+/* A comfortable line length (about 65-70 characters) and generous spacing. */
+.book .book-body .page-wrapper .page-inner {
+  max-width: 700px;
+  padding: 24px 24px 64px;
+}
+.book .book-body .page-wrapper .page-inner section.normal {
+  line-height: 1.75;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  font-kerning: normal;
+}
+.book .book-body .page-wrapper .page-inner section.normal p {
+  margin: 0 0 1.15em;
+}
+.book .book-body .page-wrapper .page-inner section.normal li {
+  margin-bottom: 0.35em;
+}
+
+/* Headings */
+.book .book-body .page-inner section.normal h1 {
+  font-size: 2.1em;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  line-height: 1.2;
+  margin: 1.2em 0 0.7em;
+}
+.book .book-body .page-inner section.normal h2 {
+  font-size: 1.45em;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  line-height: 1.3;
+  margin: 2em 0 0.6em;
+  border-bottom: 0;
+}
+.book .book-body .page-inner section.normal h3 {
+  font-size: 1.15em;
+  font-weight: 700;
+  margin: 1.8em 0 0.5em;
+}
+.book .book-body .page-inner section.normal h1 .header-section-number,
+.book .book-body .page-inner section.normal h2 .header-section-number {
+  opacity: 0.45;
+  margin-right: 0.25em;
+}
+
+/* Testimonies: quote cards with a quiet attribution line. */
+.book .book-body .page-inner section.normal blockquote {
+  margin: 1.8em 0;
+  padding: 1em 1.3em;
+  border-left: 4px solid #2b6cb0;
+  border-radius: 0 8px 8px 0;
+  background: rgba(43, 108, 176, 0.07);
+  font-style: italic;
+  font-size: 1.04em;
+  color: inherit;
+}
+.book .book-body .page-inner section.normal blockquote p {
+  margin: 0 0 0.6em;
+}
+.book .book-body .page-inner section.normal blockquote p:last-child {
+  margin-bottom: 0;
+}
+.book .book-body .page-inner section.normal blockquote p:last-child:not(:first-child) {
+  font-style: normal;
+  font-size: 0.82em;
+  opacity: 0.7;
+}
+
+/* Light theme (default): warm paper, soft black text. */
+.book:not(.color-theme-1):not(.color-theme-2) .book-body,
+.book:not(.color-theme-1):not(.color-theme-2) .book-body .page-wrapper {
+  background: #fdfcf8;
+}
+.book:not(.color-theme-1):not(.color-theme-2) .book-body .page-inner section.normal {
+  color: #24262b;
+}
+.book:not(.color-theme-1):not(.color-theme-2) .book-body .page-inner section.normal a {
+  color: #1d5fa8;
+}
+.book:not(.color-theme-1):not(.color-theme-2) .book-summary {
+  background: #f5f3ee;
+}
+
+/* Night theme: calmer contrast. */
+.book.color-theme-2 .book-body .page-inner section.normal {
+  color: #d5d9e2;
+}
+.book.color-theme-2 .book-body .page-inner section.normal blockquote {
+  border-left-color: #6cb8f0;
+  background: rgba(108, 184, 240, 0.08);
+}
+
+/* Sepia theme: matching accent. */
+.book.color-theme-1 .book-body .page-inner section.normal blockquote {
+  border-left-color: #a0703a;
+  background: rgba(160, 112, 58, 0.08);
+}
+
+/* Phones */
+@media (max-width: 600px) {
+  .book .book-body .page-wrapper .page-inner {
+    padding: 16px 18px 48px;
+  }
+  .book .book-body .page-wrapper .page-inner section.normal {
+    line-height: 1.7;
+  }
+  .book .book-body .page-inner section.normal h1 {
+    font-size: 1.8em;
+  }
+  .book .book-body .page-inner section.normal blockquote {
+    margin: 1.4em 0;
+    padding: 0.85em 1em;
+  }
+}
