@@ -9,3 +9,7 @@ One file per chapter (`ch01.md`, `ch02.md` …), each with:
 - **Ideas**: from forums, FitXFearless, semen retention and manosphere material, marked "reported" rather than "proven"
 
 Rules: never edit a quote's meaning, never invent a source, and keep long quotes out of the book unless the author has given permission.
+
+## Round 2 (2026-11-14)
+
+`round2/chapter-map.md` maps new testimonies, sermons and coaches to chapters and lists gaps in the draft; `round2/sources-log.md` holds every quote with its link. Sources: YouTube transcripts and comments (read in Chrome), Christian ministry sites. Reddit was unreachable this round.
