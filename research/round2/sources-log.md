@@ -155,3 +155,59 @@ Under "How I Defeated Lust After 19 Years Of Struggling" (Nick Jones, vKgjvAP-zr
 - [3.5K] "I was washing dishes listening to rock to avoid listening to worship music because the shame." ... "I felt so far away from God." -> ch08 (shame before God), ch15
 - [3.1K] "Every time I think I've escaped this sin, it comes back at me like a bite of a snake." -> ch10
 - Many comments of the form "Day 1 of quitting. [date]. Like this comment so I always get reminders! ... I'm done with this habit, once and for all." (1.2K and 761 likes; also "I'm quitting today 8 march 2026 i will be back 30 days later") -> **ch10: the public-vow, streak and reminder culture, in men's own words.** Use as a pattern, not one quote.
+
+## NoFap forum (forum.nofap.com), read in James's Chrome, public threads. Reddit itself is blocked by the Chrome extension even when logged in.
+Anonymise as "a man on the NoFap forum". First posts only. Usernames not recorded here on purpose.
+
+### Success Stories (most-viewed)
+- "What I've learned about urges after 90 days", 4 Jan 2018, https://forum.nofap.com/index.php?threads/what-ive-learned-about-urges-after-90-days.149239/  **(very strong; ch08, ch21, ch28)**
+  - "For those of you waiting for that magic day when the urges go away, stop holding your breath. They don't go away. At all." ... "from about 30 days on, you start to get used to the urges! ... I'm even now kind of enjoying them!" -> ch21, ch28 ("When does the urge die?") — NB EasyPeasy says the craving dies; this man says arousal stays but stops being a problem. Reconcile: arousal is natural; the *need* goes.
+  - "having urges and wood is just a natural part of having testosterone ... It's part of being a man and they are natural." -> ch21
+  - **"you fap your urges away, believing that you're fapping your stress away. Other than very temporarily, you're not. Guess what you are actually fapping away? Your manhood. Your desire to meet your obligations and carry out your responsibilities. Your mojo to talk to girls. Your self-esteem. Your feeling of masculinity. Your time. Your relationships. Your happiness."** -> ch08 (drive) — the single best secular line for James's conviction; also ch05 (stress)
+  - "the urges are so strong because most of us really never allowed the urges to build before. We always fapped the urges away." -> ch21
+  - "the so-called non-fap 'superpower benefits' are just qualities we would have if we weren't pmo addicts" -> ch19 (false incentives) — EasyPeasy's exact point
+  - Before: streaks "anywhere from 2 days to 2 weeks" -> ch10
+- "1 YEAR OF HARD MODE ABSTINENCE TODAY! 365 DAYS REPORT", 1 May 2016, https://forum.nofap.com/index.php?threads/1-year-of-hard-mode-abstinence-today-365-days-report-yeeeeaaaahh.65779/
+  - "I can calmly look people in the eyes and not feel guilty or feel some shame." -> ch08 (eye contact)
+  - "I am not just the guy that no one sees/notices" -> ch08
+  - "After the depression from the rebooting starts to go away (to me it was somewhere at day 130-160), you start to feel more joyous" -> ch21 (one man's long flatline; contrast EasyPeasy's days-not-months)
+  - Honest negatives: wet dreams "can ... knock you out of balance"; "I expected my lost hair to regrow, but instead it receded even more, so this expectation is broken." -> ch19 (false incentives), ch21 (wet dreams)
+  - Also claims deeper voice, bigger penis etc. -> ch19, examples of overclaiming
+- "A Message to the World (8 months clean)", 11 Feb 2019, 27-year-old in aviation, https://forum.nofap.com/index.php?threads/a-message-to-the-world-8-months-clean.215415/
+  - The daily loop, vividly: "we wake up everyday and feel drained, lazy, crawling to the bathroom JUST to get our day started" ... afterwards "you feel the guilt. You feel the shame. You feel drained ... Was it even worth it? I'm hopeless." -> ch03, ch08
+  - The Little Monster's voice: "You falsely convince yourself it's fine. You can stop tomorrow, but not today. Today you feel you deserve it." -> ch05 (reward), ch16 (timing), ch12
+  - "I would say it is our fault and not our fault at the same time" -> ch02 (the trap), ch20 (no shame)
+- "90 Days of Hard Mode Done - Honest Review", 20 May 2018, https://forum.nofap.com/index.php?threads/90-days-of-hard-mode-done-honest-review.173640/
+  - "I used to M twice a day. I was feeling that if my energy level was high, I'll be dangerous. So I constantly depleted my energy" -> ch08
+  - "Before NoFap, every single moment I felt empty." ... "Sense of Meaninglessness and Emptiness Vanished Completely" -> ch06 (the void is made by the habit)
+  - "My drive for life was almost at zero. PMO was the only thing which kept me living. Now I have found purpose" -> ch08
+  - "For 7 years I could not feel any sparkle of love. After Nofap ... I fall in love." -> ch08, ch17
+  - "Start small ... 7 days challenge" -> contrast for ch10/ch16 (EasyPeasy: decide once)
+- "Over 100 days of NoFap", 28 Jul 2014, age 25, https://forum.nofap.com/index.php?threads/over-100-days-of-nofap.18284/
+  - "I started fapping at age 5 (yup, that means kindergarten), started watching porn at 13." -> ch02 (masturbation came first)
+  - Gave up porn but kept MO for Lent first: "I noticed I couldn't MO without thinking about P" -> ch11 (cutting down / "only without porn")
+  - "lying in bed with a boner but not allowing myself relief seemed like torture" -> ch05 (sleep), ch21
+  - Then: "I wasn't longing for PMO anymore but I was longing for actual sex with a real person." / "I stopped looking at girl's boobs/butts/legs and started noticing much more interesting things about them. Smiles, gestures" / "I don't feel like a creep with a secret perverted second sex life anymore!" -> ch08, ch14, ch15
+
+### Religion and Recovery (small section: 57 threads)
+- "The Bible and Masturbation", 16 Dec 2016, https://forum.nofap.com/index.php?threads/the-bible-and-masturbation.83936/
+  - The lie in a Christian's words: "If I'm saving myself for marriage but I have sexual desire, isn't it better to just stimulate myself then fall to temptation." Then he read Matthew 5:29. -> ch04, ch13 ("I'll stop when I'm married")
+  - Reply: "Does it explicitly say anything more about masturbation? ... Nuh uh. A bit disappointing, right?" -> ch04 (meet the objection head-on, as Novotny does)
+- "Catholics in Recovery", Jun 2026, https://forum.nofap.com/index.php?threads/catholics-in-recovery.403658/
+  - "The only real tragedy is that we do not trust that God loves us ... the lie that God doesn't really want us to be happy." -> ch04 (the Big Monster at its root), ch06, ch20
+  - "In the past my longest runs of sobriety always coincided with devotion to the rosary." (prayer habit; Catholic) -> ch31 (Christian practice in general)
+  - A married man: he and his wife now go back to the shrine where he once begged for healing, "for thanksgiving" -> ch32
+- "Any Christians here?" (Dec 2024): only greetings — Protestants, a Pentecostal, a Mexican believer. Shows Christians are present but quiet on the main forum.
+
+### Relapse / loneliness / current threads
+- "Overwhelmed by intense loneliness ... I ended up breaking a 280-day streak", 10 Nov 2026, https://forum.nofap.com/index.php?threads/overwhelmed-by-intense-loneliness-and-the-feeling-that-nothing-was-going-right-i-ended-up-breaking-a-280-day-streak-%E2%80%94-nine-months-of-effort.410861/
+  - "I had set myself a goal of staying away from PMO for 5 years, and I genuinely believed I could achieve it. But after 280 days ... I ended up relapsing because I was overwhelmed by extreme loneliness and the feeling that nothing in my life was going right." -> **ch10 (a nine-month white-knuckle streak still ends), ch05 (loneliness), ch28 ("Am I back to zero?")**
+  - "I had even lost interest in porn" — yet relapsed: the Big Monster (belief that MO comforts) outlived the porn habit -> sequel premise
+  - Reply: "Sr is an amplifier. Whatever you go through it will be more intense." -> ch21
+- "I lost my why", 5 Nov 2026, 76 days, https://forum.nofap.com/index.php?threads/i-lost-my-why.410703/
+  - "I realize I do not need a why anymore. Retaining is the new normal. I get urges. But wave them away like annoying flies." -> ch19 (no need for incentives), ch21, ch26 ("it clicks")
+  - "the many hours spent on adult site is coming from insecurity, loneliness, desire, lust and taboo" ... porn "sooths all these problems but steals your courage and make you spineless coward" -> ch05, ch08
+  - "I think sexual thoughts are normal. It is how you handle them though." -> ch14, ch21
+- "Loneliness", Oct 2026: "I always act out when low energy tired and burnt out." -> ch05 (HALT-style triggers); also "not many friends, single and too isolated" -> ch15 (isolation)
+- NOTE: "Ten guys at a bar. How many are hooked: one, four or seven?" (13 Nov 2026) is another author drafting a book, using AI-read posts plus 58 studies. Interesting, and he calls the urge "the Parasite" (an EasyPeasy-style device). **Don't use his numbers** (unverified, AI-assisted); a reply from a published author urges him to check sources honestly — same rule this book follows.
+- Old relapse-section threads (2014–2016) did not load (moved or members-only). The retention section is mostly Hindu, Ayurveda and "aura" material; one useful sceptic thread: "Semen Retention is bullshit, emissions are inevitable" (14 Mar 2019): "Worshipping semen as the source of magical powers is BS. Semen Retention does not grant you godhood." / reply: "nocturnal emissions are okay ... Body releases if it have to release." -> ch19, ch21 (wet dreams are not a failure)

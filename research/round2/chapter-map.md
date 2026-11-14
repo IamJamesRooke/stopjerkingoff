@@ -6,7 +6,8 @@ Collected 2026-11-14 for the first revision. Research only: no chapter was edite
 
 - **YouTube (13 videos and 2 comment sections)**, read through the transcript panel in James's Chrome. Most are auto-captions, so they have no punctuation and the occasional misheard word. Words were copied as captioned; I added only punctuation. Check each quote against the video before printing.
 - **Web pages** (Desiring God, Christianity Today, Catholic Answers, Catholic Gentleman, MEL Magazine, talkingsober, Christian Post, singjupost sermon transcripts), read through a fetch tool that summarises. Treat these quotes as "verify before print".
-- **Reddit could not be reached.** It is blocked from the cloud machine *and* refused by the Chrome extension ("not allowed due to safety restrictions"), and the mirrors failed. As a stand-in I took **YouTube comments** under two big testimony videos. They are the same kind of voice (anonymous men, and some women, in their own words) and many are strong. If Reddit quotes matter, James could paste threads from r/NoFapChristians or r/pornfree, or I can try again another time.
+- **NoFap's own forum (forum.nofap.com)**, read in James's Chrome: the most-viewed Success Stories, Religion and Recovery, and this week's relapse and loneliness threads. See the NoFap forum section of the log.
+- **Reddit could not be reached.** It is blocked from the cloud machine *and* refused by the Chrome extension ("not allowed due to safety restrictions"), and the mirrors failed. As a stand-in I took **YouTube comments** under two big testimony videos. They are the same kind of voice (anonymous men, and some women, in their own words) and many are strong. Logging into Reddit doesn't help: the extension blocks reddit.com itself. If Reddit quotes matter, James can paste threads.
 
 ## The new voices, so no single source dominates
 
@@ -26,6 +27,7 @@ Collected 2026-11-14 for the first revision. Research only: no chapter was edite
 | Matt Fradd; C.S. Lewis's letter to Keith Masson | Catholic writer; primary Lewis source | 8, 14 |
 | *Every Man's Battle* (Arterburn & Stoeker) | Classic men's book | 11, 13 |
 | ~40 YouTube commenters | Anonymous testimonies | everywhere |
+| ~12 NoFap forum members | Success stories, relapse reports, Christians and Catholics in recovery | 5, 8, 10, 19, 21, 28 |
 
 ## Chapter by chapter: the strongest new material
 
@@ -57,6 +59,15 @@ Only the best one to three items per chapter. More are in the log.
 - **26. Revelation.** Both kinds are on record: instant ("He purged me of those sins in one day", Desiring God) and gradual ("this wasn't something that happened overnight", Jotivation). Captain Sinbad's first ten days: "like Dorothy stepping out of Kansas".
 - **28. Feedback / relapse.** "You are not your past you are how you respond to your past." "You need to stop 'keeping scores' as a way to gauge how delivered you are" (commenter). Ezekiel's prodigal: "But God, I still smell like yesterday. Just come."
 - **30. Non-users.** Parents: "be the first presenter of truth to your children" (Ezekiel), and boys of 14 searching YouTube for help. Wives: Novotny's drive point and Weiss on starving a wife sexually. Women: several women commenters struggle with this and found "no one to talk to".
+
+## Best additions from the NoFap forum
+
+- **Ch 8 (drive):** "Guess what you are actually fapping away? Your manhood. Your desire to meet your obligations and carry out your responsibilities ... Your self-esteem. Your feeling of masculinity. Your time. Your relationships. Your happiness." (90-day success story, 2018.) This is the strongest secular line found for James's conviction.
+- **Ch 10 and 28:** a man who set a five-year goal relapsed at day 280 "because I was overwhelmed by extreme loneliness", even though he had "lost interest in porn". A streak held by willpower still breaks, and the belief that MO comforts outlives the porn habit.
+- **Ch 21 and 28:** "They don't go away. At all ... from about 30 days on, you start to get used to the urges." A 76-day man: "I get urges. But wave them away like annoying flies." Another: "I do not need a why anymore."
+- **Ch 19:** "the so-called non-fap 'superpower benefits' are just qualities we would have if we weren't pmo addicts", and an honest one-year report: his hair "receded even more, so this expectation is broken".
+- **Ch 4 and 13:** a Christian's version of the lie: "If I'm saving myself for marriage ... isn't it better to just stimulate myself". A Catholic's diagnosis of the root lie: "that God doesn't really want us to be happy".
+- **Ch 3 and 5:** the daily loop from an 8-month story ("You can stop tomorrow, but not today. Today you feel you deserve it."), and "I always act out when low energy tired and burnt out."
 
 ## Gaps in the current draft
 
