@@ -353,3 +353,7 @@ pre code {
   border-color: var(--sjo-line);
   background: var(--sjo-bg);
 }
+.book.color-theme-2 .book-body .page-inner section.normal a.dl-btn {
+  color: var(--sjo-accent-ink) !important;
+  text-decoration: none;
+}
