@@ -11,7 +11,7 @@
       .then(function (d) {
         var n = d.count_unique || d.count;
         if (!n) return;
-        el.textContent = n + " visitors conquering lust";
+        el.textContent = n + (String(n) === "1" ? " visitor" : " visitors") + " conquering lust";
         el.hidden = false;
       })
       .catch(function () {});

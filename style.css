@@ -260,3 +260,96 @@ pre code {
     display: inline-flex;
   }
 }
+
+/* ---------- Dark mode (default) ----------
+   Readability research applied: no pure black or pure white (cuts glare and
+   "halation" around letters), soft off-white text at about 13:1 contrast,
+   a near-neutral charcoal background like Material Design's #121212 family,
+   and one desaturated warm accent instead of saturated blue. */
+.book.color-theme-2 {
+  --sjo-bg: #17181b;
+  --sjo-panel: #1e2024;
+  --sjo-line: #2c2f35;
+  --sjo-text: #dedad3;
+  --sjo-muted: #a19d96;
+  --sjo-head: #f3efe8;
+  --sjo-accent: #e0b25c;
+  --sjo-accent-ink: #1a1408;
+}
+.book.color-theme-2 .book-body,
+.book.color-theme-2 .book-body .page-wrapper,
+.book.color-theme-2 .book-header {
+  background: var(--sjo-bg) !important;
+}
+.book.color-theme-2 .book-header {
+  border-bottom: 1px solid var(--sjo-line);
+}
+.book.color-theme-2 .book-header .btn,
+.book.color-theme-2 .book-header .sjo-share a,
+.book.color-theme-2 .book-header .sjo-share button,
+.book.color-theme-2 .book-body .navigation {
+  color: var(--sjo-muted) !important;
+}
+.book.color-theme-2 .book-body .page-wrapper .page-inner section.normal {
+  color: var(--sjo-text) !important;
+  background: transparent !important;
+  font-weight: 400;
+  letter-spacing: 0.005em;
+}
+.book.color-theme-2 .book-body .page-inner section.normal h1,
+.book.color-theme-2 .book-body .page-inner section.normal h2,
+.book.color-theme-2 .book-body .page-inner section.normal h3,
+.book.color-theme-2 .book-body .page-inner section.normal h4 {
+  color: var(--sjo-head) !important;
+}
+.book.color-theme-2 .book-body .page-inner section.normal a {
+  color: var(--sjo-accent) !important;
+  text-decoration-color: rgba(224, 178, 92, 0.4);
+}
+.book.color-theme-2 .book-body .page-inner section.normal blockquote {
+  border-left-color: var(--sjo-accent) !important;
+  background: rgba(255, 255, 255, 0.035) !important;
+  color: var(--sjo-text) !important;
+}
+.book.color-theme-2 .book-body .page-inner section.normal hr {
+  background: var(--sjo-line);
+}
+/* Sidebar */
+.book.color-theme-2 .book-summary {
+  background: var(--sjo-panel) !important;
+  border-right: 1px solid var(--sjo-line);
+}
+.book.color-theme-2 .book-summary ul.summary li a,
+.book.color-theme-2 .book-summary ul.summary li span {
+  color: var(--sjo-muted) !important;
+}
+.book.color-theme-2 .book-summary ul.summary li a:hover,
+.book.color-theme-2 .book-summary ul.summary li.active > a {
+  color: var(--sjo-accent) !important;
+  background: transparent !important;
+}
+.book.color-theme-2 .book-summary ul.summary li.site-logo a {
+  color: var(--sjo-head) !important;
+}
+.book.color-theme-2 .book-summary ul.summary li.divider {
+  background: var(--sjo-line) !important;
+}
+.book.color-theme-2 .book-summary ul.summary li.visit-count {
+  color: var(--sjo-accent);
+  opacity: 0.9;
+}
+/* Buttons and boxes */
+.book.color-theme-2 .downloads,
+.book.color-theme-2 #sjo-feedback {
+  border-color: var(--sjo-line);
+  background: var(--sjo-panel);
+}
+.book.color-theme-2 .downloads .dl-btn,
+.book.color-theme-2 #sjo-feedback button {
+  background: var(--sjo-accent) !important;
+  color: var(--sjo-accent-ink) !important;
+}
+.book.color-theme-2 #sjo-feedback textarea {
+  border-color: var(--sjo-line);
+  background: var(--sjo-bg);
+}

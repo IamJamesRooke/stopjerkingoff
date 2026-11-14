@@ -8,7 +8,7 @@ output:
   bookdown::gitbook:
     config:
       fontsettings:
-        theme: white
+        theme: night
         family: serif
         size: 2
 documentclass: book
