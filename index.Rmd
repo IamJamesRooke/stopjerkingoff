@@ -1,0 +1,22 @@
+---
+title: "The Easy Peasy Way to Stop Jerking Off"
+author: "AnotherHackAuthor"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output:
+  bookdown::gitbook:
+    config:
+      fontsettings:
+        theme: night
+        family: sans
+        size: 2
+      edit: https://github.com/IamJamesRooke/stopjerkingoff/edit/main/%s
+documentclass: book
+description: "Stop compulsive masturbation easily, without willpower or a sense of sacrifice. A free, open hackbook in the style of EasyPeasy."
+---
+
+# Introduction {-}
+
+<!-- Chapter 1 (Introduction) is drafted here once the outline is approved. -->
+
+*Draft in progress.*
