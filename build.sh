@@ -8,5 +8,8 @@ Rscript -e "bookdown::render_book('index.Rmd', 'bookdown::epub_book')"
 Rscript -e "bookdown::render_book('index.Rmd', 'bookdown::pdf_book')" || echo "PDF build failed; website and EPUB still published"
 # The first page is named introduction.html, so give the site root a homepage.
 [ -f _book/index.html ] || cp _book/introduction.html _book/index.html
+cp -r images _book/
+cp images/favicon.ico _book/favicon.ico
+python3 tools/seo.py _book
 echo "stopjerkingoff.com" > _book/CNAME
 touch _book/.nojekyll

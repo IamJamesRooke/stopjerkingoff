@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Stop Jerking Off logo: splash droplets with a no symbol">
+  <defs>
+    <path id="drop" d="M0,-70 C18,-40 46,-8 46,24 A46,46 0 0 1 -46,24 C-46,-8 -18,-40 0,-70 Z"/>
+    <linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7fd0ff"/>
+      <stop offset="1" stop-color="#1e88e5"/>
+    </linearGradient>
+  </defs>
+  <circle cx="256" cy="256" r="226" fill="#ffffff"/>
+  <g fill="url(#water)" stroke="#0d5fa8" stroke-width="6">
+    <use href="#drop" transform="translate(205 285) rotate(-28) scale(1.55)"/>
+    <use href="#drop" transform="translate(330 205) rotate(-28) scale(0.95)"/>
+    <use href="#drop" transform="translate(345 330) rotate(-28) scale(0.8)"/>
+  </g>
+  <g fill="#ffffff" opacity="0.75">
+    <ellipse cx="178" cy="282" rx="11" ry="24" transform="rotate(-28 178 282)"/>
+    <ellipse cx="315" cy="200" rx="7" ry="14" transform="rotate(-28 315 200)"/>
+  </g>
+  <circle cx="256" cy="256" r="210" fill="none" stroke="#e0242b" stroke-width="44"/>
+  <line x1="108" y1="108" x2="404" y2="404" stroke="#e0242b" stroke-width="44" stroke-linecap="butt"/>
+</svg>

@@ -28,3 +28,10 @@ pre code {
   text-decoration: none;
   font-weight: bold;
 }
+.site-logo a {
+  font-weight: bold;
+}
+.site-logo img {
+  vertical-align: middle;
+  margin: -4px 6px 0 0;
+}

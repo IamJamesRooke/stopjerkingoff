@@ -13,7 +13,8 @@ output:
         size: 2
       edit: https://github.com/IamJamesRooke/stopjerkingoff/edit/main/%s
 documentclass: book
-description: "Stop jerking off easily, without willpower or a sense of sacrifice. A free, open hackbook in the style of EasyPeasy."
+description: "Stop masturbating easily, without willpower or shame. A free book in the style of EasyPeasy that takes the habit apart so you can walk away for good."
+url: "https://stopjerkingoff.com/"
 ---
 
 # Introduction {-}

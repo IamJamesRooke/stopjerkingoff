@@ -4,7 +4,7 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">Stop Jerking Off</a></li>
+        <li class="site-logo"><a href="./"><img src="images/logo.svg" alt="" width="28" height="28"> Stop Jerking Off</a></li>
         <li><a href="stopjerkingoff.pdf"><i class="fa fa-file-pdf-o"></i> Download the PDF</a></li>
         <li><a href="stopjerkingoff.epub"><i class="fa fa-book"></i> Download the EPUB (e-readers)</a></li>
         <li class="divider"></li>
