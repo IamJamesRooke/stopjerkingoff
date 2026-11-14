@@ -23,7 +23,7 @@ pre code {
   margin: 0.3em 0.4em 0 0;
   padding: 0.35em 0.9em;
   border-radius: 4px;
-  background: #2b6cb0;
+  background: #2b6cb0 !important;
   color: #fff !important;
   text-decoration: none;
   font-weight: bold;
