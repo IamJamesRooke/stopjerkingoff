@@ -18,6 +18,12 @@ description: "Stop jerking off easily, without willpower or a sense of sacrifice
 
 # Introduction {-}
 
+```{r downloads, echo=FALSE, results='asis'}
+if (knitr::is_html_output(excludes = "epub")) {
+  cat('<div class="downloads"><strong>Prefer to read offline?</strong> <a class="dl-btn" href="stopjerkingoff.pdf">Download the PDF</a> <a class="dl-btn" href="stopjerkingoff.epub">Download the EPUB</a></div>')
+}
+```
+
 <span style="font-size:xx-large;">DO NOT SKIP CHAPTERS</span>
 
 This free book will help you stop masturbating. You'll stop right away, you'll stay stopped, and you won't be miserable doing it. There are no cold showers in here, no rubber bands on your wrist, and no ninety-day streak counter to babysit. Nobody is going to shame you, and nobody is going to ask you to grit your teeth.
