@@ -1,5 +1,6 @@
 ---
-title: "The Easy Peasy Way to Stop Jerking Off"
+title: "Stop Jerking Off"
+subtitle: "The Easy Peasy Guide to Quitting Masturbation"
 author: "AnotherHackAuthor"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site

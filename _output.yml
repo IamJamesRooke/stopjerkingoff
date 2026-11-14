@@ -3,7 +3,7 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">The Easy Peasy Way to Stop Jerking Off</a></li>
+        <li><a href="./">Stop Jerking Off</a></li>
       after: |
         <li><a href="https://github.com/IamJamesRooke/stopjerkingoff">Source repository</a></li>
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
