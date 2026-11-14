@@ -172,3 +172,22 @@ Still open, for James or a later pass:
 8. **First-person anecdotes** in the author's voice are unchanged. James should
    replace or confirm any that are not his own.
 9. **Attribution page:** still needs a contact route and the WEB edition named.
+
+## Revision 4: quote-verification fixes (2026-11-14)
+
+Applied from research/quote-verification.md in one batch:
+
+- The Piper passages are exact quotes again (Introduction, Ch 4, 5, 8, 25, 29,
+  30), with the Desiring God links in SOURCES and the Appendix. This closes
+  open item 1 of Revision 3. Items 2 and 3 are closed by the same report.
+- Ch 21: the QuitByHealing line now matches the captions. Ch 30: the partner's
+  comment has the right video link. Ch 14: the talkingsober link is added. The
+  broken "Strategies" link is corrected everywhere.
+- Ch 1: a NOTE comment flags the two r/TrueChristian lines, the only quotes in
+  the book that could not be verified. James to check or cut.
+
+Not applied: **Psalm 4:8 (Ch 5).** The report asks for "for you, Yahweh alone",
+but Revision 2 corrected the verse the other way, from the current ebible.org
+text. The two checks used different WEB editions. The book keeps the ebible.org
+reading until James chooses the edition. Also not applied: the Ch 4 NoFap
+thread still has no URL (it could not be found again).
