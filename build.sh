@@ -10,6 +10,7 @@ Rscript -e "bookdown::render_book('index.Rmd', 'bookdown::pdf_book')" || echo "P
 [ -f _book/index.html ] || cp _book/introduction.html _book/index.html
 cp -r images _book/
 cp images/favicon.ico _book/favicon.ico
+cp site/feedback.js _book/feedback.js
 python3 tools/seo.py _book
 echo "stopjerkingoff.com" > _book/CNAME
 touch _book/.nojekyll

@@ -49,6 +49,10 @@ def head_tags(url, title, is_home, noindex):
     ]
     if noindex:
         tags.append('<meta name="robots" content="noindex" />')
+    else:
+        tags.append('<script src="feedback.js" defer></script>')
+    # Cookie-free visit counter (GoatCounter); no personal data is collected.
+    tags.append('<script data-goatcounter="https://stopjerkingoff.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>')
     if is_home:
         data = {
             "@context": "https://schema.org", "@type": "Book",

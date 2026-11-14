@@ -35,3 +35,36 @@ pre code {
   vertical-align: middle;
   margin: -4px 6px 0 0;
 }
+#sjo-feedback {
+  margin: 3em 0 1em;
+  padding: 1em 1.2em;
+  border: 1px solid #888;
+  border-radius: 6px;
+}
+#sjo-feedback h3 {
+  margin-top: 0;
+}
+#sjo-feedback textarea {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0.6em;
+  font: inherit;
+  border-radius: 4px;
+  border: 1px solid #888;
+  background: transparent;
+  color: inherit;
+}
+#sjo-feedback button {
+  margin-top: 0.6em;
+  padding: 0.4em 1em;
+  border: 0;
+  border-radius: 4px;
+  background: #2b6cb0 !important;
+  color: #fff !important;
+  font-weight: bold;
+  cursor: pointer;
+}
+#sjo-feedback .sjo-hp {
+  position: absolute;
+  left: -9999px;
+}
