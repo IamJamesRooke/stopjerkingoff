@@ -34,3 +34,12 @@ Flags raised while drafting. Fix or check these in the editorial pass.
 - Ch 13: "I Feel Dirty When I Go Before God…" comes from a commenter who also voiced suicidal thoughts (not reproduced). Decide whether to keep it.
 - Ch 13 ("A week in the life of a ration") and ch 14 ("how the evening goes") use invented "picture this" illustrations. Ch 14's "bird over your head" saying isn't in the research.
 - Quote context to check: Arnold's quote (11), the "relapse on purpose" quote (12), and the FitXFearless auto-captions.
+
+## Ch 17–22
+
+- WEB verses written from memory; check: Romans 6:21 (17), James 1:8 (18), Matthew 6:33 (19), 1 John 1:9 and Romans 8:1 (20), 1 Corinthians 10:13 (21), Job 31:1 (22).
+- Ch 18 is about 2% over the +20% length cap. The Lewis fragment "they become merely the medium…" assumes "they" = the imagined women; the "I now hate sex…" quote assumes he blames the habit.
+- Ch 19 criticises FitXFearless by name ("literally proven", "get the woman you want"; captions say "enemy" for "energy"). The married-man example is about porn, not masturbation. It points to Chapter 15 for telling a trusted brother: confirm ch 15 gives that advice.
+- Ch 20: the "last time" story is generic; "JESUS DID IT!" paraphrases the man's own words loosely.
+- Ch 21: retention defined as "not spilling it by your own hand", with a note that married men needn't hold back from their wives. The FitXFearless energy quote comes from a video that also claims "our semen is our energy source", which the chapter rejects. "Wet dreams aren't a sin" is stated as conviction.
+- Ch 22: file is 22-just-one-little-peek.Rmd but titled "Just One Little Look". The "I looked up one word" quote comes from a Reddit mirror listing with no permalink.
