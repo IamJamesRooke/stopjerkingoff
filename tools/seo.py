@@ -11,10 +11,10 @@ from pathlib import Path
 
 SITE = "https://stopjerkingoff.com/"
 TITLE = "Stop Jerking Off"
-FULL_TITLE = "Stop Jerking Off: The Easy Peasy Guide to Quitting Masturbation"
-DESCRIPTION = ("Stop masturbating easily, without willpower or shame. A free book in the "
-               "style of EasyPeasy that takes the habit apart so you can walk away for good.")
-IMAGE = SITE + "images/og-image.png"
+FULL_TITLE = "Stop Jerking Off: The Easy Peasy Guide to Quitting Masturbation and Conquering Lust"
+DESCRIPTION = ("Stop masturbating easily and conquer your lust, without willpower or shame. "
+               "A free book in the style of EasyPeasy that helps you walk away for good.")
+IMAGE = SITE + "images/og-image.png?v=2"
 AUTHOR = "AnotherHackAuthor"
 
 book = Path(sys.argv[1] if len(sys.argv) > 1 else "_book")
@@ -54,13 +54,14 @@ def head_tags(url, title, is_home, noindex):
         tags.append('<meta name="robots" content="noindex" />')
     else:
         tags.append('<script src="feedback.js" defer></script>')
+        tags.append('<script src="counter.js" defer></script>')
     # Cookie-free visit counter (GoatCounter); no personal data is collected.
     tags.append('<script data-goatcounter="https://stopjerkingoff.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>')
     if is_home:
         data = {
             "@context": "https://schema.org", "@type": "Book",
             "name": TITLE,
-            "alternativeHeadline": "The Easy Peasy Guide to Quitting Masturbation",
+            "alternativeHeadline": "The Easy Peasy Guide to Quitting Masturbation and Conquering Lust",
             "description": DESCRIPTION, "url": SITE, "image": IMAGE,
             "author": {"@type": "Person", "name": AUTHOR},
             "inLanguage": "en", "isAccessibleForFree": True,

@@ -1,4 +1,4 @@
-# Outline: Stop Jerking Off: The Easy Peasy Guide to Quitting Masturbation
+# Outline: Stop Jerking Off: The Easy Peasy Guide to Quitting Masturbation and Conquering Lust
 
 By AnotherHackAuthor. This follows EasyPeasy chapter by chapter: same order, same job for each chapter, same voice, with fresh text adapted to jerking off. Each entry lists the chapter's job, the key moves, a verse (World English Bible), and what to research before drafting.
 

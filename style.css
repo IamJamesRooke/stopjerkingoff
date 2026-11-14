@@ -205,3 +205,8 @@ pre code {
     padding: 0.85em 1em;
   }
 }
+.book .book-summary ul.summary li.visit-count {
+  padding: 2px 15px 10px 49px;
+  font-size: 0.85em;
+  opacity: 0.75;
+}

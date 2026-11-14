@@ -95,7 +95,7 @@ Platform note: Instagram, TikTok and YouTube Shorts can down-rank posts that say
 >
 > A lot of us quit porn and thought we'd won. But the habit underneath (the late nights, the shower, the memories) didn't go anywhere. For Christian men it comes with a weight of shame and broken promises to God.
 >
-> There's a free book called *Stop Jerking Off: The Easy Peasy Guide to Quitting Masturbation*. It follows the method of EasyPeasy, the free book that's helped huge numbers of men quit porn, and applies it to masturbation and lust. It calls it sin honestly, and then it pairs that with grace instead of grit. No streaks, no willpower, no shaming.
+> There's a free book called *Stop Jerking Off: The Easy Peasy Guide to Quitting Masturbation and Conquering Lust*. It follows the method of EasyPeasy, the free book that's helped huge numbers of men quit porn, and applies it to masturbation and lust. It calls it sin honestly, and then it pairs that with grace instead of grit. No streaks, no willpower, no shaming.
 >
 > It's completely free to read or download: https://stopjerkingoff.com
 >
@@ -172,7 +172,7 @@ A 10–15 minute narrated "the first chapter" video or the full audiobook (plann
 > Brothers, sharing a free resource for anyone fighting the battle with lust. It's a book on quitting masturbation, built on Scripture (Matt 5:28, Rom 6:14) and grace rather than grit, written in the style of EasyPeasy. Free online or as PDF/EPUB, no signup: stopjerkingoff.com. Could be worth reading together, or just quietly on your own.
 
 **For your pastor or a group leader:**
-> Pastor, I wanted to pass on a free book that could help the men in our church: *Stop Jerking Off: The Easy Peasy Guide to Quitting Masturbation* (stopjerkingoff.com). It calls the habit sin honestly and leans hard on grace, without the shame spiral. Chapter 30 is written for pastors, parents and wives on how to help. I'd value your opinion on it.
+> Pastor, I wanted to pass on a free book that could help the men in our church: *Stop Jerking Off: The Easy Peasy Guide to Quitting Masturbation and Conquering Lust* (stopjerkingoff.com). It calls the habit sin honestly and leans hard on grace, without the shame spiral. Chapter 30 is written for pastors, parents and wives on how to help. I'd value your opinion on it.
 
 (These are written so you can send them as a reader. You don't have to say you wrote it.)
 
@@ -202,7 +202,7 @@ A 10–15 minute narrated "the first chapter" video or the full audiobook (plann
 >
 > Hi mods,
 >
-> I've written a free book, *Stop Jerking Off: The Easy Peasy Guide to Quitting Masturbation* (stopjerkingoff.com). It's a sequel to EasyPeasy that applies the same method to masturbation and lust. It's free to read and download, has no signup, ads, course or donation ask, and is released under CC BY-SA 4.0, the same licence as EasyPeasy.
+> I've written a free book, *Stop Jerking Off: The Easy Peasy Guide to Quitting Masturbation and Conquering Lust* (stopjerkingoff.com). It's a sequel to EasyPeasy that applies the same method to masturbation and lust. It's free to read and download, has no signup, ads, course or donation ask, and is released under CC BY-SA 4.0, the same licence as EasyPeasy.
 >
 > Would you be OK with me making one post about it here? I'm happy to follow any format you prefer, or to skip posting if it doesn't fit the sub.
 >
@@ -277,7 +277,7 @@ Short, respectful, and asks for nothing they have to do. Send from `[book email]
 >
 > Hi [name],
 >
-> I wanted to let you know that [your video "TITLE" / your article "TITLE"] is quoted briefly in a free book I've written, *Stop Jerking Off: The Easy Peasy Guide to Quitting Masturbation*. [One sentence on how it's used, e.g. "Your advice on noticing an urge and doing nothing with it shaped the chapter on the first weeks."]
+> I wanted to let you know that [your video "TITLE" / your article "TITLE"] is quoted briefly in a free book I've written, *Stop Jerking Off: The Easy Peasy Guide to Quitting Masturbation and Conquering Lust*. [One sentence on how it's used, e.g. "Your advice on noticing an urge and doing nothing with it shaped the chapter on the first weeks."]
 >
 > The book is completely free (no ads, signup or sales), released under CC BY-SA, and you're credited by name on the Attribution page and in the Further Reading list: https://stopjerkingoff.com/attribution.html. It doesn't claim you endorse it.
 >
@@ -382,7 +382,7 @@ Pitch as AnotherHackAuthor (audio-only shows suit a pen name). Verify each show 
 >
 > Hi [name],
 >
-> I'm the author (writing as AnotherHackAuthor) of *Stop Jerking Off: The Easy Peasy Guide to Quitting Masturbation*, a free book for men who've tried to stop and keep failing. It's a sequel to EasyPeasy, the free book many men have used to quit porn, and applies the same approach to masturbation and lust on a Christian foundation.
+> I'm the author (writing as AnotherHackAuthor) of *Stop Jerking Off: The Easy Peasy Guide to Quitting Masturbation and Conquering Lust*, a free book for men who've tried to stop and keep failing. It's a sequel to EasyPeasy, the free book many men have used to quit porn, and applies the same approach to masturbation and lust on a Christian foundation.
 >
 > What makes it different:
 > - It calls the habit sin plainly, and then leans on grace (Rom 8:1, 6:14) rather than shame or white-knuckle willpower.

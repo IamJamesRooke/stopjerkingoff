@@ -1,6 +1,6 @@
 ---
 title: "Stop Jerking Off"
-subtitle: "The Easy Peasy Guide to Quitting Masturbation"
+subtitle: "The Easy Peasy Guide to Quitting Masturbation and Conquering Lust"
 author: "AnotherHackAuthor"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -12,7 +12,7 @@ output:
         family: serif
         size: 2
 documentclass: book
-description: "Stop masturbating easily, without willpower or shame. A free book in the style of EasyPeasy that takes the habit apart so you can walk away for good."
+description: "Stop masturbating easily and conquer your lust, without willpower or shame. A free book in the style of EasyPeasy that helps you walk away for good."
 url: "https://stopjerkingoff.com/"
 ---
 
@@ -26,7 +26,7 @@ if (knitr::is_html_output(excludes = "epub")) {
 
 <span style="font-size:xx-large;">DO NOT SKIP CHAPTERS</span>
 
-This free book will help you stop masturbating. You'll stop right away, you'll stay stopped, and you won't be miserable doing it. There are no cold showers in here, no rubber bands on your wrist, and no ninety-day streak counter to babysit. Nobody is going to shame you, and nobody is going to ask you to grit your teeth.
+This free book will help you stop masturbating and conquer your lust. You'll stop right away, you'll stay stopped, and you won't be miserable doing it. There are no cold showers in here, no rubber bands on your wrist, and no ninety-day streak counter to babysit. Nobody is going to shame you, and nobody is going to ask you to grit your teeth.
 
 This book is the sequel to the free book [*The Easy Peasy Way to Quit Porn*](https://easypeasymethod.org/), known as EasyPeasy. You can read this one first, and it will work on its own. But do consider reading that one first, especially if porn is still part of your habit. It is free, it takes a few hours, and this book is built on it.
 
