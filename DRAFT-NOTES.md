@@ -53,3 +53,14 @@ Flags raised while drafting. Fix or check these in the editorial pass.
 - Ch 28: the "tell your wife or pastor" counsel is unsourced (the writer's own). The crisis-line sentence points to the Appendix, so check the Appendix covers it.
 - FitXFearless quotes in 24 and 25 come from auto-captions; the video quoted in 25 also recommends site blockers, which the chapter doesn't. The antique-shopping commenter is assumed to be a man.
 - Ch 27: the prayer is original text. Matthew 5:37 frames the vow as a plain "No".
+
+## Ch 29–33 and Attribution
+
+- WEB verses from memory: Galatians 6:1, Luke 22:32 (29); Ecclesiastes 4:9-10, Ephesians 6:4, Micah 7:8 (30); Romans 6:14, James 4:7, Psalm 119:9, Psalm 51:10, Matthew 5:8, 1 Corinthians 6:19-20, Philippians 4:13, Hebrews 4:16, John 8:36 (31); Matthew 6:34, Matthew 10:8, Numbers 6:24-26 (32); Psalm 34:18, Romans 7:17 (33). Chapters 30 and 32 use three verses each.
+- Attributions: "a well-known pastor" (29) is "Pastor J.D." in research (Greear unconfirmed). Challies as "Canadian pastor", Chalmers as "old Scottish preacher", and the Augustine fig-tree details come from general knowledge. Eve and Maria assumed to be women.
+- Quote context: Lewis "least bad of all sins" gloss (30); Dobson's line is about teenagers, and the book disagrees with half of it; Piper's group line used for friends.
+- Not from research: Guillaco and the parody idea (from EasyPeasy), Jack Trimpey's addictive-voice section in the appendix (retold; cut if strict), 988 crisis number (general knowledge).
+- Ch 30's "between eleven and fourteen" age claim is unsourced: soften or source it.
+- Reading-list descriptions (33) written from summaries; Wendy Wood title from an interview; Piper and Gilkerson links unverified.
+- Attribution page offers corrections on request but has no contact route yet. Ch 32 gives no web address for the book yet.
+- Ch 31 is 3 words over the cap.
