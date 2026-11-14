@@ -118,3 +118,57 @@ Still open, and deliberately not changed:
   already notes the same problem in the second half of Colossians 2:8. Nothing
   the book quotes falls in a varying passage, but the attribution page should
   name which WEB edition the book follows.
+
+## Revision 3: the whole book, with the round-two research (2026-11-14)
+
+Chapters 3 to 33 and the attribution page were revised the same way as the
+Introduction, Chapter 1 and Chapter 2. Chapter 9 (the empty page) is untouched.
+The conventions are in STYLE.md under "Revision conventions".
+
+What changed across the book:
+
+- **Names out of the body.** Coaches and channels (FitXFearless and the others)
+  are "one coach", "one pastor" and so on in the text. The names are in each
+  chapter's SOURCES comment, in the Appendix reading list and on the
+  attribution page.
+- **Word choice.** "Masturbation" is the normal word. "Jerking off" stays in the
+  title, the Chapter 9 joke and three deliberate places (Introduction, Ch 3,
+  Ch 23). MO and PMO are explained where they first appear.
+- **"Play along"** is now only in the Introduction and the Chapter 32 blessing.
+- **Quotes that could not be checked became paraphrases**, each with a SOURCES
+  note saying so: every John Piper quote (Ch 4, 5, 8, 25, 29, 30), because
+  desiringgod.org and gospeltranslations.org cannot be reached from the cloud
+  machine. Two Gospel Coalition quotes (Rogers and Tarwater) were removed
+  because the article was not found, and Reddit quotes that came from a mirror
+  listing were replaced with verified ones.
+- **Repeated quotes were cut to one home each**, with a short callback where
+  another chapter needs the idea.
+- **New material from round two:** the drive argument and the "death grip"
+  passage (Ch 8); the critics' case stated fairly and answered (Ch 4);
+  emotional triggers (Ch 5); EasyPeasy readers (Ch 6); streak culture (Ch 10);
+  "gentle retraining" as cutting down (Ch 11); Groeschel's stories (Ch 14, 25);
+  secrecy (Ch 15); rewards and punishments (Ch 19); repentance and the prodigal
+  (Ch 20, 27); "do nothing" with an urge, and the flatline (Ch 21); long-timers
+  (Ch 23); gradual and instant freedom (Ch 26); abuse and trauma, and "how long
+  until my body works?" (Ch 28); wives, parents and women (Ch 30); an abuse
+  section and new entries in the reading list (Appendix).
+
+Still open, for James or a later pass:
+
+1. **Check the paraphrased Piper passages** against his articles from a machine
+   that can reach them, and restore the exact quotes if wanted.
+2. **Quotes taken from YouTube auto-captions and comments** (Ezekiel, Novotny,
+   Nick Jones's commenters and others) should be checked against the videos.
+   Each is marked in its SOURCES comment.
+3. **Quotes read through a fetch tool** (NPR and Grubbs in Ch 4, Ashley Willis
+   in Ch 30) are marked "verify wording".
+4. **Phone numbers in the Appendix** (988 and RAINN, 1-800-656-4673) are from
+   general knowledge. Confirm before publishing.
+5. **The wives' voices in Ch 30 are about pornography**, and the text says so.
+   No wife was found writing about masturbation alone.
+6. **The EasyPeasy overlap check was not re-run** after this revision.
+7. **Chapter lengths were not trimmed.** Several chapters grew; Ch 8, 28 and 30
+   are the longest.
+8. **First-person anecdotes** in the author's voice are unchanged. James should
+   replace or confirm any that are not his own.
+9. **Attribution page:** still needs a contact route and the WEB edition named.
