@@ -76,6 +76,27 @@ def head_tags(url, title, is_home, noindex):
         tags.append('<script type="application/ld+json">' + json.dumps(data) + '</script>')
     return "\n".join(tags) + "\n"
 
+
+# Map each page to its chapter file so the toolbar's Edit button works.
+# bookdown leaves "%s" unfilled in this merged build, so fill it here.
+EDIT_BASE = "https://github.com/IamJamesRooke/stopjerkingoff/edit/main/"
+def pandoc_id(text):
+    m = re.search(r"\{[^}]*#([\w.-]+)[^}]*\}", text)
+    if m:
+        return m.group(1)
+    text = re.sub(r"\{[^}]*\}", "", text).strip().lower()
+    text = re.sub(r"[^\w\s.-]", "", text)
+    text = re.sub(r"\s+", "-", text)
+    return re.sub(r"^[^a-z]+", "", text)
+SOURCES = {}
+for rmd in sorted(Path(".").glob("*.Rmd")):
+    for line in rmd.read_text(encoding="utf-8").splitlines():
+        if line.startswith("# "):
+            SOURCES[pandoc_id(line[2:])] = rmd.name
+            break
+SOURCES["index"] = "index.Rmd"
+EDIT_PLACEHOLDER = EDIT_BASE + "%s"
+
 listed = []
 for p in pages:
     name = p.name
@@ -95,6 +116,8 @@ for p in pages:
     if m:
         s = s[:m.start()] + f"<title>{html.escape(title)}</title>" + s[m.end():]
     s = STRIP.sub("", s)
+    src = SOURCES.get(name[:-5])
+    s = s.replace(EDIT_PLACEHOLDER, EDIT_BASE + src if src else "https://github.com/IamJamesRooke/stopjerkingoff")
     if name == "introduction.html":
         url = SITE  # canonical points at the homepage copy
     s = s.replace("</head>", head_tags(url, title, is_home, noindex) + "</head>", 1)
