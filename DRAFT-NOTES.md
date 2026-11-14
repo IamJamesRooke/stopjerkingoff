@@ -27,3 +27,10 @@ Flags raised while drafting. Fix or check these in the editorial pass.
 - Ch 6: check the Screwtape "diminishes pleasure while increasing desire" line reads fairly in context.
 - Ch 10: the FitXFearless relapse reference is based on a video title only; "back at the bottom by the weekend" is illustration.
 - Ch 7: the time sums assume 30 minutes a day.
+
+## Chapters 11–16
+- Lewis fragments are repeated across chapters: "coming to love the prison" (14 and 8), "this harem, once admitted…" (14 and 18), and Fred's "beside myself…" (13 and 19). Dedupe.
+- Ch 12: check the WEB wording of Song of Solomon 2:15 ("plunder the vineyards").
+- Ch 13: "I Feel Dirty When I Go Before God…" comes from a commenter who also voiced suicidal thoughts (not reproduced). Decide whether to keep it.
+- Ch 13 ("A week in the life of a ration") and ch 14 ("how the evening goes") use invented "picture this" illustrations. Ch 14's "bird over your head" saying isn't in the research.
+- Quote context to check: Arnold's quote (11), the "relapse on purpose" quote (12), and the FitXFearless auto-captions.
