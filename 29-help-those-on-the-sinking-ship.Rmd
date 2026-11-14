@@ -36,7 +36,7 @@ So don't shout. Take away the fear.
 
 Tell him what it's like on shore. Tell him how good it is to wake up with a clear head and a clean conscience. Tell him you sleep. Tell him you can look a woman in the face and have nothing to hide from her, and that you can pray without first clearing your throat. Tell him the shadow has gone and you don't miss it.
 
-Tell him one more thing, because he's sure of the opposite: "You are not alone in the battle." John Piper wrote that to men in exactly his position. The man on the ship thinks he's the only one in his congregation. He's wrong, and it helps to hear so from a man he respects.
+Tell him one more thing, because he's sure of the opposite: he is not alone in this. The man on the ship thinks he's the only one in his congregation. He's wrong, and it helps to hear so from a man he respects. A nineteen-year-old sent his own story to a Christian website for that reason and no other: "I wrote in hopes that someone will read this letter and know that they're not standing alone." A pastor, answering the question on camera, explained why somebody has to go first: "if we don't talk about it in the church no one gets help or encouragement or truth or grace or forgiveness".
 
 Best of all, get him to read this book.
 
@@ -76,13 +76,15 @@ Let's take the kinder line. The man on the ship isn't doing it because he wants 
 
 Don't envy him and don't despise him. Feel sorry for him, and then do something about it.
 
-The night Peter was about to fall on his face, Jesus told him what to do afterwards: "You, when once you have turned again, establish your brothers." (If you're an atheist, play along. It's still the best use anyone has found for a rescued man.)
+The night Peter was about to fall on his face, Jesus told him what to do afterwards: "You, when once you have turned again, establish your brothers." (Believer or not, it's still the best use anyone has found for a rescued man.)
 
 You've turned again. Now go back for your brothers.
 
 <!-- SOURCES (Chapter 29): every quote below is from the research files; check each against its page before publishing.
-- "You are not alone in the battle." — John Piper, "Missions and Masturbation", https://en.gospeltranslations.org/wiki/Missions_and_Masturbation
-- "We shouldn't beat people up because of their sin." — sermon/podcast page credited to "Pastor J.D.", https://jdgreear.com/podcasts/is-masturbation-a-sin (probably J.D. Greear; the page doesn't confirm the surname, so the book says "a well-known pastor")
+- Removed as a quotation: "You are not alone in the battle." (John Piper, "Missions and Masturbation"); the wording could not be checked, so the body now says it in its own words.
+- "I wrote in hopes that someone will read this letter and know that they're not standing alone." — male, 19, "My Constant Companion", ChristianAnswers.net, https://christiananswers.net/love/story-m-mast1.html
+- "if we don't talk about it in the church no one gets help or encouragement or truth or grace or forgiveness" — Pastor Mike Novotny, Time of Grace, "What Does God and the Bible Say About Masturbation?", https://www.youtube.com/watch?v=hcra9n8aMyg (auto-captions; research/round2/sources-log.md)
+- "We shouldn't beat people up because of their sin." — sermon/podcast page credited to "Pastor J.D.", https://jdgreear.com/podcasts/is-masturbation-a-sin (the page says only "Pastor J.D.", but it is on J.D. Greear's own site, so the attribution is safe; the line continues "But we shouldn't indulge their sin either.")
 - No statistics are given for men leaving the habit. "Forums full of them" refers to r/NoFap and similar (research/nofap-movement.md section 2.1); no figure is quoted.
 - The father, youth leader, husband and mission-trip examples are illustrations written for this book, standing in for EasyPeasy's travel-ban and adolescent passages. They are not testimonies.
 - Scripture (World English Bible): Galatians 6:1; Luke 22:32 (second sentence).
