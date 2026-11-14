@@ -162,6 +162,7 @@ pre code {
 }
 .book:not(.color-theme-1):not(.color-theme-2) .book-body .page-inner section.normal {
   color: #24262b;
+  background: transparent;
 }
 .book:not(.color-theme-1):not(.color-theme-2) .book-body .page-inner section.normal a {
   color: #1d5fa8;
