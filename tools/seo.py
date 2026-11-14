@@ -55,6 +55,7 @@ def head_tags(url, title, is_home, noindex):
     else:
         tags.append('<script src="feedback.js" defer></script>')
         tags.append('<script src="counter.js" defer></script>')
+        tags.append('<script src="share.js" defer></script>')
     # Cookie-free visit counter (GoatCounter); no personal data is collected.
     tags.append('<script data-goatcounter="https://stopjerkingoff.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>')
     if is_home:
