@@ -3,6 +3,8 @@
 Flags raised while drafting. Fix or check these in the editorial pass.
 
 ## Everywhere
+
+- **James (2026-11-14): the name FitXFearless appears too often in the body and is off-putting.** Keep the credit (in SOURCES comments and the attribution page), but in the text let the story or anecdote carry the point, e.g. "one coach on YouTube" or just the idea itself. The focus is helping the reader, not the source.
 - Check every quote word for word against its source link (each chapter's `<!-- SOURCES -->` comment). The research was read through a summarising tool.
 - Check every Bible verse against the World English Bible text.
 
