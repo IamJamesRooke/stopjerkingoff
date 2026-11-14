@@ -12,11 +12,237 @@ output:
         size: 2
       edit: https://github.com/IamJamesRooke/stopjerkingoff/edit/main/%s
 documentclass: book
-description: "Stop compulsive masturbation easily, without willpower or a sense of sacrifice. A free, open hackbook in the style of EasyPeasy."
+description: "Stop jerking off easily, without willpower or a sense of sacrifice. A free, open hackbook in the style of EasyPeasy."
 ---
 
 # Introduction {-}
 
-<!-- Chapter 1 (Introduction) is drafted here once the outline is approved. -->
+<span style="font-size:xx-large;">DO NOT SKIP CHAPTERS</span>
 
-*Draft in progress.*
+This free book will help you stop masturbating. You'll stop right away, you'll stay stopped, and you won't be miserable doing it. There are no cold showers in here, no rubber bands on your wrist, and no ninety-day streak counter to babysit. Nobody is going to shame you, and nobody is going to ask you to grit your teeth.
+
+You don't need to stop, or even cut down, while you read. In fact, please don't try. Carry on exactly as you are until the last page. Trying to quit halfway through only gets in the way.
+
+That probably sounds backwards. Everything you've been told says the opposite: try harder, pray harder, hide the phone, reset the counter. Has any of it worked? If it had, you wouldn't be holding this book.
+
+Ask yourself honestly:
+
+- Have you quit porn but still masturbate to memories, fantasies or whatever crosses your feed?
+- Do you do it more often than you meant to, or at times you swore you wouldn't?
+- Have you made promises to yourself, or to God, that you broke within days?
+- Do you reach for it automatically: in bed, in the shower, when you're bored, stressed, lonely or can't sleep?
+- Do you feel flat, guilty or disgusted with yourself afterwards, and then do it again anyway?
+- Do you keep it secret, and would you be ashamed if the people you respect knew how often?
+- Do your thoughts drift to it at work, in church, or while talking to a woman?
+- Has it cost you energy, focus, sleep, motivation, or closeness with your wife or girlfriend?
+- Have you ever counted days, reached a streak you were proud of, and lost it in five minutes?
+
+If you said yes to even one of these, keep reading. Reading is all you have to do for now.
+
+You are in good company, by the way. Pastors who write honestly about this take it for granted that most single men do it, and plenty of married men could raise a hand too. The difference between you and most of them is that you've decided to do something about it.
+
+If you're reading this for a son, a husband, a brother or a friend, the best thing you can do is get him to read it. If he won't, read it yourself. Once you see how the trap works, you'll be far better at helping him out of it, and at keeping the next boy from walking in.
+
+## About this book {-}
+
+This book is a sequel.
+
+If you've read [*EasyPeasy*](https://easypeasymethod.org/) (the free hackbook *The Easy Peasy Way to Quit Porn*), you already know how this works. Maybe you used it to walk away from porn. Well done. You got out of the harem.
+
+But many men find that once the porn is gone, something is still there underneath: the hand, the late-night itch, the shower routine, the reel of memories that plays whenever you're bored or alone. One man finished EasyPeasy and reported back to a recovery forum. The videos had lost their hold on him long ago, he said, and he had blocked them "successfully, but I had/have problem with MO".
+
+He is the man this book was written for.
+
+For plenty of men the hand was never porn's sidekick in the first place. It came first. One man, who now speaks to rooms full of men about this, was at it years before he saw a single video: "Before I ever watched porn ... I was engaging in that act." Porn arrived later and moved into a house that was already built.
+
+And that leftover habit is not harmless. It is the back door. One man who had quit porn twice put it like this:
+
+> "Masturbation led to my demise both times and drastically impeded recovery since it seems to be a gateway to porn relapse."
+>
+> — a man on a porn-recovery site
+
+So this is the next level. You quit porn. Now you're going to get masturbation, and the lust that drives it, out of your life for good.
+
+Let's be honest about where this book comes from. We didn't invent anything. We took EasyPeasy's format, chapter by chapter, and applied it to jerking off. EasyPeasy was itself a rewrite of Allen Carr's *Easy Way to Stop Smoking*. The credit for the method belongs to Carr and to the EasyPeasy authors. Any mistakes in applying it here are ours.
+
+If you haven't read EasyPeasy and porn is still part of your habit, read it too ([easypeasymethod.org](https://easypeasymethod.org/)). This book stands on its own, but the two belong together. Like EasyPeasy, it is free and open, and anyone may copy it and pass it on.
+
+It works on one condition:
+
+**DO NOT SKIP CHAPTERS.**
+
+Think of it as a staircase. Each chapter is a step, and each step only holds your weight because the one beneath it is there. Jump ahead to the "how to stop" chapter and you'll land on nothing.
+
+Take the steps in order and I can promise you this method is:
+
+- **Immediate.** You don't taper off. You stop.
+- **Just as good** for the man who does it three times a day as for the man who does it twice a week.
+- **Free of misery.** No weeks of climbing the walls.
+- **Free of willpower.** No gritted teeth.
+- **Free of gimmicks.** No apps, no supplements, no locked boxes.
+- **Clean.** You won't swap this habit for overeating, scrolling, drinking or porn.
+- **Permanent.**
+
+You probably don't believe a word of that. Neither did the men below, once. Some of them are still in the trap, and some have walked out. Here they are, in their own words.
+
+First, the men still inside:
+
+> "It's been like 13 years now when I first started to masturbate and I really hate it!"
+>
+> — a man on a sobriety forum
+
+> "I hate it, but I continually feed it."
+>
+> — a commenter on a Christian recovery blog
+
+> "For eleven years, I would spend my days in a mental prison cell, one I didn't realize I was in."
+>
+> — a man who shared his story on a Christian recovery blog
+
+And the men who got out:
+
+> "I believe now that in the 43rd year of my life, I have finally overcome this evil habit."
+>
+> — another commenter on the same blog
+
+> "I feel like coming out from a fog that has been around me all this time."
+>
+> — a NoFap veteran on Reddit
+
+> "It's been over 5 years since God broke me free from the chains of pornography and masturbation addiction. I will never go back."
+>
+> — a commenter under a testimony video, five years free
+
+> "I did notice a benefit of increased focus… I felt so much more like myself."
+>
+> — a YouTuber who went a year without it
+
+Notice what the free men talk about. They don't describe a lifelong fight. They describe chains breaking, a fog lifting, and feeling like themselves again. That is where this book is taking you.
+
+## A word on faith {-}
+
+This book is written from a Christian point of view, and it says plainly what the Bible says: lust is sin. Jesus didn't set the bar at the act. He set it at the look: "everyone who gazes at a woman to lust after her has committed adultery with her already in his heart" (Matthew 5:28).
+
+Now ask yourself how often you've done this with a completely empty head. No face, no memory, no scene. For almost every man the answer is never. That is why this book calls the habit what it is.
+
+But this book isn't a sermon, and you don't have to be a Christian to use it. If you're an atheist, play along. When the book mentions God or sin, read it as your conscience talking, or call it mindful self-talk if that helps. The trap works the same way on a believer and an unbeliever, and so does the way out.
+
+And if you are a Christian, hear this early: the word "sin" is in this book to tell the truth, not to beat you with it. The same Bible that sets the bar at the look also says, "There is therefore now no condemnation to those who are in Christ Jesus" (Romans 8:1). This book holds on to both, and so should you. Guilt has never set a man free. You'll see why soon.
+
+## A word to men {-}
+
+This book is written to men, about mastering lust. (If you're a woman, you are not the only one either. Women write about this same struggle, and about having no one to talk to. The trap is built the same way. Change the pronouns and read on.)
+
+There is a bigger theme under the habit, and it will run through every chapter: self-control. **A man who can't control his lust can't be trusted.** His wife can't fully trust him, his employer can't, and worst of all he can't trust himself, because he has broken his own word too many times.
+
+One coach, who talks to young men about this every week, says it bluntly: "the more lust controls you the easier you are to control". He's right. A man led around by an itch is an easy man to lead around.
+
+The good news is that the reverse is also true. The man who is free of this walks differently. You're about to find out.
+
+## Warning {-}
+
+If you're hoping this book will frighten you into quitting, you'll be disappointed. There are no horror stories here about your hormones, your hairline, or what a weak and disgusting creature you are. Scare tactics have never freed anyone. If fear worked, you'd have stopped years ago.
+
+Let's be straight about the medicine, too. Doctors will tell you that masturbation doesn't damage your body, and we're not going to argue with them. **This book isn't about your body.** It's about your mind, your drive, your word and your soul.
+
+So when this book says the habit is a sin and a thief, robbing you of drive, focus and self-respect, it says so as conviction and as the testimony of men who've lived it. You are the best witness. You know how you feel ten minutes afterwards. As that same coach puts it: "You finish and then you sit there wondering why you feel tired, unmotivated, and empty." No study is needed for that. You were there.
+
+Nor will this book sell you superpowers. Some corners of the internet promise that quitting will turn you into a magnet for women with a deeper voice and glowing skin. We promise none of it. What you get is better than a superpower: you get yourself back.
+
+The usual methods ask you to use willpower. Count the days. Cut down to once a week. Hide the phone, take the cold shower, and white-knuckle through the urges. Some websites will bury you in claims. Some churches will bury you in guilt. None of it removes the reason you do it. Forbid a thing and you make it precious, and the moment you weaken, you're back.
+
+This method is different. Some of what you're about to read will be hard to believe. By the last chapter you'll believe all of it, and you'll wonder how you ever swallowed the opposite.
+
+Here's the first thing that will sound strange: **you never chose this habit.**
+
+Yes, you choose each time. You lock the door, you pick up the phone, you start. But did you ever sit down as a boy and decide, "I'm going to do this every night for the next fifteen years, whether I want to or not"? Of course you didn't. Curiosity and puberty started it. Then the habit quietly took the wheel, and for most of us porn later poured fuel on it.
+
+When did you decide that you couldn't sleep without it? That you couldn't get through a stressful day without it? That an evening alone would be unbearable without it? You never decided any of that. It crept up on you.
+
+You've walked into a trap, and it is one of the most subtle traps there is, because the bait is your own body. No man caught in it wants his son caught in it too. That tells you everything. Every man in the trap wishes he'd never started, and yet every man in the trap carries on. Nobody forces him. So why does he do it?
+
+Imagine a button on your desk. Press it, and tomorrow you wake up as a man who simply never picked up this habit. No urges, no memories of it, no pull. Would you press it? Every man reading this would. Now ask why a man would press a button to be rid of something he supposedly enjoys.
+
+This book is that button. It just takes a few hours to press.
+
+## The only thing stopping you is fear {-}
+
+What keeps you in the trap isn't desire. It's **FEAR**: the fear that stopping means a long, grey stretch of frustration, craving and restless nights. That fear is built on beliefs you picked up along the way:
+
+- "A man needs a release."
+- "It's healthy. Doctors say so."
+- "I'll go crazy if I don't."
+- "It's the only thing that helps me sleep."
+- "Everyone does it, and anyone who says he doesn't is lying."
+
+Live by those beliefs for long enough and they produce exactly the life they predict. You feel you're owed it every night. You treat a day without it as a day of suffering. You wait for the next private moment. You start looking at women as material and stop seeing them as people.
+
+So the fear grows. You fear the nights alone. You fear the hard days at work without your little reward. You fear you'll never relax, focus or feel confident without it. Most of all, you fear you'll never be completely free: that this is just how men are, and that even if you stop, you'll spend the rest of your life fighting it. If you've already tried and failed many times, as most of us have, you won't just fear that. You'll be sure of it. One man wrote that he had failed so often he sometimes wondered whether God's grace for him had run out.
+
+It hasn't. And you are not a hopeless case. You've only been using a method that can't work.
+
+If you feel nervous right now, as though this isn't the right time, notice something: the habit doesn't relieve that nervousness. It causes it. And when exactly were you planning to get out? Tomorrow? Once you're married? After this stressful season? Stop kidding yourself. That day never arrives on its own.
+
+## The good news {-}
+
+Here is the chicken-and-egg problem. Every man in this trap wants out, and every man can find it easy to get out. Only fear stops him. The greatest gain of all is losing that fear, but you won't lose it until the book is finished. It may even grow as you read. Some men put the book down halfway because they sense that if they keep going, they'll actually have to stop. Don't be one of them.
+
+You didn't choose to fall into the trap. But you won't climb out by accident either. At some point you'll have to decide. You may be desperate to stop, or you may dread the very thought. Either way: **YOU HAVE NOTHING TO LOSE.**
+
+If you reach the last page and decide you'd rather carry on, nothing stops you. Nobody will ask you to cut down while you read. There's no shock treatment. There is only good news.
+
+Remember the prodigal son? He was sitting in a pigsty, starving, when "he came to himself" (Luke 15:17). He got up and walked home, and he found a father running down the road to meet him. That is how it feels to walk out of this trap. A few chapters from now, that will be you.
+
+## Finally… {-}
+
+Every man can find it easy to stop masturbating, and that includes you. Your only job is to keep reading, chapter by chapter, with your mind open. Every piece that clicks makes the next one easier. Even if some of it goes over your head, do what the book says and it will still work. You won't spend your life feeling deprived or pining for it. Before long you'll struggle to remember why you ever thought you needed it.
+
+There are only two ways to fail with this method:
+
+1. **Not following the instructions.** Some men find this book annoyingly bossy about certain things, such as not cutting down and not using substitutes. Yes, a few men have quit with those tricks. They managed it despite them. A man can also cross town walking backwards, but nobody recommends it. And the instructions only work in order: one chapter after another, no skipping.
+2. **Not understanding.** Don't take anything on trust. Question what you're told, including by this book, and question what you've always assumed about sex, manhood and "needs". If you think it's just a habit, ask why you can drop other habits in a week but not this one. If you think you enjoy it, ask why you can take or leave things you enjoy far more. Why do you *have* to have this? Why does a small panic rise at the words "never again"?
+
+You're about to do what every man in the trap secretly longs to do. You're going to be free, and you have every reason to look forward to it.
+
+**DO NOT SKIP CHAPTERS.**
+
+### A few terms {-}
+
+- **MO:** masturbation and orgasm, the habit this book is about. You'll also see "the habit" and "jerking off". They all mean the same thing.
+- **The Little Monster:** the restless itch that says "go on, just do it". It's small, and it dies quickly once you stop feeding it.
+- **The Big Monster:** the lies in your head that make the itch seem important. This book kills the Big Monster. The Little Monster then starves.
+
+### How to read this book {-}
+
+Don't read it like a novel. It's short, and a few hours will get you through it. Many men find it helps to take notes or highlight as they go, and to read it a second time so it sticks.
+
+Why a hackbook, and why a sequel? Because the method that freed so many men from porn ought to reach the men still stuck with the habit underneath it. The author makes no money from this and wants none.
+
+There are communities for men walking this road. Visit them after you've finished the book, not before.
+
+One last time: **DO NOT SKIP CHAPTERS.**
+
+I'd wish you luck, but luck doesn't come into it.
+
+"If therefore the Son makes you free, you will be free indeed." (John 8:36)
+
+AnotherHackAuthor
+
+<!-- SOURCES (Introduction): every quote below is from the research files; check each against its page before publishing.
+- Paraphrase, not quoted: pastors take it for granted that most single men do it — after John Piper, "Missions and Masturbation" ("a regular practice of most single men."), https://www.desiringgod.org/articles/missions-and-masturbation. The wording could not be checked (both sites unreachable on 2026-11-14), so the body no longer quotes it. Restore the quote only after checking it.
+- "successfully, but I had/have problem with MO" — a reader of EasyPeasy, talkingsober.com, "Easypeasy - is it worth?" (Nov–Dec 2024), https://talkingsober.com/t/easypeasy-is-it-worth/189461 (full sentence: "In my case I 'devaulated' videos long ago, blocked them successfully, but I had/have problem with MO."; research/round2/easypeasy-readers.md)
+- "Before I ever watched porn ... I was engaging in that act." — Ezekiel ("Brother Zeke"), We Need to Talk, "How Mast*rbation Had Me Bound but God", https://www.youtube.com/watch?v=mppw_mrhlIY (auto-captions; as captioned: "Before I ever watched porn, I didn't watch porn. I was engaging in that act."; speaker's name comes from the comments, confirm; research/round2/sources-log.md)
+- "Masturbation led to my demise both times and drastically impeded recovery since it seems to be a gateway to porn relapse." — anonymous, YBOP, https://www.yourbrainonporn.com/rebooting-porn-use-faqs/what-about-masturbation-without-porn/
+- "It's been like 13 years now when I first started to masturbate and I really hate it!" — Gaariv, talkingsober.com, https://talkingsober.com/t/no-fap-struggling-help/76224 (first post of the thread)
+- "I hate it, but I continually feed it." — cha, Covenant Eyes comments, 8 Nov 2016, https://www.covenanteyes.com/blog/three-steps-to-kick-the-habit-of-masturbation/comment-page-6/
+- "for eleven years, I would spend my days in a mental prison cell, one I didn't realize I was in." — "Matthew's Story", Covenant Eyes blog, https://www.covenanteyes.com/blog/pornographys-prison-of-shame-and-gods-keys-to-freedom-matthews-story/ (book capitalises the first word)
+- "I believe now that in the 43rd year of my life, I have finally overcome this evil habit." — "fellow Christian", Covenant Eyes comments, 14 Nov 2020, https://www.covenanteyes.com/blog/three-steps-to-kick-the-habit-of-masturbation/comment-page-3
+- "I feel like coming out from a fog that has been around me all this time." — r/NoFap, "my benefits from nofap", https://www.reddit.com/r/NoFap/comments/g3m3hn/my_benefits_from_nofap/ (via YBOP: https://www.yourbrainonporn.com/rebooting-porn-use-faqs/what-benefits-do-people-see-as-they-reboot/)
+- "It's been over 5 years since God broke me free from the chains of pornography and masturbation addiction. I will never go back." — YouTube commenter under "How Mast*rbation Had Me Bound but God", https://www.youtube.com/watch?v=mppw_mrhlIY (1.2K likes on 2026-11-14; the comment ends "Glory be to God!"; research/round2/sources-log.md). This replaces the r/TrueChristian "porn free for 10 years" testimony (u/x11obfuscation, https://www.reddit.com/r/TrueChristian/comments/larhm7/), which was about porn only and could not be re-checked because Reddit is blocked.
+- "I did notice a benefit of increased focus." / "I felt so much more like myself" — Pierre Dalati, via LADbible, https://www.ladbible.com/community/nofap-year-results-changes-noticed-885225-20241107 (two fragments joined with an ellipsis)
+- "the more lust controls you the easier you are to control" — FitXFearless, "How To Desexualize Your Brain", https://www.youtube.com/watch?v=5YssueIJrZI (auto-captions; research/transcripts/fitxfearless-5YssueIJrZI.md)
+- "You finish and then you sit there wondering why you feel tired, unmotivated, and empty." — FitXFearless, "What Happens If You Masturbate TOO MUCH?", https://www.youtube.com/watch?v=ki9kvllX2HU (auto-captions; research/transcripts/fitxfearless-ki9kvllX2HU.md)
+- Paraphrase, not quoted: the man who wondered whether God's grace for him had run out — Dave, Covenant Eyes comments, 17 Sep 2016 ("somtyms I even think my grace has expired."), https://www.covenanteyes.com/blog/three-steps-to-kick-the-habit-of-masturbation/comment-page-6/
+- Not quoted: women who write about the same struggle — women commenters under the same video (research/round2/sources-log.md and chapter-map.md).
+- Scripture (World English Bible): Matthew 5:28; Romans 8:1 (first half of the verse; the WEB continues "who don't walk according to the flesh, but according to the Spirit"); Luke 15:17; John 8:36.
+-->
