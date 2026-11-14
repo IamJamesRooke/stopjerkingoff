@@ -66,3 +66,20 @@ Flags raised while drafting. Fix or check these in the editorial pass.
 - Reading-list descriptions (33) written from summaries; Wendy Wood title from an interview; Piper and Gilkerson links unverified.
 - Attribution page offers corrections on request but has no contact route yet. Ch 32 gives no web address for the book yet.
 - Ch 31 is 3 words over the cap.
+
+## Revision 1: Introduction, Chapter 1 and Chapter 2 (2026-11-14)
+
+Done in this pass:
+- FitXFearless is no longer named in the body of these three chapters ("one coach"); the name stays in the SOURCES comments.
+- Intro: the Piper quote is now a paraphrase, because neither gospeltranslations.org nor desiringgod.org could be reached to check it. Restore the quote once it is checked.
+- Intro: the "porn free for 10 years" testimony (porn only, Reddit, uncheckable) is replaced by a five-years-free testimony that names masturbation.
+- Intro: the talkingsober link for the "13 years" quote now points to the first post.
+- Intro: Romans 8:1 added beside Matthew 5:28 in "A word on faith".
+- Ch 1: "four words" corrected (the quote has five).
+- Round 2 research folded in: the EasyPeasy reader still stuck on MO and the man who started before porn (Intro); "all in the mind" and the vow broken within hours (Ch 1); the lunch table and church restroom, "14 years ... only 23", "a slave ... since I was 12", "our fault and not our fault", and Augustine's "iron will" (Ch 2).
+
+Still open:
+- The new YouTube quotes come from auto-captions and comments read on 2026-11-14. Check them against the videos before print, and confirm the speaker's name (Ezekiel).
+- Ch 2: the "since I was 12 ... now I'm 30" quote has an ellipsis from the research log. Read the full comment.
+- Ch 1: is the "carry on as normal until the end" framing right in tone? (James to decide.)
+- The EasyPeasy overlap check (overlap.py) was not re-run; only new sentences were added.
