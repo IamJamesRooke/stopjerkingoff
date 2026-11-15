@@ -155,6 +155,11 @@ for p in pages:
     s = s.replace(EDIT_PLACEHOLDER, EDIT_BASE + src if src else "https://github.com/IamJamesRooke/stopjerkingoff")
     if name == "introduction.html":
         url = SITE  # canonical points at the homepage copy
+    # Put the homepage cover above the "Introduction" heading.
+    m = re.search(r'(?:<p>)?\s*(<img class="home-cover"[^>]*>)\s*(?:</p>)?', s)
+    if m and "<h1" in s:
+        s = s[:m.start()] + s[m.end():]
+        s = s.replace("<h1", m.group(1) + "\n<h1", 1)
     desc = PAGE_DESC.get(name, DESCRIPTION)
     extra = faq_ld(s) if name == "faq.html" else article_ld(url, title.split(" | ")[0], desc) if name == "why-this-book.html" else None
     s = s.replace("</head>", head_tags(url, title, is_home, noindex, desc, extra) + "</head>", 1)
