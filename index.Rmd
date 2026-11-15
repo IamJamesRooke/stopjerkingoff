@@ -28,7 +28,7 @@ if (knitr::is_html_output(excludes = "epub")) {
 
 This free book will help you stop masturbating and conquer your lust. You'll stop right away, you'll stay stopped, and you won't be miserable doing it. There are no cold showers in here, no rubber bands on your wrist, and no ninety-day streak counter to babysit. Nobody is going to shame you, and nobody is going to ask you to grit your teeth.
 
-This book is the sequel to the free book [*The Easy Peasy Way to Quit Porn*](https://easypeasymethod.org/), known as EasyPeasy. You can read this one first, and it will work on its own. But do consider reading that one first, especially if porn is still part of your habit. It is free, it takes a few hours, and this book is built on it.
+This book is a spiritual successor to the free book [*The Easy Peasy Way to Quit Porn*](https://easypeasymethod.org/), known as EasyPeasy. It is not an official sequel. A different author wrote it, in the same spirit and with the same method, for the habit that book leaves alone. You can read this one first, and it will work on its own. But do consider reading that one first, especially if porn is still part of your habit. It is free, it takes a few hours, and this book is built on it.
 
 You don't need to stop, or even cut down, while you read. In fact, please don't try. Carry on exactly as you are until the last page. Trying to quit halfway through only gets in the way.
 
@@ -54,7 +54,7 @@ If you're reading this for a son, a husband, a brother or a friend, the best thi
 
 ## About this book {-}
 
-As I said at the top, this book is a sequel.
+As I said at the top, this book is a spiritual successor to EasyPeasy.
 
 If you've read EasyPeasy, you already know how this works. Maybe you used it to walk away from porn. Well done. You got out of the harem.
 
@@ -225,7 +225,7 @@ You're about to do what every man in the trap secretly longs to do. You're going
 
 Don't read it like a novel. It's short, and a few hours will get you through it. Many men find it helps to take notes or highlight as they go, and to read it a second time so it sticks.
 
-Why a hackbook, and why a sequel? Because the method that freed so many men from porn ought to reach the men still stuck with the habit underneath it. The author makes no money from this and wants none.
+Why a hackbook, and why a successor to EasyPeasy? Because the method that freed so many men from porn ought to reach the men still stuck with the habit underneath it. The author makes no money from this and wants none.
 
 There are communities for men walking this road. Visit them after you've finished the book, not before.
 
