@@ -221,3 +221,25 @@ are attracted to strength" (Ch 19 says not to quit to impress women); Dr. K's
 Ch 22 if James wants it); the early-exposure point for parents; "single-player
 game". Most Dr. K quotes are about pornography, and the text says so where it
 matters.
+
+## Revision 6: two themes from round four (2026-11-15)
+
+From research/round4/findings.md, at James's request for more emphasis on both.
+
+- **A man who has mastered lust can't be bought or steered.** New section
+  "Nobody's lever" in Ch 8 (the lever, Proverbs 6:26, the coach's "Tell me
+  how. I'll wait." and one salty line, Samson sold for silver and blinded, the
+  turn to respect for women and to Samson's last prayer). Callbacks: Ch 14
+  (the feed as a business, Proverbs 5:10), Ch 25 (Joseph beside Samson) and
+  Ch 32 (the free man has no lever on him).
+- **If there is an enemy, this is what he wants.** New section "Out of the
+  fight" in Ch 8 (the unattributed church saying, David at home "at the time
+  when kings go out", Groeschel, Segal, 1 Peter 5:8, the version for the
+  unbeliever, then James 1:14 and Lewis's two errors as the counterweight, and
+  Nehemiah 6:3). Callbacks: Ch 5 (David's idle evening) and Ch 32 (back in the
+  fight).
+
+Left out on purpose: the coach's "get more women" frame; Jezebel (the name
+reads as a slur without more room than the book has); the ten Boom credit; the
+second Screwtape line. Ch 8 is now the longest chapter by some way; James may
+want the two new sections moved into a chapter of their own.
