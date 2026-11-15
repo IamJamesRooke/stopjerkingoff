@@ -243,3 +243,24 @@ Left out on purpose: the coach's "get more women" frame; Jezebel (the name
 reads as a slur without more room than the book has); the ten Boom credit; the
 second Screwtape line. Ch 8 is now the longest chapter by some way; James may
 want the two new sections moved into a chapter of their own.
+
+## Revision 7: "Fit for Service" (2026-11-15)
+
+James's framing: loved and on God's side, but a soldier showing up drunk for
+duty. Research: research/round5/findings.md.
+
+- **New unnumbered chapter, `26b-fit-for-service.Rmd`,** between Chapter 26 and
+  the final step. It is unnumbered so that Chapters 27 to 33 keep their
+  numbers and every cross-reference still holds. It has two sections:
+  - "Out of the fight", moved here from Chapter 8 (this is the Chapter 8 split
+    James allowed; Chapter 8 keeps "Nobody's lever").
+  - "Drunk on duty", the call to action: Uriah and David, loved and made on
+    purpose, unfit for service, no private sin (Joshua 7), recovery first
+    (James's own line, in bold), "not hard to beat", grace does the training
+    (Titus 2), a paragraph for the unbeliever, and "Here I am. Send me!"
+- **Introduction:** one paragraph in "A word to men" plants the picture.
+- Added to `_bookdown.yml` in all three formats. The build was not run here
+  (no R on this machine); the site build on GitHub will show if anything is off.
+
+To check: "their oldest handbook" for the Akron Manual; whether James wants the
+chapter numbered (that means renumbering 27 to 33 and every reference to them).
