@@ -21,3 +21,7 @@ Dr. K (HealthyGamerGG) and more Bismark (FitXFearless): 16 + 3 new transcripts i
 ## Round 4 (2026-11-15)
 
 Two themes James asked to emphasise: a man who masters lust cannot be manipulated (Bismark, Samson and Delilah, Jezebel, Proverbs, Joseph), and the devil only needs you distracted (the saying traced, Segal, Groeschel, David in 2 Samuel 11, Screwtape, Baudelaire for the atheist framing). All in round4/findings.md, verses checked against the WEB.
+
+## Round 5 (2026-11-15)
+
+Fit for service: loved but showing up drunk for duty. Uriah versus David (2 Samuel 11:11-13), Psalm 139, 2 Timothy 2, the sobriety-and-armor verses, Joshua 7, the Akron Manual (1940) source for "recovery first". All in round5/findings.md, verses checked against the WEB.
