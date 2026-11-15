@@ -1,6 +1,6 @@
 # Writing brief (for every chapter)
 
-The book: *Stop Jerking Off: The Easy Peasy Guide to Quitting Masturbation and Conquering Lust* by AnotherHackAuthor. It is a SPIRITUAL SUCCESSOR to [EasyPeasy] (James, 2026-11-15: never call it a sequel)(https://easypeasymethod.org/), which is based on Allen Carr. The reader has quit porn, or wants to; the next level is removing masturbation and lust. We are writing a fast first draft; editorial passes come later.
+The book: *Stop Jerking Off: The Easy Peasy Guide to Quitting Masturbation and Conquering Lust* by AnotherHackAuthor. It is a SPIRITUAL SUCCESSOR to [EasyPeasy](https://easypeasymethod.org/) (James, 2026-11-15: never call it a sequel), which is based on Allen Carr. The reader has quit porn, or wants to; the next level is removing masturbation and lust. We are writing a fast first draft; editorial passes come later.
 
 ## Sources to read for each chapter
 - **EasyPeasy plain text:** `/tmp/claude-0/-home-user/f73c4488-5e98-5895-9bd4-3978678a5a69/scratchpad/epub/all.txt`. Our chapter file `NN-*.Rmd` corresponds to EasyPeasy section `ch0(NN+1)` (e.g. our 02 = their ch003). Copy each chapter's job, order, devices and rhythm. **Never copy its sentences.**

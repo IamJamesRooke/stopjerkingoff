@@ -5,7 +5,7 @@ Everything here is a **draft**. Nothing has been posted anywhere. Post as **Anot
 - Site: https://stopjerkingoff.com
 - Share image: `images/og-image.png` (1200x630). Square logo: `images/logo-512.png`.
 - Source: https://github.com/IamJamesRooke/stopjerkingoff
-- One-line pitch: **A free book that helps men stop masturbating without willpower, streaks or shame. A Christian sequel to EasyPeasy.**
+- One-line pitch: **A free book that helps men stop masturbating without willpower, streaks or shame. A Christian spiritual successor to EasyPeasy.**
 
 Contents
 
@@ -40,7 +40,7 @@ The book is free, honest and useful, so the job isn't "marketing". It's putting 
 - **Day 1 (today/tomorrow):** create the email and the pen-name accounts. Add the email to the Attribution page ("If you are quoted here... please say so" currently has no contact route). Read the Reddit rules sidebar of each sub in section 4 and start the karma plan.
 - **Day 2:** send the group-chat message (3.6) to two or three chats you're in. Ask your pastor if he'd read the Introduction and Chapter 30 ("Advice to Non-users").
 - **Day 3:** send the source emails to the top five in section 5.2 (Captain Sinbad, QuitByHealing, We Need to Talk, Nick Jones, Time of Grace).
-- **Day 4:** post on the NoFap forum (6.1). Modmail r/EasyPeasy and r/NoFap asking whether a free, non-commercial sequel can be shared (4.3).
+- **Day 4:** post on the NoFap forum (6.1). Modmail r/EasyPeasy and r/NoFap asking whether a free, non-commercial spiritual successor can be shared (4.3).
 - **Day 5:** post the X thread and the Facebook post (3.1, 3.2). Send the next five source emails.
 - **Day 6–7:** record two or three short videos from the scripts in 3.4 (a faceless text-on-screen format is fine). Reply to anyone who writes back.
 
