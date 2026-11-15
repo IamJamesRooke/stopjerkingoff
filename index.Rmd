@@ -20,6 +20,7 @@ url: "https://stopjerkingoff.com/"
 
 ```{r downloads, echo=FALSE, results='asis'}
 if (knitr::is_html_output(excludes = "epub")) {
+  cat('<img class="home-cover" src="images/cover.png" width="1600" height="2560" alt="Book cover: Stop Jerking Off, The Easy Peasy Guide to Quitting Masturbation and Conquering Lust, by AnotherHackAuthor">\n')
   cat('<div class="downloads"><strong>Prefer to read offline?</strong> <a class="dl-btn" href="stopjerkingoff.pdf">Download the PDF</a> <a class="dl-btn" href="stopjerkingoff.epub">Download the EPUB</a></div>')
 }
 ```

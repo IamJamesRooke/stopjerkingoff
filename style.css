@@ -357,3 +357,13 @@ pre code {
   color: var(--sjo-accent-ink) !important;
   text-decoration: none;
 }
+
+/* Book cover at the top of the homepage */
+.home-cover {
+  display: block;
+  width: min(300px, 62vw);
+  height: auto;
+  margin: 8px auto 28px;
+  border-radius: 6px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.35);
+}
