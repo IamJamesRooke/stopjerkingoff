@@ -183,9 +183,14 @@ for p in pages:
         url = SITE  # canonical points at the homepage copy
     # Put the homepage cover above the "Introduction" heading.
     m = re.search(r'(?:<p>)?\s*(<img class="home-cover"[^>]*>)\s*(?:</p>)?', s)
-    if m and "<h1" in s:
+    if m:
         s = s[:m.start()] + s[m.end():]
-        s = s.replace("<h1", m.group(1) + "\n<h1", 1)
+        # Above the title block, inside the reading area (never in the toolbar).
+        anchor = '<div id="header">' if '<div id="header">' in s else '<section class="normal"'
+        if anchor == '<div id="header">':
+            s = s.replace(anchor, m.group(1) + "\n" + anchor, 1)
+        else:
+            s = re.sub(r'(<section class="normal"[^>]*>)', lambda x: x.group(1) + "\n" + m.group(1), s, count=1)
     desc = PAGE_DESC.get(name) or (DESCRIPTION if is_home or noindex else chapter_desc(s))
     extra = faq_ld(s) if name == "faq.html" else article_ld(url, title.split(" | ")[0], desc) if name == "why-this-book.html" else None
     s = s.replace("</head>", head_tags(url, title, is_home, noindex, desc, extra) + "</head>", 1)

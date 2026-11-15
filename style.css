@@ -358,12 +358,16 @@ pre code {
   text-decoration: none;
 }
 
-/* Book cover at the top of the homepage */
-.home-cover {
+/* Book cover at the top of the homepage (specific enough to beat gitbook's img rules) */
+.book .book-body .page-wrapper .page-inner section.normal img.home-cover {
   display: block;
   width: min(300px, 62vw);
+  max-width: 100%;
   height: auto;
-  margin: 8px auto 28px;
+  margin: 28px auto 36px !important;  /* gitbook zeroes the first element's top margin */
   border-radius: 6px;
   box-shadow: 0 10px 30px rgba(0,0,0,.35);
+}
+@media (max-width: 600px) {
+  .book .book-body .page-wrapper .page-inner section.normal img.home-cover { margin-top: 64px !important; }
 }
