@@ -13,6 +13,7 @@ cp images/favicon.ico _book/favicon.ico
 cp site/feedback.js _book/feedback.js
 cp site/counter.js _book/counter.js
 cp site/share.js _book/share.js
+cp site/*.txt _book/  # IndexNow key file
 python3 tools/seo.py _book
 echo "stopjerkingoff.com" > _book/CNAME
 touch _book/.nojekyll

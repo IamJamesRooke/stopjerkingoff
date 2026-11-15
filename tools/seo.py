@@ -17,6 +17,9 @@ DESCRIPTION = ("Stop masturbating easily and conquer your lust, without willpowe
                "A free book in the style of EasyPeasy that helps you walk away for good.")
 IMAGE = SITE + "images/og-image.png?v=4"
 AUTHOR = "AnotherHackAuthor"
+# Search-engine ownership checks: paste the code from Google Search Console / Bing Webmaster Tools here.
+GOOGLE_VERIFY = ""
+BING_VERIFY = ""
 
 book = Path(sys.argv[1] if len(sys.argv) > 1 else "_book")
 pages = sorted(p for p in book.glob("*.html"))
@@ -51,6 +54,10 @@ def head_tags(url, title, is_home, noindex, desc=DESCRIPTION, extra_ld=None):
         f'<meta name="twitter:description" content="{e(desc)}" />',
         f'<meta name="twitter:image" content="{IMAGE}" />',
     ]
+    if is_home and GOOGLE_VERIFY:
+        tags.append(f'<meta name="google-site-verification" content="{e(GOOGLE_VERIFY)}" />')
+    if is_home and BING_VERIFY:
+        tags.append(f'<meta name="msvalidate.01" content="{e(BING_VERIFY)}" />')
     if noindex:
         tags.append('<meta name="robots" content="noindex" />')
     else:
@@ -131,8 +138,27 @@ for rmd in sorted(Path(".").glob("*.Rmd")):
 SOURCES["index"] = "index.Rmd"
 EDIT_PLACEHOLDER = EDIT_BASE + "%s"
 
+def chapter_desc(s):
+    """A page's own search description: its opening paragraph (after any epigraph), about 155 characters."""
+    body = s.split("<h1", 1)[-1]
+    body = re.sub(r"<blockquote.*?</blockquote>", "", body, flags=re.S)
+    text = ""
+    for para in re.findall(r"<p>(.*?)</p>", body, re.S):
+        t = text_of(para)
+        if not t or t.isupper():
+            continue
+        text = (text + " " + t).strip()
+        if len(text) >= 90:
+            break
+    if not text:
+        return DESCRIPTION
+    if len(text) > 158:
+        text = text[:155].rsplit(" ", 1)[0].rstrip(",;:") + "…"
+    return text
+
 VERSION = str(int(time.time()))
 listed = []
+entries = []
 for p in pages:
     name = p.name
     is_home = name == "index.html"
@@ -160,7 +186,7 @@ for p in pages:
     if m and "<h1" in s:
         s = s[:m.start()] + s[m.end():]
         s = s.replace("<h1", m.group(1) + "\n<h1", 1)
-    desc = PAGE_DESC.get(name, DESCRIPTION)
+    desc = PAGE_DESC.get(name) or (DESCRIPTION if is_home or noindex else chapter_desc(s))
     extra = faq_ld(s) if name == "faq.html" else article_ld(url, title.split(" | ")[0], desc) if name == "why-this-book.html" else None
     s = s.replace("</head>", head_tags(url, title, is_home, noindex, desc, extra) + "</head>", 1)
     # Cache-bust our own files so readers get new styles and scripts right after a deploy.
@@ -168,6 +194,8 @@ for p in pages:
     p.write_text(s, encoding="utf-8")
     if not noindex and name != "introduction.html":  # duplicate of the homepage
         listed.append(SITE if is_home else SITE + name)
+        if not is_home:
+            entries.append((SOURCES.get(name[:-5], "zz"), title.split(" | ")[0], SITE + name, desc))
 
 today = date.today().isoformat()
 sm = ['<?xml version="1.0" encoding="UTF-8"?>',
@@ -175,5 +203,40 @@ sm = ['<?xml version="1.0" encoding="UTF-8"?>',
 sm += [f"  <url><loc>{u}</loc><lastmod>{today}</lastmod></url>" for u in listed]
 sm.append("</urlset>")
 (book / "sitemap.xml").write_text("\n".join(sm) + "\n", encoding="utf-8")
-(book / "robots.txt").write_text(f"User-agent: *\nAllow: /\n\nSitemap: {SITE}sitemap.xml\n", encoding="utf-8")
+# Search engines and AI assistants are all welcome to read and cite the book.
+BOTS = ["GPTBot", "OAI-SearchBot", "ChatGPT-User", "ClaudeBot", "Claude-SearchBot", "Claude-User",
+        "PerplexityBot", "Perplexity-User", "Google-Extended", "Googlebot", "Bingbot", "Applebot",
+        "Applebot-Extended", "DuckDuckBot", "CCBot", "Meta-ExternalAgent", "MistralAI-User"]
+robots = "".join(f"User-agent: {b}\nAllow: /\n\n" for b in BOTS)
+robots += f"User-agent: *\nAllow: /\n\nSitemap: {SITE}sitemap.xml\n"
+(book / "robots.txt").write_text(robots, encoding="utf-8")
+
+# llms.txt (llmstxt.org): a plain summary for AI assistants, with every page listed.
+def section(names):
+    return "".join(f"- [{t}]({u}): {d}\n" for _, t, u, d in entries if u.rsplit("/", 1)[-1] in names)
+special = {"faq.html", "why-this-book.html", "attribution.html"}
+chapters = "".join(f"- [{t}]({u}): {d}\n" for _, t, u, d in sorted(entries) if u.rsplit("/", 1)[-1] not in special)
+llms = f"""# {FULL_TITLE}
+
+> A free, complete book that helps men stop masturbating and conquer lust without willpower, streak counters or shame. It works like EasyPeasy (the free book for quitting porn) and Allen Carr's Easy Way to Stop Smoking: it removes the beliefs that make the habit feel worth keeping, so stopping becomes easy. Written from a Christian point of view, and it also works for readers who aren't religious.
+
+- Free to read online at {SITE}, with no ads and no sign-up. Also free as a PDF ({SITE}stopjerkingoff.pdf) and EPUB ({SITE}stopjerkingoff.epub).
+- Takes a few hours to read. Readers keep living normally until they finish, then stop.
+- No streak counting, no cutting down, no substitutes, and no fortress of blockers held up by willpower. A slip is not a "relapse"; wet dreams and morning erections are not slips.
+- Makes no medical claims: it accepts that doctors say masturbation doesn't harm the body, and focuses on mind, drive, self-control and faith. No "superpowers" or testosterone promises.
+- Sequel to EasyPeasy (https://easypeasymethod.org/); readers still using porn should read that too.
+- Licence: CC BY-SA 4.0. Author: {AUTHOR} (pen name).
+- Good fit for: men who want to stop masturbating, men who quit porn but still masturbate, NoFap users tired of resetting counters, Christian men struggling with lust, married men, and wives, parents or pastors trying to help someone.
+
+## Start here
+
+- [Home and Introduction]({SITE}): what the book is and how to read it.
+{section({"faq.html", "why-this-book.html"})}
+## Chapters
+
+{chapters}
+## Optional
+
+{section({"attribution.html"})}"""
+(book / "llms.txt").write_text(llms, encoding="utf-8")
 print(f"SEO tags added to {len(pages)} pages; sitemap lists {len(listed)}")

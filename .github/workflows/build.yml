@@ -34,3 +34,12 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
+      # Tell Bing, Yandex and other IndexNow search engines that the pages changed.
+      - name: Ping IndexNow
+        continue-on-error: true
+        run: |
+          sleep 20
+          urls=$(curl -fsS https://stopjerkingoff.com/sitemap.xml | grep -o '<loc>[^<]*' | sed 's/<loc>//' | jq -R . | jq -sc .)
+          curl -sS -o /dev/null -w "IndexNow: %{http_code}\n" -X POST https://api.indexnow.org/indexnow \
+            -H 'Content-Type: application/json; charset=utf-8' \
+            -d "{\"host\":\"stopjerkingoff.com\",\"key\":\"995610663d437ca10b5831596d87abb4\",\"keyLocation\":\"https://stopjerkingoff.com/995610663d437ca10b5831596d87abb4.txt\",\"urlList\":$urls}"
