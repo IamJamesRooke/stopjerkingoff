@@ -16,6 +16,7 @@ Contents
 5. [Writing to the people the book quotes](#5-writing-to-the-people-the-book-quotes)
 6. [Other channels: forums, ministries, groups, pastors, podcasts](#6-other-channels)
 7. [Things to avoid](#7-things-to-avoid)
+8. [Article for Substack or Medium](#8-article-for-substack-or-medium)
 
 ---
 
@@ -410,3 +411,72 @@ Pitch as AnotherHackAuthor (audio-only shows suit a pen name). Verify each show 
 - **Don't reveal your real name**, link personal accounts, or post from your personal Facebook as the author.
 - **Don't promise an endorsement** from anyone quoted. The Attribution page already says being quoted isn't endorsement.
 - **Mind minors.** Target adults; for teens, go through fathers, youth pastors and parents.
+
+
+---
+
+## 8. Article for Substack or Medium
+
+**Where to post it:** a free Substack or Medium account under the pen name AnotherHackAuthor. Setup takes a few minutes: sign up with the book email (not your personal one), set the display name to AnotherHackAuthor, use `images/logo-512.png` as the profile picture and `images/og-image.png` as the header image. Then paste the post below. Post it whenever you're ready. Nothing has been posted for you.
+
+**It's already live on the site** at https://stopjerkingoff.com/why-this-book.html, so you can share that link today. When you post it elsewhere, tick Medium's "import" option (or add a line at the bottom saying it first appeared on stopjerkingoff.com) so search engines know the original.
+
+**Tags:** Faith, Christianity, Self Improvement, Addiction Recovery, Men
+
+**Title:** Why This Book Exists
+
+**Subtitle:** Willpower, streaks and day counters keep failing men who want to stop masturbating. Here's a free book that takes a different route.
+
+---
+
+
+*By AnotherHackAuthor*
+
+There's a free book called EasyPeasy that has helped a great many men walk away from porn. It doesn't use shame or willpower. It simply takes apart the beliefs that keep a man going back, until there's nothing left to want. Men who read it often describe the same thing: they expected a fight, and it never came.
+
+But read the forums where those men gather and one question keeps coming up. *I've quit porn. Why can't I stop masturbating?*
+
+Some of them are still doing it to memories. Some have moved the whole thing into their heads, where no filter can reach it. Some are married and thought the wedding would end it. They had found a way out of one trap and were still standing in the room next door. I wrote [Stop Jerking Off](https://stopjerkingoff.com/) for them.
+
+### The way most men try to quit
+
+Ask a man how he's trying to stop and you'll usually hear some mix of the following. He's counting days. He's on a streak. He's blocked his phone, taken cold showers, made a vow to God. He's cutting down to weekends. He's waiting for day ninety, when the superpowers are supposed to arrive.
+
+And he keeps losing. Day forty, a bad night, five minutes, and the counter goes back to zero. Then comes the worst thought of all: *I've ruined it, so I may as well carry on.*
+
+The trouble isn't that he's weak. The trouble is the method. Willpower means you still want the thing and you're holding yourself back. Every day without it feels like a loss, and a man can only feel robbed for so long. Counting days keeps the habit at the centre of his life, and the reward he's waiting for keeps him thinking about what he gave up.
+
+### What this book does instead
+
+It works the way EasyPeasy works, and the way Allen Carr's *Easy Way to Stop Smoking* worked before it. It changes how you see the habit.
+
+It looks hard at the reasons men give for keeping it. It helps me sleep. It relaxes me. A man needs a release. It's harmless, doctors say so. Each of these turns out to be a lie, or a half-truth wearing a disguise. The "relief" is only the ending of an itch the habit itself created. Once a man sees that clearly, he isn't giving anything up. There's no sacrifice to make, so he doesn't need willpower.
+
+A few things set it apart:
+
+- **You don't stop while you read.** You carry on as normal until the last page. Starting a willpower campaign halfway through a book that's about to make willpower unnecessary only gets in the way.
+- **No counter, no streaks, no cutting down.** A slip isn't a "relapse" that resets you to zero. You confess, you get up, and you find the instruction you broke.
+- **No superpowers.** I don't promise a deeper voice, more testosterone, or women falling at your feet. Doctors say masturbation doesn't damage your body, and I take their word for it. This book is about your mind, your drive, your word and your soul. What you get back is yourself.
+- **Real voices.** It quotes men who got out, in their own words, from forums, testimonies and blogs, with every source listed.
+
+### A Christian book that doesn't beat you up
+
+The book is written from a Christian point of view. It says plainly that lust is sin, because Jesus set the bar at the look, not the act. But it never leaves a man there. "There is therefore now no condemnation for those who are in Christ Jesus." The word "sin" is in the book to tell the truth, not to beat anyone with it. The final step is a prayer, not one last session.
+
+You don't have to be a Christian to use it, though. If you're an atheist, play along. When the book mentions God, read it as your conscience talking. The trap works the same way on everyone, and so does the way out.
+
+### It's free
+
+The whole book is free to read at [stopjerkingoff.com](https://stopjerkingoff.com/), or to download as a PDF or EPUB. There's no sign-up, no ads and nothing to buy. It takes a few hours to read. It's shared under a Creative Commons licence, so you can copy it and pass it on.
+
+If porn is still part of your life, read [EasyPeasy](https://easypeasymethod.org/) too. It's free, and this book is its sequel.
+
+If you're reading this for someone else, a son, a husband, a friend, don't corner him with a speech. He already knows. Read it yourself, mention it once, and leave it where he can find it.
+
+And if you're the one who's been stuck, you have nothing to lose. If you read every page and nothing changes, you've lost a few hours. If it works, you get your life back.
+
+**[Start reading](https://stopjerkingoff.com/)** · [Frequently asked questions](https://stopjerkingoff.com/faq.html)
+
+---
+
+*AnotherHackAuthor writes under a pen name. Stop Jerking Off is based on EasyPeasy and Allen Carr's Easy Way to Stop Smoking, and is shared under CC BY-SA 4.0.*

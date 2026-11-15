@@ -25,10 +25,10 @@ STRIP = re.compile(
     r'\s*<meta\s+(?:name="(?:description|twitter:[^"]*)"|property="og:[^"]*")[^>]*>'
     r'|\s*<link\s+rel="(?:canonical|icon|shortcut icon|apple-touch-icon)"[^>]*>', re.I)
 
-def head_tags(url, title, is_home, noindex):
+def head_tags(url, title, is_home, noindex, desc=DESCRIPTION, extra_ld=None):
     e = lambda s: html.escape(s, quote=True)
     tags = [
-        f'<meta name="description" content="{e(DESCRIPTION)}" />',
+        f'<meta name="description" content="{e(desc)}" />',
         f'<link rel="canonical" href="{e(url)}" />',
         '<link rel="icon" href="images/logo.svg" type="image/svg+xml" />',
         '<link rel="icon" href="favicon.ico" sizes="any" />',
@@ -40,7 +40,7 @@ def head_tags(url, title, is_home, noindex):
         f'<meta property="og:site_name" content="{TITLE}" />',
         f'<meta property="og:type" content="{"book" if is_home else "article"}" />',
         f'<meta property="og:title" content="{e(title)}" />',
-        f'<meta property="og:description" content="{e(DESCRIPTION)}" />',
+        f'<meta property="og:description" content="{e(desc)}" />',
         f'<meta property="og:url" content="{e(url)}" />',
         f'<meta property="og:image" content="{IMAGE}" />',
         '<meta property="og:image:width" content="1200" />',
@@ -48,7 +48,7 @@ def head_tags(url, title, is_home, noindex):
         f'<meta property="og:image:alt" content="{e(FULL_TITLE)}" />',
         '<meta name="twitter:card" content="summary_large_image" />',
         f'<meta name="twitter:title" content="{e(title)}" />',
-        f'<meta name="twitter:description" content="{e(DESCRIPTION)}" />',
+        f'<meta name="twitter:description" content="{e(desc)}" />',
         f'<meta name="twitter:image" content="{IMAGE}" />',
     ]
     if noindex:
@@ -77,6 +77,8 @@ def head_tags(url, title, is_home, noindex):
             ],
         }
         tags.append('<script type="application/ld+json">' + json.dumps(data) + '</script>')
+    if extra_ld:
+        tags.append('<script type="application/ld+json">' + json.dumps(extra_ld) + '</script>')
     return "\n".join(tags) + "\n"
 
 
@@ -92,6 +94,35 @@ def pandoc_id(text):
     text = re.sub(r"\s+", "-", text)
     return re.sub(r"^[^a-z]+", "", text)
 SOURCES = {}
+
+# Website-only pages: their own descriptions and structured data.
+PAGE_DESC = {
+    "faq.html": ("How do I stop masturbating? Can I quit without willpower? Is it harmful, or a sin? "
+                 "Plain answers to the questions men ask most, from the free book Stop Jerking Off."),
+    "why-this-book.html": ("Why willpower, streaks and NoFap counters keep failing, and how a free book in the "
+                           "style of EasyPeasy helps men stop masturbating for good."),
+}
+
+def text_of(fragment):
+    return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", "", fragment))).strip()
+
+def faq_ld(s):
+    """FAQPage data from each h2 question and the paragraphs under it."""
+    items = []
+    for block in re.findall(r'<div id="[^"]*" class="section level2[^"]*">(.*?)</div>', s, re.S):
+        q = re.search(r"<h2[^>]*>(.*?)</h2>", block, re.S)
+        paras = re.findall(r"<p>(.*?)</p>", block, re.S)
+        if q and paras:
+            items.append({"@type": "Question", "name": text_of(q.group(1)),
+                          "acceptedAnswer": {"@type": "Answer", "text": " ".join(text_of(x) for x in paras)}})
+    return {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": items}
+
+def article_ld(url, title, desc):
+    return {"@context": "https://schema.org", "@type": "Article", "headline": title,
+            "description": desc, "url": url, "image": IMAGE,
+            "author": {"@type": "Person", "name": AUTHOR},
+            "publisher": {"@type": "Organization", "name": TITLE, "url": SITE},
+            "about": {"@type": "Book", "name": TITLE, "url": SITE}}
 for rmd in sorted(Path(".").glob("*.Rmd")):
     for line in rmd.read_text(encoding="utf-8").splitlines():
         if line.startswith("# "):
@@ -124,7 +155,9 @@ for p in pages:
     s = s.replace(EDIT_PLACEHOLDER, EDIT_BASE + src if src else "https://github.com/IamJamesRooke/stopjerkingoff")
     if name == "introduction.html":
         url = SITE  # canonical points at the homepage copy
-    s = s.replace("</head>", head_tags(url, title, is_home, noindex) + "</head>", 1)
+    desc = PAGE_DESC.get(name, DESCRIPTION)
+    extra = faq_ld(s) if name == "faq.html" else article_ld(url, title.split(" | ")[0], desc) if name == "why-this-book.html" else None
+    s = s.replace("</head>", head_tags(url, title, is_home, noindex, desc, extra) + "</head>", 1)
     # Cache-bust our own files so readers get new styles and scripts right after a deploy.
     s = re.sub(r'(href|src)="(style\.css|feedback\.js|counter\.js|share\.js)"', lambda m: f'{m.group(1)}="{m.group(2)}?v={VERSION}"', s)
     p.write_text(s, encoding="utf-8")
