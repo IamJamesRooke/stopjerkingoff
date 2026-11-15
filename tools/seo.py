@@ -15,7 +15,7 @@ TITLE = "Stop Jerking Off"
 FULL_TITLE = "Stop Jerking Off: The Easy Peasy Guide to Quitting Masturbation and Conquering Lust"
 DESCRIPTION = ("Stop masturbating easily and conquer your lust, without willpower or shame. "
                "A free book in the style of EasyPeasy that helps you walk away for good.")
-IMAGE = SITE + "images/og-image.png?v=2"
+IMAGE = SITE + "images/og-image.png?v=3"
 AUTHOR = "AnotherHackAuthor"
 
 book = Path(sys.argv[1] if len(sys.argv) > 1 else "_book")

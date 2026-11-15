@@ -7,3 +7,20 @@
 %\usepackage[sfdefault,scaled=.90]{FiraSans}
 %\usepackage{newtxsf}
 %\usepackage{ragged2e}
+
+% Full-page cover (images/cover.png) before the title page.
+\usepackage{graphicx}
+\usepackage{xcolor}
+\definecolor{coverbg}{HTML}{17181B}
+\let\sjooldmaketitle\maketitle
+\renewcommand{\maketitle}{%
+  \newgeometry{margin=0pt}%
+  \pagecolor{coverbg}%
+  \begin{titlepage}
+    \vspace*{\fill}
+    \centering\includegraphics[height=0.97\paperheight]{images/cover.png}\par
+    \vspace*{\fill}
+  \end{titlepage}%
+  \nopagecolor
+  \restoregeometry
+  \sjooldmaketitle}
