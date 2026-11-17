@@ -1,21 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Stop Jerking Off logo: splash droplets with a no symbol">
-  <defs>
-    <path id="drop" d="M0,-70 C18,-40 46,-8 46,24 A46,46 0 0 1 -46,24 C-46,-8 -18,-40 0,-70 Z"/>
-    <linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#7fd0ff"/>
-      <stop offset="1" stop-color="#1e88e5"/>
-    </linearGradient>
-  </defs>
-  <circle cx="256" cy="256" r="226" fill="#ffffff"/>
-  <g fill="url(#water)" stroke="#0d5fa8" stroke-width="6">
-    <use href="#drop" transform="translate(205 285) rotate(-28) scale(1.55)"/>
-    <use href="#drop" transform="translate(330 205) rotate(-28) scale(0.95)"/>
-    <use href="#drop" transform="translate(345 330) rotate(-28) scale(0.8)"/>
-  </g>
-  <g fill="#ffffff" opacity="0.75">
-    <ellipse cx="178" cy="282" rx="11" ry="24" transform="rotate(-28 178 282)"/>
-    <ellipse cx="315" cy="200" rx="7" ry="14" transform="rotate(-28 315 200)"/>
-  </g>
-  <circle cx="256" cy="256" r="210" fill="none" stroke="#e0242b" stroke-width="44"/>
-  <line x1="108" y1="108" x2="404" y2="404" stroke="#e0242b" stroke-width="44" stroke-linecap="butt"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Stop Jerking Off logo: a shield holding a sword that points down like a cross">
+<path d="M256 28 L452 92 V246 C452 364 368 446 256 486 C144 446 60 364 60 246 V92 Z" fill="#c9a55a"/>
+<path d="M256 58 L424 113 V248 C424 348 352 418 256 454 C160 418 88 348 88 248 V113 Z" fill="#111a2c"/>
+<g fill="#c9a55a">
+<circle cx="256" cy="116" r="20"/>
+<rect x="244" y="128" width="24" height="70" rx="4"/>
+<rect x="160" y="196" width="192" height="26" rx="13"/>
+<path d="M240 222 H272 V368 L256 410 L240 368 Z"/>
+</g></svg>
