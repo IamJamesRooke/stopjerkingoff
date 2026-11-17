@@ -287,4 +287,50 @@ Sample, pushed first for James to check:
 - Long sentences (over 25 words, quotations excluded): Introduction 4 to 0,
   Chapter 1 3 to 0, Chapter 3 10 to 0.
 
-Still to do: the remaining chapters in four batches, then a consistency pass.
+The rest of the book, done 2026-11-17 after James approved the sample:
+
+- **Batches 1 to 4 (Chapters 2 to 33, FAQ, Why This Book Exists):** every
+  chapter reframed for lust in general and put into shorter sentences. New
+  sections: "The lies about porn and about women" (Ch 4), "The chase" (Ch 7),
+  "The way you see women" (Ch 8), "The porn user", "The man led by women" and
+  "There aren't really any types" (Ch 13), "The woman in the room" (Ch 14),
+  the porn and "a woman instead" paragraphs (Ch 24). The prayer in Ch 27 now
+  covers porn and using women. The FAQ has new entries on what the book is
+  about, porn, "thinking with the wrong head" and how to spread it.
+- **Anonymous:** the pen name is gone from every chapter file.
+- **Consistency pass:** "sequel" only in "not an official sequel"; "play along"
+  only in the Introduction and the Ch 32 blessing; "parent" wording for
+  EasyPeasy replaced (Ch 30, Ch 33); a duplicated blockquote removed from Ch 7.
+
+Editorial pass (James: nothing against Scripture; cut what doesn't help the
+reader finish, change and pass it on; add calls to spread it):
+
+- **Scripture fixes.** Ch 8: Adam "covered himself, and then he hid"; the text
+  no longer says he walked with God every evening (Genesis 3:7-8). Ch 10: cut
+  "I'd tell you to forget the whole thing" (the book never tells a man to keep
+  a sin). Ch 13: the tax collector's own words added (Luke 18:13). Ch 20: "The
+  fault was never in me" became "an ordinary man in an ordinary trap" (James
+  1:14). Ch 30: the Good Samaritan retelling no longer invents motives.
+  Introduction and FAQ: "please don't try to stop" became "don't start a
+  willpower campaign", with "this is not permission to sin".
+- **Cuts.** Repeated EasyPeasy lines in the Introduction; the author's "doubts"
+  line in Ch 16; "it doesn't work a second time" in Ch 28.
+- **Calls to pass it on.** Introduction (one request), Ch 19 (handing on the
+  book is not the same as announcing), Ch 21, the prayer in Ch 27 ("show me the
+  man I am to go back for"), Ch 29 (the link, and "think of his name now"),
+  Ch 30 (the industry as the second scandal), Ch 31 (new instruction 11),
+  Ch 32 (why it matters: lust made normal, who pays for it, "one free man at a
+  time"), FAQ and Why This Book Exists.
+
+Open items for James:
+
+- Psalm 4:8 follows the current ebible.org wording ("for you alone, Yahweh").
+- Two r/TrueChristian quotes in Ch 1 are still unverified (NOTE in the file).
+- Claims from general knowledge, to verify before print: the big porn sites
+  removing millions of unverified videos, and force and children in some porn
+  (Ch 4, Ch 30, Ch 32); the 988 and RAINN numbers (Ch 33); "their oldest
+  handbook" for the Akron Manual (Fit for Service).
+- Fit for Service is unnumbered so the chapter numbers didn't move. Say if it
+  should be a numbered chapter.
+- The first-person stories ("My last time" in Ch 20, the friend in Ch 28) are
+  the method's inherited narrator. Say if they should be reworded as "one man".

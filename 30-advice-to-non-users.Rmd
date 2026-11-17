@@ -191,7 +191,7 @@ Two short answers.
 
 ## Where this book leaves EasyPeasy's path {-}
 
-In one place we part company with our parent on purpose, and you should know it.
+In one place we part company with EasyPeasy on purpose, and you should know it.
 
 EasyPeasy, following Allen Carr, ends with a last deliberate session, entered with eyes open, to fix in the mind how little there is in it. Many people have found that useful for porn and for cigarettes. We don't do it. Our final step was the prayer in Chapter 27. Nobody takes leave of a sin by committing it carefully.
 
@@ -199,7 +199,9 @@ Nor do you need to. If you carried on as normal while reading, you've had dozens
 
 ## Help end the silence {-}
 
-The scandal with this habit isn't an industry. Nobody needs to sell it, since every boy is born with the equipment. What's scandalous is that nobody talks.
+There are two scandals here. One is an industry. Porn sites and subscription pages earn money every time a man can't look away, and Chapter 4 told you who pays for it. Every man who walks out is one customer fewer.
+
+The other scandal is quieter, and it is ours. Nobody talks.
 
 Look at the two messages a boy receives. The world tells him cheerfully that it's healthy, normal, even good for him, and asks no further questions. The church, for the most part, tells him nothing at all. Or it mentions it once at a youth weekend, in a tone that guarantees he'll never raise it again. Between the shrug and the silence he's left to work it out for himself at thirteen. He works it out wrong, as we all did.
 
@@ -209,7 +211,7 @@ Scare campaigns won't fix it. They never have. Frighten a boy and he'll do it fr
 
 What fixes it is someone speaking plainly and kindly, which you're now able to do.
 
-You'll remember the story Jesus told about a man who was beaten and left by the roadside. Two respectable religious people saw him, crossed over, and walked by on the far side. They didn't wish him harm. They were only embarrassed, busy, and unsure what to say. The one who stopped was the last person anyone expected.
+You'll remember the story Jesus told about a man who was beaten and left by the roadside. Two respectable religious people saw him, crossed over, and walked by on the far side. The story doesn't say they wished him harm. Perhaps they were busy, or unsure what to say. The one who stopped was the last person anyone expected.
 
 Most of us have been walking past each other for years. Every man on the road is carrying the same wound, and every one of them looks straight ahead.
 
@@ -246,5 +248,6 @@ You are a free man, and the years ahead of you are good ones. To keep them that 
 - "Nearly as many women as men" refers back to the Piper quote in Chapter 4.
 - The pebble forum is invented for this book and says so in the text. The idea comes from Guillaco's bleach parody ("Meditations of a Porn Addict"), which EasyPeasy quotes; Guillaco is named in EasyPeasy, not in the research files.
 - The advice to wives, parents and pastors is the book's own counsel, following the shape of EasyPeasy's equivalent section. The Good Samaritan (Luke 10:30-37) is paraphrased, not quoted.
+- "Two scandals" (Help end the silence): the industry paragraph points back to Chapter 4's porn section and carries the same verify-before-print flag. The Good Samaritan retelling follows Luke 10:30-35 and no longer gives the priest and Levite motives.
 - Scripture (World English Bible): Ecclesiastes 4:9-10; Ephesians 6:4; Micah 7:8 (first two sentences).
 -->
