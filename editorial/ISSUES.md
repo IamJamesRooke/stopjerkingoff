@@ -4,6 +4,10 @@ Read of main at commit 3416cf4, 2026-11-17. No chapter text was changed. Compani
 
 Severity: **H** = fix before the book goes wider (structure, promise, safety, privacy). **M** = real reader-facing flaw. **L** = polish. IDs are stable so the Author can tick them off. "Ch" numbers follow the book; "26b" is Fit for Service.
 
+## Status after the cut and polish pass (2026-11-17)
+
+The book was cut from about 70,300 to about 49,700 words following `READER-REPORT.md`. Many issues below (B4 repetition, B12, 0.3, 13.2, the long-sentence list) were settled by the cuts. See section 0 of `BIBLE.md` for what each chapter now holds. Long sentences by the script: 32.
+
 ## Status after the coherence fix pass (2026-11-17)
 
 Three batches, one pass each (commits "Coherence pass, batch 1/2/3"). Long sentences by the script: 94 before, 55 after; what is left is almost all quotation joins that the splitter can't see.

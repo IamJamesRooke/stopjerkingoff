@@ -2,6 +2,26 @@
 
 Written 2026-11-17 from a full read of main (commit 3416cf4). Updated the same day after the coherence fix pass (three batches). Read this instead of the book when editing. Update it after each batch. For problems, see `ISSUES.md`.
 
+## 0. Read this first: the cut and polish pass (2026-11-17, after READER-REPORT.md)
+
+The chapter map in section 5 was written before this pass. Where it and this section differ, this section is right. Prose length went from about 70,300 words to about 49,700.
+
+- **Motifs now rationed.** "A man who can't control his lust can't be trusted" appears three times only: Introduction, Ch 8 ("A city without walls"), Ch 20 ("The thread pays off"). "YES! I'M FREE!" appears once, in Ch 27 after the prayer; everywhere else it is a plain "I'm free". The drunk soldier is introduced in the Introduction's word to men (no longer on the first page), and returns in Ch 10 (one line), Ch 20 (one line), Fit for Service and the last line of Ch 32. Augustine is quoted once ("only not yet", Ch 2).
+- **Introduction** (about 2,900 words): hook, carry-on promise, checklist, then "One root, three faces", "A word on faith, and a word to men" (merged), Warning, fear, good news, two ways to fail. Provenance and a four-item glossary sit at the end. Three testimonies, not eight. It says once that the last step is a decision and a prayer. MO/PMO no longer appear anywhere in the book.
+- **Ch 1** lost the Pascal section and the preview. **Ch 2** lost the smaller-excuses list, the trick knot and the Augustine chain. **Ch 3** lost "The dance around the red line" (two paragraphs kept in "Crossing the red line"), Owen, the rash and the is-eating-a-habit paragraph; "Thinking with the wrong head" is two paragraphs.
+- **Ch 4** lost the therapist and urologist rebuttals and Dobson; the quiet pulpit is one paragraph. **Ch 5**: "It clears my head" is one paragraph; "Before the date" is gone and the section is "After the date"; it now says her no is never his excuse. **Ch 6**: the cream story is shorter and its heading is "The itch and the cream". **Ch 7**: the dialogue is replaced by "Do the sum"; "Start dancing" is gone.
+- **Ch 8** (about 2,700 words): the coward run, the fuse, the Piper/Challies stack and most of the Samson section are gone. "Nobody's lever" is two paragraphs and puts the lever in the man, not the woman. A paragraph says what discovery does to a wife. Ch 9's page is unchanged.
+- **Ch 10** lost "How we got here", the quote wall, Owen, the blanket and the treats. **Ch 11** lost the week on the ration and the retrain/doctor paragraphs. **Ch 13**: the minor types are one list, "The ladder"; the married man, the imagination-only man and the church guy keep full sections; boys are left to Ch 29/30.
+- **Ch 16** has one timetable (finish the book, then stop, whatever week it is); the plaster and the stress lecture are gone. **Ch 19** has three false incentives, not four. **Ch 20**: "One man's last time" is one paragraph; "Five things" and "If you feel gloomy" are gone; "Two warnings" kept short.
+- **Ch 21** now holds "Whose voice is that?" and "Lines for a hard moment" (eight lines), both moved in from the Appendix. "Try it and see" is three paragraphs.
+- **Fit for Service** was rewritten: "Who gains?", "The king on the roof" (Bathsheba and Uriah named as people who were harmed), "Drunk on duty". No guilt list, no Ai.
+- **Ch 27**: the final step is "a decision, spoken out loud". The prayer says "I am done with..." instead of "I will not...". A full version for the man who doesn't pray follows it. New section "The first three days". The conditions list is gone.
+- **Ch 28**: the cellar, the dentist, the three-weeks friend and the checklist are gone (the checklist's one home is Ch 31). The telling-your-wife answer is longer: tell her once and whole, she sets the pace. **If You Slip** lost "The bully"; step three is "find the lie that crept back".
+- **Ch 30** opens with "To wives", rewritten as support for her (betrayal, truth owed, her pace, her no, support of her own, when it is bigger than a book). Pastors, women and the silence sections are short. **Ch 31** has four verses. **Ch 32** ends "You're free, and you're fit for service. Go in peace."
+- **Appendix**: crisis, abuse and ordinary-help sections unchanged; reading list is seven items. The full annotated list is saved in `editorial/further-reading-full.md`.
+- SOURCES comments still list some quotations that were cut. They are kept for the record.
+- Still open (James): moving Ch 30 and the Appendix out of the numbered run; merging the short chapters (12, 18, 22); testimonies from real readers.
+
 ## 1. The book in one paragraph
 
 A free, anonymous, Christian-scaffolded self-help book for men, in the spirit of EasyPeasy (itself built on Allen Carr). Thesis: lust gives a man nothing, so once he sees that, stopping is easy and needs no willpower. Lust has three faces: porn, the hand, and bad decisions with women ("thinking with the wrong head"). Frame: a man ruled by lust is a soldier who shows up drunk for duty. He is loved and he is unfit. The book gets him fit. Method: read in order, carry on as normal until the end, then pray the prayer in Ch 27. Free to read, CC BY-SA 4.0. About 69,000 prose words; Ch 8, 30, 5, 13, 10 and 28 are the longest.

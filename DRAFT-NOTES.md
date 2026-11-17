@@ -351,3 +351,30 @@ Settled on 2026-11-17 (James: "Just decide these things for me and publish"):
   text used for every other verse check.
 - The two r/TrueChristian lines in Ch 1 are now paraphrases, because the post
   could not be opened to check the wording. No unverified direct quote is left.
+
+## Revision 9: cut, polish and read-aloud pass (2026-11-17)
+
+James approved steps 1 to 4 of editorial/READER-REPORT.md, then the new
+content ("just do it, anything to make it better"). Done in five batches on
+main. Prose length: about 70,300 words before, about 49,700 after (29% less),
+counted without comments, the FAQ and Why This Book Exists.
+
+- Cuts follow the report's cut map. No chapter was merged or moved, so every
+  shared chapter link still works. Three FAQ links that pointed at removed
+  section headings were repointed.
+- Tone: Chapter 8's shaming run is gone, and Fit for Service was rewritten so
+  that it keeps the "nobody will shame you" promise and treats Bathsheba and
+  Uriah as people who were harmed.
+- Repeated lines are rationed (see section 0 of editorial/BIBLE.md).
+- Read-aloud: forum quotes with typos or no punctuation were cut or turned
+  into paraphrases; MO, PMO and DOC are gone; most three-sentence shouts in
+  capitals are now bold sentence case. Scripture is unchanged word for word
+  (some verses were cut whole; Ephesians 5:12 was dropped and 5:13 kept).
+- New content: a spoken version of the final step for the man who doesn't
+  pray (Ch 27), "The first three days" (Ch 27), a section for wives that is
+  about her (Ch 30), and a longer answer on telling your wife (Ch 28).
+- Moved: "Whose voice is that?" and the coping lines went from the Appendix
+  to Chapter 21. The long reading list is in editorial/further-reading-full.md.
+- Not done, waiting on James: moving Ch 30 and the Appendix out of the
+  numbered run, merging Chapters 12, 18 and 22, real readers' testimonies.
+  Chapter 9's blank page still uses non-breaking spaces for the layout.
