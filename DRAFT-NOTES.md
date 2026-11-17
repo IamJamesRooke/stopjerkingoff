@@ -264,3 +264,27 @@ duty. Research: research/round5/findings.md.
 
 To check: "their oldest handbook" for the Akron Manual; whether James wants the
 chapter numbered (that means renumbering 27 to 33 and every reference to them).
+
+## Revision 8: the book widens to lust in general, in plainer language (started 2026-11-17)
+
+James's direction: the book should help a man conquer lust as a whole (porn,
+masturbation, and bad decisions with women), under the "fit for service" frame,
+with shorter sentences and simpler words. Rules are in STYLE.md under "Scope
+and plain-language rules". The title, subtitle and links are the Publisher
+thread's job.
+
+Sample, pushed first for James to check:
+
+- **Introduction:** new opening (James's promise and the drunk soldier), the
+  EasyPeasy paragraph rewritten for porn in scope, a caution on "carry on as
+  normal", two new self-test questions, the third face (with "simping" once),
+  the lust/desire definition, and new entries under "A few terms".
+- **Chapter 1:** the aim is now lust; "does nothing for you" covers the porn,
+  the hand and the chase.
+- **Chapter 3:** lust defined against desire, the three doors, the Little
+  Monster's diet, porn's endless novelty (one Screwtape line), and a new
+  section, "Thinking with the wrong head".
+- Long sentences (over 25 words, quotations excluded): Introduction 4 to 0,
+  Chapter 1 3 to 0, Chapter 3 10 to 0.
+
+Still to do: the remaining chapters in four batches, then a consistency pass.

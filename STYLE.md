@@ -27,3 +27,34 @@ The book: *Stop Jerking Off: The Easy Peasy Guide to Quitting Masturbation and C
 - **"If you're an atheist, play along."** Use it once or twice in the whole book, not in every chapter. It is kept in the Introduction and the blessing (Chapter 32). Elsewhere say "if you're not a believer" and give the unbeliever something to do.
 - **Source names.** Creators such as FitXFearless are described in the body ("one coach") and named only in the SOURCES comment and on the attribution page.
 - **Quotes.** A quote that cannot be checked against its source becomes a paraphrase, with a note in SOURCES saying why.
+
+## Scope and plain-language rules (added 2026-11-17, from James)
+
+**Scope.** The book is about conquering lust, not only masturbation. Lust has
+three faces: porn, the hand, and the bad decisions a man makes around women
+("thinking with the wrong head"). Porn is fully in scope; EasyPeasy is still
+credited and recommended, but readers are not sent away to it.
+
+- "The habit" means masturbation, with or without porn. When a claim is true of
+  lust in general, say "lust". Leave passages about the act itself (the body,
+  sleep, the first weeks) as they are.
+- Lust is not desire. Noticing beauty and wanting a wife are good. Lust is
+  desire turned into taking. Keep that distinction near any wider claim.
+- The frame is "fit for service": a man ruled by lust is a soldier who shows
+  up for duty drunk. He is loved and he is unfit. It opens the Introduction and
+  pays off in the chapter "Fit for Service". Never let "unfit" read as
+  "unloved".
+- "Simping" appears once, in the Introduction, with a plain explanation.
+  Elsewhere describe the thing in ordinary words. Write about women with
+  respect: the fault is the man's thirst, not the woman.
+- "Carry on as normal until the last page" is about private habits. It is never
+  permission to hurt someone (an affair, using a woman, anything illegal).
+
+**Plain language.**
+
+- One idea per sentence. Split any sentence over about 25 words unless it is a
+  quotation or a verse.
+- Prefer the everyday word. Rewrite an awkward sentence; don't patch it.
+- Never change Bible verses or quoted words.
+- Check each chapter with the long-sentence script (sentences over 25 words,
+  quotations excluded) before and after editing.
