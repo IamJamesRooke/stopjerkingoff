@@ -1,5 +1,7 @@
 # Stop Jerking Off: The Easy Peasy Way to Conquer Lust
 
+**Read it free at [stopjerkingoff.com](https://stopjerkingoff.com/)**, online or as a PDF or EPUB. No sign-up, no ads, nothing to buy.
+
 A free, open-source hackbook for men who want to break the compulsive masturbation habit and master lust, written as a spiritual successor to [EasyPeasy](https://easypeasymethod.org/) on a Christian foundation. It's for anyone who wants out, whatever they believe.
 
 Written in R Markdown and built with [Bookdown](https://bookdown.org), using the EasyPeasy project's layout: one `.Rmd` file per chapter.
