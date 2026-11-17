@@ -24,13 +24,7 @@ if (knitr::is_html_output(excludes = "epub")) {
 }
 ```
 
-<span style="font-size:xx-large;">DO NOT SKIP CHAPTERS</span>
-
 This free book will help you conquer lust. You will stop masturbating, stop watching porn, and stop making bad decisions with women because you're thinking with the wrong head. You'll stop right away, you'll stay stopped, and you won't be miserable doing it. There are no cold showers in here, no rubber bands on your wrist, and no ninety-day streak counter to babysit. Nobody is going to shame you, and nobody is going to ask you to grit your teeth.
-
-Here is why it matters. The people around you need good men: good fathers, good husbands, good brothers, and a man with your gifts. A man ruled by lust is like a soldier who shows up for duty drunk. He may be on the right side. He may even be loved. He is still unfit for service. This book will get you fit, and it is easier than you think.
-
-This book is a spiritual successor to the free book [*The Easy Peasy Way to Quit Porn*](https://easypeasymethod.org/), known as EasyPeasy. It is not an official sequel. A different author wrote it, in the same spirit and with the same method. EasyPeasy deals with porn. This book takes on the whole of lust: porn, the hand, and what lust does to a man around women. It works on its own. But do consider reading EasyPeasy as well, before or after. It is free, it takes a few hours, and this book is built on it.
 
 You don't need to stop, or even cut down, while you read. In fact, please don't start a willpower campaign. Make no vows, start no streaks, and don't cut down. Live as you are and keep reading to the last page. Chapter 1 explains why, and why this is not permission to sin.
 
@@ -58,29 +52,17 @@ You are in good company, by the way. One pastor who writes honestly about mastur
 
 Are you reading this for a son, a husband, a brother or a friend? The best thing you can do is get him to read it. If he won't, read it yourself. Once you see how the trap works, you'll be far better at helping him out of it. You'll also be better at keeping the next boy from walking in.
 
-## About this book {-}
+## One root, three faces {-}
 
-If you've read EasyPeasy, you already know how this works. Maybe you used it to walk away from porn. Well done. You got out of the harem. If you haven't, and porn is still part of your life, don't worry. This book covers it.
-
-But porn is only one face of the problem. Many men find that once the porn is gone, something is still there underneath. It's the hand, the late-night itch, the shower routine, and the reel of memories that plays whenever you're bored or alone. One man finished EasyPeasy and reported back to a recovery forum. The videos had lost their hold on him long ago, he said, and he had blocked them "successfully, but I had/have problem with MO". (MO is forum shorthand for masturbation and orgasm. It comes from PMO: porn, masturbation, orgasm.)
-
-He is one of the men this book was written for.
-
-For plenty of men the hand was never porn's sidekick in the first place. It came first. One man, who now speaks to rooms full of men about this, was at it years before he saw a single video: "Before I ever watched porn ... I was engaging in that act." Porn arrived later and moved into a house that was already built.
-
-And that leftover habit is not harmless. It is the back door. One man who had quit porn twice put it like this:
+Lust has three faces in this book. The first is porn. The second is the hand: the late-night itch, the shower routine, the reel of memories that plays when you're bored or alone. Many men quit porn and find the hand is still there. It is not harmless. It is the back door. One man who had quit porn twice put it like this:
 
 > "Masturbation led to my demise both times and drastically impeded recovery since it seems to be a gateway to porn relapse."
 >
 > — a man on a porn-recovery site
 
-There is a third face, and it doesn't need a screen or a locked door. It's what lust does to a man around real women. He sends the message he shouldn't. He stays with the wrong woman, or chases one who is using him. He spends money to impress, says yes when he means no, and can't think straight near a pretty face. The internet calls this simping: fawning over women because you want something from them. It is the same lust, making his decisions for him.
+The third face doesn't need a screen or a locked door. It's what lust does to a man around real women. He sends the message he shouldn't. He stays with the wrong woman, or chases one who is using him. He spends money to impress, says yes when he means no, and can't think straight near a pretty face. The internet calls this simping. It is the same lust, making his decisions for him.
 
 So this book goes after the root. You aren't going to manage three problems. You are going to get lust itself out of the driving seat, and the porn, the hand and the bad decisions go with it.
-
-Let's be honest about where this book comes from. We didn't invent anything. We took EasyPeasy's format, chapter by chapter, and applied it to lust as a whole. EasyPeasy was itself a rewrite of Allen Carr's *Easy Way to Stop Smoking*. The credit for the method belongs to Carr and to the EasyPeasy authors. Any mistakes in applying it here are ours.
-
-Like EasyPeasy, this book is free and open, and anyone may copy it and pass it on.
 
 It works on one condition:
 
@@ -98,27 +80,11 @@ Take the steps in order and I can promise you this method is:
 - **Clean.** You won't swap one outlet for another, or for overeating, scrolling or drinking.
 - **Permanent.**
 
-You probably don't believe a word of that. Neither did the men below, once. Some of them are still in the trap, and some have walked out. Here they are, in their own words.
-
-First, the men still inside:
-
-> "It's been like 13 years now when I first started to masturbate and I really hate it!"
->
-> — a man on a sobriety forum
+You probably don't believe a word of that. Neither did these men, once. The first is still in the trap. The other two have walked out.
 
 > "I hate it, but I continually feed it."
 >
 > — a commenter on a Christian recovery blog
-
-> "For eleven years, I would spend my days in a mental prison cell, one I didn't realize I was in."
->
-> — a man who shared his story on a Christian recovery blog
-
-And the men who got out:
-
-> "I believe now that in the 43rd year of my life, I have finally overcome this evil habit."
->
-> — another commenter on the same blog
 
 > "I feel like coming out from a fog that has been around me all this time."
 >
@@ -128,33 +94,25 @@ And the men who got out:
 >
 > — a commenter under a testimony video, five years free
 
-> "I did notice a benefit of increased focus… I felt so much more like myself."
->
-> — a YouTuber who went a year without it
+Notice what the free men talk about. They don't describe a lifelong fight. They describe chains breaking and a fog lifting. That is where this book is taking you.
 
-Notice what the free men talk about. They don't describe a lifelong fight. They describe chains breaking, a fog lifting, and feeling like themselves again. That is where this book is taking you.
-
-## A word on faith {-}
+## A word on faith, and a word to men {-}
 
 This book is written from a Christian point of view. It says plainly what the Bible says: lust is sin. Jesus didn't set the bar at the act. He set it at the look: "everyone who gazes at a woman to lust after her has committed adultery with her already in his heart" (Matthew 5:28).
 
-That one sentence covers all three faces. Porn is the look, sold by the hour. The bad decisions start with the look. And the hand? Ask yourself how often you've done it with a completely empty head. No face, no memory, no scene. For almost every man the answer is never. That is why this book calls the habit what it is.
+That one sentence covers all three faces. Porn is the look, sold by the hour. The bad decisions start with the look. And the hand? Ask yourself how often you've done it with a completely empty head. For almost every man the answer is never.
 
 One thing must be clear from the start. Lust is not the same as desire. Noticing that a woman is beautiful is not a sin. Wanting a wife is not a sin. God made desire, and he made it strong. Lust is desire turned into taking: the look you go back for, the woman used as material. This book is against the taking. It has nothing against the desire.
 
-But this book isn't a sermon, and you don't have to be a Christian to use it. If you're an atheist, play along. When the book mentions God or sin, read it as your conscience talking, or call it mindful self-talk if that helps. The trap works the same way on a believer and an unbeliever, and so does the way out.
+But this book isn't a sermon, and you don't have to be a Christian to use it. If you're an atheist, play along. When the book mentions God or sin, read it as your conscience talking. The trap works the same way on a believer and an unbeliever, and so does the way out. You should know now that the last step of the book is a decision and a prayer. Nothing is sprung on you.
 
 And if you are a Christian, hear this early: the word "sin" is in this book to tell the truth, not to beat you with it. The same Bible that sets the bar at the look also says, "There is therefore now no condemnation to those who are in Christ Jesus" (Romans 8:1). This book holds on to both, and so should you. Guilt has never set a man free. You'll see why soon.
-
-## A word to men {-}
 
 This book is written to men, about mastering lust. (If you're a woman, you are not the only one either. Women write about this same struggle, and about having no one to talk to. The trap is built the same way. Change the pronouns and read on.)
 
 There is a bigger theme under all of this, and it will run through every chapter: self-control. **A man who can't control his lust can't be trusted.** His wife can't fully trust him. His employer can't. Worst of all, he can't trust himself, because he has broken his own word too many times.
 
-One coach, who talks to young men about this every week, says it bluntly: "the more lust controls you the easier you are to control". He's right. A man led around by an itch is an easy man to lead around.
-
-That is the drunk soldier from the first page. You may be a Christian. You may be on God's side, and he does love you. But a man ruled by lust can't fight at full strength, and the men beside him go without the support they were counting on. You were made for something. This book is about getting you fit for it, and it comes back to that picture near the end.
+Picture a soldier who shows up for duty drunk. He may be on the right side. He may even be loved. He is still unfit for service, and the men beside him go without the support they were counting on. A man ruled by lust is like that. You were made for something. This book is about getting you fit for it, and it comes back to that picture near the end.
 
 The good news is that the reverse is also true. The man who is free of this walks differently. You're about to find out.
 
@@ -164,19 +122,15 @@ If you're hoping this book will frighten you into quitting, you'll be disappoint
 
 Let's be straight about the medicine, too. Doctors will tell you that masturbation doesn't damage your body, and we're not going to argue with them. **This book isn't about your body.** It's about your mind, your drive, your word and your soul.
 
-This book says lust is a sin and a thief. It says the habit robs you of drive, focus and self-respect. It says so as conviction, and as the testimony of men who've lived it. You are the best witness. You know how you feel ten minutes afterwards. As that same coach puts it: "You finish and then you sit there wondering why you feel tired, unmotivated, and empty." No study is needed for that. You were there.
+This book says lust is a sin and a thief. It says the habit robs you of drive, focus and self-respect. It says so as conviction, and as the testimony of men who've lived it. You are the best witness. You know how you feel ten minutes afterwards.
 
 Nor will this book sell you superpowers. Some corners of the internet promise that quitting will turn you into a magnet for women with a deeper voice and glowing skin. We promise none of it. What you get is better than a superpower: you get yourself back.
-
-The usual methods ask you to use willpower. Count the days. Cut down to once a week. Hide the phone, take the cold shower, and white-knuckle through the urges. Some websites will bury you in claims. Some churches will bury you in guilt. None of it removes the reason you do it. Forbid a thing and you make it precious, and the moment you weaken, you're back.
 
 This method is different. Some of what you're about to read will be hard to believe. By the last chapter you'll believe all of it, and you'll wonder how you ever swallowed the opposite.
 
 Here's the first thing that will sound strange: **you never chose this habit.**
 
 Yes, you choose each time. You lock the door, you pick up the phone, you start. But did you ever sit down as a boy and decide, "I'm going to do this every night for the next fifteen years, whether I want to or not"? Of course you didn't. Curiosity and puberty started it. Then the habit quietly took the wheel, and for most of us porn later poured fuel on it.
-
-When did you decide that you couldn't sleep without it? That you couldn't get through a stressful day without it? That an evening alone would be unbearable without it? You never decided any of that. It crept up on you.
 
 You've walked into a trap, and it is one of the most subtle traps there is, because the bait is your own body. No man caught in it wants his son caught in it too. That tells you everything. Every man in the trap wishes he'd never started, and yet every man in the trap carries on. Nobody forces him. So why does he do it?
 
@@ -194,9 +148,7 @@ What keeps you in the trap isn't desire. It's **FEAR**: the fear that stopping m
 - "It's the only thing that helps me sleep."
 - "Everyone does it, and anyone who says he doesn't is lying."
 
-Live by those beliefs for long enough and they produce exactly the life they predict. You feel you're owed it every night. You treat a day without it as a day of suffering. You wait for the next private moment. You start looking at women as material and stop seeing them as people.
-
-So the fear grows. You fear the nights alone. You fear the hard days at work without your little reward. You fear you'll never relax, focus or feel confident without it. Most of all, you fear you'll never be completely free. You fear that this is just how men are, and that even if you stop, you'll spend the rest of your life fighting it. If you've already tried and failed many times, as most of us have, you won't just fear that. You'll be sure of it. One man wrote that he had failed so often he sometimes wondered whether God's grace for him had run out.
+So the fear grows. You fear the nights alone, and the hard days without your little reward. Most of all, you fear you'll never be completely free. You fear that this is just how men are, and that even if you stop, you'll spend the rest of your life fighting it. If you've already tried and failed many times, as most of us have, you'll be sure of it. One man wrote that he had failed so often he sometimes wondered whether God's grace for him had run out.
 
 It hasn't. And you are not a hopeless case. You've only been using a method that can't work.
 
@@ -214,7 +166,7 @@ Remember the prodigal son? He was sitting in a pigsty, starving, when "he came t
 
 ## Finally… {-}
 
-Every man can find it easy to walk away from lust, and that includes you. Your only job is to keep reading, chapter by chapter, with your mind open. Every piece that clicks makes the next one easier. Even if some of it goes over your head, do what the book says and it will still work. You won't spend your life feeling deprived or pining for it. Before long you'll struggle to remember why you ever thought you needed it.
+Every man can find it easy to walk away from lust, and that includes you. Your only job is to keep reading, chapter by chapter, with your mind open. Every piece that clicks makes the next one easier.
 
 There are only two ways to fail with this method:
 
@@ -223,22 +175,18 @@ There are only two ways to fail with this method:
 
 You're about to do what every man in the trap secretly longs to do. You're going to be free, and you have every reason to look forward to it.
 
-**DO NOT SKIP CHAPTERS.**
-
 ### A few terms {-}
 
 - **Lust:** desire turned into taking. It has three faces in this book: porn, the hand, and the bad decisions a man makes around women.
-- **MO:** masturbation and orgasm. You'll also see "the habit" and "jerking off". They all mean the same thing. **PMO** adds porn at the front.
-- **The habit:** masturbation, with or without porn. When the book means lust in general, it says "lust".
-- **NoFap:** an online movement, with a large forum, of men trying to stop porn and masturbation. Many of the men quoted in this book wrote there.
-- **The Little Monster:** the restless itch that says "go on, just do it", or "just look", or "just text her". It's small, and it dies quickly once you stop feeding it.
-- **The Big Monster:** the lies in your head that make the itch seem important. This book kills the Big Monster. The Little Monster then starves.
+- **The habit:** masturbation, with or without porn.
+- **MO** and **PMO:** forum shorthand you'll meet in a few quotations. MO is masturbation and orgasm. PMO adds porn at the front.
+- **NoFap:** an online movement of men trying to stop porn and masturbation. Many of the men quoted in this book wrote there.
 
 ### How to read this book {-}
 
-Don't read it like a novel. It's short, and a few hours will get you through it. Many men find it helps to take notes or highlight as they go, and to read it a second time so it sticks.
+Don't read it like a novel. It's short, and a few hours will get you through it. Many men find it helps to read it a second time so it sticks.
 
-Why give it away? Because the method that freed so many men from porn ought to reach every man that lust still leads around. Nobody makes money from this book.
+This book is a spiritual successor to the free book [*The Easy Peasy Way to Quit Porn*](https://easypeasymethod.org/), known as EasyPeasy. A different author wrote it, in the same spirit and with the same method. EasyPeasy was itself a rewrite of Allen Carr's *Easy Way to Stop Smoking*, so the credit for the method belongs to them. Any mistakes in applying it here are ours. Like EasyPeasy, this book is free. Nobody makes money from it, and anyone may copy it and pass it on.
 
 There are communities for men walking this road. Visit them after you've finished the book, not before.
 
