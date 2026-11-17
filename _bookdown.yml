@@ -3,7 +3,6 @@ delete_merged_file: true
 language:
   ui:
     chapter_name: "Chapter "
-edit: https://github.com/IamJamesRooke/stopjerkingoff/edit/main/%s
 # The FAQ and the article are website-only pages, so the PDF and EPUB stay the plain book.
 rmd_files:
   html:

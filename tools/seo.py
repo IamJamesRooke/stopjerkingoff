@@ -89,9 +89,7 @@ def head_tags(url, title, is_home, noindex, desc=DESCRIPTION, extra_ld=None):
     return "\n".join(tags) + "\n"
 
 
-# Map each page to its chapter file so the toolbar's Edit button works.
-# bookdown leaves "%s" unfilled in this merged build, so fill it here.
-EDIT_BASE = "https://github.com/IamJamesRooke/stopjerkingoff/edit/main/"
+# Map each page to its chapter file (used to order pages in llms.txt).
 def pandoc_id(text):
     m = re.search(r"\{[^}]*#([\w.-]+)[^}]*\}", text)
     if m:
@@ -135,7 +133,6 @@ for rmd in sorted(Path(".").glob("*.Rmd")):
             SOURCES[pandoc_id(line[2:])] = rmd.name
             break
 SOURCES["index"] = "index.Rmd"
-EDIT_PLACEHOLDER = EDIT_BASE + "%s"
 
 def chapter_desc(s):
     """A page's own search description: its opening paragraph (after any epigraph), about 155 characters."""
@@ -176,8 +173,6 @@ for p in pages:
     if m:
         s = s[:m.start()] + f"<title>{html.escape(title)}</title>" + s[m.end():]
     s = STRIP.sub("", s)
-    src = SOURCES.get(name[:-5])
-    s = s.replace(EDIT_PLACEHOLDER, EDIT_BASE + src if src else "https://github.com/IamJamesRooke/stopjerkingoff")
     if name == "introduction.html":
         url = SITE  # canonical points at the homepage copy
     # Put the homepage cover above the "Introduction" heading.
