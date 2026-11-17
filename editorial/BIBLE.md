@@ -73,7 +73,7 @@ A free, anonymous, Christian-scaffolded self-help book for men, in the spirit of
 
 **8 What It's Doing to You.** (The bus conversation and the skyscraper joke were cut 2026-11-17; the last cost section is now "The fuse"; Nehemiah's armed builders tie the wall to the soldier.) Costs already being paid: drive (the coach's "weak man", turned to grace), focus, confidence, standing before God, marriage, the way you see women, death grip. Walls (Proverbs 25:28). "Nobody's lever." Shadows. *Sets up*: Ch 9 joke; the lever returns in 14, 32.
 
-**9 Advantages of Jerking Off.** An empty page.
+**9 Advantages of Lust.** An empty page.
 
 **10 The Willpower Method.** How a man gets hooked, the first attempts, why willpower fails, the counter, Romans 7, Owen: only the Spirit. Names the willpower pattern for porn and the chase too. Enjoyment never came into it. Self-control as a quiet door, not a siege.
 
@@ -137,9 +137,9 @@ A free, anonymous, Christian-scaffolded self-help book for men, in the spirit of
 
 ## 7. Open items
 
-- **Psalm 4:8 (Ch 5)**: main reads "for you alone, Yahweh" (ebible.org, current). An older WEB reads "for you, Yahweh alone". Pick one edition and name it on the Attribution page.
-- **Two Reddit quotes in Ch 1** (r/TrueChristian, "human effort" and "try and try and try") are unverified. A NOTE comment sits in the file.
-- Attribution and Ch 32 now point to stopjerkingoff.com as the contact route (no email address). The WEB edition is still not named, pending the Psalm 4:8 decision.
-- Ch 9's title ("Advantages of Jerking Off" vs "Advantages of Lust") is James's call.
+- **Psalm 4:8 (Ch 5)**: settled 2026-11-17. It reads "for you, Yahweh alone", word for word from the WEB text used for all verse checks.
+- **Two Reddit quotes in Ch 1**: settled 2026-11-17. Both are now paraphrases ("one man on a Christian forum wrote that..."), because the post could not be checked.
+- Attribution and Ch 32 now point to stopjerkingoff.com as the contact route (no email address).
+- Ch 9's title is "Advantages of Lust" (settled 2026-11-17, to match the book's scope). The file name is unchanged.
 - Still repeated on purpose (the method's device): "would you start again?", the "nothing to give up" case, the instruction lists in Ch 12, 20, 27, 28, 31.
 - The repository owner's name: the Edit button and source link were removed from the site by the Publisher (commit b75fa75); tool and worker files still carry it.

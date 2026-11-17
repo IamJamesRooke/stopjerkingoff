@@ -62,7 +62,7 @@ Anonymous. This follows EasyPeasy chapter by chapter: same order, same job for e
 - **Verse:** Proverbs 25:28, "a city that is broken down and without walls".
 - **Research:** the deepest testimony gathering in the book; FitXFearless on drive; pastors on lust and manhood.
 
-### 09 — Advantages of Jerking Off
+### 09 — Advantages of Lust
 - Blank page. The joke stays.
 
 ### 10 — The Willpower Method

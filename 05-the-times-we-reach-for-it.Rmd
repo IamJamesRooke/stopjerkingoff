@@ -106,7 +106,7 @@ It's a poor sedative in any case. Ask this man:
 
 The session runs late and the phone runs later, and at seven the next morning he drags himself out of bed and blames the mattress.
 
-When you stop, you may have two or three nights when the old cue fires and you lie there for a while. Don't dread them. Lie there and smile, because you know what's dying. After that you'll sleep the way you did as a boy. David wrote of it: "In peace I will both lay myself down and sleep, for you alone, Yahweh, make me live in safety." (Psalm 4:8). Notice that he says he'll sleep in peace. He doesn't say he'll sleep worn out.
+When you stop, you may have two or three nights when the old cue fires and you lie there for a while. Don't dread them. Lie there and smile, because you know what's dying. After that you'll sleep the way you did as a boy. David wrote of it: "In peace I will both lay myself down and sleep, for you, Yahweh alone, make me live in safety." (Psalm 4:8). Notice that he says he'll sleep in peace. He doesn't say he'll sleep worn out.
 
 ## Energy {-}
 
@@ -204,5 +204,5 @@ Come to me, the verse says, and I will give you rest. That's better than relief,
 - "you get the surge of dopamine you feel kind of content you feel a little bit sleepy so it's like it's almost like a self-medication." — Dr Alok Kanojia ("Dr. K", psychiatrist), HealthyGamerGG, "Bouncing From One Addiction to Another", https://www.youtube.com/watch?v=7hj1gnmm1s8 (auto-captions, checked against research/transcripts/healthygamer-7hj1gnmm1s8.md; research/round3/findings.md; he is describing masturbation before sleep)
 - "you can't give oxytocin to yourself I can't hug myself I can't feel bonded to myself I require another human being" — Dr Alok Kanojia ("Dr. K", psychiatrist), HealthyGamerGG, "How to Kick Your P**n Habit in 35 Minutes", https://www.youtube.com/watch?v=QJvHglNMsqc (auto-captions, checked against research/transcripts/healthygamer-QJvHglNMsqc.md; research/round3/findings.md; the sentence begins "the problem with pornography is that")
 - "At evening, David arose from his bed and walked on the roof of the king's house." — 2 Samuel 11:2 (WEB), first sentence; checked against the WEB text in research/round4/findings.md. The chapter "Fit for Service" quotes verses 1-2 at length.
-- Scripture (World English Bible): Matthew 11:28; Psalm 4:8; Genesis 2:18 (the clause "It is not good for the man to be alone"). Psalm 4:8 follows the current ebible.org WEB text ("for you alone, Yahweh"; see DRAFT-NOTES Revision 2). An older WEB edition reads "for you, Yahweh alone", which is why research/quote-verification.md flagged it; left as it is pending James's choice of edition.
+- Scripture (World English Bible): Matthew 11:28; Psalm 4:8; Genesis 2:18 (the clause "It is not good for the man to be alone"). Psalm 4:8 is word for word from the World English Bible text used for every verse check in this book ("for you, Yahweh alone"; set 2026-11-17).
 -->

@@ -343,9 +343,11 @@ Follow-up, same day (James agreed to all three open questions):
     is confirmed.
   - 988 (call or text) confirmed on cdc.gov. RAINN 800-656-4673 confirmed.
 
-Still open for James:
+Settled on 2026-11-17 (James: "Just decide these things for me and publish"):
 
-- Psalm 4:8 follows the current ebible.org wording ("for you alone, Yahweh").
-- Two r/TrueChristian quotes in Ch 1 are still unverified (NOTE in the file).
-  Reddit can't be reached from here.
-
+- Chapter 9 is titled "Advantages of Lust", to match the book's scope. Chapter
+  8's last line was changed to match.
+- Psalm 4:8 (Ch 5) reads "for you, Yahweh alone", word for word from the WEB
+  text used for every other verse check.
+- The two r/TrueChristian lines in Ch 1 are now paraphrases, because the post
+  could not be opened to check the wording. No unverified direct quote is left.

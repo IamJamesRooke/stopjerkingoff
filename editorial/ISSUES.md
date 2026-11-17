@@ -10,7 +10,7 @@ Three batches, one pass each (commits "Coherence pass, batch 1/2/3"). Long sente
 
 - **Fixed:** B1 (soldier threaded through 3, 8, 10, 12, 13, 20, 21, 26, 28, 28b, 31 and closed in 32), B2 (three faces named in 6, 10, 12, 15, 16, 17, 18, 20, 21, 23, 29), B5 (the vow/decision line in Ch 1, 20, 25, 31), B6, B7 (Ch 30 is now only for the people around him), B8 (slip guidance lives in the new unnumbered chapter "If You Slip", 28b), B9 (all three references), B10 (Romans 8:1), B11, B17, and chapter items 0.1, 3.1, 3.2, 4.1, 6.1, 6.3, 7.1, 8.1, 8.2, 8.3, 10.1, 10.2, 11.1, 12.1, 13.1, 13.3, 14.1, 14.2, 15.1, 16.1, 17.1, 18.1, 18.2, 19.1, 19.2, 20.1, 20.2, 21.1, 22.1, 23.1, 24.1, 24.2, 25.1, 26.1, 26.2, 26.b.2, 26.b.3, 27.1, 27.2, 28.1, 28.2, 28.3, 30.1, 30.2, 30.3, 30.4, 31.1, 32.1, 33.1, W.1, W.2.
 - **Partly fixed:** B4 (the ration week, the marriage incentive, Dobson, both Lewis lines, the chain line and the wet-dream answer now have one home; the deliberate refrains and the instruction lists stay), B13, B14 (NoFap and semen retention glossed; "hackbook" gone), B15 ("cannot fail" and "fail far more often" reworded), 32.2 and W.3 (contact route is the site, no address).
-- **Not done (polish, or James's call):** B3 remainder (tool files), B12 overused words, B16 (Ch 9 title), 0.3 (Intro length), 3.3, 5.1 and D.1 (Psalm 4:8), 1.1 and D.2 (two Reddit quotes), 13.2 (Ch 13 length, trimmed only a little), 22.2.
+- **Not done (polish, or James's call):** B3 remainder (tool files), B12 overused words, 0.3 (Intro length), 3.3, 13.2 (Ch 13 length, trimmed only a little), 22.2.
 
 ## A. Book-wide issues
 
@@ -230,7 +230,9 @@ Three batches, one pass each (commits "Coherence pass, batch 1/2/3"). Long sente
 - **Author name:** none in any chapter, the Attribution page, FAQ or Why This Book Exists. Present only in the site and tooling files listed in B3.
 - **Spelling:** British throughout; the one "color" is inside a quote.
 
-## D. The two open items
+## D. The two open items (both settled 2026-11-17)
+
+Settled: Psalm 4:8 now reads "for you, Yahweh alone" (WEB, word for word); the two Ch 1 quotes are paraphrases; Ch 9 is titled "Advantages of Lust" (B16).
 
 1. **Psalm 4:8, Ch 5:** "for you alone, Yahweh" (ebible.org, now) vs "for you, Yahweh alone" (older WEB). Pick the edition; name it on the Attribution page. (B10)
 2. **Ch 1, two r/TrueChristian quotes** (the "human effort" line and "try and try and try"): unverified; Reddit can't be reached from here. James to check while logged in, or cut. (1.1)
