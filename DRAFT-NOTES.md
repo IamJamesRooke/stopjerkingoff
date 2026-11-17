@@ -322,15 +322,30 @@ reader finish, change and pass it on; add calls to spread it):
   Ch 32 (why it matters: lust made normal, who pays for it, "one free man at a
   time"), FAQ and Why This Book Exists.
 
-Open items for James:
+Follow-up, same day (James agreed to all three open questions):
+
+- **Narrator's stories reworded.** James: put readability and changing lives
+  first; don't state anything false on material facts. The first-person
+  stories were inherited from the method's narrator, so they are now told
+  about "a man": "One man's last time" (Ch 20), the friend at three weeks
+  (Ch 28), and single lines in Ch 3, 7, 8, 17 and 26. The author still says
+  "I" for opinions.
+- **Fit for Service stays unnumbered.**
+- **Facts checked on the web, 2026-11-17.**
+  - Pornhub removed millions of videos from unverified uploaders in December
+    2020 after the New York Times report on rape and child-abuse videos:
+    confirmed (TechCrunch, 14 Dec 2020). Ch 4 now gives the year and the
+    reason. Ch 30 and Ch 32 rest on the same source.
+  - NoFap began from a 2011 thread about a seven-day testosterone study, and
+    the study was retracted in 2021: confirmed (Wikipedia, "NoFap").
+  - The Akron Manual dates from 1940, a year after AA's Big Book, so "their
+    oldest handbook" became "one of their earliest handbooks". The quoted line
+    is confirmed.
+  - 988 (call or text) confirmed on cdc.gov. RAINN 800-656-4673 confirmed.
+
+Still open for James:
 
 - Psalm 4:8 follows the current ebible.org wording ("for you alone, Yahweh").
 - Two r/TrueChristian quotes in Ch 1 are still unverified (NOTE in the file).
-- Claims from general knowledge, to verify before print: the big porn sites
-  removing millions of unverified videos, and force and children in some porn
-  (Ch 4, Ch 30, Ch 32); the 988 and RAINN numbers (Ch 33); "their oldest
-  handbook" for the Akron Manual (Fit for Service).
-- Fit for Service is unnumbered so the chapter numbers didn't move. Say if it
-  should be a numbered chapter.
-- The first-person stories ("My last time" in Ch 20, the friend in Ch 28) are
-  the method's inherited narrator. Say if they should be reworded as "one man".
+  Reddit can't be reached from here.
+
