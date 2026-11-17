@@ -16,7 +16,7 @@ FULL_TITLE = "Stop Jerking Off: The Easy Peasy Way to Conquer Lust"
 DESCRIPTION = ("Conquer lust the easy way: stop masturbating and watching porn without willpower or shame. "
                "A free book in the style of EasyPeasy that helps you walk away for good.")
 IMAGE = SITE + "images/og-image.png?v=5"
-AUTHOR = "AnotherHackAuthor"
+PUBLISHER = {"@type": "Organization", "name": TITLE, "url": SITE}  # the book is anonymous
 # Search-engine ownership checks: paste the code from Google Search Console / Bing Webmaster Tools here.
 GOOGLE_VERIFY = ""
 BING_VERIFY = ""
@@ -72,7 +72,7 @@ def head_tags(url, title, is_home, noindex, desc=DESCRIPTION, extra_ld=None):
             "name": TITLE,
             "alternativeHeadline": "The Easy Peasy Way to Conquer Lust",
             "description": DESCRIPTION, "url": SITE, "image": IMAGE,
-            "author": {"@type": "Person", "name": AUTHOR},
+            "publisher": PUBLISHER,
             "inLanguage": "en", "isAccessibleForFree": True,
             "license": "https://creativecommons.org/licenses/by-sa/4.0/",
             "isBasedOn": "https://easypeasymethod.org/",
@@ -127,8 +127,7 @@ def faq_ld(s):
 def article_ld(url, title, desc):
     return {"@context": "https://schema.org", "@type": "Article", "headline": title,
             "description": desc, "url": url, "image": IMAGE,
-            "author": {"@type": "Person", "name": AUTHOR},
-            "publisher": {"@type": "Organization", "name": TITLE, "url": SITE},
+            "author": PUBLISHER, "publisher": PUBLISHER,
             "about": {"@type": "Book", "name": TITLE, "url": SITE}}
 for rmd in sorted(Path(".").glob("*.Rmd")):
     for line in rmd.read_text(encoding="utf-8").splitlines():
@@ -230,7 +229,7 @@ llms = f"""# {FULL_TITLE}
 - No streak counting, no cutting down, no substitutes, and no fortress of blockers held up by willpower. A slip is not a "relapse"; wet dreams and morning erections are not slips.
 - Makes no medical claims: it accepts that doctors say masturbation doesn't harm the body, and focuses on mind, drive, self-control and faith. No "superpowers" or testosterone promises.
 - A spiritual successor to EasyPeasy (https://easypeasymethod.org/), by a different author, not an official sequel. It covers porn as well; EasyPeasy is still recommended reading.
-- Licence: CC BY-SA 4.0. Author: {AUTHOR} (pen name).
+- Licence: CC BY-SA 4.0. Published anonymously: the book is about the reader, not the writer.
 - Good fit for: men who want to stop masturbating or watching porn, men who quit porn but still masturbate, men whose lust drives how they treat women, NoFap users tired of resetting counters, Christian men struggling with lust, married men, and wives, parents or pastors trying to help someone.
 
 ## Start here

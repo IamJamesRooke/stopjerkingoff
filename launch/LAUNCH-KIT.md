@@ -1,6 +1,6 @@
 # Launch Kit: *Stop Jerking Off*
 
-Everything here is a **draft**. Nothing has been posted anywhere. Post as **AnotherHackAuthor** (or "the Stop Jerking Off book") only. Never use a personal name, photo or account.
+Everything here is a **draft**. Nothing has been posted anywhere. Post as **the Stop Jerking Off book** only. The book is anonymous: there is no author name. Never use a personal name, photo or account.
 
 - Site: https://stopjerkingoff.com
 - Share image: `images/og-image.png` (1200x630). Square logo: `images/logo-512.png`.
@@ -28,7 +28,7 @@ The book is free, honest and useful, so the job isn't "marketing". It's putting 
 
 | # | What | Why it's high | Effort |
 |---|------|---------------|--------|
-| 1 | **Set up the pen-name identity**: an email at the domain and a pen-name Reddit/X account (section 2) | Everything else needs it, and it keeps your name out | 30 min |
+| 1 | **Set up the book's identity**: an email at the domain and a Reddit/X account in the book's name (section 2) | Everything else needs it, and it keeps your name out | 30 min |
 | 2 | **Tell your own people**: men's group chats, church friends, your pastor (section 3.6) | Warmest audience, real feedback, first readers | 20 min |
 | 3 | **Write to the quoted sources** (section 5) | Courteous, honest, and one share from a big channel beats months of posting | 1 hr for the first 10 |
 | 4 | **Reddit, done slowly and by the rules** (section 4) | The men who need this are on r/NoFap, r/pornfree and r/EasyPeasy right now | 15 min a day |
@@ -39,7 +39,7 @@ The book is free, honest and useful, so the job isn't "marketing". It's putting 
 
 ### This week
 
-- **Day 1 (today/tomorrow):** create the email and the pen-name accounts. Add the email to the Attribution page ("If you are quoted here... please say so" currently has no contact route). Read the Reddit rules sidebar of each sub in section 4 and start the karma plan.
+- **Day 1 (today/tomorrow):** create the email and the book's accounts. Add the email to the Attribution page ("If you are quoted here... please say so" currently has no contact route). Read the Reddit rules sidebar of each sub in section 4 and start the karma plan.
 - **Day 2:** send the group-chat message (3.6) to two or three chats you're in. Ask your pastor if he'd read the Introduction and Chapter 30 ("Advice to Non-users").
 - **Day 3:** send the source emails to the top five in section 5.2 (Captain Sinbad, QuitByHealing, We Need to Talk, Nick Jones, Time of Grace).
 - **Day 4:** post on the NoFap forum (6.1). Modmail r/EasyPeasy and r/NoFap asking whether a free, non-commercial spiritual successor can be shared (4.3).
@@ -53,11 +53,11 @@ The book is free, honest and useful, so the job isn't "marketing". It's putting 
 ## 2. Setup before you post
 
 1. **Book email.** Create a mailbox on the domain, e.g. `hello@stopjerkingoff.com`, in Hostinger (Emails section). Use it for every account below and for the outreach emails. Templates below say `[book email]`.
-2. **Pen-name accounts.** Reddit (`u/AnotherHackAuthor` or similar), X, and optionally TikTok/YouTube/Instagram under the same handle, all signed up with the book email. Don't link them to your personal phone contacts or Facebook.
+2. **The book's accounts.** Reddit (`u/StopJerkingOffBook` or similar), X, and optionally TikTok/YouTube/Instagram under the same handle, all signed up with the book email. Don't link them to your personal phone contacts or Facebook.
 3. **Profile text** (use everywhere):
    > Writer of *Stop Jerking Off*, a free book that helps men quit masturbation without willpower or shame. A spiritual successor to EasyPeasy. Free forever: stopjerkingoff.com
 4. **Contact route in the book.** Add one line to `attribution.Rmd` under "please say so": "Write to [book email]."
-5. **Facebook** has no real pen-name option. Either share from your own profile as "a free book I found helpful" (doesn't reveal authorship), or create a Facebook Page for the book, which can be run without your name showing.
+5. **Facebook** has no real option for an account in the book's name. Either share from your own profile as "a free book I found helpful" (doesn't reveal authorship), or create a Facebook Page for the book, which can be run without your name showing.
 6. **LinkedIn:** skip it. It only works under your real name, and the topic doesn't fit the platform.
 
 ---
@@ -164,7 +164,7 @@ Format that works with no face: text on screen over plain B-roll (walking, a roa
 
 ### 3.5 YouTube (long form, optional later)
 
-A 10–15 minute narrated "the first chapter" video or the full audiobook (planned with ElevenReader) can go on a pen-name channel. Title idea: "How to Stop Masturbating Without Willpower (Free Book, Chapter 1)".
+A 10–15 minute narrated "the first chapter" video or the full audiobook (planned with ElevenReader) can go on a channel in the book's name. Title idea: "How to Stop Masturbating Without Willpower (Free Book, Chapter 1)".
 
 ### 3.6 Men's and church group chats (WhatsApp, Signal, text)
 
@@ -288,7 +288,7 @@ Short, respectful, and asks for nothing they have to do. Send from `[book email]
 >
 > Thank you for the work you do. It's helping men get free.
 >
-> AnotherHackAuthor
+> Stop Jerking Off (stopjerkingoff.com)
 > stopjerkingoff.com
 
 **Notes for specific cases** (put an honest line in, rather than hiding disagreements):
@@ -369,7 +369,7 @@ The strongest approach is personal: one pastor reading it and recommending it to
 
 ### 6.4 Podcasts to pitch
 
-Pitch as AnotherHackAuthor (audio-only shows suit a pen name). Verify each show is still active before pitching.
+Pitch as the book, not as a person (audio-only shows suit an anonymous guest). Verify each show is still active before pitching.
 
 - **Pints with Aquinas** (Matt Fradd; often discusses lust and porn; Fradd is quoted in the book)
 - **Ask Pastor John** (Desiring God; takes listener questions, so submit a question about the habit rather than a pitch)
@@ -385,7 +385,7 @@ Pitch as AnotherHackAuthor (audio-only shows suit a pen name). Verify each show 
 >
 > Hi [name],
 >
-> I'm the author (writing as AnotherHackAuthor) of *Stop Jerking Off: The Easy Peasy Way to Conquer Lust*, a free book for men who've tried to stop and keep failing. It's a spiritual successor to EasyPeasy, the free book many men have used to quit porn, and applies the same approach to masturbation and lust on a Christian foundation.
+> I'm writing on behalf of *Stop Jerking Off: The Easy Peasy Way to Conquer Lust*, a free book for men who've tried to stop and keep failing. It's a spiritual successor to EasyPeasy, the free book many men have used to quit porn, and applies the same approach to masturbation and lust on a Christian foundation.
 >
 > What makes it different:
 > - It calls the habit sin plainly, and then leans on grace (Rom 8:1, 6:14) rather than shame or white-knuckle willpower.
@@ -399,7 +399,7 @@ Pitch as AnotherHackAuthor (audio-only shows suit a pen name). Verify each show 
 >
 > Thank you for your work with men.
 >
-> AnotherHackAuthor
+> Stop Jerking Off (stopjerkingoff.com)
 > [book email]
 
 ---
@@ -419,7 +419,7 @@ Pitch as AnotherHackAuthor (audio-only shows suit a pen name). Verify each show 
 
 ## 8. Article for Substack or Medium
 
-**Where to post it:** a free Substack or Medium account under the pen name AnotherHackAuthor. Setup takes a few minutes: sign up with the book email (not your personal one), set the display name to AnotherHackAuthor, use `images/logo-512.png` as the profile picture and `images/og-image.png` as the header image. Then paste the post below. Post it whenever you're ready. Nothing has been posted for you.
+**Where to post it:** a free Substack or Medium account under the book's name, Stop Jerking Off. Setup takes a few minutes: sign up with the book email (not your personal one), set the display name to AnotherHackAuthor, use `images/logo-512.png` as the profile picture and `images/og-image.png` as the header image. Then paste the post below. Post it whenever you're ready. Nothing has been posted for you.
 
 **It's already live on the site** at https://stopjerkingoff.com/why-this-book.html, so you can share that link today. When you post it elsewhere, tick Medium's "import" option (or add a line at the bottom saying it first appeared on stopjerkingoff.com) so search engines know the original.
 
@@ -431,8 +431,6 @@ Pitch as AnotherHackAuthor (audio-only shows suit a pen name). Verify each show 
 
 ---
 
-
-*By AnotherHackAuthor*
 
 There's a free book called EasyPeasy that has helped a great many men walk away from porn. It doesn't use shame or willpower. It simply takes apart the beliefs that keep a man going back, until there's nothing left to want. Men who read it often describe the same thing: they expected a fight, and it never came.
 
@@ -481,4 +479,4 @@ And if you're the one who's been stuck, you have nothing to lose. If you read ev
 
 ---
 
-*AnotherHackAuthor writes under a pen name. Stop Jerking Off is based on EasyPeasy and Allen Carr's Easy Way to Stop Smoking, and is shared under CC BY-SA 4.0.*
+*Stop Jerking Off is published anonymously. It is based on EasyPeasy and Allen Carr's Easy Way to Stop Smoking, and is shared under CC BY-SA 4.0.*

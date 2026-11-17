@@ -1,6 +1,6 @@
 # Backlinks Kit: *Stop Jerking Off*
 
-Ready-to-paste copy for getting links to **https://stopjerkingoff.com** from other sites. Everything is a draft and nothing has been posted. As with the [Launch Kit](LAUNCH-KIT.md), use the pen name **AnotherHackAuthor** and the book email for every account, never your personal name, photo or email.
+Ready-to-paste copy for getting links to **https://stopjerkingoff.com** from other sites. Everything is a draft and nothing has been posted. As with the [Launch Kit](LAUNCH-KIT.md), post as **the Stop Jerking Off book** (it has no author name) and use the book email for every account, never your personal name, photo or email.
 
 **Honest expectation:** most of the 100 sites on the list are directories for software, AI tools or startups. They would reject a free book, charge for a listing, or give a link nobody clicks. About a dozen are worth doing. The links that will matter most for this book are still the ones in the Launch Kit: the EasyPeasy and NoFap communities, ministries, and the people the book quotes.
 
@@ -25,7 +25,7 @@ Contents
 **Your checklist, in order (about 2 hours in all):**
 
 1. [ ] **GitHub repo settings (2 min):** on the repo page, click the gear next to "About". Paste the website, description and topics from [4.1](#41-github-fit). This is the single most useful step here.
-2. [ ] **Pen-name Gravatar (10 min):** the base identity for the rest. [4.2](#42-gravatar-fit)
+2. [ ] **Gravatar for the book (10 min):** the base identity for the rest. [4.2](#42-gravatar-fit)
 3. [ ] **One link-in-bio page (10 min):** Linktree *or* Carrd *or* about.me. One is enough. [4.3](#43-link-in-bio-pages-fit-pick-one)
 4. [ ] **Medium and Substack (20 min):** the article from Launch Kit section 8 is ready. [4.4](#44-medium-and-substack-fit)
 5. [ ] **GitLab mirror (10 min):** EasyPeasy itself lives on GitLab, so readers look there. [4.5](#45-gitlab-fit)
@@ -43,8 +43,8 @@ Tip: when a site asks for "canonical URL" or "originally published at", give the
 | Site | What to put there | Why |
 |---|---|---|
 | github.com | Repo website field, description and topics | The repo already exists; the website field is the most visible link on the page. Skip a profile README: it would put your real name next to the book. |
-| gravatar.com | Pen-name profile with links | Free, and powers profile pictures on Medium, dev.to, WordPress and more |
-| linktr.ee / carrd.co / about.me | One link-in-bio page | Free pen-name hub to put in social bios. Pick one. |
+| gravatar.com | Profile in the book's name, with links | Free, and powers profile pictures on Medium, dev.to, WordPress and more |
+| linktr.ee / carrd.co / about.me | One link-in-bio page | Free hub for the book to put in social bios. Pick one. |
 | medium.com | Article from Launch Kit section 8 | Free, large faith and self-improvement readership |
 | substack.com | Same article, plus an optional newsletter | Free; good for later "new chapter" or audiobook updates |
 | gitlab.com | Mirror of the repo | EasyPeasy is hosted on GitLab, so its readers search there |
@@ -71,7 +71,7 @@ Tip: when a site asks for "canonical URL" or "originally published at", give the
 | linkcentre.com | Free directory with an account. Tiny value. |
 | alternative.me | Mostly software; might accept as an EasyPeasy alternative. |
 | stacker.news | A link post costs a few sats (Bitcoin), so it's a payment. Small audience. |
-| peerlist.io | Built around your real professional profile, which breaks the pen-name rule. Only with a pen-name account, and they may not allow it. |
+| peerlist.io | Built around your real professional profile, which breaks the stay-anonymous rule. Only with an account in the book's name, and they may not allow it. |
 
 ### Skip (73): won't fit a free book
 
@@ -93,7 +93,7 @@ Tip: when a site asks for "canonical URL" or "originally published at", give the
 
 **Name:** Stop Jerking Off: The Easy Peasy Way to Conquer Lust
 
-**Author / display name:** AnotherHackAuthor
+**Display name:** Stop Jerking Off (no author name; the book is anonymous)
 
 **URL:** https://stopjerkingoff.com
 
@@ -132,13 +132,13 @@ The repo is under your real GitHub account. Nothing to change there now, but don
 ### 4.2 Gravatar (fit)
 
 1. Sign up at https://gravatar.com with the **book email**.
-2. Display name: `AnotherHackAuthor`. Photo: `images/logo-512.png`.
+2. Display name: `Stop Jerking Off`. Photo: `images/logo-512.png`.
 3. About me: the **Bio** from section 3.
 4. Links / verified accounts: add `https://stopjerkingoff.com` titled "Read the book free", and later your Medium, Substack and GitLab pages.
 
 ### 4.3 Link-in-bio pages (fit, pick one)
 
-Linktree (https://linktr.ee), Carrd (https://carrd.co, free tier allows 3 sites), about.me, Taplink or allmyfaves all work the same way. Sign up with the book email, handle `anotherhackauthor` (or `stopjerkingoff` if free), logo as the picture, **Bio** from section 3, and these links:
+Linktree (https://linktr.ee), Carrd (https://carrd.co, free tier allows 3 sites), about.me, Taplink or allmyfaves all work the same way. Sign up with the book email, handle `stopjerkingoff` (or `stopjerkingoffbook` if taken), logo as the picture, **Bio** from section 3, and these links:
 
 1. Read the book free → https://stopjerkingoff.com
 2. Common questions → https://stopjerkingoff.com/faq.html
@@ -152,12 +152,12 @@ Carrd headline if you use it: **Stop Jerking Off** / subhead: the **tagline** / 
 
 The article is ready in [Launch Kit section 8](LAUNCH-KIT.md#8-article-for-substack-or-medium), with title, subtitle and tags.
 
-- **Medium:** sign up with the book email, display name AnotherHackAuthor. Best option: use **Import a story** (from your profile menu → Stories → Import) and paste `https://stopjerkingoff.com/why-this-book.html`. Medium then sets the canonical link to the site for you. Add the tags from the Launch Kit.
+- **Medium:** sign up with the book email, display name Stop Jerking Off. Best option: use **Import a story** (from your profile menu → Stories → Import) and paste `https://stopjerkingoff.com/why-this-book.html`. Medium then sets the canonical link to the site for you. Add the tags from the Launch Kit.
 - **Substack:** create a free publication named "Stop Jerking Off" (address `stopjerkingoff.substack.com` if free). About page: the **long description**. Paste the article as the first post and add at the bottom: "This first appeared at stopjerkingoff.com." Substack lets you set the publication's website link in Settings; add the site there too.
 
 ### 4.5 GitLab (fit)
 
-1. Sign up at https://gitlab.com with the book email, username `anotherhackauthor`.
+1. Sign up at https://gitlab.com with the book email, username `stopjerkingoffbook`.
 2. New project → **Import project** → **Repository by URL** → `https://github.com/IamJamesRooke/stopjerkingoff.git`. Project name `stopjerkingoff`, visibility Public.
 3. Settings → General: **Project description** = the **short description**. Add a topic for each GitHub topic above.
 4. Optional, to keep it current: Settings → Repository → **Mirroring repositories** → pull from the GitHub URL (pull mirroring may need a paid tier; if so, just re-import occasionally).
@@ -176,7 +176,7 @@ dev.to's rules allow posts about your own projects when they're useful to develo
 
 ### 4.7 Maybe: Hugging Face dataset
 
-1. Sign up at https://huggingface.co with the book email, username `anotherhackauthor`.
+1. Sign up at https://huggingface.co with the book email, username `stopjerkingoffbook`.
 2. New → Dataset, name `stop-jerking-off-book`, license `cc-by-sa-4.0`, public.
 3. Upload `full-draft.md` (or the built EPUB) once the text is final.
 4. Dataset card:
@@ -227,8 +227,6 @@ For dev.to, Hashnode, HackMD and maybe HackerNoon. It's about how the site is bu
 **Tags:** bookdown, githubactions, opensource, writing
 
 ---
-
-*By AnotherHackAuthor*
 
 I'm writing a free book and wanted it to live on its own domain, look good on a phone, offer PDF and EPUB downloads, and cost nothing to run. Here's the stack I ended up with. It's all open source, so you can copy it.
 
