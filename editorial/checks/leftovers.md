@@ -3,19 +3,15 @@
 - **pen name / author name in book files**: 0 hit(s) 
 - **EasyPeasy author credit (Hackauthor)**: 3 hit(s) 33:49, attribution:15, attribution:21
 - **'hackbook' (unexplained jargon)**: 3 hit(s) Intro:240, 33:49, attribution:15
-- **first-person author anecdote (I + past tense)**: 2 hit(s) 2:75, 10:87
+- **first-person author anecdote (I + past tense)**: 1 hit(s) 2:75
 - **'wifey' / casual**: 1 hit(s) 6:37
 - **'sequel' (allowed only as 'not an official sequel')**: 1 hit(s) Intro:33
-- **'play along' (allowed: Intro, Ch 32)**: 2 hit(s) Intro:145, 32:69
-- **'atheist' (convention: say 'not a believer')**: 3 hit(s) Intro:145, 23:38, 32:69
+- **'play along' (allowed: Intro, Ch 32)**: 2 hit(s) Intro:145, 32:71
+- **'atheist' (convention: say 'not a believer')**: 3 hit(s) Intro:145, 23:38, 32:71
 - **'jerking off' (use rarely, on purpose)**: 3 hit(s) Intro:231, 3:156, 8:169
 
 ## Files outside the chapters that name the repository owner
 
-- _output.yml:14
-- _bookdown.yml:6
-- tools/seo.py:94
-- tools/seo.py:180
 - worker/README.md:13
 - worker/feedback-worker.js:6
 - worker/feedback-worker.js:10
@@ -95,6 +91,8 @@
 - 30:98 Chapter 1: ...eady expert in guilt. Guilt is what sends them back, as Chapter 1 explained. The Canadian pastor Tim Challies ended a hard-hittin...
 - 30:106 Chapter 4: ...dressed to men, but the trap doesn't check who walks in. As Chapter 4 said, pastors who write honestly about it reckon that nearl...
 - 30:124 Chapter 4: ...Chapter 4 told you about the industry that lives on lust. There is a ...
+- 31:3 Chapter 27: ...This page is for the man who has prayed the prayer in Chapter 27. If you skipped here, go back. Until the last page your onl...
+- 31:3 Chapter 20: ...instructions are to keep reading and to carry on as normal. Chapter 20 gave the method in two lines, decide and rejoice. These ele...
 - 32:33 Chapter 20: ...Thomas Chalmers, the old Scottish preacher you met in Chapter 20, asked about the heart's old attachment: "may it not be sup...
 - 33:21 Chapter 28: ...Chapter 28 said that for some men this habit started after they were a...
 - 33:35 Chapter 28: ...Your pastor or an elder. Chapter 28 covered how to tell him, and Chapter 30 told him how to listen....

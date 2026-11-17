@@ -74,7 +74,7 @@ A free, anonymous, Christian-scaffolded self-help book for men, in the spirit of
 
 **9 Advantages of Jerking Off.** An empty page.
 
-**10 The Willpower Method.** How a man gets hooked, the first attempts, why willpower fails, the counter, Romans 7, Owen: only the Spirit. Enjoyment never came into it. Self-control as a quiet door, not a siege.
+**10 The Willpower Method.** How a man gets hooked, the first attempts, why willpower fails, the counter, Romans 7, Owen: only the Spirit. Names the willpower pattern for porn and the chase too. Enjoyment never came into it. Self-control as a quiet door, not a siege.
 
 **11 Beware of Cutting Down.** Home of the Saturdays-only man's week ("A week on the ration", moved here from Ch 13). Rations make it precious; "less is not less"; "willpower for life"; edging; retraining; Romans 13:14.
 
@@ -120,9 +120,9 @@ A free, anonymous, Christian-scaffolded self-help book for men, in the spirit of
 
 **30 Advice to Non-users.** Only for the people around him: getting him to read, wives, parents, pastors, a note on women, help end the silence. (The user's own sections moved out 2026-11-17: slipping to 28b, porn and sex to Ch 28, leaving EasyPeasy's path to Ch 27.)
 
-**31 The Instructions.** Eleven lines, verses, "YES! I'M FREE!".
+**31 The Instructions.** Labelled as the page for after the prayer; says it spells out Ch 20's two lines. Eleven lines, verses, "YES! I'M FREE!".
 
-**32 Now.** Today only. Where to now: the cleared room, nobody's lever, back in the fight. Pass it on. Blessing (Numbers 6).
+**32 Now.** Today only. Where to now: the cleared room, nobody's lever, back in the fight. The soldier closes here ("sober as well ... a place on the wall"). Pass it on. Blessing (Numbers 6). Last line: "Report for duty, and bring somebody with you."
 
 **33 Appendix.** Crisis and abuse help (988, RAINN), ordinary help, reading list, coping lines, "Whose voice is that?" (Trimpey, retold).
 
