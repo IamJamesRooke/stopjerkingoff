@@ -16,6 +16,8 @@ Contents
 5. [Writing to the people the book quotes](#5-writing-to-the-people-the-book-quotes)
 6. [Other channels: forums, ministries, groups, pastors, podcasts](#6-other-channels)
 7. [Things to avoid](#7-things-to-avoid)
+
+For directory and profile backlinks, see [BACKLINKS.md](BACKLINKS.md).
 8. [Article for Substack or Medium](#8-article-for-substack-or-medium)
 
 ---
