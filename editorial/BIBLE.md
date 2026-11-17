@@ -70,17 +70,17 @@ A free, anonymous, Christian-scaffolded self-help book for men, in the spirit of
 
 **7 Getting Your Time Back.** The clock: 30 minutes a day sums, the hunt, the chase, the job offer. Parcel of years. *Sets up*: "no farewell session, only a prayer".
 
-**8 What It's Doing to You.** Costs already being paid: drive (the coach's "weak man", turned to grace), focus, confidence, standing before God, marriage, the way you see women, death grip. Walls (Proverbs 25:28). "Nobody's lever." Shadows. *Sets up*: Ch 9 joke; the lever returns in 14, 32.
+**8 What It's Doing to You.** (The bus conversation and the skyscraper joke were cut 2026-11-17; the last cost section is now "The fuse"; Nehemiah's armed builders tie the wall to the soldier.) Costs already being paid: drive (the coach's "weak man", turned to grace), focus, confidence, standing before God, marriage, the way you see women, death grip. Walls (Proverbs 25:28). "Nobody's lever." Shadows. *Sets up*: Ch 9 joke; the lever returns in 14, 32.
 
 **9 Advantages of Jerking Off.** An empty page.
 
 **10 The Willpower Method.** How a man gets hooked, the first attempts, why willpower fails, the counter, Romans 7, Owen: only the Spirit. Enjoyment never came into it. Self-control as a quiet door, not a siege.
 
-**11 Beware of Cutting Down.** Rations make it precious; "less is not less"; "willpower for life"; edging; retraining; Romans 13:14.
+**11 Beware of Cutting Down.** Home of the Saturdays-only man's week ("A week on the ration", moved here from Ch 13). Rations make it precious; "less is not less"; "willpower for life"; edging; retraining; Romans 13:14.
 
 **12 Just Once.** Just once doesn't exist; the special one; "I'm built this way"; the little foxes.
 
-**13 Types of User.** Why all light users are caught. Nightly, married, streak, porn, "porn-free but still doing it", imagination-only, man led by women, church guy, "I'll stop when I'm married", a week in the life of a ration. Pharisee prayer. "No real types." A word about boys (see Ch 30).
+**13 Types of User.** Why all light users are caught. Nightly, married, streak, porn, "porn-free but still doing it", imagination-only, man led by women, church guy, "I'll stop when I'm married" (its home), "Less often is not happier" (a callback to Ch 11's week). Pharisee prayer. "No real types." A word about boys (see Ch 30).
 
 **14 Fantasy and the Thought Life.** Soft porn and the feed, the harem, "look but don't touch" (Matthew 5:28), the woman in the room, taking thoughts captive. Feed as business: the lever.
 
@@ -94,7 +94,7 @@ A free, anonymous, Christian-scaffolded self-help book for men, in the spirit of
 
 **19 Avoid False Incentives.** Bribes, superpowers, "to get women", the 90-day badge and pact, "when I'm married". Seek first the Kingdom. Don't announce; hand the book on quietly.
 
-**20 The Easy Way to Stop.** The two instructions: decide never again, and rejoice (repent and receive). One man's last time. Five things. Free the moment you decide. Shame vs motive. Chalmers. If you feel gloomy. Two warnings: don't decide before the end; "first weeks" is not three weeks of pain.
+**20 The Easy Way to Stop.** The two instructions: decide you are finished with lust (porn, hand, chase), and rejoice (repent and receive). Draws the line between the old willpower vow and this decision. The sober soldier on the wall. One man's last time. Five things. Free the moment you decide. Shame vs motive. Chalmers. If you feel gloomy. Two warnings: don't decide before the end; "first weeks" is not three weeks of pain.
 
 **21 The First Weeks.** Leftover itch and cue triggers (indicator and wipers). Do nothing with an urge. Not a sugar pill. Not a relapse: desire, morning erections, wet dreams, flat spell. Try-it-and-see (retention, honestly). Pass the book to a mate.
 
@@ -110,13 +110,15 @@ A free, anonymous, Christian-scaffolded self-help book for men, in the spirit of
 
 **26b Fit for Service** (unnumbered). Out of the fight (David, enemy, Nehemiah). Drunk on duty (Uriah, Ai, sober first, grace trains). "Here I am. Send me!" *Pays off*: Intro soldier. *Sets up*: Ch 27.
 
-**27 The Final Step.** Two essentials; vow vs yes-yes; the prayer (porn, hand, women, "show me the man I am to go back for"); let it ring (Maltz); you are already free; final warning, "not once".
+**27 The Final Step.** Two essentials; vow vs yes-yes; no last session (the one place we leave EasyPeasy's path); the prayer (porn, hand, women, "show me the man I am to go back for"); let it ring (Maltz); you are already free; final warning, "not once".
 
-**28 Feedback.** The man who goes back in; the cellar door. Fears; the misreadings ("fell, am I back to zero?", tell your wife or pastor); the checklist of seven; more questions (wet dream, body with wife, sleep).
+**28 Feedback.** The man who goes back in; the cellar door. Fears; the misreadings (a short "I fell" pointing to If You Slip; tell your wife or pastor, its only home); more questions (wet dream pointer, body with wife, sleep, porn, sex); the checklist of seven closes the chapter.
+
+**28b If You Slip** (unnumbered, new 2026-11-17). The one home for slip guidance: am I back to zero (confess, refuse the second one, find the instruction), the lies that follow a slip, wanting it to hurt, the bully, the pebble parody (Guillaco credited).
 
 **29 Help Those on the Sinking Ship.** Pity, don't envy; how to help; don't kick; fences don't free; your son needs an explanation.
 
-**30 Advice to Non-users.** Wives, parents, pastors, a note on women, then the user's own sections: slipping, the bully, the pebble parody, porn and sex, where we leave EasyPeasy (no last session), help end the silence, final warning.
+**30 Advice to Non-users.** Only for the people around him: getting him to read, wives, parents, pastors, a note on women, help end the silence. (The user's own sections moved out 2026-11-17: slipping to 28b, porn and sex to Ch 28, leaving EasyPeasy's path to Ch 27.)
 
 **31 The Instructions.** Eleven lines, verses, "YES! I'M FREE!".
 
