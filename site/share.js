@@ -18,8 +18,8 @@
     var header = document.querySelector(".book-header");
     if (!header || header.querySelector(".sjo-share")) return;
     var url = location.origin + location.pathname;
-    var title = "Stop Jerking Off: The Easy Peasy Guide to Quitting Masturbation and Conquering Lust";
-    var text = "A free book that helps you stop masturbating and conquer your lust.";
+    var title = "Stop Jerking Off: The Easy Peasy Way to Conquer Lust";
+    var text = "Stop masturbating, stop watching porn, and stop making bad decisions with women because you're thinking with the wrong head. A free book.";
     var u = encodeURIComponent(url), t = encodeURIComponent(text);
     var items = [
       ["X", "x", "https://x.com/intent/post?url=" + u + "&text=" + t],

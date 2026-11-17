@@ -12,10 +12,10 @@ from pathlib import Path
 
 SITE = "https://stopjerkingoff.com/"
 TITLE = "Stop Jerking Off"
-FULL_TITLE = "Stop Jerking Off: The Easy Peasy Guide to Quitting Masturbation and Conquering Lust"
-DESCRIPTION = ("Stop masturbating easily and conquer your lust, without willpower or shame. "
+FULL_TITLE = "Stop Jerking Off: The Easy Peasy Way to Conquer Lust"
+DESCRIPTION = ("Conquer lust the easy way: stop masturbating and watching porn without willpower or shame. "
                "A free book in the style of EasyPeasy that helps you walk away for good.")
-IMAGE = SITE + "images/og-image.png?v=4"
+IMAGE = SITE + "images/og-image.png?v=5"
 AUTHOR = "AnotherHackAuthor"
 # Search-engine ownership checks: paste the code from Google Search Console / Bing Webmaster Tools here.
 GOOGLE_VERIFY = ""
@@ -70,7 +70,7 @@ def head_tags(url, title, is_home, noindex, desc=DESCRIPTION, extra_ld=None):
         data = {
             "@context": "https://schema.org", "@type": "Book",
             "name": TITLE,
-            "alternativeHeadline": "The Easy Peasy Guide to Quitting Masturbation and Conquering Lust",
+            "alternativeHeadline": "The Easy Peasy Way to Conquer Lust",
             "description": DESCRIPTION, "url": SITE, "image": IMAGE,
             "author": {"@type": "Person", "name": AUTHOR},
             "inLanguage": "en", "isAccessibleForFree": True,
@@ -107,7 +107,7 @@ PAGE_DESC = {
     "faq.html": ("How do I stop masturbating? Can I quit without willpower? Is it harmful, or a sin? "
                  "Plain answers to the questions men ask most, from the free book Stop Jerking Off."),
     "why-this-book.html": ("Why willpower, streaks and NoFap counters keep failing, and how a free book in the "
-                           "style of EasyPeasy helps men stop masturbating for good."),
+                           "style of EasyPeasy helps men conquer lust and stop masturbating for good."),
 }
 
 def text_of(fragment):
@@ -223,15 +223,15 @@ special = {"faq.html", "why-this-book.html", "attribution.html"}
 chapters = "".join(f"- [{t}]({u}): {d}\n" for _, t, u, d in sorted(entries) if u.rsplit("/", 1)[-1] not in special)
 llms = f"""# {FULL_TITLE}
 
-> A free, complete book that helps men stop masturbating and conquer lust without willpower, streak counters or shame. It works like EasyPeasy (the free book for quitting porn) and Allen Carr's Easy Way to Stop Smoking: it removes the beliefs that make the habit feel worth keeping, so stopping becomes easy. Written from a Christian point of view, and it also works for readers who aren't religious.
+> A free, complete book that helps men conquer lust without willpower, streak counters or shame: stop masturbating, stop watching porn, and stop making bad decisions with women because they are thinking with the wrong head. It works like EasyPeasy (the free book for quitting porn) and Allen Carr's Easy Way to Stop Smoking: it removes the beliefs that make the habit feel worth keeping, so stopping becomes easy. Written from a Christian point of view, and it also works for readers who aren't religious.
 
 - Free to read online at {SITE}, with no ads and no sign-up. Also free as a PDF ({SITE}stopjerkingoff.pdf) and EPUB ({SITE}stopjerkingoff.epub).
 - Takes a few hours to read. Readers keep living normally until they finish, then stop.
 - No streak counting, no cutting down, no substitutes, and no fortress of blockers held up by willpower. A slip is not a "relapse"; wet dreams and morning erections are not slips.
 - Makes no medical claims: it accepts that doctors say masturbation doesn't harm the body, and focuses on mind, drive, self-control and faith. No "superpowers" or testosterone promises.
-- Sequel to EasyPeasy (https://easypeasymethod.org/); readers still using porn should read that too.
+- A spiritual successor to EasyPeasy (https://easypeasymethod.org/), by a different author, not an official sequel. It covers porn as well; EasyPeasy is still recommended reading.
 - Licence: CC BY-SA 4.0. Author: {AUTHOR} (pen name).
-- Good fit for: men who want to stop masturbating, men who quit porn but still masturbate, NoFap users tired of resetting counters, Christian men struggling with lust, married men, and wives, parents or pastors trying to help someone.
+- Good fit for: men who want to stop masturbating or watching porn, men who quit porn but still masturbate, men whose lust drives how they treat women, NoFap users tired of resetting counters, Christian men struggling with lust, married men, and wives, parents or pastors trying to help someone.
 
 ## Start here
 
