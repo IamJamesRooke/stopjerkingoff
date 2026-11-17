@@ -4,6 +4,14 @@ Read of main at commit 3416cf4, 2026-11-17. No chapter text was changed. Compani
 
 Severity: **H** = fix before the book goes wider (structure, promise, safety, privacy). **M** = real reader-facing flaw. **L** = polish. IDs are stable so the Author can tick them off. "Ch" numbers follow the book; "26b" is Fit for Service.
 
+## Status after the coherence fix pass (2026-11-17)
+
+Three batches, one pass each (commits "Coherence pass, batch 1/2/3"). Long sentences by the script: 94 before, 55 after; what is left is almost all quotation joins that the splitter can't see.
+
+- **Fixed:** B1 (soldier threaded through 3, 8, 10, 12, 13, 20, 21, 26, 28, 28b, 31 and closed in 32), B2 (three faces named in 6, 10, 12, 15, 16, 17, 18, 20, 21, 23, 29), B5 (the vow/decision line in Ch 1, 20, 25, 31), B6, B7 (Ch 30 is now only for the people around him), B8 (slip guidance lives in the new unnumbered chapter "If You Slip", 28b), B9 (all three references), B10 (Romans 8:1), B11, B17, and chapter items 0.1, 3.1, 3.2, 4.1, 6.1, 6.3, 7.1, 8.1, 8.2, 8.3, 10.1, 10.2, 11.1, 12.1, 13.1, 13.3, 14.1, 14.2, 15.1, 16.1, 17.1, 18.1, 18.2, 19.1, 19.2, 20.1, 20.2, 21.1, 22.1, 23.1, 24.1, 24.2, 25.1, 26.1, 26.2, 26.b.2, 26.b.3, 27.1, 27.2, 28.1, 28.2, 28.3, 30.1, 30.2, 30.3, 30.4, 31.1, 32.1, 33.1, W.1, W.2.
+- **Partly fixed:** B4 (the ration week, the marriage incentive, Dobson, both Lewis lines, the chain line and the wet-dream answer now have one home; the deliberate refrains and the instruction lists stay), B13, B14 (NoFap and semen retention glossed; "hackbook" gone), B15 ("cannot fail" and "fail far more often" reworded), 32.2 and W.3 (contact route is the site, no address).
+- **Not done (polish, or James's call):** B3 remainder (tool files), B12 overused words, B16 (Ch 9 title), 0.3 (Intro length), 3.3, 5.1 and D.1 (Psalm 4:8), 1.1 and D.2 (two Reddit quotes), 13.2 (Ch 13 length, trimmed only a little), 22.2.
+
 ## A. Book-wide issues
 
 - **B1 [H] The "fit for service" soldier is not threaded.** It opens the Intro, then is almost absent for 25 chapters (script count of soldier/duty/unfit/drunk/sober words: Ch 1-2 none; 3, 5, 13, 23 one passing word each; the rest zero), returns fully in 26b, gets one phrase in the Ch 27 prayer, and is not closed in Ch 32 (it says only "back in the fight"). The Intro promises it "comes back near the end", and the project brief says it runs through the book. Fix: one or two sentences in the opening or closing of about eight chapters (3, 8, 12, 20, 21, 26, 28, 32), and a one-line close in Ch 32.

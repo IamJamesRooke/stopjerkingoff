@@ -1,6 +1,6 @@
 # Book bible: *Stop Jerking Off: The Easy Peasy Way to Conquer Lust*
 
-Written 2026-11-17 from a full read of main (commit 3416cf4). Read this instead of the book when editing. Update it after each batch. For problems, see `ISSUES.md`.
+Written 2026-11-17 from a full read of main (commit 3416cf4). Updated the same day after the coherence fix pass (three batches). Read this instead of the book when editing. Update it after each batch. For problems, see `ISSUES.md`.
 
 ## 1. The book in one paragraph
 
@@ -25,16 +25,17 @@ A free, anonymous, Christian-scaffolded self-help book for men, in the spirit of
 ## 3. Key terms
 
 - **Lust**: desire turned into taking. Desire is God's idea and good (noticing beauty, wanting a wife). Lust is the second look, the woman used as material.
-- **Three faces / doors / outlets**: porn, the hand, the chase (bad decisions with women). Wording drifts ("faces" in Intro/FAQ, "outlets/doors" in Ch 3, "rooms" in Why This Book Exists); pick "faces".
+- **Three faces / doors / outlets**: porn, the hand, the chase (bad decisions with women). The term is "faces" (Ch 3 says "three faces" and keeps "three doors" as an image only).
 - **The habit**: masturbation, with or without porn. **MO / PMO**: defined in the Intro.
-- **Little Monster**: the faint restless itch ("go on, just do it / look / text her"). It is small and starves fast. **Big Monster**: the lies in your head that make the itch seem important. Kill the Big Monster and the Little one starves. (Ch 30 and the Appendix blur them: the Appendix says the Little Monster "speaks".)
+- **Little Monster**: the faint restless itch ("go on, just do it / look / text her"). It is small and starves fast. **Big Monster**: the lies in your head that make the itch seem important. Kill the Big Monster and the Little one starves. The Little Monster is an itch and can't talk; any "voice" is the Big Monster speaking for it (Appendix, fixed 2026-11-17).
 - **The flesh** (Ch 3): the part of a man that wants what it wants, now, for itself. **The world's lies** (Ch 4): the second cause.
 - **Willpower Method** (Ch 10, capitalised): any way of quitting that leaves you feeling you sacrificed something. Includes counters, streaks, rations, badges.
 - **Ration / cutting down**: any "only on Saturdays / only no screen" deal. Always rejected.
 - **Substitute**: anything pushed into the "gap". Always rejected. There is no gap.
 - **Just once**: does not exist. It is a chain.
 - **The thread**: "A man who can't control his lust can't be trusted." Self-control is a fruit, not a clenched fist.
-- **Fit for service / drunk soldier**: loved, enlisted, unfit.
+- **Fit for service / drunk soldier**: loved, enlisted, unfit. Threaded 2026-11-17: Intro, Ch 3 (orders from the bottle), 8 (Nehemiah's armed builders), 10 (only dry), 12 (drunk on duty "just once"), 13 (reporting sick), 20 (sober on the wall), 21 (sobering up), 26 (bridge), 26b, 27 prayer, 28 (fit for duty), 28b (falls back in), 31 #11, 32 (closed).
+- **Vow vs decision** (Ch 1, 20, 25, 31): the willpower vow made before understanding is out; the decision at the end with a prayer is in; plain sense (phone out of the bedroom) is not a gimmick and need not wait for the last page.
 - **Lever**: lust gives others a handle on you (Ch 8).
 - **Moment of revelation**: the day the weight lifts (Ch 26). **Flatline**: the temporary flat spell (Ch 21).
 - **"YES! I'M FREE!"**: the book's cry. **"Isn't it marvellous?"**: the first-weeks attitude.
@@ -82,7 +83,7 @@ A free, anonymous, Christian-scaffolded self-help book for men, in the spirit of
 
 **13 Types of User.** Why all light users are caught. Nightly, married, streak, porn, "porn-free but still doing it", imagination-only, man led by women, church guy, "I'll stop when I'm married" (its home), "Less often is not happier" (a callback to Ch 11's week). Pharisee prayer. "No real types." A word about boys (see Ch 30).
 
-**14 Fantasy and the Thought Life.** Soft porn and the feed, the harem, "look but don't touch" (Matthew 5:28), the woman in the room, taking thoughts captive. Feed as business: the lever.
+**14 Fantasy and the Thought Life.** ("What it comes to" recap cut.) Soft porn and the feed, the harem, "look but don't touch" (Matthew 5:28), the woman in the room, taking thoughts captive. Feed as business: the lever.
 
 **15 A Secret Habit?** Secrecy keeps it going. Forums help but use willpower. Into the light. *Promises*: when to tell comes later (Ch 28).
 
@@ -131,12 +132,14 @@ A free, anonymous, Christian-scaffolded self-help book for men, in the spirit of
 ## 6. Promises the book makes (check they are kept)
 
 - Intro: Ch 1 explains "carry on" and "not permission to sin"; the soldier "comes back near the end"; no cutting down.
-- Ch 1: reasons come off the shelf (Ch 21); an experiment in the first weeks (Ch 21); the last step is a prayer (Ch 27).
+- Ch 1 now answers "you told me it's a sin" plainly (it is sin; nobody is told to do it). Ch 1: reasons come off the shelf (Ch 21); an experiment in the first weeks (Ch 21); the last step is a prayer (Ch 27).
 - Ch 3: Ch 8 returns to the lever. Ch 4: death grip returns (Ch 8). Ch 5: David returns (26b). Ch 13: retention monk (Ch 19, 21), church guy chapter (Ch 15), boys (Ch 30). Ch 15: when to tell (Ch 28). Ch 32: "send in" corrections (no address given).
 
 ## 7. Open items
 
 - **Psalm 4:8 (Ch 5)**: main reads "for you alone, Yahweh" (ebible.org, current). An older WEB reads "for you, Yahweh alone". Pick one edition and name it on the Attribution page.
 - **Two Reddit quotes in Ch 1** (r/TrueChristian, "human effort" and "try and try and try") are unverified. A NOTE comment sits in the file.
-- Attribution page has no contact route; the WEB edition is not named.
-- The repository owner's name appears in site files (see ISSUES).
+- Attribution and Ch 32 now point to stopjerkingoff.com as the contact route (no email address). The WEB edition is still not named, pending the Psalm 4:8 decision.
+- Ch 9's title ("Advantages of Jerking Off" vs "Advantages of Lust") is James's call.
+- Still repeated on purpose (the method's device): "would you start again?", the "nothing to give up" case, the instruction lists in Ch 12, 20, 27, 28, 31.
+- The repository owner's name: the Edit button and source link were removed from the site by the Publisher (commit b75fa75); tool and worker files still carry it.
