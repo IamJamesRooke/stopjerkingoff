@@ -24,7 +24,7 @@ if (knitr::is_html_output(excludes = "epub")) {
 }
 ```
 
-This free book will help you conquer lust. You will stop masturbating, stop watching porn, and stop making bad decisions with women because you're thinking with the wrong head. You'll stop right away, you'll stay stopped, and you won't be miserable doing it. There are no cold showers in here, no rubber bands on your wrist, and no ninety-day streak counter to babysit. Nobody is going to shame you, and nobody is going to ask you to grit your teeth.
+This book will help you conquer lust. You will stop masturbating, stop watching porn, and stop making bad decisions with women because you're thinking with the wrong head. You'll stop right away, you'll stay stopped, and you won't be miserable doing it. There are no cold showers in here, no rubber bands on your wrist, and no ninety-day streak counter to babysit. Nobody is going to shame you, and nobody is going to ask you to grit your teeth.
 
 You don't need to stop, or even cut down, while you read. In fact, please don't start a willpower campaign. Make no vows, start no streaks, and don't cut down. Live as you are and keep reading to the last page. Chapter 1 explains why, and why this is not permission to sin.
 
@@ -182,7 +182,7 @@ It's short, and a few hours will get you through it. Many men find it helps to r
 
 Three words come up often. *Lust* means desire turned into taking, with its three faces: porn, the hand, and the bad decisions a man makes around women. *The habit* means masturbation, with or without porn. *NoFap* is an online movement of men trying to stop both, and many of the men quoted here wrote on its forum. Visit communities like that after you've finished the book, and not before.
 
-This book is a spiritual successor to the free book [*The Easy Peasy Way to Quit Porn*](https://easypeasymethod.org/), known as EasyPeasy. A different author wrote it, in the same spirit and with the same method. EasyPeasy was itself a rewrite of Allen Carr's *Easy Way to Stop Smoking*, so the credit for the method belongs to them. Any mistakes in applying it here are mine. Like EasyPeasy, this book is free. Nobody makes money from it, and anyone may copy it and pass it on.
+This book was inspired by a free book called [*The Easy Peasy Way to Quit Porn*](https://easypeasymethod.org/), known as EasyPeasy. EasyPeasy was itself a rewrite of Allen Carr's *Easy Way to Stop Smoking*. I borrowed its structure and its method, and the credit for both belongs to them. But I wanted to go further. Porn is only one face of the problem. This book goes after the root: lust itself. Any mistakes in applying the method here are mine. Like EasyPeasy, this book is shared under the Creative Commons Attribution-ShareAlike licence. You may copy it, share it and adapt it, as long as you give credit and keep the same licence.
 
 So I have one request, and the last chapter comes back to it. If this book helps you, pass it on. Most men have never been told there is an easy way out.
 
