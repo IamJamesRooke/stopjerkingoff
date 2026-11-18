@@ -8,7 +8,7 @@
 | 1 | 1377 | 2 | 5 | 2 | 1 | 4 | 0 | 0 | 0 | 0 | 0 |
 | 2 | 1990 | 3 | 3 | 2 | 1 | 13 | 0 | 0 | 0 | 0 | 0 |
 | 3 | 3046 | 5 | 4 | 7 | 2 | 13 | 1 | 12 | 0 | 0 | 0 |
-| 4 | 1859 | 4 | 4 | 8 | 1 | 9 | 0 | 4 | 1 | 0 | 0 |
+| 4 | 1881 | 4 | 5 | 8 | 1 | 9 | 0 | 4 | 1 | 0 | 0 |
 | 5 | 2645 | 3 | 4 | 0 | 1 | 22 | 1 | 6 | 2 | 0 | 0 |
 | 6 | 1223 | 2 | 4 | 2 | 1 | 6 | 0 | 1 | 1 | 0 | 0 |
 | 7 | 1027 | 2 | 2 | 2 | 0 | 4 | 0 | 0 | 0 | 0 | 0 |
@@ -44,7 +44,7 @@
 | faq | 1714 | 9 | 10 | 7 | 5 | 5 | 5 | 3 | 1 | 2 | 0 |
 | why-this-book | 1009 | 7 | 7 | 5 | 2 | 2 | 4 | 0 | 0 | 1 | 0 |
 
-## Overused words and phrases (book total 49910 words)
+## Overused words and phrases (book total 49932 words)
 
 | Word | Count | Per 1000 words | In how many files |
 |---|---|---|---|
@@ -64,7 +64,7 @@
 | the truth | 14 | 0.28 | 12 |
 | plainly | 13 | 0.26 | 11 |
 | simply | 13 | 0.26 | 11 |
-| of course | 11 | 0.22 | 9 |
+| of course | 10 | 0.2 | 9 |
 | moping | 10 | 0.2 | 5 |
 | envy | 9 | 0.18 | 5 |
 | honestly | 8 | 0.16 | 6 |
@@ -73,9 +73,9 @@
 | perhaps | 7 | 0.14 | 7 |
 | chain | 5 | 0.1 | 4 |
 | mope | 5 | 0.1 | 5 |
-| pipsqueak | 3 | 0.06 | 3 |
 | crutch | 3 | 0.06 | 3 |
 | stop kidding yourself | 2 | 0.04 | 2 |
+| pipsqueak | 2 | 0.04 | 2 |
 | doesn't exist | 2 | 0.04 | 2 |
 | pity | 2 | 0.04 | 2 |
 | obviously | 1 | 0.02 | 1 |
