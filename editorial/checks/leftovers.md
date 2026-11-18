@@ -33,7 +33,7 @@
 - organis: 2  |  organiz: 0
 - defence: 1  |  defense: 0
 - grey: 7  |  gray: 0
-- fortnight: 3  |  two weeks: 4
+- fortnight: 2  |  two weeks: 5
 - mum: 0  |  mom: 0
 - whilst: 0  |  while: 34
 
