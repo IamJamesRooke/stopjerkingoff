@@ -54,6 +54,10 @@ Any literary, biblical or cultural reference gets at least a short line saying w
 
 A short line or fragment may stand as its own paragraph where it carries the point ("Not one." in Chapter 1). About once or twice a chapter, never stacked. A light pass on 2026-11-18 gave one such line to Chapters 1, 3, 5, 8, 10, 12, 15, 17, 18, 19, 20, 21, 23, 26b, 28b, 30 and 32. Chapters that already had several were left alone. The rule is in STYLE.md.
 
+### Never send the reader back or forward (James, 2026-11-18)
+
+Never tell the reader to go and find something: no "read the verse at the head of the chapter again", "see above", "below", "scroll up". Nobody scrolls back, and a listener can't. Restate the line in place, in a few words or in full. Naming a chapter in passing ("Chapter 8 described this") is fine when the sentence still works without looking it up. Advice to re-read the book or a chapter after a slip is part of the method and stays.
+
 ## 3. Key terms
 
 - **Lust**: desire turned into taking. Desire is God's idea and good (noticing beauty, wanting a wife). Lust is the second look, the woman used as material.

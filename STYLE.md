@@ -96,3 +96,7 @@ A one-line paragraph, even a sentence fragment such as "Not one.", is welcome wh
 - Use it sparingly: about once or twice a chapter.
 - Only on the line that carries the point of the passage. Never on a line of setup or a joke.
 - Do not stack two of them back to back.
+
+### Never send the reader back or forward (James, 2026-11-18)
+
+Never tell the reader to go and find something: no "read the verse at the head of the chapter again", "see above", "below", "scroll up". Nobody scrolls back, and a listener can't. Restate the line in place, in a few words or in full. Naming a chapter in passing ("Chapter 8 described this") is fine when the sentence still works without looking it up. Advice to re-read the book or a chapter after a slip is part of the method and stays.
