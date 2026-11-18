@@ -79,3 +79,12 @@ There will be a definitive audiobook. Every line must sound good when it is hear
 - Leave direct quotations exactly as their authors wrote them, British spelling included (for example "I harboured a wrong notion" in Chapter 15). WEB Scripture stays verbatim.
 - Chapter 18 is titled "Can I Compartmentalize?" but keeps its old address, can-i-compartmentalise.html, through an explicit heading ID. Do not remove the ID.
 - "Flat" for the low mood after the act is kept as a running image. "Flat" for a home is "apartment".
+
+## Standing rule: every reference gets a line of context (James, 2026-11-18)
+
+Most readers have not read the Bible or the books this one draws on. Whenever a person, a book or a story is mentioned, say in a few plain words who or what it is, the first time it appears in a chapter that leans on it.
+
+- Bible people and stories: one clause or sentence. "David was Israel's greatest king." "Jesus told a story about a son who took his inheritance early."
+- Books and authors: say what the book is. *The Screwtape Letters* is a set of letters from a senior devil coaching a junior one.
+- A verse at the top of a chapter can be pointed to as "the verse that opens this chapter", so the listener knows where the name came from.
+- Keep it short and good read aloud. One sentence is usually enough. Never assume the reader is a Christian.

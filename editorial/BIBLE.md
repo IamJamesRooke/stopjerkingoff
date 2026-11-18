@@ -46,6 +46,10 @@ A free, anonymous, Christian-scaffolded self-help book for men, in the spirit of
 
 The whole book was converted on 2026-11-18. American spelling and American wording throughout, with idioms plain enough for a non-native English speaker (this also helps the Spanish edition). Direct quotations and WEB Scripture are left as written. Chapter 18's heading carries the ID `can-i-compartmentalise` so its address still works. The full rule is the last section of STYLE.md.
 
+### Every reference gets context (James, 2026-11-18)
+
+Any literary, biblical or cultural reference gets at least a short line saying who or what it is, because most readers won't know it. Applied book-wide on 2026-11-18 (the prodigal son in the Introduction, Screwtape and Lewis in Chapter 3, Augustine, David, Samson, Solomon, Nehemiah, Joseph, Job, Isaiah, Peter, the Pharisee, Jekyll and Hyde, Chalmers, Yahweh). The full rule is in STYLE.md.
+
 ## 3. Key terms
 
 - **Lust**: desire turned into taking. Desire is God's idea and good (noticing beauty, wanting a wife). Lust is the second look, the woman used as material.
