@@ -58,3 +58,15 @@ credited and recommended, but readers are not sent away to it.
 - Never change Bible verses or quoted words.
 - Check each chapter with the long-sentence script (sentences over 25 words,
   quotations excluded) before and after editing.
+
+## Standing rule: it must sound good read aloud (James, 2026-11-18)
+
+There will be a definitive audiobook. Every line must sound good when it is heard, not only when it is read.
+
+- Read each paragraph aloud in your head before it goes in. If a listener would lose the thread, split or reorder it.
+- No brackets for asides. Say it as a sentence or cut it.
+- Put a Scripture reference into the sentence ("In Romans 8:1 Paul says...") where it reads naturally. A trailing reference in brackets is fine for a closing verse.
+- Quotations with typos, missing punctuation, slang shorthand or symbols become paraphrases, with the source kept in SOURCES.
+- Avoid three sentences or paragraphs in a row that begin with the same words, unless the repetition is on purpose.
+- Spell out what a narrator can't say: no "/" alternatives, no "&", numbers that read cleanly.
+- Capitals are for one short slogan at a time, never for a run of sentences.

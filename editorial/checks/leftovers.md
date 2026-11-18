@@ -6,8 +6,8 @@
 - **first-person author anecdote (I + past tense)**: 0 hit(s) 
 - **'wifey' / casual**: 1 hit(s) 6:35
 - **'sequel' (allowed only as 'not an official sequel')**: 0 hit(s) 
-- **'play along' (allowed: Intro, Ch 32)**: 2 hit(s) Intro:107, 32:49
-- **'atheist' (convention: say 'not a believer')**: 2 hit(s) Intro:107, 32:49
+- **'play along' (allowed: Intro, Ch 32)**: 2 hit(s) Intro:109, 32:49
+- **'atheist' (convention: say 'not a believer')**: 2 hit(s) Intro:109, 32:49
 - **'jerking off' (use rarely, on purpose)**: 1 hit(s) 3:128
 
 ## Files outside the chapters that name the repository owner
@@ -19,7 +19,7 @@
 ## Pronoun for God: capitalised vs lowercase (prose lines)
 
 - capitalised He/His/Him near 'God': 1 lines: 17:46
-- lowercase he/his/him near 'God': 11 lines: Intro:105, Intro:151, 3:9, 8:29, 8:103, 11:68, 13:91, 17:46, 19:27, 26:23, 26b:35
+- lowercase he/his/him near 'God': 11 lines: Intro:107, Intro:153, 3:9, 8:29, 8:103, 11:68, 13:91, 17:46, 19:27, 26:23, 26b:35
 
 ## British vs American spelling (prose)
 
@@ -35,7 +35,7 @@
 - grey: 7  |  gray: 0
 - fortnight: 3  |  two weeks: 4
 - mum: 0  |  mom: 0
-- whilst: 0  |  while: 35
+- whilst: 0  |  while: 34
 
 ## 'Chapter N' cross-references (check each against the target chapter)
 

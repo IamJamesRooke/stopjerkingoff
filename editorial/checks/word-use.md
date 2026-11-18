@@ -4,7 +4,7 @@
 
 | File | words | lust | porn | women/woman | masturbat/MO | habit | soldier/duty/fit | Little Monster | Big Monster | wrong head | thread (can't be trusted) |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| Intro | 2740 | 16 | 12 | 13 | 6 | 9 | 5 | 0 | 0 | 1 | 1 |
+| Intro | 2691 | 15 | 11 | 13 | 6 | 9 | 5 | 0 | 0 | 1 | 1 |
 | 1 | 1290 | 2 | 7 | 2 | 1 | 4 | 0 | 0 | 0 | 0 | 0 |
 | 2 | 1969 | 2 | 3 | 2 | 1 | 13 | 0 | 0 | 0 | 0 | 0 |
 | 3 | 3007 | 5 | 4 | 7 | 2 | 13 | 1 | 12 | 0 | 0 | 0 |
@@ -44,18 +44,18 @@
 | faq | 1714 | 9 | 10 | 7 | 5 | 5 | 5 | 3 | 1 | 2 | 0 |
 | why-this-book | 1009 | 7 | 7 | 5 | 2 | 2 | 4 | 0 | 0 | 1 | 0 |
 
-## Overused words and phrases (book total 49442 words)
+## Overused words and phrases (book total 49393 words)
 
 | Word | Count | Per 1000 words | In how many files |
 |---|---|---|---|
 | nothing | 120 | 2.43 | 32 |
-| trap | 79 | 1.6 | 26 |
+| trap | 77 | 1.56 | 26 |
 | a man who | 55 | 1.11 | 23 |
 | itch | 47 | 0.95 | 19 |
 | sin | 41 | 0.83 | 22 |
 | relief | 23 | 0.47 | 9 |
-| exactly | 22 | 0.44 | 17 |
-| willpower method | 21 | 0.42 | 12 |
+| exactly | 22 | 0.45 | 17 |
+| willpower method | 21 | 0.43 | 12 |
 | really | 19 | 0.38 | 11 |
 | actually | 18 | 0.36 | 13 |
 | free man | 17 | 0.34 | 12 |
@@ -74,10 +74,10 @@
 | marvellous | 6 | 0.12 | 6 |
 | chain | 5 | 0.1 | 4 |
 | mope | 5 | 0.1 | 5 |
-| stop kidding yourself | 3 | 0.06 | 3 |
 | pipsqueak | 3 | 0.06 | 3 |
 | isn't it marvellous | 3 | 0.06 | 3 |
 | prop | 3 | 0.06 | 3 |
+| stop kidding yourself | 2 | 0.04 | 2 |
 | doesn't exist | 2 | 0.04 | 2 |
 | pity | 2 | 0.04 | 2 |
 | obviously | 1 | 0.02 | 1 |
