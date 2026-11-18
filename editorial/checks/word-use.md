@@ -31,20 +31,20 @@
 | 24 | 751 | 2 | 2 | 2 | 0 | 4 | 0 | 2 | 0 | 0 | 0 |
 | 25 | 1042 | 1 | 0 | 3 | 0 | 1 | 0 | 1 | 1 | 0 | 0 |
 | 26 | 815 | 0 | 1 | 0 | 0 | 4 | 0 | 2 | 0 | 0 | 0 |
-| 26b | 991 | 3 | 0 | 4 | 0 | 1 | 11 | 0 | 0 | 0 | 0 |
-| 27 | 1470 | 1 | 2 | 0 | 0 | 2 | 0 | 1 | 0 | 0 | 0 |
-| 28 | 2011 | 1 | 3 | 1 | 0 | 9 | 0 | 3 | 0 | 0 | 0 |
+| 26b | 1009 | 3 | 0 | 4 | 0 | 1 | 11 | 0 | 0 | 0 | 0 |
+| 27 | 1471 | 1 | 2 | 0 | 0 | 2 | 0 | 1 | 0 | 0 | 0 |
+| 28 | 2009 | 1 | 3 | 1 | 0 | 9 | 0 | 3 | 0 | 0 | 0 |
 | 28b | 1077 | 0 | 0 | 1 | 0 | 0 | 1 | 2 | 1 | 0 | 0 |
-| 29 | 882 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 30 | 1778 | 0 | 1 | 3 | 0 | 7 | 1 | 1 | 1 | 0 | 0 |
-| 31 | 216 | 1 | 1 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 |
+| 29 | 884 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 30 | 1777 | 0 | 1 | 3 | 0 | 7 | 1 | 1 | 1 | 0 | 0 |
+| 31 | 218 | 1 | 1 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 |
 | 32 | 873 | 2 | 0 | 0 | 0 | 3 | 1 | 0 | 0 | 0 | 0 |
 | 33 | 743 | 0 | 2 | 1 | 0 | 4 | 0 | 1 | 0 | 0 | 0 |
 | attribution | 386 | 1 | 1 | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 0 |
 | faq | 1714 | 9 | 10 | 7 | 5 | 5 | 5 | 3 | 1 | 2 | 0 |
 | why-this-book | 1009 | 7 | 7 | 5 | 2 | 2 | 4 | 0 | 0 | 1 | 0 |
 
-## Overused words and phrases (book total 49596 words)
+## Overused words and phrases (book total 49616 words)
 
 | Word | Count | Per 1000 words | In how many files |
 |---|---|---|---|
@@ -52,7 +52,7 @@
 | trap | 77 | 1.55 | 26 |
 | a man who | 57 | 1.15 | 24 |
 | itch | 47 | 0.95 | 19 |
-| sin | 41 | 0.83 | 22 |
+| sin | 40 | 0.81 | 22 |
 | relief | 23 | 0.46 | 9 |
 | exactly | 22 | 0.44 | 17 |
 | willpower method | 21 | 0.42 | 12 |
@@ -93,6 +93,7 @@
 - "easy way to stop smoking" x6 in 33, Intro, attribution, faq, why-this-book
 - "a man ruled by lust" x4 in 26b, Intro, faq, why-this-book
 - "a psychiatrist who treats porn" x4 in 1, 10, 4, 5
+- "a soldier who shows up" x4 in 26b, Intro, faq, why-this-book
 - "has nothing to do with" x4 in 10, 12, 23, 8
 - "man on the nofap forum" x4 in 14, 18, 19, 8
 - "man ruled by lust is" x4 in 26b, Intro, faq, why-this-book
