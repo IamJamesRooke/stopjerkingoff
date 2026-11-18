@@ -50,6 +50,10 @@ The whole book was converted on 2026-11-18. American spelling and American wordi
 
 Any literary, biblical or cultural reference gets at least a short line saying who or what it is, because most readers won't know it. Applied book-wide on 2026-11-18 (the prodigal son in the Introduction, Screwtape and Lewis in Chapter 3, Augustine, David, Samson, Solomon, Nehemiah, Joseph, Job, Isaiah, Peter, the Pharisee, Jekyll and Hyde, Chalmers, Yahweh). The full rule is in STYLE.md.
 
+### One-line paragraphs for emphasis (James, 2026-11-18)
+
+A short line or fragment may stand as its own paragraph where it carries the point ("Not one." in Chapter 1). About once or twice a chapter, never stacked. A light pass on 2026-11-18 gave one such line to Chapters 1, 3, 5, 8, 10, 12, 15, 17, 18, 19, 20, 21, 23, 26b, 28b, 30 and 32. Chapters that already had several were left alone. The rule is in STYLE.md.
+
 ## 3. Key terms
 
 - **Lust**: desire turned into taking. Desire is God's idea and good (noticing beauty, wanting a wife). Lust is the second look, the woman used as material.

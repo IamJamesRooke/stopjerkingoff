@@ -88,3 +88,11 @@ Most readers have not read the Bible or the books this one draws on. Whenever a 
 - Books and authors: say what the book is. *The Screwtape Letters* is a set of letters from a senior devil coaching a junior one.
 - A verse at the top of a chapter can be pointed to as "the verse that opens this chapter", so the listener knows where the name came from.
 - Keep it short and good read aloud. One sentence is usually enough. Never assume the reader is a Christian.
+
+## Standing rule: a key line may stand alone (James, 2026-11-18)
+
+A one-line paragraph, even a sentence fragment such as "Not one.", is welcome where it carries the point. It gives the narrator a pause and varies the length of the paragraphs.
+
+- Use it sparingly: about once or twice a chapter.
+- Only on the line that carries the point of the passage. Never on a line of setup or a joke.
+- Do not stack two of them back to back.
