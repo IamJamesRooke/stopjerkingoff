@@ -6,7 +6,7 @@
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | Intro | 2771 | 16 | 12 | 14 | 6 | 9 | 5 | 0 | 0 | 1 | 1 |
 | 1 | 1306 | 2 | 5 | 2 | 1 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 2 | 1973 | 2 | 3 | 2 | 1 | 13 | 0 | 0 | 0 | 0 | 0 |
+| 2 | 1978 | 2 | 3 | 2 | 1 | 13 | 0 | 0 | 0 | 0 | 0 |
 | 3 | 3007 | 5 | 4 | 7 | 2 | 13 | 1 | 12 | 0 | 0 | 0 |
 | 4 | 1859 | 4 | 4 | 8 | 1 | 9 | 0 | 4 | 1 | 0 | 0 |
 | 5 | 2627 | 3 | 4 | 0 | 1 | 22 | 1 | 6 | 2 | 0 | 0 |
@@ -44,7 +44,7 @@
 | faq | 1714 | 9 | 10 | 7 | 5 | 5 | 5 | 3 | 1 | 2 | 0 |
 | why-this-book | 1009 | 7 | 7 | 5 | 2 | 2 | 4 | 0 | 0 | 1 | 0 |
 
-## Overused words and phrases (book total 49493 words)
+## Overused words and phrases (book total 49498 words)
 
 | Word | Count | Per 1000 words | In how many files |
 |---|---|---|---|
@@ -89,11 +89,10 @@
 - "quote quote quote quote quote" x13 in 10, 13, 21, 28b, 4, Intro
 - "every man in the trap" x10 in 11, 13, 28, Intro
 - "easy way to stop smoking" x6 in 33, Intro, attribution, faq, why-this-book
-- "man on the nofap forum" x5 in 14, 18, 19, 2, 8
-- "a man on the nofap" x4 in 14, 18, 19, 2
 - "a man ruled by lust" x4 in 26b, Intro, faq, why-this-book
 - "a psychiatrist who treats porn" x4 in 1, 10, 4, 5
 - "has nothing to do with" x4 in 10, 12, 23, 8
+- "man on the nofap forum" x4 in 14, 18, 19, 8
 - "man ruled by lust is" x4 in 26b, Intro, faq, why-this-book
 - "men on the willpower method" x4 in 18, 19, 21, 22
 - "on as normal until the" x4 in 11, 14, 25, why-this-book
