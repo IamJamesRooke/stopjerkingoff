@@ -15,7 +15,7 @@ TITLE = "Stop Jerking Off"
 FULL_TITLE = "Stop Jerking Off: The Easy Peasy Way to Conquer Lust"
 DESCRIPTION = ("Conquer lust the easy way: stop masturbating and watching porn without willpower or shame. "
                "A free book in the style of EasyPeasy that helps you walk away for good.")
-IMAGE = SITE + "images/og-image.png?v=6"
+IMAGE = SITE + "images/og-image.png?v=7"
 PUBLISHER = {"@type": "Organization", "name": TITLE, "url": SITE}  # the book is anonymous
 # Search-engine ownership checks: paste the code from Google Search Console / Bing Webmaster Tools here.
 GOOGLE_VERIFY = ""
