@@ -42,6 +42,10 @@ A free, anonymous, Christian-scaffolded self-help book for men, in the spirit of
 - Guilt is not the engine. Say the truth about sin, then give grace in the same breath. "Unfit" never means "unloved".
 - Never call EasyPeasy a sequel: "spiritual successor", "not an official sequel".
 
+### American English (James, 2026-11-18)
+
+The whole book was converted on 2026-11-18. American spelling and American wording throughout, with idioms plain enough for a non-native English speaker (this also helps the Spanish edition). Direct quotations and WEB Scripture are left as written. Chapter 18's heading carries the ID `can-i-compartmentalise` so its address still works. The full rule is the last section of STYLE.md.
+
 ## 3. Key terms
 
 - **Lust**: desire turned into taking. Desire is God's idea and good (noticing beauty, wanting a wife). Lust is the second look, the woman used as material.

@@ -24,16 +24,16 @@
 ## British vs American spelling (prose)
 
 - colour: 0  |  color: 0
-- favour: 3  |  favor: 0
-- realise: 4  |  realize: 1
-- recognise: 2  |  recognize: 0
-- neighbour: 1  |  neighbor: 0
+- favour: 0  |  favor: 3
+- realise: 0  |  realize: 5
+- recognise: 0  |  recognize: 2
+- neighbour: 0  |  neighbor: 1
 - labour: 0  |  labor: 0
 - honour: 0  |  honor: 0
-- organis: 2  |  organiz: 0
-- defence: 1  |  defense: 0
-- grey: 7  |  gray: 0
-- fortnight: 2  |  two weeks: 5
+- organis: 0  |  organiz: 2
+- defence: 0  |  defense: 1
+- grey: 0  |  gray: 7
+- fortnight: 0  |  two weeks: 6
 - mum: 0  |  mom: 0
 - whilst: 0  |  while: 34
 
@@ -76,5 +76,5 @@
 - 33:21 Chapter 28: ...Chapter 28 said that for some men this habit started after they were a...
 - 33:35 Chapter 28: ...Your pastor or an elder. Chapter 28 covered how to tell him, and Chapter 30 told him how to listen....
 - 33:35 Chapter 30: ... or an elder. Chapter 28 covered how to tell him, and Chapter 30 told him how to listen....
-- 33:39 Chapter 30: ...or wives. You need someone of your own to talk to, as Chapter 30 said. That might be a wise older woman, a pastor or a counsellor....
+- 33:39 Chapter 30: ...or wives. You need someone of your own to talk to, as Chapter 30 said. That might be a wise older woman, a pastor or a counselor. ...
 - 33:53 Chapter 27: ...Maltz, Psycho-Cybernetics. The ringing telephone in Chapter 27 is his....

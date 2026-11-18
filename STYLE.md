@@ -70,3 +70,12 @@ There will be a definitive audiobook. Every line must sound good when it is hear
 - Avoid three sentences or paragraphs in a row that begin with the same words, unless the repetition is on purpose.
 - Spell out what a narrator can't say: no "/" alternatives, no "&", numbers that read cleanly.
 - Capitals are for one short slogan at a time, never for a run of sentences.
+
+## Standing rule: American English, plain enough for a non-native speaker (James, 2026-11-18)
+
+- American spelling throughout the book and the site text: license, realize, behavior, center, gray, toward, counselor, marvelous.
+- American wording in place of British: apartment, vacation, movie, coworker, sneakers, highway, schedule, two weeks, fight (not row), call (not ring), sick (not ill), around (not round), right away.
+- Idioms must be ones a non-native English speaker can follow. This also keeps the later Spanish edition easy to translate. When in doubt, say it plainly.
+- Leave direct quotations exactly as their authors wrote them, British spelling included (for example "I harboured a wrong notion" in Chapter 15). WEB Scripture stays verbatim.
+- Chapter 18 is titled "Can I Compartmentalize?" but keeps its old address, can-i-compartmentalise.html, through an explicit heading ID. Do not remove the ID.
+- "Flat" for the low mood after the act is kept as a running image. "Flat" for a home is "apartment".
