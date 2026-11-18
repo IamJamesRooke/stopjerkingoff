@@ -75,9 +75,9 @@ A short line or fragment may stand as its own paragraph where it carries the poi
 
 ## 4. Recurring images and stories (and where each lives)
 
-- Itch, then relief: car alarm and dripping tap, tight shoes, rash and cream (Ch 3, 6), stone in shoe (Ch 13), boots a size too small (Ch 24), pebble parody (Ch 30).
+- Itch, then relief: car alarm and dripping tap, rash and cream (the tight shoes were cut from Ch 3 on 2026-11-18) (Ch 3, 6), stone in shoe (Ch 13), boots a size too small (Ch 24), pebble parody (Ch 30).
 - Path across the lawn; grass grows back (Ch 3, 5, 8, 16).
-- Smoker on the plane / in-laws' spare room (Ch 3, back-referenced in 11, 25).
+- The week at the in-laws' guest room, the camping trip, basic training (Ch 3; the smoker on the plane was cut 2026-11-18, back-referenced in 11, 25).
 - Trap, chain, the cellar with the unlocked door (Ch 28), sinking ship (Ch 29), city without walls (Ch 8).
 - Augustine's arc: "not yet" (Ch 2), iron will (2, 10), "Why not now?" (16), "cast us off?" (17, 21), serenity (26), the child's voice (32).
 - David on the roof (Ch 5, 22, 26b); Samson and Delilah (Ch 8, 25); Joseph (Ch 25); Prodigal son (Intro, 27); Pharisee and tax collector (Ch 13); Good Samaritan (Ch 30); Nehemiah (Ch 8, 26b, 32).
