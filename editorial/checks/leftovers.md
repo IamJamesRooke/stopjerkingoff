@@ -4,7 +4,7 @@
 - **EasyPeasy author credit (Hackauthor)**: 2 hit(s) attribution:15, attribution:21
 - **'hackbook' (unexplained jargon)**: 0 hit(s) 
 - **first-person author anecdote (I + past tense)**: 0 hit(s) 
-- **'wifey' / casual**: 1 hit(s) 6:33
+- **'wifey' / casual**: 1 hit(s) 6:31
 - **'sequel' (allowed only as 'not an official sequel')**: 0 hit(s) 
 - **'play along' (allowed: Intro, Ch 32)**: 2 hit(s) Intro:109, 32:53
 - **'atheist' (convention: say 'not a believer')**: 2 hit(s) Intro:109, 32:53
@@ -19,7 +19,7 @@
 ## Pronoun for God: capitalised vs lowercase (prose lines)
 
 - capitalised He/His/Him near 'God': 1 lines: 17:44
-- lowercase he/his/him near 'God': 14 lines: Intro:107, Intro:155, 3:9, 5:85, 8:29, 8:43, 8:107, 11:66, 13:87, 17:44, 19:29, 26:23, 26b:37, 26b:49
+- lowercase he/his/him near 'God': 14 lines: Intro:107, Intro:155, 3:9, 5:85, 8:29, 8:45, 8:107, 11:66, 13:87, 17:44, 19:29, 26:23, 26b:37, 26b:49
 
 ## British vs American spelling (prose)
 
