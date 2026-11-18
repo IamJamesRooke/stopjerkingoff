@@ -13,6 +13,8 @@ output:
 documentclass: book
 description: "Conquer lust the easy way: stop masturbating and watching porn without willpower or shame. A book inspired by EasyPeasy that helps you walk away for good."
 url: "https://stopjerkingoff.com/"
+lang: en-US
+rights: "CC BY-SA 4.0. Inspired by EasyPeasy (easypeasymethod.org), also CC BY-SA."
 ---
 
 # Introduction {-}

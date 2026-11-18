@@ -20,4 +20,5 @@ bookdown::pdf_book:
   keep_tex: no
 bookdown::epub_book:
   cover_image: images/cover.png
+  metadata: epub-metadata.xml
   pandoc_args: ["--strip-comments"]

@@ -14,7 +14,7 @@ SITE = "https://stopjerkingoff.com/"
 TITLE = "Stop Jerking Off"
 FULL_TITLE = "Stop Jerking Off: The Easy Peasy Way to Conquer Lust"
 DESCRIPTION = ("Conquer lust the easy way: stop masturbating and watching porn without willpower or shame. "
-               "A free book in the style of EasyPeasy that helps you walk away for good.")
+               "A book inspired by EasyPeasy that helps you walk away for good.")
 IMAGE = SITE + "images/og-image.png?v=7"
 PUBLISHER = {"@type": "Organization", "name": TITLE, "url": SITE}  # the book is anonymous
 # Search-engine ownership checks: paste the code from Google Search Console / Bing Webmaster Tools here.
@@ -73,7 +73,7 @@ def head_tags(url, title, is_home, noindex, desc=DESCRIPTION, extra_ld=None):
             "alternativeHeadline": "The Easy Peasy Way to Conquer Lust",
             "description": DESCRIPTION, "url": SITE, "image": IMAGE,
             "publisher": PUBLISHER,
-            "inLanguage": "en", "isAccessibleForFree": True,
+            "inLanguage": "en-US",
             "license": "https://creativecommons.org/licenses/by-sa/4.0/",
             "isBasedOn": "https://easypeasymethod.org/",
             "workExample": [
@@ -102,10 +102,11 @@ SOURCES = {}
 
 # Website-only pages: their own descriptions and structured data.
 PAGE_DESC = {
+    "advantages-of-lust.html": "The chapter on the advantages of lust. The page is blank on purpose, because there are none.",
     "faq.html": ("How do I stop masturbating? Can I quit without willpower? Is it harmful, or a sin? "
-                 "Plain answers to the questions men ask most, from the free book Stop Jerking Off."),
-    "why-this-book.html": ("Why willpower, streaks and NoFap counters keep failing, and how a free book in the "
-                           "style of EasyPeasy helps men conquer lust and stop masturbating for good."),
+                 "Plain answers to the questions men ask most, from the book Stop Jerking Off."),
+    "why-this-book.html": ("Why willpower, streaks and NoFap counters keep failing, and how a book inspired "
+                           "by EasyPeasy helps men conquer lust and stop masturbating for good."),
 }
 
 def text_of(fragment):
@@ -173,6 +174,7 @@ for p in pages:
     if m:
         s = s[:m.start()] + f"<title>{html.escape(title)}</title>" + s[m.end():]
     s = STRIP.sub("", s)
+    s = re.sub(r'<html lang="[^"]*" xml:lang="[^"]*">', '<html lang="en-US" xml:lang="en-US">', s, count=1)
     if name == "introduction.html":
         url = SITE  # canonical points at the homepage copy
     # Put the homepage cover above the "Introduction" heading.
@@ -217,14 +219,14 @@ special = {"faq.html", "why-this-book.html", "attribution.html"}
 chapters = "".join(f"- [{t}]({u}): {d}\n" for _, t, u, d in sorted(entries) if u.rsplit("/", 1)[-1] not in special)
 llms = f"""# {FULL_TITLE}
 
-> A free, complete book that helps men conquer lust without willpower, streak counters or shame: stop masturbating, stop watching porn, and stop making bad decisions with women because they are thinking with the wrong head. It works like EasyPeasy (the free book for quitting porn) and Allen Carr's Easy Way to Stop Smoking: it removes the beliefs that make the habit feel worth keeping, so stopping becomes easy. Written from a Christian point of view, and it also works for readers who aren't religious.
+> A complete book that helps men conquer lust without willpower, streak counters or shame: stop masturbating, stop watching porn, and stop making bad decisions with women because they are thinking with the wrong head. It is inspired by EasyPeasy (the well-known book for quitting porn) and works like Allen Carr's Easy Way to Stop Smoking: it removes the beliefs that make the habit feel worth keeping, so stopping becomes easy. Written from a Christian point of view, and it also works for readers who aren't religious.
 
-- Free to read online at {SITE}, with no ads and no sign-up. Also free as a PDF ({SITE}stopjerkingoff.pdf) and EPUB ({SITE}stopjerkingoff.epub).
+- Read it online at {SITE}, with no ads and no sign-up. Also available as a PDF ({SITE}stopjerkingoff.pdf) and EPUB ({SITE}stopjerkingoff.epub).
 - Takes a few hours to read. Readers keep living normally until they finish, then stop.
 - No streak counting, no cutting down, no substitutes, and no fortress of blockers held up by willpower. A slip is not a "relapse"; wet dreams and morning erections are not slips.
 - Makes no medical claims: it accepts that doctors say masturbation doesn't harm the body, and focuses on mind, drive, self-control and faith. No "superpowers" or testosterone promises.
-- A spiritual successor to EasyPeasy (https://easypeasymethod.org/), by a different author, not an official sequel. It covers porn as well; EasyPeasy is still recommended reading.
-- Licence: CC BY-SA 4.0. Published anonymously: the book is about the reader, not the writer.
+- Inspired by EasyPeasy (https://easypeasymethod.org/): it borrows EasyPeasy's structure and method, is written by a different author, and covers porn as well as masturbation.
+- License: CC BY-SA 4.0, crediting EasyPeasy (also CC BY-SA). Published anonymously: the book is about the reader, not the writer.
 - Good fit for: men who want to stop masturbating or watching porn, men who quit porn but still masturbate, men whose lust drives how they treat women, NoFap users tired of resetting counters, Christian men struggling with lust, married men, and wives, parents or pastors trying to help someone.
 
 ## Start here
