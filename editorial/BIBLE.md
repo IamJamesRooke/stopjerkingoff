@@ -24,7 +24,7 @@ The chapter map in section 5 was written before this pass. Where it and this sec
 
 ## 1. The book in one paragraph
 
-A free, anonymous, Christian-scaffolded self-help book for men, in the spirit of EasyPeasy (itself built on Allen Carr). Thesis: lust gives a man nothing, so once he sees that, stopping is easy and needs no willpower. Lust has three faces: porn, the hand, and bad decisions with women ("thinking with the wrong head"). Frame: a man ruled by lust is a soldier who shows up drunk for duty. He is loved and he is unfit. The book gets him fit. Method: read in order, carry on as normal until the end, then pray the prayer in Ch 27. Free to read, CC BY-SA 4.0. About 69,000 prose words; Ch 8, 30, 5, 13, 10 and 28 are the longest.
+An anonymous, Christian-scaffolded self-help book for men, in the spirit of EasyPeasy (itself built on Allen Carr). Thesis: lust gives a man nothing, so once he sees that, stopping is easy and needs no willpower. Lust has three faces: porn, the hand, and bad decisions with women ("thinking with the wrong head"). Frame: a man ruled by lust is a soldier who shows up drunk for duty. He is loved and he is unfit. The book gets him fit. Method: read in order, carry on as normal until the end, then pray the prayer in Ch 27. Free to read, CC BY-SA 4.0. About 69,000 prose words; Ch 8, 30, 5, 13, 10 and 28 are the longest.
 
 ## 2. Voice and style rules
 
@@ -40,7 +40,7 @@ A free, anonymous, Christian-scaffolded self-help book for men, in the spirit of
 - "If you're an atheist, play along" appears only in the Intro and the Ch 32 blessing. Elsewhere "if you're not a believer".
 - "Carry on as normal" is about private habits. It never permits hurting someone (affair, using a woman, anything illegal).
 - Guilt is not the engine. Say the truth about sin, then give grace in the same breath. "Unfit" never means "unloved".
-- Never call EasyPeasy a sequel: "spiritual successor", "not an official sequel".
+- Never call this book a sequel to EasyPeasy or its "spiritual successor": it was "inspired by" it. Never call this book free.
 
 ### American English (James, 2026-11-18)
 

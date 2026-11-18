@@ -33,22 +33,22 @@
 | 26 | 815 | 0 | 1 | 0 | 0 | 4 | 0 | 2 | 0 | 0 | 0 |
 | 26b | 1009 | 3 | 0 | 4 | 0 | 1 | 11 | 0 | 0 | 0 | 0 |
 | 27 | 1471 | 1 | 2 | 0 | 0 | 2 | 0 | 1 | 0 | 0 | 0 |
-| 28 | 2009 | 1 | 3 | 1 | 0 | 9 | 0 | 3 | 0 | 0 | 0 |
+| 28 | 1999 | 1 | 3 | 1 | 0 | 9 | 0 | 3 | 0 | 0 | 0 |
 | 28b | 1077 | 0 | 0 | 1 | 0 | 0 | 1 | 2 | 1 | 0 | 0 |
-| 29 | 884 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 29 | 881 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 30 | 1777 | 0 | 1 | 3 | 0 | 7 | 1 | 1 | 1 | 0 | 0 |
 | 31 | 218 | 1 | 1 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 |
-| 32 | 873 | 2 | 0 | 0 | 0 | 3 | 1 | 0 | 0 | 0 | 0 |
-| 33 | 743 | 0 | 2 | 1 | 0 | 4 | 0 | 1 | 0 | 0 | 0 |
-| attribution | 386 | 1 | 1 | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 0 |
-| faq | 1714 | 9 | 10 | 7 | 5 | 5 | 5 | 3 | 1 | 2 | 0 |
-| why-this-book | 1009 | 7 | 7 | 5 | 2 | 2 | 4 | 0 | 0 | 1 | 0 |
+| 32 | 854 | 2 | 0 | 0 | 0 | 3 | 1 | 0 | 0 | 0 | 0 |
+| 33 | 735 | 0 | 2 | 1 | 0 | 4 | 0 | 1 | 0 | 0 | 0 |
+| attribution | 376 | 1 | 1 | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 0 |
+| faq | 1697 | 9 | 10 | 7 | 5 | 5 | 5 | 3 | 1 | 2 | 0 |
+| why-this-book | 1000 | 8 | 6 | 5 | 2 | 2 | 4 | 0 | 0 | 1 | 0 |
 
-## Overused words and phrases (book total 49616 words)
+## Overused words and phrases (book total 49540 words)
 
 | Word | Count | Per 1000 words | In how many files |
 |---|---|---|---|
-| nothing | 122 | 2.46 | 32 |
+| nothing | 120 | 2.42 | 32 |
 | trap | 77 | 1.55 | 26 |
 | a man who | 57 | 1.15 | 24 |
 | itch | 47 | 0.95 | 19 |
@@ -104,3 +104,4 @@
 - "ruled by lust is like" x4 in 26b, Intro, faq, why-this-book
 - "the rest of your life" x4 in 10, 16, 26, Intro
 - "thinking with the wrong head" x4 in Intro, faq, why-this-book
+- "this book was inspired by" x4 in 28, Intro, faq, why-this-book

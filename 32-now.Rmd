@@ -36,11 +36,11 @@ For any man it means the people in front of you. Your wife, who is owed the whol
 
 ## Pass it on {-}
 
-This book is free. It always will be. Nobody is selling you a course, an app, a coaching call or a second volume. It's released under an open license, which means you may copy it, print it, translate it, quote it and pass it around without asking anyone. The Attribution page has the details.
+This book is shared under an open license. That means you may copy it, print it, translate it, quote it and pass it around without asking anyone. The Attribution page has the details.
 
-It's free because it was given to us. The method came from Allen Carr. The people behind EasyPeasy reworked it and gave it away. We took their gift, applied it to lust as a whole, and are giving it away in turn. Jesus put the principle in one short sentence when he sent his disciples out: "Freely you received, so freely give."
+It is open because it was handed on to me. The method came from Allen Carr. The people behind EasyPeasy reworked it and shared it under the same license. I took what they shared, applied it to lust as a whole, and am handing it on in turn. Jesus put the principle in one short sentence when he sent his disciples out: "Freely you received, so freely give."
 
-So there's no bill. But if this book has done you good, I'll ask one thing of you: pay it forward.
+So if this book has done you good, I'll ask one thing of you: pay it forward.
 
 There is a bigger reason than gratitude. Lust has been made normal, and all of it runs on one fuel: men who can't look away. Every man who walks out stops paying for it. Every man he brings with him makes it two. It ends one free man at a time, and you are one of them now.
 
@@ -66,7 +66,7 @@ You're free, and you're fit for service. Go in peace.
 - "may it not be supplanted by the love of that which is more worthy than itself?" — Thomas Chalmers, "The Expulsive Power of a New Affection" (public domain), as seen at https://www.preceptaustin.org/expulsive-power-of-a-new-affection ("the heart's old attachment" is the book's paraphrase of what "it" refers to; check against the sermon)
 - "Take up and read; Take up and read." — Augustine, *Confessions*, Book 8, ch. 12, §29, tr. E.B. Pusey (public domain), https://faculty.georgetown.edu/jod/augustine/Pusey/book08. The fig tree, the weeping, the child's voice "from the house next door" and the book lying beside him are told from general knowledge of the passage (§28-29), not from the research extract: check the details against Pusey. "Not yet" refers to the prayer quoted in earlier chapters.
 - No web address is given for this book because the outline says stopjerkingoff.com comes later; add it under "Pass it on" when it exists. "Send it in" assumes the public source repository linked in the book's sidebar.
-- The claim that EasyPeasy's authors "gave it away" rests on its CC BY-SA licence and free distribution at https://easypeasymethod.org/.
+- EasyPeasy is shared under CC BY-SA at https://easypeasymethod.org/. On 2026-11-18 the claims that this book is free and always will be were removed at James's direction; the licence is still stated.
 - "A great work ... can't come down" echoes Nehemiah 6:3, quoted in "Fit for Service"; the lever is a callback to Chapter 8 and the fight to "Fit for Service" (research/round4/findings.md).
 - "Lust has been made normal ... people who were forced, and some of them are children" (Pass it on) is from general knowledge, the same claim as Chapter 4's porn section. Verify before print. Added 2026-11-17 at James's request for a stronger call to spread the book.
 - Scripture (World English Bible): Matthew 6:34; Matthew 10:8 (last sentence); Numbers 6:24-26. All three verified against the WEB text, 2026-11-14 (Matthew 6:34 was corrected: "for tomorrow", not "because tomorrow").

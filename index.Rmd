@@ -11,7 +11,7 @@ output:
         family: serif
         size: 2
 documentclass: book
-description: "Conquer lust the easy way: stop masturbating and watching porn without willpower or shame. A free book in the style of EasyPeasy that helps you walk away for good."
+description: "Conquer lust the easy way: stop masturbating and watching porn without willpower or shame. A book inspired by EasyPeasy that helps you walk away for good."
 url: "https://stopjerkingoff.com/"
 ---
 
