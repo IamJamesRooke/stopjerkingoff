@@ -1,7 +1,7 @@
 ---
 title: "Stop Jerking Off"
 subtitle: "The Easy Peasy Way to Conquer Lust"
-date: "`r Sys.Date()`"
+date: "`r d <- Sys.Date(); n <- as.integer(format(d, '%d')); s <- if (n %in% 11:13) 'th' else switch(as.character(n %% 10), '1' = 'st', '2' = 'nd', '3' = 'rd', 'th'); paste0('Last updated: ', format(d, '%B '), n, s, format(d, ', %Y'))`"
 site: bookdown::bookdown_site
 output:
   bookdown::gitbook:
@@ -82,19 +82,19 @@ Take the steps in order and I can promise you this method is:
 - **Clean.** You won't swap it for overeating, scrolling or drinking.
 - **Permanent.**
 
-You probably don't believe a word of that. Neither did these men, once. The first is still in the trap. The other two have walked out.
+You probably don't believe a word of that. Neither did these men, once.
+
+One man, still in the trap, wrote:
 
 > "I hate it, but I continually feed it."
->
-> — a commenter on a Christian recovery blog
+
+A second, after he quit, wrote:
 
 > "I feel like coming out from a fog that has been around me all this time."
->
-> — a NoFap veteran on Reddit
+
+And a third:
 
 > "It's been over 5 years since God broke me free from the chains of pornography and masturbation addiction. I will never go back."
->
-> — a commenter under a testimony video, five years free
 
 Notice what the free men talk about. They don't describe a lifelong fight. They describe chains breaking and a fog lifting. That is where this book is taking you.
 
@@ -102,7 +102,7 @@ Notice what the free men talk about. They don't describe a lifelong fight. They 
 
 This book is written from a Christian point of view. It says plainly what the Bible says: lust is sin. Jesus didn't set the bar at the act. He set it at the look. In Matthew 5:28 he says, "everyone who gazes at a woman to lust after her has committed adultery with her already in his heart".
 
-That one sentence covers all three faces. Porn is the look, sold by the hour. The bad decisions start with the look. And the hand? Ask yourself how often you've done it with a completely empty head. For almost every man the answer is never.
+That one sentence covers all three faces. Porn is the look, put on a screen. The bad decisions start with the look. And the hand? Ask yourself how often you've done it with a completely empty head. For almost every man the answer is never.
 
 One thing must be clear from the start. Lust is not the same as desire. Noticing that a woman is beautiful is not a sin. Wanting a wife is not a sin. God made desire, and he made it strong. Lust is desire turned into taking: the look you go back for, the woman used as material. This book is against the taking. It has nothing against the desire.
 
@@ -113,6 +113,8 @@ And if you are a Christian, hear this early. The word "sin" is here to tell the 
 The book is written to men. If you're a woman, you are not the only one either. Women write about this same struggle, and about having no one to talk to. The trap is built the same way. Change the pronouns and read on.
 
 There is a bigger theme under all of this, and it is self-control. **A man who can't control his lust can't be trusted.** His wife can't fully trust him. His employer can't. Worst of all, he can't trust himself, because he has broken his own word too many times.
+
+A Benedictine monk once gave this advice to women who want to marry: "Marry a man who can fast." He meant a man who has learned to say no to himself. Proverbs says the same from the other side. A man without self-control is like a city with its walls broken down.
 
 Picture a soldier who shows up for duty drunk. He may be on the right side. He may even be loved. He is still unfit for service, and the men beside him go without the support they were counting on. A man ruled by lust is like that. You were made for something. This book is about getting you fit for it, and it comes back to that picture near the end.
 
@@ -208,6 +210,7 @@ SOURCES (Introduction): every quote below is from the research files; check each
 - "the more lust controls you the easier you are to control" — FitXFearless, "How To Desexualize Your Brain", https://www.youtube.com/watch?v=5YssueIJrZI (auto-captions; research/transcripts/fitxfearless-5YssueIJrZI.md)
 - "You finish and then you sit there wondering why you feel tired, unmotivated, and empty." — FitXFearless, "What Happens If You Masturbate TOO MUCH?", https://www.youtube.com/watch?v=ki9kvllX2HU (auto-captions; research/transcripts/fitxfearless-ki9kvllX2HU.md)
 - Paraphrase, not quoted: the man who wondered whether God's grace for him had run out — Dave, Covenant Eyes comments, 17 Sep 2016 ("somtyms I even think my grace has expired."), https://www.covenanteyes.com/blog/three-steps-to-kick-the-habit-of-masturbation/comment-page-6/
+- "Marry a man who can fast." — "A Benedictine", epigraph to John A. Cuddeback, "A Man Who Fasts", LifeCraft, 2 March 2022, https://www.catholiceducation.org/en/faith-and-character/faith-and-character/a-man-who-fasts.html (full line: "To any ladies who wish to get married, I suggest: Marry a man who can fast."; "He has learned to say no to himself" is Cuddeback's own phrase, given as sense). The Proverbs line paraphrases 25:28.
 - Not quoted: women who write about the same struggle — women commenters under the same video (research/round2/sources-log.md and chapter-map.md).
 - The opening promise and the drunk-soldier picture are James's own framing (2026-11-17), not quotations. "Simping" is used once, here, with a plain explanation; later chapters describe the thing without the word. The "three faces" (porn, the hand, bad decisions with women) and the lust/desire definition are the book's own.
 - Scripture (World English Bible): Matthew 5:28; Romans 8:1 (first half of the verse; the WEB continues "who don't walk according to the flesh, but according to the Spirit"); Luke 15:17; John 8:36.

@@ -4,11 +4,11 @@
 - **EasyPeasy author credit (Hackauthor)**: 2 hit(s) attribution:15, attribution:21
 - **'hackbook' (unexplained jargon)**: 0 hit(s) 
 - **first-person author anecdote (I + past tense)**: 0 hit(s) 
-- **'wifey' / casual**: 1 hit(s) 6:35
+- **'wifey' / casual**: 1 hit(s) 6:33
 - **'sequel' (allowed only as 'not an official sequel')**: 0 hit(s) 
 - **'play along' (allowed: Intro, Ch 32)**: 2 hit(s) Intro:109, 32:49
 - **'atheist' (convention: say 'not a believer')**: 2 hit(s) Intro:109, 32:49
-- **'jerking off' (use rarely, on purpose)**: 1 hit(s) 3:128
+- **'jerking off' (use rarely, on purpose)**: 1 hit(s) 3:124
 
 ## Files outside the chapters that name the repository owner
 
@@ -18,8 +18,8 @@
 
 ## Pronoun for God: capitalised vs lowercase (prose lines)
 
-- capitalised He/His/Him near 'God': 1 lines: 17:46
-- lowercase he/his/him near 'God': 11 lines: Intro:107, Intro:153, 3:9, 8:29, 8:103, 11:68, 13:91, 17:46, 19:27, 26:23, 26b:35
+- capitalised He/His/Him near 'God': 1 lines: 17:44
+- lowercase he/his/him near 'God': 11 lines: Intro:107, Intro:155, 3:9, 8:29, 8:103, 11:66, 13:87, 17:44, 19:27, 26:23, 26b:35
 
 ## British vs American spelling (prose)
 
