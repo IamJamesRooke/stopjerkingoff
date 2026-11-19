@@ -414,3 +414,18 @@ three sentences; "pipsqueak", "pile-up", "pimply" replaced; "a few hours" correc
 NOT applied: shrinking Chapter 9. James asked for those three stories told in full and
 approved the chapter on 2026-11-19, so it stays until he says otherwise. The Mark
 invitation in Ch 33 stays (pastor review). No moderation path, no new chapters.
+
+## Revision 2026-11-19: final pass and method check
+
+Final read-through of every chapter plus editorial/METHOD-CHECK.md. Applied H1 to H6 and
+M2 to M5 as written: the vow now ends "My answer is No, and I give it gladly"; the prayer
+says "It never gave me anything"; the "first three days" checklist in Ch 28 is gone, with
+its two method lines folded into "Let it ring" and "tell one person" moved to "You are
+already free" with no deadline; 27b loses "Somebody else always pays"; Ch 14 no longer
+orders a cancellation mid-book, and Samson and Ahab are much shorter; the phone-out-of-
+the-bedroom tip lives only in Ch 26 and the parents' section. M1 applied in part: Ch 4
+keeps "prostitution, with a camera" (James asked for it) but the reader is now the man
+who was lied to, and the section closes by tying back to the method. Kept on purpose:
+the "Christian rules" question in The collector (James's idea), L1 to L3 unchanged.
+Also: Ch 24 softener for men who need a person's help, Ch 25 "first five" corrected,
+"a few evenings" everywhere, "If You Slip" named in the Intro, Attribution in "I" voice.
