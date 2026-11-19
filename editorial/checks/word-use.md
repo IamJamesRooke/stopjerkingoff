@@ -19,7 +19,7 @@
 | 12 | 1549 | 0 | 2 | 1 | 0 | 9 | 0 | 2 | 1 | 0 | 0 |
 | 13 | 698 | 1 | 0 | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 0 |
 | 14 | 3336 | 3 | 3 | 23 | 1 | 3 | 0 | 1 | 0 | 0 | 0 |
-| 15 | 2246 | 4 | 3 | 28 | 1 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 15 | 2457 | 5 | 3 | 29 | 1 | 0 | 0 | 1 | 0 | 0 | 0 |
 | 16 | 749 | 1 | 1 | 0 | 0 | 3 | 0 | 0 | 0 | 0 | 0 |
 | 17 | 878 | 0 | 1 | 1 | 1 | 3 | 0 | 0 | 1 | 0 | 0 |
 | 18 | 582 | 1 | 1 | 2 | 0 | 4 | 0 | 1 | 0 | 0 | 0 |
@@ -45,21 +45,21 @@
 | faq | 1778 | 9 | 10 | 6 | 5 | 5 | 5 | 3 | 1 | 2 | 0 |
 | why-this-book | 1014 | 8 | 6 | 5 | 2 | 2 | 4 | 0 | 0 | 1 | 0 |
 
-## Overused words and phrases (book total 55238 words)
+## Overused words and phrases (book total 55449 words)
 
 | Word | Count | Per 1000 words | In how many files |
 |---|---|---|---|
-| nothing | 127 | 2.3 | 35 |
-| trap | 79 | 1.43 | 26 |
-| a man who | 66 | 1.19 | 27 |
+| nothing | 129 | 2.33 | 35 |
+| trap | 79 | 1.42 | 26 |
+| a man who | 68 | 1.23 | 27 |
 | sin | 53 | 0.96 | 26 |
 | itch | 48 | 0.87 | 19 |
 | exactly | 25 | 0.45 | 18 |
-| relief | 23 | 0.42 | 9 |
+| relief | 23 | 0.41 | 9 |
+| really | 21 | 0.38 | 11 |
 | willpower method | 21 | 0.38 | 12 |
 | free man | 21 | 0.38 | 14 |
-| really | 20 | 0.36 | 11 |
-| plain | 17 | 0.31 | 14 |
+| plain | 18 | 0.32 | 15 |
 | actually | 17 | 0.31 | 13 |
 | the truth | 17 | 0.31 | 14 |
 | comfort | 17 | 0.31 | 12 |
@@ -90,7 +90,7 @@
 - "quote quote quote quote quote" x13 in 11, 14, 22, 29b, 4, Intro
 - "every man in the trap" x10 in 12, 14, 29, Intro
 - "easy way to stop smoking" x6 in 34, Intro, attribution, faq, why-this-book
-- "a man ruled by lust" x4 in 27b, Intro, faq, why-this-book
+- "a man ruled by lust" x5 in 15, 27b, Intro, faq, why-this-book
 - "a psychiatrist who treats porn" x4 in 1, 11, 4, 5
 - "a soldier who shows up" x4 in 27b, Intro, faq, why-this-book
 - "has nothing to do with" x4 in 11, 13, 24, 8
