@@ -62,12 +62,12 @@ I don't know your name, and you don't know mine. But I've thought about you thro
 
 You're free, and you're fit for service. Go in peace.
 
-<!-- SOURCES (Chapter 32): every quote below is from the research files; check each against its page before publishing.
+<!-- SOURCES (Chapter 33): every quote below is from the research files; check each against its page before publishing.
 - "may it not be supplanted by the love of that which is more worthy than itself?" — Thomas Chalmers, "The Expulsive Power of a New Affection" (public domain), as seen at https://www.preceptaustin.org/expulsive-power-of-a-new-affection ("the heart's old attachment" is the book's paraphrase of what "it" refers to; check against the sermon)
 - "Take up and read; Take up and read." — Augustine, *Confessions*, Book 8, ch. 12, §29, tr. E.B. Pusey (public domain), https://faculty.georgetown.edu/jod/augustine/Pusey/book08. The fig tree, the weeping, the child's voice "from the house next door" and the book lying beside him are told from general knowledge of the passage (§28-29), not from the research extract: check the details against Pusey. "Not yet" refers to the prayer quoted in earlier chapters.
 - No web address is given for this book because the outline says stopjerkingoff.com comes later; add it under "Pass it on" when it exists. "Send it in" assumes the public source repository linked in the book's sidebar.
 - EasyPeasy is shared under CC BY-SA at https://easypeasymethod.org/. On 2026-11-18 the claims that this book is free and always will be were removed at James's direction; the licence is still stated.
-- "A great work ... can't come down" echoes Nehemiah 6:3, quoted in "Fit for Service"; the lever is a callback to Chapter 8 and the fight to "Fit for Service" (research/round4/findings.md).
+- "A great work ... can't come down" echoes Nehemiah 6:3, quoted in "Fit for Service"; the lever is a callback to Chapter 9 and the fight to "Fit for Service" (research/round4/findings.md).
 - "Lust has been made normal ... people who were forced, and some of them are children" (Pass it on) is from general knowledge, the same claim as Chapter 4's porn section. Verify before print. Added 2026-11-17 at James's request for a stronger call to spread the book.
 - Scripture (World English Bible): Matthew 6:34; Matthew 10:8 (last sentence); Numbers 6:24-26. All three verified against the WEB text, 2026-11-14 (Matthew 6:34 was corrected: "for tomorrow", not "because tomorrow").
 -->

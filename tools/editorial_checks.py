@@ -30,7 +30,7 @@ BOOK_ORDER = (
 )
 BOOK_ORDER = [f for f in BOOK_ORDER if os.path.exists(os.path.join(ROOT, f))]
 LABEL = {f: ("Intro" if f == "index.Rmd" else f.split("-")[0].lstrip("0") or "0") for f in BOOK_ORDER}
-LABEL["26b-fit-for-service.Rmd"] = "26b"
+LABEL["27b-fit-for-service.Rmd"] = "27b"
 for f in ("attribution.Rmd", "faq.Rmd", "why-this-book.Rmd"):
     LABEL[f] = f.replace(".Rmd", "")
 

@@ -100,3 +100,7 @@ A one-line paragraph, even a sentence fragment such as "Not one.", is welcome wh
 ### Never send the reader back or forward (James, 2026-11-18)
 
 Never tell the reader to go and find something: no "read the verse at the head of the chapter again", "see above", "below", "scroll up". Nobody scrolls back, and a listener can't. Restate the line in place, in a few words or in full. Naming a chapter in passing ("Chapter 8 described this") is fine when the sentence still works without looking it up. Advice to re-read the book or a chapter after a slip is part of the method and stays.
+
+### Chapter numbers (2026-11-19)
+
+James split the old Chapter 8. The stories are now Chapter 9, "A City Without Walls" (`09-a-city-without-walls.Rmd`), and every later chapter and file moved up by one. Our file `NN` now matches EasyPeasy section `ch0(NN+1)` only up to Chapter 8; from Chapter 10 on it matches `ch0(NN)`. Page addresses did not change, because they come from the headings.
