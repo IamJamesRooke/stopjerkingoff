@@ -28,7 +28,7 @@ if (knitr::is_html_output(excludes = "epub")) {
 
 This book will help you conquer lust. You will stop masturbating, stop watching porn, and stop making bad decisions with women because you're thinking with the wrong head. You'll stop right away, you'll stay stopped, and you won't be miserable doing it. There are no cold showers in here, no rubber bands on your wrist, and no ninety-day streak counter to babysit. Nobody is going to shame you, and nobody is going to ask you to grit your teeth.
 
-While you read, please don't start a willpower campaign. Make no vows, start no streaks, and don't cut down to a ration. Don't fight it with willpower. Just keep reading to the last page. Chapter 1 explains why, and why this is not permission to sin.
+While you read, please don't start a willpower campaign. Make no vows, start no streaks, and don't cut down. Don't fight it with willpower. Just keep reading to the last page. Chapter 1 explains why, and why this is not permission to sin.
 
 That probably sounds backward. Everything you've been told says the opposite: try harder, pray harder, hide the phone, reset the counter. Has any of it worked? If it had, you wouldn't be holding this book.
 
