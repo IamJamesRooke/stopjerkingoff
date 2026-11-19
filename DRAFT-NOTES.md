@@ -400,3 +400,17 @@ Gap list, sources and placements are in research/round8/findings.md (and round7 
 prostitution and trafficking). New text: Ch 4 (two new lies and the trafficking facts),
 Ch 14 (four new ladder entries), Ch 15 (pictures), Ch 25 (three list items), Ch 30
 (sextortion warning for sons). Reddit was blocked in the browser tool.
+
+## Revision 2026-11-19: second reader report applied (editorial/READER-REPORT-2.md)
+
+Applied: safety box in the Introduction ("Before you go on") with helplines checked
+2026-11-19 (988; Samaritans 116 123, UK and Ireland; findahelpline.com; Stop It Now
+1-888-773-8368 US per stopitnow.org, 0808 1000 900 UK per stopitnow.org.uk); the faith
+section of the Introduction moved to just before "About this book", shortened, with a
+line for readers of other faiths; new secular decision step in Ch 28; "If there is
+another person" before the prayer; "tell one person you trust" in Ch 28 and wider
+options in Ch 29; rule 4 and rule 11 in Ch 32; the third David retelling in 27b cut to
+three sentences; "pipsqueak", "pile-up", "pimply" replaced; "a few hours" corrected.
+NOT applied: shrinking Chapter 9. James asked for those three stories told in full and
+approved the chapter on 2026-11-19, so it stays until he says otherwise. The Mark
+invitation in Ch 33 stays (pastor review). No moderation path, no new chapters.
