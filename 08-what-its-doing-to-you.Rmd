@@ -44,7 +44,7 @@ C.S. Lewis put it in three words: "indulgence brings fog". Part of the fog is si
 
 This is the one men find hardest to believe and easiest to recognize. Why would something done alone, behind a locked door, change how you stand in a room?
 
-Because you bring it with you. You walk in knowing what you did at midnight, and you assume it shows. One coach describes the morning after. You can't even make eye contact with people, he says, because you're so disgusted with yourself.
+Because you bring it with you. You walk in knowing what you did at midnight, and you assume it shows. The morning after, you can hardly look people in the eye.
 
 It's worst around women. A man who spent last night using women in his head finds it hard to look the next real one in the eye this morning. He's either sizing her up or looking at his shoes. He's forgotten how to simply talk to her as a person, because he's had so much practice treating women as something else. The men who get out say that this changes too: "I feel like a better person and have a better appreciation for women".
 
@@ -154,3 +154,5 @@ That day is closer than you think.
 - Scripture added in "Nobody's lever" (WEB, each checked against the WEB text in research/round4/findings.md): Proverbs 6:26 (first sentence); Judges 16:5 (with an ellipsis), 16:16 (five words), 16:21, 16:28 (part). WEB has typographic apostrophes; the book uses straight ones. The section "Out of the fight", first added here, now opens the unnumbered chapter "Fit for Service" before Chapter 28.
 - Scripture (World English Bible): Proverbs 25:28; Psalm 32:3.
 -->
+
+<!-- 2026-11-19 quote clean-up (James): attributions that added nothing were cut and the point is now made in the book's own voice. The sources listed above still stand behind those points. -->
