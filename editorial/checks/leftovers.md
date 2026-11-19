@@ -19,7 +19,7 @@
 ## Pronoun for God: capitalised vs lowercase (prose lines)
 
 - capitalised He/His/Him near 'God': 1 lines: 18:42
-- lowercase he/his/him near 'God': 18 lines: Intro:149, Intro:181, 3:9, 8:41, 8:67, 12:66, 13:118, 14:78, 14:84, 14:92, 14:94, 14:154, 18:42, 20:29, 27:23, 27b:35, 27b:47, 28:110
+- lowercase he/his/him near 'God': 18 lines: Intro:149, Intro:181, 3:9, 8:41, 8:67, 12:66, 13:118, 14:102, 14b:11, 14b:17, 14b:25, 14b:27, 18:42, 20:29, 27:23, 27b:35, 27b:47, 28:110
 
 ## British vs American spelling (prose)
 

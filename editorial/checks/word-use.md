@@ -18,7 +18,8 @@
 | 11 | 2651 | 0 | 3 | 1 | 1 | 11 | 4 | 8 | 2 | 0 | 0 |
 | 12 | 1527 | 0 | 2 | 1 | 0 | 8 | 0 | 2 | 1 | 0 | 0 |
 | 13 | 2041 | 1 | 0 | 5 | 0 | 3 | 0 | 5 | 0 | 0 | 0 |
-| 14 | 4116 | 5 | 5 | 34 | 1 | 5 | 0 | 1 | 0 | 0 | 0 |
+| 14 | 3036 | 3 | 5 | 18 | 1 | 5 | 0 | 1 | 0 | 0 | 0 |
+| 14b | 1154 | 2 | 0 | 16 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 15 | 2533 | 5 | 3 | 29 | 1 | 1 | 0 | 1 | 0 | 0 | 0 |
 | 16 | 725 | 1 | 2 | 1 | 0 | 4 | 0 | 0 | 0 | 0 | 0 |
 | 17 | 876 | 0 | 1 | 1 | 1 | 3 | 0 | 0 | 1 | 0 | 0 |
@@ -45,13 +46,13 @@
 | faq | 1781 | 9 | 10 | 6 | 5 | 5 | 5 | 3 | 1 | 2 | 0 |
 | why-this-book | 1014 | 8 | 6 | 5 | 2 | 2 | 4 | 0 | 0 | 1 | 0 |
 
-## Overused words and phrases (book total 58973 words)
+## Overused words and phrases (book total 59047 words)
 
 | Word | Count | Per 1000 words | In how many files |
 |---|---|---|---|
-| nothing | 144 | 2.44 | 35 |
+| nothing | 144 | 2.44 | 36 |
 | trap | 82 | 1.39 | 25 |
-| a man who | 74 | 1.25 | 29 |
+| a man who | 74 | 1.25 | 30 |
 | itch | 56 | 0.95 | 20 |
 | sin | 53 | 0.9 | 24 |
 | exactly | 28 | 0.47 | 18 |
@@ -59,16 +60,16 @@
 | relief | 22 | 0.37 | 9 |
 | really | 21 | 0.36 | 11 |
 | willpower method | 21 | 0.36 | 12 |
-| plain | 20 | 0.34 | 17 |
-| actually | 18 | 0.31 | 14 |
-| the truth | 18 | 0.31 | 14 |
+| plain | 20 | 0.34 | 18 |
+| actually | 18 | 0.3 | 14 |
+| the truth | 18 | 0.3 | 14 |
 | plainly | 17 | 0.29 | 14 |
-| simply | 17 | 0.29 | 14 |
+| simply | 17 | 0.29 | 15 |
 | comfort | 17 | 0.29 | 12 |
 | of course | 10 | 0.17 | 9 |
 | grace | 10 | 0.17 | 6 |
 | moping | 10 | 0.17 | 5 |
-| quite | 9 | 0.15 | 7 |
+| quite | 9 | 0.15 | 8 |
 | envy | 9 | 0.15 | 5 |
 | honestly | 8 | 0.14 | 6 |
 | perhaps | 8 | 0.14 | 8 |
@@ -103,7 +104,7 @@
 - "men on the willpower method" x4 in 19, 20, 22, 23
 - "porn the hand and the" x4 in 21, Intro, why-this-book
 - "ruled by lust is like" x4 in 27b, Intro, faq, why-this-book
-- "that a woman is beautiful" x4 in 14, 29b, Intro, faq
+- "that a woman is beautiful" x4 in 14b, 29b, Intro, faq
 - "the woman on the screen" x4 in 15, 3, 4
 - "thinking with the wrong head" x4 in Intro, faq, why-this-book
 - "this book was inspired by" x4 in 29, Intro, faq, why-this-book

@@ -24,7 +24,7 @@ The book: *Stop Jerking Off: The Easy Peasy Guide to Quitting Masturbation and C
 - **Everything lives on `main`.** No branches and no pull requests. James edits the `.Rmd` files directly in VS Code.
 - **James's notes.** He leaves a note as an HTML comment on its own line (ideally `<!-- NOTE: ... -->`), next to the paragraph it refers to. When he says a chapter's notes are in: pull main, apply every note in that chapter in one pass, remove the note comments, keep his direct edits, commit to main, and report briefly.
 - **Word choice (James, 2026-11-14).** Use "masturbation" as the normal word. "Jerking off" is more vulgar: use it rarely and on purpose, for bluntness or shock. The title keeps it.
-- **"If you're an atheist, play along."** Use it once or twice in the whole book, not in every chapter. It is kept in the Introduction and the blessing (Chapter 32). Elsewhere say "if you're not a believer" and give the unbeliever something to do.
+- **"If you're an atheist, play along."** Use it once or twice in the whole book, not in every chapter. It is kept in the Introduction and the blessing ("The Rules in One Place"). Elsewhere say "if you're not a believer" and give the unbeliever something to do.
 - **Source names.** Creators such as FitXFearless are described in the body ("one coach") and named only in the SOURCES comment and on the attribution page.
 - **Quotes.** A quote that cannot be checked against its source becomes a paraphrase, with a note in SOURCES saying why.
 
@@ -77,7 +77,7 @@ There will be a definitive audiobook. Every line must sound good when it is hear
 - American wording in place of British: apartment, vacation, movie, coworker, sneakers, highway, schedule, two weeks, fight (not row), call (not ring), sick (not ill), around (not round), right away.
 - Idioms must be ones a non-native English speaker can follow. This also keeps the later Spanish edition easy to translate. When in doubt, say it plainly.
 - Leave direct quotations exactly as their authors wrote them, British spelling included (for example "I harboured a wrong notion" in Chapter 15). WEB Scripture stays verbatim.
-- Chapter 18 is titled "Can I Compartmentalize?" but keeps its old address, can-i-compartmentalise.html, through an explicit heading ID. Do not remove the ID.
+- The chapter titled "Can I Compartmentalize?" but keeps its old address, can-i-compartmentalise.html, through an explicit heading ID. Do not remove the ID.
 - "Flat" for the low mood after the act is kept as a running image. "Flat" for a home is "apartment".
 
 ## Standing rule: every reference gets a line of context (James, 2026-11-18)
@@ -118,7 +118,7 @@ married" lines, "To wives", and "the woman you'll marry".
 
 "User" and "non-user" are drug and software words left over from the smoking
 book. Write "a man in the trap", "hooked", "the man who does it daily", "a man
-who's free". Chapter 14 is "Every Man in the Trap" and Chapter 31 is "For the
+who's free". Chapter 14 is "Every Man in the Trap" and Chapter 32 is "For the
 People Beside Him"; both keep their old page addresses through heading IDs.
 
 ## Standing rule: vivid archetypal stories (James, 2026-11-19)
@@ -203,3 +203,7 @@ control. It does not pretend that women are angels. Women can manipulate, use se
 lever and do wrong, and the book may say so plainly, in one sentence, without contempt.
 Then it returns to what the man can change. Never excuse her to flatter the reader, and
 never blame her to excuse him.
+
+## Chapter numbers and file names (2026-11-19)
+
+"The Man Led by a Woman" was split out of "Every Man in the Trap" and is now Chapter 15 (file `14b-the-man-led-by-a-woman.Rmd`). File names were not renumbered, so from there on the printed chapter number is the file number plus one (file `15-fantasy...` is Chapter 16, and so on to the Appendix, Chapter 35). Older notes in editorial/, DRAFT-NOTES.md and source comments use the old numbers. Refer to chapters by title.
