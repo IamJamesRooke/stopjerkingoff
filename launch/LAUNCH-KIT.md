@@ -40,7 +40,7 @@ The book is free, honest and useful, so the job isn't "marketing". It's putting 
 ### This week
 
 - **Day 1 (today/tomorrow):** create the email and the book's accounts. Add the email to the Attribution page ("If you are quoted here... please say so" currently has no contact route). Read the Reddit rules sidebar of each sub in section 4 and start the karma plan.
-- **Day 2:** send the group-chat message (3.6) to two or three chats you're in. Ask your pastor if he'd read the Introduction and Chapter 30 ("For the People Beside Him").
+- **Day 2:** send the group-chat message (3.6) to two or three chats you're in. Ask your pastor if he'd read the Introduction and the chapter "For the People Beside Him".
 - **Day 3:** send the source emails to the top five in section 5.2 (Captain Sinbad, QuitByHealing, We Need to Talk, Nick Jones, Time of Grace).
 - **Day 4:** post on the NoFap forum (6.1). Modmail r/EasyPeasy and r/NoFap asking whether a free, non-commercial spiritual successor can be shared (4.3).
 - **Day 5:** post the X thread and the Facebook post (3.1, 3.2). Send the next five source emails.
@@ -365,7 +365,7 @@ Send them the pitch template (6.5). Ask them to review it, list it as a resource
 
 ### 6.3 Pastors
 
-The strongest approach is personal: one pastor reading it and recommending it to his men. Start with your own pastor (3.6), then pastors you know. Point them to Chapter 30 ("For the People Beside Him"), which tells pastors, parents and wives how to help. Ask for one thing only: "Would you read the Introduction and tell me if it's something you'd give to a man who confessed this to you?"
+The strongest approach is personal: one pastor reading it and recommending it to his men. Start with your own pastor (3.6), then pastors you know. Point them to the chapter "For the People Beside Him", which tells pastors, parents and wives how to help. Ask for one thing only: "Would you read the Introduction and tell me if it's something you'd give to a man who confessed this to you?"
 
 ### 6.4 Podcasts to pitch
 
@@ -390,7 +390,7 @@ Pitch as the book, not as a person (audio-only shows suit an anonymous guest). V
 > What makes it different:
 > - It calls the habit sin plainly, and then leans on grace (Rom 8:1, 6:14) rather than shame or white-knuckle willpower.
 > - No streak counters, accountability software or programmes to buy. It's completely free, CC BY-SA licensed.
-> - Chapter 30 is written for pastors, parents and wives on how to help a man who confesses this.
+> - The chapter "For the People Beside Him" is written for pastors, parents and wives on how to help a man who confesses this.
 >
 > [For ministries:] Would you be willing to look at it, and if you find it sound, list it as a resource or pass it to your group leaders?
 > [For podcasts:] I'd love to come on and talk about why willpower fails and what actually sets men free. I'm happy to do an audio-only interview.

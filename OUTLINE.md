@@ -155,3 +155,5 @@ Anonymous. This follows EasyPeasy chapter by chapter: same order, same job for e
 
 ### Attribution
 - CC BY-SA 4.0; inspired by EasyPeasy (Hackauthor²), based on Allen Carr's method; not affiliated.
+
+> Note, 2026-11-19: "The Man Led by a Woman" is a new Chapter 15, split out of Chapter 14. Chapter numbers above from 15 on are the old ones; add one.
