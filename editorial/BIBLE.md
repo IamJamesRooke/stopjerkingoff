@@ -129,7 +129,7 @@ Never tell the reader to go and find something: no "read the verse at the head o
 
 **13 Just Once.** Just once doesn't exist; the special one; "I'm built this way"; the little foxes.
 
-**14 Types of User.** Why all light users are caught. Nightly, married, streak, porn, "porn-free but still doing it", imagination-only, man led by women, church guy, "I'll stop when I'm married" (its home), "Less often is not happier" (a callback to Ch 12's week). Pharisee prayer. "No real types." A word about boys (see Ch 31).
+**14 Every Man in the Trap** (was "Types of User"; URL kept by heading ID)**.** Why all light users are caught. Nightly, married, streak, porn, "porn-free but still doing it", imagination-only, man led by women, church guy, "I'll stop when I'm married" (its home), "Less often is not happier" (a callback to Ch 12's week). Pharisee prayer. "No real types." A word about boys (see Ch 31).
 
 **15 Fantasy and the Thought Life.** (2026-11-19: new section "You would if you could" after "Then I'll look and not touch", with the standalone line "Faithful only because nobody offered."; and new section "The app and the girl on your mind" before "Taking thoughts captive": dating apps as the scroll with a chance attached, "a wife or a hit?", and the one girl as "the harem with one face in it".) ("What it comes to" recap cut.) Soft porn and the feed, the harem, "look but don't touch" (Matthew 5:28), the woman in the room, taking thoughts captive. Feed as business: the lever.
 
@@ -167,7 +167,7 @@ Never tell the reader to go and find something: no "read the verse at the head o
 
 **30 Help Those on the Sinking Ship.** Pity, don't envy; how to help; don't kick; fences don't free; your son needs an explanation.
 
-**31 Advice to Non-users.** Only for the people around him: getting him to read, wives, parents, pastors, a note on women, help end the silence. (The user's own sections moved out 2026-11-17: slipping to 28b, porn and sex to Ch 29, leaving EasyPeasy's path to Ch 28.)
+**31 For the People Beside Him** (was "Advice to Non-users"; URL kept by heading ID)**.** Only for the people around him: getting him to read, wives, parents, pastors, a note on women, help end the silence. (The user's own sections moved out 2026-11-17: slipping to 28b, porn and sex to Ch 29, leaving EasyPeasy's path to Ch 28.)
 
 **32 The Instructions.** Labelled as the page for after the prayer; says it spells out Ch 21's two lines. Eleven lines, verses, "YES! I'M FREE!".
 

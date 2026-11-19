@@ -113,3 +113,10 @@ asleep in the next room"). Keep "wife" and "husband" where the line is about
 marriage itself: Bible stories, quotations and testimonies, "wanting a wife",
 "sex with your wife is the meal", the married-man section, the "If you're
 married" lines, "To wives", and "the woman you'll marry".
+
+## Standing rule: no "user" (James, 2026-11-19)
+
+"User" and "non-user" are drug and software words left over from the smoking
+book. Write "a man in the trap", "hooked", "the man who does it daily", "a man
+who's free". Chapter 14 is "Every Man in the Trap" and Chapter 31 is "For the
+People Beside Him"; both keep their old page addresses through heading IDs.
