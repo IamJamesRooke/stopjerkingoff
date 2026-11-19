@@ -195,3 +195,11 @@ Whenever a point from elsewhere is needed, say it again, here, in a sentence.
   advantages"), the named things the book owns (the final step, If You Slip, the
   Little Monster), "the verse that opens this chapter", and advice to read the book
   again after a fall. The FAQ may link to chapters, because it is a web page.
+
+## Responsibility without pretending (James, 2026-11-19)
+
+The book asks the man to take responsibility because his own conduct is the thing he can
+control. It does not pretend that women are angels. Women can manipulate, use sex as a
+lever and do wrong, and the book may say so plainly, in one sentence, without contempt.
+Then it returns to what the man can change. Never excuse her to flatter the reader, and
+never blame her to excuse him.
