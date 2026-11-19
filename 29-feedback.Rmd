@@ -34,7 +34,7 @@ The panic itself is part of what the habit did to you, and it passes. Being rid 
 
 And if you feel like crying, cry. Don't be ashamed of it. We teach boys to clench their jaws and swallow it, and it does them no good. King David wept, and so did Jesus. The clock is on your side. Every hour that passes, the Little Monster is weaker.
 
-One serious word. What you feel may be darker than a bad day. If you find yourself thinking about harming yourself, put this book down and talk to someone today: a doctor, a pastor, a crisis line. The Appendix lists some. That isn't the Little Monster, and no book is the right tool for it.
+One serious word. What you feel may be darker than a bad day. If you find yourself thinking about harming yourself, put this book down and talk to someone today: a doctor, a pastor, a crisis line. That isn't the Little Monster, and no book is the right tool for it.
 
 And one more, said as gently as I know how. For some men this habit didn't begin with curiosity. It began after something was done to them as children. One therapist was abused himself. He says that most of the men who come to him were too, and that most have never told a soul. If that is part of your story, hear two things. What was done to you was not your sin. And telling someone who knows how to help, a counselor trained in trauma, is part of getting free. This book can clear away the lies about the habit, but it can't do that work for you. The Appendix says where to start.
 
@@ -147,3 +147,5 @@ So if you're single, the answer is to wait. Don't go looking for somebody to use
 <!-- 2026-11-19 quote clean-up (James): attributions that added nothing were cut and the point is now made in the book's own voice. The sources listed above still stand behind those points. -->
 
 <!-- 2026-11-19 psych review fixes applied (editorial/PSYCH-REVIEW.md): see that file for the reasoning and sources. -->
+
+<!-- 2026-11-19 listener's pass: 'The Appendix lists some' removed, since the Appendix no longer lists helplines. -->

@@ -24,13 +24,13 @@ The Bible tells this story about David, Israel's greatest king. It is in the sec
 
 This was the man who, as a boy, killed the giant Goliath. No army ever beat him in the field. He was beaten on a rooftop on an idle evening, at the time when kings go out, because he hadn't gone.
 
-You know the rest. He took Bathsheba, the wife of his own soldier Uriah. When Uriah, even drunk, wouldn't go home and cover it up, David sent him back to the war to die.
+The rest is quickly told. He took Bathsheba, the wife of his own soldier Uriah. When Uriah, even drunk, wouldn't go home and cover it up, David sent him back to the war to die.
 
 Notice who was fit for service in that story. Uriah, drunk, still slept at the palace door like a soldier on duty. David, sober, was no use to anybody. Lust had taken the commander off the field without a fight.
 
 ## Drunk on duty {-}
 
-Now let me say this plainly, without taking back the promise that nobody here will shame you.
+Now let me say this plainly, and without shaming you.
 
 You may be a Christian. You may be on God's side, and he does love you. "There is therefore now no condemnation" is as true on this page as it ever was. And you were made on purpose. Paul says the work was planned as well as the man: "we are his workmanship, created in Christ Jesus for good works, which God prepared before that we would walk in them." There is something with your name on it that nobody else is going to do.
 
@@ -60,3 +60,5 @@ SOURCES (Fit for Service, unnumbered chapter before Chapter 28; added 2026-11-15
 - "Killed Goliath", "giant-killer", "no Philistine ever beat him in the field", "twenty minutes later", "Uriah the Hittite, a foreigner in Israel's army" and "he had just been forgiven" (Isaiah 6:7) are the writer's own or general knowledge of the passages: check.
 - Scripture (World English Bible), each checked against the WEB text in the two findings files: 2 Timothy 2:3-4; 2 Samuel 11:1-2 (with an ellipsis), 11:11, 11:13 (middle clause); 1 Peter 5:8 (second sentence); James 1:14; Nehemiah 6:3 (first clause); Romans 8:1 (first words); Psalm 139:13 (second sentence); Ephesians 2:10 (without "For"); 1 Thessalonians 5:8 (without "But"); Titus 2:12 (part); 2 Timothy 2:21 (part); Hebrews 12:12 (without "Therefore", capital added); Isaiah 6:8 (parts). WEB has typographic apostrophes; the book uses straight ones.
 -->
+
+<!-- 2026-11-19 listener's pass: two backward references ('You know the rest', 'the promise that') reworded. -->

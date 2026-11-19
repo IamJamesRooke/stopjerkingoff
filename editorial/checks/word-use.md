@@ -31,10 +31,10 @@
 | 24 | 789 | 0 | 0 | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 0 |
 | 25 | 838 | 3 | 3 | 3 | 0 | 4 | 0 | 2 | 0 | 0 | 0 |
 | 26 | 1067 | 1 | 0 | 3 | 0 | 1 | 0 | 1 | 1 | 0 | 0 |
-| 27 | 840 | 0 | 1 | 0 | 0 | 4 | 0 | 2 | 0 | 0 | 0 |
-| 27b | 987 | 3 | 0 | 2 | 0 | 1 | 18 | 0 | 0 | 0 | 0 |
-| 28 | 1506 | 1 | 2 | 0 | 0 | 2 | 0 | 1 | 0 | 0 | 0 |
-| 29 | 2414 | 2 | 4 | 5 | 0 | 9 | 0 | 3 | 0 | 0 | 0 |
+| 27 | 841 | 0 | 1 | 0 | 0 | 4 | 0 | 2 | 0 | 0 | 0 |
+| 27b | 981 | 3 | 0 | 2 | 0 | 1 | 18 | 0 | 0 | 0 | 0 |
+| 28 | 1497 | 1 | 2 | 0 | 0 | 2 | 0 | 1 | 0 | 0 | 0 |
+| 29 | 2410 | 2 | 4 | 5 | 0 | 9 | 0 | 3 | 0 | 0 | 0 |
 | 29b | 1109 | 0 | 0 | 1 | 0 | 0 | 1 | 2 | 1 | 0 | 0 |
 | 30 | 973 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 31 | 1875 | 0 | 1 | 3 | 0 | 7 | 1 | 1 | 1 | 0 | 0 |
@@ -45,29 +45,29 @@
 | faq | 1780 | 9 | 10 | 6 | 5 | 5 | 5 | 3 | 1 | 2 | 0 |
 | why-this-book | 1014 | 8 | 6 | 5 | 2 | 2 | 4 | 0 | 0 | 1 | 0 |
 
-## Overused words and phrases (book total 57159 words)
+## Overused words and phrases (book total 57141 words)
 
 | Word | Count | Per 1000 words | In how many files |
 |---|---|---|---|
 | nothing | 139 | 2.43 | 35 |
 | trap | 80 | 1.4 | 26 |
-| a man who | 74 | 1.29 | 28 |
+| a man who | 74 | 1.3 | 28 |
 | sin | 51 | 0.89 | 23 |
-| itch | 50 | 0.87 | 19 |
-| exactly | 26 | 0.45 | 17 |
-| free man | 22 | 0.38 | 15 |
-| relief | 22 | 0.38 | 9 |
+| itch | 50 | 0.88 | 19 |
+| exactly | 26 | 0.46 | 17 |
+| free man | 22 | 0.39 | 15 |
+| relief | 22 | 0.39 | 9 |
 | really | 21 | 0.37 | 11 |
 | willpower method | 21 | 0.37 | 12 |
 | plain | 19 | 0.33 | 16 |
-| actually | 18 | 0.31 | 14 |
-| the truth | 18 | 0.31 | 14 |
+| actually | 18 | 0.32 | 14 |
+| the truth | 18 | 0.32 | 14 |
 | plainly | 17 | 0.3 | 14 |
 | comfort | 17 | 0.3 | 12 |
 | simply | 16 | 0.28 | 13 |
-| of course | 10 | 0.17 | 9 |
-| grace | 10 | 0.17 | 6 |
-| moping | 10 | 0.17 | 5 |
+| of course | 10 | 0.18 | 9 |
+| grace | 10 | 0.18 | 6 |
+| moping | 10 | 0.18 | 5 |
 | envy | 9 | 0.16 | 5 |
 | honestly | 8 | 0.14 | 6 |
 | quite | 8 | 0.14 | 6 |
@@ -75,9 +75,9 @@
 | chain | 5 | 0.09 | 4 |
 | mope | 5 | 0.09 | 5 |
 | crutch | 3 | 0.05 | 3 |
-| stop kidding yourself | 2 | 0.03 | 2 |
-| doesn't exist | 2 | 0.03 | 2 |
-| pity | 2 | 0.03 | 2 |
+| stop kidding yourself | 2 | 0.04 | 2 |
+| doesn't exist | 2 | 0.04 | 2 |
+| pity | 2 | 0.04 | 2 |
 | obviously | 1 | 0.02 | 1 |
 | no such thing | 1 | 0.02 | 1 |
 | marvellous | 0 | 0.0 | 0 |
@@ -93,6 +93,8 @@
 - "a doctor or a counselor" x5 in 15, 34, Intro
 - "a man ruled by lust" x5 in 15, 27b, Intro, faq, why-this-book
 - "the rest of your life" x5 in 11, 17, 33, Intro
+- "the verse that opens this" x5 in 1, 28, 3, 5, 7
+- "verse that opens this chapter" x5 in 1, 28, 3, 5, 7
 - "a soldier who shows up" x4 in 27b, Intro, faq, why-this-book
 - "for the rest of your" x4 in 11, 33, 7
 - "has nothing to do with" x4 in 11, 13, 24, 8
@@ -102,8 +104,6 @@
 - "porn the hand and the" x4 in 21, Intro, why-this-book
 - "ruled by lust is like" x4 in 27b, Intro, faq, why-this-book
 - "that a woman is beautiful" x4 in 14, 29b, Intro, faq
-- "the verse that opens this" x4 in 1, 3, 5, 7
 - "the woman on the screen" x4 in 15, 3, 4
 - "thinking with the wrong head" x4 in Intro, faq, why-this-book
 - "this book was inspired by" x4 in 29, Intro, faq, why-this-book
-- "verse that opens this chapter" x4 in 1, 3, 5, 7
