@@ -6,8 +6,8 @@
 - **first-person author anecdote (I + past tense)**: 0 hit(s) 
 - **'wifey' / casual**: 1 hit(s) 6:31
 - **'sequel' (allowed only as 'not an official sequel')**: 0 hit(s) 
-- **'play along' (allowed: Intro, Ch 32)**: 2 hit(s) Intro:109, 32:53
-- **'atheist' (convention: say 'not a believer')**: 2 hit(s) Intro:109, 32:53
+- **'play along' (allowed: Intro, Ch 32)**: 2 hit(s) Intro:111, 32:53
+- **'atheist' (convention: say 'not a believer')**: 2 hit(s) Intro:111, 32:53
 - **'jerking off' (use rarely, on purpose)**: 1 hit(s) 3:111
 
 ## Files outside the chapters that name the repository owner
@@ -19,7 +19,7 @@
 ## Pronoun for God: capitalised vs lowercase (prose lines)
 
 - capitalised He/His/Him near 'God': 1 lines: 17:44
-- lowercase he/his/him near 'God': 15 lines: Intro:107, Intro:155, 3:9, 5:85, 8:29, 8:45, 8:111, 8:127, 8:145, 11:66, 17:44, 19:29, 26:23, 26b:39, 26b:51
+- lowercase he/his/him near 'God': 16 lines: Intro:109, Intro:157, 3:9, 5:85, 8:35, 8:61, 8:135, 8:155, 8:173, 8:175, 11:66, 17:44, 19:29, 26:23, 26b:39, 26b:51
 
 ## British vs American spelling (prose)
 
@@ -35,14 +35,14 @@
 - grey: 0  |  gray: 7
 - fortnight: 0  |  two weeks: 6
 - mum: 0  |  mom: 0
-- whilst: 0  |  while: 33
+- whilst: 0  |  while: 34
 
 ## 'Chapter N' cross-references (check each against the target chapter)
 
-- Intro:29 Chapter 1: ...ut down. Live as you are and keep reading to the last page. Chapter 1 explains why, and why this is not permission to sin....
+- Intro:31 Chapter 1: ...ut down. Live as you are and keep reading to the last page. Chapter 1 explains why, and why this is not permission to sin....
 - 6:19 Chapter 3: ...C.S. Lewis's senior devil admitted in Chapter 3 that hell can't make a pleasure. All it can do is take a re...
-- 8:59 Chapter 28: ...and whether she was ever enough. None of that is her fault. Chapter 28 covers when and how to tell her....
-- 8:121 Chapter 20: ...hem back up in fifty-two days. Yours will go up faster, and Chapter 20 shows how. For now, just look at the gap in the wall and ad...
+- 8:77 Chapter 28: ...and whether she was ever enough. None of that is her fault. Chapter 28 covers when and how to tell her....
+- 8:147 Chapter 20: ...hem back up in fifty-two days. Yours will go up faster, and Chapter 20 shows how. For now, just look at the gap in the wall and ad...
 - 19:17 Chapter 4: ...there is little medical evidence for any of these changes." Chapter 4 called this the opposite lie, and it does its damage right ...
 - 19:33 Chapter 10: ...Chapter 10 dealt with the counter. The badge is the counter with a fin...
 - 19:37 Chapter 15: ...Don't confuse a pact with honesty. Chapter 15 told you to bring this into the light, and it meant it. Tel...

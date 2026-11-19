@@ -107,7 +107,7 @@ Never tell the reader to go and find something: no "read the verse at the head o
 
 **7 Getting Your Time Back.** The clock: 30 minutes a day sums, the hunt, the chase, the job offer. Parcel of years. *Sets up*: "no farewell session, only a prayer".
 
-**8 What It's Doing to You.** (The bus conversation and the skyscraper joke were cut 2026-11-17; the last cost section is now "The fuse"; Nehemiah's armed builders tie the wall to the soldier.) Costs already being paid: drive (the coach's "weak man", turned to grace), focus, confidence, standing before God, marriage, the way you see women, death grip. Walls (Proverbs 25:28). "Nobody's lever." Shadows. *Sets up*: Ch 9 joke; the lever returns in 14, 32.
+**8 What It's Doing to You.** (The bus conversation and the skyscraper joke were cut 2026-11-17; the last cost section is now "The fuse"; Nehemiah's armed builders tie the wall to the soldier.) Costs already being paid: drive (the coach's "weak man", turned to grace), focus, confidence, standing before God, marriage, the way you see women, death grip. Walls (Proverbs 25:28), then the full David, Bathsheba and Uriah story ("The king and his soldier"), then "Your own word". "Nobody's lever", with Samson and Delilah and Ahab and Jezebel each told to the end (Samson heard at the last; Ahab sorry for a while: "Being sorry is not the same as turning around"), then "Take the thirst away". Shadows. The costs are h3 headings under "What it has been taking". *Sets up*: Ch 9 joke; the lever returns in 14, 32.
 
 **9 Advantages of Lust.** An empty page.
 
