@@ -166,3 +166,17 @@ surprisingly well. Tie every point to human nature, not to the current technolog
   tied to the old thing it names.
 - "Phone", "screen", "feed" and "scroll" are fine. They are the furniture of the
   reader's life and will still be understood.
+
+## Standing rule: quote only when the quote earns its place (James, 2026-11-19)
+
+Quote or cite someone only when it adds real value: a vivid line the book couldn't
+say better, an authority the point needs (a doctor on medicine, a psychiatrist on
+relapse), or a true testimony. Otherwise cut the attribution and let the book say it
+in its own voice. The source stays in the chapter's SOURCES comment.
+
+- Never "the same coach", "the pastor from earlier", "the writer I quoted a moment
+  ago". The reader, and above all the listener, won't remember who that was. Where a
+  quote stays, identify the speaker in place, briefly, every time.
+- A paraphrase with an attribution ("One coach describes...", "A pastor says the same")
+  is nearly always filler. Say the thing.
+- No stacking: one voice per point.

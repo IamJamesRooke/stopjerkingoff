@@ -112,7 +112,7 @@ Underneath most of the others lies this one.
 
 You're alone in an apartment or a hotel room, or you're lying beside a partner who feels a long way off. There is nobody to touch and nobody who knows you. And this, at least, feels like closeness.
 
-It's the saddest of the lies, because the ache is real and it's a good ache. You were made for company. "It is not good for the man to be alone" is almost the first thing God says about us in the Bible. A Catholic speaker passes on what a friend once told him: "What you really long for is authentic love, but you settled for the counterfeit."
+It's the saddest of the lies, because the ache is real and it's a good ache. You were made for company. "It is not good for the man to be alone" is almost the first thing God says about us in the Bible. A Catholic speaker says it in one sentence: "What you really long for is authentic love, but you settled for the counterfeit."
 
 A counterfeit doesn't only fail to pay. It makes you poorer. C.S. Lewis, answering a letter about this very habit, said it "sends the man back into the prison of himself, there to keep a harem of imaginary brides." Desire was meant to get you out of yourself. This locks you further in. Every time, you finish more alone than you began, in the same empty room with one more thing that nobody knows about you. A secret is a wall. You're building it yourself, one evening at a time, between you and everyone who might have loved you.
 
@@ -158,3 +158,5 @@ Come to me, the verse says, and I will give you rest. That's better than relief,
 - "At evening, David arose from his bed and walked on the roof of the king's house." — 2 Samuel 11:2 (WEB), first sentence; checked against the WEB text in research/round4/findings.md. The chapter "Fit for Service" quotes verses 1-2 at length.
 - Scripture (World English Bible): Matthew 11:28; Psalm 4:8; Genesis 2:18 (the clause "It is not good for the man to be alone"). Psalm 4:8 is word for word from the World English Bible text used for every verse check in this book ("for you, Yahweh alone"; set 2026-11-17).
 -->
+
+<!-- 2026-11-19 quote clean-up (James): attributions that added nothing were cut and the point is now made in the book's own voice. The sources listed above still stand behind those points. -->
