@@ -7,27 +7,39 @@ permissions:
   contents: read
   pages: write
   id-token: write
-concurrency:
-  group: pages
-  cancel-in-progress: false
 jobs:
   build:
     runs-on: ubuntu-latest
+    # A newer push cancels an older build that is still queued or running.
+    concurrency:
+      group: build-${{ github.ref }}
+      cancel-in-progress: true
     steps:
       - uses: actions/checkout@v5
       - uses: r-lib/actions/setup-pandoc@v2
       - uses: r-lib/actions/setup-r@v2
-      - uses: r-lib/actions/setup-tinytex@v2
       - name: Install R packages
         run: Rscript -e 'install.packages(c("bookdown", "rmarkdown"))'
       - name: Build
         run: bash build.sh
+        env:
+          BUILD_FORMATS: "0"
+      # The PDF and EPUB come from the latest "Build PDF and EPUB" run (nightly or on demand).
+      - name: Add the latest PDF and EPUB
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release download formats --repo "$GITHUB_REPOSITORY" -p 'stopjerkingoff.*' -D _book --clobber
       - uses: actions/upload-pages-artifact@v4
         with:
           path: _book
   deploy:
     needs: build
     runs-on: ubuntu-latest
+    # Never cut a deployment off halfway; a newer one waits its turn.
+    concurrency:
+      group: pages
+      cancel-in-progress: false
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
