@@ -138,3 +138,12 @@ chapter's ADDED comment which parts are invented.
 No "…" or "..." in the book. End the sentence, or finish the thought. A
 character's line doesn't trail off. Quote whole Bible sentences rather than
 marking an omission.
+
+## Standing rule: church references only where they're needed (James, 2026-11-19)
+
+"We don't have to add references to the church every moment of the book. We
+want this book to be attractive to non-Christian readers." Don't reach for
+"in church", "on Sunday" or "your pastor" as a reflex in illustrations and
+stories. Use everyday pictures any man shares. Keep the Christian material
+where it carries the argument: Scripture, grace, prayer, the Christian
+sections.
