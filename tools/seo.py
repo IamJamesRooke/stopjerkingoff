@@ -20,6 +20,7 @@ PUBLISHER = {"@type": "Organization", "name": TITLE, "url": SITE}  # the book is
 # Search-engine ownership checks: paste the code from Google Search Console / Bing Webmaster Tools here.
 GOOGLE_VERIFY = ""
 BING_VERIFY = ""
+YANDEX_VERIFY = "2f772230596b4a9b"
 
 book = Path(sys.argv[1] if len(sys.argv) > 1 else "_book")
 pages = sorted(p for p in book.glob("*.html"))
@@ -58,6 +59,8 @@ def head_tags(url, title, is_home, noindex, desc=DESCRIPTION, extra_ld=None):
         tags.append(f'<meta name="google-site-verification" content="{e(GOOGLE_VERIFY)}" />')
     if is_home and BING_VERIFY:
         tags.append(f'<meta name="msvalidate.01" content="{e(BING_VERIFY)}" />')
+    if is_home and YANDEX_VERIFY:
+        tags.append(f'<meta name="yandex-verification" content="{e(YANDEX_VERIFY)}" />')
     if noindex:
         tags.append('<meta name="robots" content="noindex" />')
     else:
