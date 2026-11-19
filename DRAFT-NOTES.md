@@ -429,3 +429,11 @@ who was lied to, and the section closes by tying back to the method. Kept on pur
 the "Christian rules" question in The collector (James's idea), L1 to L3 unchanged.
 Also: Ch 24 softener for men who need a person's help, Ch 25 "first five" corrected,
 "a few evenings" everywhere, "If You Slip" named in the Intro, Attribution in "I" voice.
+
+## Revision 2026-11-19: evergreen pass
+
+James: readers are in every country, and the book must read well in a hundred years.
+All helpline names, numbers and websites are out of the Introduction and the Appendix.
+Brand names removed (Ch 3, 4, 15, 25), slang and new technology dated as history
+(Intro, Ch 4, 11, 14, 30). The rule is in STYLE.md. Kept: the book's own address, the
+EasyPeasy and Creative Commons links, NoFap as a named movement, facts with their years.

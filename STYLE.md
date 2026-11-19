@@ -147,3 +147,22 @@ want this book to be attractive to non-Christian readers." Don't reach for
 stories. Use everyday pictures any man shares. Keep the Christian material
 where it carries the argument: Scripture, grace, prayer, the Christian
 sections.
+
+## Standing rule: evergreen (James, 2026-11-19)
+
+A man should be able to read this book in a hundred years and think it reads
+surprisingly well. Tie every point to human nature, not to the current technology.
+
+- No helpline names, phone numbers or websites. Tell the reader to see a doctor, a
+  counselor, or call his local emergency number. Keeping contacts current is not our job.
+- The only web addresses in the visible text are the book's own home and the CC BY-SA
+  credit to EasyPeasy. Source links stay in the hidden SOURCES comments.
+- No brand, site or app names as the point of a sentence. Say "the feed", "a dating
+  app", "the biggest porn site", "the card companies". NoFap is the one named movement,
+  defined once in the Introduction.
+- Facts that will date are told as history, with their year ("In 2020 ...", "in the
+  early 2020s"). Never "recently", "the newest", "these days", "this one is new".
+- Slang is dated on purpose ("the slang of the 2020s calls this simping") and then
+  tied to the old thing it names.
+- "Phone", "screen", "feed" and "scroll" are fine. They are the furniture of the
+  reader's life and will still be understood.

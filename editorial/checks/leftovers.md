@@ -24,7 +24,7 @@
 ## British vs American spelling (prose)
 
 - colour: 0  |  color: 0
-- favour: 0  |  favor: 3
+- favour: 0  |  favor: 2
 - realise: 0  |  realize: 5
 - recognise: 0  |  recognize: 3
 - neighbour: 0  |  neighbor: 1
