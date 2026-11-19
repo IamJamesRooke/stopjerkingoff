@@ -8,7 +8,7 @@
 - **'sequel' (allowed only as 'not an official sequel')**: 0 hit(s) 
 - **'play along' (allowed: Intro, Ch 32)**: 2 hit(s) Intro:175, 33:55
 - **'atheist' (convention: say 'not a believer')**: 2 hit(s) Intro:175, 33:55
-- **'jerking off' (use rarely, on purpose)**: 1 hit(s) 3:113
+- **'jerking off' (use rarely, on purpose)**: 1 hit(s) 3:115
 
 ## Files outside the chapters that name the repository owner
 
@@ -19,7 +19,7 @@
 ## Pronoun for God: capitalised vs lowercase (prose lines)
 
 - capitalised He/His/Him near 'God': 1 lines: 18:46
-- lowercase he/his/him near 'God': 17 lines: Intro:147, Intro:179, 3:9, 8:35, 8:61, 12:66, 14:73, 14:79, 14:85, 14:87, 14:131, 18:46, 20:29, 27:23, 27b:35, 27b:47, 28:110
+- lowercase he/his/him near 'God': 17 lines: Intro:147, Intro:179, 3:9, 8:35, 8:61, 12:66, 14:74, 14:80, 14:86, 14:88, 14:132, 18:46, 20:29, 27:23, 27b:35, 27b:47, 28:110
 
 ## British vs American spelling (prose)
 
@@ -43,6 +43,7 @@
 - 6:19 Chapter 3: ...C.S. Lewis's senior devil admitted in Chapter 3 that hell can't make a pleasure. All it can do is take a re...
 - 8:77 Chapter 29: ...and whether she was ever enough. None of that is her fault. Chapter 29 covers when and how to tell her....
 - 9:51 Chapter 21: ...hem back up in fifty-two days. Yours will go up faster, and Chapter 21 shows how. For now, just look at the gap in the wall and ad...
+- 14:45 Chapter 4: ...ice. It is the porn habit with the screen taken away. Chapter 4 said the man who watches is already a customer. This man has only...
 - 20:17 Chapter 4: ...there is little medical evidence for any of these changes." Chapter 4 called this the opposite lie, and it does its damage right ...
 - 20:33 Chapter 11: ...Chapter 11 dealt with the counter. The badge is the counter with a fin...
 - 20:37 Chapter 16: ...Don't confuse a pact with honesty. Chapter 16 told you to bring this into the light, and it meant it. Tel...

@@ -7,8 +7,8 @@
 | Intro | 3029 | 16 | 12 | 13 | 6 | 8 | 5 | 0 | 0 | 1 | 1 |
 | 1 | 1315 | 2 | 4 | 2 | 1 | 3 | 0 | 0 | 0 | 0 | 0 |
 | 2 | 2032 | 4 | 3 | 2 | 1 | 13 | 0 | 0 | 0 | 0 | 0 |
-| 3 | 3035 | 7 | 4 | 8 | 2 | 13 | 1 | 12 | 0 | 0 | 0 |
-| 4 | 2229 | 4 | 12 | 13 | 1 | 9 | 0 | 4 | 1 | 0 | 0 |
+| 3 | 3078 | 7 | 4 | 10 | 2 | 13 | 1 | 12 | 0 | 0 | 0 |
+| 4 | 2258 | 4 | 12 | 13 | 1 | 9 | 0 | 4 | 1 | 0 | 0 |
 | 5 | 2573 | 3 | 4 | 0 | 1 | 21 | 1 | 6 | 2 | 0 | 0 |
 | 6 | 1241 | 2 | 4 | 2 | 1 | 6 | 0 | 1 | 1 | 0 | 0 |
 | 7 | 1027 | 2 | 2 | 2 | 0 | 4 | 0 | 0 | 0 | 0 | 0 |
@@ -18,7 +18,7 @@
 | 11 | 2650 | 0 | 4 | 1 | 1 | 11 | 4 | 8 | 2 | 0 | 0 |
 | 12 | 1549 | 0 | 2 | 1 | 0 | 9 | 0 | 2 | 1 | 0 | 0 |
 | 13 | 698 | 1 | 0 | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 0 |
-| 14 | 3336 | 3 | 3 | 23 | 1 | 3 | 0 | 1 | 0 | 0 | 0 |
+| 14 | 3506 | 3 | 4 | 26 | 1 | 4 | 0 | 1 | 0 | 0 | 0 |
 | 15 | 2444 | 5 | 3 | 29 | 1 | 0 | 0 | 1 | 0 | 0 | 0 |
 | 16 | 746 | 1 | 1 | 0 | 0 | 4 | 0 | 0 | 0 | 0 | 0 |
 | 17 | 878 | 0 | 1 | 1 | 1 | 3 | 0 | 0 | 1 | 0 | 0 |
@@ -45,21 +45,21 @@
 | faq | 1778 | 9 | 10 | 6 | 5 | 5 | 5 | 3 | 1 | 2 | 0 |
 | why-this-book | 1014 | 8 | 6 | 5 | 2 | 2 | 4 | 0 | 0 | 1 | 0 |
 
-## Overused words and phrases (book total 55317 words)
+## Overused words and phrases (book total 55559 words)
 
 | Word | Count | Per 1000 words | In how many files |
 |---|---|---|---|
-| nothing | 128 | 2.31 | 35 |
-| trap | 79 | 1.43 | 26 |
-| a man who | 69 | 1.25 | 27 |
+| nothing | 128 | 2.3 | 35 |
+| trap | 79 | 1.42 | 26 |
+| a man who | 69 | 1.24 | 27 |
 | sin | 52 | 0.94 | 25 |
-| itch | 48 | 0.87 | 19 |
+| itch | 48 | 0.86 | 19 |
 | exactly | 25 | 0.45 | 18 |
-| relief | 23 | 0.42 | 9 |
+| relief | 23 | 0.41 | 9 |
 | really | 21 | 0.38 | 11 |
 | willpower method | 21 | 0.38 | 12 |
 | free man | 21 | 0.38 | 14 |
-| plain | 18 | 0.33 | 15 |
+| plain | 18 | 0.32 | 15 |
 | actually | 17 | 0.31 | 13 |
 | the truth | 17 | 0.31 | 14 |
 | comfort | 17 | 0.31 | 12 |
@@ -101,6 +101,7 @@
 - "that a woman is beautiful" x4 in 14, 29b, Intro, faq
 - "the rest of your life" x4 in 11, 17, Intro
 - "the verse that opens this" x4 in 1, 18, 3, 5
+- "the woman on the screen" x4 in 15, 3, 4
 - "thinking with the wrong head" x4 in Intro, faq, why-this-book
 - "this book was inspired by" x4 in 29, Intro, faq, why-this-book
 - "verse that opens this chapter" x4 in 1, 18, 3, 5
