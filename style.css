@@ -371,3 +371,7 @@ pre code {
 @media (max-width: 600px) {
   .book .book-body .page-wrapper .page-inner section.normal img.home-cover { margin-top: 64px !important; }
 }
+
+/* Skip link: hidden until a keyboard user tabs to it. */
+.skip-link { position: absolute; left: -9999px; top: 8px; z-index: 1000; padding: 8px 14px; background: #c9a55a; color: #111a2c; font-weight: 700; border-radius: 4px; }
+.skip-link:focus { left: 8px; }

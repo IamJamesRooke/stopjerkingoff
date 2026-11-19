@@ -16,7 +16,8 @@ FULL_TITLE = "Stop Jerking Off: The Easy Peasy Way to Conquer Lust"
 DESCRIPTION = ("Conquer lust the easy way: stop masturbating and watching porn without willpower or shame. "
                "A book inspired by EasyPeasy that helps you walk away for good.")
 IMAGE = SITE + "images/og-image.png?v=7"
-PUBLISHER = {"@type": "Organization", "name": TITLE, "url": SITE}  # the book is anonymous
+PUBLISHER = {"@type": "Organization", "@id": SITE + "#org", "name": TITLE, "url": SITE, "logo": SITE + "images/logo-512.png", "email": "hello@stopjerkingoff.com"}
+BOOK_ID = SITE + "#book"  # the book is anonymous
 # Search-engine ownership checks: paste the code from Google Search Console / Bing Webmaster Tools here.
 GOOGLE_VERIFY = ""
 BING_VERIFY = ""
@@ -40,6 +41,8 @@ def head_tags(url, title, is_home, noindex, desc=DESCRIPTION, extra_ld=None):
         '<meta name="theme-color" content="#17181b" />',
         '<link rel="preconnect" href="https://fonts.googleapis.com" />',
         '<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />',
+        '<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin />',
+        '<link rel="llms" href="llms.txt" />',
         '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;1,7..72,400&display=swap" />',
         f'<meta property="og:site_name" content="{TITLE}" />',
         f'<meta property="og:type" content="{"book" if is_home else "article"}" />',
@@ -68,10 +71,10 @@ def head_tags(url, title, is_home, noindex, desc=DESCRIPTION, extra_ld=None):
         tags.append('<script src="counter.js" defer></script>')
         tags.append('<script src="share.js" defer></script>')
     # Cookie-free visit counter (GoatCounter); no personal data is collected.
-    tags.append('<script data-goatcounter="https://stopjerkingoff.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>')
+    tags.append('<script data-goatcounter="https://stopjerkingoff.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>')
     if is_home:
         data = {
-            "@context": "https://schema.org", "@type": "Book",
+            "@context": "https://schema.org", "@type": "Book", "@id": BOOK_ID,
             "name": TITLE,
             "alternativeHeadline": "The Easy Peasy Way to Conquer Lust",
             "description": DESCRIPTION, "url": SITE, "image": IMAGE,
@@ -93,8 +96,8 @@ def head_tags(url, title, is_home, noindex, desc=DESCRIPTION, extra_ld=None):
             ],
         }
         tags.append('<script type="application/ld+json">' + json.dumps(data) + '</script>')
-    if extra_ld:
-        tags.append('<script type="application/ld+json">' + json.dumps(extra_ld) + '</script>')
+    for item in (extra_ld if isinstance(extra_ld, list) else [extra_ld] if extra_ld else []):
+        tags.append('<script type="application/ld+json">' + json.dumps(item) + '</script>')
     return "\n".join(tags) + "\n"
 
 
@@ -138,7 +141,17 @@ def article_ld(url, title, desc):
     return {"@context": "https://schema.org", "@type": "Article", "headline": title,
             "description": desc, "url": url, "image": IMAGE,
             "author": PUBLISHER, "publisher": PUBLISHER,
-            "about": {"@type": "Book", "name": TITLE, "url": SITE}}
+            "datePublished": "2026-11-15", "dateModified": date.today().isoformat(),
+            "about": {"@type": "Book", "@id": BOOK_ID, "name": TITLE, "url": SITE}}
+
+def chapter_ld(url, title, desc):
+    """Each chapter is a Chapter of the Book, with a breadcrumb back to the homepage."""
+    return [{"@context": "https://schema.org", "@type": "Chapter", "name": title, "description": desc,
+             "url": url, "inLanguage": "en-US", "publisher": PUBLISHER,
+             "isPartOf": {"@type": "Book", "@id": BOOK_ID, "name": FULL_TITLE, "url": SITE}},
+            {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
+                {"@type": "ListItem", "position": 1, "name": TITLE, "item": SITE},
+                {"@type": "ListItem", "position": 2, "name": title, "item": url}]}]
 for rmd in sorted(Path(".").glob("*.Rmd")):
     for line in rmd.read_text(encoding="utf-8").splitlines():
         if line.startswith("# "):
@@ -156,12 +169,12 @@ def chapter_desc(s):
         if not t or t.isupper():
             continue
         text = (text + " " + t).strip()
-        if len(text) >= 90:
+        if len(text) >= 120:
             break
     if not text:
         return DESCRIPTION
-    if len(text) > 158:
-        text = text[:155].rsplit(" ", 1)[0].rstrip(",;:") + "…"
+    if len(text) > 148:
+        text = text[:145].rsplit(" ", 1)[0].rstrip(",;:") + "…"
     return text
 
 VERSION = str(int(time.time()))
@@ -199,7 +212,18 @@ for p in pages:
         else:
             s = re.sub(r'(<section class="normal"[^>]*>)', lambda x: x.group(1) + "\n" + m.group(1), s, count=1)
     desc = PAGE_DESC.get(name) or (DESCRIPTION if is_home or noindex else chapter_desc(s))
-    extra = faq_ld(s) if name == "faq.html" else article_ld(url, title.split(" | ")[0], desc) if name == "why-this-book.html" else None
+    short = title.split(" | ")[0]
+    if name == "faq.html":
+        extra = faq_ld(s)
+    elif name == "why-this-book.html":
+        extra = article_ld(url, short, desc)
+    elif not is_home and not noindex and name != "introduction.html":
+        extra = chapter_ld(url, short, desc)
+    else:
+        extra = None
+    # Skip link for keyboard and screen-reader users, straight to the reading area (gitbook's main landmark).
+    s = s.replace('<div class="page-wrapper" tabindex="-1" role="main">', '<div class="page-wrapper" id="main-content" tabindex="-1" role="main">', 1)
+    s = re.sub(r'(<body[^>]*>)', r'\1\n<a class="skip-link" href="#main-content">Skip to the text</a>', s, count=1)
     s = s.replace("</head>", head_tags(url, title, is_home, noindex, desc, extra) + "</head>", 1)
     # Cache-bust our own files so readers get new styles and scripts right after a deploy.
     s = re.sub(r'(href|src)="(style\.css|feedback\.js|counter\.js|share\.js)"', lambda m: f'{m.group(1)}="{m.group(2)}?v={VERSION}"', s)

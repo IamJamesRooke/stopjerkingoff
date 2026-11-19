@@ -9,9 +9,10 @@ bookdown::gitbook:
         <li><a href="stopjerkingoff.pdf"><i class="fa fa-file-pdf-o"></i> Download the PDF</a></li>
         <li><a href="stopjerkingoff.epub"><i class="fa fa-book"></i> Download the EPUB (e-readers)</a></li>
         <li><a href="faq.html"><i class="fa fa-question-circle"></i> Common questions (FAQ)</a></li>
-        <li><a href="about.html"><i class="fa fa-info-circle"></i> About this book</a></li>
+        <li><a href="about.html"><i class="fa fa-info-circle"></i> Book summary and contact</a></li>
         <li class="divider"></li>
       after: |
+        <li><a href="about.html#privacy">Privacy</a></li>
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
     download: ["pdf", "epub"]
 bookdown::pdf_book:
