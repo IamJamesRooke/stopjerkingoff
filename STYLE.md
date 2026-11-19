@@ -104,3 +104,12 @@ Never tell the reader to go and find something: no "read the verse at the head o
 ### Chapter numbers (2026-11-19)
 
 James split the old Chapter 8. The stories are now Chapter 9, "A City Without Walls" (`09-a-city-without-walls.Rmd`), and every later chapter and file moved up by one. Our file `NN` now matches EasyPeasy section `ch0(NN+1)` only up to Chapter 8; from Chapter 10 on it matches `ch0(NN)`. Page addresses did not change, because they come from the headings.
+
+## Standing rule: "partner", not "wife", for the reader's own woman (James, 2026-11-19)
+
+We don't know whether the reader is married. In general lines about the
+woman in his life, write "partner" ("short with his partner", "his partner is
+asleep in the next room"). Keep "wife" and "husband" where the line is about
+marriage itself: Bible stories, quotations and testimonies, "wanting a wife",
+"sex with your wife is the meal", the married-man section, the "If you're
+married" lines, "To wives", and "the woman you'll marry".
