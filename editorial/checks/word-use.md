@@ -18,7 +18,7 @@
 | 11 | 2651 | 0 | 3 | 1 | 1 | 11 | 4 | 8 | 2 | 0 | 0 |
 | 12 | 1527 | 0 | 2 | 1 | 0 | 8 | 0 | 2 | 1 | 0 | 0 |
 | 13 | 2041 | 1 | 0 | 5 | 0 | 3 | 0 | 5 | 0 | 0 | 0 |
-| 14 | 3792 | 4 | 5 | 27 | 1 | 5 | 0 | 1 | 0 | 0 | 0 |
+| 14 | 4116 | 5 | 5 | 34 | 1 | 5 | 0 | 1 | 0 | 0 | 0 |
 | 15 | 2533 | 5 | 3 | 29 | 1 | 1 | 0 | 1 | 0 | 0 | 0 |
 | 16 | 725 | 1 | 2 | 1 | 0 | 4 | 0 | 0 | 0 | 0 | 0 |
 | 17 | 876 | 0 | 1 | 1 | 1 | 3 | 0 | 0 | 1 | 0 | 0 |
@@ -45,18 +45,18 @@
 | faq | 1781 | 9 | 10 | 6 | 5 | 5 | 5 | 3 | 1 | 2 | 0 |
 | why-this-book | 1014 | 8 | 6 | 5 | 2 | 2 | 4 | 0 | 0 | 1 | 0 |
 
-## Overused words and phrases (book total 58649 words)
+## Overused words and phrases (book total 58973 words)
 
 | Word | Count | Per 1000 words | In how many files |
 |---|---|---|---|
-| nothing | 143 | 2.44 | 35 |
-| trap | 79 | 1.35 | 25 |
-| a man who | 76 | 1.3 | 29 |
+| nothing | 144 | 2.44 | 35 |
+| trap | 82 | 1.39 | 25 |
+| a man who | 74 | 1.25 | 29 |
 | itch | 56 | 0.95 | 20 |
 | sin | 53 | 0.9 | 24 |
-| exactly | 28 | 0.48 | 18 |
-| free man | 23 | 0.39 | 16 |
-| relief | 22 | 0.38 | 9 |
+| exactly | 28 | 0.47 | 18 |
+| free man | 24 | 0.41 | 16 |
+| relief | 22 | 0.37 | 9 |
 | really | 21 | 0.36 | 11 |
 | willpower method | 21 | 0.36 | 12 |
 | plain | 20 | 0.34 | 17 |
@@ -72,8 +72,8 @@
 | envy | 9 | 0.15 | 5 |
 | honestly | 8 | 0.14 | 6 |
 | perhaps | 8 | 0.14 | 8 |
-| chain | 5 | 0.09 | 4 |
-| mope | 5 | 0.09 | 5 |
+| chain | 5 | 0.08 | 4 |
+| mope | 5 | 0.08 | 5 |
 | crutch | 3 | 0.05 | 3 |
 | stop kidding yourself | 2 | 0.03 | 2 |
 | pity | 2 | 0.03 | 2 |
@@ -88,7 +88,7 @@
 ## Five-word phrases used 4+ times in 3+ files
 
 - "quote quote quote quote quote" x13 in 11, 14, 22, 29b, 4, Intro
-- "every man in the trap" x10 in 12, 14, 29, Intro
+- "every man in the trap" x11 in 12, 14, 29, Intro
 - "a doctor or a counselor" x6 in 13, 15, 34, Intro
 - "easy way to stop smoking" x6 in 34, Intro, attribution, faq, why-this-book
 - "a man ruled by lust" x5 in 15, 27b, Intro, faq, why-this-book
