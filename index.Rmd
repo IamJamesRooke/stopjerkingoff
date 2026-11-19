@@ -40,7 +40,7 @@ This book does not replace a doctor or a counselor. Most men need nothing more t
 
 - **You have thoughts of ending your life or of hurting yourself.** Get medical help today. See a doctor, or call your local emergency number if you are in danger.
 - **You use this to numb an old pain, or it began after something was done to you as a child.** Tell a doctor or a counselor. They keep what you say private, and they have heard it before.
-- **Your urges frighten you, or what you look at has moved toward children or anything against the law.** You are not beyond help. See a doctor or a counselor now. They are there to help you, and they have heard it before.
+- **Your urges frighten you, or what you look at has moved toward children or anything against the law.** You are not beyond help. See a doctor or a counselor now. They are there to help you, and they have heard it before. If the thoughts horrify you, arrive uninvited, and you would never act on them, that is often a treatable anxiety problem and no sign that you are dangerous. Tell a doctor exactly that.
 
 The Appendix at the back has more.
 
@@ -237,3 +237,5 @@ SOURCES (Introduction): every quote below is from the research files; check each
 - The opening promise and the drunk-soldier picture are James's own framing (2026-11-17), not quotations. "Simping" is used once, here, with a plain explanation; later chapters describe the thing without the word. The "three faces" (porn, the hand, bad decisions with women) and the lust/desire definition are the book's own.
 - Scripture (World English Bible): Matthew 5:28; Romans 8:1 (first half of the verse; the WEB continues "who don't walk according to the flesh, but according to the Spirit"); Luke 15:17; John 8:36.
 -->
+
+<!-- 2026-11-19 psych review fixes applied (editorial/PSYCH-REVIEW.md): see that file for the reasoning and sources. -->

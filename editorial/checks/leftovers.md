@@ -33,9 +33,9 @@
 - organis: 0  |  organiz: 2
 - defence: 0  |  defense: 1
 - grey: 0  |  gray: 7
-- fortnight: 0  |  two weeks: 6
+- fortnight: 0  |  two weeks: 9
 - mum: 0  |  mom: 0
-- whilst: 0  |  while: 38
+- whilst: 0  |  while: 39
 
 ## 'Chapter N' cross-references (check each against the target chapter)
 

@@ -16,6 +16,8 @@ Are you thinking about ending your life or harming yourself? Is the darkness you
 
 **If your own urges frighten you,** or what you look at has moved toward children, get help now. See a doctor or a counselor. There are also confidential services for exactly this, where trained people will help you without asking your name. You are not beyond help.
 
+If thoughts like that horrify you, arrive uninvited, and you would never act on them, that is often a treatable anxiety problem and no sign that you are dangerous. Tell a doctor exactly that.
+
 What you're feeling is not the Little Monster, and it isn't a verdict on you. This habit loads a man with shame, and shame lies about how things will turn out. You're worth more than the worst thing you've done. No book can do the job of a person, though, so please go and find one.
 
 ## If it began with something done to you {-}
@@ -36,7 +38,7 @@ Most readers will never need more than this book and a friend. If you do, there'
 
 - **Your pastor, priest or an elder.** Tell him plainly, once, as a man giving news.
 - **A Christian counselor.** See one if the habit is tangled up with something older and heavier, such as grief, abuse or a marriage in trouble. If you're not a believer, any good counselor who takes the problem seriously will do.
-- **Your doctor.** See a doctor about sleep that doesn't improve, low mood that doesn't lift, and anything about your body that worries you. This is not a medical book. A doctor is the person to ask.
+- **Your doctor.** See a doctor about sleep that doesn't improve, a low mood that lasts more than two weeks, and low desire or erection trouble that lasts more than a few weeks. Erection trouble can be an early warning about the heart or the blood sugar. A doctor's instructions come before anything in this book. This is not a medical book. A doctor is the person to ask.
 - **One honest friend.** He's the cheapest help on this list and often the best.
 - **For wives.** You need someone of your own to talk to. That might be a wise older woman, a pastor or a counselor. Some counselors specialize in helping wives after a discovery like this. Ask for one who works with betrayal trauma.
 
@@ -74,3 +76,5 @@ The Attribution page names the other writers and speakers quoted in this book. A
 - "Whose voice is that?" retells, in new words, the essay in EasyPeasy's appendix on combining the method with Jack Trimpey's Addictive Voice Recognition Technique (credited there to a Discord user). Trimpey and AVRT are named in EasyPeasy, not in the research files; "what Trimpey calls the addictive voice" is the only description given. The finger test and the pronoun switch are that essay's illustrations.
 - Scripture (World English Bible): Psalm 34:18; Romans 7:17. Both verified against the WEB text, 2026-11-14.
 -->
+
+<!-- 2026-11-19 psych review fixes applied (editorial/PSYCH-REVIEW.md): see that file for the reasoning and sources. -->
