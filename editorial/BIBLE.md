@@ -141,7 +141,7 @@ Never tell the reader to go and find something: no "read the verse at the head o
 
 **19 Can I Compartmentalise?** Two rooms are one. What you rehearse. Lewis "medium of self-adoration". One man, no double life.
 
-**20 Avoid False Incentives.** Bribes, superpowers, "to get women", the 90-day badge and pact, "when I'm married". Seek first the Kingdom. Don't announce; hand the book on quietly.
+**20 Wrong Reasons to Stop** (was "Avoid False Incentives")**.** Bribes, superpowers, "to get women", the 90-day badge and pact, "when I'm married". Seek first the Kingdom. Don't announce; hand the book on quietly.
 
 **21 The Easy Way to Stop.** The two instructions: decide you are finished with lust (porn, hand, chase), and rejoice (repent and receive). Draws the line between the old willpower vow and this decision. The sober soldier on the wall. One man's last time. Five things. Free the moment you decide. Shame vs motive. Chalmers. If you feel gloomy. Two warnings: don't decide before the end; "first weeks" is not three weeks of pain.
 
@@ -151,25 +151,25 @@ Never tell the reader to go and find something: no "read the verse at the head o
 
 **24 Will It Be Harder for Me?** Church leader, decades of use, student and single man. Two causes of failure: outside trigger, bad day.
 
-**25 Substitutes.** Edging, touching, porn "instead", scroll, food, a woman "instead". Near-beer of lust. Pursue (2 Timothy 2:22).
+**25 Don't Swap It for Something Else** (was "Substitutes")**.** Edging, touching, porn "instead", scroll, food, a woman "instead". Near-beer of lust. Pursue (2 Timothy 2:22).
 
 **26 Should I Avoid Temptation?** Phase One panic, Phase Two future. No "way back". Phone in the bedroom: no fortress, no dare. Joseph vs Samson. Go out and be social.
 
-**27 The Moment of Revelation.** What it is; days not weeks; the three-week trap; don't wait for it.
+**27 The Moment You Know** (was "The Moment of Revelation")**.** What it is; days not weeks; the three-week trap; don't wait for it.
 
 **27b Fit for Service** (unnumbered). Out of the fight (David, enemy, Nehemiah). Drunk on duty (Uriah, Ai, sober first, grace trains). "Here I am. Send me!" *Pays off*: Intro soldier. *Sets up*: Ch 28.
 
 **28 The Final Step.** Two essentials; vow vs yes-yes; no last session (the one place we leave EasyPeasy's path); the prayer (porn, hand, women, "show me the man I am to go back for"); let it ring (Maltz); you are already free; final warning, "not once".
 
-**29 Feedback.** The man who goes back in; the cellar door. Fears; the misreadings (a short "I fell" pointing to If You Slip; tell your wife or pastor, its only home); more questions (wet dream pointer, body with wife, sleep, porn, sex); the checklist of seven closes the chapter.
+**29 Questions Men Ask** (was "Feedback")**.** The man who goes back in; the cellar door. Fears; the misreadings (a short "I fell" pointing to If You Slip; tell your wife or pastor, its only home); more questions (wet dream pointer, body with wife, sleep, porn, sex); the checklist of seven closes the chapter.
 
 **29b If You Slip** (unnumbered, new 2026-11-17). The one home for slip guidance: am I back to zero (confess, refuse the second one, find the instruction), the lies that follow a slip, wanting it to hurt, the bully, the pebble parody (Guillaco credited).
 
-**30 Help Those on the Sinking Ship.** Pity, don't envy; how to help; don't kick; fences don't free; your son needs an explanation.
+**30 The Men Still on the Ship** (was "Help Those on the Sinking Ship")**.** Pity, don't envy; how to help; don't kick; fences don't free; your son needs an explanation.
 
 **31 For the People Beside Him** (was "Advice to Non-users"; URL kept by heading ID)**.** Only for the people around him: getting him to read, wives, parents, pastors, a note on women, help end the silence. (The user's own sections moved out 2026-11-17: slipping to 28b, porn and sex to Ch 29, leaving EasyPeasy's path to Ch 28.)
 
-**32 The Instructions.** Labelled as the page for after the prayer; says it spells out Ch 21's two lines. Eleven lines, verses, "YES! I'M FREE!".
+**32 The Rules in One Place** (was "The Instructions")**.** Labelled as the page for after the prayer; says it spells out Ch 21's two lines. Eleven lines, verses, "YES! I'M FREE!".
 
 **33 Now.** Today only. Where to now: the cleared room, nobody's lever, back in the fight. The soldier closes here ("sober as well ... a place on the wall"). Pass it on. Blessing (Numbers 6). Last line: "Report for duty, and bring somebody with you."
 
