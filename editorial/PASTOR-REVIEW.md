@@ -135,11 +135,32 @@ The book mostly gets this right. The prayer in Chapter 28 depends on grace, and 
 
 **Who objects:** Both (Catholic Catechism 2353; evangelical, Baptist, Pentecostal, Reformed and most mainstream Protestant teaching).
 
-**Fix:** One plain sentence with a verse, in Chapter 29, "What about sex?":
+**Fix (James approved this draft, 2026-11-19):** Replace Chapter 29's "What about sex?" answer with:
 
-> This book has nothing against sex. It's against a counterfeit of it. The Bible keeps sex for marriage: "Let marriage be held in honor among all, and let the bed be undefiled." That line is from the letter to the Hebrews, in the New Testament. Within marriage, sex is a gift, and Chapter 22 told the married man not to hold back from his wife. If you're single, that means waiting, and it means not going looking for somebody to use in place of your hand. That's the same lust, only now there's a victim.
+> **"What about sex?"**
+>
+> This book has nothing against sex. It's against a counterfeit of it, and the counterfeit is everywhere.
+>
+> Look at what we've all been sold. Porn teaches a man that women are for hire. The culture tells him he isn't a real man until he's slept with dozens of them. The same machine works on women from the other side. A phone full of likes teaches a girl that her body is what she has to offer, and that being looked at is the same as being loved. Men are taught to shop, and women are taught to put themselves on display. Both are lied to, and both come away emptier. We've been told this is freedom, and that it's normal. Look at the men and women it has produced, and ask yourself whether it looks like freedom.
+>
+> The Bible's answer is old and simple: keep sex for marriage. The letter to the Hebrews, in the New Testament, says, "Let marriage be held in honor among all, and let the bed be undefiled." That isn't because sex is dirty. It's because sex is strong. It ties two people together, and lust wants the tie without the promise. Within marriage, sex is a gift, and Chapter 22 told the married man not to hold back from his wife.
+>
+> If you've already lived the other way, this isn't here to pile on guilt. Nobody who wrote this book is an angel. Christians aren't the people who got it right. They're the people who finally admitted they couldn't, and asked for help. That's the heart of the whole faith. Look honestly and you find you aren't as good as you thought. Nobody is, and nobody gets there alone.
+>
+> So if you're single, the answer is to wait. Don't go looking for somebody to use in place of your hand. That's the same lust, only now there's a victim. And if you're carrying a past, it's forgiven the same way as everything else in this book. You confess it, and you start again.
 
-Optionally, add a line to the Introduction's "third face" paragraph: "He sleeps with a woman he isn't married to and tells himself it means nothing, or that it means everything."
+James's points behind it: don't make readers feel guilty for their past; explain why (hookup culture, porn and social media lie to men and women alike); don't claim Christians are angels; the heart of Christianity is admitting we can't be perfect and need help. Women are shown as lied to, not as sellers (the book's rule: the fault is the man's thirst). "Woke" was left out on purpose.
+
+## For non-Christian readers (James, 2026-11-19)
+
+James wants non-Christians to finish the book, quit, and perhaps think "this religion thing isn't so stupid". Apply these alongside the fixes above:
+
+1. **Keep the two tracks.** Every Christian point keeps its version for the man who doesn't pray. Never two Christian-only paragraphs in a row. The Catholic and Christian-only additions above are phrased "If you're Catholic..." or "For a believer..." so a non-Christian reads past them.
+2. **Let the Bible earn respect as the most accurate description of the trap.** Two or three times in the book, say it plainly. For example, in Chapter 11 after Romans 7: "Notice who described this first. Paul wrote that sentence nearly two thousand years ago, long before anyone made an app to count days." In Chapter 2, after Jesus's word "bondservant": "Two thousand years before anyone studied addiction, he had already named it."
+3. **Tell the Bible stories as human stories.** The lesson comes out of the story, with no sermon after it. Chapter 9 already does this.
+4. **Add one low-pressure invitation near the end,** in Chapter 33 after "What goes in the space":
+
+   > If you're not a believer, here is one honest suggestion, and then I'll leave it alone. This book has leaned on an old book from start to finish, and you may have noticed how often it got your life right. If it did, it's worth asking where those ideas came from. Read the Gospel of Mark. It's the shortest of the four accounts of Jesus's life, and you can read it in an evening. Or pray once, even if you aren't sure anyone is listening: "God, if you're there, show me." You've got nothing to lose. You've just learned that about lust.
 
 ---
 
