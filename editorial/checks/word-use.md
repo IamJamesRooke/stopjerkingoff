@@ -17,7 +17,7 @@
 | 10 | 8 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 11 | 2651 | 0 | 3 | 1 | 1 | 11 | 4 | 8 | 2 | 0 | 0 |
 | 12 | 1527 | 0 | 2 | 1 | 0 | 8 | 0 | 2 | 1 | 0 | 0 |
-| 13 | 948 | 1 | 0 | 1 | 0 | 2 | 0 | 2 | 0 | 0 | 0 |
+| 13 | 1189 | 1 | 0 | 1 | 0 | 3 | 0 | 3 | 0 | 0 | 0 |
 | 14 | 3792 | 4 | 5 | 27 | 1 | 5 | 0 | 1 | 0 | 0 | 0 |
 | 15 | 2533 | 5 | 3 | 29 | 1 | 1 | 0 | 1 | 0 | 0 | 0 |
 | 16 | 725 | 1 | 2 | 1 | 0 | 4 | 0 | 0 | 0 | 0 | 0 |
@@ -45,26 +45,26 @@
 | faq | 1781 | 9 | 10 | 6 | 5 | 5 | 5 | 3 | 1 | 2 | 0 |
 | why-this-book | 1014 | 8 | 6 | 5 | 2 | 2 | 4 | 0 | 0 | 1 | 0 |
 
-## Overused words and phrases (book total 57556 words)
+## Overused words and phrases (book total 57797 words)
 
 | Word | Count | Per 1000 words | In how many files |
 |---|---|---|---|
-| nothing | 140 | 2.43 | 35 |
-| trap | 80 | 1.39 | 26 |
-| a man who | 74 | 1.29 | 29 |
-| itch | 55 | 0.96 | 20 |
-| sin | 51 | 0.89 | 23 |
+| nothing | 140 | 2.42 | 35 |
+| trap | 79 | 1.37 | 25 |
+| a man who | 76 | 1.31 | 29 |
+| itch | 56 | 0.97 | 20 |
+| sin | 52 | 0.9 | 24 |
 | exactly | 26 | 0.45 | 17 |
-| free man | 22 | 0.38 | 15 |
+| free man | 23 | 0.4 | 16 |
 | relief | 22 | 0.38 | 9 |
 | plain | 21 | 0.36 | 17 |
 | really | 21 | 0.36 | 11 |
 | willpower method | 21 | 0.36 | 12 |
-| actually | 18 | 0.31 | 14 |
+| actually | 19 | 0.33 | 15 |
 | the truth | 18 | 0.31 | 14 |
-| plainly | 17 | 0.3 | 14 |
-| comfort | 17 | 0.3 | 12 |
-| simply | 16 | 0.28 | 13 |
+| plainly | 17 | 0.29 | 14 |
+| simply | 17 | 0.29 | 14 |
+| comfort | 17 | 0.29 | 12 |
 | of course | 10 | 0.17 | 9 |
 | grace | 10 | 0.17 | 6 |
 | moping | 10 | 0.17 | 5 |
@@ -76,10 +76,10 @@
 | mope | 5 | 0.09 | 5 |
 | crutch | 3 | 0.05 | 3 |
 | stop kidding yourself | 2 | 0.03 | 2 |
-| doesn't exist | 2 | 0.03 | 2 |
 | pity | 2 | 0.03 | 2 |
 | obviously | 1 | 0.02 | 1 |
 | no such thing | 1 | 0.02 | 1 |
+| doesn't exist | 1 | 0.02 | 1 |
 | marvellous | 0 | 0.0 | 0 |
 | pipsqueak | 0 | 0.0 | 0 |
 | isn't it marvellous | 0 | 0.0 | 0 |
