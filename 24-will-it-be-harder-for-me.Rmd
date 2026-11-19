@@ -36,7 +36,7 @@ Most men find it easier than they feared. Some men carry more than the habit: an
 
 There are only two worth worrying about.
 
-**The first is something outside you.** A scene in a movie, an ad, a photo in your feed, a woman at the gym. Or it's a softer thing: you see a couple holding hands and feel a stab of envy. It catches you in a weak moment. We've been over this at length. When it happens, use it. Remind yourself that there's no such thing as one look or one time. Be glad the chain is broken. And remember that the man still in the trap would swap places with you tomorrow. He's the one to feel sorry for, because he still has to.
+**The first is something outside you.** A scene in a movie, an ad, a photo in your feed, a woman at the gym. Or it's a softer thing: you see a couple holding hands and feel a stab of envy. It catches you in a weak moment. When it happens, use it. Remind yourself that there's no such thing as one look or one time. Be glad the chain is broken. And remember that the man still in the trap would swap places with you tomorrow. He's the one to feel sorry for, because he still has to.
 
 **The second is a bad day.** Get this clear before you start: you will have good days and bad days whether you go back to it or not. The book of Ecclesiastes says God has made the good day and the bad day side by side. They come to the free man and the man in the trap alike. You can't have hills without valleys.
 
@@ -56,3 +56,5 @@ Stay glad. It matters on the good days, and it matters most on the bad ones.
 - The church-leader example replaces EasyPeasy's doctor example, as the brief asks. It is an illustration, not a report of any real pastor.
 - Scripture (World English Bible): Matthew 5:45 (second half of the verse).
 -->
+
+<!-- 2026-11-19 listener's pass: 'We've been over this at length' removed (no cross-references). -->
