@@ -132,3 +132,9 @@ man". Never present an invented story as a testimony, never put invented words
 in a real or quoted person's mouth, and never invent facts, studies or
 Scripture. Real testimonies stay as their authors wrote them. Note in the
 chapter's ADDED comment which parts are invented.
+
+## Standing rule: no ellipses (James, 2026-11-19)
+
+No "…" or "..." in the book. End the sentence, or finish the thought. A
+character's line doesn't trail off. Quote whole Bible sentences rather than
+marking an omission.
