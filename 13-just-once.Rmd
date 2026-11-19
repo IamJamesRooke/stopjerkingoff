@@ -6,7 +6,9 @@
 
 A woman has a pursuer who will not stop calling. She ignores his messages, thirty of them. Then, worn out, she calls him back, only to tell him to leave her alone. It makes no difference what she says. He has learned what it costs to reach her. It costs thirty messages.
 
-That picture comes from Gavin de Becker, an American security specialist who spent his career guarding public figures from stalkers. He put it in a book called *The Gift of Fear*, in 1997. He was writing about dangerous men. He could have been writing about your habit.
+That picture comes from Gavin de Becker, an American security specialist who spent his career guarding public figures from stalkers. He put it in a book called *The Gift of Fear*, in 1997. His advice to her is the hard part. She should say no once, in plain words that leave no hope at all. After that she should never answer again, because to a man like that even an angry "no" counts as a conversation. "The way to stop contact", de Becker wrote, "is to stop contact."
+
+He was writing about dangerous men. He could have been writing about your habit.
 
 You have a caller of your own. This book calls him the Little Monster, and you should keep his size in view. He is an itch. That is all he is. He is about as strong as a mosquito bite, or a tag scratching at the back of your collar. He can't hurt you, and he can't make you do anything. He can only nag. Left alone, he nags a little less each day, and then he is gone.
 
@@ -14,7 +16,7 @@ Nobody ever went back because the itch was unbearable. It isn't. If stopping has
 
 It buys the opposite. Hold out for ten days and then give in "just once", and you have not bought any peace. You have taught the Little Monster that ten days of nagging gets him fed. Next time he will nag for eleven, quite cheerfully.
 
-So don't pick up. An itch that is never answered has nothing to learn, and it stops calling.
+So take de Becker's advice. Say No once, and leave no hope in it. This book will bring you to that moment, and it is one plain No. After that, don't pick up. Don't argue with the itch, and don't bargain with it. Arguing is answering. An itch that is never answered has nothing to learn, and it stops calling.
 
 "Just once" is a myth. Get it out of your head.
 
@@ -71,3 +73,5 @@ The Song of Solomon is a love poem in the Bible, and it has a line for this: "Ca
 <!-- 2026-11-19 coherence read with 'Beware of Cutting Down' (James): one sentence squares the 'tiny itch' here with the misery described in the cutting-down chapter (the misery is the wanting, not the itch); the chaser line now picks up the caller picture from the opening. No change to the cutting-down chapter. -->
 
 <!-- 2026-11-19 (James: is everything in the right chapter?): the section "I'm just built this way" moved to 'Will It Be Harder for Me?', where the special cases are. Its source notes stay listed above. The closing fox passage has its own heading. -->
+
+<!-- 2026-11-19 VERIFIED against the book (James supplied a copy): Gavin de Becker, The Gift of Fear (1997), the chapter on persistence. The number is thirty: "When a woman gets thirty messages from a pursuer and doesn't call him back, but then finally gives in and returns his calls, no matter what she says, he learns that the cost of reaching her is leaving thirty messages. For this type of man, any contact will be seen as progress." His advice: "it needs to be said one time, explicitly"; "I suggest one explicit rejection and after that absolutely no contact". The one direct quotation in the text, "The way to stop contact is to stop contact", is verbatim. The earlier "not yet checked" note is superseded. -->
