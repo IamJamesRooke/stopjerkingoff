@@ -10,7 +10,7 @@
 | 3 | 3071 | 7 | 4 | 11 | 2 | 13 | 1 | 12 | 0 | 0 | 0 |
 | 4 | 2517 | 4 | 9 | 18 | 1 | 11 | 0 | 5 | 2 | 0 | 0 |
 | 5 | 2536 | 3 | 5 | 0 | 1 | 22 | 1 | 6 | 2 | 0 | 0 |
-| 6 | 1231 | 1 | 5 | 3 | 1 | 6 | 0 | 1 | 1 | 0 | 0 |
+| 6 | 1248 | 1 | 5 | 3 | 1 | 6 | 0 | 1 | 1 | 0 | 0 |
 | 7 | 1029 | 2 | 2 | 2 | 0 | 4 | 0 | 0 | 0 | 0 | 0 |
 | 8 | 2140 | 1 | 2 | 10 | 2 | 14 | 0 | 0 | 0 | 0 | 0 |
 | 9 | 1118 | 3 | 0 | 5 | 0 | 2 | 6 | 0 | 0 | 0 | 1 |
@@ -22,7 +22,7 @@
 | 15 | 2545 | 5 | 3 | 29 | 1 | 1 | 0 | 1 | 0 | 0 | 0 |
 | 16 | 733 | 1 | 1 | 0 | 0 | 4 | 0 | 0 | 0 | 0 | 0 |
 | 17 | 876 | 0 | 1 | 1 | 1 | 3 | 0 | 0 | 1 | 0 | 0 |
-| 18 | 582 | 1 | 1 | 2 | 0 | 4 | 0 | 1 | 0 | 0 | 0 |
+| 18 | 603 | 1 | 1 | 2 | 0 | 4 | 0 | 1 | 0 | 0 | 0 |
 | 19 | 502 | 0 | 0 | 3 | 0 | 0 | 0 | 1 | 0 | 0 | 0 |
 | 20 | 935 | 1 | 0 | 3 | 0 | 1 | 0 | 0 | 1 | 0 | 0 |
 | 21 | 1418 | 3 | 2 | 1 | 1 | 1 | 2 | 3 | 1 | 0 | 1 |
@@ -45,7 +45,7 @@
 | faq | 1780 | 9 | 10 | 6 | 5 | 5 | 5 | 3 | 1 | 2 | 0 |
 | why-this-book | 1014 | 8 | 6 | 5 | 2 | 2 | 4 | 0 | 0 | 1 | 0 |
 
-## Overused words and phrases (book total 56319 words)
+## Overused words and phrases (book total 56357 words)
 
 | Word | Count | Per 1000 words | In how many files |
 |---|---|---|---|
@@ -102,8 +102,6 @@
 - "porn the hand and the" x4 in 21, Intro, why-this-book
 - "ruled by lust is like" x4 in 27b, Intro, faq, why-this-book
 - "that a woman is beautiful" x4 in 14, 29b, Intro, faq
-- "the verse that opens this" x4 in 1, 18, 3, 5
 - "the woman on the screen" x4 in 15, 3, 4
 - "thinking with the wrong head" x4 in Intro, faq, why-this-book
 - "this book was inspired by" x4 in 29, Intro, faq, why-this-book
-- "verse that opens this chapter" x4 in 1, 18, 3, 5
