@@ -180,3 +180,18 @@ in its own voice. The source stays in the chapter's SOURCES comment.
 - A paraphrase with an attribution ("One coach describes...", "A pastor says the same")
   is nearly always filler. Say the thing.
 - No stacking: one voice per point.
+
+## Standing rule, strengthened: no cross-references at all (James, 2026-11-19)
+
+Nobody goes back to check a reference, and a listener can't. A book has no hyperlinks.
+Whenever a point from elsewhere is needed, say it again, here, in a sentence.
+
+- Never write "Chapter 7", "two chapters ago", "the last chapter", "as you saw",
+  "you met him earlier", "the Introduction said", "I said", "comes up later",
+  "Chapter 29 covers it". Before pushing, search for: chapter, earlier, above, below,
+  go back, you saw, you met, I said, later, the Introduction.
+- A quote or person used a second time is introduced again in place, in a few words.
+- Allowed: a plain promise of what is coming next ("the next chapter sets out the
+  advantages"), the named things the book owns (the final step, If You Slip, the
+  Little Monster), "the verse that opens this chapter", and advice to read the book
+  again after a fall. The FAQ may link to chapters, because it is a web page.
