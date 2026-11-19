@@ -17,7 +17,7 @@
 | 10 | 8 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 11 | 2651 | 0 | 3 | 1 | 1 | 11 | 4 | 8 | 2 | 0 | 0 |
 | 12 | 1527 | 0 | 2 | 1 | 0 | 8 | 0 | 2 | 1 | 0 | 0 |
-| 13 | 1348 | 1 | 0 | 2 | 0 | 3 | 0 | 3 | 0 | 0 | 0 |
+| 13 | 1540 | 1 | 0 | 2 | 0 | 3 | 0 | 3 | 0 | 0 | 0 |
 | 14 | 3792 | 4 | 5 | 27 | 1 | 5 | 0 | 1 | 0 | 0 | 0 |
 | 15 | 2533 | 5 | 3 | 29 | 1 | 1 | 0 | 1 | 0 | 0 | 0 |
 | 16 | 725 | 1 | 2 | 1 | 0 | 4 | 0 | 0 | 0 | 0 | 0 |
@@ -45,21 +45,21 @@
 | faq | 1781 | 9 | 10 | 6 | 5 | 5 | 5 | 3 | 1 | 2 | 0 |
 | why-this-book | 1014 | 8 | 6 | 5 | 2 | 2 | 4 | 0 | 0 | 1 | 0 |
 
-## Overused words and phrases (book total 57956 words)
+## Overused words and phrases (book total 58148 words)
 
 | Word | Count | Per 1000 words | In how many files |
 |---|---|---|---|
-| nothing | 140 | 2.42 | 35 |
+| nothing | 141 | 2.42 | 35 |
 | trap | 79 | 1.36 | 25 |
 | a man who | 76 | 1.31 | 29 |
-| itch | 56 | 0.97 | 20 |
-| sin | 52 | 0.9 | 24 |
+| itch | 57 | 0.98 | 20 |
+| sin | 52 | 0.89 | 24 |
 | exactly | 26 | 0.45 | 17 |
 | free man | 23 | 0.4 | 16 |
 | relief | 22 | 0.38 | 9 |
 | really | 21 | 0.36 | 11 |
 | willpower method | 21 | 0.36 | 12 |
-| plain | 20 | 0.35 | 17 |
+| plain | 20 | 0.34 | 17 |
 | actually | 19 | 0.33 | 15 |
 | the truth | 18 | 0.31 | 14 |
 | plainly | 17 | 0.29 | 14 |
@@ -68,8 +68,8 @@
 | of course | 10 | 0.17 | 9 |
 | grace | 10 | 0.17 | 6 |
 | moping | 10 | 0.17 | 5 |
-| quite | 9 | 0.16 | 7 |
-| envy | 9 | 0.16 | 5 |
+| quite | 9 | 0.15 | 7 |
+| envy | 9 | 0.15 | 5 |
 | honestly | 8 | 0.14 | 6 |
 | perhaps | 8 | 0.14 | 8 |
 | chain | 5 | 0.09 | 4 |
@@ -89,8 +89,8 @@
 
 - "quote quote quote quote quote" x13 in 11, 14, 22, 29b, 4, Intro
 - "every man in the trap" x10 in 12, 14, 29, Intro
+- "a doctor or a counselor" x6 in 13, 15, 34, Intro
 - "easy way to stop smoking" x6 in 34, Intro, attribution, faq, why-this-book
-- "a doctor or a counselor" x5 in 15, 34, Intro
 - "a man ruled by lust" x5 in 15, 27b, Intro, faq, why-this-book
 - "the rest of your life" x5 in 11, 17, 33, Intro
 - "the verse that opens this" x5 in 1, 28, 3, 5, 7
