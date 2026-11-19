@@ -26,7 +26,7 @@ if (knitr::is_html_output(excludes = "epub")) {
 }
 ```
 
-This book will help you conquer lust. You will stop masturbating, stop watching porn, and stop making bad decisions with women because you're thinking with the wrong head. You'll stop right away, you'll stay stopped, and you won't be miserable doing it. There are no cold showers in here, no rubber bands on your wrist, and no ninety-day streak counter to babysit. Nobody is going to shame you, and nobody is going to ask you to grit your teeth.
+This book will help you conquer lust. You will stop masturbating, stop watching porn, and stop making bad decisions with women because you're thinking with the wrong head. You can stop right away, stay stopped, and not be miserable doing it. There are no cold showers in here, no rubber bands on your wrist, and no ninety-day streak counter to babysit. Nobody is going to shame you, and nobody is going to ask you to grit your teeth.
 
 While you read, please don't start a willpower campaign. Make no vows, start no streaks, and don't cut down. Don't fight it with willpower. Just keep reading to the last page. Chapter 1 explains why, and why this is not permission to sin.
 
@@ -86,15 +86,17 @@ The method works on one condition:
 
 Think of it as a staircase. Each chapter is a step, and each step only holds your weight because the one beneath it is there. Jump ahead to the "how to stop" chapter and you'll land on nothing.
 
-Take the steps in order and I can promise you this method is:
+Take the steps in order, and here is what this method is built to be:
 
 - **Immediate.** You don't taper off. You stop.
-- **For every man.** It works as well for the man who is at it three times a day as for the man who slips twice a month.
+- **For any man.** It is the same for the man who is at it three times a day as for the man who slips twice a month.
 - **Free of misery.** No weeks of climbing the walls.
 - **Free of willpower.** No gritted teeth.
 - **Free of gimmicks.** No apps, no supplements, no locked boxes.
 - **Clean.** You won't swap it for overeating, scrolling or drinking.
 - **Lasting.** You don't have to keep walking out of the same trap.
+
+Let me be honest about that list. This is a method that has freed many men. It is not a medical treatment, nobody has tested it in a clinic, and I can't promise how it will go for you. I can tell you what it has done for others, and ask you to read to the end.
 
 You probably don't believe a word of that. Neither did these men, once.
 
