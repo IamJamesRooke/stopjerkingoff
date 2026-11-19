@@ -94,6 +94,10 @@ Being sorry is not the same as turning around.
 
 And notice where both stories put the blame. Delilah was paid and Jezebel was ruthless. But Samson gave away his own secret, and Ahab let his own name be used. A man ruled by what he wants ends up ruled by whoever can give it to him.
 
+Now look at the free man in the same room. He can see that a woman is beautiful. It simply stops deciding anything. He doesn't buy the drink or laugh at the joke that wasn't funny. He doesn't give her the favor, the job or the last word because of her face. He treats her as he treats everyone else, which is fairly.
+
+That is better for him. He keeps his money, his judgment and his self-respect. It is better for her too, because she gets dealt with as a person. And it is better for the plain woman standing beside her, whom thirsty men have looked straight through all her life.
+
 ## The married man {-}
 
 He thought the wedding would end it. Many of us did. He found out within the month that it had come with him on the honeymoon.
@@ -165,3 +169,5 @@ There aren't really any types. There's one trap, and men are standing at differe
 - 2026-11-19 (method check): Samson cut to about half (three ropes in one sentence, short temple scene) and Ahab to one paragraph.
 - 2026-11-19: section "The man led by a woman" holds Samson and Delilah (moved whole from Chapter 9) and Ahab and Jezebel (shortened from Chapter 9). Samson: Judges 16:4-30; WEB quotations from 16:5, 16:6, 16:9, 16:15, 16:16, 16:20, 16:21, 16:22, 16:28; Hebrews 11:32. Ahab: 1 Kings 21:1-29 (WEB quotations from 21:7; "sold himself" and "stirred up" from 21:25); "three years" 22:1; the prophet jailed 22:26-27; death in battle 22:34-35.
 -->
+
+<!-- ADDED 2026-11-19 (moral foundations pass): 'the free man in the same room' closes The man led by a woman (James's idea: beauty becomes a non-factor; fairness and self-respect). Illustration, no source. -->

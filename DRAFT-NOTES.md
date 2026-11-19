@@ -437,3 +437,12 @@ All helpline names, numbers and websites are out of the Introduction and the App
 Brand names removed (Ch 3, 4, 15, 25), slang and new technology dated as history
 (Intro, Ch 4, 11, 14, 30). The rule is in STYLE.md. Kept: the book's own address, the
 EasyPeasy and Creative Commons links, NoFap as a named movement, facts with their years.
+
+## Revision 2026-11-19: moral foundations pass
+
+James asked that the book reach readers on all of Haidt's foundations. Map in
+editorial/BIBLE.md section 8. Liberty, authority and care were already strong. Added:
+sanctity (Ch 3 "holy" paragraph; Ch 18 "looks cheap" paragraph), care (Ch 4 "somebody's
+daughter"), fairness and self-respect (Ch 14 "the free man in the same room"), loyalty
+(Ch 16 "It sets you against your own side"). The 1 Timothy 5 "sisters, in all purity"
+line was already in Ch 15. Intro, Ch 1 and Ch 2 untouched.

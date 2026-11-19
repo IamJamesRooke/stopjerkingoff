@@ -191,3 +191,23 @@ Never tell the reader to go and find something: no "read the verse at the head o
 - Ch 10's title is "Advantages of Lust" (settled 2026-11-17, to match the book's scope). The file name is unchanged.
 - Still repeated on purpose (the method's device): "would you start again?", the "nothing to give up" case, the instruction lists in Ch 13, 21, 28, 29, 32.
 - The repository owner's name: the Edit button and source link were removed from the site by the Publisher (commit b75fa75); tool and worker files still carry it.
+
+## 8. Moral foundations map (2026-11-19, James)
+
+Jonathan Haidt (*The Righteous Mind*, 2012) says people judge right and wrong on
+several separate foundations, and that different readers lean on different ones. The
+book should reach a man on every one. Haidt is not named in the body (evergreen; the
+book uses the foundations, it doesn't teach them). Every appeal follows the method: it
+removes an illusion or names a benefit. It never shames.
+
+| Foundation | Where the book carries it |
+|---|---|
+| Care / harm | Ch 4 "Nobody gets hurt" (the woman on the screen, "somebody's daughter"); Ch 9 Uriah; Ch 15; Ch 29 wives; Ch 30 sons |
+| Fairness / cheating | The trap as a con (Ch 2, 5, 6: you pay and get nothing); Ch 14 "the free man in the same room" treats every woman fairly; what is owed a partner (Ch 14, 29) |
+| Loyalty / betrayal | "Can't be trusted" (Intro, Ch 9, Ch 18); Ch 16 "It sets you against your own side"; Ch 19 one man in every room; Ch 21 keeping your word; Ch 33 go back for one man |
+| Authority / tradition | The Father; the soldier and the king (Intro, Ch 9, 27b); "the old Christians"; Ch 30 a father's word to his son |
+| Sanctity / degradation | Ch 3 "holy", the temple and the grandfather's watch; Ch 15 "sisters, in all purity"; Ch 18 the sell "starts to look cheap"; Ch 28 "Make me clean" |
+| Liberty / oppression | The trap, the slave, the prison, "YES! I'M FREE!" throughout; Ch 27b "Who gains?" |
+
+Rule for sanctity: disgust is aimed at the sell and the trade, never at a woman and
+never at the reader's body.
