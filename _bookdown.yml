@@ -46,6 +46,7 @@ rmd_files:
     - "attribution.Rmd"
     - "faq.Rmd"
     - "why-this-book.Rmd"
+    - "about.Rmd"
   latex:
     - "index.Rmd"
     - "01-the-easy-method.Rmd"

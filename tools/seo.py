@@ -74,6 +74,12 @@ def head_tags(url, title, is_home, noindex, desc=DESCRIPTION, extra_ld=None):
             "description": DESCRIPTION, "url": SITE, "image": IMAGE,
             "publisher": PUBLISHER,
             "inLanguage": "en-US",
+            "genre": ["Self-help", "Addiction recovery", "Christian living"],
+            "about": ["Pornography addiction", "Compulsive sexual behavior", "Masturbation", "Habit change", "Self-control"],
+            "keywords": "quit porn, stop masturbating, NoFap, porn addiction recovery, lust, self-control, EasyPeasy",
+            "audience": {"@type": "PeopleAudience", "audienceType": "Adult men", "suggestedMinAge": 18},
+            "contentRating": "No explicit content",
+            "abstract": "A self-help recovery book for men who want to stop compulsive pornography use and masturbation without relying on willpower.",
             "license": "https://creativecommons.org/licenses/by-sa/4.0/",
             "isBasedOn": "https://easypeasymethod.org/",
             "workExample": [
@@ -102,6 +108,8 @@ SOURCES = {}
 
 # Website-only pages: their own descriptions and structured data.
 PAGE_DESC = {
+    "about.html": ("A plain summary of Stop Jerking Off: a self-help recovery book for men who want to stop compulsive "
+                   "porn use and masturbation, using a cognitive, no-willpower approach inspired by EasyPeasy."),
     "advantages-of-lust.html": "The chapter on the advantages of lust. The page is blank on purpose, because there are none.",
     "faq.html": ("How do I stop masturbating? Can I quit without willpower? Is it harmful, or a sin? "
                  "Plain answers to the questions men ask most, from the book Stop Jerking Off."),
@@ -215,11 +223,11 @@ robots += f"User-agent: *\nAllow: /\n\nSitemap: {SITE}sitemap.xml\n"
 # llms.txt (llmstxt.org): a plain summary for AI assistants, with every page listed.
 def section(names):
     return "".join(f"- [{t}]({u}): {d}\n" for _, t, u, d in entries if u.rsplit("/", 1)[-1] in names)
-special = {"faq.html", "why-this-book.html", "attribution.html"}
+special = {"about.html", "faq.html", "why-this-book.html", "attribution.html"}
 chapters = "".join(f"- [{t}]({u}): {d}\n" for _, t, u, d in sorted(entries) if u.rsplit("/", 1)[-1] not in special)
 llms = f"""# {FULL_TITLE}
 
-> A complete book that helps men conquer lust without willpower, streak counters or shame: stop masturbating, stop watching porn, and stop making bad decisions with women because they are thinking with the wrong head. It is inspired by EasyPeasy (the well-known book for quitting porn) and works like Allen Carr's Easy Way to Stop Smoking: it removes the beliefs that make the habit feel worth keeping, so stopping becomes easy. Written from a Christian point of view, and it also works for readers who aren't religious.
+> A self-help recovery book (no explicit content) that helps men conquer lust without willpower, streak counters or shame: stop masturbating, stop watching porn, and stop making bad decisions with women because they are thinking with the wrong head. It is inspired by EasyPeasy (the well-known book for quitting porn) and works like Allen Carr's Easy Way to Stop Smoking: it removes the beliefs that make the habit feel worth keeping, so stopping becomes easy. Written from a Christian point of view, and it also works for readers who aren't religious.
 
 - Read it online at {SITE}, with no ads and no sign-up. Also available as a PDF ({SITE}stopjerkingoff.pdf) and EPUB ({SITE}stopjerkingoff.epub).
 - Takes a few hours to read. Readers keep living normally until they finish, then stop.
@@ -232,7 +240,7 @@ llms = f"""# {FULL_TITLE}
 ## Start here
 
 - [Home and Introduction]({SITE}): what the book is and how to read it.
-{section({"faq.html", "why-this-book.html"})}
+{section({"about.html", "faq.html", "why-this-book.html"})}
 ## Chapters
 
 {chapters}
