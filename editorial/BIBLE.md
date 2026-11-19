@@ -127,7 +127,7 @@ Never tell the reader to go and find something: no "read the verse at the head o
 
 **12 Beware of Cutting Down.** Home of the Saturdays-only man's week ("A week on the ration", moved here from Ch 14). Rations make it precious; "less is not less"; "willpower for life"; edging; retraining; Romans 13:14.
 
-**13 Just Once.** Just once doesn't exist; the special one; "I'm built this way"; the little foxes.
+**13 Just Once.** Do not negotiate (de Becker's caller; the Little Monster is the stalker); three doors; what one buys; the special one; see the whole of it; at the door (Genesis 4:7, ending on James 4:7). "Built this way" moved to Ch 24.
 
 **14 Every Man in the Trap** (was "Types of User"; URL kept by heading ID)**.** Ladder also holds (2026-11-19) the collector (body count), the man who pays (subscriptions, streamers, simping), the man with a machine (AI), the man who "only reads" (erotica, hentai). Why all light users are caught. Nightly, married, streak, porn, "porn-free but still doing it", imagination-only, man led by women, church guy, "I'll stop when I'm married" (its home), "Less often is not happier" (a callback to Ch 12's week). Pharisee prayer. "No real types." A word about boys (see Ch 31).
 

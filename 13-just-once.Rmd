@@ -1,8 +1,8 @@
 # Just Once
 
-> "Catch for us the foxes, the little foxes that plunder the vineyards; for our vineyards are in blossom."
+> "sin crouches at the door. Its desire is for you, but you are to rule over it."
 >
-> — Song of Solomon 2:15
+> — Genesis 4:7
 
 ## Do not negotiate {-}
 
@@ -96,11 +96,15 @@ Don't frighten yourself with any of this. You can do it. Any man can. It's absur
 2. There is no harmless one. There is only the whole chain or none of it.
 3. When you give your answer, you give it once. After that, you don't reopen the question.
 
-## The little fox {-}
+## At the door {-}
 
-The Song of Solomon is a love poem in the Bible, and it has a line for this: "Catch for us the foxes, the little foxes that plunder the vineyards". It doesn't warn about wolves. It warns about little foxes. Nobody loses a vineyard to a wolf. The damage is done by something small enough to slip under the fence while the vines are in flower.
+The Bible has a line for this in one of its oldest stories. Cain is angry with his brother Abel, and he is about to kill him. Before he does it, God warns him: "sin crouches at the door. Its desire is for you, but you are to rule over it."
 
-"Just once" is the little fox.
+That is the caller, thousands of years before there was a telephone. He is at your door. He wants you, and he will not go away because you asked him nicely. Cain opened the door once, and once was enough.
+
+You are to rule over it, and ruling doesn't mean wrestling him on the doorstep. It means the door stays shut. If you're not a believer, call him the Little Monster. He behaves the same way whatever you call him.
+
+Leave the door shut, and the one outside gives up and goes. James, one of the first leaders of the church, put it as a promise: "Resist the devil, and he will flee from you."
 
 <!-- SOURCES (Chapter 13): every quote below is from the research files; check each against its page before publishing.
 - "Within seconds after cumming, the phase shift in mental acuity that I felt was simply astounding." — r/NoFap, "decided to relapse on purpose to see if my…", http://www.reddit.com/r/NoFap/comments/1d3k4w/decided_to_relapse_on_purpose_to_see_if_my/ (via YBOP, https://www.yourbrainonporn.com/rebooting-porn-use-faqs/what-is-the-chaser/; Reddit original not opened. The book reads the "phase shift" as a change for the worse and assumes "a long break"; check the thread.)
@@ -135,3 +139,5 @@ The Song of Solomon is a love poem in the Bible, and it has a line for this: "Ca
 <!-- 2026-11-19 (James): the application of de Becker's picture is now mapped out plainly: the Little Monster is the stalker; 'just once' is calling him back; arguing and bargaining are contact; the one plain No; never answered, he gives up and goes. The itch-size and 'torture is the wanting' sentences are kept inside the mapping. -->
 
 <!-- 2026-11-19 (James: don't gloss over it): the opening now spells out the pursuer's own reasoning after the thirtieth message. His thoughts are this book's dramatization of de Becker's point ("he learns that the cost of reaching her is leaving thirty messages"), not a quotation. -->
+
+<!-- 2026-11-19 (James approved): the little foxes (Song of Solomon 2:15) were replaced. The epigraph is now Genesis 4:7 (WEB, verbatim from the second sentence of the verse: "sin crouches at the door. Its desire is for you, but you are to rule over it."), and the chapter ends on James 4:7 (WEB: "Resist the devil, and he will flee from you."; the verse begins "Be subject therefore to God."). Both checked against the WEB text today. Neither verse is used elsewhere in the body of the book. The closing section is now "At the door". -->
