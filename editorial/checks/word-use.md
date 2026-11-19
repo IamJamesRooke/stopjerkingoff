@@ -11,8 +11,8 @@
 | 4 | 2517 | 4 | 9 | 18 | 1 | 11 | 0 | 5 | 2 | 0 | 0 |
 | 5 | 2536 | 3 | 5 | 0 | 1 | 22 | 1 | 6 | 2 | 0 | 0 |
 | 6 | 1248 | 1 | 5 | 3 | 1 | 6 | 0 | 1 | 1 | 0 | 0 |
-| 7 | 1029 | 2 | 2 | 2 | 0 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 8 | 2137 | 1 | 2 | 10 | 2 | 14 | 0 | 0 | 0 | 0 | 0 |
+| 7 | 1070 | 2 | 2 | 2 | 0 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 8 | 2346 | 1 | 2 | 10 | 2 | 15 | 0 | 0 | 0 | 0 | 0 |
 | 9 | 1118 | 3 | 0 | 5 | 0 | 2 | 6 | 0 | 0 | 0 | 1 |
 | 10 | 8 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 11 | 2648 | 0 | 4 | 1 | 1 | 11 | 4 | 8 | 2 | 0 | 0 |
@@ -45,15 +45,15 @@
 | faq | 1780 | 9 | 10 | 6 | 5 | 5 | 5 | 3 | 1 | 2 | 0 |
 | why-this-book | 1014 | 8 | 6 | 5 | 2 | 2 | 4 | 0 | 0 | 1 | 0 |
 
-## Overused words and phrases (book total 56354 words)
+## Overused words and phrases (book total 56604 words)
 
 | Word | Count | Per 1000 words | In how many files |
 |---|---|---|---|
-| nothing | 133 | 2.36 | 35 |
-| trap | 80 | 1.42 | 26 |
-| a man who | 71 | 1.26 | 28 |
+| nothing | 134 | 2.37 | 35 |
+| trap | 80 | 1.41 | 26 |
+| a man who | 71 | 1.25 | 28 |
 | sin | 52 | 0.92 | 24 |
-| itch | 50 | 0.89 | 19 |
+| itch | 50 | 0.88 | 19 |
 | exactly | 26 | 0.46 | 17 |
 | free man | 22 | 0.39 | 15 |
 | relief | 22 | 0.39 | 9 |
@@ -102,6 +102,8 @@
 - "porn the hand and the" x4 in 21, Intro, why-this-book
 - "ruled by lust is like" x4 in 27b, Intro, faq, why-this-book
 - "that a woman is beautiful" x4 in 14, 29b, Intro, faq
+- "the verse that opens this" x4 in 1, 3, 5, 7
 - "the woman on the screen" x4 in 15, 3, 4
 - "thinking with the wrong head" x4 in Intro, faq, why-this-book
 - "this book was inspired by" x4 in 29, Intro, faq, why-this-book
+- "verse that opens this chapter" x4 in 1, 3, 5, 7

@@ -16,9 +16,15 @@ A young man rarely notices the cost, and there's a reason for it. At twenty he h
 
 ## It isn't a landmine {-}
 
-Men who do worry tend to picture the cost as a landmine. It's somewhere out in the field, and you might tread on it or you might not. So far, so good.
+Some men do worry about the cost. But listen to how they picture it. They picture a landmine. It's buried somewhere in the field ahead of them, and one day they might step on it. The wife finds out. The job is lost. The body fails. Or they might walk the whole field and never touch it. Plenty of men seem to. So each morning a man checks himself over, finds that nothing has blown up, and says, "So far, so good."
 
-Get that picture out of your head. The cost isn't buried up ahead. **IT'S ALREADY BEING PAID.** It's taken out every time, in small coins, and that's why you never see the total.
+Get that picture out of your head. It's the wrong picture, and it's the one that keeps you walking.
+
+Here is a truer one. Think of a bank account that somebody dips into every day. He never takes much. It's a few coins at a time, and never enough to notice. You would spot a robbery. You don't spot this. Then years later you add it up, and a fortune is gone.
+
+That is how this habit charges you. The cost isn't buried up ahead. **IT'S ALREADY BEING PAID.** You paid some last night, in the hour you spent and the sleep you lost after it. You paid some this morning, when you got up a little flat and a little ashamed. You'll pay some this afternoon, when your mind slides off the work in front of you. And you'll pay some tonight, when you're a little less present with the people in the room. None of it is big enough to call a disaster, and that's why you never see the total.
+
+So don't ask whether the mine will ever go off. Ask what has been going out of the account.
 
 ## What it has been taking {-}
 
@@ -160,3 +166,5 @@ That day is closer than you think.
 <!-- 2026-11-19 psych review fixes applied (editorial/PSYCH-REVIEW.md): see that file for the reasoning and sources. -->
 
 <!-- 2026-11-19 listener's pass: "I promised" cross-reference removed; "read twice" and "pages" reworded for the ear; one repeated "in the eye" varied; Lewis named in full. -->
+
+<!-- 2026-11-19 (James): the landmine section slowed down and made concrete (the bank account, the coins in one ordinary day). -->
