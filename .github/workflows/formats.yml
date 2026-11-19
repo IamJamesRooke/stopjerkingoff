@@ -21,6 +21,9 @@ jobs:
       - uses: r-lib/actions/setup-tinytex@v2
       - name: Install R packages
         run: Rscript -e 'install.packages(c("bookdown", "rmarkdown"))'
+      - name: Install the LaTeX packages the print design uses
+        run: |
+          Rscript -e 'tinytex::tlmgr_install(c("ebgaramond", "fontspec", "microtype", "lettrine", "minifp", "fmtcount", "titlesec", "fancyhdr", "emptypage", "tocloft", "enumitem", "etoolbox", "xcolor", "graphics"))'
       - name: Build EPUB and PDF
         run: |
           Rscript -e "bookdown::render_book('index.Rmd', 'bookdown::epub_book')"

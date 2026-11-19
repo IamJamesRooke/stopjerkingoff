@@ -19,8 +19,13 @@ bookdown::pdf_book:
   includes:
     in_header: preamble.tex
   latex_engine: xelatex
+  toc_depth: 1
   keep_tex: no
+  pandoc_args: ["--lua-filter=tools/dropcap.lua", "--strip-comments", "-V", "fontsize=11pt", "-V", "indent=true", "-V", "classoption=openright"]
 bookdown::epub_book:
   cover_image: images/cover.png
   metadata: epub-metadata.xml
-  pandoc_args: ["--strip-comments"]
+  stylesheet: epub.css
+  toc: false
+  toc_depth: 1
+  pandoc_args: ["--lua-filter=tools/epub.lua", "--strip-comments", "--epub-title-page=false"]

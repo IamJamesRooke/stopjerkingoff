@@ -1,29 +1,171 @@
-\usepackage{booktabs}
+% Print design for the PDF: a 5.5 x 8.5 in trade paperback, set in EB Garamond.
+% The book is anonymous: no author name anywhere.
 
-%\usepackage[T1]{fontenc}
-\usepackage[a4paper, margin=2cm]{geometry}
+% ---- Page size and margins (inner margin wider for the binding) ----
+\usepackage[paperwidth=5.5in, paperheight=8.5in,
+  inner=0.75in, outer=0.6in, top=0.75in, bottom=0.8in,
+  headsep=0.22in, footskip=0.38in]{geometry}
 
-%\usepackage{titling}
-%\usepackage[sfdefault,scaled=.90]{FiraSans}
-%\usepackage{newtxsf}
-%\usepackage{ragged2e}
+% ---- Typeface ----
+\usepackage{fontspec}
+\setmainfont{EBGaramond}[
+  Extension = .otf,
+  UprightFont = *-Regular, ItalicFont = *-Italic,
+  BoldFont = *-SemiBold, BoldItalicFont = *-SemiBoldItalic,
+  Ligatures = TeX, Numbers = OldStyle]
+\newfontfamily\initialsfont{EBGaramond}[Extension = .otf, UprightFont = *-Regular, Numbers = Lining]
+\setsansfont{EBGaramond}[Extension = .otf, UprightFont = *-Regular, ItalicFont = *-Italic, BoldFont = *-SemiBold]
+\microtypesetup{protrusion=true}
+\linespread{1.12}
 
-% Full-page cover (images/cover.png) before the title page.
+% ---- Paragraphs: indented, no gap between them; no widows or orphans ----
+\setlength{\parindent}{1.1em}
+\setlength{\parskip}{0pt}
+\widowpenalty=10000
+\clubpenalty=10000
+\displaywidowpenalty=10000
+\brokenpenalty=10000
+\raggedbottom
+\emergencystretch=1.5em
+
+% ---- Links print as plain text ----
+\AtBeginDocument{\hypersetup{hidelinks}}
+
+% ---- Lists: tighter, book-like ----
+\usepackage{enumitem}
+\setlist{itemsep=0.2em, topsep=0.5em, leftmargin=1.6em}
+
+% ---- Quotations and epigraphs ----
+\usepackage{etoolbox}
+\AtBeginEnvironment{quote}{\small\setlength{\parindent}{0pt}\setlength{\parskip}{0.3em}}
+\AtBeginEnvironment{quotation}{\small}
+
+% ---- Chapter openings: new right-hand page, "Chapter One", title, sunk start ----
+\usepackage{fmtcount}
+\usepackage{titlesec}
+\renewcommand{\chaptername}{Chapter}
+\titleformat{\chapter}[display]
+  {\normalfont\centering}
+  {\footnotesize\addfontfeature{LetterSpace=25}CHAPTER\ \NUMBERstring{chapter}}
+  {1.1em}
+  {\LARGE\itshape}
+  [\vspace{0.6em}\rule{2.2em}{0.4pt}]
+\titleformat{name=\chapter, numberless}[display]
+  {\normalfont\centering}
+  {}
+  {0pt}
+  {\LARGE\itshape}
+  [\vspace{0.6em}\rule{2.2em}{0.4pt}]
+\titlespacing*{\chapter}{0pt}{0.16\textheight}{2.2em}
+
+% Section heads inside chapters: small capitals, centered, with air around them.
+\titleformat{\section}{\normalfont\centering\scshape\addfontfeature{LetterSpace=6}}{}{0pt}{\MakeLowercase}
+\titleformat{name=\section, numberless}{\normalfont\centering\scshape\addfontfeature{LetterSpace=6}}{}{0pt}{\MakeLowercase}
+\titlespacing*{\section}{0pt}{1.6em plus 0.4em minus 0.2em}{0.8em}
+\titleformat{\subsection}{\normalfont\itshape}{}{0pt}{}
+\titleformat{name=\subsection, numberless}{\normalfont\itshape}{}{0pt}{}
+\titlespacing*{\subsection}{0pt}{1.1em}{0.4em}
+\setcounter{secnumdepth}{0}  % chapters keep their number through \numberstring; nothing below is numbered
+
+% ---- Drop caps on each chapter's first paragraph (added by tools/dropcap.lua) ----
+\usepackage{lettrine}
+\setcounter{DefaultLines}{3}
+\renewcommand{\LettrineFontHook}{\initialsfont}
+\renewcommand{\LettrineTextFont}{\scshape\addfontfeature{LetterSpace=4}}
+\setlength{\DefaultFindent}{0.12em}
+\setlength{\DefaultNindent}{0.4em}
+
+% ---- Running heads and page numbers ----
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\newcommand{\runninghead}[1]{\footnotesize\addfontfeature{LetterSpace=12}\MakeUppercase{#1}}
+\fancyhead[CE]{\runninghead{Stop Jerking Off}}
+\fancyhead[CO]{\runninghead{\leftmark}}
+\fancyfoot[C]{\small\thepage}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{#1}}
+\renewcommand{\sectionmark}[1]{}
+\fancypagestyle{plain}{\fancyhf{}\renewcommand{\headrulewidth}{0pt}\fancyfoot[C]{\small\thepage}}
+% Blank left-hand pages before a new chapter stay completely empty.
+\usepackage{emptypage}
+
+% ---- Contents: chapters only, quiet and centered ----
+\usepackage{tocloft}
+\renewcommand{\cfttoctitlefont}{\hfill\LARGE\itshape}
+\renewcommand{\cftaftertoctitle}{\hfill}
+\renewcommand{\cftchapfont}{\normalfont}
+\renewcommand{\cftchappagefont}{\normalfont}
+\renewcommand{\cftchapleader}{\cftdotfill{\cftdotsep}}
+\renewcommand{\cftdotsep}{2.5}
+\setlength{\cftbeforechapskip}{0.35em}
+\setlength{\cftchapnumwidth}{1.8em}
+\cftsetpnumwidth{1.8em}
+\cftsetrmarg{2.6em}
+\setcounter{tocdepth}{0}
+
+% ---- Front matter: cover, half title, title page, copyright page ----
 \usepackage{graphicx}
 \usepackage{xcolor}
 \definecolor{coverbg}{HTML}{0B111E}
-\let\sjooldmaketitle\maketitle
+\newcommand{\sjoyear}{\the\year}
+\newcommand{\sjomonth}{\ifcase\month\or January\or February\or March\or April\or May\or June\or July\or August\or September\or October\or November\or December\fi}
 \renewcommand{\maketitle}{%
+  \frontmatter
+  \pagestyle{empty}%
+  % Cover
   \newgeometry{margin=0pt}%
-  \pagecolor{coverbg}%
   \begin{titlepage}
+    \pagecolor{coverbg}%
     \vspace*{\fill}
-    \centering\includegraphics[height=0.97\paperheight]{images/cover.png}\par
+    \centering\includegraphics[height=\paperheight]{images/cover.png}\par
     \vspace*{\fill}
   \end{titlepage}%
   \nopagecolor
   \restoregeometry
-  \sjooldmaketitle}
+  % Half title (recto), blank verso
+  \cleardoublepage
+  \thispagestyle{empty}
+  \vspace*{0.28\textheight}
+  \begin{center}{\large\addfontfeature{LetterSpace=18}STOP JERKING OFF}\end{center}
+  \clearpage\thispagestyle{empty}\mbox{}\clearpage
+  % Title page (recto)
+  \thispagestyle{empty}
+  \vspace*{0.2\textheight}
+  \begin{center}
+    {\Huge\addfontfeature{LetterSpace=6}STOP JERKING OFF\par}
+    \vspace{1.4em}
+    {\large\itshape The Easy Peasy Way to Conquer Lust\par}
+    \vspace{1.6em}
+    {\rule{3em}{0.4pt}\par}
+    \vfill
+    {\small\addfontfeature{LetterSpace=12}STOPJERKINGOFF.COM\par}
+  \end{center}
+  \clearpage
+  % Copyright page (verso)
+  \thispagestyle{empty}
+  \vspace*{\fill}
+  {\footnotesize\setlength{\parindent}{0pt}\setlength{\parskip}{0.7em}\raggedright
+  \textit{Stop Jerking Off: The Easy Peasy Way to Conquer Lust}
+
+  Published anonymously. This edition: \sjomonth\ \sjoyear.
+
+  The text of this book is released under the Creative Commons Attribution-ShareAlike 4.0 International license (CC~BY-SA~4.0). You may copy, share, print, translate and adapt it, for any purpose, as long as you give credit and release your version under the same license.
+
+  The structure and method are inspired by \textit{EasyPeasy} by Hackauthor², also released under CC~BY-SA~4.0, which is itself based on Allen Carr's Easyway method. This book is not affiliated with or endorsed by either. Full credits are given in the Attribution at the back of the book.
+
+  Bible quotations are from the World English Bible, which is in the public domain. Short quotations from other writers remain the property of their authors.
+
+  This book is not medical, psychological or legal advice.
+
+  The latest edition is at stopjerkingoff.com\par}
+  \clearpage
+  \pagestyle{fancy}}
+
+% Contents on its own right-hand page. The main matter (arabic page numbers) is started
+% by tools/dropcap.lua just before the first chapter.
+\let\sjooldtoc\tableofcontents
+\renewcommand{\tableofcontents}{\cleardoublepage\markboth{}{}\sjooldtoc}
 
 % PDF document properties (the book is anonymous: no author).
 \AtBeginDocument{\hypersetup{
