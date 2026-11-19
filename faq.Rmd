@@ -20,7 +20,7 @@ Because of what you believe about it, not because of any weakness in you. The ha
 
 ## Is masturbation harmful? {-}
 
-Doctors say masturbation doesn't damage your body, and this book doesn't argue with them. The book is about something else: what the habit does to your mind, your drive, your word and your soul. That part is conviction and the testimony of men who lived it, not a medical finding. The one place where doctors do have something to add is men who find they can't finish with a real partner. See [What It's Doing to You](what-its-doing-to-you.html).
+Doctors say masturbation doesn't damage your body, and this book doesn't argue with them. The book is about something else: what the habit does to your mind, your drive, your word and your soul. That part is conviction and the testimony of men who lived it, not a medical finding. Where doctors do have something to add, as with men who find they can't finish with a real partner, the book says so. See [What It's Doing to You](what-its-doing-to-you.html).
 
 ## Is masturbation a sin? {-}
 
@@ -100,4 +100,6 @@ Don't lecture him or corner him. He already knows. Show him it can be left, ment
 
 ## I'm struggling with more than a habit. Where can I get help? {-}
 
-If you're in crisis or thinking about harming yourself, please reach out now. The appendix lists crisis lines and other places to get help. See [If you are in crisis](appendix-resources.html#if-you-are-in-crisis).
+If you're in crisis or thinking about harming yourself, please reach out now. The appendix says where to turn and who to ask. See [If you are in crisis](appendix-resources.html#if-you-are-in-crisis).
+
+<!-- 2026-11-19 listener's pass: the FAQ no longer says the appendix lists crisis lines, and matches Chapter 8's new body sections. -->

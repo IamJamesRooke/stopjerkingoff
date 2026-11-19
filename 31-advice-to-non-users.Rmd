@@ -67,7 +67,7 @@ So, fathers, a few suggestions.
 
 If you're a mother raising a son without his father, you can say most of this yourself, and he'll survive the embarrassment. If you can't, find a man you trust, a grandfather or uncle or youth leader, and ask him to.
 
-And if your son is already grown and already caught, everything in the first section applies. He's not a child to be managed. He's a man to be told that a way out exists.
+And if your son is already grown and already caught, the advice on getting a man to read this book applies to him. He's not a child to be managed. He's a man to be told that a way out exists.
 
 ## To pastors and priests {-}
 
@@ -117,3 +117,5 @@ Now and then you'll get a blank look or a laugh. More often than you'd think, yo
 - "Two scandals" (Help end the silence): the industry paragraph points back to Chapter 4's porn section and carries the same verify-before-print flag. The Good Samaritan retelling follows Luke 10:30-35 and no longer gives the priest and Levite motives.
 - Scripture (World English Bible): Ecclesiastes 4:9-10; Ephesians 6:4; (Micah 7:8 moved to "If You Slip".)
 -->
+
+<!-- 2026-11-19 listener's pass: 'the first section' no longer pointed at the right section (To wives now comes first); the advice is named in place. -->
