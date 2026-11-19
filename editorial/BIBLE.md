@@ -131,7 +131,7 @@ Never tell the reader to go and find something: no "read the verse at the head o
 
 **14 Types of User.** Why all light users are caught. Nightly, married, streak, porn, "porn-free but still doing it", imagination-only, man led by women, church guy, "I'll stop when I'm married" (its home), "Less often is not happier" (a callback to Ch 12's week). Pharisee prayer. "No real types." A word about boys (see Ch 31).
 
-**15 Fantasy and the Thought Life.** (2026-11-19: new section "The app and the girl on your mind" before "Taking thoughts captive": dating apps as the scroll with a chance attached, "a wife or a hit?", and the one girl as "the harem with one face in it".) ("What it comes to" recap cut.) Soft porn and the feed, the harem, "look but don't touch" (Matthew 5:28), the woman in the room, taking thoughts captive. Feed as business: the lever.
+**15 Fantasy and the Thought Life.** (2026-11-19: new section "You would if you could" after "Then I'll look and not touch", with the standalone line "Faithful only because nobody offered."; and new section "The app and the girl on your mind" before "Taking thoughts captive": dating apps as the scroll with a chance attached, "a wife or a hit?", and the one girl as "the harem with one face in it".) ("What it comes to" recap cut.) Soft porn and the feed, the harem, "look but don't touch" (Matthew 5:28), the woman in the room, taking thoughts captive. Feed as business: the lever.
 
 **16 A Secret Habit?** Secrecy keeps it going. Forums help but use willpower. Into the light. *Promises*: when to tell comes later (Ch 29).
 
