@@ -58,6 +58,16 @@ A short line or fragment may stand as its own paragraph where it carries the poi
 
 Never tell the reader to go and find something: no "read the verse at the head of the chapter again", "see above", "below", "scroll up". Nobody scrolls back, and a listener can't. Restate the line in place, in a few words or in full. Naming a chapter in passing ("Chapter 8 described this") is fine when the sentence still works without looking it up. Advice to re-read the book or a chapter after a slip is part of the method and stays.
 
+### Rules from the pastors' review (James, 2026-11-19)
+
+- Never write "carry on as normal" or tell the reader to wait before repenting. The instruction is "don't start a willpower campaign"; a man who is ready now turns now and keeps reading.
+- Grace gets the credit. The book clears away lies; it saves nobody. Repentance and freedom are God's gifts.
+- The trap can end at once, but watchfulness is lifelong. Never promise that temptation won't return, and never mock Christians who say a man keeps watch.
+- Catholic readers: mention Confession wherever the book says "confess", phrased "If you're Catholic..." so other readers pass over it. Never knock penance or guarding the eyes.
+- Sex belongs in marriage, said plainly and without piling on guilt (Chapter 29, "What about sex?").
+- The divine name is printed "the LORD", never "Yahweh".
+- Two tracks: every Christian point keeps a version for the man who doesn't pray, and never two Christian-only paragraphs in a row. One low-pressure invitation only (Chapter 33).
+
 ## 3. Key terms
 
 - **Lust**: desire turned into taking. Desire is God's idea and good (noticing beauty, wanting a wife). Lust is the second look, the woman used as material.

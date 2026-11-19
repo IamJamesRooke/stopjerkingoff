@@ -378,3 +378,17 @@ counted without comments, the FAQ and Why This Book Exists.
 - Not done, waiting on James: moving Ch 30 and the Appendix out of the
   numbered run, merging Chapters 12, 18 and 22, real readers' testimonies.
   Chapter 9's blank page still uses non-breaking spaces for the layout.
+
+## Revision 2026-11-19: pastors' review applied
+
+James approved every fix in editorial/PASTOR-REVIEW.md ("Just make all the changes"). Applied by the Author on main.
+
+- "Carry on as normal" is gone from the whole book. The instruction is now "don't start a willpower campaign", with "if you fall while reading, don't despair" and "if you're ready now, don't wait".
+- Grace: a framing paragraph in the Introduction ("Nothing in it saves anyone"), and line changes in the Introduction and Chapters 1, 2, 11, 21 and 28.
+- Watchfulness: "Permanent" became "Lasting"; Chapter 11 says the old Christians are right about keeping watch.
+- Confession for Catholic readers in Chapters 28, 29, 29b and the Appendix. Sex belongs in marriage: the new "What about sex?" answer in Chapter 29, as James approved it.
+- Medium and low items: Matthew 5:34 no longer used against vows (Chapters 1 and 28); Galatians and Romans 8:13 in Chapter 3; Psalm 32:5 in Chapter 8; David's repentance, Jezebel in 2 Kings, the Nazirite vow and the unopened letter in Chapter 9; Ecclesiastes 7:14 replaces Matthew 5:45 in Chapter 24; James 4:8 replaces James 1:8 in Chapter 19; Isaiah's "Woe is me" and the full 1 Peter 5:8 in Fit for Service, where the AA handbook quotation was dropped; near occasion of sin in Chapter 26; penance in 29b; 1 Corinthians 7 in the wives' section; "To pastors and priests"; a twelfth instruction ("Stay close to God"); the Catechism in further reading; Augustine in the garden in Chapter 12.
+- "Yahweh" is printed as "the LORD" (and "Lord Yahweh" as "Lord GOD"), following the WEB British Edition's handling of the divine name. Not rechecked against that edition online: check before print.
+- For non-Christian readers: "Notice who described this first" (Chapter 11), "he had already named it" (Chapter 2), and one invitation in Chapter 33 (the Gospel of Mark, "God, if you're there, show me").
+- Not changed: the WEB comma differences (Low 17), the storytelling hyperbole in Chapter 9 (Low 16), the pebble parody's accountability line, and "If you're an atheist, play along" before the blessing, which James has kept on purpose.
+
