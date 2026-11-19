@@ -17,7 +17,7 @@
 | 10 | 8 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 11 | 2651 | 0 | 3 | 1 | 1 | 11 | 4 | 8 | 2 | 0 | 0 |
 | 12 | 1527 | 0 | 2 | 1 | 0 | 8 | 0 | 2 | 1 | 0 | 0 |
-| 13 | 1004 | 1 | 0 | 1 | 0 | 2 | 0 | 3 | 0 | 0 | 0 |
+| 13 | 853 | 1 | 0 | 1 | 0 | 2 | 0 | 2 | 0 | 0 | 0 |
 | 14 | 3792 | 4 | 5 | 27 | 1 | 5 | 0 | 1 | 0 | 0 | 0 |
 | 15 | 2533 | 5 | 3 | 29 | 1 | 1 | 0 | 1 | 0 | 0 | 0 |
 | 16 | 725 | 1 | 2 | 1 | 0 | 4 | 0 | 0 | 0 | 0 | 0 |
@@ -28,7 +28,7 @@
 | 21 | 1415 | 3 | 2 | 1 | 1 | 1 | 2 | 3 | 1 | 0 | 1 |
 | 22 | 2064 | 0 | 0 | 1 | 0 | 6 | 0 | 7 | 1 | 0 | 0 |
 | 23 | 338 | 0 | 0 | 1 | 0 | 1 | 1 | 2 | 1 | 0 | 0 |
-| 24 | 789 | 0 | 0 | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 0 |
+| 24 | 943 | 0 | 0 | 1 | 0 | 1 | 0 | 2 | 1 | 0 | 0 |
 | 25 | 838 | 3 | 3 | 3 | 0 | 4 | 0 | 2 | 0 | 0 | 0 |
 | 26 | 1067 | 1 | 0 | 3 | 0 | 1 | 0 | 1 | 1 | 0 | 0 |
 | 27 | 841 | 0 | 1 | 0 | 0 | 4 | 0 | 2 | 0 | 0 | 0 |
@@ -45,13 +45,13 @@
 | faq | 1781 | 9 | 10 | 6 | 5 | 5 | 5 | 3 | 1 | 2 | 0 |
 | why-this-book | 1014 | 8 | 6 | 5 | 2 | 2 | 4 | 0 | 0 | 1 | 0 |
 
-## Overused words and phrases (book total 57458 words)
+## Overused words and phrases (book total 57461 words)
 
 | Word | Count | Per 1000 words | In how many files |
 |---|---|---|---|
 | nothing | 140 | 2.44 | 35 |
 | trap | 80 | 1.39 | 26 |
-| a man who | 74 | 1.29 | 28 |
+| a man who | 74 | 1.29 | 29 |
 | itch | 54 | 0.94 | 20 |
 | sin | 51 | 0.89 | 23 |
 | exactly | 26 | 0.45 | 17 |
@@ -97,7 +97,7 @@
 - "verse that opens this chapter" x5 in 1, 28, 3, 5, 7
 - "a soldier who shows up" x4 in 27b, Intro, faq, why-this-book
 - "for the rest of your" x4 in 11, 33, 7
-- "has nothing to do with" x4 in 11, 13, 24, 8
+- "has nothing to do with" x4 in 11, 24, 8
 - "man on the nofap forum" x4 in 15, 19, 20, 8
 - "man ruled by lust is" x4 in 27b, Intro, faq, why-this-book
 - "men on the willpower method" x4 in 19, 20, 22, 23

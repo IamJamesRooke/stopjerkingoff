@@ -18,6 +18,12 @@ He's sure it must be harder for him. Thirty years of rut can't be the same as th
 
 It is the same. The Little Monster is no bigger at fifty than he was at fifteen, and the lies are the same lies. Under one man's testimony a commenter did the math on his own life: from thirteen to forty-four, more than thirty years of it. The length of the sentence has nothing to do with how the door opens. All it changes is the size of the relief.
 
+## The man who thinks he's built this way {-}
+
+Plenty of men believe they're a special case. "I've got an unusually high drive." "I've got an addictive personality." Christians have their own version: "This is my besetting sin, my thorn. I'll carry it to the grave." He is borrowing from Paul, who wrote of a "thorn in the flesh". But Paul's thorn was a suffering God allowed. It was never a sin he was told to keep. Usually the man has picked this up from too many failed streaks and too many alarming videos.
+
+Nobody is born needing to do this to get to sleep. You weren't lying in your crib plotting it. It's the trap that catches a man. His character has nothing to do with it. But the trap is clever enough to make him blame his character. You must drop that belief. A man who believes he's a lifer will behave like one long after the Little Monster is dead.
+
 ## The student and the single man {-}
 
 The other hard-looking case is boredom mixed with stress. Think of the student in finals week, or the single man in an apartment by himself. Each has long empty hours and nobody around. On the Willpower Method those hours are deadly, because he has all evening to brood over what he's "lost".
@@ -58,3 +64,5 @@ Stay glad. It matters on the good days, and it matters most on the bad ones.
 -->
 
 <!-- 2026-11-19 listener's pass: 'We've been over this at length' removed (no cross-references). -->
+
+<!-- 2026-11-19 (James): the section "The man who thinks he's built this way" moved here from 'Just Once' (it is about the special case, not the single exception). Paul's thorn: 2 Corinthians 12:7; other sources are listed in 13-just-once.Rmd. -->
