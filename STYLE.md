@@ -120,3 +120,15 @@ married" lines, "To wives", and "the woman you'll marry".
 book. Write "a man in the trap", "hooked", "the man who does it daily", "a man
 who's free". Chapter 14 is "Every Man in the Trap" and Chapter 31 is "For the
 People Beside Him"; both keep their old page addresses through heading IDs.
+
+## Standing rule: vivid archetypal stories (James, 2026-11-19)
+
+"Absolute truth isn't the point. The point is motivating men to change with
+archetypal stories that most men can relate to." An illustration may be
+invented or filled out with detail (a setting, what was said, what he told
+himself), as long as it is generic enough that any man can see himself in it.
+Frame it as an illustration: "There's a man you may recognize", "Picture a
+man". Never present an invented story as a testimony, never put invented words
+in a real or quoted person's mouth, and never invent facts, studies or
+Scripture. Real testimonies stay as their authors wrote them. Note in the
+chapter's ADDED comment which parts are invented.

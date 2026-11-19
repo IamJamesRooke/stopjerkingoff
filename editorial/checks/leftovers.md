@@ -26,7 +26,7 @@
 - colour: 0  |  color: 0
 - favour: 0  |  favor: 3
 - realise: 0  |  realize: 5
-- recognise: 0  |  recognize: 2
+- recognise: 0  |  recognize: 3
 - neighbour: 0  |  neighbor: 1
 - labour: 0  |  labor: 0
 - honour: 0  |  honor: 2
