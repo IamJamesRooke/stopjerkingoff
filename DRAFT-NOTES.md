@@ -392,3 +392,11 @@ James approved every fix in editorial/PASTOR-REVIEW.md ("Just make all the chang
 - For non-Christian readers: "Notice who described this first" (Chapter 11), "he had already named it" (Chapter 2), and one invitation in Chapter 33 (the Gospel of Mark, "God, if you're there, show me").
 - Not changed: the WEB comma differences (Low 17), the storytelling hyperbole in Chapter 9 (Low 16), the pebble parody's accountability line, and "If you're an atheist, play along" before the blessing, which James has kept on purpose.
 
+
+## Revision 2026-11-19: the other heads of the hydra
+
+James asked for every modern form of male lust to be mapped and the gaps filled.
+Gap list, sources and placements are in research/round8/findings.md (and round7 for
+prostitution and trafficking). New text: Ch 4 (two new lies and the trafficking facts),
+Ch 14 (four new ladder entries), Ch 15 (pictures), Ch 25 (three list items), Ch 30
+(sextortion warning for sons). Reddit was blocked in the browser tool.
