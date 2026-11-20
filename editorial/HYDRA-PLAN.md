@@ -181,6 +181,18 @@ New chapters are marked NEW. Numbers are the new printed numbers.
 
 Every change to a chapter James has approved is reported with exact before and after.
 
+## Five-mouth coverage (gate item 7, checked 2026-11-20)
+
+| Mouth | Named | Lie exposed | Dealt with | Paid off at the end |
+|---|---|---|---|---|
+| Look | The Empty House | The Lies About Porn and About Women; Fantasy and the Thought Life | Mothers, Sisters, Daughters; Just One Little Look | The Final Step prayer; Rule 10; Now |
+| Think | The Empty House | Fantasy and the Thought Life | You Would If You Could | The Final Step prayer; Rule 10; Now |
+| Touch | The Empty House | The Back Door; The Little Monster; What Am I Giving Up? | The Back Door | The Final Step prayer; Rule 10; Now |
+| Chase | The Empty House | The Man Led by a Woman | The King Who Turned His Face to the Wall; Do Not Negotiate | The Final Step prayer; Rule 10; Now |
+| Take | The Empty House | The Collector and the Customer | But I'm Going to Marry Her; Where the Line Is; Porn, and Sex | The Final Step prayer; Rule 10; Now |
+
+Gate status on 2026-11-20: items 2 (new verses), 7, 8 (image words), 9 (no pointers found; three short chapters are short on purpose) and 12 (checks script) are done for today's changes. The Luther line is confirmed as a fair paraphrase of his well-known saying. Still open: the Dr. K quote, the reviewer reruns (items 4 to 6), the read-aloud pass, the verses in "The Rules in One Place" (waiting on James to say where he saw them run together), and the final build check.
+
 ## Quality gate before James rereads (added 2026-11-20)
 
 James asked what would make this version close to perfect before he starts reading. Nothing reaches him until every line below is done and reported.

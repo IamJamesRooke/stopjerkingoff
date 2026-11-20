@@ -129,3 +129,5 @@ Leave the door shut. James, one of the first leaders of the church, put it as a 
 <!-- 2026-11-20 (James): 'If you find yourself obsessed with a woman' now closes the loophole 'she never said no directly'. Slow replies, 'I'm busy' and silence are her no. The book's own words. -->
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). The first three sections (Do not negotiate; If you find yourself obsessed with a woman; Your own stalker) moved to the chapter before this one, 12b-do-not-negotiate.Rmd; their source notes stay listed here. -->
+
+<!-- 2026-11-20 quote check: the Luther line is a paraphrase of the saying widely quoted in his name ("The best way to drive out the devil, if he will not yield to texts of Scripture, is to jeer and flout him, for he cannot bear scorn"; C.S. Lewis used it as an epigraph to The Screwtape Letters). The book paraphrases and does not quote, and softens "texts of Scripture" to "any other way". Fine to record as it stands. -->
