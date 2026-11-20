@@ -1,49 +1,40 @@
-# History files
+# Build output
+_book/
+_bookdown_files/
+*_files/
+*_cache/
+_main.*
+stopjerkingoff.*
+!stopjerkingoff.png
+*.knit.md
+*.utf8.md
+*.log
+*.aux
+*.toc
+*.out
+
+# R and RStudio
 .Rhistory
 .Rapp.history
-
-# Session Data files
 .RData
-
-# Example code in package build process
-*-Ex.R
-
-# Output files from R CMD build
-/*.tar.gz
-
-# Output files from R CMD check
-/*.Rcheck/
-
-# RStudio files
 .Rproj.user/
+*.Rproj
 
-# produced vignettes
-vignettes/*.html
-vignettes/*.pdf
+# Python
+__pycache__/
+*.pyc
 
-# OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
-.httr-oauth
+# Node (cover and share-image renders)
+node_modules/
 
-# knitr and R markdown default cache directories
-/*_cache/
-/cache/
+# Editors and operating systems
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*~
 
-# Temporary files created by R markdown
-*.utf8.md
-*.knit.md
-.Rproj.user
-
-# Output data
-*.Rda
-*.pdf
-*.csv
-_book/*.html
-*.ignore
-_book
-
-# I'm not sure if this part works yet
-/*_files/
-
-# System files
-*.DS_Store
-
+# Secrets
+.env
+.env.*

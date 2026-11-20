@@ -21,18 +21,23 @@ OUT = sys.argv[1] if len(sys.argv) > 1 else os.path.join(ROOT, "editorial", "che
 os.makedirs(OUT, exist_ok=True)
 
 BOOK_ORDER = (
-    ["index.Rmd"]
-    + sorted(
-        f for f in os.listdir(ROOT)
-        if re.match(r"^\d\d[b]?-.*\.Rmd$", f)
+    sorted(
+        "chapters/" + f for f in os.listdir(os.path.join(ROOT, "chapters"))
+        if re.match(r"^\d\d[a-z]?-.*\.md$", f)
     )
-    + ["attribution.Rmd", "faq.Rmd", "why-this-book.Rmd"]
+    + ["chapters/attribution.md", "pages/faq.md", "pages/why-this-book.md"]
 )
 BOOK_ORDER = [f for f in BOOK_ORDER if os.path.exists(os.path.join(ROOT, f))]
-LABEL = {f: ("Intro" if f == "index.Rmd" else f.split("-")[0].lstrip("0") or "0") for f in BOOK_ORDER}
-LABEL["27b-fit-for-service.Rmd"] = "27b"
-for f in ("attribution.Rmd", "faq.Rmd", "why-this-book.Rmd"):
-    LABEL[f] = f.replace(".Rmd", "")
+def _label(f):
+    name = os.path.basename(f)
+    if name == "00-introduction.md":
+        return "Intro"
+    if not name[0].isdigit():
+        return name.replace(".md", "")
+    return name.split("-")[0].lstrip("0") or "0"
+
+
+LABEL = {f: _label(f) for f in BOOK_ORDER}
 
 
 def read(f):

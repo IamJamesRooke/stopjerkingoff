@@ -1,5 +1,7 @@
 # Writing brief (for every chapter)
 
+> **2026-11-20: files moved.** Chapters are now Markdown files in `chapters/` (for example `chapters/01-the-easy-method.md`), the Introduction's text is `chapters/00-introduction.md`, and the website-only pages are in `pages/`. `OUTLINE.md` and `DRAFT-NOTES.md` now live in `editorial/`. Older paths below (`NN-*.Rmd`, `index.Rmd` for the Introduction) mean those files. Outside contributors follow `CONTRIBUTING.md`; this brief is for the core editing team.
+
 The book: *Stop Jerking Off: The Easy Peasy Guide to Quitting Masturbation and Conquering Lust*. The author is ANONYMOUS (James, 2026-11-17: no pen name anywhere, and no references to the author's identity; "this isn't about me"). It is INSPIRED BY (James, 2026-11-18: not "spiritual successor", and never called free) [EasyPeasy](https://easypeasymethod.org/) (James, 2026-11-15: never call it a sequel), which is based on Allen Carr. The reader has quit porn, or wants to; the next level is removing masturbation and lust. We are writing a fast first draft; editorial passes come later.
 
 ## Sources to read for each chapter

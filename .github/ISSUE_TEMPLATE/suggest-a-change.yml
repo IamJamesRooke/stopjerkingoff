@@ -1,0 +1,23 @@
+name: Suggest a change
+description: Propose an edit, a new idea or a correction to the book.
+labels: ["suggestion"]
+body:
+  - type: input
+    id: chapter
+    attributes:
+      label: Chapter or page
+      description: The chapter title, or the file name in chapters/.
+      placeholder: "The Easy Method (chapters/01-the-easy-method.md)"
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: What it says now
+      description: Quote the sentence or describe the passage.
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: What you suggest, and why
+    validations:
+      required: true

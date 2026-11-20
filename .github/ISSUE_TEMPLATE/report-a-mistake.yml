@@ -1,0 +1,17 @@
+name: Report a mistake
+description: A typo, a wrong fact, a broken quote or a problem with the website, PDF or EPUB.
+labels: ["mistake"]
+body:
+  - type: input
+    id: where
+    attributes:
+      label: Where
+      description: Chapter title, page number in the PDF, or the web address.
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's wrong
+    validations:
+      required: true

@@ -1,0 +1,11 @@
+name: Reader feedback
+description: Tell us how the book worked for you. Please leave out anything that could identify you or anyone else.
+labels: ["reader-feedback"]
+body:
+  - type: textarea
+    id: feedback
+    attributes:
+      label: Your feedback
+      description: What helped, what didn't, and what you wish the book had said.
+    validations:
+      required: true
