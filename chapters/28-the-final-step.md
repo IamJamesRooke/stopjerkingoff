@@ -28,7 +28,7 @@ Jesus asked for plain speech: "But let your 'Yes' be 'Yes' and your 'No' be 'No.
 
 ## If there is another person {-}
 
-One thing comes before the prayer. The decision you're about to make is yours, and so is what you do about it afterward. This book won't write that part for you. It asks only this. Make sure that nothing you are doing breaks the law, and that nothing you are doing is harming another person. If something is, you already know what it is. Don't carry it past today.
+One thing comes before the prayer. The decision you're about to make is yours, and so is what you do about it afterward. This book won't write that part for you. It asks only this. Make sure that nothing you are doing breaks the law, and that nothing you are doing is harming another person. If something is, you already know what it is. Don't carry it past today. And remember where the line is. Sex belongs inside marriage, so the No you're about to say covers any bed outside it.
 
 ## The prayer {-}
 
@@ -110,3 +110,5 @@ Do it now.
 <!-- 2026-11-20 (James: keep everything from the Bible as much as possible): Hydra wording replaced by the empty house and the five mouths. -->
 
 <!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): reader report 4 and pastor: 'Are you certain? Are you excited? ... re-read the book', which shut out the man with many failures, became one question and a welcome to him; the prodigal lines are set out so they read aloud; the secular version says 'Where I have used anyone'. James's rule in 'If there is another person' is untouched. -->
+
+<!-- 2026-11-20: added one sentence after the harm-and-law rule restating the marriage line (pastor review 2, H2). The rule itself is unchanged. -->
