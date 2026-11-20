@@ -38,15 +38,15 @@ You are in good company, by the way. One pastor who writes honestly about mastur
 
 Are you reading this for a son, a husband, a brother or a friend? The best thing you can do is get him to read it. If he won't, read it yourself. Once you see how the trap works, you'll be far better at helping him out of it, and at keeping the next boy from walking in.
 
-## One beast, five heads {-}
+## One appetite, five mouths {-}
 
-Lust has five heads in this book. A man can look, think, touch, chase and take.
+Lust is fed in five ways in this book. A man can look, think, touch, chase and take.
 
 He looks, at porn, at a feed full of strangers, at a woman in the street. He thinks, and plays the fantasy or the memory over again. He touches, and that is the hand: the late-night itch and the shower routine. He chases. He sends the message he shouldn't, stays with the wrong woman, spends money to impress, and can't think straight near a pretty face. The slang of the 2020s calls this simping. The thing itself is as old as Samson. And he takes, which is sex outside marriage, from the one-night stand to the affair.
 
-You may know one head or all five. It is the same lust each time, making a man's decisions for him.
+You may know one of them or all five. It is the same lust each time, making a man's decisions for him.
 
-So this book doesn't go after the heads one at a time. It goes after the one body they all grow from. You aren't going to manage five problems. You are going to get lust itself out of the driving seat, and all five heads go with it.
+So this book doesn't go after them one at a time. It goes after the one appetite behind all five. You aren't going to manage five problems. You are going to get lust itself out of the driving seat, and all five go with it.
 
 ## One condition {-}
 
@@ -115,3 +115,5 @@ SOURCES (Introduction): every quote below is from the research files; check each
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Some sections of this chapter moved to the chapters that follow it; their source notes stay listed here. -->
 
 <!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md; James approved the two opening drafts): 'One root, three faces' became 'One beast, five heads' (look, think, touch, chase, take). The line about the man who quit porn twice moves to the new chapter 'The Back Door'. One question added to 'Is this you?' (using a woman for a night). -->
+
+<!-- 2026-11-20 (James: keep everything from the Bible as much as possible): Hydra wording replaced by the empty house and the five mouths. -->

@@ -6,7 +6,7 @@
 
 Start with what is not on the list.
 
-Noticing a beautiful woman is not a head. Wanting a wife is not a head. Wanting your own wife certainly isn't. Desire was God's idea. He made it strong on purpose, strong enough to pull a man out of his father's house and into a promise.
+Noticing a beautiful woman is not lust. Wanting a wife is not lust. Wanting your own wife certainly isn't. Desire was God's idea. He made it strong on purpose, strong enough to pull a man out of his father's house and into a promise.
 
 Lust is desire with the promise taken out. It wants the woman without the vow, and the pleasure without the person.
 
@@ -40,11 +40,13 @@ Until then, waiting is the kindest thing he can do for her. He will be bringing 
 
 If you have spent years on the wrong side of the line, so has nearly every man who ever lived. That includes the one writing this. This chapter isn't a verdict on you. It's a map, and you can't leave a place until you know where its edge is.
 
-And don't try to drag yourself across the line tonight by force. That is the sword again. For now it's enough to know where the line is. Keep reading.
+And don't try to drag yourself across the line tonight by force. That is sweeping the house again. For now it's enough to know where the line is. Keep reading.
 
-So this book is for one kind of man, and he comes in every kind. Single or married, believer or not, with one head biting or all five: he is any man whose desire has been making his decisions for him.
+So this book is for one kind of man, and he comes in every kind. Single or married, believer or not, feeding one mouth or all five: he is any man whose desire has been making his decisions for him.
 
-You know the heads now, and you know the line. That leaves the question you have asked yourself a hundred times. You aren't stupid. You have wanted out for years. So why are you still in?
+You know the five now, and you know the line. That leaves the question you have asked yourself a hundred times. You aren't stupid. You have wanted out for years. So why are you still in?
 
 <!-- 2026-11-20 for the Hydra version (editorial/HYDRA-PLAN.md). In the book build since 2026-11-20 as new printed Ch 3, leading into "Why Is It Difficult to Stop?".
 SOURCES: Epigraph and body quotation: Proverbs 5:15 (WEB, checked 2026-11-20). "out of his father's house" alludes to Genesis 2:24 without quoting it. The man with the right woman and no promise yet is an anonymous archetype (James's direction 2026-11-20: stick with the biblical view as the ideal). The Introduction's caution still stands for the reader in an affair or using a woman: stop that today. -->
+
+<!-- 2026-11-20 (James: keep everything from the Bible as much as possible): Hydra wording replaced by the empty house and the five mouths. -->

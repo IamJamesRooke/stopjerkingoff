@@ -1,8 +1,8 @@
 # The Collector and the Customer {#the-collector-and-the-customer}
 
-The fifth head is where the other four have been heading all along. A man looks, thinks, touches and chases. Then one night he takes.
+The fifth mouth is where the other four have been leading all along. A man looks, thinks, touches and chases. Then one night he takes.
 
-Most men at this head are neither collectors nor customers. They simply went home with someone when the chance came. Ask one of them about it the next morning. He doesn't look like a conqueror. He is looking for his shoes.
+Most men who have fed this one are neither collectors nor customers. They simply went home with someone when the chance came. Ask one of them about it the next morning. He doesn't look like a conqueror. He is looking for his shoes.
 
 There was also a woman in that bed. Perhaps she hoped it meant something, and it didn't. Or perhaps she was using him exactly as he was using her. Then two people took a hit, and nobody was given a gift.
 
@@ -34,10 +34,12 @@ And for all that risk he buys the same ten minutes and the same flat feeling aft
 
 ## The married man who strays {-}
 
-One more man belongs at this head. He has a wife, and he took a woman who wasn't her. He has an "at least" too, and it is usually "it only happened once". Ask his wife what once is worth.
+One more man belongs here. He has a wife, and he took a woman who wasn't her. He has an "at least" too, and it is usually "it only happened once". Ask his wife what once is worth.
 
 So that is the collector, the customer and the stray. Each of them took a woman he never meant to keep.
 
 The last case is harder. This man means to keep her.
 
 <!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md): NEW CHAPTER for the fifth head, Take. 'The collector' is moved unchanged from 'At Least I'm Not Him' (an illustration, not a testimony; see the notes in 14-types-of-user.md). 'The customer' is the Ladder's long 'man who buys it in person' bullet, moved, with a new first sentence; its facts were checked 2026-11-19 (research/round8/findings.md). New: the opening on the ordinary hookup, and the three sentences on the married man who strays. No new quotations or statistics. -->
+
+<!-- 2026-11-20 (James: keep everything from the Bible as much as possible): Hydra wording replaced by the empty house and the five mouths. -->

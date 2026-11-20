@@ -52,8 +52,6 @@ One thing here is not a fence. A wife who asks to see her husband's phone is reb
 
 Peter was one of Jesus's closest followers, and on the night Jesus was arrested he said three times that he didn't know him. Jesus saw it coming. Before it happened, he told Peter what to do afterward: "You, when once you have turned again, establish your brothers." Believer or not, it's still the best use anyone has found for a rescued man.
 
-Hercules didn't fetch his own fire. Somebody brought it to him. For some man you know, that somebody is you.
-
 You've turned again. Now go back for your brothers.
 
 <!-- SOURCES (Chapter 30): every quote below is from the research files; check each against its page before publishing.
@@ -75,3 +73,5 @@ You've turned again. Now go back for your brothers.
 <!-- 2026-11-20 structure pass (James: right sections in the right chapters, right sizes, one flow): the warning to tell a son about strangers who ask for pictures moved to 'To parents' in 'For the People Beside Him', where parents will look for it (source line above applies there). -->
 
 <!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md), callback added: a three-sentence paragraph before the last line: the reader brings the fire to the next man. -->
+
+<!-- 2026-11-20 (James: keep everything from the Bible as much as possible): Hydra wording replaced by the empty house and the five mouths. -->

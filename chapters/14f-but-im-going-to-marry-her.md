@@ -24,6 +24,8 @@ If you're not a believer, use the plain test. Is this a gift given inside a prom
 
 And if you're long past this line with the woman you love, you haven't ruined anything. You start from today, like every other man in these pages.
 
-That is all five heads. Most men who read a list like that do the same thing with it. They look for the head they don't have.
+That is all five. Most men who read a list like that do the same thing with it. They look for the one they don't have.
 
 <!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md): NEW CHAPTER, the hardest case under the fifth head, Take. The man is an anonymous archetype (STYLE.md, archetypal stories), written at James's direction: keep the biblical view as the ideal. No quotations and no statistics. -->
+
+<!-- 2026-11-20 (James: keep everything from the Bible as much as possible): Hydra wording replaced by the empty house and the five mouths. -->

@@ -19,7 +19,7 @@ When a man stops, he looks around for something to put in the gap. The usual can
 
 USE NONE OF THEM.
 
-A substitute is a new head on the old neck. Substitutes don't make it easier. They make it harder. If an urge comes and you answer it with a substitute, you haven't ended the urge. You've stretched it out. And you've told yourself something fatal: "There's a hole here, and I need to stuff it with something." That's handing the screaming toddler the candy. You get five minutes of quiet and the same scene again tomorrow.
+A substitute is a new lodger in the old room. Substitutes don't make it easier. They make it harder. If an urge comes and you answer it with a substitute, you haven't ended the urge. You've stretched it out. And you've told yourself something fatal: "There's a hole here, and I need to stuff it with something." That's handing the screaming toddler the candy. You get five minutes of quiet and the same scene again tomorrow.
 
 Three things to remember:
 
@@ -69,3 +69,5 @@ So you don't need a substitute. If an urge comes in the next few days, it's the 
 <!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). -->
 
 <!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md), callback added: one sentence: a substitute is a new head on the old neck. -->
+
+<!-- 2026-11-20 (James: keep everything from the Bible as much as possible): Hydra wording replaced by the empty house and the five mouths. -->

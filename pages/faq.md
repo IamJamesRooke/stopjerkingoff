@@ -4,7 +4,7 @@ Short, straight answers to the questions men ask most about quitting masturbatio
 
 ## What is this book about? {-}
 
-Conquering lust. Lust has five heads: a man looks, thinks, touches, chases and takes. So you stop watching porn, stop masturbating, and stop making bad decisions with women because you're thinking with the wrong head. One method deals with all five. See [The Hydra](the-hydra.html). A man ruled by lust is like a soldier who shows up for duty drunk. He is still loved, and he is unfit for service. The book gets you fit. See the [Introduction](index.html) and [Fit for Service](fit-for-service.html).
+Conquering lust. Lust is fed in five ways: a man looks, thinks, touches, chases and takes. So you stop watching porn, stop masturbating, and stop making bad decisions with women because you're thinking with the wrong head. One method deals with all five. See [The Empty House](the-empty-house.html). A man ruled by lust is like a soldier who shows up for duty drunk. He is still loved, and he is unfit for service. The book gets you fit. See the [Introduction](index.html) and [Fit for Service](fit-for-service.html).
 
 ## How do I stop masturbating? {-}
 

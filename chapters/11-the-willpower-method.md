@@ -12,7 +12,7 @@ I know how that sounds. Bear with me. If I told you to run a marathon in under t
 
 There isn't one. Men create the difficulty themselves, by using the Willpower Method. I mean any way of quitting that leaves you feeling you've sacrificed something. It is the same method whether the thing is porn, the hand or a woman you keep going back to. A man blocks the sites and unblocks them. He deletes her number and finds it again. We'll follow the habit here, because it shows the pattern most plainly.
 
-It is the sword with no fire. He cuts off the act, the wanting stays alive in the stump, and two heads grow where there was one.
+It is the swept and empty house. He puts the tenant out and keeps the room ready, and the tenant comes back with company.
 
 It usually takes years to realize you're hooked, because of one stubborn illusion: we assume men do this because they enjoy it. So on the nights we plainly don't enjoy it, we conclude we could stop any time. "I don't even like it that much. I could drop it tomorrow." That's the confidence trap. Somehow tomorrow is never the day you want to.
 
@@ -84,3 +84,5 @@ That is the method at its best. Now add a scoreboard.
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Some sections of this chapter moved to the chapters that follow it; their source notes stay listed here. -->
 
 <!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md), callback added: one short paragraph: willpower is the sword with no fire. -->
+
+<!-- 2026-11-20 (James: keep everything from the Bible as much as possible): Hydra wording replaced by the empty house and the five mouths. -->

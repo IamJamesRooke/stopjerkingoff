@@ -27,7 +27,7 @@ So don't think about failing. This time you aren't climbing by willpower. You're
 
 And if what holds you back is the feeling that you've failed too often to come back again, hear a man who felt exactly that. He pictures the prodigal son, the runaway in Jesus's story, halfway home, protesting that he still smells of the pigsty. The Father answers with two words. "But God, I still smell like yesterday. Just come." He adds, for every man reading: "You're not too dirty. You're not too far."
 
-Jesus asked for plain speech: "But let your 'Yes' be 'Yes' and your 'No' be 'No.'" That is all this is: a plain No that you mean. It is the one stroke, and the fire has already done its work.
+Jesus asked for plain speech: "But let your 'Yes' be 'Yes' and your 'No' be 'No.'" That is all this is: a plain No that you mean. You are showing the tenant the door, once, and you already know that he has nothing you want.
 
 ## If there is another person {-}
 
@@ -109,3 +109,5 @@ Do it now.
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Some sections of this chapter moved to the chapters that follow it; their source notes stay listed here. -->
 
 <!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md), callback added: one sentence: the plain No is the one stroke. -->
+
+<!-- 2026-11-20 (James: keep everything from the Bible as much as possible): Hydra wording replaced by the empty house and the five mouths. -->

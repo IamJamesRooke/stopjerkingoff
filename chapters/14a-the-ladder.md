@@ -16,8 +16,10 @@ Here is every man in the trap, from the shallow end to the deep. Find yourself i
 - **The man who "only reads".** He doesn't watch videos. He reads sex stories, or he looks at drawings and cartoons, which the internet calls hentai, a Japanese word. "No real woman is involved", he says. But the lust is real, and it is his. Jesus put the sin in the heart, and the heart is the same whether the page holds a photograph or a drawing.
 - **The single man who'll stop when he's married.** Ask any married man how that went. A wedding doesn't end the itch. "When I'm married" is the most comfortable way there is of saying "not yet". If you intend to give a woman your whole self one day, the kindest thing you can do for her is to arrive already free.
 
-That is every man in the trap. Each of them is feeding the same small monster, through one or more of five heads. So take the heads one at a time, beginning where lust always begins.
+That is every man in the trap. Each of them is feeding the same small monster, through one or more of his five mouths. So take the five one at a time, beginning where lust always begins.
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 14-types-of-user.Rmd; the source notes for everything here are in that file. -->
 
 <!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md): the long 'man who buys it in person' bullet moved to the new chapter 'The Collector and the Customer' and is two sentences here. The closing paragraph now leads into the five heads, taken in order. -->
+
+<!-- 2026-11-20 (James: keep everything from the Bible as much as possible): Hydra wording replaced by the empty house and the five mouths. -->

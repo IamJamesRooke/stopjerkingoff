@@ -14,7 +14,7 @@ Lust is what happens when the flesh gets hold of desire. Desire says, "She is lo
 
 There is an old word for a thing set apart for a high use. The word is holy. Your body is in that class, and so is the drive God put in it. Paul asks his readers, "don't you know that your body is a temple of the Holy Spirit who is in you". He isn't saying your body is dirty. He is saying it is too good for this. If you're not a believer, think of something you would never use carelessly, like your grandfather's watch. Lust picks up the watch and hammers a nail with it.
 
-Lust has five heads. A man looks, thinks, touches, chases and takes. They look like five problems. They are one appetite with five mouths.
+Lust has five mouths. A man looks, thinks, touches, chases and takes. They look like five problems. They are one appetite.
 
 Masturbation is the plainest case, so we'll use it to show how the thing works. A drive that was built to end in another person is made to end in a tissue. It's a hijacking, and the plane lands nowhere.
 
@@ -68,3 +68,5 @@ That restless feeling deserves a name.
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Some sections of this chapter moved to the chapters that follow it; their source notes stay listed here. -->
 
 <!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md; James approved the two opening drafts): the 'three faces' paragraph became the five heads, in two sentences fewer. -->
+
+<!-- 2026-11-20 (James: keep everything from the Bible as much as possible): Hydra wording replaced by the empty house and the five mouths. -->

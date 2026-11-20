@@ -1,4 +1,4 @@
-# The Hydra version: plan
+# The Hydra version: plan (SUPERSEDED IN PART: see the decision below)
 
 Status: PLAN ONLY, 2026-11-20. No chapter is changed until James approves this.
 
@@ -13,6 +13,10 @@ So this is not a rewrite. It is one new frame laid over an approved book:
 - a light wording pass over the rest
 - about 3,500 new words, partly paid for by trimming "The Ladder"
 - the book goes from 58 chapters to 63
+
+## DECIDED 2026-11-20: the Hydra is out, the empty house is in
+
+James: "let's try and keep everything from the Bible as much as possible." The chapter "The Hydra" was replaced by "The Empty House" (Matthew 12:43-45 and John 8:32), every Hydra callback was reworded, and "heads" became the Little Monster's five mouths. The image rules now live in editorial/STYLE.md, last section. Everything below this point is history, except the five (look, think, touch, chase, take), the line, the chapter plan and the quality gate, which stand. Where the text below says "heads", read "mouths".
 
 ## ON HOLD: does the Hydra fit, or is there a better biblical image? (v3, 2026-11-20)
 
