@@ -27,8 +27,8 @@ So the rule for the whole book is one sentence: **the Hydra is what it looks lik
 Guards:
 - One full telling (the Hydra chapter), one payoff (the last chapter), and about ten one-line callbacks. No more.
 - Every time the Hydra appears, it is cut down to size in the same breath.
-- The torch is light. Burning a stump is seeing the lie, so it takes no straining. The "no willpower" promise holds.
-- Hercules did not win alone. Iolaus handed him the torch. That is grace, and later it is the reader carrying the torch to the next man.
+- The fire means one thing everywhere: the truth about what the head gave you. No "light", no "grace" attached to it (James, 2026-11-20). Burning takes no strength, so the "no willpower" promise holds.
+- Hercules did not fetch the fire himself. The book is the reader's Iolaus, and later the reader is the next man's. Grace is taught in the book's own chapters on it, not hung on the myth.
 
 **If James still doubts it, the fallback is the weed and the root.** Mow a weed and it comes back thicker. Pull the root and it is over. It is small, so there is no clash at all, and the Introduction already says the book "goes after the root". It is also less vivid, and nobody remembers a weed. The Hydra is the better hook as long as it keeps to its one role.
 
@@ -38,8 +38,8 @@ Guards:
 | The one small body | The Little Monster, feeding through every head |
 | Cutting a head, and two grow back | The Willpower Method, cutting down, and substitutes |
 | Why they grow back | The Big Monster: the lie that the head had something to give |
-| The torch on the stump | The Easy Way: the lie is seen, so nothing is left to grow |
-| Iolaus | Grace, and then the reader helping the next man |
+| The fire on the stump | One thing only: the truth about what that head gave you, which is nothing. The belief dies, so the wanting dies, so nothing grows |
+| Iolaus | This book, bringing the fire. At the end, the reader brings it to the next man |
 | The immortal head under the rock | The voice that is left. See below |
 
 ## The immortal head

@@ -34,21 +34,23 @@ A hero named Hercules was sent to kill the Hydra. He was the strongest man in al
 
 What saved him was his nephew, a young man named Iolaus, who came running with a burning torch. Each time Hercules took off a head, Iolaus held the fire to the stump. Nothing grows from a burned stump. One by one, the heads stopped coming back.
 
-Notice three things.
+Notice two things.
 
 First, the sword was never going to work. The sword is willpower. It is every vow you made, every streak you counted, every app you deleted in disgust. You didn't swing too weakly. Cutting is what makes the heads grow.
 
-Second, the answer was light. A head grows back because something under it is still alive. In you, that something is a belief: that this head had something to give you. Leave the belief alive and you can cut all day. Burn it, and there is nothing left to grow from. That is all this book does. It holds a light to each stump until you see what was under it. And a man doesn't have to be strong to hold a torch.
+Second, look at what the fire did. A head grows back because something in the stump is still alive. In you, that living thing is a belief: that the head gave you something. It relaxed you. It helped you sleep. It made you feel wanted. Willpower cuts off the act and leaves the belief alive. So of course the head grows back. You still want it.
 
-Third, he didn't do it alone. The strongest man in the story needed somebody to hand him the fire. So do you, and there is no shame in that. Christians have a word for the fire you didn't light yourself. They call it grace.
+The fire is the truth about what that head really did for you, which is nothing. Once you have seen that for yourself, the wanting dies in the stump, and there is nothing left to grow. That is all this book does. One head at a time, it shows you what you were really getting. You don't need strength for that. Hercules had all the strength in the world, and all it got him was more heads.
 
-Now here is something the old story leaves out. By firelight you can finally see what you have been fighting. All those necks go down to one body. Only one. And for all its heads and all its hissing, the body is small. The Hydra looked enormous to every man with a sword, because he never once saw past the heads. The legend was written by men who had only ever cut.
+He didn't fetch the fire himself, either. Somebody had to bring it to him. Let this book be your Iolaus.
+
+Now here is something the old story leaves out. When the heads stop growing back, a man can finally see what they were growing from. All those necks go down to one body. Only one. And for all its heads and all its hissing, the body is small. The Hydra looked enormous to every man with a sword, because he never once saw past the heads. The legend was written by men who had only ever cut.
 
 Five heads, and one small body feeding through all of them. That is why you are not going to fight five battles.
 
 One head, the story says, could not be killed. Hercules cut it off and buried it under a great rock beside the road. It could hiss down there for as long as it liked. It could bite nobody. You'll want to remember that rock.
 
-But before we light anything, one question has to be settled. Five heads make a long list. Is all of that really lust? Where exactly is the line?
+But before we burn anything, one question has to be settled. Five heads make a long list. Is all of that really lust? Where exactly is the line?
 
 <!-- DRAFT 2026-11-20 for the Hydra version (editorial/HYDRA-PLAN.md). NOT in the book build yet. Planned as new printed Ch 2.
-SOURCES: the myth follows Apollodorus, Library 2.5.2 (the Hydra of Lerna in a swamp; two heads for one; Iolaus burns the stumps with brands; the immortal head buried under a heavy rock by the road). Apollodorus gives nine heads; other tellers differ, which the text says. "The body is small" and "the legend was written by men who had only ever cut" are this book's own gloss, and the text says the old story leaves it out. Epigraph: James 1:14 and the first sentence of 1:15 (WEB, checked 2026-11-20). The Little Monster is not named here because the reader has not met him yet; "The Little Monster" chapter will say he is the small body. -->
+SOURCES: the myth follows Apollodorus, Library 2.5.2 (the Hydra of Lerna in a swamp; two heads for one; Iolaus burns the stumps with brands; the immortal head buried under a heavy rock by the road). Apollodorus gives nine heads; other tellers differ, which the text says. "The body is small" and "the legend was written by men who had only ever cut" are this book's own gloss, and the text says the old story leaves it out. 2026-11-20 (James: unsure about grace and light as what destroys the Hydra): the fire now stands for one thing only, the truth about what the head gave you (nothing); "light" and "grace" are out of this chapter, and Iolaus is the book. Epigraph: James 1:14 and the first sentence of 1:15 (WEB, checked 2026-11-20). The Little Monster is not named here because the reader has not met him yet; "The Little Monster" chapter will say he is the small body. -->
