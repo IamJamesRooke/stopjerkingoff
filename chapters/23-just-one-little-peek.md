@@ -17,6 +17,8 @@ The little look is also the caller getting his answer. All the calls you let rin
 
 Job, the suffering man of the Old Testament, had the right idea. "I made a covenant with my eyes", he said; "how then should I look lustfully at a young woman?" He didn't promise to look a little. He made a covenant not to. King David took one long look from a rooftop, and it cost him his honor, a loyal soldier's life, and a child.
 
+The bill kept coming. The prophet Nathan told him that the sword would never leave his house, and it never did. One of David's sons raped his own half sister. Another son, Absalom, killed that brother for it, and later raised an army against his father. The king no army had ever beaten fled his own capital on foot, weeping, while his son sat in his palace. He got the throne back, and he buried Absalom to do it. One look cost him the peace of his kingdom for the rest of his life.
+
 A man who got out called the whole business "just a poisoned cookie." That's the difference between the two methods. The willpower man stands in front of the cookie, telling himself not to take it. You've seen that it's poisoned. You don't have to resist it. You just don't eat it.
 
 Above all, remember:
@@ -34,3 +36,5 @@ Above all, remember:
 <!-- 2026-11-20 structure pass (James: right sections in the right chapters, right sizes, one flow): Job's verse is now quoted in the body (Job 31:1, WEB, split around 'he said') in place of a pointer to the epigraph. -->
 
 <!-- 2026-11-20 (James): callback to the four instructions from 'Just Once' (say it once and outright; give no reason; don't let him down gently; never answer again), restated in place with no pointer back. -->
+
+<!-- 2026-11-20 (James, at printed Ch 44: emphasize that David's look ultimately cost the kingdom): new paragraph after the Job and David lines. Retold, not quoted: 2 Samuel 12:10 (the sword shall never depart from your house); 13:1-29 (Amnon, Tamar, Absalom); 15:13-30 (David flees Jerusalem, weeping, barefoot); 16:15 (Absalom in Jerusalem); 18:9-33 (Absalom's death). The later division of the kingdom is NOT claimed here, since Scripture ties that to Solomon (1 Kings 11). -->
