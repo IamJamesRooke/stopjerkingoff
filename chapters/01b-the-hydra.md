@@ -52,5 +52,5 @@ One head, the story says, could not be killed. Hercules cut it off and buried it
 
 But before we burn anything, one question has to be settled. Five heads make a long list. Is all of that really lust? Where exactly is the line?
 
-<!-- DRAFT 2026-11-20 for the Hydra version (editorial/HYDRA-PLAN.md). NOT in the book build yet. Planned as new printed Ch 2.
+<!-- 2026-11-20 for the Hydra version (editorial/HYDRA-PLAN.md). In the book build since 2026-11-20 as new printed Ch 2.
 SOURCES: the myth follows Apollodorus, Library 2.5.2 (the Hydra of Lerna in a swamp; two heads for one; Iolaus burns the stumps with brands; the immortal head buried under a heavy rock by the road). Apollodorus gives nine heads; other tellers differ, which the text says. "The body is small" and "the legend was written by men who had only ever cut" are this book's own gloss, and the text says the old story leaves it out. 2026-11-20 (James: unsure about grace and light as what destroys the Hydra): the fire now stands for one thing only, the truth about what the head gave you (nothing); "light" and "grace" are out of this chapter, and Iolaus is the book. Epigraph: James 1:14 and the first sentence of 1:15 (WEB, checked 2026-11-20). The Little Monster is not named here because the reader has not met him yet; "The Little Monster" chapter will say he is the small body. -->

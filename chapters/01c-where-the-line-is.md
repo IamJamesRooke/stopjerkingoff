@@ -46,5 +46,5 @@ So this book is for one kind of man, and he comes in every kind. Single or marri
 
 You know the heads now, and you know the line. That leaves the question you have asked yourself a hundred times. You aren't stupid. You have wanted out for years. So why are you still in?
 
-<!-- DRAFT 2026-11-20 for the Hydra version (editorial/HYDRA-PLAN.md). NOT in the book build yet. Planned as new printed Ch 3, leading into "Why Is It Difficult to Stop?".
+<!-- 2026-11-20 for the Hydra version (editorial/HYDRA-PLAN.md). In the book build since 2026-11-20 as new printed Ch 3, leading into "Why Is It Difficult to Stop?".
 SOURCES: Epigraph and body quotation: Proverbs 5:15 (WEB, checked 2026-11-20). "out of his father's house" alludes to Genesis 2:24 without quoting it. The man with the right woman and no promise yet is an anonymous archetype (James's direction 2026-11-20: stick with the biblical view as the ideal). The Introduction's caution still stands for the reader in an affair or using a woman: stop that today. -->

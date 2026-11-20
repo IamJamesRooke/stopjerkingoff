@@ -4,13 +4,15 @@
 
 | File | words | lust | porn | women/woman | masturbat/MO | habit | soldier/duty/fit | Little Monster | Big Monster | wrong head | thread (can't be trusted) |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| Intro | 1166 | 6 | 6 | 6 | 4 | 0 | 0 | 0 | 0 | 1 | 0 |
+| Intro | 1172 | 5 | 3 | 7 | 3 | 0 | 0 | 0 | 0 | 1 | 0 |
 | b | 1043 | 2 | 1 | 1 | 1 | 7 | 0 | 0 | 0 | 0 | 0 |
-| c | 902 | 7 | 5 | 6 | 1 | 1 | 5 | 0 | 0 | 0 | 1 |
+| c | 901 | 7 | 4 | 5 | 1 | 1 | 5 | 0 | 0 | 0 | 1 |
 | 1 | 1258 | 2 | 4 | 2 | 1 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 1b | 860 | 2 | 2 | 7 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 1c | 662 | 2 | 0 | 6 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2 | 834 | 2 | 2 | 0 | 1 | 2 | 0 | 0 | 0 | 0 | 0 |
 | 2b | 1101 | 2 | 1 | 2 | 0 | 11 | 0 | 0 | 0 | 0 | 0 |
-| 3 | 716 | 5 | 1 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 3 | 683 | 5 | 0 | 2 | 0 | 2 | 0 | 0 | 0 | 0 | 0 |
 | 3b | 1001 | 0 | 0 | 1 | 1 | 9 | 0 | 5 | 0 | 0 | 0 |
 | 3c | 554 | 1 | 3 | 5 | 1 | 1 | 0 | 3 | 0 | 0 | 0 |
 | 3d | 727 | 2 | 0 | 0 | 0 | 1 | 1 | 4 | 0 | 0 | 0 |
@@ -68,36 +70,36 @@
 | 33 | 1038 | 3 | 0 | 2 | 0 | 4 | 1 | 0 | 0 | 0 | 0 |
 | 34 | 834 | 0 | 2 | 1 | 0 | 4 | 0 | 1 | 0 | 0 | 0 |
 | attribution | 416 | 1 | 2 | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 0 |
-| faq | 1781 | 9 | 10 | 6 | 5 | 5 | 5 | 3 | 1 | 2 | 0 |
+| faq | 1782 | 10 | 10 | 6 | 5 | 5 | 5 | 3 | 1 | 2 | 0 |
 | why-this-book | 1014 | 8 | 6 | 5 | 2 | 2 | 4 | 0 | 0 | 1 | 0 |
 
-## Overused words and phrases (book total 60275 words)
+## Overused words and phrases (book total 61770 words)
 
 | Word | Count | Per 1000 words | In how many files |
 |---|---|---|---|
-| nothing | 151 | 2.51 | 58 |
-| trap | 88 | 1.46 | 33 |
-| a man who | 82 | 1.36 | 42 |
-| itch | 55 | 0.91 | 24 |
-| sin | 54 | 0.9 | 30 |
-| exactly | 28 | 0.46 | 22 |
-| free man | 23 | 0.38 | 16 |
-| really | 22 | 0.36 | 17 |
+| nothing | 155 | 2.51 | 59 |
+| trap | 86 | 1.39 | 33 |
+| a man who | 83 | 1.34 | 43 |
+| itch | 55 | 0.89 | 24 |
+| sin | 54 | 0.87 | 30 |
+| exactly | 29 | 0.47 | 23 |
+| really | 25 | 0.4 | 18 |
+| free man | 23 | 0.37 | 16 |
 | relief | 22 | 0.36 | 12 |
-| plain | 21 | 0.35 | 18 |
-| actually | 20 | 0.33 | 17 |
-| willpower method | 20 | 0.33 | 13 |
-| simply | 18 | 0.3 | 18 |
-| the truth | 17 | 0.28 | 14 |
+| plain | 21 | 0.34 | 18 |
+| actually | 20 | 0.32 | 17 |
+| willpower method | 20 | 0.32 | 13 |
+| simply | 18 | 0.29 | 18 |
+| the truth | 18 | 0.29 | 15 |
 | comfort | 17 | 0.28 | 12 |
-| plainly | 16 | 0.27 | 13 |
-| of course | 10 | 0.17 | 9 |
-| quite | 10 | 0.17 | 9 |
-| grace | 10 | 0.17 | 8 |
-| moping | 10 | 0.17 | 5 |
+| plainly | 16 | 0.26 | 13 |
+| of course | 11 | 0.18 | 10 |
+| quite | 10 | 0.16 | 9 |
+| grace | 10 | 0.16 | 8 |
+| moping | 10 | 0.16 | 5 |
 | envy | 9 | 0.15 | 7 |
 | perhaps | 8 | 0.13 | 8 |
-| honestly | 7 | 0.12 | 6 |
+| honestly | 7 | 0.11 | 6 |
 | mope | 5 | 0.08 | 5 |
 | chain | 3 | 0.05 | 2 |
 | crutch | 3 | 0.05 | 3 |
@@ -123,7 +125,6 @@
 - "for the rest of your" x4 in 11, 11c, 33, 7
 - "has nothing to do with" x4 in 11c, 24, 8
 - "man ruled by lust is" x4 in 27b, c, faq, why-this-book
-- "porn the hand and the" x4 in 21, Intro, c, why-this-book
 - "ruled by lust is like" x4 in 27b, c, faq, why-this-book
 - "that a woman is beautiful" x4 in 14d, 29b, c, faq
 - "thinking with the wrong head" x4 in Intro, faq, why-this-book

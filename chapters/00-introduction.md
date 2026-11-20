@@ -28,6 +28,7 @@ Now ask yourself honestly:
 - Do you keep it secret? Would you be ashamed if the people you respect knew how often?
 - Do your thoughts drift to it at work, at dinner, or while you're talking to a woman?
 - Have you made a bad decision because you wanted a woman? Have you sent the message, spent the money, told the lie, or said yes when you should have said no?
+- Have you used a woman for a night, or kept one around because you didn't want to go without?
 - Has it cost you energy, focus, sleep, or closeness with your partner?
 - Have you ever counted days, reached a streak you were proud of, and lost it in five minutes?
 
@@ -37,17 +38,15 @@ You are in good company, by the way. One pastor who writes honestly about mastur
 
 Are you reading this for a son, a husband, a brother or a friend? The best thing you can do is get him to read it. If he won't, read it yourself. Once you see how the trap works, you'll be far better at helping him out of it, and at keeping the next boy from walking in.
 
-## One root, three faces {-}
+## One beast, five heads {-}
 
-Lust has three faces in this book.
+Lust has five heads in this book. A man can look, think, touch, chase and take.
 
-The first is porn.
+He looks, at porn, at a feed full of strangers, at a woman in the street. He thinks, and plays the fantasy or the memory over again. He touches, and that is the hand: the late-night itch and the shower routine. He chases. He sends the message he shouldn't, stays with the wrong woman, spends money to impress, and can't think straight near a pretty face. The slang of the 2020s calls this simping. The thing itself is as old as Samson. And he takes, which is sex outside marriage, from the one-night stand to the affair.
 
-The second is the hand: the late-night itch, the shower routine, the reel of memories that plays when you're bored or alone. Many men quit porn and find the hand is still there. It is not harmless. It is the back door. One man quit porn twice and went back twice. Both times, he said, masturbation was what led him back.
+You may know one head or all five. It is the same lust each time, making a man's decisions for him.
 
-The third face doesn't need a screen or a locked door. It's what lust does to a man around real women. He sends the message he shouldn't. He stays with the wrong woman, or chases one who is using him. He spends money to impress, says yes when he means no, and can't think straight near a pretty face. The slang of the 2020s calls this simping. The thing itself is as old as Samson. It is the same lust, making his decisions for him.
-
-So this book goes after the root. You aren't going to manage three problems. You are going to get lust itself out of the driving seat, and the porn, the hand and the bad decisions go with it.
+So this book doesn't go after the heads one at a time. It goes after the one body they all grow from. You aren't going to manage five problems. You are going to get lust itself out of the driving seat, and all five heads go with it.
 
 ## One condition {-}
 
@@ -114,3 +113,5 @@ SOURCES (Introduction): every quote below is from the research files; check each
 <!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). Exact changes are in the report sent to James. -->
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Some sections of this chapter moved to the chapters that follow it; their source notes stay listed here. -->
+
+<!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md; James approved the two opening drafts): 'One root, three faces' became 'One beast, five heads' (look, think, touch, chase, take). The line about the man who quit porn twice moves to the new chapter 'The Back Door'. One question added to 'Is this you?' (using a woman for a night). -->
