@@ -134,12 +134,34 @@ New chapters are marked NEW. Numbers are the new printed numbers.
 ## Order of work
 
 1. Tag the current book in git so it can always be restored.
-2. Write The Hydra, Where the Line Is, and the new Introduction section. James reads these three first. Everything else hangs on them.
+2. Write The Hydra, Where the Line Is, and the new Introduction section. James reads these first. Everything else hangs on them. (Drafts of the first two are in editorial/drafts/, 2026-11-20, not yet in the book.)
 3. The head-by-head section: three new chapters, The Ladder trimmed.
 4. The threads through willpower, substitutes and the ending.
-5. The wording pass, then the checks, the FAQ, the site description and the contents list.
+5. The wording pass.
+6. The quality gate below. Only then does James reread.
 
 Every change to a chapter James has approved is reported with exact before and after.
+
+## Quality gate before James rereads (added 2026-11-20)
+
+James asked what would make this version close to perfect before he starts reading. Nothing reaches him until every line below is done and reported.
+
+1. **Quotes verified.** Every quotation checked against its source again, including the two still open: the Luther line about jeering at the devil, and the Dr. K quote near 6:49 of his video. Any quote that can't be confirmed becomes a paraphrase or goes.
+2. **Scripture verified.** Every verse checked word for word against the World English Bible.
+3. **Myth checked.** The Hydra telling checked against the ancient source (Apollodorus), with the book's own additions marked as its own.
+4. **Method check, run again.** The Easy Way fidelity audit on the new version. Special watch: does the Hydra make the enemy feel big, and does "the line" turn into a willpower vow?
+5. **Pastor review, run again.** Special watch: the line chapter, the fiancee chapter, grace getting the credit, and the pagan myth.
+6. **Simulated readers, run again.** At least: a single man of twenty, a married man, a churchgoer, a non-believer, an engaged man, and a man who only knows one head. Each reports where he stopped believing or stopped reading.
+7. **Five-head coverage check.** A table showing, for look, think, touch, chase and take: where it is named, where its lie is exposed, where it is burned, and where the ending pays it off. No blank cells.
+8. **Consistency pass.** "It", the Little Monster, the Big Monster, the caller, the Hydra and the torch each mean one thing everywhere. The rationed phrases keep their counts.
+9. **Hooks and lengths.** Every chapter between 500 and 1,500 words and ending on a hook that names no chapter. No pointers back or forward.
+10. **Read-aloud pass.** The whole book read for the ear, including the four verses that run together in "The Rules in One Place".
+11. **Evergreen and tone pass.** No brands, dated slang or rotting links. Women are people in every chapter, most of all in Chase and Take.
+12. **Proofread.** Spelling (American), punctuation, no ellipses, and the editorial checks script clean.
+13. **Build check.** Site, PDF and EPUB all build, the contents list and numbers are right, old page addresses still work, and the FAQ, About page and site description match the new version.
+14. **Change report.** One list of every change to a chapter James has already approved, with before and after.
+
+Items 4 to 6 are done by reviewers who have not seen the plan, so they read it cold.
 
 ## Risks
 
