@@ -41,27 +41,29 @@ A man follows this method and finds stopping easy. Then he feels guilty that it 
 
 See that for what it is. It's the old lie dressed up as holiness. If you're a Christian you know perfectly well who paid, and it wasn't you. Brooding and self-punishment aren't humility. The debt was paid in full, by Christ. If you're Catholic and your priest gives you a penance, that is a different thing. It's medicine for the soul, and it adds nothing to the bill. You don't owe misery on top, so take the freedom and be glad of it.
 
-## The men who quit the pebble {-}
+## The hard journey of not drinking bleach {-}
 
-If a slip has left you taking the whole business very solemnly, here's some medicine. Another writer once imagined a support forum for people trying to give up drinking bleach. The idea is borrowed here, with thanks, and the poison is changed. Meet the brave men of a made-up forum, who are trying to stop walking around with a sharp pebble in their shoe.
+If a slip has left you taking the whole business very solemnly, here's some medicine. It comes from a writer who goes by Guillaco, in a short work called *Meditations of a Porn Addict*, which the book EasyPeasy quotes. He reasoned that the habit offers no benefit and only hurts you, so wanting it is about as sensible as wanting to drink bleach. Then he imagined the support forum. Here it is, lightly edited.
 
-"Day 19 pebble-free. Walked past a gravel driveway this morning and nearly lost it. Stay strong, brothers."
+"Hi! We are NoBleach, and we host challenges in which participants, called Bleachstronauts, abstain from drinking bleach for a period of time. Whether you want a monthly challenge as a test of self-control, or whether excessive bleach drinking has become a problem in your life and you want to quit for longer, you will find a supportive community and plenty of resources here."
 
-"I allow myself the pebble on Sundays only. I think that's a healthy balance."
+Then come the members.
 
-"Honestly, how is a man supposed to stop? I've always got feet. I've always got shoes. The temptation is with me every waking hour."
+"Sometimes I allow myself a glass of bleach or two. I know that 'just one drop' is a lie, but I don't think a single glass will hurt. One glass can't destroy all the hours I've gone without."
 
-"I was doing so well. Then I had a stressful week at work and before I knew it I was in the yard, picking one out. A small one. I'm so ashamed. Resetting my counter."
+"I don't have a problem stopping. But sometimes I go down the street and see someone drinking water, you know, from a glass, and I imagine the glass has bleach in it. Then I get a craving. After debating with myself all day, I finally give in at night and drink a glass."
 
-"Does anyone else find the limp sort of comforting?"
+"Look, my problem is when I'm alone in my kitchen. I start to look at the glasses. Sometimes I tempt myself by opening the cupboard where I keep the bleach. Sometimes I smell it, and, well, I end up right back where I started. I'm so desperate to stop this, but I'm not sure I'll ever be able to."
 
-"My accountability partner checks my shoes every Friday. So far so good, though I did think about the beach all through the meeting."
+"Stopping drinking bleach is impossible. I mean, I always have a mouth, you know? How am I supposed to stop when I always have a throat reminding me that I could swallow bleach?"
 
-You're smiling because you can see what they can't. Nobody needs courage, a counter or a Friday inspection to keep a pebble out of his shoe. All he needs is to notice that it hurts and that it never did a thing for him. Once he's seen that, leaving it out isn't an achievement. It's just walking.
+"Oh man, it was going so well. Nineteen whole days without doing it. The important thing is to learn from failure! Now I know what to avoid: looking at cleaning products in the supermarket. I'll try to make it to a month. I'm resetting my counter. Wish me luck!"
 
-How many times this week were you tempted to put a stone in your shoe? None. That isn't self-control. You see a stone for what it is.
+Guillaco adds that he isn't mocking anyone's feelings. He wants you to see "how ridiculously easy it is (and always will be)" to be free. Then he asks: "How often do you allow yourself to drink a glass of bleach? Never? Why? Because it's a horrible thing, that's why!"
 
-If you slipped, the lesson is not "try harder". Somewhere you started believing again that the pebble had something to offer. The world repeats its lies daily, so it does no harm to hear the truth twice.
+You're smiling because you can see what the Bleachstronauts can't. Nobody needs courage, a counter or a monthly challenge to keep from drinking bleach. All he needs is to see what's in the glass. After that, not drinking it isn't an achievement. It's an ordinary day.
+
+If you slipped, the lesson is not "try harder". Somewhere you started believing again that the glass had something to offer. The world repeats its lies daily, so it does no harm to hear the truth twice.
 
 <!-- SOURCES (If You Slip): this unnumbered chapter was made on 2026-11-17 by joining the slip guidance from Chapter 29 ("I fell. Am I back to zero?") and Chapter 31 ("Slipping", "Wanting it to hurt", "The bully", "The men who quit the pebble"), so that it has one home. No new quotations were added.
 - "you cleanly got over ten and then you kind of stumbled on like the 11th but that doesn't mean that you've fallen over and you have to start again" — a member of a NoFap group on a HealthyGamerGG video; full source line in Chapter 29's SOURCES.
@@ -76,3 +78,5 @@ If you slipped, the lesson is not "try harder". Somewhere you started believing 
 <!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). -->
 
 <!-- 2026-11-20 (James: should be 55): now a numbered chapter (printed Ch 55); the chapters after it move up one and the book ends at 58, Now. The page URL is unchanged. -->
+
+<!-- 2026-11-20 (James: the pebble adaptation lost the effect of the original; copy the original and give credit): the invented pebble forum is replaced by Guillaco's bleach forum, taken from EasyPeasy's chapter "Advice to Non-users", section "Slipping (relapse)" (source file 29-advice-to-non-users.Rmd, https://gitlab.com/snuggy/easypeasy, content CC BY-SA 4.0; EasyPeasy spells the name "Gulliaco" in that chapter and "Guillaco" in its Resources list, which links meditations.pdf). The forum welcome and the five posts are the original with light edits for grammar and reading aloud (e.g. "19" spelled out, "container" became "cupboard", "after debating with myself whether I should do it or not" became "after debating with myself all day"). The two short quotations in the paragraph after the posts are verbatim. Left out: his "hackbook" paragraph and the "watch a glass for five minutes" exercise. The pebble version is kept in editorial/PARKING.md. -->

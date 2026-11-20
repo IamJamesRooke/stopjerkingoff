@@ -89,7 +89,7 @@ Never tell the reader to go and find something: no "read the verse at the head o
 
 ## 4. Recurring images and stories (and where each lives)
 
-- Itch, then relief: car alarm and dripping tap, rash and cream (the tight shoes were cut from Ch 3 on 2026-11-18) (Ch 3, 6), stone in shoe (Ch 14), boots a size too small (Ch 25), pebble parody (Ch 31).
+- Itch, then relief: car alarm and dripping tap, rash and cream (the tight shoes were cut from Ch 3 on 2026-11-18) (Ch 3, 6), stone in shoe (Ch 14), boots a size too small (Ch 25), bleach forum (If You Slip; Guillaco, replaced the pebble parody 2026-11-20).
 - Path across the lawn; grass grows back (Ch 3, 5, 8, 17).
 - The week at the in-laws' guest room, the camping trip, basic training (Ch 3; the smoker on the plane was cut 2026-11-18, back-referenced in 11, 25).
 - Trap, chain, the cellar with the unlocked door (Ch 29), sinking ship (Ch 30), city without walls (Ch 8).

@@ -35,7 +35,7 @@
 - grey: 0  |  gray: 7
 - fortnight: 0  |  two weeks: 9
 - mum: 0  |  mom: 0
-- whilst: 0  |  while: 42
+- whilst: 0  |  while: 43
 
 ## 'Chapter N' cross-references (check each against the target chapter)
 
