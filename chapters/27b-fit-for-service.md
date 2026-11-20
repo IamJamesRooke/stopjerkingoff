@@ -1,4 +1,4 @@
-# Fit for Service {-}
+# Fit for Service {#fit-for-service}
 
 > "You therefore must endure hardship as a good soldier of Christ Jesus. No soldier on duty entangles himself in the affairs of life, that he may please him who enrolled him as a soldier."
 >
@@ -62,3 +62,5 @@ SOURCES (Fit for Service, unnumbered chapter before Chapter 28; added 2026-11-15
 <!-- 2026-11-20 structure pass (James: right sections in the right chapters, right sizes, one flow): 'The king on the roof' cut from a second full telling of David and Bathsheba (already told whole in 'A City Without Walls') to the one point that belongs here: who was fit for service. The longer passage is parked in editorial/PARKING.md. 'twenty-seven chapters' removed. -->
 
 <!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). -->
+
+<!-- 2026-11-20 (James: why isn't this a numbered chapter?): now numbered (printed Ch 49); everything after it moves up one. The page URL is unchanged. -->

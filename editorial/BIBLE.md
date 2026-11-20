@@ -159,7 +159,7 @@ Never tell the reader to go and find something: no "read the verse at the head o
 
 **27 The Moment You Know** (was "The Moment of Revelation")**.** What it is; days not weeks; the three-week trap; don't wait for it.
 
-**27b Fit for Service** (unnumbered). Out of the fight (David, enemy, Nehemiah). Drunk on duty (Uriah, Ai, sober first, grace trains). "Here I am. Send me!" *Pays off*: Intro soldier. *Sets up*: Ch 28.
+**27b Fit for Service** (numbered since 2026-11-20). Out of the fight (David, enemy, Nehemiah). Drunk on duty (Uriah, Ai, sober first, grace trains). "Here I am. Send me!" *Pays off*: Intro soldier. *Sets up*: Ch 28.
 
 **28 The Final Step.** Two essentials; vow vs yes-yes; no last session (the one place we leave EasyPeasy's path); the prayer (porn, hand, women, "show me the man I am to go back for"); let it ring (Maltz); you are already free; final warning, "not once".
 
