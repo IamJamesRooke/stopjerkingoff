@@ -165,7 +165,7 @@ Never tell the reader to go and find something: no "read the verse at the head o
 
 **29 Questions Men Ask** (was "Feedback")**.** The man who goes back in; the cellar door. Fears; the misreadings (a short "I fell" pointing to If You Slip; tell your wife or pastor, its only home); more questions (wet dream pointer, body with wife, sleep, porn, sex); the checklist of seven closes the chapter.
 
-**29b If You Slip** (unnumbered, new 2026-11-17). The one home for slip guidance: am I back to zero (confess, refuse the second one, find the instruction), the lies that follow a slip, wanting it to hurt, the bully, the pebble parody (Guillaco credited).
+**29b If You Slip** (new 2026-11-17; numbered since 2026-11-20). The one home for slip guidance: am I back to zero (confess, refuse the second one, find the instruction), the lies that follow a slip, wanting it to hurt, the bully, the pebble parody (Guillaco credited).
 
 **30 The Men Still on the Ship** (was "Help Those on the Sinking Ship")**.** Pity, don't envy; how to help; don't kick; fences don't free; your son needs an explanation.
 

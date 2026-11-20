@@ -1,4 +1,4 @@
-# If You Slip {-}
+# If You Slip {#if-you-slip}
 
 > "Don't rejoice against me, my enemy. When I fall, I will arise."
 >
@@ -74,3 +74,5 @@ If you slipped, the lesson is not "try harder". Somewhere you started believing 
 <!-- 2026-11-19 psych review fixes applied (editorial/PSYCH-REVIEW.md): see that file for the reasoning and sources. -->
 
 <!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). -->
+
+<!-- 2026-11-20 (James: should be 55): now a numbered chapter (printed Ch 55); the chapters after it move up one and the book ends at 58, Now. The page URL is unchanged. -->
