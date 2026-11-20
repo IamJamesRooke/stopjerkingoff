@@ -36,13 +36,17 @@ What saved him was his nephew, a young man named Iolaus, who came running with a
 
 Notice two things.
 
-First, the sword was never going to work. The sword is willpower. It is every vow you made, every streak you counted, every app you deleted in disgust. You didn't swing too weakly. Cutting is what makes the heads grow.
+First, the sword by itself was never going to work. That is willpower: a sword and no fire. It is every vow you made, every streak you counted, every app you deleted in disgust. Each one cut off the act and left the stump alive. You didn't swing too weakly. Cutting with nothing after it is what makes the heads grow.
 
 Second, look at what the fire did. A head grows back because something in the stump is still alive. In you, that living thing is a belief: that the head gave you something. It relaxed you. It helped you sleep. It made you feel wanted. Willpower cuts off the act and leaves the belief alive. So of course the head grows back. You still want it.
 
 The fire is the truth about what that head really did for you, which is nothing. Once you have seen that for yourself, the wanting dies in the stump, and there is nothing left to grow. That is all this book does. One head at a time, it shows you what you were really getting. You don't need strength for that. Hercules had all the strength in the world, and all it got him was more heads.
 
 He didn't fetch the fire himself, either. Somebody had to bring it to him. Let this book be your Iolaus.
+
+So is there no sword in this book at all? There is one stroke. A man does have to stop, and stopping is a cut: one plain No, said once. But look at the difference. Willpower is a man swinging at the same heads for the rest of his life. This is one stroke, at a head whose stump is going to burn, and it never has to be made again.
+
+That is also why this book asks you not to swing yet. First we get the fire ready.
 
 Now here is something the old story leaves out. When the heads stop growing back, a man can finally see what they were growing from. All those necks go down to one body. Only one. And for all its heads and all its hissing, the body is small. The Hydra looked enormous to every man with a sword, because he never once saw past the heads. The legend was written by men who had only ever cut.
 
@@ -53,4 +57,4 @@ One head, the story says, could not be killed. Hercules cut it off and buried it
 But before we burn anything, one question has to be settled. Five heads make a long list. Is all of that really lust? Where exactly is the line?
 
 <!-- 2026-11-20 for the Hydra version (editorial/HYDRA-PLAN.md). In the book build since 2026-11-20 as new printed Ch 2.
-SOURCES: the myth follows Apollodorus, Library 2.5.2 (the Hydra of Lerna in a swamp; two heads for one; Iolaus burns the stumps with brands; the immortal head buried under a heavy rock by the road). Apollodorus gives nine heads; other tellers differ, which the text says. "The body is small" and "the legend was written by men who had only ever cut" are this book's own gloss, and the text says the old story leaves it out. 2026-11-20 (James: unsure about grace and light as what destroys the Hydra): the fire now stands for one thing only, the truth about what the head gave you (nothing); "light" and "grace" are out of this chapter, and Iolaus is the book. Epigraph: James 1:14 and the first sentence of 1:15 (WEB, checked 2026-11-20). The Little Monster is not named here because the reader has not met him yet; "The Little Monster" chapter will say he is the small body. -->
+SOURCES: the myth follows Apollodorus, Library 2.5.2 (the Hydra of Lerna in a swamp; two heads for one; Iolaus burns the stumps with brands; the immortal head buried under a heavy rock by the road). Apollodorus gives nine heads; other tellers differ, which the text says. "The body is small" and "the legend was written by men who had only ever cut" are this book's own gloss, and the text says the old story leaves it out. 2026-11-20 (James: unsure about grace and light as what destroys the Hydra): the fire now stands for one thing only, the truth about what the head gave you (nothing); "light" and "grace" are out of this chapter, and Iolaus is the book. Same day (James: if the sword is willpower, the myth makes willpower necessary): willpower is now the sword with no fire; the method keeps one stroke, the plain No said once, and asks the reader not to swing until the fire is ready. Epigraph: James 1:14 and the first sentence of 1:15 (WEB, checked 2026-11-20). The Little Monster is not named here because the reader has not met him yet; "The Little Monster" chapter will say he is the small body. -->

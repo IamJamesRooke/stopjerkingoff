@@ -36,7 +36,8 @@ Guards:
 |---|---|
 | The Hydra | How lust looks from outside: one beast, many heads |
 | The one small body | The Little Monster, feeding through every head |
-| Cutting a head, and two grow back | The Willpower Method, cutting down, and substitutes |
+| The sword with no fire: cut, and two grow back | The Willpower Method, cutting down, and substitutes |
+| One stroke, then fire | The plain No, said once at the final step, after the belief is already dead. It never has to be repeated |
 | Why they grow back | The Big Monster: the lie that the head had something to give |
 | The fire on the stump | One thing only: the truth about what that head gave you, which is nothing. The belief dies, so the wanting dies, so nothing grows |
 | Iolaus | This book, bringing the fire. At the end, the reader brings it to the next man |
