@@ -20,11 +20,11 @@
 | 13 | 2041 | 1 | 0 | 5 | 0 | 3 | 0 | 5 | 0 | 0 | 0 |
 | 14 | 3020 | 3 | 5 | 18 | 1 | 5 | 0 | 1 | 0 | 0 | 0 |
 | 14b | 1643 | 2 | 0 | 13 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 15 | 2533 | 5 | 3 | 29 | 1 | 1 | 0 | 1 | 0 | 0 | 0 |
-| 16 | 725 | 1 | 2 | 1 | 0 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 17 | 876 | 0 | 1 | 1 | 1 | 3 | 0 | 0 | 1 | 0 | 0 |
+| 15 | 2564 | 5 | 5 | 27 | 2 | 2 | 1 | 1 | 0 | 0 | 0 |
+| 16 | 770 | 1 | 2 | 1 | 0 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 17 | 898 | 0 | 1 | 1 | 1 | 3 | 0 | 0 | 1 | 0 | 0 |
 | 18 | 603 | 1 | 1 | 2 | 0 | 4 | 0 | 1 | 0 | 0 | 0 |
-| 19 | 502 | 0 | 0 | 3 | 0 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 19 | 505 | 0 | 0 | 3 | 0 | 0 | 0 | 1 | 0 | 0 | 0 |
 | 20 | 942 | 1 | 0 | 3 | 0 | 1 | 0 | 0 | 1 | 0 | 0 |
 | 21 | 1415 | 3 | 2 | 1 | 1 | 1 | 2 | 3 | 1 | 0 | 1 |
 | 22 | 2064 | 0 | 0 | 1 | 0 | 6 | 0 | 7 | 1 | 0 | 0 |
@@ -46,21 +46,21 @@
 | faq | 1781 | 9 | 10 | 6 | 5 | 5 | 5 | 3 | 1 | 2 | 0 |
 | why-this-book | 1014 | 8 | 6 | 5 | 2 | 2 | 4 | 0 | 0 | 1 | 0 |
 
-## Overused words and phrases (book total 59520 words)
+## Overused words and phrases (book total 59621 words)
 
 | Word | Count | Per 1000 words | In how many files |
 |---|---|---|---|
-| nothing | 146 | 2.45 | 36 |
+| nothing | 148 | 2.48 | 36 |
 | trap | 82 | 1.38 | 25 |
-| a man who | 75 | 1.26 | 30 |
+| a man who | 76 | 1.27 | 31 |
 | itch | 56 | 0.94 | 20 |
-| sin | 53 | 0.89 | 24 |
+| sin | 54 | 0.91 | 24 |
 | exactly | 28 | 0.47 | 18 |
 | free man | 22 | 0.37 | 15 |
 | relief | 22 | 0.37 | 9 |
 | really | 21 | 0.35 | 11 |
-| willpower method | 21 | 0.35 | 12 |
 | plain | 20 | 0.34 | 18 |
+| willpower method | 20 | 0.34 | 11 |
 | actually | 19 | 0.32 | 15 |
 | plainly | 18 | 0.3 | 14 |
 | the truth | 18 | 0.3 | 14 |
@@ -99,9 +99,7 @@
 - "a soldier who shows up" x4 in 27b, Intro, faq, why-this-book
 - "for the rest of your" x4 in 11, 33, 7
 - "has nothing to do with" x4 in 11, 24, 8
-- "man on the nofap forum" x4 in 15, 19, 20, 8
 - "man ruled by lust is" x4 in 27b, Intro, faq, why-this-book
-- "men on the willpower method" x4 in 19, 20, 22, 23
 - "porn the hand and the" x4 in 21, Intro, why-this-book
 - "ruled by lust is like" x4 in 27b, Intro, faq, why-this-book
 - "that a woman is beautiful" x4 in 14b, 29b, Intro, faq
