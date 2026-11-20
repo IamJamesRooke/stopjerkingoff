@@ -14,6 +14,40 @@ So this is not a rewrite. It is one new frame laid over an approved book:
 - about 3,500 new words, partly paid for by trimming "The Ladder"
 - the book goes from 58 chapters to 63
 
+## ON HOLD: does the Hydra fit, or is there a better biblical image? (v3, 2026-11-20)
+
+James is not sure the Hydra matches the rest of the book and asked for a biblical alternative. No further Hydra edits until he decides.
+
+**Honest assessment of the Hydra.** It gave the book two things it needed: a named list of lust's forms, and a picture of why force fails. But the list does not need a Hydra, and the picture needed two repairs in one evening (what the fire means, and whether the sword makes willpower necessary). An image that needs that much patching is not carrying its own weight. It also adds a sixth world of imagery to a book that already has the Little Monster, the caller, the soldier, the trap and the ship, and it is the only one that is pagan and the only one that makes the enemy big.
+
+**Biblical candidates**
+
+| Image | Fit with the method | Verdict |
+|---|---|---|
+| Leviathan, whose heads God broke (Psalm 74:14) | Many heads, and God does the breaking. But it is a vast chaos monster, it is obscure, and nothing in it is about seeing through a lie | No. Bigger than the Hydra, and vaguer |
+| The dragon and beast of Revelation | Seven heads, but apocalyptic and disputed | No |
+| "Sin crouches at the door" (Genesis 4:7) | One enemy, and it is about mastering by effort | No. James was unconvinced by it once already |
+| "Put to death your members" (Colossians 3:5) | A list of five, but "put to death" sounds like willpower | A supporting verse at most |
+| The tree and its fruit (Matthew 7:17) | Pick the fruit and the tree bears again; deal with the root | Workable, small, but flat. Nobody remembers it |
+| **"You will know the truth, and the truth will make you free" (John 8:32)** | This is the Easy Way in one sentence, and the book already quotes verses 34 and 36 of the same passage | **The method's verse** |
+| **The swept and empty house (Matthew 12:43 to 45)** | A spirit is put out of a man, finds the house "empty, swept, and put in order", and comes back with seven worse. "The last state of that man becomes worse than the first." | **Recommended picture** |
+
+**Recommendation: drop the Hydra. Use the house Jesus described.**
+
+Why it fits better than anything else:
+- **It is Jesus's own picture of exactly this failure.** A man throws the thing out by force, and it comes back worse. Every reader has lived that.
+- **The book is already built in that house.** The Little Monster is already called a tenant who "pays no rent". The book already has the locked door, the back door, the caller at the door and the telephone, and its last chapter already says "an empty room doesn't stay empty for long".
+- **Nothing needs patching.** There is no sword, so no question of whether willpower is needed. Throwing the tenant out by force and still believing the room needs him is the Willpower Method. Seeing that he never paid rent and the room was never short of him is the Easy Way. The evicted tenant who keeps telephoning is the caller, so "never answer" follows by itself. For the Christian, the house also gets its rightful owner.
+- **The enemy stays small.** He is a tenant, not a dragon.
+
+What stays from today's work whichever image wins: the five in order (look, think, touch, chase, take), the line chapter, the three new chapters and the new running order. In the house version the five are the Little Monster's **five mouths**, and one small belly.
+
+What would change: "The Hydra" is rewritten as a chapter on the empty house and the five mouths, about twelve one-line callbacks are reworded, and "heads" becomes "mouths".
+
+Care needed: the parable speaks of an unclean spirit. The book must use it as Jesus's picture of how a thing returns, and never tell the reader he is possessed. The pastor review checks this.
+
+Runner-up: keep the Hydra as it now stands, in one chapter. It works. It is just the weaker fit.
+
 ## Is the Hydra the right image? (v2, 2026-11-20)
 
 James asked whether a fearsome Hydra clashes with a Little Monster we made weak on purpose. It does, if the Hydra becomes the book's main picture. It does not, if the Hydra is used for the one thing it does better than any other image, and then punctured.
