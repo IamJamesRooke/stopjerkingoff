@@ -78,25 +78,7 @@ These aren't spells. Each one is a true sentence to set against a false one. Pic
 7. "I'm tired. Tired men believe lies more easily. I'll go to bed."
 8. "I am forgiven. I don't have to earn it by being miserable."
 
-## Things that are not a relapse {-}
-
-**Ordinary desire.** You're a man, and that isn't going to stop. You'll still notice a beautiful woman, and your body will still stir. What goes is the *need*, the nagging sense that something must be done about it. One man, seventy-six days in, described what's left: "I get urges. But wave them away like annoying flies."
-
-**Morning erections.** You'll wake up hard, as you did before. This isn't a temptation or a sign of anything. It's plumbing. Don't test it to check that your body works. Leave it to nature. Doctors say a morning erection can occur at any age, and that it is tied to the cycles of sleep. An erection is not an instruction. Get up and it goes.
-
-**Wet dreams.** Sooner or later you'll probably have one. Doctors describe them as "orgasms during sleep that happen without conscious control". Sin needs a decision, and you weren't there to make one. It is not a sin, and it is not a slip. You have nothing to confess and nothing to reset. Change the sheets and carry on. Don't lie awake in the morning replaying the dream either. That part you *are* awake for.
-
-**A flat spell.** Some men report a week or two when desire seems to switch off altogether. The forums call it the flatline. For a few it runs longer, and it can be alarming. One medical student wrote that his body "literally 'died' on me. I lost my libido completely and felt depressed." It passed, and a few weeks later he was better than he had ever been. Another man, who went through a long one, reported from the far end: "the other side is beautiful". If it happens, leave it alone. The one mistake is to "check that everything still works". That isn't a check. It's the habit with an excuse. A psychiatrist who treats these men tells them the flat feeling is generally temporary.
-
-One caution, and it matters. If low desire or erection trouble lasts more than a few weeks, see a doctor. It can be an early warning about your heart or your blood sugar, especially after forty. And if you feel low most of the day for more than two weeks, or lose interest in things you used to enjoy, that is not the Little Monster. See a doctor about that too. It is very treatable. You don't have to feel glad for this book to work.
-
-## Try it and see {-}
-
-The forums call going without "semen retention", and they promise a great deal for it. Men who stop do say they feel better: more energy, more confidence, more focus. Those are reports, and I won't dress them up as proof. Your body doesn't soak semen back up as some kind of fuel. Nobody has shown that holding it raises your testosterone. And a wet dream doesn't "lose" you anything.
-
-Why would men feel better, then? A man who has stopped has his evenings back. He sleeps, and he isn't carrying a secret. He has kept a promise to himself for the first time in years. That would put a spring in anybody's step. So don't take the forums' word for it, or mine. Try it and see. If the energy comes, enjoy it as a bonus. You didn't stop for the energy. You stopped to be free.
-
-One last word. If you're married, none of this means holding back from your wife. She isn't the habit.
+None of this is a fight. You are letting something starve, and you can be cheerful while it does.
 
 <!-- SOURCES (Chapter 22): every quote below is from the research files; check each against its page before publishing.
 - "Whose voice is that?" (the old lie says "I"; say No and it switches to "you"; the hand test): from the essay in EasyPeasy's appendix, which borrows Jack Trimpey's Addictive Voice Recognition Technique. The body no longer names either (2026-11-18, names kept out of the body); the credit stays here and on the Attribution page.
@@ -131,3 +113,5 @@ One last word. If you're married, none of this means holding back from your wife
 <!-- 2026-11-19 psych review fixes applied (editorial/PSYCH-REVIEW.md): see that file for the reasoning and sources. -->
 
 <!-- 2026-11-19 listener's pass: 'the superpowers man' explained in place; 'Mark' became 'Pick' for audio; two filler attributions and an institution's name cut (evergreen; sources still listed above); the second 'One caution' varied. -->
+
+<!-- 2026-11-20 structure pass (James: right sections in the right chapters, right sizes, one flow): the sections on the body ('Things that are not a relapse', 'Try it and see') moved out to the new chapter 'What Your Body Will Do' (22b-what-your-body-will-do.Rmd); their source lines above now apply there. One closing line added. -->

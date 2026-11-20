@@ -30,6 +30,8 @@ The other hard-looking case is boredom mixed with stress. Think of the student i
 
 With the right frame of mind those same hours are no trouble. Don't worry that being alone keeps reminding you that you've stopped. Let it. Every reminder is a chance to think: *I'm getting rid of it. Isn't that marvelous?* Thought of that way, the urges turn into small moments of pleasure.
 
+## So, will it be harder? {-}
+
 So, will it be harder for you?
 
 No.
@@ -66,3 +68,5 @@ Stay glad. It matters on the good days, and it matters most on the bad ones.
 <!-- 2026-11-19 listener's pass: 'We've been over this at length' removed (no cross-references). -->
 
 <!-- 2026-11-19 (James): the section "The man who thinks he's built this way" moved here from 'Just Once' (it is about the special case, not the single exception). Paul's thorn: 2 Corinthians 12:7; other sources are listed in 13-just-once.Rmd. -->
+
+<!-- 2026-11-20 structure pass (James: right sections in the right chapters, right sizes, one flow): new heading 'So, will it be harder?'. -->

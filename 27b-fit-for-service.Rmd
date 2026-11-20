@@ -20,13 +20,11 @@ Now think what all this says about you. Nobody bothers to distract a man who doe
 
 ## The king on the roof {-}
 
-The Bible tells this story about David, Israel's greatest king. It is in the second book of Samuel, and it begins like this. "At the return of the year, at the time when kings go out, David sent Joab, and his servants with him, and all Israel; and they destroyed the children of Ammon, and besieged Rabbah. But David stayed at Jerusalem. At evening, David arose from his bed and walked on the roof of the king's house. From the roof, he saw a woman bathing, and the woman was very beautiful to look at."
+David was Israel's greatest king, and no army ever beat him in the field. The Bible is exact about when he fell. It was "at the time when kings go out", in the one year he sent his army to war and stayed home. He was beaten on a rooftop, on an idle evening, when he should have been with his men.
 
-This was the man who, as a boy, killed the giant Goliath. No army ever beat him in the field. He was beaten on a rooftop on an idle evening, at the time when kings go out, because he hadn't gone.
+Now look at the soldier he wronged. Uriah came back from the front and would not go home to his own bed while his brothers slept in the field. David got him drunk, and even drunk he slept at the palace door like a man on duty.
 
-The rest is quickly told. He took Bathsheba, the wife of his own soldier Uriah. When Uriah, even drunk, wouldn't go home and cover it up, David sent him back to the war to die.
-
-Notice who was fit for service in that story. Uriah, drunk, still slept at the palace door like a soldier on duty. David, sober, was no use to anybody. Lust had taken the commander off the field without a fight.
+Uriah, drunk, was fit for service. David, sober, was no use to anybody. Lust had taken the commander off the field without a fight.
 
 ## Drunk on duty {-}
 
@@ -38,7 +36,7 @@ But a man ruled by lust is like a soldier who shows up drunk for duty. He is lov
 
 So get the order right. The people who know most about getting sober learned this the hard way. Whatever you put ahead of your sobriety, they say, you will lose. For a Christian, God comes first. But getting sober is how a man gets back to putting him there. First doesn't mean building your life around it. It means settling it, so that you can get on with everything else. A sober soldier doesn't spend the day thinking about drink. He does his job.
 
-Now the good news, which is the reason this book exists. This is not hard to settle. Nobody is sending you on a ten-year campaign. You've read twenty-seven chapters and you know what the thing is: a trick, an itch that feeds itself, a lie about comfort. It doesn't take courage to put down a thing you have seen through.
+Now the good news, which is the reason this book exists. This is not hard to settle. Nobody is sending you on a ten-year campaign. You have read this far, and you know what the thing is: a trick, an itch that feeds itself, a lie about comfort. It doesn't take courage to put down a thing you have seen through.
 
 And being fit is not the price of being loved. It is what a loved man is for.
 
@@ -62,3 +60,5 @@ SOURCES (Fit for Service, unnumbered chapter before Chapter 28; added 2026-11-15
 -->
 
 <!-- 2026-11-19 listener's pass: two backward references ('You know the rest', 'the promise that') reworded. -->
+
+<!-- 2026-11-20 structure pass (James: right sections in the right chapters, right sizes, one flow): 'The king on the roof' cut from a second full telling of David and Bathsheba (already told whole in 'A City Without Walls') to the one point that belongs here: who was fit for service. The longer passage is parked in editorial/PARKING.md. 'twenty-seven chapters' removed. -->

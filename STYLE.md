@@ -118,8 +118,8 @@ married" lines, "To wives", and "the woman you'll marry".
 
 "User" and "non-user" are drug and software words left over from the smoking
 book. Write "a man in the trap", "hooked", "the man who does it daily", "a man
-who's free". Chapter 14 is "Every Man in the Trap" and Chapter 32 is "For the
-People Beside Him"; both keep their old page addresses through heading IDs.
+who's free". "Every Man in the Trap" and "For the
+People Beside Him" both keep their old page addresses through heading IDs.
 
 ## Standing rule: vivid archetypal stories (James, 2026-11-19)
 
@@ -204,6 +204,10 @@ lever and do wrong, and the book may say so plainly, in one sentence, without co
 Then it returns to what the man can change. Never excuse her to flatter the reader, and
 never blame her to excuse him.
 
-## Chapter numbers and file names (2026-11-19)
+## Chapter numbers and file names (2026-11-20)
 
-"The Man Led by a Woman" was split out of "Every Man in the Trap" and is now Chapter 15 (file `14b-the-man-led-by-a-woman.Rmd`). File names were not renumbered, so from there on the printed chapter number is the file number plus one (file `15-fantasy...` is Chapter 16, and so on to the Appendix, Chapter 35). Older notes in editorial/, DRAFT-NOTES.md and source comments use the old numbers. Refer to chapters by title.
+File names were never renumbered, so a file's number is NOT its printed chapter number. Refer to chapters by title, in the book and in notes. Reading order and printed numbers after the 2026-11-20 structure pass:
+
+Intro; 1-14 as the files; 15 The Man Led by a Woman (14b); 16 Fantasy and the Thought Life (15); 17 The Locked Door (16); 18 Timing (17); 19 Will I Miss It? (18); 20 Can I Compartmentalize? (19); 21 Wrong Reasons to Stop (20); 22 The Easy Way to Stop (21); 23 The First Weeks (22); 24 What Your Body Will Do (22b); 25 Just One Little Look (23); 26 Will It Be Harder for Me? (24); 27 Don't Swap It for Something Else (25); 28 Should I Avoid Temptation? (26); 29 The Moment You Know (27); Fit for Service (27b, unnumbered); 30 The Final Step (28); 31 Who Needs to Know (28b); 32 Questions Men Ask (29); If You Slip (29b, unnumbered); 33 The Men Still on the Ship (30); 34 The Rules in One Place (32); 35 Now (33); For the People Beside Him (31, unnumbered, now after Now); Appendix: Resources (34, unnumbered).
+
+Because the numbers move, the text never says how many chapters have gone by ("twenty chapters", "twenty-seven chapters" were removed). Older notes in editorial/, DRAFT-NOTES.md and source comments use old numbers.

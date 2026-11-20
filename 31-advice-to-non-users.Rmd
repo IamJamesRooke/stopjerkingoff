@@ -1,4 +1,4 @@
-# For the People Beside Him {#advice-to-non-users}
+# For the People Beside Him {- #advice-to-non-users}
 
 > "Two are better than one, because they have a good reward for their labor. For if they fall, the one will lift up his fellow; but woe to him who is alone when he falls, and doesn't have another to lift him up."
 >
@@ -63,6 +63,7 @@ So, fathers, a few suggestions.
 - **Tell him your own story,** as much of it as is fitting. Nothing takes the shame out of a boy faster than finding out his father has been there and gotten out.
 - **Never spy and then explode.** If you find something, wait a day. Then talk to him the way you wish someone had talked to you.
 - **Use ordinary sense about screens.** Fences don't free a man. But a twelve-year-old with a private screen in his bedroom at midnight isn't being trusted. He's been abandoned to it. Keeping phones out of bedrooms at night is plain parenting, and it's a good rule for the adults as well.
+- **Warn him about the stranger who asks for a picture.** Boys of earlier generations didn't need this warning. A stranger who looks like a pretty girl may write to your son and ask for a picture. If the boy sends one, the "girl" turns out to be a criminal who demands money and threatens to show the picture to everyone he knows. In the early 2020s the FBI counted more than twelve thousand victims of this in under two years. Most were boys of fourteen to seventeen, and at least twenty of them took their own lives. Tell your son before it happens. Tell him that if it ever does, he can come straight to you and he won't be shamed.
 - **When he's old enough, give him this book.** You're the judge of when.
 
 If you're a mother raising a son without his father, you can say most of this yourself, and he'll survive the embarrassment. If you can't, find a man you trust, a grandfather or uncle or youth leader, and ask him to.
@@ -119,3 +120,5 @@ Now and then you'll get a blank look or a laugh. More often than you'd think, yo
 -->
 
 <!-- 2026-11-19 listener's pass: 'the first section' no longer pointed at the right section (To wives now comes first); the advice is named in place. -->
+
+<!-- 2026-11-20 structure pass (James: right sections in the right chapters, right sizes, one flow): this chapter now comes after 'Now', as an unnumbered chapter, so the man's own road runs unbroken from the final step to the blessing and the people beside him have a chapter of their own to turn to. New bullet in 'To parents' (the stranger who asks for a picture), moved from 'The Men Still on the Ship'. -->

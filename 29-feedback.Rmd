@@ -48,7 +48,7 @@ These are the most common ones.
 
 **"I can't stop thinking about it."**
 
-Of course you can't, and you shouldn't try. Tell yourself not to think of a white horse and see what trots in. It's like chasing sleep: the harder you try, the wider awake you are. The effort is the problem.
+Of course you can't, and you shouldn't try. Tell yourself not to think of a white horse and see what trots in.
 
 It doesn't matter if the subject crosses your mind fifty times a day. What matters is *what* you think when it does. If you think, "I wish I could," or "When will this end?", you'll be miserable. If you think, "I'm free", you'll be glad fifty times a day.
 
@@ -80,37 +80,9 @@ But hear this as well. If you have followed all of it, read the book twice, and 
 
 **"I fell. Am I back to zero?"**
 
-No. There's no counter in this book, so there's no zero to go back to. Confess it today, refuse the second one, and find the lie that crept back. The short chapter after this one, If You Slip, takes you through it.
+No. There's no counter in this book, so there's no zero to go back to. Confess it today, refuse the second one, and find the lie that crept back.
 
-**"Should I tell my wife or my pastor?"**
-
-Secrecy is this habit's power, so the question deserves a straight answer. You've already told God, and that matters most. If you're Catholic, that means Confession too. As for people, here's what I'd do.
-
-*Tell one man.* A pastor or a priest, an elder, or an older friend with some sense. If you have nobody like that, a counselor or a doctor counts, and so does a helpline. If you're under eighteen, tell a parent, a school counselor or a doctor. The apostle James tells believers to confess to one another and pray for one another, and there's a reason. A thing that's been said out loud to another man loses half its size.
-
-But be clear what you're asking him for. You're not hiring a policeman. A weekly "did you or didn't you" is the Willpower Method with a witness, and it keeps the subject at the center of your life. Tell him as a free man giving news: "This had me for years. It's over. I wanted one person to know." Then let him ask whenever he likes.
-
-*Your wife.* A marriage is better with no locked rooms in it, so yes. Tell her, and don't leave it for years. She may already know, or half know.
-
-Be clear what this is to her. To you it has felt like a private habit. To her it may be a betrayal, and she is entitled to call it that. So tell her for her sake. If you only want to unload your guilt so that *you* feel lighter, you're using her again.
-
-Tell her once, and tell her the truth: what it was, for how long, and whether there was porn or another woman. Don't bring it to her as good news. Say something like, "I've hidden this from you for years. I've stopped, and I'll tell you if that ever changes." Don't make her drag it out of you in pieces over six months. Half a confession followed by a second one does more harm than the first. Spare her the details unless she asks, and answer what she asks.
-
-Then let her set the pace. She may be angry, or cold, or want to see your phone, or need time. None of that is a failure to forgive. Trust comes back slowly, and you don't get to say when. Don't ask her to keep score for you. But if she asks to look, show her.
-
-Ask her what she needs, and mean it. If she wants a counselor, a pastor or a friend of her own to talk to, help her get one. If there was an affair, anything against the law, or anything that puts her health at risk, talk to a pastor or counselor first about how to tell her well. Do it soon. If there was another person or paid sex, both of you should see a doctor and be tested before you are intimate again.
-
-She doesn't owe you praise for stopping. You owe her a husband who is all there.
-
-*Nobody else needs to know.* Don't post "Day 1" anywhere. You don't need an audience.
-
-## More questions {-}
-
-**"My body doesn't work properly with my wife. How long until it does?"**
-
-The honest answer is that nobody can give you a date. One medical student who wrote about it was well in a little over a month. One recovery coach went through it himself. He says it was about two and a half months before things worked at all, and another six of gradual progress after that. A few men report longer. A sex therapist who has written a great deal about it asks his patients to pause for a time and then retrains them. He reminds them, again and again, that the restraint is "only temporary". If you are under a therapist's care for this, follow the treatment.
-
-So be patient with your body, and tell your wife what is going on, because the worst part for her is thinking it's her fault. See a doctor too, since medicines and other conditions can cause the same trouble. And don't "test" things on your own in the meantime. You know what that is.
+## Porn, and sex {-}
 
 **"What about porn?"**
 
@@ -149,3 +121,5 @@ So if you're single, the answer is to wait. Don't go looking for somebody to use
 <!-- 2026-11-19 psych review fixes applied (editorial/PSYCH-REVIEW.md): see that file for the reasoning and sources. -->
 
 <!-- 2026-11-19 listener's pass: 'The Appendix lists some' removed, since the Appendix no longer lists helplines. -->
+
+<!-- 2026-11-20 structure pass (James: right sections in the right chapters, right sizes, one flow): two long answers moved to chapters of their own: 'Should I tell my wife or my pastor?' is now the chapter 'Who Needs to Know', and the question about erection trouble with a wife is in 'What Your Body Will Do'. Their source lines above still apply there. 'More questions' renamed 'Porn, and sex'; a pointer to 'If You Slip' cut; one repeated image trimmed. -->

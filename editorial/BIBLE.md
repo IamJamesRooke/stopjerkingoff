@@ -213,3 +213,12 @@ removes an illusion or names a benefit. It never shames.
 
 Rule for sanctity: disgust is aimed at the sell and the trade, never at a woman and
 never at the reader's body.
+
+## Structure pass, 2026-11-20 (James: right sections in the right chapters, right sizes, one flow)
+
+- New chapter **What Your Body Will Do** (22b): the body sections split from The First Weeks, plus the erection-trouble question from Questions Men Ask.
+- New chapter **Who Needs to Know** (28b): the long "Should I tell my wife or my pastor?" answer, moved out of Questions Men Ask to follow The Final Step.
+- **For the People Beside Him** moved to after Now and made unnumbered, so the man's road runs unbroken from The Final Step to the blessing. The Appendix is unnumbered too.
+- The sextortion warning moved from The Men Still on the Ship to "To parents".
+- Fit for Service: David cut to the one point (who was fit for service); the full telling stays in A City Without Walls.
+- Printed order and numbers are listed in STYLE.md. Cuts are in editorial/PARKING.md.

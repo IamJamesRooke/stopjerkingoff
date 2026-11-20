@@ -13,7 +13,7 @@ The little look does damage in two ways:
 1. The Little Monster in your body gets fed, so he lives.
 2. The Big Monster in your head lives too, which is worse. After one "last look", the next comes easier.
 
-Job, the suffering man of the Old Testament whose verse opens this chapter, had the right idea. He didn't promise to look a little. He made a covenant not to. King David took one long look from a rooftop, and it cost him his honor, a loyal soldier's life, and a child.
+Job, the suffering man of the Old Testament, had the right idea. "I made a covenant with my eyes", he said; "how then should I look lustfully at a young woman?" He didn't promise to look a little. He made a covenant not to. King David took one long look from a rooftop, and it cost him his honor, a loyal soldier's life, and a child.
 
 A man who got out called the whole business "just a poisoned cookie." That's the difference between the two methods. The willpower man stands in front of the cookie, telling himself not to take it. You've seen that it's poisoned. You don't have to resist it. You just don't eat it.
 
@@ -28,3 +28,5 @@ Above all, remember:
 - Not quoted: David on the rooftop (2 Samuel 11:2).
 - Scripture (World English Bible): Job 31:1.
 -->
+
+<!-- 2026-11-20 structure pass (James: right sections in the right chapters, right sizes, one flow): Job's verse is now quoted in the body (Job 31:1, WEB, split around 'he said') in place of a pointer to the epigraph. -->
