@@ -12,7 +12,7 @@ Because it isn't a habit.
 
 Jesus had the right word for it. "Everyone who commits sin is the bondservant of sin," he said. A bondservant is a slave. Two thousand years before anyone studied addiction, he had already named it. A man with a habit is in charge of it. This thing is in charge of you. You may call that sin, or addiction, or a trap. This book will use all three, and "the habit" as well, for convenience. But never forget what it is. IT'S A MASTER, NOT A HABIT.
 
-It is one master, too. The thing that sends you to the bathroom is the thing that opens the site. It is the same thing that makes you say yes to a woman you ought to walk away from. Lust wears three coats, and it gives the orders in all of them.
+It is one master, too. The thing that sends you to the bathroom is the thing that opens the site. It is the same thing that makes you say yes to a woman you ought to walk away from. Lust has five heads, and it gives the orders through all of them.
 
 The men who have gotten out reach for the same word without being told. One of them, eight months clean, looked back and counted. He wrote that he had been a slave to it since he was twelve years old. He was thirty.
 
@@ -52,3 +52,5 @@ Before long you'll be one of them. Jesus said, "You will know the truth, and the
 Take the flesh first. It is the smaller of the two, and it is not what you think it is.
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 02-why-is-it-difficult-to-stop.Rmd; the source notes for everything here are in that file. -->
+
+<!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md), wording pass: 'three coats' became 'five heads'. -->

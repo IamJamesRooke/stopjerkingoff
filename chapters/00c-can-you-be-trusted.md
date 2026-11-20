@@ -30,7 +30,7 @@ It isn't long. A few evenings will get you through it. Many men find it helps to
 
 Near the end there is a short chapter called If You Slip. If you fall, during the book or after it, go there. It won't scold you.
 
-Three words come up often. *Lust* means desire turned into taking, with its five heads: the look, the thought, the touch, the chase and the taking. *The habit* means masturbation, with or without porn. *NoFap* is an online movement of men trying to stop both, and many of the men quoted here wrote on its forum. Visit communities like that after you've finished the book, and not before.
+Three words come up often. *Lust* means desire turned into taking, with its five heads: the look, the thought, the touch, the chase and the taking. *The habit* means the first three heads working together, the look, the thought and the hand, because they nearly always arrive as one. When the book means the chase or the taking, it says so. *NoFap* is an online movement of men trying to stop both, and many of the men quoted here wrote on its forum. Visit communities like that after you've finished the book, and not before.
 
 This book was inspired by a free book called [*The Easy Peasy Way to Quit Porn*](https://easypeasymethod.org/), known as EasyPeasy. EasyPeasy was itself a rewrite of Allen Carr's *Easy Way to Stop Smoking*. I borrowed its structure and its method, and the credit for both belongs to them. But porn is only one face of the problem, and this book goes after the root. Any mistakes in applying the method here are mine. Like EasyPeasy, this book is shared under the Creative Commons Attribution-ShareAlike license. You may copy it, share it and adapt it, as long as you give credit and keep the same license. The full text and its history are open to anyone, in a [public repository on GitHub](https://github.com/IamJamesRooke/stopjerkingoff).
 
@@ -49,3 +49,5 @@ I won't wish you luck, because luck doesn't come into it. Grace does.
 <!-- 2026-11-20 (James): the contact address is given here, his explicit exception to the evergreen rule on addresses. The book stays anonymous: no name. The public repository is linked as it is (James, same day: he doesn't need to be that anonymous, he only doesn't want to be the center of the book). -->
 
 <!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md; James approved the two opening drafts): 'three faces' became 'five heads' in the definition of lust. -->
+
+<!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md), wording pass: 'the habit' is now defined as the first three heads together (look, think, touch); the chase and the taking are named when meant. This matches how the word is already used in all 136 places, so those were left alone. -->
