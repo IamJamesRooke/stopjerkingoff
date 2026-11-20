@@ -20,7 +20,7 @@ Now the lies about real women.
 
 **"It's only a little fun. She knew what it was."** Then why did you have to tell yourself so? Using a person is still using her when she agrees to it. Paul's rule, in his first letter to the Christians in Thessalonica, is short: "that no one should take advantage of and wrong a brother or sister in this matter". You already knew that. It is why it never felt like fun the next morning.
 
-She has been lied to as well. She was told that sleeping with a man and expecting nothing from him is freedom. She was told that a pill makes it safe. She was told that if a child comes anyway, the child's life can be ended, as though that would cost her nothing. Nobody told her the price, and nobody asked what she was worth.
+She has been lied to as well. She was told that sleeping with a man and expecting nothing from him is freedom. She was told that a pill makes it safe. She was told that if a child comes anyway, the child's life can be ended, as though that would cost her nothing. Nobody told her the price, and nobody asked what she was worth. If you were part of a choice like that, it is forgiven the same way as everything else in this book. The grief is real, and there is help for it.
 
 You don't have to take that from a church. In 2022 a British journalist named Louise Perry, who had worked at a rape crisis center, wrote a book arguing that the sexual revolution mostly served men who want sex without ties. One of her chapters is called "Consent Is Not Enough". Studies are mixed, and many people say they felt fine at the time. But the regret shows when researchers ask. In one study of Canadian students in 2012, about three in four of those who had sex with no commitment said they had regretted it at some time, the men as well as the women.
 
@@ -31,3 +31,5 @@ None of this is here to add to your guilt. It is here to take away the last excu
 One liar is left, and he is the most persuasive of them all. You have known him all your life.
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 04-the-worlds-lies.Rmd; the source notes for everything here are in that file. -->
+
+<!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): pastor M9: one line of mercy after the abortion sentence. -->

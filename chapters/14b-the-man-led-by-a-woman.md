@@ -4,6 +4,8 @@
 >
 > — Proverbs 7:22
 
+The fourth mouth is the chase. If that has never been you, read this for the man you know who is living it.
+
 There's a man you may recognize at any party. He walks in and goes straight to the women. He doesn't say hello to the men. He buys a round, and every glass goes to a girl. He would tell you he is just a generous, friendly guy.
 
 Here is the test. Does he buy the men a drink? Does he spend as much time talking to the men? A generous man is generous with everybody. This man is spending, and he knows what he is shopping for.
@@ -32,9 +34,9 @@ The man who makes advertisements knows. That is why a pretty girl is leaning on 
 
 None of these people is stronger or cleverer than he is. They don't need to be. They only need to know where the lever is.
 
-## The strongest man who ever lived {-}
+## The strongest man in the Bible {-}
 
-None of this is new. The oldest full account of it is in the Bible, in the book of Judges, and it is about a man named Samson. He was the strongest man who ever lived. God gave him that strength to free his people from their enemies, the Philistines, and no army could hold him. His weakness was women, and his enemies knew it. He fell in love with a woman named Delilah, and the Philistine rulers came to her with an offer. "Entice him, and see in which his great strength lies." Each of them promised her eleven hundred pieces of silver.
+None of this is new. The oldest full account of it is in the Bible, in the book of Judges, and it is about a man named Samson. He was the strongest man in the Bible. God gave him that strength to free his people from their enemies, the Philistines, and no army could hold him. His weakness was women, and his enemies knew it. He fell in love with a woman named Delilah, and the Philistine rulers came to her with an offer. "Entice him, and see in which his great strength lies." Each of them promised her eleven hundred pieces of silver.
 
 Three times she asked him for his secret. Three times he told her a lie, and each time she tried it on him with armed men hiding in the next room.
 
@@ -68,3 +70,5 @@ Samson at least was fooled by a woman he loved. The next man wasn't fooled at al
 <!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). Exact changes are in the report sent to James. -->
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Some sections of this chapter moved to the chapters that follow it; their source notes stay listed here. -->
+
+<!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): reader report 5: a front-door line. Pastor: 'the strongest man who ever lived' became 'in the Bible'. -->

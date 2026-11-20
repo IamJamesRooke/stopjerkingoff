@@ -31,14 +31,6 @@ Few things are sadder than the man who believes that the less he does it, the le
 
 The reverse is true. The less he does it, the longer the itch runs, and the sweeter the scratching feels. He'll also find that the old favorites have stopped working so well. Now he "needs" something a little stronger to make the long wait worth it. That is how a man who swore he'd only ever use his imagination ends up back on his phone.
 
-Hard to believe? Then answer two questions.
-
-What is the hardest part of the week for a Saturdays-only man? The six days of waiting.
-
-And what is the best moment of his week? Saturday night, which is the moment the six days of waiting end.
-
-So which is it? Is he doing it for the joy of the thing? Or is he ending a misery the habit gave him, and calling it a reward he has earned?
-
 You can test this on yourself without changing anything. Don't set yourself a limit while you read. Just think back. Take the days you did it twice. How was the second time? Flat and pointless, more than likely. Now think of a time you'd gone ten days without and then gave in. Fireworks.
 
 The act was the same. Your hand was the same. The memory you used may well have been the same. The only thing that changed was how long you'd been kept waiting. If a thing were truly good, it would still be good the second time. A second helping of mashed potatoes is still mashed potatoes.
@@ -47,9 +39,7 @@ Is the Saturdays-only man in control of anything? Outwardly he's the disciplined
 
 ## Willpower for life {-}
 
-So cutting down doesn't work. It's also a slow kind of torture.
-
-It doesn't work because it rests on a hope: do a thing less and less, and the wish for it will shrink. That's how ordinary habits behave, and this isn't an ordinary habit. An appetite that is fed, even a little, comes back asking for more. It never asks for less. So to hold the line at once a week, a man has to push back against the pull with willpower and discipline. He has to keep pushing every day until he dies.
+Cutting down doesn't work, because it rests on a hope: do a thing less and less, and the wish for it will shrink. That's how ordinary habits behave, and this isn't an ordinary habit. An appetite that is fed, even a little, comes back asking for more. It never asks for less. So to hold the line at once a week, a man has to push back against the pull with willpower and discipline. He has to keep pushing every day until he dies.
 
 **Cutting down means willpower for life.**
 
@@ -109,3 +99,5 @@ Which leaves the smallest request of all: just once. The answer to it comes from
 <!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md), callback added: one sentence: a smaller head is still a head. -->
 
 <!-- 2026-11-20 (James: keep everything from the Bible as much as possible): Hydra wording replaced by the empty house and the five mouths. -->
+
+<!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): reader report 2: the two-questions passage repeated point four of the list above it and is cut; one opening sentence merged. -->

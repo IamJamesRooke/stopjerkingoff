@@ -6,7 +6,7 @@
 
 Here are the instructions. Follow them and you'll find stopping somewhere between easy and enjoyable. There are only two:
 
-1. **Decide that you are finished with lust: the porn, the hand and the chase. Never again.**
+1. **Decide that you are finished with lust, all five mouths of it. Never again.**
 2. **Don't mope about it. Rejoice.**
 
 The Bible has older names for both. The first is *repentance*. The word doesn't mean feeling terrible. It means a change of mind: you turn around and walk the other way. The second is *receiving grace*. You're forgiven, so you act like a forgiven man.
@@ -94,3 +94,5 @@ So what will the first weeks actually feel like?
 <!-- 2026-11-20 structure pass (James: right sections in the right chapters, right sizes, one flow): chapter counts removed (the numbering changed); heading 'The thread pays off' renamed 'A man who can be trusted'; the two-kinds-of-sorrow paragraph shortened because 'The Locked Door' now explains it with 2 Corinthians 7:10. -->
 
 <!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). -->
+
+<!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): method L2: instruction one named three faces. -->

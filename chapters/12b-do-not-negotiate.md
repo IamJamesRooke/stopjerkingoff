@@ -35,7 +35,7 @@ The best thing you can do is also the only thing. Respect her decision, and stop
 - **Expect nothing from it.** If she were ever to think differently, it would be her doing and on her terms. It would never be because you pushed.
 - **You are thinking like a starving man.** She is not the only woman in the world. There are women who would be glad of you, and you could be with one who wants you back.
 
-It will feel unbearable for a few days, and it is only the itch. If you find you can't stop, tell a doctor or a counselor today. In many places this is also a crime.
+It will feel hard for a few days. That is only the itch, and it passes. If you find you can't stop, tell a doctor or a counselor today. In many places this is also a crime.
 
 ## Your own stalker {-}
 
@@ -63,3 +63,5 @@ So don't pick up. The cure is the one de Becker gave, which is none at all. A ca
 So how does a caller like that ever get through?
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 13-just-once.Rmd; the source notes for everything here are in that file. -->
+
+<!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): method M2: 'unbearable' contradicted the same chapter. -->

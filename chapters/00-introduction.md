@@ -4,7 +4,7 @@ While you read, please don't start a willpower campaign. Make no vows, start no 
 
 That probably sounds backward. Everything you've been told says the opposite: try harder, pray harder, hide the phone, reset the counter. Has any of it worked? If it had, you wouldn't be holding this book.
 
-One caution. None of this is permission to hurt anyone. If lust has you in an affair, or using a woman, or doing anything against the law, stop that today. You don't need the last page for that.
+One caution. None of this is permission to hurt anyone. If lust has you in an affair, paying for sex, pressing a woman who has said no, or doing anything against the law, stop that today. Someone else is paying for it, and you don't need the last page for that. Everything else ends at the final step, with no campaign before it.
 
 ## Before you go on {-}
 
@@ -117,3 +117,5 @@ SOURCES (Introduction): every quote below is from the research files; check each
 <!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md; James approved the two opening drafts): 'One root, three faces' became 'One beast, five heads' (look, think, touch, chase, take). The line about the man who quit porn twice moves to the new chapter 'The Back Door'. One question added to 'Is this you?' (using a woman for a night). -->
 
 <!-- 2026-11-20 (James: keep everything from the Bible as much as possible): Hydra wording replaced by the empty house and the five mouths. -->
+
+<!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): method M1: the exception for harm to another person is now explicit. -->

@@ -30,7 +30,7 @@ That leaves the practical question, which comes in two forms.
 
 Some men stop but keep an escape hatch: the saved folder, the account they still follow "for the workouts", or a private rule that says, "If it gets really bad I'm allowed one."
 
-They think the hatch makes them braver. It does the reverse. A hatch is a door left open an inch, and the Little Monster hears it as hope. Men who keep a way back tend to use it. When a bad moment comes, using the hatch costs nothing, because the excuse was written in advance. A man who'd have to smash his own word will usually wait, and while he waits the urge passes.
+They think the hatch makes them braver. It does the reverse. A hatch is a door left open an inch, and the Little Monster hears it as hope. Men who keep a way back tend to use it. When a bad moment comes, using the hatch costs nothing, because the excuse was written in advance. A man with no hatch has nothing to bargain with, and the urge passes.
 
 But the main reason these men fail is that they were never fully committed. The two essentials are:
 
@@ -83,3 +83,5 @@ If it's this good while the Little Monster is still twitching, think what it'll 
 <!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). -->
 
 <!-- 2026-11-20 (James): callback to the four instructions from 'Just Once' (say it once and outright; give no reason; don't let him down gently; never answer again), restated in place with no pointer back. -->
+
+<!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): method L4. -->

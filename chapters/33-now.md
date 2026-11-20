@@ -6,7 +6,7 @@
 
 You've reached the end of the book. Congratulations. I mean that as plainly as I can say it. You were caught in something that holds most men for life, and you walked out. You'll discover over the coming months that life was better than you thought it was. The habit had been standing in front of it.
 
-Look back at the house for a moment. The tenant was fed through five mouths: the look, the thought, the touch, the chase and the taking. You didn't get rid of him by sweeping harder. You saw that he had never paid a day's rent, and then there was no room left for him to come back to. He may still telephone. Let it ring.
+Look back at the house for a moment. The tenant was fed through five mouths: the look, the thought, the touch, the chase and the taking. You didn't get rid of him by sweeping harder. You saw that he had never paid a day's rent, and then there was no room left for him to come back to. If an old thought ever drifts past, you know what it is. Let it go by.
 
 ## Today is the only day you've got {-}
 
@@ -28,7 +28,7 @@ Right now, as you read, nothing is wrong. You're free, you're forgiven, and you'
 
 ## What goes in the space {-}
 
-Something has changed. You have a cleared space. You've got back the hours, the energy and the attention that the habit used to eat. An empty room doesn't stay empty for long, so decide what goes in it.
+Something has changed. You have your space back: the hours, the energy and the attention that the habit used to eat. The room was never his, and it isn't empty. It's yours. Spend it well.
 
 For a Christian that means God first: not as a guard posted at the door, but as the one you were made to enjoy. Pray like a man with nothing to hide, because you have nothing to hide. Open the Bible because you want to. Sit in church without the old feeling of being a fraud in a pew.
 
@@ -89,3 +89,5 @@ You're free, and you're fit for service. Go in peace.
 <!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md), callback added: the payoff paragraph after the opening: five heads, nothing grew back, one voice under the rock. -->
 
 <!-- 2026-11-20 (James: keep everything from the Bible as much as possible): Hydra wording replaced by the empty house and the five mouths. -->
+
+<!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): method H3 and H5: no lifelong caller; 'an empty room doesn't stay empty for long' (substitute logic) became 'the room was never his, and it isn't empty'. -->

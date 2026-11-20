@@ -2,6 +2,8 @@
 
 There is a bigger theme under all of this, and it is self-control. **A man who can't control his lust can't be trusted.** His partner can't fully trust him. His employer can't. Worst of all, he can't trust himself, because he has broken his own word too many times.
 
+That is not an accusation. It was true of the man writing this, and it is the reason this book exists.
+
 A Benedictine monk once gave this advice to women who want to marry: "Marry a man who can fast." He meant a man who has learned to say no to himself. Proverbs says the same from the other side. A man without self-control is like a city with its walls broken down.
 
 Picture a soldier who shows up for duty drunk. He may be on the right side. He may even be loved. He is still unfit for service, and the men beside him go without the support they were counting on. A man ruled by lust is like that. You were made for something. This book is about getting you fit for it.
@@ -53,3 +55,5 @@ I won't wish you luck, because luck doesn't come into it. Grace does.
 <!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md), wording pass: 'the habit' is now defined as the first three heads together (look, think, touch); the chase and the taking are named when meant. This matches how the word is already used in all 136 places, so those were left alone. -->
 
 <!-- 2026-11-20 (James: keep everything from the Bible as much as possible): Hydra wording replaced by the empty house and the five mouths. -->
+
+<!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): reader report 11: the line is kept as James decided, and framed so it doesn't land as an accusation. -->

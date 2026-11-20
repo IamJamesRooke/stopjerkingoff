@@ -4,7 +4,7 @@
 >
 > — John 8:32
 
-Jesus once described what happens when a man gets rid of something evil by force and stops there. He told it as a story about a house.
+Jesus once told a story about a house that was cleaned out and then left empty.
 
 An unclean spirit goes out of a man. It wanders about, finds nowhere to rest, and says, "I will return into my house from which I came out". It comes back and finds the house "empty, swept, and put in order". So it goes and fetches seven other spirits, each one worse than itself, and they all move in. Jesus finishes the story in one sentence: "The last state of that man becomes worse than the first."
 
@@ -28,9 +28,9 @@ Once a man has seen that, there is no vacancy. There is nothing for the tenant t
 
 Jesus gave the order of things in one line: "You will know the truth, and the truth will make you free." He was speaking of his own teaching, and a Christian will take it that way. But notice the order, because it holds for any man. Knowing comes first, and freedom follows. He didn't say that effort will make you free.
 
-A Christian will add one thing. A house isn't meant to stand empty. It has an owner, and he would like to live in it.
+A Christian will say more. Jesus's story is about a house left empty, and a house isn't meant to stand empty. It has an owner, and he means to live in it. He doesn't come as a substitute for the tenant. He was the owner all along.
 
-Jesus said seven came back. Count the ways your own tenant is fed, and you will find five. Call them his five mouths. You can count them on one hand.
+In Jesus's story the spirit came back with seven others. Count the ways your own tenant is fed, and you will find five. Call them his five mouths. You can count them on one hand.
 
 **Look.** Porn is the big one, in every form it comes in. But the feed full of half-dressed strangers belongs here too. So does the second glance at a woman in the street, the one you take on purpose.
 
@@ -52,3 +52,5 @@ But before we look at what he has paid, one question has to be settled. Five mou
 
 <!-- 2026-11-20 (James: "keep everything from the Bible as much as possible"): this chapter REPLACES "The Hydra", written and withdrawn the same day. James doubted that the Greek myth matched the rest of the book, after it needed two repairs (what the fire meant, and whether the sword made willpower necessary). The frame is now Jesus's picture of the swept and empty house.
 SOURCES: Matthew 12:43-45 (WEB, checked 2026-11-20). Quoted verbatim: "I will return into my house from which I came out" (the WEB's inner quotation), "empty, swept, and put in order", and "The last state of that man becomes worse than the first." The rest is retold. Jesus applies the saying to "this evil generation"; the book uses it as his picture of how a thing put out by force returns, and says plainly that it is not telling the reader he has a spirit. Epigraph and body quotation: John 8:32, second sentence (WEB, checked 2026-11-20); the text notes that he was speaking of remaining in his word (8:31). "Tenant" picks up the Little Monster chapter's "you have a tenant ... he pays no rent"; the Little Monster is not named here because the reader has not met him yet. The five (look, think, touch, chase, take) are this book's own list. -->
+
+<!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): pastor M1: Jesus doesn't say 'by force'; it is one spirit with seven others; the owner of the house gets full weight and is not a substitute. -->

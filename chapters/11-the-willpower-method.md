@@ -8,7 +8,7 @@ Everybody knows that stopping is hard. The forums say so. The apps say so. The m
 
 The truth is that it's absurdly easy.
 
-I know how that sounds. Bear with me. If I told you to run a marathon in under three hours, that would be hard. You'd need years of training, and you might not have the legs for it however hard you trained. But stopping the habit doesn't ask you to *do* anything. You only have to not do something. Nobody is holding you down and making you. Your body doesn't need it the way it needs bread and water. So if you want to stop, where exactly is the difficulty?
+I know how that sounds. I'm not saying your own attempts were easy. They were every bit as hard as you remember. I'm saying the hardness came from the method. Bear with me. If I told you to run a marathon in under three hours, that would be hard. You'd need years of training, and you might not have the legs for it however hard you trained. But stopping the habit doesn't ask you to *do* anything. You only have to not do something. Nobody is holding you down and making you. Your body doesn't need it the way it needs bread and water. So if you want to stop, where exactly is the difficulty?
 
 There isn't one. Men create the difficulty themselves, by using the Willpower Method. I mean any way of quitting that leaves you feeling you've sacrificed something. It is the same method whether the thing is porn, the hand or a woman you keep going back to. A man blocks the sites and unblocks them. He deletes her number and finds it again. We'll follow the habit here, because it shows the pattern most plainly.
 
@@ -86,3 +86,5 @@ That is the method at its best. Now add a scoreboard.
 <!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md), callback added: one short paragraph: willpower is the sword with no fire. -->
 
 <!-- 2026-11-20 (James: keep everything from the Bible as much as possible): Hydra wording replaced by the empty house and the five mouths. -->
+
+<!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): reader report 6: one honest clause for the man with many failed attempts. -->

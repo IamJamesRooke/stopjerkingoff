@@ -20,7 +20,7 @@ This part is for you, and it is about you. It isn't about how to help him.
 
 **You set the pace.** He may stop in a day. Trust comes back more slowly, and you don't have to hurry it to reward him. If you want to see his phone, ask, and he should show you. If you don't want that job, you don't have to take it. You are not responsible for whether he stays free, and a fall of his is never your fault.
 
-**Your no is yours.** You don't owe him sex to keep him from the habit. Paul tells husbands and wives not to deprive each other, and he says it to both of them alike. But that is a gift between two people. It is never a debt he can collect, least of all after he has broken your trust. Being tired, sick or hurt is never his excuse, and this book tells him so. If closeness comes back, it comes at your speed.
+**Your no is yours.** You don't owe him sex to keep him from the habit. Paul does say that husband and wife owe each other this, and he says it to both of them alike. But he never gives a husband the right to take it, least of all after he has broken your trust. Being tired, sick or hurt is never his excuse, and this book tells him so. If closeness comes back, it comes at your speed.
 
 **You don't owe him cheerfulness.** If he is short-tempered in the first weeks, that is his to carry. You don't have to praise him, manage his mood or make life pleasant for him. Encourage him if you want to. It isn't a duty.
 
@@ -122,3 +122,5 @@ Now and then you'll get a blank look or a laugh. More often than you'd think, yo
 <!-- 2026-11-19 listener's pass: 'the first section' no longer pointed at the right section (To wives now comes first); the advice is named in place. -->
 
 <!-- 2026-11-20 structure pass (James: right sections in the right chapters, right sizes, one flow): this chapter now comes after 'Now', as an unnumbered chapter, so the man's own road runs unbroken from the final step to the blessing and the people beside him have a chapter of their own to turn to. New bullet in 'To parents' (the stranger who asks for a picture), moved from 'The Men Still on the Ship'. -->
+
+<!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): pastor M3: 'never a debt' contradicted 1 Corinthians 7:3. -->

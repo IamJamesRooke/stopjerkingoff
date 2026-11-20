@@ -1,6 +1,6 @@
 # At Least I'm Not Him {#at-least-im-not-him}
 
-Three more men have an "at least" that sounds like a good one. Each is sure he is not as bad as the next man. Take them in turn.
+Three men in the trap have an "at least" that sounds like a good one. Each is sure he is not as bad as the next man. Take them in turn.
 
 ## The married man {-}
 
@@ -50,8 +50,10 @@ Jesus told a story about two men who went up to the temple to pray. The first wa
 
 There aren't really any types. There's one trap, and men are standing at different depths in it. The way out is the same for all of them.
 
-One thing has kept all of this alive for years, and it isn't desire. It is a locked door.
+Every one of these men is feeding the same small monster, through one or more of his five mouths. So take the five one at a time, beginning where lust always begins.
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 14-types-of-user.Rmd; the source notes for everything here are in that file. -->
 
 <!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md): 'The collector' section moved, unchanged, to the new chapter 'The Collector and the Customer'. 'Four men' became 'Three more men'. This chapter now comes after the five heads and before 'The Locked Door', so its last line is the locked-door hook that used to end 'Mothers, Sisters, Daughters'. -->
+
+<!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): reader report 5: this chapter moved back to follow 'The Ladder'; its last line now leads into the five mouths. -->

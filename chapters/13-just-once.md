@@ -66,7 +66,7 @@ Cain didn't listen. He took his brother out into the field and killed him.
 
 Hear the warning again, because it is de Becker's picture, thousands of years before there was a telephone. Something is crouching at your door. It wants you. It will not go away because you ask it nicely. And Cain only had to open the door once.
 
-You are to rule over it. Ruling doesn't mean wrestling him on the doorstep. It means the door stays shut.
+You are to rule over it. Ruling doesn't mean wrestling him on the doorstep, or leaning on the door all night. Nothing is leaning on it. It means you don't open it, and once you've seen what is outside, you have no wish to.
 
 A Christian will tell you who sends the caller. The devil wants your soul. And the devil doesn't need to defeat you if he can distract you. So he sends the Little Monster, because the Little Monster works. One small thing that calls and calls is enough to shut a man down. It keeps him from using what God gave him to advance the Kingdom of Heaven.
 
@@ -74,7 +74,7 @@ Look at what he sent, though. He didn't send a dragon. He sent a pipsqueak with 
 
 If you don't believe in a devil, keep the picture anyway. Something is keeping you from being all that you could be, and it does it with nothing stronger than a nagging call. Nobody stalks a man who isn't worth having.
 
-Leave the door shut. James, one of the first leaders of the church, put it as a promise: "Resist the devil, and he will flee from you."
+Don't open the door. James, one of the first leaders of the church, put it as a promise: "Be subject therefore to God. Resist the devil, and he will flee from you." To resist him is simply not to answer. He has nothing else.
 
 <!-- SOURCES (Chapter 13): every quote below is from the research files; check each against its page before publishing.
 - "Within seconds after cumming, the phase shift in mental acuity that I felt was simply astounding." — r/NoFap, "decided to relapse on purpose to see if my…", http://www.reddit.com/r/NoFap/comments/1d3k4w/decided_to_relapse_on_purpose_to_see_if_my/ (via YBOP, https://www.yourbrainonporn.com/rebooting-porn-use-faqs/what-is-the-chaser/; Reddit original not opened. The book reads the "phase shift" as a change for the worse and assumes "a long break"; check the thread.)
@@ -131,3 +131,5 @@ Leave the door shut. James, one of the first leaders of the church, put it as a 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). The first three sections (Do not negotiate; If you find yourself obsessed with a woman; Your own stalker) moved to the chapter before this one, 12b-do-not-negotiate.Rmd; their source notes stay listed here. -->
 
 <!-- 2026-11-20 quote check: the Luther line is a paraphrase of the saying widely quoted in his name ("The best way to drive out the devil, if he will not yield to texts of Scripture, is to jeer and flout him, for he cannot bear scorn"; C.S. Lewis used it as an epigraph to The Screwtape Letters). The book paraphrases and does not quote, and softens "texts of Scripture" to "any other way". Fine to record as it stands. -->
+
+<!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): method H1 and pastor M7: 'the door stays shut' (a siege) became 'you don't open it'; James 4:7 is now quoted whole, with one line saying that to resist is not to answer. -->

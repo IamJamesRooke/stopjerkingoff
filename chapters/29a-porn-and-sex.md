@@ -14,6 +14,8 @@ The Bible's answer is old and simple: keep sex for marriage. The letter to the H
 
 If you've already lived the other way, this isn't here to pile on guilt. Nobody who wrote this book is an angel. Christians aren't the people who got it right. They're the people who finally admitted they couldn't, and asked for help. That's the heart of the whole faith. Look honestly and you find you aren't as good as you thought. Nobody is, and nobody gets there alone.
 
-So if you're single, the answer is to wait. Don't go looking for somebody to use in place of your hand. That's the same lust, only now there's a victim. And if you're carrying a past, it's forgiven the same way as everything else in this book. You confess it, and you start again.
+So if you're single, the answer is to wait. Don't go looking for somebody to use in place of your hand. That is the same lust with another person in it. And if you're carrying a past, it's forgiven the same way as everything else in this book. You confess it, and you start again.
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 29-feedback.Rmd; the source notes for everything here are in that file. -->
+
+<!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): reader report 3 and 5. -->

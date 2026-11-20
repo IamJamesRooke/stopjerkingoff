@@ -48,7 +48,7 @@ That's the cost of the thought life. Each time, the cell gets a little more comf
 
 ## Taking thoughts captive {-}
 
-So what does a man do with a head like that? Paul, writing to the church in the Greek city of Corinth, gives it one line: "bringing every thought into captivity to the obedience of Christ". The picture is a soldier's. A thought turns up, and you don't let it wander where it likes. You take it prisoner. You decide where it goes, and it doesn't decide where you go.
+So what does a man do with a head like that? Paul, writing to the church in the Greek city of Corinth, gives it one line: "bringing every thought into captivity to the obedience of Christ". The picture is a soldier's. A thought turns up at the gate. It doesn't get to wander where it likes. It is seen for what it is, and it goes no further.
 
 That doesn't mean "try not to think about it". You've tried that, and you know it turns the thought into the biggest thing in the room. An old saying puts it better. You can't stop a bird flying over your head, but you can stop it building a nest in your hair.
 
@@ -56,7 +56,7 @@ The bird is the first thought. It comes by itself, and it is no sin and no failu
 
 Watch a nest being built. A man is at the gym, and a woman walks past. He thinks, "She's attractive." That is the bird, and so far nothing has happened. Then he plays it forward in his head. Then he tells himself, "Nobody's hurt. It's only a thought." And tonight, when he is alone, he will feel that he is making a choice. He isn't. The choice was made at the gym, when he let the bird stay.
 
-So the place to act is the beginning, where it costs almost nothing. One man who had broken the habit wrote, "The easiest thought for me to say, 'No' to, is the first one. And if I don't entertain the thought, I'm not going to do it."
+So the place to act is the beginning, where it costs almost nothing. One man who had broken the habit wrote, "The easiest thought for me to say, 'No' to, is the first one. And if I don't entertain the thought, I'm not going to do it." Notice that he isn't fighting the thought. He simply doesn't invite it in.
 
 That is the whole instruction. Let the bird fly over. Don't build it a nest.
 
@@ -65,3 +65,5 @@ It's far easier than you fear. A man builds the nest for one reason: he believes
 That deals with the women who aren't there. Now for the ones who are.
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 15-fantasy-and-the-thought-life.Rmd; the source notes for everything here are in that file. -->
+
+<!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): method M3: the gloss on 2 Corinthians 10:5 no longer reads as a soldier's effort. -->

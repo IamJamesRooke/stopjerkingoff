@@ -38,7 +38,7 @@ Men who have walked out and lived happily for years do go back in. I hope this b
 
 **Don't fall for that.**
 
-However long you've been free, and however sure you are that you could never be caught again, keep one lifelong rule: not once, for any reason. A lonely anniversary doesn't count as a reason. Neither does "to help me sleep", or "just to see". The old tenant isn't dead. He has been put out, and he may telephone now and then for the rest of your life. He can't get back in, unless you go and open the door.
+However long you've been free, and however sure you are that you could never be caught again, keep one lifelong rule: not once, for any reason. A lonely anniversary doesn't count as a reason. Neither does "to help me sleep", or "just to see". The Little Monster starves and stops calling. But years from now, on some odd evening, an old thought may drift past, the way you still reach for the light switch in a house you moved out of long ago. Nothing is behind it. It is only the memory of a call. Notice it, smile, and don't pick up. "Just once" is the one thing that could put a tenant back in the room.
 
 The rule is strict, and the grace is real. A man who falls confesses it that day, refuses the second one, and gets up. Don't plan on needing that.
 
@@ -53,3 +53,5 @@ One question is left. Who needs to know?
 <!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md), callback added: 'The old inclination is asleep. Don't wake it.' became the immortal head under the rock (four sentences). -->
 
 <!-- 2026-11-20 (James: keep everything from the Bible as much as possible): Hydra wording replaced by the empty house and the five mouths. -->
+
+<!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): method H3: the tenant no longer telephones for life; the Little Monster starves, and what is left is the memory of a call. -->

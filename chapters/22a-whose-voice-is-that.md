@@ -4,7 +4,7 @@ One more tool, for the man who has seen through every lie in this book and still
 
 **The old lie speaks in your voice and says "I".** The Little Monster is only an itch, and an itch can't talk. The voice belongs to the Big Monster. He never says, "This is your old habit speaking." He says, "I could do with it tonight." "I've had a rough week." "I deserve something." It sounds exactly like your own thinking, so you take it for your own.
 
-There's a simple test. Say No, plainly, and listen to what comes back. The grammar changes. "I could do with it" becomes "Oh, come on, *you* know you want to." Something that has to switch to "you" in order to keep arguing with you isn't you.
+There's a simple test. Don't argue and don't agree. Just let the thought sit there, and listen to what comes next. The grammar changes. "I could do with it" becomes "Oh, come on, *you* know you want to." Something that has to switch to "you" in order to keep arguing with you isn't you.
 
 You've caught him.
 
@@ -32,3 +32,5 @@ None of this is a fight. You are letting something starve, and you can be cheerf
 Your body, meanwhile, will do a few things nobody warned you about.
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 22-the-first-weeks.Rmd; the source notes for everything here are in that file. -->
+
+<!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): method H2: the test no longer asks for a fresh No each time. -->

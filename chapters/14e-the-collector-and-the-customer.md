@@ -6,6 +6,8 @@ Most men who have fed this one are neither collectors nor customers. They simply
 
 There was also a woman in that bed. Perhaps she hoped it meant something, and it didn't. Or perhaps she was using him exactly as he was using her. Then two people took a hit, and nobody was given a gift.
 
+This chapter is for the man who has gone home with a woman he didn't mean to keep. If that has never been you, it is a short one, and you know a man it fits.
+
 Two men have gone further up this road than the rest. Look at them closely, because each has an "at least", and each believes it.
 
 ## The collector {-}
@@ -28,9 +30,9 @@ Here is a question for any man, believer or not. If you had lived as though the 
 
 ## The customer {-}
 
-The customer's "at least" is that it's honest. For him it may be an escort, a massage parlor with a back room, or a trip abroad to a place where sex is cheap and nobody knows him. He pays a fair price, he says, and they are two adults. Look at what he can't know. He can't know whether she chose this. In every country police keep finding women in this trade who are held there by a debt, a threat or a passport locked in someone else's drawer. He can't know her age. He can't know what he is carrying home to the woman he lives with. In many places he is also committing a crime, and one arrest can cost him his job and his name.
+The customer's "at least" is that it's honest. For him it may be an escort, a massage parlor with a back room, or a trip abroad to a place where sex is cheap and nobody knows him. He pays a fair price, he says, and they are two adults. Look at what he can't know. He can't know whether she chose this. In every country police keep finding women in this trade who are held there by a debt, a threat or a passport locked in someone else's drawer. He can't know her age.
 
-And for all that risk he buys the same ten minutes and the same flat feeling afterward, at a higher price. It is the porn habit with the screen taken away. The man who watches porn is already a customer. This man has only walked up to the counter.
+And for all that he buys the same ten minutes and the same flat feeling afterward, at a higher price. It is the porn habit with the screen taken away. The man who watches porn is already a customer. This man has only walked up to the counter.
 
 ## The married man who strays {-}
 
@@ -43,3 +45,5 @@ The last case is harder. This man means to keep her.
 <!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md): NEW CHAPTER for the fifth head, Take. 'The collector' is moved unchanged from 'At Least I'm Not Him' (an illustration, not a testimony; see the notes in 14-types-of-user.md). 'The customer' is the Ladder's long 'man who buys it in person' bullet, moved, with a new first sentence; its facts were checked 2026-11-19 (research/round8/findings.md). New: the opening on the ordinary hookup, and the three sentences on the married man who strays. No new quotations or statistics. -->
 
 <!-- 2026-11-20 (James: keep everything from the Bible as much as possible): Hydra wording replaced by the empty house and the five mouths. -->
+
+<!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): method M6: two risk-list sentences cut from 'The customer' (the trafficking sentences stay). Reader report 5: a front-door line. -->

@@ -30,7 +30,7 @@ Hear again what Jesus said: "everyone who gazes at a woman to lust after her has
 
 Notice what he doesn't say. He doesn't say that seeing a beautiful woman is a sin, or that a thought arriving is a sin. A veteran of the recovery forums put the distinction well: "Admiration of beauty is not lust, know the difference." The difference is in three small words: "to lust after". That's a look with a purpose. It's the second look, the lingering one, the one you go back for. Most men know which kind they're doing.
 
-A word for the man who doesn't. Some men get stuck checking whether a look or a thought was a sin, and go round it for hours. If that is you, read this book differently. When you can't tell, treat it as noticing and move on. Don't confess the same thing twice. You will never feel certain, so don't wait to. This kind of checking has a name, scrupulosity. It can be treated, and a doctor or a counselor can help.
+A word for the man who doesn't. Some men get stuck checking whether a look or a thought was a sin, and go round it for hours. If that is you, read this book differently. When you can't tell, treat it as noticing and move on. Don't confess the same thing twice. You will never feel certain, so don't wait to. This kind of checking has a name, scrupulosity. It can be treated, and a doctor or a counselor can help. If you're Catholic, tell your confessor as well. Priests know this well.
 
 For everyone else, be honest about the scroll. It is a purposeful gaze pretending to be an accident.
 
@@ -66,3 +66,5 @@ But suppose you never touch a screen at all. Suppose you are faithful. Are you s
 <!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). Exact changes are in the report sent to James. -->
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Some sections of this chapter moved to the chapters that follow it; their source notes stay listed here. -->
+
+<!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): pastor: the Catholic line on scrupulosity. -->

@@ -1,6 +1,6 @@
 # The King Who Turned His Face to the Wall {#the-king-who-turned-his-face-to-the-wall}
 
-Samson, the strongest man who ever lived, was led by a woman he wanted. The next man is a quieter case, and more men are like him. He was a king named Ahab, and his wife was Jezebel.
+Samson was led by a woman he wanted. The next man is a quieter case, and more men are like him. This chapter is for the man who lives with a woman. He was a king named Ahab, and his wife was Jezebel.
 
 Ahab wanted a vineyard that lay next to his palace. The owner, a man named Naboth, wouldn't sell. The land had been in his family for generations. So the king went home. He "laid himself down on his bed, and turned away his face, and would eat no bread." He was a grown man and a king, and he sulked like a child because someone had told him no.
 
@@ -39,3 +39,5 @@ That is the chase. Samson and Ahab were led. The next man is sure that he is the
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 14b-the-man-led-by-a-woman.Rmd; the source notes for everything here are in that file. -->
 
 <!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md): the head-by-head section was reordered, so the closing hook now leads to 'The Collector and the Customer'. -->
+
+<!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): reader report 5: a front-door line; 'the strongest man who ever lived' dropped here. -->

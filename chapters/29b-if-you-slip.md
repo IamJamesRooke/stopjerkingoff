@@ -29,7 +29,7 @@ The forums call it a "relapse" and reset the counter. The word does damage of it
 - **"I'll never be free."** One slip has become a life sentence. Would you say that to a friend?
 - **"From now on I must be perfect: up at five, cold shower, an hour of prayer, no sugar."** Here guilt has dressed itself up as discipline. You'll keep it up for four days, collapse, and reach for comfort.
 - **"Other men are on day two hundred and I can't manage twenty. I must be a hopeless case."** You're comparing yourself with a number on a stranger's screen. You don't know how he's doing, and it doesn't matter.
-- **"I shouldn't even feel desire."** Yes, you should. Desire is God's idea. You're a man and not a statue. Noticing that a woman is beautiful is not a fall. The sin was never the noticing. It was the taking.
+- **"I shouldn't even feel desire."** Yes, you should. Desire is God's idea. You're a man and not a statue. Noticing that a woman is beautiful is not a fall. The sin was never the noticing. It was the second look, the one you take on purpose.
 
 Every one of those thoughts feels like repentance, and none of them is. Repentance is quick and it faces forward.
 
@@ -39,7 +39,7 @@ Religious men get one snare all to themselves.
 
 A man follows this method and finds stopping easy. Then he feels guilty that it was easy. Surely, after all those years, it ought to cost something. Surely he should suffer a little, as payment. So some part of him sets about making it hard. He broods and punishes himself. He even half welcomes a fall, so that he can feel truly wretched afterward.
 
-See that for what it is. It's the old lie dressed up as holiness. If you're a Christian you know perfectly well who paid, and it wasn't you. Brooding and self-punishment aren't humility. The debt was paid in full, by Christ. If you're Catholic and your priest gives you a penance, that is a different thing. It's medicine for the soul, and it adds nothing to the bill. You don't owe misery on top, so take the freedom and be glad of it.
+See that for what it is. It's the old lie dressed up as holiness. If you're a Christian you know perfectly well who paid, and it wasn't you. Brooding and self-punishment aren't humility. The debt was paid in full, by Christ. If you're Catholic and your priest gives you a penance, that is a different thing. It's medicine for the soul. It doesn't pay for your forgiveness. Christ did that. You don't owe misery on top, so take the freedom and be glad of it.
 
 ## The hard journey of not drinking bleach {-}
 
@@ -80,3 +80,5 @@ If you slipped, the lesson is not "try harder". Somewhere you started believing 
 <!-- 2026-11-20 (James: should be 55): now a numbered chapter (printed Ch 55); the chapters after it move up one and the book ends at 58, Now. The page URL is unchanged. -->
 
 <!-- 2026-11-20 (James: the pebble adaptation lost the effect of the original; copy the original and give credit): the invented pebble forum is replaced by Guillaco's bleach forum, taken from EasyPeasy's chapter "Advice to Non-users", section "Slipping (relapse)" (source file 29-advice-to-non-users.Rmd, https://gitlab.com/snuggy/easypeasy, content CC BY-SA 4.0; EasyPeasy spells the name "Gulliaco" in that chapter and "Guillaco" in its Resources list, which links meditations.pdf). The forum welcome and the five posts are the original with light edits for grammar and reading aloud (e.g. "19" spelled out, "container" became "cupboard", "after debating with myself whether I should do it or not" became "after debating with myself all day"). The two short quotations in the paragraph after the posts are verbatim. Left out: his "hackbook" paragraph and the "watch a glass for five minutes" exercise. The pebble version is kept in editorial/PARKING.md. -->
+
+<!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): pastor M2 and the penance line. -->
