@@ -12,7 +12,7 @@ One man in the trap put the entire thing in seven words:
 
 That is the only reason any man carries on, whether he does it three times a day or twice a month. He's feeding the Little Monster.
 
-And the Little Monster isn't picky. A video feeds him. A fantasy feeds him. A long look at a stranger feeds him, and so does a flirty message from a woman you have no business messaging. It's all one diet.
+And the Little Monster isn't picky. A video feeds him. A fantasy feeds him. A long look at a stranger feeds him, and so does a flirty message from a woman you have no business messaging. It's all one diet. The Hydra had five heads. He is the one small body under them.
 
 Here is the cruelest part. The "pleasure" a man gets from it is mostly the pleasure of getting back to how he'd have felt anyway. He's trying to return to the peace and ease he had as a boy, before any of this started. And he keeps using the very thing that took it from him.
 
@@ -61,3 +61,5 @@ Notice, too, where the excitement actually is. It's in the lead-up: the door cli
 And the lead-up has a problem. It never stays the same size.
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 03-the-flesh.Rmd; the source notes for everything here are in that file. -->
+
+<!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md), callback added: two sentences after 'It's all one diet.' naming the Little Monster as the small body under the five heads. -->

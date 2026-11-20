@@ -10,7 +10,7 @@ Sometimes he means it as a stepping stone: "I'll ease off gradually, and then I'
 
 "Never again is too much to ask. So from now on it's Saturdays only. Or only in the shower. Or only from my own head, with no screen. If I can hold it there for a while, I'll trim it further, and one day it will just fade out."
 
-You may notice that you're living on one of these deals already. "Only without porn" is a limit. So is "only the soft stuff", and so is "I'll look, but I won't touch". With women the limit sounds like "we only text" or "it's just flirting". Lent is the forty days before Easter, when many Christians give something up. One man tried exactly that deal for Lent, porn out and the habit kept. He found he couldn't do the one without thinking about the other.
+You may notice that you're living on one of these deals already. "Only without porn" is a limit. So is "only the soft stuff", and so is "I'll look, but I won't touch". With women the limit sounds like "we only text" or "it's just flirting". Lent is the forty days before Easter, when many Christians give something up. One man tried exactly that deal for Lent, porn out and the habit kept. He found he couldn't do the one without thinking about the other. A smaller head is still a head, and it is still being fed.
 
 It sounds like the moderate, grown-up option. Of everything a man can try, it is the worst, and it's the reason plenty of men stay caught for life. Here is what happens to him.
 
@@ -105,3 +105,5 @@ Which leaves the smallest request of all: just once. The answer to it comes from
 <!-- 2026-11-19 listener's pass: the unnamed-pastor paraphrase was cut; its one good line stays in the book's own voice. -->
 
 <!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). Exact changes are in the report sent to James. -->
+
+<!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md), callback added: one sentence: a smaller head is still a head. -->

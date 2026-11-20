@@ -6,6 +6,8 @@
 
 You've reached the end of the book. Congratulations. I mean that as plainly as I can say it. You were caught in something that holds most men for life, and you walked out. You'll discover over the coming months that life was better than you thought it was. The habit had been standing in front of it.
 
+Look back at the swamp for a moment. There were five heads: the look, the thought, the touch, the chase and the taking. You didn't beat them by swinging harder. You saw what each one had really been giving you, and nothing grew back. The monster that looked so big turned out to be one small body, and you have stopped feeding it. One voice is left, under its rock. Let it hiss.
+
 ## Today is the only day you've got {-}
 
 One more idea before you go. It's short, and it'll serve you long after you've forgotten the rest.
@@ -83,3 +85,5 @@ You're free, and you're fit for service. Go in peace.
 <!-- 2026-11-20 structure pass (James: right sections in the right chapters, right sizes, one flow): 'the last chapter' became 'the end of the book' (an unnumbered chapter for the people beside him now follows). -->
 
 <!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). -->
+
+<!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md), callback added: the payoff paragraph after the opening: five heads, nothing grew back, one voice under the rock. -->

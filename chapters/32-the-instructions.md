@@ -11,7 +11,7 @@ This chapter is for the man who has taken the final step. If you haven't yet, yo
 7. Don't wait for a better day. You stopped at the final step. Stay stopped.
 8. You said your plain No, once and outright. Give no reason, don't soften it, and never answer again.
 9. "Just once" does not exist.
-10. Never go back. Not to the porn, not to the hand, and not to the chase.
+10. Never go back. Not to the porn, the fantasy or the hand, and not to the chase or a bed that isn't yours.
 11. Stay close to God. Pray, read the Bible, and be part of a church. You aren't guarding a door. You're getting to know the one who opened it. If you're not a believer, stay close to the people who make you want to be this man.
 12. You are fit for service now. Go back for one man, and hand him this book.
 
@@ -44,3 +44,5 @@ Many methods close with affirmations. This one uses older words. Pick one or two
 <!-- 2026-11-19 listener's pass: 'This page' became 'This chapter' for audio. -->
 
 <!-- 2026-11-20 (James): callback to the four instructions from 'Just Once' (say it once and outright; give no reason; don't let him down gently; never answer again), restated in place with no pointer back. -->
+
+<!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md), callback added: rule 10 now names all five heads. -->

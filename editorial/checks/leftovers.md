@@ -6,8 +6,8 @@
 - **first-person author anecdote (I + past tense)**: 0 hit(s) 
 - **'wifey' / casual**: 1 hit(s) 6:27
 - **'sequel' (allowed only as 'not an official sequel')**: 0 hit(s) 
-- **'play along' (allowed: Intro, Ch 32)**: 2 hit(s) c:13, 33:61
-- **'atheist' (convention: say 'not a believer')**: 2 hit(s) c:13, 33:61
+- **'play along' (allowed: Intro, Ch 32)**: 2 hit(s) c:13, 33:63
+- **'atheist' (convention: say 'not a believer')**: 2 hit(s) c:13, 33:63
 - **'jerking off' (use rarely, on purpose)**: 1 hit(s) 3c:13
 
 ## Files outside the chapters that name the repository owner
