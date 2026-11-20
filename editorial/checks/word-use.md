@@ -17,7 +17,7 @@
 | 10 | 8 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 11 | 2651 | 0 | 3 | 1 | 1 | 11 | 4 | 8 | 2 | 0 | 0 |
 | 12 | 1527 | 0 | 2 | 1 | 0 | 8 | 0 | 2 | 1 | 0 | 0 |
-| 13 | 2328 | 1 | 0 | 5 | 0 | 3 | 0 | 10 | 0 | 0 | 0 |
+| 13 | 2332 | 1 | 0 | 5 | 0 | 3 | 0 | 8 | 0 | 0 | 0 |
 | 14 | 3020 | 3 | 5 | 18 | 1 | 5 | 0 | 1 | 0 | 0 | 0 |
 | 14b | 1643 | 2 | 0 | 13 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 15 | 2564 | 5 | 5 | 27 | 2 | 2 | 1 | 1 | 0 | 0 | 0 |
@@ -48,7 +48,7 @@
 | faq | 1781 | 9 | 10 | 6 | 5 | 5 | 5 | 3 | 1 | 2 | 0 |
 | why-this-book | 1014 | 8 | 6 | 5 | 2 | 2 | 4 | 0 | 0 | 1 | 0 |
 
-## Overused words and phrases (book total 60128 words)
+## Overused words and phrases (book total 60132 words)
 
 | Word | Count | Per 1000 words | In how many files |
 |---|---|---|---|
@@ -79,9 +79,9 @@
 | mope | 5 | 0.08 | 5 |
 | crutch | 3 | 0.05 | 3 |
 | stop kidding yourself | 2 | 0.03 | 2 |
+| pipsqueak | 2 | 0.03 | 1 |
 | pity | 2 | 0.03 | 2 |
 | obviously | 1 | 0.02 | 1 |
-| pipsqueak | 1 | 0.02 | 1 |
 | no such thing | 1 | 0.02 | 1 |
 | doesn't exist | 1 | 0.02 | 1 |
 | marvellous | 0 | 0.0 | 0 |
