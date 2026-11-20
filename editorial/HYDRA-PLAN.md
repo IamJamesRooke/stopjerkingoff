@@ -8,48 +8,79 @@ The book already fights every head. It just never lines them up. The Introductio
 
 So this is not a rewrite. It is one new frame laid over an approved book:
 
-- 4 new short chapters
+- 5 new short chapters
 - 9 chapters with real changes
 - a light wording pass over the rest
 - about 3,500 new words, partly paid for by trimming "The Ladder"
-- the book goes from 58 chapters to 62
+- the book goes from 58 chapters to 63
 
-## The frame
+## Is the Hydra the right image? (v2, 2026-11-20)
+
+James asked whether a fearsome Hydra clashes with a Little Monster we made weak on purpose. It does, if the Hydra becomes the book's main picture. It does not, if the Hydra is used for the one thing it does better than any other image, and then punctured.
+
+**Recommendation: keep the Hydra, in one role.** The Little Monster stays the truth about the enemy. The Hydra is how the enemy *looks* to a man who is fighting it with a sword.
+
+That is honest to what the reader has lived. Lust has felt unbeatable to him. He has cut off a head a hundred times and watched two grow back. The Hydra gives that experience its picture. Then the torch comes, and by its light he sees what the heads grow out of: one small body. Five mouths and one belly. The legend made it huge because the only men who told the story were the ones who had been cutting.
+
+So the rule for the whole book is one sentence: **the Hydra is what it looks like, and the Little Monster is what it is.**
+
+Guards:
+- One full telling (the Hydra chapter), one payoff (the last chapter), and about ten one-line callbacks. No more.
+- Every time the Hydra appears, it is cut down to size in the same breath.
+- The torch is light. Burning a stump is seeing the lie, so it takes no straining. The "no willpower" promise holds.
+- Hercules did not win alone. Iolaus handed him the torch. That is grace, and later it is the reader carrying the torch to the next man.
+
+**If James still doubts it, the fallback is the weed and the root.** Mow a weed and it comes back thicker. Pull the root and it is over. It is small, so there is no clash at all, and the Introduction already says the book "goes after the root". It is also less vivid, and nobody remembers a weed. The Hydra is the better hook as long as it keeps to its one role.
 
 | In the myth | In the book |
 |---|---|
-| The Hydra | Lust, seen from the outside: one beast, many heads |
-| The one body under the heads | The Little Monster: one small belly feeding every head |
+| The Hydra | How lust looks from outside: one beast, many heads |
+| The one small body | The Little Monster, feeding through every head |
 | Cutting a head, and two grow back | The Willpower Method, cutting down, and substitutes |
 | Why they grow back | The Big Monster: the lie that the head had something to give |
-| The torch on the stump | The Easy Way: seeing the lie, so nothing is left to grow |
-| Iolaus, who carried the torch | Hercules did not win alone. The torch was handed to him (grace). Later the reader carries it for the next man |
-| The immortal head under the rock | See decision 1 below |
+| The torch on the stump | The Easy Way: the lie is seen, so nothing is left to grow |
+| Iolaus | Grace, and then the reader helping the next man |
+| The immortal head under the rock | The voice that is left. See below |
 
-**Tone guard.** The method depends on the enemy being small. A nine-headed monster sounds big. So the Hydra chapter must mock it: a swamp lizard that only survived because every hero brought a sword. It looked unbeatable to men who kept cutting. It lasted one afternoon against a torch. The Little Monster stays a pipsqueak.
+## The immortal head
 
-**Burning is not fighting.** The torch is light. You do not strain to burn a stump. You bring the truth to it and the thing cannot grow. This keeps the "no willpower" promise intact.
+James's guess is "lust itself". That is right, with one sharpening.
 
-## The seven heads
+The book promises a man freedom from lust's *hold*. It never promises that the old appetite will fall silent for life. The pastor's review made the same point: watchfulness is lifelong. So:
+
+- The heads that burn are lust's hold on him: the habits and the lies under them.
+- The immortal head is lust's *voice*: what the Bible calls the flesh, and what this book calls the caller.
+
+It is buried alive. It can still talk from under the rock. It cannot bite, because it has no body left to feed it. That is "Let It Ring" in one picture. The rock is the man's settled No. For the Christian reader, one line can say whose rock it really is.
+
+Desire for a woman is not a head at all. It was made good, it belongs to the man and not to the beast, and its home is marriage.
+
+## The five heads
+
+James asked for a list that is clean, complete and easy to remember. Seven nouns were none of those. The new list is five verbs, in the order lust climbs:
 
 | # | Head | What it covers | Where it lives now | Gap |
 |---|---|---|---|---|
-| 1 | The screen | Porn, drawn or written porn, computer-made women | Lies About Porn (9), Ladder bullets, Porn and Sex (54) | The answer to "what about porn?" comes at chapter 54. Far too late |
-| 2 | The hand | Masturbation without a screen | Everywhere as the default "it", but never named as a head | Needs its own short chapter |
-| 3 | The mind | Fantasy, the replayed memory | Fantasy and the Thought Life (32), You Would If You Could (33) | None. Strong |
-| 4 | The eye | The feed, the second look, dating apps used as a catalog | 32, Mothers Sisters Daughters (34), Just One Little Look (44) | None. Needs only the head named |
-| 5 | The chase | Simping, the pedestal, obsession, the stalker | Man Led by a Woman (30), The King (31), Do Not Negotiate (25) | None. Strong |
-| 6 | The bed | Hookups, the collector, the affair, paid sex, paid attention | "The collector" and "the married man" in At Least I'm Not Him (29); long bullets in The Ladder | Hookups and paying are thin. They are bullets, not a chapter |
-| 7 | The almost-wife | Sex, sexting and photos with a woman he loves and means to marry | Two sentences in Porn and Sex (54) | Missing. This is the bargaining head |
+| 1 | **Look** | Porn of every kind, the feed, the second look | Lies About Porn, Mothers Sisters Daughters, Just One Little Look, Ladder bullets | The "what about porn?" answer sits near the end of the book. Too late |
+| 2 | **Think** | Fantasy, the replayed memory | Fantasy and the Thought Life, You Would If You Could | None. Strong |
+| 3 | **Touch** | The hand | Everywhere as the unnamed default | Never named as a head. Needs a short chapter |
+| 4 | **Chase** | Simping, the pedestal, obsession, flirting, sexting, paying for attention | The Man Led by a Woman, The King, Do Not Negotiate, Ladder bullets | Sexting is thin |
+| 5 | **Take** | Sex outside marriage: the hookup, the affair, paid sex, and sleeping with the woman he means to marry | The collector and the married man, Ladder bullets, two sentences in Porn and Sex | Hookups and paid sex are bullets. The fiancee case is missing |
 
-Head 7 is the one James caught himself on. It gets an anonymous archetype: a man with a woman he plans to marry, a photo she sent, and the thought "this one doesn't count". The chapter answers his own question, "shouldn't every man set his own line?", in the book's voice: the Little Monster would love to hold the pen when the line is drawn.
+Why this list works:
+- **Five, counted on one hand.** A book called "Stop Jerking Off" can use that.
+- **It is complete.** Anything lust does is a look, a thought, a touch, a chase or a taking.
+- **It is a ladder.** Each head leads to the next one up.
+- **It is already in the book.** David on the roof looked, asked about her, sent for her and took her. "A City Without Walls" tells that story. Jesus names the eye, the heart and the hand in one passage (Matthew 5:28 to 30).
+
+James's own case is no longer a head of its own. It is the hardest case under Take: taking before the promise. It still gets its own short chapter and an anonymous man: a woman he plans to marry, a photo she sent, and the thought "this one doesn't count". The chapter answers "shouldn't every man set his own line?" in the book's voice: the Little Monster would love to hold the pen.
 
 ## The line, stated once and early
 
 - The biblical ideal: sex belongs inside marriage, and there it is a gift.
 - For the reader who is not a Christian, a plain test: is this a gift given inside a promise already made, or a hit you take?
-- "A promise already made" matters. Without those words the test lets head 7 through ("it's a gift to one woman").
-- Engaged is not married. The book says so kindly and without piling on guilt, as chapter 54 already does.
+- "A promise already made" matters. Without those words the test lets the fiancee case through.
+- Engaged is not married. The book says so kindly and without piling on guilt.
 
 ## Chapter plan
 
@@ -60,25 +91,25 @@ New chapters are marked NEW. Numbers are the new printed numbers.
 
 **The trap**
 - 1 The Easy Method. Unchanged.
-- 2 **The Hydra** (NEW, about 900 words). The myth in a paragraph. The seven heads named aloud, a few lines each. Why cutting fails. Hook: so where exactly is the line?
+- 2 **The Hydra** (NEW, about 900 words). The myth in a paragraph. The five heads named aloud: look, think, touch, chase, take. Why cutting fails. Then the torch, and the one small body under all five. Hook: so where exactly is the line?
 - 3 **Where the Line Is** (NEW, about 700 words). The line above. Desire is not the enemy. Who this book is for: any man whose desire is making his decisions for him. Hook into "Why Is It Difficult to Stop?".
 - 4 to 9 (old 2 to 7). One paragraph added to The Little Monster: the Hydra is what lust looks like from outside, and the Little Monster is what it is inside you. Feed any head and you feed him.
 
 **The lies, the occasions, the cost** (old 8 to 20)
-- Wording pass only. The Lies About Porn chapter is marked as head 1 and takes the "what about porn?" answer from old chapter 54.
+- Wording pass only. The Lies About Porn chapter is marked as Look and takes the "what about porn?" answer from old chapter 54.
 
 **Willpower** (old 21 to 26)
 - The Willpower Method: add the sword. Each head a man cuts by force grows two. He quits porn and finds the hand and the feed.
 - Beware of Cutting Down: one line. A smaller head is still a head.
 
-**Head by head** (old 27 to 35, reordered so each head has a home)
+**Head by head** (old 27 to 35, reordered into five short runs: Look, Think, Touch, Chase, Take)
 - Every Man in the Trap, then The Ladder, trimmed to short rungs. Its long bullets move to the new chapters below.
-- **The Back Door** (NEW, about 600 words). Head 2, the hand. Built from the Ladder's "quit porn and kept the hand" and the Introduction's line that the hand is the back door.
-- Fantasy and the Thought Life, You Would If You Could. Head 3.
-- Mothers, Sisters, Daughters. Head 4.
-- The Man Led by a Woman, The King Who Turned His Face to the Wall. Head 5.
-- **The Collector and the Customer** (NEW, about 900 words). Head 6. Built from existing material: the collector, the man who pays, the man who buys it in person. New: the hookup and what it leaves behind.
-- **But I'm Going to Marry Her** (NEW, about 700 words). Head 7.
+- **The Back Door** (NEW, about 600 words). Touch: the hand. Built from the Ladder's "quit porn and kept the hand" and the Introduction's line that the hand is the back door.
+- Look: Mothers, Sisters, Daughters (this run opens the section).
+- Think: Fantasy and the Thought Life, You Would If You Could.
+- Chase: The Man Led by a Woman, The King Who Turned His Face to the Wall. A short passage on sexting and paid attention is added from the Ladder's bullets.
+- **The Collector and the Customer** (NEW, about 900 words). Take. Built from existing material: the collector, the man who pays, the man who buys it in person. New: the hookup and what it leaves behind.
+- **But I'm Going to Marry Her** (NEW, about 700 words). Take, the hardest case.
 - At Least I'm Not Him, The Locked Door. Unchanged, apart from the collector moving out.
 
 **The decision and after** (old 36 to 48)
@@ -87,10 +118,10 @@ New chapters are marked NEW. Numbers are the new printed numbers.
 
 **The ending**
 - The Final Step: the renunciation names every head.
-- Let It Ring: the immortal head goes under the rock (decision 1).
+- Let It Ring: the immortal head goes under the rock.
 - The Rules in One Place: rule 10 names the heads.
 - The Men Still on the Ship: you are now another man's Iolaus. Carry the torch.
-- Now: the payoff. Seven stumps, none growing.
+- Now: the payoff. Five stumps, none growing, and one voice under a rock.
 - Porn, and Sex: its porn answer moves forward, so it becomes a short chapter on sex as a gift.
 
 ## Wording rules for the pass
@@ -115,12 +146,14 @@ Every change to a chapter James has approved is reported with exact before and a
 - **The monster gets big.** Answered by the tone guard above.
 - **The metaphor gets overworked.** Limit: two full tellings (The Hydra, Now) and about ten one-line callbacks. The Little Monster, the caller and the soldier stay the main images.
 - **A pagan myth in a Christian book.** It is told as a story, explained in place, in one paragraph. Scripture still carries the authority.
-- **Head 7 costs readers.** Some men will stop reading at "engaged is not married". The chapter must be warm, short and free of scolding, and the gift-or-hit test gives the non-Christian a way in.
-- **Renumbering again.** Four new chapters move every number after chapter 1. Page addresses do not change.
+- **The fiancee chapter costs readers.** Some men will stop reading at "engaged is not married". The chapter must be warm, short and free of scolding, and the gift-or-hit test gives the non-Christian a way in.
+- **Renumbering again.** Five new chapters move every number after chapter 1. Page addresses do not change.
 - **Length.** Net growth of about 5 percent. Each new chapter must pass the 2+2=4 test.
 
-## Decisions for James
+## Decisions for James (v2)
 
-1. **What is the immortal head?** Option A: attraction to women, buried under the rock of marriage. Option B (recommended): temptation itself. The caller may ring for the rest of your life. You do not kill him. You bury him under your No and walk past the rock. Option B fits "Let It Ring", fits the pastor's rule that watchfulness is lifelong, and keeps desire out of the monster altogether. Desire is not a head. It was made good, and it is yours.
-2. **Are these the right seven heads?** In particular, is "the almost-wife" a head of its own?
-3. **Placement.** The Hydra and Where the Line Is as chapters 2 and 3 (recommended), or inside the unnumbered front matter.
+1. **Hydra in one role, with the Little Monster kept as the truth about the enemy?** Recommended. The fallback is the weed and the root.
+2. **Five heads: look, think, touch, chase, take?** Recommended.
+3. **The immortal head is lust's voice, buried and harmless, and desire is not a head?** Recommended.
+
+Settled: new chapters as needed, with no deadline (James, 2026-11-20).
