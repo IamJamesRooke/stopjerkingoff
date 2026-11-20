@@ -97,6 +97,8 @@ Two things follow. First, the ringing has no power of its own. A bell is a noise
 
 Every cue you'll meet is that telephone. It may be the empty house, the photo in the feed, the bed at midnight, the bad day or the message from her. Let it ring. It will stop.
 
+You have just done the first of four things, which is to say it once and say it outright. The other three keep it said. Give no reason. Don't let him down gently. Never answer again.
+
 You know your hour: the shower, the empty house, midnight. Expect it. A bell you saw coming is only a bell.
 
 And if you lie awake the first night or two, lie there and be glad. You know what is dying.
@@ -147,3 +149,5 @@ You're free, so stand firm.
 <!-- 2026-11-20 structure pass (James: right sections in the right chapters, right sizes, one flow): Galatians 5:1 is quoted in the closing lines in place of a pointer to the epigraph; the pointer to 'If You Slip' replaced by the content in a sentence. -->
 
 <!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). -->
+
+<!-- 2026-11-20 (James): callback to the four instructions from 'Just Once' (say it once and outright; give no reason; don't let him down gently; never answer again), restated in place with no pointer back. -->
