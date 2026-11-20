@@ -34,6 +34,8 @@ Three words come up often. *Lust* means desire turned into taking, with its thre
 
 This book was inspired by a free book called [*The Easy Peasy Way to Quit Porn*](https://easypeasymethod.org/), known as EasyPeasy. EasyPeasy was itself a rewrite of Allen Carr's *Easy Way to Stop Smoking*. I borrowed its structure and its method, and the credit for both belongs to them. But porn is only one face of the problem, and this book goes after the root. Any mistakes in applying the method here are mine. Like EasyPeasy, this book is shared under the Creative Commons Attribution-ShareAlike license. You may copy it, share it and adapt it, as long as you give credit and keep the same license.
 
+If you want to write to me, with a correction, a question or your own story, the address is [hello@stopjerkingoff.com](mailto:hello@stopjerkingoff.com). I read what comes in.
+
 So I have one request. If this book helps you, pass it on. Most men have never been told there is an easy way out.
 
 One last time: **DO NOT SKIP CHAPTERS.**
@@ -43,3 +45,5 @@ I won't wish you luck, because luck doesn't come into it. Grace does.
 "If therefore the Son makes you free, you will be free indeed." (John 8:36)
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of index.Rmd; the source notes for everything here are in that file. -->
+
+<!-- 2026-11-20 (James): the contact address is given here, his explicit exception to the evergreen rule on addresses. The book stays anonymous: no name. The public repository link is held back until he decides, because its address contains his name. -->
