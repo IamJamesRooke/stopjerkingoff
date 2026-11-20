@@ -10,7 +10,7 @@ The truth is that it's absurdly easy.
 
 I know how that sounds. Bear with me. If I told you to run a marathon in under three hours, that would be hard. You'd need years of training, and you might not have the legs for it however hard you trained. But stopping the habit doesn't ask you to *do* anything. You only have to not do something. Nobody is holding you down and making you. Your body doesn't need it the way it needs bread and water. So if you want to stop, where exactly is the difficulty?
 
-There isn't one. Men create the difficulty themselves, by using the Willpower Method. I mean any way of quitting that leaves you feeling you've sacrificed something. It is the same method whether the thing is porn, the hand or a woman you keep going back to. A man blocks the sites and unblocks them. He deletes her number and finds it again. We'll follow the habit here, because it shows the pattern most plainly. Let's look at how it goes.
+There isn't one. Men create the difficulty themselves, by using the Willpower Method. I mean any way of quitting that leaves you feeling you've sacrificed something. It is the same method whether the thing is porn, the hand or a woman you keep going back to. A man blocks the sites and unblocks them. He deletes her number and finds it again. We'll follow the habit here, because it shows the pattern most plainly.
 
 It usually takes years to realize you're hooked, because of one stubborn illusion: we assume men do this because they enjoy it. So on the nights we plainly don't enjoy it, we conclude we could stop any time. "I don't even like it that much. I could drop it tomorrow." That's the confidence trap. Somehow tomorrow is never the day you want to.
 
@@ -62,8 +62,6 @@ NoFap, the big online movement that began in the 2010s, has made a ritual of thi
 
 Think about what a counter actually measures. It measures the distance between you and the last time you did it. So every morning it points you back at the habit, the very thing you're trying to leave behind. A man with a streak thinks about porn and masturbation more than a man without one. He has to. He's keeping score.
 
-Scroll down under any video on this subject and you'll find the same routine in the comments, posted again and again by different men: "Day 1 of quitting." Each man means it with his whole heart. And each has asked a crowd of strangers to remind him, every time they press a button, of the thing he's trying to forget.
-
 And who counts days? A man scratching lines on a cell wall counts days. A free man has no idea how many days it's been since he was released. He's got better things to do. Ask a man who used to bite his nails how many days it has been. He couldn't tell you. Each number on that counter says "day forty of doing without", and a man who's doing without has decided in advance that he's losing something.
 
 Then there's the reset. One slip on day sixty-one and the screen says zero. All of it gone! So what does the man at zero do? More often than not he thinks, "Well, it's ruined now," and makes a weekend of it before starting the count again on Monday. The counter turned one bad night into three. A man who had quit for good and stumbled would pick himself up the same hour. The man with a counter has to start again from the bottom of the hill.
@@ -93,8 +91,6 @@ Now look at how Paul ends the chapter. "What a wretched man I am! Who will deliv
 
 His question isn't "*how* shall I try harder?" It's "*who* will deliver me?" The answer is a person and a gift, and it comes with a shout of thanks. He never mentions a technique.
 
-Notice who described this first. Paul wrote those sentences nearly two thousand years ago, long before anyone made an app to count days.
-
 If you're not a believer, stay with me, because part of this holds without the theology. The war between two wills doesn't end when one of them finally wins. **IT ENDS WHEN ONE OF THEM IS GONE.** The will that wants "one more night" lives entirely on the belief that the night has something to offer. Take away the belief and there's no second will left to fight. That's what this book is doing, a chapter at a time. For a believer, that is the work Paul gave thanks for. It is done by the one who delivers, and this book is only clearing the ground for it.
 
 ## Meanwhile, on day forty {-}
@@ -111,7 +107,7 @@ Many more fail than succeed that way. And some who succeed stay fragile for the 
 
 ## Enjoyment never came into it {-}
 
-Everything hangs on this, so it is worth saying plainly. Enjoyment has nothing to do with this, and it never did. If men did it for enjoyment, they wouldn't do it when they're sick, or exhausted, or an hour after they'd promised God. We only assume we enjoy it because the alternative is too insulting to consider. The alternative is that we've been doing something for twenty years that gives us nothing.
+Enjoyment has nothing to do with this, and it never did. If men did it for enjoyment, they wouldn't do it when they're sick, or exhausted, or an hour after they'd promised God. We only assume we enjoy it because the alternative is too insulting to consider. The alternative is that we've been doing something for twenty years that gives us nothing.
 
 That's also why most of it happens half-asleep, on autopilot, in the dark. Suppose you could watch a man at this habit. You'd see he's only content while he isn't thinking about what he's doing. The moment he thinks about it, he's uneasy.
 
@@ -147,3 +143,5 @@ The habit feeds the Little Monster. The lies are the Big Monster. Starve the fir
 -->
 
 <!-- 2026-11-19 listener's pass: the willpower quote became the book's own plain sentence (it was an unnamed attribution and the science behind it is contested; source still listed above); the counter is dated to the 2010s and NoFap is named in place. -->
+
+<!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). Exact changes are in the report sent to James. -->

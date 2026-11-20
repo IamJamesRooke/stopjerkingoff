@@ -60,7 +60,7 @@ Why, though? What exactly makes it hard?
 
 When all the other explanations have collapsed, most men settle on this one: it's only a habit, and habits are hard to break.
 
-It sounds like an answer, but it isn't one. It's what's left on the table once the proper answers have gone.
+It sounds like an answer, but it isn't one.
 
 Are habits hard to break? You change them constantly. You move to a new house, and for two days your hand goes to the wrong wall for the light switch. By the weekend it doesn't. You rent a car in a country that drives on the opposite side, and after one nervous mile you're fine. You start a new job and your whole morning is rearranged within a week. People drop thirty-year habits with no drama at all, including habits they liked.
 
@@ -82,7 +82,7 @@ Here is the good news. Once you see how the master actually holds you, and why y
 
 This trap is one of the neatest ever built. Your own flesh supplies the bait, and the world stands around telling you it isn't a trap at all.
 
-Think about how a boy walks in. With cigarettes there's at least a cough, and a health warning printed on the box. With porn there's the jolt of knowing he's looking at something he shouldn't. With his own hand there's nothing of the kind. There's no dealer and no price. He doesn't get a hangover or a smell on his clothes, and no other person is involved. It's his own body, in his own bed, and it happened half by accident. No alarm bell rings. Why would one?
+Think about how a boy walks in. With cigarettes there's at least a cough, and a health warning printed on the box. With porn there's the jolt of knowing he's looking at something he shouldn't. With his own hand there's nothing of the kind. There's no dealer, no price, no hangover and no smell on his clothes. It's his own body, in his own bed, and it happened half by accident. No alarm bell rings. Why would one?
 
 By the time something does feel wrong, the first guilt or the first prayer he doesn't quite want to finish, the routine is already laid down. From then on he lives like every other man in the trap. He wonders why he keeps doing it, hopes his own boys never start, and every so often tries to break out.
 
@@ -96,16 +96,12 @@ And each year the calm weeks seem fewer. He's left home, there's a job, rent, a 
 
 It doesn't. He's mixing up responsibility with stress. You weren't carefree at fourteen. You were a bundle of nerves. What has grown is the habit's share of the load. Masturbation doesn't calm a man down. It winds him up, quietly, one guilty night at a time: another secret to keep, another promise broken, another morning started in the red. He blames the job.
 
-Even the men who get out by sheer effort aren't safe. They'll live clean and happy for months or years, and then one low evening walk straight back in. One coach, with a big following and a whole channel about discipline, once had to tell his viewers that he had relapsed after more than two years. He said he felt horrible. Two years, and he was back to day one.
-
 ## The two causes {-}
 
-Stopping can be easy for any man. But first we need the facts, and I don't mean the frightening kind. You've had plenty of those, and if they worked you'd be free already. We need the facts about why you're still doing it. It comes down to two things:
+Stopping can be easy for any man. But first we need the facts about why you're still doing it. I don't mean the frightening kind. It comes down to two things:
 
 1. **The flesh.**
 2. **The world's lies.**
-
-The next two chapters take them in turn. Your part is to follow each instruction, in order, and not to race through.
 
 And look at the men who have already walked out. They aren't missing a thing. They aren't gritting their teeth or looking back with longing. If anything they seem faintly puzzled that they ever bothered.
 
@@ -124,3 +120,5 @@ Before long you'll be one of them. Jesus said, "You will know the truth, and the
 - "Give me chastity and continency, only not yet." (Book 8, ch. 7) / "a lust served, became custom; and custom not resisted, became necessity." (Book 8, ch. 5; second half of the sentence only) / "not with another's irons, but by my own iron will" (Book 8, ch. 5; "By which links, as it were, joined together (whence I called it a chain)") — Augustine, Confessions, E.B. Pusey translation (public domain), https://faculty.georgetown.edu/jod/augustine/Pusey/book08; all three checked against Project Gutenberg #3296, https://www.gutenberg.org/cache/epub/3296/pg3296.txt (research/round2/classics.md)
 - Scripture (World English Bible): John 8:34 (Jesus's words only; the verse begins "Jesus answered them"); John 8:32.
 -->
+
+<!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). Exact changes are in the report sent to James. -->

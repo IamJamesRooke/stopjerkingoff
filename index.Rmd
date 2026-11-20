@@ -28,7 +28,7 @@ if (knitr::is_html_output(excludes = "epub")) {
 
 This book will help you conquer lust. You will stop masturbating, stop watching porn, and stop making bad decisions with women because you're thinking with the wrong head. You can stop right away, stay stopped, and not be miserable doing it. There are no cold showers in here, no rubber bands on your wrist, and no ninety-day streak counter to babysit. Nobody is going to shame you, and nobody is going to ask you to grit your teeth.
 
-While you read, please don't start a willpower campaign. Make no vows, start no streaks, and don't cut down. Don't fight it with willpower. Just keep reading to the last page. Chapter 1 explains why, and why this is not permission to sin.
+While you read, please don't start a willpower campaign. Make no vows, start no streaks, and don't cut down. Just keep reading to the last page. You'll soon see why, and why this is not permission to sin.
 
 That probably sounds backward. Everything you've been told says the opposite: try harder, pray harder, hide the phone, reset the counter. Has any of it worked? If it had, you wouldn't be holding this book.
 
@@ -50,7 +50,6 @@ Now ask yourself honestly:
 
 - Do you watch porn, or keep drifting back to it after swearing off?
 - Do you masturbate to memories, to fantasies, or to whatever crosses your feed?
-- Do you do it more often than you meant to, or at times you swore you wouldn't?
 - Have you made promises to yourself, or to God, that you broke within days?
 - Do you reach for it without thinking, in bed or in the shower, when you're bored, stressed, lonely or can't sleep?
 - Do you feel flat, guilty or disgusted with yourself afterward, and then do it again anyway?
@@ -64,7 +63,7 @@ If you said yes to even one of these, keep reading.
 
 You are in good company, by the way. One pastor who writes honestly about masturbation calls it "a regular practice of most single men", and plenty of married men could raise a hand too. What sets you apart from most of them is that you've decided to do something about it.
 
-Are you reading this for a son, a husband, a brother or a friend? The best thing you can do is get him to read it. If he won't, read it yourself. Once you see how the trap works, you'll be far better at helping him out of it. You'll also be better at keeping the next boy from walking in.
+Are you reading this for a son, a husband, a brother or a friend? The best thing you can do is get him to read it. If he won't, read it yourself. Once you see how the trap works, you'll be far better at helping him out of it, and at keeping the next boy from walking in.
 
 ## One root, three faces {-}
 
@@ -124,15 +123,13 @@ I do say that lust is a sin and a thief. I say the habit robs you of drive, focu
 
 I won't sell you superpowers either. Some corners of the internet promise that quitting will give you a deeper voice, glowing skin and women turning their heads. I promise none of it. What you get is better than a superpower. You get yourself back.
 
-Some of what you're about to read will be hard to believe. By the last chapter you'll believe all of it, and you'll wonder how you ever swallowed the opposite.
-
-Here's the first thing that will sound strange: **you never chose this habit.**
+Here is something that will sound strange: **you never chose this habit.**
 
 Yes, you choose each time. You lock the door, you pick up the phone, you start. But did you ever sit down as a boy and decide to do this every night for the next fifteen years, whether you wanted to or not? Of course you didn't. Curiosity and puberty started it. Then the habit quietly took the wheel, and for most of us porn later poured fuel on it.
 
 You've walked into a trap. It is one of the most subtle traps there is, because the bait is your own body. No man caught in it wants his son caught in it too. That tells you everything. Every man in the trap wishes he'd never started, and yet every man in the trap carries on. Nobody forces him. So why does he do it?
 
-Imagine a button on your desk. Press it, and tomorrow you wake up as a man who simply never picked up this habit. No urges, no memories of it, no pull. Would you press it? Every man reading this would. Now ask why a man would press a button to be rid of something he supposedly enjoys.
+Imagine a button on your desk. Press it, and tomorrow you wake up as a man who simply never picked up this habit. No urges, no memories of it, no pull. Would you press it? Every man reading this would. Now ask why a man would press a button to be rid of something he supposedly enjoys. Nobody would press it to be rid of fishing.
 
 This book can't press it for you. But it can show you that the button is real, and that it's closer than you think.
 
@@ -162,7 +159,7 @@ Jesus told a story about a son who took his inheritance early, left home and was
 
 ## Two ways to fail {-}
 
-Every man can find it easy to walk away from lust, and that includes you. Your only job is to keep reading, chapter by chapter, with your mind open. Every piece that clicks makes the next one easier.
+Every man can find it easy to walk away from lust, and that includes you. Your only job is to keep reading, chapter by chapter, with your mind open.
 
 There are only two ways to fail with this method.
 
@@ -190,7 +187,7 @@ There is a bigger theme under all of this, and it is self-control. **A man who c
 
 A Benedictine monk once gave this advice to women who want to marry: "Marry a man who can fast." He meant a man who has learned to say no to himself. Proverbs says the same from the other side. A man without self-control is like a city with its walls broken down.
 
-Picture a soldier who shows up for duty drunk. He may be on the right side. He may even be loved. He is still unfit for service, and the men beside him go without the support they were counting on. A man ruled by lust is like that. You were made for something. This book is about getting you fit for it, and it comes back to that picture near the end.
+Picture a soldier who shows up for duty drunk. He may be on the right side. He may even be loved. He is still unfit for service, and the men beside him go without the support they were counting on. A man ruled by lust is like that. You were made for something. This book is about getting you fit for it.
 
 The good news is that the reverse is also true. The man who is free of this walks differently. You're about to find out.
 
@@ -206,9 +203,9 @@ Near the end there is a short chapter called If You Slip. If you fall, during th
 
 Three words come up often. *Lust* means desire turned into taking, with its three faces: porn, the hand, and the bad decisions a man makes around women. *The habit* means masturbation, with or without porn. *NoFap* is an online movement of men trying to stop both, and many of the men quoted here wrote on its forum. Visit communities like that after you've finished the book, and not before.
 
-This book was inspired by a free book called [*The Easy Peasy Way to Quit Porn*](https://easypeasymethod.org/), known as EasyPeasy. EasyPeasy was itself a rewrite of Allen Carr's *Easy Way to Stop Smoking*. I borrowed its structure and its method, and the credit for both belongs to them. But I wanted to go further. Porn is only one face of the problem. This book goes after the root: lust itself. Any mistakes in applying the method here are mine. Like EasyPeasy, this book is shared under the Creative Commons Attribution-ShareAlike license. You may copy it, share it and adapt it, as long as you give credit and keep the same license.
+This book was inspired by a free book called [*The Easy Peasy Way to Quit Porn*](https://easypeasymethod.org/), known as EasyPeasy. EasyPeasy was itself a rewrite of Allen Carr's *Easy Way to Stop Smoking*. I borrowed its structure and its method, and the credit for both belongs to them. But porn is only one face of the problem, and this book goes after the root. Any mistakes in applying the method here are mine. Like EasyPeasy, this book is shared under the Creative Commons Attribution-ShareAlike license. You may copy it, share it and adapt it, as long as you give credit and keep the same license.
 
-So I have one request, and the last chapter comes back to it. If this book helps you, pass it on. Most men have never been told there is an easy way out.
+So I have one request. If this book helps you, pass it on. Most men have never been told there is an easy way out.
 
 One last time: **DO NOT SKIP CHAPTERS.**
 
@@ -239,3 +236,5 @@ SOURCES (Introduction): every quote below is from the research files; check each
 -->
 
 <!-- 2026-11-19 psych review fixes applied (editorial/PSYCH-REVIEW.md): see that file for the reasoning and sources. -->
+
+<!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). Exact changes are in the report sent to James. -->

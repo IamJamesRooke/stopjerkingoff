@@ -4,7 +4,7 @@
 >
 > — Ecclesiastes 7:14
 
-No two men come to this book from the same place. One is nineteen and one is sixty. One is married, one has never been kissed. Some situations do look harder than others. They don't have to be, once the Big Monster is gone. Take a few examples.
+No two men come to this book from the same place. One is nineteen and one is sixty. One is married, one has never been kissed. Some situations do look harder than others. They don't have to be, once the Big Monster is gone.
 
 ## The man at the front of the church {-}
 
@@ -70,3 +70,5 @@ Stay glad. It matters on the good days, and it matters most on the bad ones.
 <!-- 2026-11-19 (James): the section "The man who thinks he's built this way" moved here from 'Just Once' (it is about the special case, not the single exception). Paul's thorn: 2 Corinthians 12:7; other sources are listed in 13-just-once.Rmd. -->
 
 <!-- 2026-11-20 structure pass (James: right sections in the right chapters, right sizes, one flow): new heading 'So, will it be harder?'. -->
+
+<!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). -->

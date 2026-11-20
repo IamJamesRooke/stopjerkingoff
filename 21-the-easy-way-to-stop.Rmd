@@ -4,7 +4,7 @@
 >
 > — 1 John 1:9
 
-This is the chapter with the instructions in it. Follow them and you'll find stopping somewhere between easy and enjoyable. There are only two:
+Here are the instructions. Follow them and you'll find stopping somewhere between easy and enjoyable. There are only two:
 
 1. **Decide that you are finished with lust: the porn, the hand and the chase. Never again.**
 2. **Don't mope about it. Rejoice.**
@@ -47,7 +47,7 @@ So let your sorrow look up and not in. Be sorry for what this has cost the peopl
 
 Guilt loads the gun. The man who decides and then spends three weeks feeling filthy is moping in religious clothes, and it ends in the same place. Grace is what makes instruction two possible. You rejoice because the past really is dealt with. A man of forty-three, who had fasted and read his Bible over it for years, summed up his freedom in three words and capital letters: "JESUS DID IT!" That is what rejoicing sounds like, and you can start on the first day.
 
-A psychiatrist has noticed what frightens the men he treats about stopping: "if I stop, I have to face the guilt of having screwed up the last 10 years of my life." That fear has an answer, and it's the one this chapter has been giving. The ten years are confessed and forgiven. You don't have to carry them, and you don't have to keep the habit going to avoid looking at them.
+A psychiatrist has noticed what frightens the men he treats about stopping: "if I stop, I have to face the guilt of having screwed up the last 10 years of my life." That fear has an answer. The ten years are confessed and forgiven. You don't have to carry them, and you don't have to keep the habit going to avoid looking at them.
 
 If you're not a believer, the same advice holds: drop the self-hatred. It never helped you once. Decide, and be glad.
 
@@ -57,7 +57,7 @@ This book keeps saying one hard thing: **a man who can't control his lust can't 
 
 You probably thought self-control meant what you'd been doing for years. You gripped the rail with white knuckles, a strong man holding down a strong desire. That's a wrestling match, and you know who usually won.
 
-Real self-control is quieter. It belongs to a man whose mind is no longer divided. He isn't holding anything down, because there's nothing pushing up. Paul lists self-control among the fruit of the Spirit, and fruit isn't forced. It grows. Thomas Chalmers, a Scottish preacher of two hundred years ago, explained how a desire actually leaves a heart: "the only way to dispossess it of an old affection is by the expulsive power of a new one." For Chalmers the new affection was love for God himself. Nothing smaller is strong enough to push the old one out.
+Real self-control is quieter. It belongs to a man whose mind is no longer divided. He isn't holding anything down, because there's nothing pushing up. Thomas Chalmers, a Scottish preacher of two hundred years ago, explained how a desire actually leaves a heart: "the only way to dispossess it of an old affection is by the expulsive power of a new one." For Chalmers the new affection was love for God himself. Nothing smaller is strong enough to push the old one out.
 
 And here is the payoff. The moment you decide and mean it, you have given your word and you're going to keep it. For the first time in years you'll be a man who can believe his own promises. Trust starts there, and your partner, your friends and your work will feel it in time.
 
@@ -90,3 +90,5 @@ You can't order yourself to feel glad about losing something you still think is 
 <!-- 2026-11-19 listener's pass: two backward references ('this book began by telling you', 'from its first pages') restated in place. -->
 
 <!-- 2026-11-20 structure pass (James: right sections in the right chapters, right sizes, one flow): chapter counts removed (the numbering changed); heading 'The thread pays off' renamed 'A man who can be trusted'; the two-kinds-of-sorrow paragraph shortened because 'The Locked Door' now explains it with 2 Corinthians 7:10. -->
+
+<!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). -->

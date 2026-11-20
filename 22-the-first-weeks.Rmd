@@ -39,7 +39,7 @@ Whichever kind of urge turns up, accept it. Nothing hurts. The feeling itself is
 
 "I know what this is. It's the Little Monster dying. Men in the trap live with this every day of their lives. Free men don't have it. ISN'T IT MARVELOUS that I'm nearly rid of it?"
 
-For a few weeks there'll be a small disturbance in you, and all through those weeks something wonderful will be happening. You are coming clear. A man leaving any old habit has a few odd mornings, and nobody thinks he should go back to it for them. You're starving a parasite, and it will try every trick it has to get fed. It will catch you off guard, when something flashes up on your feed and for a second you forget you've stopped. Each time you see through one of these tricks, the thing gets weaker.
+For a few weeks there'll be a small disturbance in you, and all through those weeks something wonderful will be happening. You are coming clear. You're starving a parasite, and it will try every trick it has to get fed. It will catch you off guard, when something flashes up on your feed and for a second you forget you've stopped. Each time you see through one of these tricks, the thing gets weaker.
 
 Paul says two things about these moments. "No temptation has taken you except what is common to man", so you're not a special case. And "God is faithful", he says, and will "make the way of escape". So there is always a way out. Usually the way out is simply to let the moment pass.
 
@@ -115,3 +115,5 @@ None of this is a fight. You are letting something starve, and you can be cheerf
 <!-- 2026-11-19 listener's pass: 'the superpowers man' explained in place; 'Mark' became 'Pick' for audio; two filler attributions and an institution's name cut (evergreen; sources still listed above); the second 'One caution' varied. -->
 
 <!-- 2026-11-20 structure pass (James: right sections in the right chapters, right sizes, one flow): the sections on the body ('Things that are not a relapse', 'Try it and see') moved out to the new chapter 'What Your Body Will Do' (22b-what-your-body-will-do.Rmd); their source lines above now apply there. One closing line added. -->
+
+<!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). -->

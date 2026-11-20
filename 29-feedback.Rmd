@@ -78,10 +78,6 @@ Then something hasn't clicked yet, and that is no disgrace either. Some men unde
 
 But hear this as well. If you have followed all of it, read the book twice, and are still struggling after a couple of months, that doesn't mean you misunderstood. Some men need a counselor as well as a book. That is the next step, and no defeat. And if you have felt low most of every day for more than two weeks, see a doctor.
 
-**"I fell. Am I back to zero?"**
-
-No. There's no counter in this book, so there's no zero to go back to. Confess it today, refuse the second one, and find the lie that crept back.
-
 ## Porn, and sex {-}
 
 **"What about porn?"**
@@ -123,3 +119,5 @@ So if you're single, the answer is to wait. Don't go looking for somebody to use
 <!-- 2026-11-19 listener's pass: 'The Appendix lists some' removed, since the Appendix no longer lists helplines. -->
 
 <!-- 2026-11-20 structure pass (James: right sections in the right chapters, right sizes, one flow): two long answers moved to chapters of their own: 'Should I tell my wife or my pastor?' is now the chapter 'Who Needs to Know', and the question about erection trouble with a wife is in 'What Your Body Will Do'. Their source lines above still apply there. 'More questions' renamed 'Porn, and sex'; a pointer to 'If You Slip' cut; one repeated image trimmed. -->
+
+<!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). -->

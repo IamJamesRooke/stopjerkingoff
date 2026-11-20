@@ -4,9 +4,7 @@
 >
 > — Matthew 6:34
 
-You've reached the end of the book. I'm glad you came all the way.
-
-Congratulations. I mean that as plainly as I can say it. You were caught in something that holds most men for life, and you walked out. You'll discover over the coming months that life was better than you thought it was. The habit had been standing in front of it.
+You've reached the end of the book. Congratulations. I mean that as plainly as I can say it. You were caught in something that holds most men for life, and you walked out. You'll discover over the coming months that life was better than you thought it was. The habit had been standing in front of it.
 
 ## Today is the only day you've got {-}
 
@@ -83,3 +81,5 @@ You're free, and you're fit for service. Go in peace.
 -->
 
 <!-- 2026-11-20 structure pass (James: right sections in the right chapters, right sizes, one flow): 'the last chapter' became 'the end of the book' (an unnumbered chapter for the people beside him now follows). -->
+
+<!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). -->

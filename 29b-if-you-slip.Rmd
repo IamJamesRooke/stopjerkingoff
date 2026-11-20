@@ -4,7 +4,7 @@
 >
 > — Micah 7:8
 
-This short chapter has no number, and I hope you never need it. It is a warning, and it gives no permission. The rule from the final step stands: not once, for any reason.
+I hope you never need this chapter. It is a warning, and it gives no permission. The rule from the final step stands: not once, for any reason.
 
 But the rule is strict and the grace is real. A soldier who trips on the march doesn't desert. He gets up and gets back in line. So here is what to do if you fall.
 
@@ -61,7 +61,7 @@ You're smiling because you can see what they can't. Nobody needs courage, a coun
 
 How many times this week were you tempted to put a stone in your shoe? None. That isn't self-control. You see a stone for what it is.
 
-If you slipped, the lesson is not "try harder". Somewhere you started believing again that the pebble had something to offer. Find where, go back to that chapter, and read it again. Reading this book a second time is no disgrace and takes only a few evenings. The world repeats its lies daily, so it does no harm to hear the truth twice.
+If you slipped, the lesson is not "try harder". Somewhere you started believing again that the pebble had something to offer. The world repeats its lies daily, so it does no harm to hear the truth twice.
 
 <!-- SOURCES (If You Slip): this unnumbered chapter was made on 2026-11-17 by joining the slip guidance from Chapter 29 ("I fell. Am I back to zero?") and Chapter 31 ("Slipping", "Wanting it to hurt", "The bully", "The men who quit the pebble"), so that it has one home. No new quotations were added.
 - "you cleanly got over ten and then you kind of stumbled on like the 11th but that doesn't mean that you've fallen over and you have to start again" — a member of a NoFap group on a HealthyGamerGG video; full source line in Chapter 29's SOURCES.
@@ -72,3 +72,5 @@ If you slipped, the lesson is not "try harder". Somewhere you started believing 
 -->
 
 <!-- 2026-11-19 psych review fixes applied (editorial/PSYCH-REVIEW.md): see that file for the reasoning and sources. -->
+
+<!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). -->

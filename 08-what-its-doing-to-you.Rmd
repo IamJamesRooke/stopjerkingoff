@@ -4,15 +4,15 @@
 >
 > — Galatians 6:7
 
-This is the chapter where the lies are thickest.
+This is where the lies are thickest.
 
 Most men, especially young and single ones, think they've already counted the cost of this habit and found it small. "It doesn't hurt anybody. The doctors say so." The doctors are talking about your body, and on your body I take their word. **This book isn't about your body.**
 
 A doctor can check your blood pressure. But who checks your drive, or your nerve? Who checks whether you can hold a woman's gaze, keep a promise to yourself, or pray without flinching? No clinic runs those tests. You're the only one who can read the results, and you've been reading them for years.
 
-So almost nothing in this chapter is a medical finding, and where the doctors do come into it I'll say so. The rest is conviction, and it is the testimony of men who lived it. Check every line against your own life. If one doesn't fit, drop it. I don't think you'll drop many.
+So almost nothing here is a medical finding, and where the doctors do come into it I'll say so. Check every line against your own life. If one doesn't fit, drop it. I don't think you'll drop many.
 
-A young man rarely notices the cost, and there's a reason for it. At twenty he has energy to burn, nobody depending on him, and no partner lying beside him to notice that he's absent. He can fund the habit out of the surplus. The bill arrives later, when life starts asking for everything he has. Then he finds he's been spending a tenth of it in the dark for fifteen years.
+A young man rarely notices the cost. At twenty he has energy to burn, nobody depending on him, and no partner lying beside him to notice that he's absent. He can fund the habit out of the surplus. The bill arrives later, when life starts asking for everything he has. Then he finds he's been spending a tenth of it in the dark for fifteen years.
 
 ## It isn't a landmine {-}
 
@@ -28,13 +28,13 @@ So don't ask whether the mine will ever go off. Ask what has been going out of t
 
 ## What it has been taking {-}
 
-There is no shock treatment in this book, and there won't be any here. Nothing below will be news to you. It's a list of things you already know and have trained yourself not to look at.
+There is no shock treatment here. Nothing below will be news to you. It's a list of things you already know and have trained yourself not to look at.
 
 ### Your drive {-}
 
 One coach masturbated daily for years, and he sums up what it does to men in three short sentences: "It kills their drive. It destroys their confidence and it numbs their hunger."
 
-Why would it do that? His answer is the best I've heard: it hands a man the reward without the effort. Think about what a man's hunger is for. It's meant to get him up, send him out and make him build something, win someone and become someone. Then every night he tells that hunger it has already been fed. After enough years it stops asking.
+Why would it do that? Think about what a man's hunger is for. It's meant to get him up, send him out and make him build something, win someone and become someone. Then every night he tells that hunger it has already been fed. After enough years it stops asking.
 
 That is the flat feeling. It isn't sadness, exactly. The morning after, you've got your coffee, your list and your good intentions, and there's nothing behind them. One man on the NoFap forum, ninety days out, remembered where he had been: "My drive for life was almost at zero."
 
@@ -52,7 +52,7 @@ This is the one men find hardest to believe and easiest to recognize. Why would 
 
 Because you bring it with you. You walk in knowing what you did at midnight, and you assume it shows. The morning after, you can hardly look people in the eye.
 
-It's worst around women. A man who spent last night using women in his head finds it hard to face the next real one this morning. He's either sizing her up or looking at his shoes. He's forgotten how to simply talk to her as a person, because he's had so much practice treating women as something else. One man who got out found that this changes too: "I feel like a better person and have a better appreciation for women".
+It's worst around women. A man who spent last night using women in his head finds it hard to face the next real one this morning. He's either sizing her up or looking at his shoes. One man who got out found that this changes too: "I feel like a better person and have a better appreciation for women".
 
 ### The way you see women {-}
 
@@ -76,7 +76,7 @@ You skip the prayer because of what you did an hour ago. You sit at the back and
 
 This means the marriage you have, or the one you hope to have.
 
-C.S. Lewis saw this more clearly than anyone. Desire, he said, is meant to drive a man out of himself and toward a real woman. She has her own mind and her right to say no. The habit turns him around and sends him back into the prison of himself, with his harem of imaginary brides. The harem never has a headache, never needs listening to and never asks anything of him. And a man can come to prefer it that way.
+Desire is meant to drive a man out of himself and toward a real woman, who has her own mind and her right to say no. The habit turns him around and hands him women in his head. They never have a headache, never need listening to and never ask anything of him. And a man can come to prefer it that way.
 
 So the husband lies a foot from his wife and a hundred miles away. She can't name what's wrong, but she can feel that some part of him is being spent elsewhere. Sometimes his body tells on him. "I knew there was a serious problem", wrote a man on a sobriety forum, "when I was losing my erection sometimes when I was with my wife". And he can't tell her, so there's now a locked room in the marriage.
 
@@ -86,7 +86,7 @@ A single man shouldn't imagine that a wedding ring will fix it. Ask any married 
 
 ### Your body {-}
 
-This book isn't about your body, and on your body I take the doctors' word. They say the act itself does no physical harm, and I won't argue with them. But there are three places where the body gets pulled into it, and you should hear them told honestly.
+The doctors say the act itself does no physical harm, and I won't argue. But there are three places where the body gets pulled into it, and you should hear them told honestly.
 
 The plainest is sleep. The habit lives late at night. It takes the hour, and then it takes the sleep after the hour. A man who drags himself out of bed every morning is paying a physical price, whatever the textbooks say about the act.
 
@@ -190,3 +190,5 @@ That day is closer than you think.
 - The study is PubMed 37605604 (2023; 448 men; 2.2-fold).
 - "In a young man the usual cause is worry": the standard clinical view that erection trouble in young men is most often psychological (performance anxiety); research on porn and erection trouble is mixed.
 -->
+
+<!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). Exact changes are in the report sent to James. -->

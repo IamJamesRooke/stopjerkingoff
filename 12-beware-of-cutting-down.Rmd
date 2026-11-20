@@ -43,8 +43,6 @@ You can test this on yourself without changing anything. Don't set yourself a li
 
 The act was the same. Your hand was the same. The memory you used may well have been the same. The only thing that changed was how long you'd been kept waiting. If a thing were truly good, it would still be good the second time. A second helping of mashed potatoes is still mashed potatoes.
 
-That's why the time you waited for looks so much better than the daily one. There's no real pleasure in either. What separates them is only how miserable you were beforehand.
-
 Is the Saturdays-only man in control of anything? Outwardly he's the disciplined one, the once-a-week man the daily man envies. Inwardly he has spent six days out of seven in a quiet fight, and the seventh losing it by appointment. And the logic of his position doesn't hold. Either there's something real in the habit or there isn't. If there is, why wait a week for it? If there isn't, why do it at all?
 
 ## Willpower for life {-}
@@ -65,15 +63,13 @@ A limit is indulgence with a schedule.
 
 Under one man's testimony a commenter wrote the sentence this whole chapter is trying to say. God had told him, he wrote, that he couldn't kill something he continued to feed.
 
-Yes, a handful of men have cut down for a short while and then stopped for good. They got free in spite of cutting down. All it did was stretch out the misery. For everyone else, each failed limit leaves a man a bit more rattled and a bit more certain he's a lifer. That certainty is usually enough to send him back for another round.
+Each failed limit leaves a man a bit more rattled and a bit more certain he's a lifer. That certainty is usually enough to send him back for another round.
 
 So your choices are these:
 
 1. Keep to a limit for life, and put yourself through that every week. You won't manage it anyway.
 2. Drop the limit, go back to doing it whenever, and let it take a bit more from you each year. Pointless.
 3. Be kind to yourself and cut it out altogether.
-
-Cutting down proves something else too: the "occasional one" doesn't exist. Each time sets up the next. It's a chain, and it will run to the end of your life unless you break it.
 
 This is what Paul is getting at in his letter to the Romans, when he says to "make no provision for the flesh". "Saturdays only" is a provision. It's a standing reservation for the flesh: table for one, every Saturday, name on the list. Paul doesn't say to make a smaller provision. He says to make none.
 
@@ -105,3 +101,5 @@ Remember:
 -->
 
 <!-- 2026-11-19 listener's pass: the unnamed-pastor paraphrase was cut; its one good line stays in the book's own voice. -->
+
+<!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). Exact changes are in the report sent to James. -->

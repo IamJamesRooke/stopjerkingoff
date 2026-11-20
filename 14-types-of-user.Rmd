@@ -25,7 +25,7 @@ So a man in the trap makes two mistakes about other men. He envies the one who s
 If the light man is caught as firmly as the heavy one, why do they look so different? It isn't strength. If you've got an itch that never quite goes, the natural thing is to scratch whenever it nags. Each scratch works a little less well than the one before. So the natural drift is always toward more: more often, for longer, with stronger material. So why isn't every man in the trap doing it five times a day? Four things hold him back.
 
 1. **Time.** He has a job, a family and a life, and most days are full.
-2. **The body.** It has limits. A man can only go so many rounds, and those limits change with his age, his health and how tired he is. It's an automatic brake.
+2. **The body.** A man can only go so many rounds, and fewer as he gets older and more tired.
 3. **Privacy.** A partner in the bed, a roommate, children who don't knock, thin walls. For many men the only thing between them and twice as often is a lack of locked doors.
 4. **Conscience.** The tug of war that goes on in every man in the trap. Some of it comes from how he was raised, some from a partner's opinion, and some from a plain dislike of what he's turning into.
 
@@ -87,7 +87,7 @@ Whatever you believe about marriage, you promised her this part of yourself. A m
 
 The next man would never go near a screen, and that is his "at least". "I don't look at anything. It's all in my head."
 
-Everybody starts there. Isn't it strange how the scenes don't stay tame? Last year's picture stops working, so the mind supplies something a little further on. Then it wants a real face: a coworker, a friend's wife, the girl who serves your coffee. Then it wants "just a photo, to get started".
+Everybody starts there, and the scenes don't stay tame. Soon the mind wants a real face: a coworker, a friend's wife, the girl who serves your coffee. Then it wants "just a photo, to get started".
 
 The head is never empty, and you knew that already. The imagination-only man is proud that no one else's sin is on his screen. But he's the director, the casting agent and the whole audience of his own private movie theater, and the women in it never agreed to appear.
 
@@ -103,7 +103,7 @@ Peter once asked Jesus how many times he had to forgive his brother. Seven times
 
 It leaks into everything he might have done. He turns down the mission trip, lets someone else lead, and never says why. He is enlisted, and he keeps reporting sick.
 
-The church guy has one burden the others don't. He believes he's the only one. He looks down the row at the other men and assumes they're all clean. They're looking back down the row at him and assuming the same. The habit is feeding on that silence.
+He looks down the row at the other men and assumes they're all clean. They're looking back down the row at him and assuming the same. The habit is feeding on that silence.
 
 ## One trap {-}
 
@@ -150,3 +150,5 @@ There aren't really any types. There's one trap, and men are standing at differe
 <!-- 2026-11-19 (James: section breaks and coherence): 'The man led by a woman' now has five sub-sections (Samson and Delilah; At the mill; The king who sold himself; The man who buys the drinks; The lever at home). Spine for the whole chapter: every man in the trap compares himself with another man ('at least I'm not him'); each section opens with a hand-off; closing section 'One trap' tells the Pharisee and the tax collector in place (Luke 18:10-14, quotes from 18:11 and 18:13 WEB). The simp definition moved out of 'The man who pays' so it is said once. Couch passage unchanged. -->
 
 <!-- 2026-11-19 (James: 'Change it'): the section 'The man led by a woman' moved out to its own chapter straight after this one (14b-the-man-led-by-a-woman.Rmd). The ladder keeps one line for him; 'Five men' became 'Four'. -->
+
+<!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). Exact changes are in the report sent to James. -->
