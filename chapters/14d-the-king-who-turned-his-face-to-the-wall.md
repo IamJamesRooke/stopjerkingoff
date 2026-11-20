@@ -34,6 +34,8 @@ He isn't being cold, and he isn't punishing her. He still loves her, and he stil
 
 Samson was the strongest man alive, and Ahab was a king, and neither of them could say no. The man with the pillow under his arm is neither strong nor a king. He is only free, and that turns out to be the one thing that matters. Nobody can lead him by what he wants, because it no longer leads him.
 
-That is lust out in the room. Most of it never gets that far. It lives in the eyes, and in the head.
+That is the chase. Samson and Ahab were led. The next man is sure that he is the one doing the leading.
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 14b-the-man-led-by-a-woman.Rmd; the source notes for everything here are in that file. -->
+
+<!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md): the head-by-head section was reordered, so the closing hook now leads to 'The Collector and the Customer'. -->

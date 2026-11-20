@@ -8,7 +8,7 @@
 | b | 1043 | 2 | 1 | 1 | 1 | 7 | 0 | 0 | 0 | 0 | 0 |
 | c | 901 | 7 | 4 | 5 | 1 | 1 | 5 | 0 | 0 | 0 | 1 |
 | 1 | 1258 | 2 | 4 | 2 | 1 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 1b | 860 | 2 | 2 | 7 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 1b | 970 | 2 | 2 | 7 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1c | 662 | 2 | 0 | 6 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2 | 834 | 2 | 2 | 0 | 1 | 2 | 0 | 0 | 0 | 0 | 0 |
 | 2b | 1101 | 2 | 1 | 2 | 0 | 11 | 0 | 0 | 0 | 0 | 0 |
@@ -36,13 +36,16 @@
 | 12b | 1208 | 0 | 0 | 7 | 0 | 1 | 0 | 4 | 0 | 0 | 0 |
 | 13 | 1217 | 1 | 0 | 0 | 0 | 2 | 0 | 5 | 0 | 0 | 0 |
 | 14 | 732 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 14a | 1079 | 2 | 4 | 11 | 0 | 2 | 0 | 1 | 0 | 0 | 0 |
+| 14a | 931 | 3 | 2 | 9 | 0 | 1 | 0 | 1 | 0 | 0 | 0 |
 | 14b | 889 | 1 | 0 | 8 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 14c | 1238 | 1 | 1 | 7 | 0 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 14d | 781 | 2 | 0 | 6 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 14c | 906 | 0 | 1 | 2 | 0 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 14d | 780 | 1 | 0 | 6 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 14e | 710 | 0 | 2 | 10 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 14f | 534 | 3 | 0 | 5 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 15 | 658 | 4 | 2 | 5 | 0 | 0 | 0 | 1 | 0 | 0 | 0 |
 | 15b | 970 | 0 | 0 | 8 | 1 | 2 | 1 | 0 | 0 | 0 | 0 |
-| 15c | 975 | 1 | 3 | 15 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 15c | 973 | 1 | 3 | 15 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 15d | 448 | 0 | 2 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 16 | 1051 | 1 | 2 | 1 | 0 | 5 | 0 | 0 | 0 | 0 | 0 |
 | 17 | 868 | 0 | 0 | 1 | 0 | 3 | 0 | 0 | 1 | 0 | 0 |
 | 18 | 599 | 1 | 1 | 2 | 0 | 4 | 0 | 1 | 0 | 0 | 0 |
@@ -73,32 +76,32 @@
 | faq | 1782 | 10 | 10 | 6 | 5 | 5 | 5 | 3 | 1 | 2 | 0 |
 | why-this-book | 1014 | 8 | 6 | 5 | 2 | 2 | 4 | 0 | 0 | 1 | 0 |
 
-## Overused words and phrases (book total 61770 words)
+## Overused words and phrases (book total 63089 words)
 
 | Word | Count | Per 1000 words | In how many files |
 |---|---|---|---|
-| nothing | 155 | 2.51 | 59 |
-| trap | 86 | 1.39 | 33 |
-| a man who | 83 | 1.34 | 43 |
-| itch | 55 | 0.89 | 24 |
-| sin | 54 | 0.87 | 30 |
-| exactly | 29 | 0.47 | 23 |
-| really | 25 | 0.4 | 18 |
-| free man | 23 | 0.37 | 16 |
-| relief | 22 | 0.36 | 12 |
-| plain | 21 | 0.34 | 18 |
+| nothing | 159 | 2.52 | 61 |
+| trap | 86 | 1.36 | 33 |
+| a man who | 85 | 1.35 | 44 |
+| itch | 57 | 0.9 | 25 |
+| sin | 55 | 0.87 | 31 |
+| exactly | 31 | 0.49 | 24 |
+| really | 26 | 0.41 | 19 |
+| plain | 23 | 0.36 | 20 |
+| free man | 23 | 0.36 | 16 |
+| relief | 23 | 0.36 | 13 |
 | actually | 20 | 0.32 | 17 |
 | willpower method | 20 | 0.32 | 13 |
-| simply | 18 | 0.29 | 18 |
+| simply | 19 | 0.3 | 19 |
 | the truth | 18 | 0.29 | 15 |
-| comfort | 17 | 0.28 | 12 |
-| plainly | 16 | 0.26 | 13 |
-| of course | 11 | 0.18 | 10 |
+| comfort | 17 | 0.27 | 12 |
+| plainly | 16 | 0.25 | 13 |
+| of course | 11 | 0.17 | 10 |
 | quite | 10 | 0.16 | 9 |
+| perhaps | 10 | 0.16 | 9 |
 | grace | 10 | 0.16 | 8 |
 | moping | 10 | 0.16 | 5 |
-| envy | 9 | 0.15 | 7 |
-| perhaps | 8 | 0.13 | 8 |
+| envy | 9 | 0.14 | 7 |
 | honestly | 7 | 0.11 | 6 |
 | mope | 5 | 0.08 | 5 |
 | chain | 3 | 0.05 | 2 |
@@ -115,12 +118,13 @@
 
 ## Five-word phrases used 4+ times in 3+ files
 
-- "every man in the trap" x13 in 12, 14, 14a, 14c, 29, b
+- "every man in the trap" x14 in 12, 14, 14a, 14c, 29, b
 - "quote quote quote quote quote" x12 in 11, 14c, 22a, 29b, 4c, b
 - "a doctor or a counselor" x6 in 12b, 15, 34, Intro
 - "easy way to stop smoking" x6 in 34, attribution, c, faq, why-this-book
 - "a man ruled by lust" x5 in 15c, 27b, c, faq, why-this-book
 - "the rest of your life" x5 in 11, 11c, 17, 33, b
+- "a man you may recognize" x4 in 14b, 14f, 15b, 22b
 - "a soldier who shows up" x4 in 27b, c, faq, why-this-book
 - "for the rest of your" x4 in 11, 11c, 33, 7
 - "has nothing to do with" x4 in 11c, 24, 8

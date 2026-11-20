@@ -1,24 +1,6 @@
 # At Least I'm Not Him {#at-least-im-not-him}
 
-Four men in the trap have an "at least" that sounds like a good one. Each is sure he is not as bad as the next man. Take them in turn.
-
-## The collector {-}
-
-The collector's "at least" is that he needs no screen. Real women want him. So he keeps a number. He wouldn't tell his mother, but he knows it exactly. The men online call it a body count, and they compare numbers the way boys compare scores.
-
-Ask him about the women and something odd comes out. He didn't like half of them. Some he wasn't even attracted to. He slept with them anyway, because each one moved the number up. And the number told him something he badly needed to hear: women want you, so you must be somebody.
-
-That isn't confidence. It's a man so unsure of his worth that he needs a new woman every few days to vote on it.
-
-Picture a man at a buffet for the first time. He stacks plate after plate. He paid a lot to get in and he may never be back, so he takes everything. Now watch the wealthy man at the same buffet. He takes what he wants and leaves the rest. He isn't afraid it will run out. The man who takes every woman who offers is not the rich man in that room. He's the hungry one.
-
-Now try something. Suppose every night like that came with what sex was built to carry. If you sleep with her, you stay with her. You marry her. If a child comes, that child is a human life, and yours to raise. And count the years. You'll spend far more of them talking with her, eating with her and sitting through her bad days than you will ever spend in bed with her.
-
-Would you still have gone home with her?
-
-Most men answer at once. "No. Not her." Then she was never someone you wanted. She was a plate.
-
-Here is a question for any man, believer or not. If you had lived as though the Christian rules were true, would you have made better decisions, or worse?
+Three more men have an "at least" that sounds like a good one. Each is sure he is not as bad as the next man. Take them in turn.
 
 ## The married man {-}
 
@@ -68,6 +50,8 @@ Jesus told a story about two men who went up to the temple to pray. The first wa
 
 There aren't really any types. There's one trap, and men are standing at different depths in it. The way out is the same for all of them.
 
-One man has been left for last. His lust never touches a screen. It walks into the room with him.
+One thing has kept all of this alive for years, and it isn't desire. It is a locked door.
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 14-types-of-user.Rmd; the source notes for everything here are in that file. -->
+
+<!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md): 'The collector' section moved, unchanged, to the new chapter 'The Collector and the Customer'. 'Four men' became 'Three more men'. This chapter now comes after the five heads and before 'The Locked Door', so its last line is the locked-door hook that used to end 'Mothers, Sisters, Daughters'. -->
