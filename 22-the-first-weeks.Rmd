@@ -51,36 +51,7 @@ If you're a Christian, take one more thing to heart. It is not a sin to be tempt
 
 You had strong reasons for stopping, and now is the time to take them down off the shelf. Remember the years, the fog, the secrecy and the distance from God. The Little Monster will try to tell you they weren't so bad.
 
-## Whose voice is that? {-}
-
-One more tool, for the man who has seen through every lie in this book and still gets tripped up. It is an old technique from addiction recovery.
-
-**The old lie speaks in your voice and says "I".** The Little Monster is only an itch, and an itch can't talk. The voice belongs to the Big Monster. He never says, "This is your old habit speaking." He says, "I could do with it tonight." "I've had a rough week." "I deserve something." It sounds exactly like your own thinking, so you take it for your own.
-
-There's a simple test. Say No, plainly, and listen to what comes back. The grammar changes. "I could do with it" becomes "Oh, come on, *you* know you want to." Something that has to switch to "you" in order to keep arguing with you isn't you.
-
-You've caught him.
-
-Now treat him as the caller he is. You have said it once, and outright. Give him no reason, because a reason is something he can argue with. Don't let him down gently. Then never answer again.
-
-Here's a second test. Hold up your hand and wiggle your fingers. Now ask the urge to do it. He can't. He has no hands of his own, and he has never once done the deed himself. He can only talk until you lend him yours.
-
-And hearing the voice doesn't mean you believe the lies again. A man hears "I want it" in his own head and panics: "The book hasn't worked." Ask one question: *do I actually believe what that voice just said?* If the honest answer is no, your understanding is fine. You've only heard a noise. In Romans 7, Paul told the two voices apart in a single line: "So now it is no more I that do it, but sin which dwells in me." That doesn't make it someone else's fault. It means you don't have to obey it.
-
-## Lines for a hard moment {-}
-
-These aren't spells. Each one is a true sentence to set against a false one. Pick the two or three that fit you, and keep those.
-
-1. "A feeling is not an order. I can feel this and do nothing about it, and it'll go."
-2. "It never fixed a bad day. I got the same bad day back with shame added."
-3. "I'm uncomfortable. I'm not in danger."
-4. "I failed before. That's a fact about some days in my past, and it's no forecast."
-5. "Loneliness hurts, and it's telling me to go and find people. It isn't telling me to shut the door."
-6. "Boredom is not an emergency."
-7. "I'm tired. Tired men believe lies more easily. I'll go to bed."
-8. "I am forgiven. I don't have to earn it by being miserable."
-
-None of this is a fight. You are letting something starve, and you can be cheerful while it does.
+He will tell you in a voice you know very well. It is your own.
 
 <!-- SOURCES (Chapter 22): every quote below is from the research files; check each against its page before publishing.
 - "Whose voice is that?" (the old lie says "I"; say No and it switches to "you"; the hand test): from the essay in EasyPeasy's appendix, which borrows Jack Trimpey's Addictive Voice Recognition Technique. The body no longer names either (2026-11-18, names kept out of the body); the credit stays here and on the Attribution page.
@@ -121,3 +92,5 @@ None of this is a fight. You are letting something starve, and you can be cheerf
 <!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). -->
 
 <!-- 2026-11-20 (James): callback to the four instructions from 'Just Once' (say it once and outright; give no reason; don't let him down gently; never answer again), restated in place with no pointer back. -->
+
+<!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Some sections of this chapter moved to the chapters that follow it; their source notes stay listed here. -->

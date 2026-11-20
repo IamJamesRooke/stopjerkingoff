@@ -87,52 +87,6 @@ Don't get up thinking "I must never do that again" or "I'm not allowed anymore".
 
 Do it now.
 
-## Let it ring {-}
-
-A surgeon turned writer named Maxwell Maltz had a picture for this, and it's worth carrying with you.
-
-Imagine you're sitting in an armchair and the telephone rings. All your life you've jumped up to answer it. Today you stay in the chair. You can hear it perfectly well. You're not pretending it isn't ringing, and you're not gripping the armrests. You just don't get up.
-
-Two things follow. First, the ringing has no power of its own. A bell is a noise in the air and can't lift a man out of a chair. It only ever moved you because you'd formed the habit of obeying it. Second, not answering takes no effort. You aren't wrestling the phone. You're doing nothing at all, and doing it comfortably.
-
-Every cue you'll meet is that telephone. It may be the empty house, the photo in the feed, the bed at midnight, the bad day or the message from her. Let it ring. It will stop.
-
-You have just done the first of four things, which is to say it once and say it outright. The other three keep it said. Give no reason. Don't let him down gently. Never answer again.
-
-You know your hour: the shower, the empty house, midnight. Expect it. A bell you saw coming is only a bell.
-
-And if you lie awake the first night or two, lie there and be glad. You know what is dying.
-
-## You are already free {-}
-
-Only two things can make this hard: doubting and waiting. So never doubt the decision. You know it's right. If you start to question it, you put yourself where you can't win. You'll be miserable if you don't, and worse if you do.
-
-Ask what you're actually trying to achieve. It isn't simply "never to do any of it again". Plenty of men manage that and feel robbed until they die. Think instead about the man who has never had the habit. He isn't different from you because he resists. He doesn't want it. He has no craving, and he isn't using any willpower.
-
-That's what you're after, and it's within reach. You don't have to wait to become that man. You started being him when you said it, and God finishes what he starts.
-
-You are already a free man.
-
-Sometime in the first week or so, tell one person you trust.
-
-On good days and bad, don't build your life around having stopped. If you do, you'll turn something that cost you nothing into a real sacrifice. You haven't given up living. You've been healed of something and let out of somewhere. The weeks will go by, and your energy and your conscience will recover. Your good days will be better and your bad days milder than they ever were.
-
-And whenever the thought of it crosses your mind, tomorrow or in forty years, be glad. You're free.
-
-## A final warning {-}
-
-Men who have walked out and lived happily for years do go back in. I hope this book has made stopping easy for you. But a man who finds stopping easy can find starting again just as easy.
-
-**Don't fall for that.**
-
-However long you've been free, and however sure you are that you could never be caught again, keep one lifelong rule: not once, for any reason. A lonely anniversary doesn't count as a reason. Neither does "to help me sleep", or "just to see". The old inclination is asleep. Don't wake it.
-
-The rule is strict, and the grace is real. A man who falls confesses it that day, refuses the second one, and gets up. Don't plan on needing that.
-
-Paul once wrote to people who were already free: "Stand firm therefore in the liberty by which Christ has made us free, and don't be entangled again with a yoke of bondage." He didn't tell them to try to get free. He told them to stand firm in it.
-
-You're free, so stand firm.
-
 <!-- SOURCES (Chapter 28): every quote below is from the research files; check each against its page before publishing.
 - "Jesus' grace to change you is stronger than pornography's power to destroy you." — Heath Lambert, *Finally Free* (Zondervan, 2013), p. 28, as quoted at https://www.desiringgod.org/articles/20-quotes-from-finally-free (written of pornography, as the text says)
 - "But God, I still smell like yesterday. Just come." / "You're not too dirty. You're not too far." — Ezekiel ("Brother Zeke"), We Need to Talk, "How Mast*rbation Had Me Bound but God", https://www.youtube.com/watch?v=mppw_mrhlIY (auto-captions; research/round2/sources-log.md)
@@ -151,3 +105,5 @@ You're free, so stand firm.
 <!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). -->
 
 <!-- 2026-11-20 (James): callback to the four instructions from 'Just Once' (say it once and outright; give no reason; don't let him down gently; never answer again), restated in place with no pointer back. -->
+
+<!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Some sections of this chapter moved to the chapters that follow it; their source notes stay listed here. -->
