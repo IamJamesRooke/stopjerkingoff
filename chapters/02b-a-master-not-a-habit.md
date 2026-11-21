@@ -49,7 +49,7 @@ Stopping can be easy for any man. But first we need the facts about why you're s
 
 The men who have already walked out aren't missing a thing. They aren't gritting their teeth or looking back with longing. If anything they seem faintly puzzled that they ever bothered.
 
-Before long you'll be one of them. Jesus said, "You will know the truth, and the truth will make you free." He was talking to people who had started to follow him, and the truth he meant was his own word. A few verses later he says it is the Son who makes a man free. This book is about one small corner of that truth: the lies lust tells. If you're not a believer, you can still test those lies for yourself.
+Before long you'll be one of them. Jesus said the truth makes a man free, and a few verses later he said it is the Son who does it. This book is about one small corner of that truth: the lies lust tells. If you're not a believer, you can still test those lies for yourself.
 
 Take the flesh first. It is the smaller of the two, and it is not what you think it is.
 

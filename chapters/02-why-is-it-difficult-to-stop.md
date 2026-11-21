@@ -4,7 +4,9 @@
 >
 > — John 8:34
 
-Sooner or later, every man ruled by lust gets the creepy feeling that he isn't the one in charge.
+So far you have seen the trap from the outside. Now we open it up and look at how it holds a man. For this stretch of the book the subject is the habit: porn and masturbation, together or one at a time.
+
+Sooner or later, every man with the habit gets the creepy feeling that he isn't the one in charge.
 
 It doesn't begin that way. In the early years the line is casual: "I'll stop. Just not tonight." Augustine became one of the great teachers of the early church. But first he spent years ruled by lust, and in those years he prayed much the same prayer: "Give me chastity and continency, only not yet." Sixteen centuries later we're all still praying it.
 

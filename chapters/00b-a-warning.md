@@ -1,6 +1,6 @@
 # The Button {#a-warning}
 
-There is a button on the man's nightstand. If he presses it, he wakes up tomorrow as a man who simply never picked up this habit. No urges, and no pull.
+There is a button on the man's nightstand. If he presses it, he wakes up tomorrow as a man who simply never picked up the habit. No porn, no hand, no urges and no pull.
 
 Would he press it? He would press it hard enough to break the nightstand. So would you. Every man reading this would.
 

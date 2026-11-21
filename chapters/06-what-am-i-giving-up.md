@@ -46,7 +46,7 @@ Would you use the cream again?
 
 Would you need willpower to leave the tube in the drawer? Would you count the days, or call yourself a warrior? You might be uneasy for the first week, in case what you'd read was wrong. But as soon as you saw the patch shrinking, the wish for the cream would go. You wouldn't mope. You wouldn't sit around feeling sorry for yourself. You'd look at your arms every morning and grin.
 
-That is exactly what it's like to walk away from lust.
+That is exactly what it's like to walk away from the habit.
 
 The rash isn't the guilt, the tired mornings, the wasted evenings, the distance from your wife or the silence between you and God. All of those are extra. The rash is that edgy, hollow, slightly panicky feeling of *I need it*. Men who don't have the habit never get that feeling. You didn't have it at nine years old. It arrived with the first time, and every time since has fed it.
 
@@ -56,7 +56,7 @@ Porn and the chase after women work the same way. Porn made the hunger for more 
 
 A skeptic on a recovery forum raised a fair objection. He was halfway through EasyPeasy, the online book that inspired this one. If you lost nothing, he said, then nothing would change and you wouldn't notice anything. Of course something changes. The man with the rash loses his cream, and he notices. He loses the itch, the scratching, the tube in every coat and the dread of running out. When this book says you give up nothing, it means nothing good. You lose a problem and the false cure for it, and you lose them together.
 
-Paul, the apostle who wrote much of the New Testament, said the same of his own life: "I consider those things that were gain to me as a loss for Christ." That is in his letter to the Philippians. Paul had a list of things he'd once counted as profit. He didn't give them up with gritted teeth. He looked at them beside what he'd found, which was Christ himself, and moved all of it to the other side of the ledger. In the next verse he called them "refuse", which is a polite translation. He isn't boasting about a sacrifice. He has seen what the stuff was worth.
+The apostle Paul said the same of his own life: "I consider those things that were gain to me as a loss for Christ." That is in his letter to the Philippians. Paul had a list of things he'd once counted as profit. He didn't give them up with gritted teeth. He looked at them beside what he'd found, which was Christ himself, and moved all of it to the other side of the ledger. In the next verse he called them "refuse", which is a polite translation. He isn't boasting about a sacrifice. He has seen what the stuff was worth.
 
 That's where you're headed. You won't be a man bravely doing without. You'll look at the tube of cream and wonder how you ever thought it was medicine.
 

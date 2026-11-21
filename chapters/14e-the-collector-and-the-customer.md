@@ -30,7 +30,7 @@ One question for any man, believer or not. If you had lived as though the Christ
 
 ## The customer {-}
 
-The customer's "at least" is that it's honest. For him it may be an escort, a massage parlor with a back room, or a trip abroad to a place where sex is cheap and nobody knows him. He pays a fair price, he says, and they are two adults. But he can't know whether she chose this. In every country police keep finding women in this trade who are held there by a debt, a threat or a passport locked in someone else's drawer. He can't know her age.
+The customer's "at least" is that it's honest. For him it may be an escort, a back room, or a cheap flight to a place where nobody knows him. He pays a fair price, he says, and they are two adults. But he can't know whether she chose this. In every country police keep finding women in this trade who are held there by a debt, a threat or a passport locked in someone else's drawer. He can't know her age.
 
 And for all that he buys the same ten minutes and the same flat feeling afterward, at a higher price. It is the porn habit with the screen taken away. The man who watches porn is already a customer. This man has only walked up to the counter.
 

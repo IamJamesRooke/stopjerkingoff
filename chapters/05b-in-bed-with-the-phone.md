@@ -4,7 +4,7 @@ If you're like most men, the phone is in your hand before your head has touched 
 
 "I do it when I'm bored." But boredom is a state of mind. Give a man something that absorbs him and he can go for days without a thought of it. Leave him lying on a bed with nothing to do and a screen full of half-dressed strangers. Now there's nothing between him and the Little Monster's whisper. He isn't bored and then tempted. He's itchy, and with nothing to distract him he notices it.
 
-A psychiatrist who treats porn addiction says the number one cause of relapse is not strong emotion. It is boredom. His reason takes one line: "if you've got a gap in your day porn will fill it".
+The same psychiatrist says the number one cause of relapse is not strong emotion. It is boredom. His reason takes one line: "if you've got a gap in your day porn will fill it".
 
 The most famous fall in the Bible began in an empty hour. David, Israel's greatest king, fell on an idle evening, alone on his roof, while his army was away at war. You know that hour.
 

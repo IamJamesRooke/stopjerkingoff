@@ -4,9 +4,9 @@ The usual way of quitting begins at the foot of a mountain. You stare up at it a
 
 This way begins somewhere else. You begin with relief, like a man walking out of the doctor's office with the all-clear. And the feeling doesn't fade. Years from now you'll look back at this stretch of your life and scratch your head over why you ever did it. When you meet men who are still stuck, you'll feel sorry for them. You won't envy them for a second.
 
-How? The method has one aim: to change the way you think about lust.
+How? The method has one aim: to change the way you think about the habit.
 
-That's all. It won't make you stronger, and it won't make you more disciplined. It will change what you see when you look at porn, at the habit, and at the pull women have on you. Once you see it clearly, stopping is easy.
+That's all. It won't make you stronger, and it won't make you more disciplined. It will change what you see when you look at porn, at masturbation, and later at the pull women have on you. Once you see it clearly, stopping is easy.
 
 I didn't invent this way of quitting. A man named Allen Carr did, for smokers. His book, *Easy Way to Stop Smoking*, has helped a great many people put down cigarettes without a fight. Later a free book called [*The Easy Peasy Way to Quit Porn*](https://easypeasymethod.org/) used Carr's method to help men quit porn. This book borrows from both, and takes the same method to lust itself. The credit is theirs. Any mistakes are mine.
 
@@ -46,7 +46,7 @@ The relaxation, the sleep, the stress relief, the "release", the thrill of somet
 
 ## A sample: "It helps me sleep" {-}
 
-It does seem to. You do it, and you drop off. Case closed?
+It does seem to. You masturbate, and you drop off. Case closed?
 
 Ask who was keeping you awake. You slept like a stone when you were nine. The man who never started this is asleep ten minutes after his head touches the pillow, and nothing has helped him. You are the only one of the three lying there restless, and you are the only one with a squatter banging on the floor.
 

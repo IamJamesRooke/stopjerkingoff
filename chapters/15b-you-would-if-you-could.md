@@ -1,6 +1,6 @@
 # You Would If You Could {#you-would-if-you-could}
 
-Now take the man who has a wife or a girlfriend, and still does this to a video, or to the thought of another woman.
+This room belongs to the man with a wife or a girlfriend. He has never touched another woman. He only thinks about them.
 
 Ask what the fantasy is. It's a rehearsal. In his head he has already said yes. Suppose the woman on the screen walked into the room and made the same offer. In the fantasy, he never once says no.
 
@@ -16,7 +16,7 @@ This is what Jesus meant by adultery in the heart. He wasn't exaggerating. He wa
 
 Some men will say, "That's not me. I could, and I don't." Then look at why you don't.
 
-There's a man you may recognize. He has a girlfriend, and lately he's been thinking about a ring.
+There's a man you may recognize. He has a girlfriend, and it is getting serious.
 
 One Friday he's out with friends, and a woman he half knows starts talking to him. She laughs at everything he says. She touches his arm. She isn't really his type. But she's pretty enough for tonight, and he can tell that if he made a move, she would say yes.
 
@@ -24,7 +24,7 @@ He doesn't make one. He walks home feeling rather good about himself. "See? I'm 
 
 But he knows why he left, and it wasn't his girlfriend. It was the work. He'd have had to buy the drinks and keep the talk going for another hour. Then there'd be the morning, and her messages, and the lies to keep straight. He never wanted her. He wanted to use her, and using her was too much trouble.
 
-So at home he takes the easy way. He opens his phone and finds a video. Halfway through, it's her face he's thinking of. "Nobody's hurt", he tells himself. "She'll never know."
+So at home he takes the easy way. He lies down in the dark, and it's her face he's thinking of. "Nobody's hurt", he tells himself. "She'll never know."
 
 The next evening his girlfriend is cooking dinner. She looks up, smiles, and asks how his night was. "Quiet", he says.
 
@@ -40,7 +40,7 @@ That man isn't gritting his teeth. He has stopped wanting it, so there is nothin
 
 No filter blocks a memory. That's why some men think the reel is the safe option.
 
-C.S. Lewis didn't. In 1956 a man wrote to him about masturbation. Lewis answered that the habit sends a man back into the prison of himself, to keep a harem of imaginary brides. The imaginary women are always available. They never refuse, and they never ask a man to give anything up. So, Lewis wrote, "this harem, once admitted, works against his ever getting out and really uniting with a real woman." A real woman has moods, needs and a mind of her own. The harem has none, so she's the one who starts to feel like hard work.
+C.S. Lewis didn't. He called it a harem of imaginary brides, and he saw what the harem does to a man. The imaginary women are always available. They never refuse, and they never ask a man to give anything up. So, Lewis wrote, "this harem, once admitted, works against his ever getting out and really uniting with a real woman." A real woman has moods, needs and a mind of her own. The harem has none, so she's the one who starts to feel like hard work.
 
 Then comes his warning: "The danger is that of coming to love the prison."
 

@@ -8,7 +8,7 @@ The flesh supplies the itch. The world supplies the reasons to scratch it.
 
 Two things keep a man in this trap. The first is the flesh, with its small, restless itch, the Little Monster. The second is the lies, and they are much the bigger of the two. Call them the Big Monster. The Little Monster is tiny. The Big Monster is everything you've been told about him.
 
-Your grandfather was told that this habit would make him go blind, grow hair on his palms and land him in an asylum. That was nonsense, and it deserved to be laughed out of the room. But when the scare stories went, the truth went out with them. The pendulum swung all the way over, and now a boy hears the opposite sermon, preached just as confidently. Here are its main points.
+Start with masturbation, because the loudest lies are about that. Your grandfather was told that it would make him go blind, grow hair on his palms and land him in an asylum. That was nonsense, and it deserved to be laughed out of the room. But when the scare stories went, the truth went out with them. The pendulum swung all the way over, and now a boy hears the opposite sermon, preached just as confidently. Here are its main points.
 
 **"Everyone does it."** Nearly true. But a crowded trap is still a trap. Since when did you take your direction from a crowd that's lost?
 
@@ -18,7 +18,7 @@ Your grandfather was told that this habit would make him go blind, grow hair on 
 
 **"A man needs the release."** You need air, water and food. Go without those and you die. No man has ever been carried out of a tent after a week's camping because he couldn't get a minute alone.
 
-**"It keeps you out of worse trouble."** Nowhere does the Bible tell a man to commit one sin in order to avoid another. And it doesn't even work. Ask the men who quit porn, kept the habit, and found that it let porn back in.
+**"It keeps you out of worse trouble."** Nowhere does the Bible tell a man to commit one sin in order to avoid another. And it doesn't even work. Ask the men who quit porn, kept the hand, and found that it let porn back in.
 
 ## The opposite lie {-}
 
@@ -40,7 +40,7 @@ First, the Bible never mentions masturbation by name. If you were hoping for a v
 
 Second, the numbers. In one study in 2017 of adults who watch porn, nearly nine in ten were not compulsive in the sense a clinic uses. About one in eight used it little and still felt great distress over it. If that is you, your trouble may be the war more than the habit, and this book means to end the war. This book has never said that every man who does this is a clinical addict. Its case rests on two things no clinic measures: what Jesus said about lust, and what men say the habit has cost them. So when this book treats all of it as one problem, that is a moral and spiritual judgment. It is not a medical one, and most doctors would not make it. Besides, you didn't pick up a book with this title because you were fine.
 
-Those are the lies about the habit. The lies about porn and about women are worse, because somebody else pays for them.
+Those are the lies about masturbation. The lies about porn and about women are worse, because somebody else pays for them.
 
 <!-- SOURCES (Chapter 4): every quote below is from the research files; check each against its page before publishing.
 - NO LONGER QUOTED in the body (cut 2026-11-18): "Virtually every man and almost as many women have tried it." — John Piper, "Missions and Masturbation", https://www.desiringgod.org/articles/missions-and-masturbation. Confirmed word for word on desiringgod.org, 2026-11-14 (research/quote-verification.md), and restored as a quote.

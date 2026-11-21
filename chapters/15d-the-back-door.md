@@ -6,7 +6,7 @@
 
 "Fine. No porn. But the hand on its own is natural."
 
-That is the first room he moves to, and nearly every man has stood in it. A man quits porn and is proud of it, and he should be. But he keeps the hand, the way a man gives up whiskey and keeps the beer. He tells himself it is a different thing now.
+That is the first room he moves to, and nearly every man has stood in it. Some men have read every page so far and quietly filed it all under porn. The screen was the problem, they decide, and the hand without the screen is another matter. A man quits porn and is proud of it, and he should be. But he keeps the hand, the way a man gives up whiskey and keeps the beer.
 
 The hand needs no screen, no woman and no money. All it needs is a man by himself for five minutes. For most men it was the first thing lust ever borrowed, and they expect it to be the last to go.
 
@@ -18,7 +18,7 @@ This chapter is called the back door for a reason. One man quit porn twice, and 
 
 It isn't hard to see how. The hand never works alone. Ask what is playing while it happens, because something always is. It's a memory, or a face from the feed, or a woman from work. The hand is where the look and the thought turn into the act.
 
-Then the memory wears thin. Every scratch works a little less well than the one before, so the hand goes looking for a stronger film, and it knows exactly where the stronger film is kept. The man bolted the front door and left the back door standing open. Then he was surprised to find the same old visitor in his kitchen.
+Then the memory wears thin. The same memory does a little less each time. So the hand goes looking for a stronger film, and it knows exactly where the stronger film is kept. The man bolted the front door and left the back door standing open. Then he was surprised to find the same old visitor in his kitchen.
 
 So what has the hand really been paying you all these years?
 
