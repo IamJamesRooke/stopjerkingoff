@@ -6,7 +6,7 @@ Three men in the trap have an "at least" that sounds like a good one. Each is su
 
 The married man has an "at least" of his own. At least he has never cheated. He thought the wedding would end it. Many of us did. He found out within the month that it had come with him on the honeymoon.
 
-He believes he's owed a release every day or two. His wife is not always of the same mind. She's tired, or pregnant, or away, or they've had a fight. So he "fills the gap". Her tiredness is never his excuse, and the habit doesn't stay inside the gap anyway. Soon it's happening on nights when she would have said yes, because it's quicker, because it asks nothing, because nobody has to be wooed. In time he's half glad when she turns over, since it hands him his excuse.
+He believes he's owed a release every day or two. His wife is not always of the same mind. She's tired, or pregnant, or away, or they've had a fight. So he "fills the gap". Her tiredness is never his excuse, and the habit doesn't stay inside the gap anyway. Soon it's happening on nights when she would have said yes, because it's quicker, because it asks nothing, because nobody has to be won over. In time he's half glad when she turns over, since it hands him his excuse.
 
 And when she does reach for him, he's already spent, or his mind is on a reel she isn't in. He gave the best of it to nobody, and she gets what's left over.
 

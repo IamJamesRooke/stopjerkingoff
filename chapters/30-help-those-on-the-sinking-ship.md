@@ -46,7 +46,7 @@ What do all these have in common? They stop the hand, and they leave the wanting
 
 Ask the man back from the mission trip how the first night alone in his own house went. Being kept from it didn't shrink the desire. All it did was teach him two things. The thing must be precious, since everyone is working so hard to keep it from him. And he must be helpless, since he can't be trusted on his own.
 
-The cruelest version is the one we use on boys. We hand a twelve-year-old a screen and say nothing useful to him at all. Then at fifteen somebody discovers it and comes down on him with shame. Your son doesn't need a fence. He needs what you now have: an explanation. He needs a father who can say, "I was caught in that for years. Here is how it works. Here is the way out."
+The cruelest version is the one we use on boys. We hand a twelve-year-old a screen and say nothing useful to him at all. Then at fifteen somebody discovers it and shames him for it. Your son doesn't need a fence. He needs what you now have: an explanation. He needs a father who can say, "I was caught in that for years. Here is how it works. Here is the way out."
 
 One thing here is not a fence. A wife who asks to see her husband's phone is rebuilding trust, and that is hers to ask.
 

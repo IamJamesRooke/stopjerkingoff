@@ -40,7 +40,7 @@ I have one request. If this book helps you, pass it on. Most men have never been
 
 I won't wish you luck, because luck doesn't come into it. Grace does.
 
-"If therefore the Son makes you free, you will be free indeed." (John 8:36)
+Jesus said, "If therefore the Son makes you free, you will be free indeed."
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of index.Rmd; the source notes for everything here are in that file. -->
 

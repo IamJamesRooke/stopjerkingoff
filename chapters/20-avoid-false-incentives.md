@@ -40,7 +40,7 @@ Don't confuse a pact with honesty. This habit has to come into the light. Tellin
 
 Every one of these makes the same mistake. It ties stopping to a payment. If the payment doesn't arrive, you feel cheated. If it does arrive, the novelty wears off and you feel deprived. In both cases you start asking, "Is this really making my life better? Did I do it wrong?" Doubt like that is what urges are made of.
 
-Stop kidding yourself. The real costs are enormous: years of evenings, a foggy head, a conscience you can't look at, a word you can't keep. If those haven't stopped you, a badge and a pair of sneakers won't. All a phony prize can do is make the sacrifice look bigger.
+Stop fooling yourself. The real costs are enormous: years of evenings, a foggy head, a conscience you can't look at, a word you can't keep. If those haven't stopped you, a badge and a pair of sneakers won't. All a phony prize can do is make the sacrifice look bigger.
 
 So look at the other end of the rope and ask the plain questions. What is it doing for me? Nothing. Why do I need it? You don't. You're only punishing yourself.
 

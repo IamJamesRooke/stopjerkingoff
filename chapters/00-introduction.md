@@ -55,7 +55,7 @@ Take the steps in order. This method is built to be:
 
 - **Immediate.** You don't taper off. You stop.
 - **For any man.** It is the same for the man who is at it three times a day as for the man who slips twice a month.
-- **Free of misery and willpower.** No weeks of climbing the walls, no gritted teeth, and no apps, supplements or locked boxes.
+- **Free of misery and willpower.** No weeks of restless misery, no gritted teeth, and no apps, supplements or locked boxes.
 - **Clean.** You won't swap it for overeating, scrolling or drinking.
 - **Lasting.** You don't have to keep walking out of the same trap.
 

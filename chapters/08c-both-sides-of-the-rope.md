@@ -4,7 +4,7 @@ We tend to picture a tug-of-war. One team is fear: "It's a sin, it's draining me
 
 Look at that second team again, because it's fear as well. It isn't that you enjoy the habit so much. It's that you're uneasy without it. The man who never started isn't uneasy without it, any more than you're uneasy without a drug you've never taken. The habit doesn't soothe that unease. It manufactures it.
 
-This is also why a list of costs has never made you stop. A frightened man reaches for his comfort, and you know what you've trained yourself to reach for. So instead of stopping, men develop a set of dodges:
+This is also why a list of costs has never made you stop. A frightened man reaches for his comfort, and you know what you've trained yourself to reach for. So instead of stopping, men develop a set of excuses:
 
 **"It's my life. Better to enjoy it than to live like a monk."** Fine. Enjoy it. Now tell me honestly that the life you have just been shown is the enjoyable one. Tell me the man hiding in the bushes is having a better time than the man walking in the garden.
 

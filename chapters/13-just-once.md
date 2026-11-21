@@ -46,7 +46,7 @@ Get this fixed in your mind: JUST ONCE DOES NOT EXIST. It's a chain, and each li
 
 So here is how a man lets it ring.
 
-Train yourself never to picture the single, harmless time. It's a fantasy in every sense. When lust comes to mind, see the whole of it. See thousands of furtive nights and thousands of flat ten minutes afterward. See a secret carried through every room you walk into, and the years of your strength poured down a drain. A weak moment isn't a crime. But why choose a lifetime of that, when you could be free?
+Train yourself never to picture the single, harmless time. It's a fantasy in every sense. When lust comes to mind, see the whole of it. See thousands of secret nights and thousands of flat ten minutes afterward. See a secret carried through every room you walk into, and the years of your strength poured down a drain. A weak moment isn't a crime. But why choose a lifetime of that, when you could be free?
 
 And when the voice comes, remember the four. Say it once. Give no reason. Don't soften it. Never answer again. You don't have to win the argument, because there isn't one. A man who is debating whether tonight is an exception has already picked up the phone.
 

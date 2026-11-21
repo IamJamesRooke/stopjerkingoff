@@ -40,7 +40,7 @@ The book of Ecclesiastes has a line for the man who waits for perfect weather: "
 
 Tomorrow? After finals? Next year? When you're married? Haven't you been asking that question since the day you first realized you couldn't leave it alone?
 
-Perhaps you're hoping to wake up one morning and find you've simply lost interest in it. Stop kidding yourself. The path across the lawn gets more worn each year you walk it. It doesn't grow over while you're still using it. Or are you waiting until it has cost you something you can't get back? A marriage, say, or a calling, or the best ten years of your working life? That would be a strange time to choose.
+Perhaps you're hoping to wake up one morning and find you've simply lost interest in it. Stop fooling yourself. The path across the lawn gets more worn each year you walk it. It doesn't grow over while you're still using it. Or are you waiting until it has cost you something you can't get back? A marriage, say, or a calling, or the best ten years of your working life? That would be a strange time to choose.
 
 Your life may be hard, and nobody here will tell you it isn't. But notice what the habit does to a hard life. It drains you every night and tells you every morning that you can't keep your own word. Hard work and long hours don't break men. What breaks them is the false crutch they lean on to get through.
 

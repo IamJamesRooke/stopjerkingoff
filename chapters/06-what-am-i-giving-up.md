@@ -4,7 +4,7 @@ Nothing. Not one thing.
 
 That's the whole chapter, really. But you don't believe it yet, so let's go slowly.
 
-Stopping looks hard for one reason: fear. You're afraid a pleasure is about to be taken from you, or a comfort you lean on. You're afraid that the quiet evening alone, the long shower and the warm bed will never feel quite as good again. You're afraid that the next rotten day will arrive and you'll have nothing to take the edge off it.
+Stopping looks hard for one reason: fear. You're afraid a pleasure is about to be taken from you, or a comfort you lean on. You're afraid that the quiet evening alone, the long shower and the warm bed will never feel quite as good again. You're afraid that the next rotten day will arrive and you'll have nothing to make it easier to bear.
 
 Underneath those sits a bigger fear, and it's the world's favorite lie: that an orgasm on demand is something a man can't do without. That if you stop, you'll be denying your own nature. That you'll walk around with a hole in your life where the habit used to be.
 

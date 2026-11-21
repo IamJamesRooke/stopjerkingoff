@@ -22,7 +22,7 @@ It is the same. The Little Monster is no bigger at fifty than he was at fifteen,
 
 Plenty of men believe they're a special case. "I've got an unusually high drive." "I've got an addictive personality." Christians have their own version: "This is my besetting sin, my thorn. I'll carry it to the grave." He is borrowing from Paul, who wrote of a "thorn in the flesh". But Paul's thorn was a suffering God allowed. It was never a sin he was told to keep. Usually the man has picked this up from too many failed streaks and too many alarming videos.
 
-Nobody is born needing to do this to get to sleep. You weren't lying in your crib plotting it. It's the trap that catches a man. His character has nothing to do with it. But the trap is clever enough to make him blame his character. You must drop that belief. A man who believes he's a lifer will behave like one long after the Little Monster is dead.
+Nobody is born needing to do this to get to sleep. You weren't lying in your crib plotting it. It's the trap that catches a man. His character has nothing to do with it. But the trap is clever enough to make him blame his character. You must drop that belief. A man who believes he is in for life will behave like it long after the Little Monster is dead.
 
 ## The student and the single man {-}
 
@@ -44,7 +44,7 @@ Most men find it easier than they feared. Some men carry more than the habit: an
 
 There are only two worth worrying about.
 
-**The first is something outside you.** A scene in a movie, an ad, a photo in your feed, a woman at the gym. Or it's a softer thing: you see a couple holding hands and feel a stab of envy. It catches you in a weak moment. When it happens, use it. Remind yourself that there's no such thing as one look or one time. Be glad the chain is broken. And remember that the man still in the trap would swap places with you tomorrow. He's the one to feel sorry for, because he still has to.
+**The first is something outside you.** A scene in a movie, an ad, a photo in your feed, a woman at the gym. Or it's a softer thing: you see a couple holding hands and feel a sudden envy. It catches you in a weak moment. When it happens, use it. Remind yourself that there's no such thing as one look or one time. Be glad the chain is broken. And remember that the man still in the trap would swap places with you tomorrow. He's the one to feel sorry for, because he still has to.
 
 **The second is a bad day.** Get this clear before you start: you will have good days and bad days whether you go back to it or not. The book of Ecclesiastes says God has made the good day and the bad day side by side. They come to the free man and the man in the trap alike. You can't have hills without valleys.
 

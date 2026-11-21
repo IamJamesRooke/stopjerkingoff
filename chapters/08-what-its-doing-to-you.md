@@ -78,11 +78,11 @@ This means the marriage you have, or the one you hope to have.
 
 Desire is meant to drive a man out of himself and toward a real woman, who has her own mind and her right to say no. The habit turns him around and hands him women in his head. They never have a headache, never need listening to and never ask anything of him. And a man can come to prefer it that way.
 
-So the husband lies a foot from his wife and a hundred miles away. She can't name what's wrong, but she can feel that some part of him is being spent elsewhere. Sometimes his body tells on him. "I knew there was a serious problem", wrote a man on a sobriety forum, "when I was losing my erection sometimes when I was with my wife". And he can't tell her, so there's now a locked room in the marriage.
+So the husband lies a foot from his wife and a hundred miles away. She can't name what's wrong, but she can feel that some part of him is being spent elsewhere. Sometimes his body gives him away. "I knew there was a serious problem", wrote a man on a sobriety forum, "when I was losing my erection sometimes when I was with my wife". And he can't tell her, so there's now a locked room in the marriage.
 
 If she finds out for herself, it lands as a betrayal. It doesn't feel to her like a private habit. She wonders what else she doesn't know, and whether she was ever enough. None of that is her fault.
 
-A single man shouldn't imagine that a wedding ring will fix it. Ask any married man in the trap. He took the habit up the aisle with him.
+A single man shouldn't imagine that a wedding ring will fix it. Ask any married man in the trap. He took the habit to his wedding with him.
 
 And then there is the body. Men whisper about this part, and almost nobody tells them straight.
 

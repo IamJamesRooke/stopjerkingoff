@@ -30,7 +30,7 @@ Hear again what Jesus said: "everyone who gazes at a woman to lust after her has
 
 He doesn't say that seeing a beautiful woman is a sin, or that a thought arriving is a sin. A veteran of the recovery forums put the distinction well: "Admiration of beauty is not lust, know the difference." The difference is in three small words: "to lust after". That's a look with a purpose. It's the second look, the lingering one, the one you go back for. Most men know which kind they're doing.
 
-A word for the man who doesn't. Some men get stuck checking whether a look or a thought was a sin, and go round it for hours. If that is you, read this book differently. When you can't tell, treat it as noticing and move on. Don't confess the same thing twice. You will never feel certain, so don't wait to. This kind of checking has a name, scrupulosity. It can be treated, and a doctor or a counselor can help. If you're Catholic, tell your confessor as well. Priests know this well.
+A word for the man who doesn't. Some men get stuck checking whether a look or a thought was a sin, and go over it for hours. If that is you, read this book differently. When you can't tell, treat it as noticing and move on. Don't confess the same thing twice. You will never feel certain, so don't wait to. This kind of checking has a name, scrupulosity. It can be treated, and a doctor or a counselor can help. If you're Catholic, tell your confessor as well. Priests know this well.
 
 For everyone else, be honest about the scroll. It is a purposeful gaze pretending to be an accident.
 

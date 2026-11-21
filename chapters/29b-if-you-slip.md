@@ -16,7 +16,7 @@ But don't shrug it off. Something real happened. You fed the Little Monster and 
 
 *Confess it today.* Don't wait until you've punished yourself for a week. If you're Catholic, that means Confession, and don't put it off. "If we confess our sins, he is faithful". That promise wasn't only for the first time. The proverb says, "a righteous man falls seven times and rises up again". It doesn't say he never falls. It says he gets up. If you're married, don't start a new secret. Agree with your wife what she wants to be told, and tell the man you told. And remember the two words from the final step, spoken to a man who still smelled of yesterday: just come.
 
-*Refuse the second one.* The real danger was never the fall. It's the thought that arrives an hour later: "Well, I've blown it now, so I may as well." That's the streak counter talking. One fall is a fall, and a week of "may as well" puts you back inside. The pang is made of fear. A man who decides he's "hooked for life" after one slip has scared himself back inside.
+*Refuse the second one.* The real danger was never the fall. It's the thought that arrives an hour later: "Well, I've ruined it now, so I may as well." That's the streak counter talking. One fall is a fall, and a week of "may as well" puts you back inside. The pang is made of fear. A man who decides he's "hooked for life" after one slip has scared himself back inside.
 
 *Find the lie that crept back.* A fall usually means one of the old lies got back in. You doubted, or you waited, or you kept a substitute, or you "tested" yourself, or you'd kept a way back. The things you learned in this book haven't been unlearned. Find the gap, read that part again if it helps, take the final step again and be glad again.
 
@@ -47,15 +47,23 @@ If a slip has left you taking the whole business very solemnly, here's some medi
 
 "Hi! We are NoBleach, and we host challenges in which participants, called Bleachstronauts, abstain from drinking bleach for a period of time. Whether you want a monthly challenge as a test of self-control, or whether excessive bleach drinking has become a problem in your life and you want to quit for longer, you will find a supportive community and plenty of resources here."
 
-Then come the members.
+Then come the members. The first writes:
 
 "Sometimes I allow myself a glass of bleach or two. I know that 'just one drop' is a lie, but I don't think a single glass will hurt. One glass can't destroy all the hours I've gone without."
 
+A second:
+
 "I don't have a problem stopping. But sometimes I go down the street and see someone drinking water, you know, from a glass, and I imagine the glass has bleach in it. Then I get a craving. After debating with myself all day, I finally give in at night and drink a glass."
+
+A third:
 
 "Look, my problem is when I'm alone in my kitchen. I start to look at the glasses. Sometimes I tempt myself by opening the cupboard where I keep the bleach. Sometimes I smell it, and, well, I end up right back where I started. I'm so desperate to stop this, but I'm not sure I'll ever be able to."
 
+A fourth has given up hope:
+
 "Stopping drinking bleach is impossible. I mean, I always have a mouth, you know? How am I supposed to stop when I always have a throat reminding me that I could swallow bleach?"
+
+And the last has just reset his counter:
 
 "Oh man, it was going so well. Nineteen whole days without doing it. The important thing is to learn from failure! Now I know what to avoid: looking at cleaning products in the supermarket. I'll try to make it to a month. I'm resetting my counter. Wish me luck!"
 

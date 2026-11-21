@@ -22,7 +22,7 @@ It usually takes years to realize you're hooked, because of one stubborn illusio
 
 ## The first attempts {-}
 
-After a few failed attempts, a man generally falls back on hope. One morning, he tells himself, he'll just wake up and not want it anymore. The hope gets fed by stories. "My cousin just stopped. Got married and never thought about it again." Don't be fooled. Look into those stories and they're never that simple. Either the man had been working up to it for a year and the wedding was the last push, or he'd had a fright. No man has ever drifted out of this trap by accident. **It won't happen unless you make it happen.**
+After a few failed attempts, a man generally falls back on hope. One morning, he tells himself, he'll just wake up and not want it anymore. The hope gets fed by stories. "My cousin just stopped. Got married and never thought about it again." Don't be fooled. Look into those stories and they're never that simple. Either the man had been working up to it for a year and the wedding was the last push, or something had frightened him. No man has ever drifted out of this trap by accident. **It won't happen unless you make it happen.**
 
 ## Why willpower is so hard {-}
 

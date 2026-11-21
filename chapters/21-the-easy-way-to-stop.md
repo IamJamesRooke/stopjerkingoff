@@ -25,7 +25,7 @@ Because you've done the first half before. You decided, with tears, more times t
 
 Remember the man on the couch, with his phone face down on the cushion? This is how it ends for him. He has spent years on the other method: vows at retreats, on New Year's Day, on mornings when he couldn't look at himself. Then one day a different thought frightens him properly. *What if I simply do this for the rest of my life?* For once he stops vowing and starts watching. He asks what he is actually getting, and the honest answer is a few seconds of relief and then the familiar flatness.
 
-He talks to men who have quit, and expects to find them hanging on by their fingernails. Most of them laugh. "Miss it? You're joking." So he says to himself, out loud: "Like it or not, that was the last time." He expects months of climbing the walls. What he gets is relief on the first day, and it doesn't leave.
+He talks to men who have quit, and expects to find them barely holding on. Most of them laugh. "Miss it? You're joking." So he says to himself, out loud: "Like it or not, that was the last time." He expects months of misery. What he gets is relief on the first day, and it doesn't leave.
 
 Why does that attempt go so smoothly? Because the terrible cravings he braced for don't exist. Doubt creates them. A man suffers only when he wants it and thinks he can't have it. Even in the trap you go whole days without it when you're busy or traveling, and you barely notice. The misery comes from the wavering, the "maybe just tonight", the door left open a crack.
 
@@ -57,7 +57,7 @@ If you're not a believer, the same advice holds: drop the self-hatred. It never 
 
 This book keeps saying one hard thing: **a man who can't control his lust can't be trusted.** Here is the other half.
 
-You probably thought self-control meant what you'd been doing for years. You gripped the rail with white knuckles, a strong man holding down a strong desire. That's a wrestling match, and you know who usually won.
+You probably thought self-control meant what you'd been doing for years. You gripped the rail as hard as you could, a strong man holding down a strong desire. That's a wrestling match, and you know who usually won.
 
 Real self-control is quieter. It belongs to a man whose mind is no longer divided. He isn't holding anything down, because there's nothing pushing up. Thomas Chalmers, a Scottish preacher of two hundred years ago, explained how a desire actually leaves a heart: "the only way to dispossess it of an old affection is by the expulsive power of a new one." For Chalmers the new affection was love for God himself. He held that nothing smaller is strong enough to push the old one out. If you're not a believer, take the law without the name. An old want doesn't leave an empty heart. It leaves when there is something you love more.
 

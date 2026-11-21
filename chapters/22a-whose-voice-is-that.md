@@ -2,7 +2,7 @@
 
 One more tool, for the man who has seen through every lie in this book and still gets tripped up. It is an old technique from addiction recovery.
 
-**The old lie speaks in your voice and says "I".** The Little Monster is only an itch, and an itch can't talk. The voice belongs to the Big Monster. He never says, "This is your old habit speaking." He says, "I could do with it tonight." "I've had a rough week." "I deserve something." It sounds exactly like your own thinking, so you take it for your own.
+**The old lie speaks in your voice and says "I".** The Little Monster is only an itch, and an itch can't talk. The voice belongs to the Big Monster. He never says, "This is your old habit speaking." He says, "I could do with it tonight," or "I've had a rough week," or "I deserve something." It sounds exactly like your own thinking, so you take it for your own.
 
 There's a simple test. Don't argue and don't agree. Just let the thought sit there, and listen to what comes next. The grammar changes. "I could do with it" becomes "Oh, come on, *you* know you want to." Something that has to switch to "you" in order to keep arguing with you isn't you.
 

@@ -29,7 +29,7 @@ Here the two methods go separate ways. The willpower man believes he's made a sa
 
 ## On the worst night {-}
 
-Picture a man who has been free for years. His father dies. Some fool tells him, "Go on, just tonight, it'll take the edge off." Suppose he does. It can't calm him, because he has no itch for it to relieve. At best he's distracted for five minutes, which a walk or a bad movie would have done as well. Then the grief is still there, and he's added shame to it and woken the Little Monster. Tomorrow night he has a choice he didn't have before: put up with the itch or feed it. Many a free man has gone back in through that door.
+Picture a man who has been free for years. His father dies. Some fool tells him, "Go on, just tonight, it'll help you through." Suppose he does. It can't calm him, because he has no itch for it to relieve. At best he's distracted for five minutes, which a walk or a bad movie would have done as well. Then the grief is still there, and he's added shame to it and woken the Little Monster. Tomorrow night he has a choice he didn't have before: put up with the itch or feed it. Many a free man has gone back in through that door.
 
 So get it settled now. You don't need it on the good nights or on the worst night of your life. It was never a crutch.
 

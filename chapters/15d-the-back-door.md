@@ -14,7 +14,7 @@ Because the lie is "nothing", this is the one men keep. A man quits porn and is 
 
 This chapter is called the back door for a reason. One man quit porn twice, and went back twice. Both times, he said, masturbation was what led him back.
 
-It isn't hard to see how. The hand never works alone. Ask what is playing while it happens, because something always is. It's a memory, or a face from the feed, or a woman from work. The hand is where the look and the thought get cashed in.
+It isn't hard to see how. The hand never works alone. Ask what is playing while it happens, because something always is. It's a memory, or a face from the feed, or a woman from work. The hand is where the look and the thought turn into the act.
 
 Then the memory wears thin. Every scratch works a little less well than the one before, so the hand goes looking for a stronger film, and it knows exactly where the stronger film is kept. The man bolted the front door and left the back door standing open. Then he was surprised to find the same old visitor in his kitchen.
 

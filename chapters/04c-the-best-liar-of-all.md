@@ -14,9 +14,9 @@ Once you're in the trap, the lies get help from inside. Some part of you knows t
 
 The trap closes slowly. Most men don't know they're in it until the day they try to leave, and even then plenty won't admit it. Anyone who has raised the subject with a young man knows how the conversation goes:
 
-"You know the only reason you keep doing it is that you can't stop?"
+You ask him, "You know the only reason you keep doing it is that you can't stop?"
 
-"Nonsense. I like it. If I didn't, I'd stop."
+"Nonsense," he says. "I like it. If I didn't, I'd stop."
 
 "Then stop for a month, just to show me."
 
@@ -24,7 +24,7 @@ The trap closes slowly. Most men don't know they're in it until the day they try
 
 "Stop for a month to show yourself."
 
-"There's no point. I told you, I like it."
+"There's no point," he says. "I told you, I like it."
 
 He likes it so much that he won't risk finding out.
 
@@ -38,7 +38,7 @@ Nothing.
 
 Each time, he gets the brief illusion of returning to the calm that the free man has all day long.
 
-The phrase "giving up" is the plainest example of the lie. It smuggles in the idea of a sacrifice. But there's nothing to give up. You'll be getting rid of a parasite and gaining a great deal. So we'll drop that phrase here and now. In this book you don't "give up" lust. You stop. You quit. Best of all, **YOU ESCAPE.**
+The phrase "giving up" is the plainest example of the lie. It slips in the idea of a sacrifice. But there's nothing to give up. You'll be getting rid of a parasite and gaining a great deal. So we'll drop that phrase here and now. In this book you don't "give up" lust. You stop. You quit. Best of all, **YOU ESCAPE.**
 
 The world's lies are general. Your own are specific: this habit helps me with *this*, at *these* times.
 

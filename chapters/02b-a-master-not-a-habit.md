@@ -36,7 +36,7 @@ A few days of that and his resolve goes soft. "I picked a bad week. I'll do it w
 
 And each year the calm weeks seem fewer. He's left home, there's a job, rent, a wife, small children. Life, he decides, just gets more stressful as you go.
 
-It doesn't. He's mixing up responsibility with stress. You weren't carefree at fourteen. You were a bundle of nerves. What has grown is the habit's share of the load. Masturbation doesn't calm a man down. It winds him up, quietly, one guilty night at a time: another secret to keep, another promise broken, another morning started in the red. He blames the job.
+It doesn't. He's mixing up responsibility with stress. You weren't carefree at fourteen. You were a bundle of nerves. What has grown is the habit's share of the load. Masturbation doesn't calm a man down. It winds him up, quietly, one guilty night at a time: another secret to keep, another promise broken, another morning started already behind. He blames the job.
 
 ## The two causes {-}
 
