@@ -1,0 +1,8 @@
+# Old page -> where its content lives now. tools/redirects.py writes a small redirect page
+# for each, so old links and search results don't end in a "page not found".
+# 2026-11-21 five-star pass: these chapters were folded into their neighbors.
+the-ladder.html types-of-user.html
+at-least-im-not-him.html types-of-user.html
+the-king-who-turned-his-face-to-the-wall.html the-man-led-by-a-woman.html
+just-one-little-look.html just-once.html
+porn-and-sex.html feedback.html
