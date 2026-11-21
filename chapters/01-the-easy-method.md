@@ -84,7 +84,7 @@ Most of the men you'll meet in these pages, I have been. That is all you need to
 
 I didn't invent this way of quitting. A man named Allen Carr did, for smokers. His book, *The Easy Way to Stop Smoking*, has helped a great many people put down cigarettes without a fight. The free book that helped me took Carr's method and turned it on porn. This book borrows from both, and takes the same method to lust itself. The credit is theirs. Any mistakes are mine.
 
-A Christian wrote this one, and it quotes the Bible, because the best pictures of this trap are in there. You don't have to believe a word of it to get out. If you don't believe, read it as you would any old book that turns out to know you. If you hold another faith, bring it with you. When you hear God or sin mentioned, take it as your conscience talking.
+This book quotes the Bible, because the best pictures of this trap are in there. If you don't believe, read it as you would any old book that turns out to know you. If you hold another faith, bring it with you. When you hear God or sin mentioned, take it as your conscience talking.
 
 And if you are a Christian, hear one verse early. Romans 8:1 says, "There is therefore now no condemnation to those who are in Christ Jesus". When this book says "sin", it is telling the truth. It is not beating you.
 

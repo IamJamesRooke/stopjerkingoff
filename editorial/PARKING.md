@@ -1165,3 +1165,56 @@ A city without walls can be raided. It can also be bought. A man led by his thir
 
 Take the thirst away and there is nothing to steer him by. It doesn't make him cold toward women. It does the opposite. A man who isn't hungry to take anything from a woman is the first man who can treat her as a person. And the one woman he has given himself to gets a husband nobody else has a hook in.
 
+
+
+## 2026-11-21 Introduction rebuild: the previous Introduction, whole
+
+It is two in the morning, and a man is lying in bed with his phone.
+
+He isn't enjoying himself. He stopped enjoying this years ago. He has work at seven. An hour ago he promised himself, again, that tonight would be different. In a few minutes it will be over, and he will lie in the dark feeling flat and a little stupid. Then he will say the two words he has said a thousand times: never again.
+
+He means it. He always means it.
+
+You know this man. Most men do.
+
+The man is no weakling. He holds down a job. He has given up harder things than this. Against this one thing he has tried everything: vows, prayers, blocked sites, cold showers, counted days. For years he has believed he is fighting a dragon.
+
+There is no dragon.
+
+There is a small, smelly squatter living in his back room. The squatter has never paid a day's rent. He has no strength of his own. He lives on the meals the man carries up to him, and when he is hungry he bangs on the floor.
+
+That is the secret this book is built on, and every page after this one is the proof. The thing that has beaten you for years isn't strong. It is small, and you have been feeding it yourself.
+
+### What this book will do {-}
+
+This book will help you conquer lust. You will stop masturbating, stop watching porn, and stop making bad decisions with women because you're thinking with the wrong head. You can stop right away, stay stopped, and not be miserable doing it. Nobody is going to shame you, and nobody is going to ask you to grit your teeth.
+
+Four plain words, so that we never lose each other. *Porn* is the screen. *Masturbation* is the hand. Most men know the two as one thing, done alone behind a shut door. When this book says *the habit*, that is what it means. *Lust* is the bigger word. It is the appetite behind the habit, and it has other ways of eating. The first half of this book deals with the habit. Then it follows lust everywhere else it goes.
+
+Some men would almost rather have the dragon. They want a war of teeth, bone, sinew and will. If that is you, save your grit for something that deserves it. There are mountains to climb and children to raise. Don't let this be the battle that defines your life. It is only a pest. Evict him, and get on with your life.
+
+The men who have walked out don't describe a fight that never ends. One wrote:
+
+> "I feel like coming out from a fog that has been around me all this time."
+
+And another:
+
+> "It's been over 5 years since God broke me free from the chains of pornography and masturbation addiction. I will never go back."
+
+That is where this book is taking you.
+
+If you're a woman, you are welcome here. The book says "he" all the way through, but the trap is built the same way for you, and so is the way out. And if you are reading for a son, a husband or a friend, read it yourself first. You can't lead a man out of a trap you don't understand.
+
+### Two rules while you read {-}
+
+**DO NOT SKIP CHAPTERS.** They are short. Each one takes away one thing the squatter lives on, and the last step only works if the others came first. Jump ahead to the "how to stop" chapter and you'll land on air.
+
+**Don't try to quit while you read.** Make no vows, start no streaks, and don't cut down. That sounds backward. Everything you've been told says to try harder, pray harder, hide the phone and reset the counter. Has any of it worked? If it had, you wouldn't be holding this book.
+
+Nobody is telling you to sin. You are only asked not to launch one more willpower campaign, halfway through a book that is about to make willpower unnecessary. If you have already stopped, stay stopped. If you fall while you're reading, don't despair, and don't stop reading. The book has a chapter for that, and it won't scold you.
+
+One thing can't wait for the last page. Is lust hurting someone else? An affair, paying for sex, pressing a woman who has said no, anything against the law: stop that today. Someone else is paying for it.
+
+And a book is not a doctor. This method has freed many men, but nobody has tested it in a clinic, and some men need a person as well as a book. Do you have thoughts of harming yourself? Did this begin after something was done to you as a child? Do your urges frighten you, or has what you look at moved toward children or anything against the law? Then see a doctor or a counselor now, and read the book alongside them. They have heard it before, and you are not beyond help. The Appendix at the back says more.
+
+Now go back to the man in the bed, and put one thing on his nightstand. A button.

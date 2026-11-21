@@ -1,52 +1,56 @@
-It is two in the morning, and a man is lying in bed with his phone.
+It is two in the morning, and a man is lying in bed with his phone, breaking a promise he made an hour ago.
 
-He isn't enjoying himself. He stopped enjoying this years ago. He has work at seven. An hour ago he promised himself, again, that tonight would be different. In a few minutes it will be over, and he will lie in the dark feeling flat and a little stupid. Then he will say the two words he has said a thousand times: never again.
+He isn't enjoying himself. He stopped enjoying this years ago. He has work at seven. In a few minutes it will be over, and he will lie in the dark feeling flat and a little stupid. Then he will say the two words he has said a thousand times. Never again.
 
 He means it. He always means it.
 
-You know this man. Most men do.
+Everybody tells him it's normal. Nobody tells him why it feels like this afterward.
 
-The man is no weakling. He holds down a job. He has given up harder things than this. Against this one thing he has tried everything: vows, prayers, blocked sites, cold showers, counted days. For years he has believed he is fighting a dragon.
+You know this man. Most men do. I was him for years.
+
+He is no weakling. He has given up harder things than this. Against this one thing he has tried everything: vows, prayers, blocked sites, cold showers, counted days. None of it lasted. So he has come to believe he is fighting a dragon.
 
 There is no dragon.
 
-There is a small, smelly squatter living in his back room. The squatter has never paid a day's rent. He has no strength of his own. He lives on the meals the man carries up to him, and when he is hungry he bangs on the floor.
+There is a small, smelly squatter living in his back room. The squatter has never paid a day's rent. He has no strength of his own. He lives on the meals the man carries up to him. When he gets hungry, he bangs on the floor.
 
-That is the secret this book is built on, and every page after this one is the proof. The thing that has beaten you for years isn't strong. It is small, and you have been feeding it yourself.
+That is what this book is built on, and the rest of it is the proof. The thing that has beaten you for years isn't strong. It is small, and you have been feeding it yourself.
 
-## What this book will do {-}
+Small is not the same as harmless. He has cost you plenty, and this book will count it.
 
-This book will help you conquer lust. You will stop masturbating, stop watching porn, and stop making bad decisions with women because you're thinking with the wrong head. You can stop right away, stay stopped, and not be miserable doing it. Nobody is going to shame you, and nobody is going to ask you to grit your teeth.
+So this book will not ask you to try harder. You have tried harder. Every other method hands you a sword and points you at the dragon. No man wins a fight against something he still half wants.
 
-Four plain words, so that we never lose each other. *Porn* is the screen. *Masturbation* is the hand. Most men know the two as one thing, done alone behind a shut door. When this book says *the habit*, that is what it means. *Lust* is the bigger word. It is the appetite behind the habit, and it has other ways of eating. The first half of this book deals with the habit. Then it follows lust everywhere else it goes.
+This book does one thing instead. It shows you, lie by lie, that the squatter has nothing you want. A man who sees that needs no willpower. He just stops carrying dinner up the stairs.
 
-Some men would almost rather have the dragon. They want a war of teeth, bone, sinew and will. If that is you, save your grit for something that deserves it. There are mountains to climb and children to raise. Don't let this be the battle that defines your life. It is only a pest. Evict him, and get on with your life.
+You will stop watching porn and stop masturbating. This book calls the two together *the habit*. Then it follows *lust*, the appetite behind the habit, everywhere else it feeds. You will stop making bad decisions with women because you're thinking with the wrong head. You will stop for good, and you won't be miserable doing it.
 
-The men who have walked out don't describe a fight that never ends. One wrote:
+Nobody here will shame you or try to scare you. Shame and fear are what sent you back to the phone.
+
+Save your grit for something that deserves it. There are mountains to climb and children to raise. Don't let this be the battle that defines your life. He is a pest. Evict him, and get on with your life.
+
+One man who got out described it like this:
 
 > "I feel like coming out from a fog that has been around me all this time."
 
-And another:
+A Christian wrote this book, and it quotes the Bible. If you believe, you'll find this way leans on grace, not grit. If you don't, you can still walk out by it.
 
-> "It's been over 5 years since God broke me free from the chains of pornography and masturbation addiction. I will never go back."
+It takes about four hours, and nobody has to know you're reading it. Read it this week. There are two rules.
 
-That is where this book is taking you.
+**DO NOT SKIP CHAPTERS.** They are short. Each one takes away one thing the squatter lives on, and the last step only works if the others came first.
 
-If you're a woman, you are welcome here. The book says "he" all the way through, but the trap is built the same way for you, and so is the way out. And if you are reading for a son, a husband or a friend, read it yourself first. You can't lead a man out of a trap you don't understand.
+**Don't try to quit while you read.** Make no vows, start no streaks, and don't cut down. Everything you have been told says to try harder and reset the counter. Has any of it worked? Nobody is telling you to sin, and if you have already stopped, stay stopped. If you fall while you're reading, don't despair. Keep reading.
 
-## Two rules while you read {-}
+Two things can't wait for the last chapter.
 
-**DO NOT SKIP CHAPTERS.** They are short. Each one takes away one thing the squatter lives on, and the last step only works if the others came first. Jump ahead to the "how to stop" chapter and you'll land on air.
+If your lust is hurting someone else, stop that today. That means an affair, paying for sex, pressing a woman who has said no, or anything against the law. Someone else is paying for it.
 
-**Don't try to quit while you read.** Make no vows, start no streaks, and don't cut down. That sounds backward. Everything you've been told says to try harder, pray harder, hide the phone and reset the counter. Has any of it worked? If it had, you wouldn't be holding this book.
+And a book is not a doctor. This method has freed many men, but nobody has tested it in a clinic. Do you have thoughts of harming yourself? Did this begin after something was done to you as a child? Do your urges frighten you, or pull you toward anything illegal? Then see a doctor or a counselor now, and read this book alongside them. The Appendix says more. They have heard it before. You are not beyond help.
 
-Nobody is telling you to sin. You are only asked not to launch one more willpower campaign, halfway through a book that is about to make willpower unnecessary. If you have already stopped, stay stopped. If you fall while you're reading, don't despair, and don't stop reading. The book has a chapter for that, and it won't scold you.
+If you are a woman, you are welcome here. The book says "he" throughout, but the trap is built the same for you, and so is the way out.
 
-One thing can't wait for the last page. Is lust hurting someone else? An affair, paying for sex, pressing a woman who has said no, anything against the law: stop that today. Someone else is paying for it.
+Now go back to the man in the bed. It is still two in the morning. Put one thing on his nightstand.
 
-And a book is not a doctor. This method has freed many men, but nobody has tested it in a clinic, and some men need a person as well as a book. Do you have thoughts of harming yourself? Did this begin after something was done to you as a child? Do your urges frighten you, or has what you look at moved toward children or anything against the law? Then see a doctor or a counselor now, and read the book alongside them. They have heard it before, and you are not beyond help. The Appendix at the back says more.
-
-Now go back to the man in the bed, and put one thing on his nightstand. A button.
+A button.
 
 <!-- POLISHED 2026-11-18 for reading aloud. The "gateway to porn relapse" quotation is now a paraphrase, and Luke 15:17 ("he came to himself") is told without quotation marks; the source lines below are kept for the record.
 SOURCES (Introduction): every quote below is from the research files; check each against its page before publishing.
@@ -91,3 +95,5 @@ SOURCES (Introduction): every quote below is from the research files; check each
 <!-- 2026-11-21 (James never liked it): the Piper line ("a regular practice of most single men") is cut from the opening scene and parked in editorial/PARKING.md. -->
 
 <!-- 2026-11-21 room-by-room reorder (James approved: nothing arrives before the reader needs it; the rooms come in the order a man retreats through them). Before and after: editorial/ROOM-ORDER-2026-11-21.md. -->
+
+<!-- 2026-11-21 Introduction rebuilt (James: 'The intro is the most important part of the book. REALLY think about how to improve it.'). Four versions were tested on seven cold readers in two rounds (two non-religious skeptics, two long-time Christian strugglers, two men of 19 and 20, an audio editor); record in editorial/INTRO-REBUILD-2026-11-21.md. New first sentence (also the homepage line) adds 'breaking a promise he made an hour ago'. Added: the 'normal / afterward' line, 'I was him for years', the argument for why other methods fail, 'Small is not the same as harmless', a plain line that a Christian wrote it, 'nobody has to know you're reading it', 'Read it this week'. Cut and parked: the headings, the four-word glossary (the habit and lust are now named inside the promise), the second testimony, the note to helpers, 'teeth, bone, sinew and will'. Both safety notes kept in substance. -->
