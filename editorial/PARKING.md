@@ -301,3 +301,10 @@ Paul, the apostle who wrote much of the New Testament, told the Christians in Ro
 
 So start with a question nobody asks. If it does nothing for you, why is it so hard to stop?
 
+
+
+## 2026-11-21 cut from the Introduction (James never liked it)
+
+One pastor who writes honestly about masturbation calls it "a regular practice of most single men", and plenty of married men could raise a hand too.
+
+(Source: John Piper, "Missions and Masturbation", desiringgod.org.)

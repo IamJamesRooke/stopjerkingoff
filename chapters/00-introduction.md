@@ -4,7 +4,7 @@ He isn't enjoying himself. He stopped enjoying this years ago. He has work at se
 
 He means it. He always means it.
 
-You know this man. Most men do. One pastor who writes honestly about masturbation calls it "a regular practice of most single men", and plenty of married men could raise a hand too.
+You know this man. Most men do.
 
 Perhaps your version looks different. Perhaps it is the message to her that you rewrote five times, or the money you spent to be noticed. Perhaps it is the bed you woke up in and wished you hadn't. It is the same thing in a different coat.
 
@@ -85,3 +85,5 @@ SOURCES (Introduction): every quote below is from the research files; check each
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
 
 <!-- 2026-11-21 opening rewrite (James: the opening must grip and reward quickly; tested on three cold readers). Before and after: editorial/OPENING-REWRITE-2026-11-21.md. Cut text is in editorial/PARKING.md. -->
+
+<!-- 2026-11-21 (James never liked it): the Piper line ("a regular practice of most single men") is cut from the opening scene and parked in editorial/PARKING.md. -->
