@@ -69,6 +69,7 @@ rmd_files:
     - "chapters/32-the-instructions.md"
     - "chapters/33-now.md"
     - "chapters/31-advice-to-non-users.md"
+    - "chapters/35-about-the-author.md"
     - "chapters/34-appendix-resources.md"
     - "chapters/attribution.md"
     - "pages/faq.md"
@@ -138,6 +139,7 @@ rmd_files:
     - "chapters/32-the-instructions.md"
     - "chapters/33-now.md"
     - "chapters/31-advice-to-non-users.md"
+    - "chapters/35-about-the-author.md"
     - "chapters/34-appendix-resources.md"
     - "chapters/attribution.md"
   epub:
@@ -204,5 +206,6 @@ rmd_files:
     - "chapters/32-the-instructions.md"
     - "chapters/33-now.md"
     - "chapters/31-advice-to-non-users.md"
+    - "chapters/35-about-the-author.md"
     - "chapters/34-appendix-resources.md"
     - "chapters/attribution.md"
