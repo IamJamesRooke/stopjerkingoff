@@ -14,7 +14,7 @@ Lust is what happens when the flesh gets hold of desire. Desire says, "She is lo
 
 There is an old word for a thing set apart for a high use. The word is holy. Your body is in that class, and so is the drive God put in it. Paul asks his readers, "don't you know that your body is a temple of the Holy Spirit who is in you". He isn't saying your body is dirty. He is saying it is too good for this. If you're not a believer, think of something you would never use carelessly, like your grandfather's watch. Lust picks up the watch and hammers a nail with it.
 
-Lust has five mouths. A man looks, thinks, touches, chases and takes. They look like five problems. They are one appetite.
+Lust is fed five ways. A man looks, thinks, touches, chases and takes. They look like five problems. They are one appetite.
 
 Masturbation is the plainest case, so we'll use it to show how the thing works. A drive that was built to end in another person is made to end in a tissue. It's a hijacking, and the plane lands nowhere.
 

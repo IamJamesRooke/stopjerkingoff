@@ -12,7 +12,7 @@ One man in the trap put the entire thing in seven words:
 
 That is the only reason any man carries on, whether he does it three times a day or twice a month. He's feeding the Little Monster.
 
-And the Little Monster isn't picky. A video feeds him. A fantasy feeds him. A long look at a stranger feeds him, and so does a flirty message from a woman you have no business messaging. It's all one diet. He has five mouths and one small belly.
+And the Little Monster isn't picky. A video feeds him. A fantasy feeds him. A long look at a stranger feeds him, and so does a flirty message from a woman you have no business messaging. It's all one diet. He is fed five ways, and he has one small belly.
 
 The "pleasure" a man gets from it is mostly the pleasure of getting back to how he'd have felt anyway. He's trying to return to the peace and ease he had as a boy, before any of this started. And he keeps using the very thing that took it from him.
 

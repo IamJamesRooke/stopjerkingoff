@@ -8,7 +8,7 @@ You know the trap, the lies, and every wrong way out. This is the right one.
 
 Follow these instructions and you'll find stopping somewhere between easy and enjoyable. There are only two:
 
-1. **Decide that you are finished with lust, all five mouths of it. Never again.**
+1. **Decide that you are finished with lust, in all five ways. Never again.**
 2. **Don't mope about it. Rejoice.**
 
 The Bible has older names for both. The first is *repentance*. The word doesn't mean feeling terrible. It means a change of mind: you turn around and walk the other way. The second is *receiving grace*. You're forgiven, so you act like a forgiven man.

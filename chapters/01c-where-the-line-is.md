@@ -50,7 +50,7 @@ And don't try to drag yourself across the line tonight by force. That is sweepin
 
 One exception. All of that is about the habit you keep by yourself. If another person is in it, that is different. You aren't sweeping a house there. You are making a choice about someone you care about, and you can stop making it today.
 
-So this book is for one kind of man, and he comes in every kind. Single or married, believer or not, feeding one mouth or all five: he is any man whose desire has been making his decisions for him.
+So this book is for one kind of man, and he comes in every kind. Single or married, believer or not, feeding lust one way or all five. He is any man whose desire has been making his decisions for him.
 
 You know the five now, and you know the line. That leaves the question you have asked yourself a hundred times. You aren't stupid. You have wanted out for years. So why are you still in?
 

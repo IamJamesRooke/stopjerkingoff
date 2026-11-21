@@ -33,7 +33,7 @@ You are in good company, by the way. One pastor who writes honestly about mastur
 
 Are you reading this for a son, a husband, a brother or a friend? The best thing you can do is get him to read it. If he won't, read it yourself. Once you see how the trap works, you'll be far better at helping him out of it, and at keeping the next boy from walking in.
 
-## One appetite, five mouths {-}
+## One appetite, fed five ways {-}
 
 Lust is fed in five ways in this book. A man can look, think, touch, chase and take.
 

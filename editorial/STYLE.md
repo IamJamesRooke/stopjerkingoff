@@ -216,11 +216,11 @@ Every chapter should end on a line that makes the reader want the next one, with
 
 Because the numbers move, the text never says how many chapters have gone by ("twenty chapters", "twenty-seven chapters" were removed). Older notes in editorial/, DRAFT-NOTES.md and source comments use old numbers.
 
-## The empty house and the five mouths (2026-11-20, James)
+## The empty house and the five ways (2026-11-20; "mouths" dropped 2026-11-21, James)
 
 History: a Hydra frame was written and withdrawn the same day. James: "let's try and keep everything from the Bible as much as possible." Prefer biblical images to pagan or other sources, and keep them readable for a non-Christian. Plan and history: editorial/HYDRA-PLAN.md.
 
-- Lust is fed in **five ways**, always in this order: **look, think, touch, chase, take**. As nouns: the look, the thought, the touch (the hand), the chase, the taking. They are the Little Monster's **five mouths**, with one small belly.
+- Lust is fed in **five ways**, always in this order: **look, think, touch, chase, take**. As nouns: the look, the thought, the touch (the hand), the chase, the taking. Say it in plain words: he is **fed five ways**, and has one small belly. Do not call them mouths, heads or doors. **The borrowed body (James, 2026-11-21):** the tenant has no body of his own and lives on what the man lends him: his eyes (look), mind (think), hand (touch), feet (chase) and bed (take). He is a squatter and a freeloader with no right to stay, and a pipsqueak, not ten feet tall. The man is responsible: he was asked each time and he answered (never "the devil made me do it"). Eviction is easy because he sees the squatter gave nothing, never by force. The feeling of being possessed may be named; the book still makes no claim that the reader has a spirit.
 - **"The habit"** means the first three working together (look, think, touch). Name the chase or the taking when one of them is meant. "It" with no other referent means lust.
 - **The swept and empty house** (Matthew 12:43-45) is the Willpower Method: the tenant put out by force, the room kept ready because the man still believes it gave him something, and the tenant back with company.
 - **The Easy Way** is John 8:32: knowing comes first and freedom follows. The man sees that the tenant never paid rent and the room was never short of him, so there is no vacancy.

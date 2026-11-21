@@ -50,7 +50,7 @@ Jesus told a story about two men who went up to the temple to pray. The first wa
 
 There aren't really any types. There's one trap, and men are standing at different depths in it. The way out is the same for all of them.
 
-Every one of these men is feeding the same small monster, through one or more of his five mouths. So take the five one at a time, beginning where lust always begins.
+Every one of these men is feeding the same small monster, in one or more of the five ways. So take the five one at a time, beginning where lust always begins.
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 14-types-of-user.Rmd; the source notes for everything here are in that file. -->
 

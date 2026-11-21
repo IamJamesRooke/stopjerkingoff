@@ -24,7 +24,7 @@ So don't think about failing. This time you aren't climbing by willpower. You're
 
 And if what holds you back is the feeling that you've failed too often to come back again, hear a man who felt exactly that. He pictures the prodigal son, the runaway in Jesus's story, halfway home. In his picture the son protests, "But God, I still smell like yesterday." And the Father answers with two words: "Just come." He adds, for every man reading: "You're not too dirty. You're not too far."
 
-Jesus asked for plain speech: "But let your 'Yes' be 'Yes' and your 'No' be 'No.'" That is all this is: a plain No that you mean. You are showing the tenant the door, once, and you already know that he has nothing you want.
+Jesus asked for plain speech: "But let your 'Yes' be 'Yes' and your 'No' be 'No.'" That is all this is: a plain No that you mean. You are showing a squatter the door, once, and you already know that he has nothing you want.
 
 ## If there is another person {-}
 

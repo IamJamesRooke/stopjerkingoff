@@ -29,7 +29,7 @@ A few things set it apart:
 - **No willpower campaign while you read.** Make no vows, start no streaks, and don't cut down. Just keep reading to the last page. That isn't permission to sin. A willpower campaign halfway through a book that's about to make willpower unnecessary only gets in the way.
 - **No counter, no streaks, no cutting down.** A slip isn't a "relapse" that resets you to zero. You confess, you get up, and you find the lie you started believing again.
 - **No superpowers.** I don't promise a deeper voice, more testosterone, or women falling at your feet. Doctors say masturbation doesn't damage your body, and I take their word for it. This book is about your mind, your drive, your word and your soul. What you get back is yourself.
-- **Porn is covered too.** So is the way lust bends a man's choices about women. It's one appetite with five mouths, and one way out.
+- **Porn is covered too.** So is the way lust bends a man's choices about women. It's one appetite fed five ways, and one way out.
 - **Real voices.** It quotes men who got out, in their own words, from forums, testimonies and blogs, with every source listed.
 
 ## A Christian book that doesn't beat you up {-}
