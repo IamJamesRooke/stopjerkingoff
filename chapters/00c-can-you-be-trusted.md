@@ -1,4 +1,4 @@
-# Can You Be Trusted? {- #can-you-be-trusted}
+# Can You Be Trusted? {#can-you-be-trusted}
 
 A Benedictine monk once gave this advice to women who want to marry: "Marry a man who can fast." He meant a man who has learned to say no to himself.
 

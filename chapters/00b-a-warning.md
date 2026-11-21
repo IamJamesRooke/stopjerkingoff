@@ -1,4 +1,4 @@
-# A Warning {- #a-warning}
+# A Warning {#a-warning}
 
 If you're hoping to be frightened into quitting, you'll be disappointed. There are no horror stories here about your hormones, your hairline, or what a weak and disgusting creature you are. Scare tactics have never freed anyone. If fear worked, you'd have stopped years ago.
 
