@@ -16,7 +16,7 @@ The book uses a cognitive approach, in the tradition of Allen Carr's *Easy Way t
 - **Formats:** read online on this site, or download the [PDF](stopjerkingoff.pdf) or [EPUB](stopjerkingoff.epub).
 - **License:** Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0).
 - **Inspiration:** the structure and method come from [EasyPeasy](https://easypeasymethod.org/), a CC BY-SA book about quitting pornography. See the [attribution page](attribution.html).
-- **Author:** published anonymously, so the focus stays on the reader.
+- **Author:** published anonymously, so the focus stays on the reader. He calls himself a self-confessed degenerate who wrote the book for himself first, then saw how many men were in the same boat.
 
 ## What the book does and does not do {-}
 

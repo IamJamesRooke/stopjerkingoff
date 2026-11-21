@@ -10,6 +10,14 @@ You may copy it, share it, print it, translate it and adapt it, for any purpose,
 
 The full text and its history are open to anyone, in a [public repository on GitHub](https://github.com/IamJamesRooke/stopjerkingoff).
 
+## About the author {-}
+
+The author is a self-confessed degenerate who wrote this book for one reader: himself.
+
+Then he noticed he was not the only one. The boat is full of men, and it is a very large boat. The world has plenty of problems, and it needs its men awake to face them. A man run by this habit runs at maybe forty percent. No study produced that number. Having been that man did. Until the habit is broken, he never gets to what he was made for.
+
+That is why the book went out to everyone. His name isn't on it, because he isn't the point. You are.
+
 ## Write to me {-}
 
 If you want to write to me, with a correction, a question or your own story, the address is [hello@stopjerkingoff.com](mailto:hello@stopjerkingoff.com). I read what comes in.
