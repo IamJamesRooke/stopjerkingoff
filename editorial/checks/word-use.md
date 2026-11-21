@@ -7,7 +7,7 @@
 | Intro | 821 | 4 | 2 | 3 | 1 | 3 | 0 | 0 | 0 | 1 | 0 |
 | b | 966 | 0 | 2 | 1 | 1 | 4 | 0 | 0 | 0 | 0 | 0 |
 | c | 310 | 2 | 0 | 1 | 0 | 0 | 5 | 0 | 0 | 0 | 1 |
-| 1 | 1346 | 1 | 6 | 1 | 3 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 1 | 1699 | 1 | 12 | 5 | 4 | 6 | 0 | 0 | 0 | 0 | 0 |
 | 1b | 997 | 0 | 1 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1c | 713 | 3 | 0 | 5 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2 | 764 | 1 | 2 | 0 | 1 | 5 | 0 | 0 | 0 | 0 | 0 |
@@ -72,33 +72,33 @@
 | faq | 1792 | 10 | 10 | 7 | 6 | 6 | 5 | 3 | 1 | 1 | 0 |
 | why-this-book | 1014 | 8 | 6 | 5 | 2 | 2 | 4 | 0 | 0 | 1 | 0 |
 
-## Overused words and phrases (book total 58599 words)
+## Overused words and phrases (book total 58952 words)
 
 | Word | Count | Per 1000 words | In how many files |
 |---|---|---|---|
-| nothing | 159 | 2.71 | 54 |
-| trap | 78 | 1.33 | 32 |
+| nothing | 159 | 2.7 | 54 |
+| trap | 78 | 1.32 | 32 |
 | a man who | 67 | 1.14 | 36 |
-| itch | 52 | 0.89 | 22 |
-| sin | 48 | 0.82 | 27 |
-| exactly | 25 | 0.43 | 16 |
-| relief | 25 | 0.43 | 13 |
-| free man | 22 | 0.38 | 17 |
+| itch | 52 | 0.88 | 22 |
+| sin | 48 | 0.81 | 27 |
+| exactly | 25 | 0.42 | 16 |
+| relief | 25 | 0.42 | 13 |
+| free man | 22 | 0.37 | 17 |
 | really | 21 | 0.36 | 18 |
 | plain | 20 | 0.34 | 18 |
 | willpower method | 19 | 0.32 | 13 |
 | simply | 18 | 0.31 | 17 |
 | comfort | 16 | 0.27 | 11 |
-| the truth | 15 | 0.26 | 12 |
+| the truth | 15 | 0.25 | 12 |
 | actually | 13 | 0.22 | 11 |
 | plainly | 12 | 0.2 | 10 |
 | perhaps | 12 | 0.2 | 10 |
+| grace | 10 | 0.17 | 8 |
 | moping | 10 | 0.17 | 5 |
 | quite | 9 | 0.15 | 7 |
-| grace | 9 | 0.15 | 7 |
 | envy | 8 | 0.14 | 4 |
 | of course | 7 | 0.12 | 6 |
-| mope | 5 | 0.09 | 5 |
+| mope | 5 | 0.08 | 5 |
 | honestly | 3 | 0.05 | 3 |
 | chain | 3 | 0.05 | 1 |
 | pipsqueak | 3 | 0.05 | 3 |

@@ -64,7 +64,25 @@ If something loosened in your chest at "call off the war", that is the first of 
 
 There's no "one last time" ceremony waiting for you in the closing pages. There is only a plain No, and you'll be glad to say it. It is not the old vow. The old vow was a promise made in your own strength, before you understood the trap, and you know how long those lasted. This one you'll say with your eyes open, and if you pray, you'll say it leaning on God.
 
-I didn't invent this way of quitting. A man named Allen Carr did, for smokers. His book, *The Easy Way to Stop Smoking*, has helped a great many people put down cigarettes without a fight. Later a free book called [*The Easy Peasy Way to Quit Porn*](https://easypeasymethod.org/) used Carr's method to help men quit porn. This book borrows from both, and takes the same method to lust itself. The credit is theirs. Any mistakes are mine.
+## Who is telling you this {-}
+
+You should know who is talking. I'll keep it short, because this book is about you.
+
+I was an awkward boy who couldn't talk to girls. At sixteen I found masturbation, and it became my drug, several times a day. At twenty-one I got fast internet, and porn came with it. Nobody could have told. I did well at everything people could see.
+
+Then I had my first girlfriend, and I couldn't finish. A real woman was no match for what porn had taught me to expect. So I kept the porn.
+
+The habit cost me three relationships, an engagement and a marriage. After that I went the other way, woman after woman, to push a number up. I was on the apps all day. When I liked one, I sat waiting for her texts, and I kept ten conversations going in case she went quiet. When I got sick of the chase, I paid for sex and told myself it was only her job. None of it was ever enough.
+
+Then a woman loved me anyway, baggage and all. I knew that if I didn't fix this, I would wreck that too.
+
+I had been fighting it for years. A free book called [*The Easy Peasy Way to Quit Porn*](https://easypeasymethod.org/) got me off porn for almost a year. I went back because I didn't follow its instructions. Later I joined a men's recovery group at a church, and found that Christianity wasn't as stupid as I had thought. But the group fought the way everyone fights, with willpower. That seemed backward to me. If grace is real, freedom shouldn't be an arm-wrestle that lasts for life.
+
+I prayed for months and asked God what he wanted me to do. One night it came clear. Men are sedated. Porn, games, junk food and drink have put a generation half to sleep. I wanted a book like that free one, but one that went past porn and woke men up. I couldn't find it, so this is that book.
+
+Most of the men you'll meet in these pages, I have been. That is all you need to know about me.
+
+I didn't invent this way of quitting. A man named Allen Carr did, for smokers. His book, *The Easy Way to Stop Smoking*, has helped a great many people put down cigarettes without a fight. The free book that helped me took Carr's method and turned it on porn. This book borrows from both, and takes the same method to lust itself. The credit is theirs. Any mistakes are mine.
 
 A Christian wrote this one, and it quotes the Bible, because the best pictures of this trap are in there. You don't have to believe a word of it to get out. If you don't believe, read it as you would any old book that turns out to know you. If you hold another faith, bring it with you. When you hear God or sin mentioned, take it as your conscience talking.
 
@@ -96,3 +114,5 @@ So start with the squatter. If he does nothing for you, why does he keep coming 
 <!-- 2026-11-21 opening rewrite (James: the opening must grip and reward quickly; tested on three cold readers). Before and after: editorial/OPENING-REWRITE-2026-11-21.md. Cut text is in editorial/PARKING.md. -->
 
 <!-- 2026-11-21 room-by-room reorder (James approved: nothing arrives before the reader needs it; the rooms come in the order a man retreats through them). Before and after: editorial/ROOM-ORDER-2026-11-21.md. -->
+
+<!-- 2026-11-21 (James, in his own words, as an outline; five-star review item B1): new section 'Who is telling you this', the narrator's story in first person, written only from the facts James gave. James said he will confirm later that it is true as written; nothing in it may be embellished. Left out on purpose: how the book was made (his tools and editing process), to keep the section about the reader. The credit paragraph now follows it and no longer repeats the EasyPeasy title. -->
