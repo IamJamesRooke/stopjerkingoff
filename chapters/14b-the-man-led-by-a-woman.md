@@ -4,7 +4,7 @@
 >
 > — Proverbs 7:22
 
-The fourth mouth is the chase. If that has never been you, read this for the man you know who is living it.
+The fourth way lust is fed is the chase. If that has never been you, read this for the man you know who is living it.
 
 There's a man you may recognize at any party. He walks in and goes straight to the women. He doesn't say hello to the men. He buys a round, and every glass goes to a girl. He would tell you he is just a generous, friendly guy.
 

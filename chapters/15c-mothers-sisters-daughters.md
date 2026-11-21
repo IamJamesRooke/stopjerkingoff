@@ -52,7 +52,7 @@ Set him beside the man who quit porn and kept the feed. That man is still standi
 
 AND HE CALLS IT BEING FREE!
 
-That is the eye and the mind. The next mouth is the one most men know best.
+That is the eye and the mind. Next comes the one most men know best.
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 15-fantasy-and-the-thought-life.Rmd; the source notes for everything here are in that file. -->
 

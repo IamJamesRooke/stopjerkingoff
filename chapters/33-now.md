@@ -6,7 +6,7 @@
 
 You've reached the end of the book. Congratulations. I mean that as plainly as I can say it. You were caught in something that holds most men for life, and you walked out. You'll discover over the coming months that life was better than you thought it was. The habit had been standing in front of it.
 
-Look back at the house for a moment. The tenant was fed through five mouths: the look, the thought, the touch, the chase and the taking. You didn't get rid of him by sweeping harder. You saw that he had never paid a day's rent, and then there was no room left for him to come back to. If an old thought ever drifts past, you know what it is. Let it go by.
+Look back at the house for a moment. The tenant was fed five ways: the look, the thought, the touch, the chase and the taking. You didn't get rid of him by sweeping harder. You saw that he had never paid a day's rent, and then there was no room left for him to come back to. If an old thought ever drifts past, you know what it is. Let it go by.
 
 And the man on the couch? His phone is lying face up on the cushion tonight, and he hasn't given it a thought.
 

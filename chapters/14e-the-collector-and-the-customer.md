@@ -1,6 +1,6 @@
 # The Collector and the Customer {#the-collector-and-the-customer}
 
-The fifth mouth is where the other four have been leading all along. A man looks, thinks, touches and chases. Then one night he takes.
+The fifth way is where the other four have been leading all along. A man looks, thinks, touches and chases. Then one night he takes.
 
 Most men who have fed this one are neither collectors nor customers. They simply went home with someone when the chance came. Ask one of them about it the next morning. He doesn't look like a conqueror. He is looking for his shoes.
 

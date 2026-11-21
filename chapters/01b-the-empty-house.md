@@ -30,13 +30,13 @@ Jesus gave the order of things in one line: "You will know the truth, and the tr
 
 A Christian will say more. Jesus's story is about a house left empty, and a house isn't meant to stand empty. It has an owner, and he means to live in it. He doesn't come as a substitute for the tenant. He was the owner all along.
 
-In Jesus's story the spirit came back with seven others. Count the ways your own tenant is fed, and you will find five. Call them his five mouths. You can count them on one hand.
+In Jesus's story the spirit came back with seven others. Count the ways your own tenant is fed, and you will find five. You can count them on one hand.
 
 **Look.** Porn is the big one, in every form it comes in. But the feed full of half-dressed strangers belongs here too. So does the second glance at a woman in the street, the one you take on purpose.
 
 **Think.** The private film. The fantasy, the memory played back, the woman from work undressed in your head.
 
-**Touch.** The hand. For most men this is the mouth that has been fed most often. It is on the cover of this book.
+**Touch.** The hand. For most men this is the way he has been fed most often. It is on the cover of this book.
 
 **Chase.** This is lust doing your thinking around real women. The flirting you shouldn't be doing. The message you shouldn't be sending. The woman on a pedestal, and the money spent to make her notice you.
 
@@ -44,11 +44,11 @@ In Jesus's story the spirit came back with seven others. Count the ways your own
 
 Look, think, touch, chase, take. It is a ladder, and each rung leads to the next. It is also the oldest story there is. He saw her. He couldn't stop thinking about her. He went after her. He took her.
 
-You may be feeding all five, or only two. It makes no difference. There are five mouths and one small belly behind them. That is why you are not going to fight five battles. There is only one tenant.
+You may be feeding all five, or only two. It makes no difference. He is fed five ways, and there is one small belly behind them all. That is why you are not going to fight five battles. There is only one tenant.
 
 It is also why this book asks you not to throw anything out yet. The day will come, near the end, when you show him the door. You'll do it once, and it will be easy, because by then you will know that he has nothing you want.
 
-But before we look at what he has paid, one question has to be settled. Five mouths make a long list. Is all of that really lust? Where exactly is the line?
+But before we look at what he has paid, one question has to be settled. Five ways make a long list. Is all of that really lust? Where exactly is the line?
 
 <!-- 2026-11-20 (James: "keep everything from the Bible as much as possible"): this chapter REPLACES "The Hydra", written and withdrawn the same day. James doubted that the Greek myth matched the rest of the book, after it needed two repairs (what the fire meant, and whether the sword made willpower necessary). The frame is now Jesus's picture of the swept and empty house.
 SOURCES: Matthew 12:43-45 (WEB, checked 2026-11-20). Quoted verbatim: "I will return into my house from which I came out" (the WEB's inner quotation), "empty, swept, and put in order", and "The last state of that man becomes worse than the first." The rest is retold. Jesus applies the saying to "this evil generation"; the book uses it as his picture of how a thing put out by force returns, and says plainly that it is not telling the reader he has a spirit. Epigraph and body quotation: John 8:32, second sentence (WEB, checked 2026-11-20); the text notes that he was speaking of remaining in his word (8:31). "Tenant" picks up the Little Monster chapter's "you have a tenant ... he pays no rent"; the Little Monster is not named here because the reader has not met him yet. The five (look, think, touch, chase, take) are this book's own list. -->

@@ -10,7 +10,7 @@ You knew.
 
 Nobody has ever called this a social habit. You don't do it at a dinner party. It may be the most private thing you do, and that privacy is what keeps it going.
 
-Lust's other mouths live the same way. Nobody watches porn at the dinner table. And the messages to her are the ones you delete.
+The rest of lust lives the same way. Nobody watches porn at the dinner table. And the messages to her are the ones you delete.
 
 ## The work of hiding {-}
 

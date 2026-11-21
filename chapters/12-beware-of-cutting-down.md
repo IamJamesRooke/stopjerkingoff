@@ -10,7 +10,7 @@ Sometimes he means it as a stepping stone: "I'll ease off gradually, and then I'
 
 "Never again is too much to ask. So from now on it's Saturdays only. Or only in the shower. Or only from my own head, with no screen. If I can hold it there for a while, I'll trim it further, and one day it will just fade out."
 
-You may notice that you're living on one of these deals already. "Only without porn" is a limit. So is "only the soft stuff", and so is "I'll look, but I won't touch". With women the limit sounds like "we only text" or "it's just flirting". Lent is the forty days before Easter, when many Christians give something up. One man tried exactly that deal for Lent, porn out and the habit kept. He found he couldn't do the one without thinking about the other. A smaller mouth is still a mouth, and it is still being fed.
+You may notice that you're living on one of these deals already. "Only without porn" is a limit. So is "only the soft stuff", and so is "I'll look, but I won't touch". With women the limit sounds like "we only text" or "it's just flirting". Lent is the forty days before Easter, when many Christians give something up. One man tried exactly that deal for Lent, porn out and the habit kept. He found he couldn't do the one without thinking about the other. A smaller meal is still a meal, and he is still being fed.
 
 It sounds like the moderate, grown-up option. Of everything a man can try, it is the worst, and it's the reason plenty of men stay caught for life. Four things happen to him.
 

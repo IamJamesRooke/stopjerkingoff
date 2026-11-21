@@ -4,7 +4,7 @@
 >
 > — 1 Corinthians 6:12
 
-The third mouth needs no screen, no woman and no money. All it needs is a man by himself for five minutes.
+The third way lust is fed needs no screen, no woman and no money. All it needs is a man by himself for five minutes.
 
 For most men it was the first of the five to arrive, and they expect it to be the last to go. This is the hand.
 
