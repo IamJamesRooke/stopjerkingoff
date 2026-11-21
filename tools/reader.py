@@ -3,7 +3,7 @@
 
 - "Chapter N of T · about X min" under each chapter title.
 - A big "Next chapter" card at the end of each chapter.
-- A one-screen homepage: cover, the book's first line, a few facts, "Start reading".
+- A one-screen homepage: cover, a one-line pitch (site/hero-line.txt, else the book's first line), a few facts, "Start reading".
 - Loads site/reader.js, which remembers the last chapter read (on the device only)
   and offers "Continue reading", and draws a thin progress bar.
 """
@@ -95,6 +95,10 @@ for name in ("index.html", "introduction.html"):
     s = s.replace(cover.group(0), "", 1)
     s = re.sub(r'<div class="downloads">.*?</div>\s*', "", s, count=1, flags=re.S)
     line = re.split(r"(?<=[.!?])\s", re.sub(r"<[^>]+>", "", intro.group(1)).strip())[0]
+    # the homepage line is a pitch of its own (site/hero-line.txt); the book's first line is the fallback
+    pitch = Path(__file__).resolve().parent.parent / "site" / "hero-line.txt"
+    if pitch.exists() and pitch.read_text(encoding="utf-8").strip():
+        line = e(pitch.read_text(encoding="utf-8").strip())
     hero = f'''<div class="home-hero">
 {cover.group(0)}
 <div class="hero-text">
