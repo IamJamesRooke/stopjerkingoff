@@ -32,7 +32,7 @@ One man who got out described it like this:
 
 > "I feel like coming out from a fog that has been around me all this time."
 
-A Christian wrote this book, and it quotes the Bible. If you believe, you'll find this way leans on grace, not grit. If you don't, you can still walk out by it.
+This book quotes the Bible and takes God seriously. If you believe, you'll find this way leans on grace, not grit. If you don't, you can still walk out by it.
 
 It takes about four hours, and nobody has to know you're reading it. Read it this week. There are two rules.
 
@@ -96,4 +96,4 @@ SOURCES (Introduction): every quote below is from the research files; check each
 
 <!-- 2026-11-21 room-by-room reorder (James approved: nothing arrives before the reader needs it; the rooms come in the order a man retreats through them). Before and after: editorial/ROOM-ORDER-2026-11-21.md. -->
 
-<!-- 2026-11-21 Introduction rebuilt (James: 'The intro is the most important part of the book. REALLY think about how to improve it.'). Four versions were tested on seven cold readers in two rounds (two non-religious skeptics, two long-time Christian strugglers, two men of 19 and 20, an audio editor); record in editorial/INTRO-REBUILD-2026-11-21.md. New first sentence (also the homepage line) adds 'breaking a promise he made an hour ago'. Added: the 'normal / afterward' line, 'I was him for years', the argument for why other methods fail, 'Small is not the same as harmless', a plain line that a Christian wrote it, 'nobody has to know you're reading it', 'Read it this week'. Cut and parked: the headings, the four-word glossary (the habit and lust are now named inside the promise), the second testimony, the note to helpers, 'teeth, bone, sinew and will'. Both safety notes kept in substance. -->
+<!-- 2026-11-21 Introduction rebuilt (James: 'The intro is the most important part of the book. REALLY think about how to improve it.'). Four versions were tested on seven cold readers in two rounds (two non-religious skeptics, two long-time Christian strugglers, two men of 19 and 20, an audio editor); record in editorial/INTRO-REBUILD-2026-11-21.md. New first sentence (also the homepage line) adds 'breaking a promise he made an hour ago'. Added: the 'normal / afterward' line, 'I was him for years', the argument for why other methods fail, 'Small is not the same as harmless', a plain line that the book quotes the Bible and takes God seriously (James, same day: he is not a confirmed Christian yet, so the book must not say a Christian wrote it), 'nobody has to know you're reading it', 'Read it this week'. Cut and parked: the headings, the four-word glossary (the habit and lust are now named inside the promise), the second testimony, the note to helpers, 'teeth, bone, sinew and will'. Both safety notes kept in substance. -->

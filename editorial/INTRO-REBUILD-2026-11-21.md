@@ -19,7 +19,7 @@ Four versions were written: the old one, a fuller one with the argument for why 
 ## What changed
 
 - New first sentence, which is also the homepage line.
-- Added: the "normal / afterward" line; "I was him for decades."; why other methods fail ("No man wins a fight against something he still half wants."); "Small is not the same as harmless."; "A Christian wrote this book… grace, not grit… you can still walk out by it."; "nobody has to know you're reading it"; "Read it this week."
+- Added: the "normal / afterward" line; "I was him for decades."; why other methods fail ("No man wins a fight against something he still half wants."); "Small is not the same as harmless."; "This book quotes the Bible and takes God seriously… grace, not grit… you can still walk out by it." (first written as "A Christian wrote this book"; corrected the same day, because James is not a confirmed Christian yet); "nobody has to know you're reading it"; "Read it this week."
 - Cut and parked: both headings, the glossary (the habit and lust are now named inside the promise), the second testimony, the note to helpers, "teeth, bone, sinew and will", "the secret".
 - Kept: the scene, "There is no dragon.", the squatter, "Save your grit…", "Evict him, and get on with your life.", "DO NOT SKIP CHAPTERS.", both safety notes, the welcome to women, the button.
 - Length: 876 words before, 785 after, with no headings.
@@ -62,7 +62,7 @@ One man who got out described it like this:
 
 > "I feel like coming out from a fog that has been around me all this time."
 
-A Christian wrote this book, and it quotes the Bible. If you believe, you'll find this way leans on grace, not grit. If you don't, you can still walk out by it.
+This book quotes the Bible and takes God seriously. If you believe, you'll find this way leans on grace, not grit. If you don't, you can still walk out by it.
 
 It takes about four hours, and nobody has to know you're reading it. Read it this week. There are two rules.
 
