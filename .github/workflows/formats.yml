@@ -1,7 +1,20 @@
 name: Build PDF and EPUB
-# The PDF and EPUB are slow to build, so they are rebuilt nightly or on demand instead of on every push.
+# The PDF and EPUB are slow to build, so they are rebuilt in this separate workflow: after any push
+# that changes the book (a newer push cancels an older run), nightly, or on demand.
 # Each run stores them on the "formats" release, then redeploys the site so the download links pick them up.
 on:
+  push:
+    branches: [main]
+    paths:
+      - "chapters/**"
+      - "index.Rmd"
+      - "_bookdown.yml"
+      - "_output.yml"
+      - "preamble.tex"
+      - "epub.css"
+      - "epub-metadata.xml"
+      - "tools/*.lua"
+      - "images/cover.png"
   schedule:
     - cron: "0 7 * * *"
   workflow_dispatch:
