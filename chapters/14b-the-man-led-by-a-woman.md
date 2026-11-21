@@ -4,11 +4,11 @@
 >
 > — Proverbs 7:22
 
-The fourth thing lust borrows is a man's feet. This is the chase. If that has never been you, read this for the man you know who is living it.
+Here lust borrows a man's feet. This is the chase. If that has never been you, read this for the man you know who is living it.
 
 There's a man you may recognize at any party. He walks in and goes straight to the women. He doesn't say hello to the men. He buys a round, and every glass goes to a girl. He would tell you he is just a generous, friendly guy.
 
-Try a test. Does he buy the men a drink? Does he spend as much time talking to the men? A generous man is generous with everybody. This man is spending, and he knows what he is shopping for.
+Try a test. Does he buy the men a drink? Does he spend as much time talking to the men? A generous man is generous with everybody. This man is spending, and he knows what he is shopping for. It is a hit dressed up as a gift.
 
 The slang of the 2020s calls it simping. The word is new. The problem is very old, and it comes down to one sentence.
 
@@ -76,3 +76,5 @@ Samson at least was fooled by a woman he loved. The next man wasn't fooled at al
 <!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): reader report 5: a front-door line. Pastor: 'the strongest man who ever lived' became 'in the Bible'. -->
 
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
+
+<!-- 2026-11-21 room-by-room reorder (James approved: nothing arrives before the reader needs it; the rooms come in the order a man retreats through them). Before and after: editorial/ROOM-ORDER-2026-11-21.md. -->

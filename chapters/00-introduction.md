@@ -32,6 +32,8 @@ And another:
 
 That is where this book is taking you.
 
+If you're a woman, you are welcome here. The book says "he" all the way through, but the trap is built the same way for you, and so is the way out. And if you are reading for a son, a husband or a friend, read it yourself first. You can't lead a man out of a trap you don't understand.
+
 ## Two rules while you read {-}
 
 **DO NOT SKIP CHAPTERS.** They are short. Each one takes away one thing the squatter lives on, and the last step only works if the others came first. Jump ahead to the "how to stop" chapter and you'll land on nothing.
@@ -87,3 +89,5 @@ SOURCES (Introduction): every quote below is from the research files; check each
 <!-- 2026-11-21 opening rewrite (James: the opening must grip and reward quickly; tested on three cold readers). Before and after: editorial/OPENING-REWRITE-2026-11-21.md. Cut text is in editorial/PARKING.md. -->
 
 <!-- 2026-11-21 (James never liked it): the Piper line ("a regular practice of most single men") is cut from the opening scene and parked in editorial/PARKING.md. -->
+
+<!-- 2026-11-21 room-by-room reorder (James approved: nothing arrives before the reader needs it; the rooms come in the order a man retreats through them). Before and after: editorial/ROOM-ORDER-2026-11-21.md. -->

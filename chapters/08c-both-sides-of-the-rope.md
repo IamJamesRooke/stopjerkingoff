@@ -26,6 +26,10 @@ Some of the gains of stopping are ones you'll notice and enjoy on purpose. You'l
 
 That day is closer than you think.
 
+One cost is left. It is the one a man least likes to hear said aloud.
+
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 08-what-its-doing-to-you.Rmd; the source notes for everything here are in that file. -->
 
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
+
+<!-- 2026-11-21 room-by-room reorder (James approved: nothing arrives before the reader needs it; the rooms come in the order a man retreats through them). Before and after: editorial/ROOM-ORDER-2026-11-21.md. -->

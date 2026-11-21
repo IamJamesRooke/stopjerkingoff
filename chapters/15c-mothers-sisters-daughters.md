@@ -52,7 +52,7 @@ Set him beside the man who quit porn and kept the feed. That man is still standi
 
 AND HE CALLS IT BEING FREE!
 
-That is the eye and the mind. Next comes the one most men know best.
+Those are the rooms a man can sit in by himself. Now the squatter does something new. He borrows your feet, and walks out into company. "I'm only being friendly."
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 15-fantasy-and-the-thought-life.Rmd; the source notes for everything here are in that file. -->
 
@@ -63,3 +63,5 @@ That is the eye and the mind. Next comes the one most men know best.
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
 
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
+
+<!-- 2026-11-21 room-by-room reorder (James approved: nothing arrives before the reader needs it; the rooms come in the order a man retreats through them). Before and after: editorial/ROOM-ORDER-2026-11-21.md. -->

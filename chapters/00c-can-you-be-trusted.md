@@ -14,25 +14,7 @@ And look at who has done it to us. It wasn't a dragon. A grown man, trusted with
 
 The reverse is also true. The man who is free of this walks differently. He can say no, so his yes is worth something. You were made for something, and this book is about getting you fit for it.
 
-## What I believe, and what you don't have to {-}
-
-A Christian wrote this book, and it quotes the Bible, because the best pictures of this trap are in there. You don't have to believe a word of it to get out. If you're an atheist, play along. If you hold another faith, bring it with you. When you hear God or sin mentioned, take it as your conscience talking. The trap works the same way on every man, and so does the way out.
-
-The book says plainly what the Bible says: lust is sin. Jesus didn't set the bar at the act. He set it at the look. In Matthew 5:28 he says, "everyone who gazes at a woman to lust after her has committed adultery with her already in his heart".
-
-But lust is not the same as desire. God made desire, and he made it strong. Lust is desire turned into taking: the look you go back for, the woman used as material. This book is against the taking. It has nothing against the desire.
-
-If you are a Christian, hear this early. The word "sin" is here to tell the truth. It is not here to beat you. The same Bible also says, in Romans 8:1, "There is therefore now no condemnation to those who are in Christ Jesus". Hold on to both. Nothing in this book saves anyone. Freedom is God's gift, and all the book can do is clear away the lies that keep a man from taking it.
-
-If you're a woman, you are welcome here. The book says "he" all the way through, but the trap is built the same way for you, and so is the way out. And if you are reading for a son, a husband or a friend, read it yourself first. You can't lead a man out of a trap you don't understand.
-
-One debt before we go on. The method isn't mine. It began with Allen Carr's *Easy Way to Stop Smoking*. A free book called [*The Easy Peasy Way to Quit Porn*](https://easypeasymethod.org/) applied it to porn. I borrowed its structure and its method, and the credit belongs to them. Any mistakes in applying it here are mine.
-
-I won't wish you luck, because luck doesn't come into it. Grace does.
-
-Now for the method itself. It begins with the strangest promise anyone has made you about this.
-
-It will be easy.
+None of this is new. Three thousand years ago it brought down a king that no army could beat.
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of index.Rmd; the source notes for everything here are in that file. -->
 
@@ -51,3 +33,5 @@ It will be easy.
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
 
 <!-- 2026-11-21 opening rewrite (James: the opening must grip and reward quickly; tested on three cold readers). Before and after: editorial/OPENING-REWRITE-2026-11-21.md. Cut text is in editorial/PARKING.md. -->
+
+<!-- 2026-11-21 room-by-room reorder (James approved: nothing arrives before the reader needs it; the rooms come in the order a man retreats through them). Before and after: editorial/ROOM-ORDER-2026-11-21.md. -->

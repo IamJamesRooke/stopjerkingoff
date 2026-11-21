@@ -12,7 +12,7 @@ One man in the trap put the entire thing in seven words:
 
 That is the only reason any man carries on, whether he does it three times a day or twice a month. He's feeding the Little Monster.
 
-And the Little Monster isn't picky. A video feeds him. A fantasy feeds him. A long look at a stranger feeds him, and so does a flirty message from a woman you have no business messaging. It's all one diet. He is fed five ways, and he has one small belly.
+And the Little Monster isn't picky. A video feeds him. A fantasy feeds him. A long look at a stranger feeds him, and so does a flirty message from a woman you have no business messaging. It's all one diet. He is fed many ways, and he has one small belly.
 
 The "pleasure" a man gets from it is mostly the pleasure of getting back to how he'd have felt anyway. He's trying to return to the peace and ease he had as a boy, before any of this started. And he keeps using the very thing that took it from him.
 
@@ -67,3 +67,5 @@ And the lead-up has a problem. It never stays the same size.
 <!-- 2026-11-20 (James: keep everything from the Bible as much as possible): Hydra wording replaced by the empty house and the five mouths. -->
 
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
+
+<!-- 2026-11-21 room-by-room reorder (James approved: nothing arrives before the reader needs it; the rooms come in the order a man retreats through them). Before and after: editorial/ROOM-ORDER-2026-11-21.md. -->

@@ -1,6 +1,6 @@
 # The Collector and the Customer {#the-collector-and-the-customer}
 
-The fifth thing lust borrows is a man's bed. It is where the other four have been leading all along. A man looks, thinks, touches and chases. Then one night he takes.
+The last thing lust borrows is a man's bed. It is where all the others have been leading. A man looks, thinks, touches and chases. Then one night he takes.
 
 Most men who have fed this one are neither collectors nor customers. They simply went home with someone when the chance came. Ask one of them about it the next morning. He doesn't look like a conqueror. He is looking for his shoes.
 
@@ -40,7 +40,9 @@ One more man belongs here. He has a wife, and he took a woman who wasn't her. He
 
 So that is the collector, the customer and the stray. Each of them took a woman he never meant to keep.
 
-The last case is harder. This man means to keep her.
+And here the squatter makes his last move, and it is his best. "Fine. Not strangers. But a woman I love is different."
+
+Before that room, one question has to be settled, and you have been circling it for a long time. Where exactly is the line?
 
 <!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md): NEW CHAPTER for the fifth head, Take. 'The collector' is moved unchanged from 'At Least I'm Not Him' (an illustration, not a testimony; see the notes in 14-types-of-user.md). 'The customer' is the Ladder's long 'man who buys it in person' bullet, moved, with a new first sentence; its facts were checked 2026-11-19 (research/round8/findings.md). New: the opening on the ordinary hookup, and the three sentences on the married man who strays. No new quotations or statistics. -->
 
@@ -49,3 +51,5 @@ The last case is harder. This man means to keep her.
 <!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): method M6: two risk-list sentences cut from 'The customer' (the trafficking sentences stay). Reader report 5: a front-door line. -->
 
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
+
+<!-- 2026-11-21 room-by-room reorder (James approved: nothing arrives before the reader needs it; the rooms come in the order a man retreats through them). Before and after: editorial/ROOM-ORDER-2026-11-21.md. -->

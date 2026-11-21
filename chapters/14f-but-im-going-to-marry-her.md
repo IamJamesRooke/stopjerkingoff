@@ -34,7 +34,7 @@ After that, the two of you have real choices. You can bring the wedding forward.
 
 Only one choice is closed. Don't tell yourself you'll sort it out later and go on as before. "Later" is the Little Monster's favorite word.
 
-That is all five. One thing has kept every one of them alive for years, and it isn't desire. It is a locked door.
+That is every room in the house. One thing has kept the squatter alive in all of them for years, and it isn't desire. It is a locked door.
 
 <!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md): NEW CHAPTER, the hardest case under the fifth head, Take. The man is an anonymous archetype (STYLE.md, archetypal stories), written at James's direction: keep the biblical view as the ideal. No quotations and no statistics. -->
 
@@ -43,3 +43,5 @@ That is all five. One thing has kept every one of them alive for years, and it i
 <!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): method H4 and M1, reader report: 'a man who can wait' (endurance) became desire that doesn't turn into a demand, kept for the wedding; 'she may be hurt for an evening' softened; one practical line (read it with her); a front-door line; the closing hook now leads to 'The Locked Door'. -->
 
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
+
+<!-- 2026-11-21 room-by-room reorder (James approved: nothing arrives before the reader needs it; the rooms come in the order a man retreats through them). Before and after: editorial/ROOM-ORDER-2026-11-21.md. -->

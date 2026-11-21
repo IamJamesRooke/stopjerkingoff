@@ -464,3 +464,7 @@ Read-aloud pass, fact and quote audit (nothing shaky found), plain-English pass,
 ## 2026-11-21 opening rewrite
 
 James: the Introduction and chapters 1 to 5 must grip and reward quickly. Rewritten, tested on three cold readers, revised and published. Before and after: editorial/OPENING-REWRITE-2026-11-21.md. Old versions: editorial/PARKING.md. Rules that came out of it: open on a scene; a real aha by the end of chapter 1; cautions said once and inside the story; no epigraph where the verse is quoted in the chapter; housekeeping (license, definitions) belongs at the back.
+
+## 2026-11-21 room-by-room reorder
+
+James (after listening to chapter 6): still too much front-loading; think like an addict, easiest wins first; do not name the marriage line too soon. Three chapters moved, joins rewritten. Before and after: editorial/ROOM-ORDER-2026-11-21.md. Rules: last section of STYLE.md. Backup branch: backup/pre-room-order-2026-11-21.

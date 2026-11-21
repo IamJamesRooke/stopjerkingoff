@@ -30,25 +30,13 @@ Jesus gave the order of things in one line: "You will know the truth, and the tr
 
 A Christian will say more. Jesus's story is about a house left empty, and a house isn't meant to stand empty. It has an owner, and he means to live in it. He doesn't come as a substitute for the tenant. He was the owner all along.
 
-Now look at how the squatter lives. He has no body of his own. He can't look at anything, or touch anything, or go anywhere. Everything he gets, he gets with what you lend him: your eyes, your mind, your hand, your feet and your bed. That makes five ways he is fed, and you can count them on one hand.
+Now look at how the squatter lives. He has no body of his own. He can't look at anything, or touch anything, or go anywhere. Everything he gets, he gets with what you lend him: your eyes, your mind and your hand. From some men he has borrowed more than that, and we'll come to it.
 
-**Look.** He borrows your eyes. Porn is the big one, in every form it comes in. But the feed full of half-dressed strangers belongs here too. So does the second glance at a woman in the street, the one you take on purpose.
-
-**Think.** He borrows your mind. The private film. The fantasy, the memory played back, the woman from work undressed in your head.
-
-**Touch.** He borrows your hand. For most men this is the way he has been fed most often. It is on the cover of this book.
-
-**Chase.** He borrows your feet. This is lust doing your thinking around real women. The flirting you shouldn't be doing. The message you shouldn't be sending. The woman on a pedestal, and the money spent to make her notice you.
-
-**Take.** He borrows your bed. Sex outside marriage. The one-night stand, the affair, the sex a man pays for. And one case is not like the others, and it gets a fair hearing in this book. It is the bed a man shares with the woman he loves and hasn't married yet.
-
-Look, think, touch, chase, take. It is a ladder, and each rung leads to the next. It is also the oldest story there is. He saw her. He couldn't stop thinking about her. He went after her. He took her.
-
-You may be feeding all five, or only two. It makes no difference. He is fed five ways, and there is one small belly behind them all. That is why you are not going to fight five battles. There is only one squatter, with whatever grubby friends he has brought home. They all eat from the same plate.
+One warning about him. He never leaves when you shut a room. He moves down the hall. You will hear it in your own voice: "Fine, not that. But surely this is all right." When you hear that sentence, smile. That is him, changing rooms. This book follows him room by room, and it goes further than you expect. You don't have to agree to anything in advance. Judge each room when we get there.
 
 It is also why this book asks you not to throw anything out yet. The day will come, near the end, when you show him the door. You'll do it once, and it will be easy, because by then you will know that he has nothing you want. You won't have to drag anyone out. You stop paying his bills and you stop bringing his food, and his friends leave with him.
 
-But before we look at what he has paid, one question has to be settled. Five ways make a long list. Is all of that really lust? Where exactly is the line?
+That leaves the question you have asked yourself a hundred times. You aren't stupid. You have wanted him out for years. So why does it feel so hard?
 
 <!-- 2026-11-20 (James: "keep everything from the Bible as much as possible"): this chapter REPLACES "The Hydra", written and withdrawn the same day. James doubted that the Greek myth matched the rest of the book, after it needed two repairs (what the fire meant, and whether the sword made willpower necessary). The frame is now Jesus's picture of the swept and empty house.
 SOURCES: Matthew 12:43-45 (WEB, checked 2026-11-20). Quoted verbatim: "I will return into my house from which I came out" (the WEB's inner quotation), "empty, swept, and put in order", and "The last state of that man becomes worse than the first." The rest is retold. Jesus applies the saying to "this evil generation"; the book uses it as his picture of how a thing put out by force returns, and says plainly that it is not telling the reader he has a spirit. Epigraph and body quotation: John 8:32, second sentence (WEB, checked 2026-11-20); the text notes that he was speaking of remaining in his word (8:31). "Tenant" picks up the Little Monster chapter's "you have a tenant ... he pays no rent"; the Little Monster is not named here because the reader has not met him yet. The five (look, think, touch, chase, take) are this book's own list. -->
@@ -58,3 +46,5 @@ SOURCES: Matthew 12:43-45 (WEB, checked 2026-11-20). Quoted verbatim: "I will re
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
 
 <!-- 2026-11-21 opening rewrite (James: the opening must grip and reward quickly; tested on three cold readers). Before and after: editorial/OPENING-REWRITE-2026-11-21.md. Cut text is in editorial/PARKING.md. -->
+
+<!-- 2026-11-21 room-by-room reorder (James approved: nothing arrives before the reader needs it; the rooms come in the order a man retreats through them). Before and after: editorial/ROOM-ORDER-2026-11-21.md. -->

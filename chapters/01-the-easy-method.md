@@ -8,6 +8,8 @@ How? The method has one aim: to change the way you think about lust.
 
 That's all. It won't make you stronger, and it won't make you more disciplined. It will change what you see when you look at porn, at the habit, and at the pull women have on you. Once you see it clearly, stopping is easy.
 
+The method isn't mine. It began with Allen Carr's *Easy Way to Stop Smoking*. A free book called [*The Easy Peasy Way to Quit Porn*](https://easypeasymethod.org/) applied it to porn. I borrowed its structure and its method, and the credit belongs to them. Any mistakes in applying it here are mine.
+
 ## Why the normal way is so hard {-}
 
 The normal way of quitting goes like this. You write down everything the habit costs you: the guilt, the tiredness, the lost time, the distance from God. Then you tell yourself:
@@ -60,6 +62,10 @@ If you fall, keep your eyes open, and notice what it actually gave you. As you r
 
 There's no "one last time" ceremony waiting for you in the closing pages. There is only a plain No, and you'll be glad to say it. It is not the old vow. The old vow was a promise made in your own strength, before you understood the trap, and you know how long those lasted. This one you'll say with your eyes open, and if you pray, you'll say it leaning on God.
 
+A Christian wrote this book, and it quotes the Bible, because the best pictures of this trap are in there. You don't have to believe a word of it to get out. If you're an atheist, play along. If you hold another faith, bring it with you. When you hear God or sin mentioned, take it as your conscience talking.
+
+And if you are a Christian, hear one verse early. Romans 8:1 says, "There is therefore now no condemnation to those who are in Christ Jesus". When this book says "sin", it is telling the truth. It is not beating you.
+
 Paul, the apostle who wrote much of the New Testament, told the Christians in Rome to "be transformed by the renewing of your mind". He didn't say to try harder. "Be transformed" is something done to you, by God, as your mind is made new. If you're not a believer, call it changing your mind. Either way, it starts with seeing clearly.
 
 So start with the squatter. If he does nothing for you, why does he keep coming back? The best answer anyone has given is two thousand years old. It is a story about a house.
@@ -84,3 +90,5 @@ So start with the squatter. If he does nothing for you, why does he keep coming 
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
 
 <!-- 2026-11-21 opening rewrite (James: the opening must grip and reward quickly; tested on three cold readers). Before and after: editorial/OPENING-REWRITE-2026-11-21.md. Cut text is in editorial/PARKING.md. -->
+
+<!-- 2026-11-21 room-by-room reorder (James approved: nothing arrives before the reader needs it; the rooms come in the order a man retreats through them). Before and after: editorial/ROOM-ORDER-2026-11-21.md. -->

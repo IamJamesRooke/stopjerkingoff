@@ -4,7 +4,7 @@
 >
 > — Matthew 5:28
 
-Lust starts in the eyes and the mind, long before it reaches a website or a hand.
+This room has no porn in it and no hand. It has a phone, and a head.
 
 Take a man who has quit porn, and means it. He hasn't opened one of those sites in months. He has a red line and he stays on the right side of it.
 
@@ -20,7 +20,7 @@ The Little Monster doesn't care where his food comes from. Scraps keep him alive
 
 And the feed learns. Pause on one photo for two seconds and it brings you ten more tomorrow. It's a machine for finding your red line and parking you next to it.
 
-The woman on the screen is beautiful. Nobody is denying it. If she were your wife, and in the room, she'd be a gift. But she isn't in the room. She's light on a piece of glass.
+The woman on the screen is beautiful. Nobody is denying it. If she were your wife, and in the room, she'd be a gift. But she isn't in the room. She's light on a piece of glass. Run the test. There is nobody at the other end, so it is a hit.
 
 A furnace has a pilot light, a tiny flame that burns all day and uses almost no gas. Its only job is to make sure the main burner can fire the instant it's asked. That's what the scroll and the daydream are. You never do it "out of nowhere". The pilot light has been on since breakfast.
 
@@ -72,3 +72,5 @@ But suppose you never touch a screen at all. Suppose you are faithful. Are you s
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
 
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
+
+<!-- 2026-11-21 room-by-room reorder (James approved: nothing arrives before the reader needs it; the rooms come in the order a man retreats through them). Before and after: editorial/ROOM-ORDER-2026-11-21.md. -->

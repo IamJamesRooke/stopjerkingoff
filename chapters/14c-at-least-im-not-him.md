@@ -50,7 +50,9 @@ Jesus told a story about two men who went up to the temple to pray. The first wa
 
 There aren't really any types. There's one trap, and men are standing at different depths in it. The way out is the same for all of them.
 
-Every one of these men is feeding the same small monster, in one or more of the five ways. So take the five one at a time, beginning where lust always begins.
+Every one of these men is feeding the same small monster. And every "at least" is a room he hasn't opened yet.
+
+Remember the warning about the squatter. Shut one room on him and he doesn't leave. He moves down the hall. So follow him. Start with the man who has quit porn and is proud of it, and listen to what he says next.
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 14-types-of-user.Rmd; the source notes for everything here are in that file. -->
 
@@ -61,3 +63,5 @@ Every one of these men is feeding the same small monster, in one or more of the 
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
 
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
+
+<!-- 2026-11-21 room-by-room reorder (James approved: nothing arrives before the reader needs it; the rooms come in the order a man retreats through them). Before and after: editorial/ROOM-ORDER-2026-11-21.md. -->

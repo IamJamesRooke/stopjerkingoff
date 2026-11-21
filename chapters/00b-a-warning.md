@@ -58,10 +58,14 @@ The fear may even grow for a chapter or two. Some men put the book down halfway,
 
 Jesus told a story about a son who took his inheritance early, left home and wasted every coin of it. People call him the prodigal son. He ended up feeding pigs, and he was starving. In that pigsty he came to himself. He got up and walked home, and he found his father running down the road to meet him. That is how it feels to walk out of this trap. Before this book is finished, that will be you.
 
-One question comes first, and the whole book turns on it. It has nothing to do with sex. Can you be trusted?
+So how do you get out? It begins with the strangest promise anyone has made you about this.
+
+It will be easy.
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of index.Rmd; the source notes for everything here are in that file. -->
 
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
 
 <!-- 2026-11-21 opening rewrite (James: the opening must grip and reward quickly). Retitled The Button (the id stays a-warning). The nineteen-year-old's quote moved here from The Easy Method; its source line is in that file. Before and after: editorial/OPENING-REWRITE-2026-11-21.md. -->
+
+<!-- 2026-11-21 room-by-room reorder (James approved: nothing arrives before the reader needs it; the rooms come in the order a man retreats through them). Before and after: editorial/ROOM-ORDER-2026-11-21.md. -->

@@ -308,3 +308,64 @@ So start with a question nobody asks. If it does nothing for you, why is it so h
 One pastor who writes honestly about masturbation calls it "a regular practice of most single men", and plenty of married men could raise a hand too.
 
 (Source: John Piper, "Missions and Masturbation", desiringgod.org.)
+
+
+## 2026-11-21 room-by-room reorder: text taken out of chapters
+
+### From The Empty House (the five ways list; the five are now met room by room and named together in Where the Line Is)
+
+**Look.** He borrows your eyes. Porn is the big one, in every form it comes in. But the feed full of half-dressed strangers belongs here too. So does the second glance at a woman in the street, the one you take on purpose.
+
+**Think.** He borrows your mind. The private film. The fantasy, the memory played back, the woman from work undressed in your head.
+
+**Touch.** He borrows your hand. For most men this is the way he has been fed most often. It is on the cover of this book.
+
+**Chase.** He borrows your feet. This is lust doing your thinking around real women. The flirting you shouldn't be doing. The message you shouldn't be sending. The woman on a pedestal, and the money spent to make her notice you.
+
+**Take.** He borrows your bed. Sex outside marriage. The one-night stand, the affair, the sex a man pays for. And one case is not like the others, and it gets a fair hearing in this book. It is the bed a man shares with the woman he loves and hasn't married yet.
+
+Look, think, touch, chase, take. It is a ladder, and each rung leads to the next. It is also the oldest story there is. He saw her. He couldn't stop thinking about her. He went after her. He took her.
+
+You may be feeding all five, or only two. It makes no difference. He is fed five ways, and there is one small belly behind them all. That is why you are not going to fight five battles. There is only one squatter, with whatever grubby friends he has brought home. They all eat from the same plate.
+
+### From Where the Line Is (the next chapter, But I'm Going to Marry Her, covers this man)
+
+#### The right woman and no promise yet
+
+The hardest case is the man who has found the right woman. He loves her and means to marry her, and he asks a reasonable question. How can this be lust?
+
+He is closer to the right side than he has ever been. He has the right woman. What he doesn't have yet is the promise. An engagement is a promise to make one.
+
+There is good news for this man. He is the only man in this book who can cross the line honestly. It takes a ring and a wedding, and the wedding can be small.
+
+Until then, what he keeps for the wedding isn't lost. It is kept. He will be bringing her a man who doesn't need to take, and every wife needs one of those.
+
+### From Can You Be Trusted? (the faith note and credit now sit, shorter, in The Easy Method; the woman note is in the Introduction)
+
+#### What I believe, and what you don't have to
+
+A Christian wrote this book, and it quotes the Bible, because the best pictures of this trap are in there. You don't have to believe a word of it to get out. If you're an atheist, play along. If you hold another faith, bring it with you. When you hear God or sin mentioned, take it as your conscience talking. The trap works the same way on every man, and so does the way out.
+
+The book says plainly what the Bible says: lust is sin. Jesus didn't set the bar at the act. He set it at the look. In Matthew 5:28 he says, "everyone who gazes at a woman to lust after her has committed adultery with her already in his heart".
+
+But lust is not the same as desire. God made desire, and he made it strong. Lust is desire turned into taking: the look you go back for, the woman used as material. This book is against the taking. It has nothing against the desire.
+
+If you are a Christian, hear this early. The word "sin" is here to tell the truth. It is not here to beat you. The same Bible also says, in Romans 8:1, "There is therefore now no condemnation to those who are in Christ Jesus". Hold on to both. Nothing in this book saves anyone. Freedom is God's gift, and all the book can do is clear away the lies that keep a man from taking it.
+
+If you're a woman, you are welcome here. The book says "he" all the way through, but the trap is built the same way for you, and so is the way out. And if you are reading for a son, a husband or a friend, read it yourself first. You can't lead a man out of a trap you don't understand.
+
+One debt before we go on. The method isn't mine. It began with Allen Carr's *Easy Way to Stop Smoking*. A free book called [*The Easy Peasy Way to Quit Porn*](https://easypeasymethod.org/) applied it to porn. I borrowed its structure and its method, and the credit belongs to them. Any mistakes in applying it here are mine.
+
+I won't wish you luck, because luck doesn't come into it. Grace does.
+
+Now for the method itself. It begins with the strangest promise anyone has made you about this.
+
+It will be easy.
+
+### Old endings replaced
+
+- The Button: "One question comes first, and the whole book turns on it. It has nothing to do with sex. Can you be trusted?"
+- At Least I'm Not Him: "Every one of these men is feeding the same small monster, in one or more of the five ways. So take the five one at a time, beginning where lust always begins."
+- The Back Door: "The three so far have something in common. Each has kept to a room with nobody else in it. The next one walks out into company."
+- Mothers, Sisters, Daughters: "That is the eye and the mind. Next comes the one most men know best."
+- Where the Line Is: "You know the five now, and you know the line. That leaves the question you have asked yourself a hundred times. You aren't stupid. You have wanted out for years. So why are you still in?"

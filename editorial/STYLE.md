@@ -237,3 +237,11 @@ One anonymous man runs through the back half of the book, so the reader has a pe
 ## Verbal tics (2026-11-21)
 
 Ration the narrator's pointing phrases: "Here is", "Look at", "Notice". Each is fine alone and a drone in audio. Before using one, try starting with the thing itself, or asking it as a question. Don't name the feeling for the reader ("the saddest", "the beautiful truth", "the cruelest part"). Show the thing and let him feel it.
+
+## Room by room (2026-11-21, James approved)
+
+NOTHING ARRIVES BEFORE THE READER NEEDS IT. The opening (Introduction, The Button, The Easy Method, The Empty House) deals only with porn and the hand, and names no wider list. The five ways (look, think, touch, chase, take) are named together for the first time in Where the Line Is. The gift-or-hit test is introduced in The Back Door. The marriage line is first stated in Where the Line Is, just before But I'm Going to Marry Her. Naming it early gives the reader fear; by the last room he should want it.
+
+THE RETREAT. An addict gives up one room and moves to the next: porn, then the hand, then the film in his head and the feed, then the chase, then the bed, then "but I love her". The Empty House warns of it ("He moves down the hall"). Chapters 33 to 41 follow him, each ending on the excuse that opens the next room, in his own voice ("Fine. No porn. But the hand on its own is natural."). These are wins of seeing, not quitting in stages: he still evicts once, at the Final Step.
+
+NUMBERING after the reorder: The Button 1, The Easy Method 2, The Empty House 3, The Little Monster 7, Can You Be Trusted? 21, The Back Door 33, Where the Line Is 40, The Final Step 57, Now 65. Refer to chapters by title.
