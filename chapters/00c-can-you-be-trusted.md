@@ -6,7 +6,7 @@ Picture a soldier who shows up for duty drunk. He may be on the right side. He m
 
 That is the theme under this whole book. It is self-control, and it comes down to one hard sentence. **A man who can't control his lust can't be trusted.** His wife can't fully trust him. His employer can't. Worst of all, he can't trust himself, because he has broken his own word too many times.
 
-That is not an accusation. It was true of the man writing this, and it is the reason this book exists. You were made for something. This book is about getting you fit for it.
+That is not an accusation. It was true of the man writing this, and it is the reason this book exists. It is true of half the respectable men you will meet today. You were made for something. This book is about getting you fit for it.
 
 The good news is that the reverse is also true. The man who is free of this walks differently. You're about to find out.
 

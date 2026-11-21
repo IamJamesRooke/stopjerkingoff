@@ -4,17 +4,11 @@ While you read, please don't start a willpower campaign. Make no vows, start no 
 
 That probably sounds backward. Everything you've been told says the opposite: try harder, pray harder, hide the phone, reset the counter. Has any of it worked? If it had, you wouldn't be holding this book.
 
+Here is what nobody told you. You have been fighting a dragon, and there is no dragon. There is a small, smelly squatter in your back room. He has never paid a day's rent, and he lives on the meals you carry up to him. It takes no courage to stop feeding a freeloader.
+
+Some men would almost rather have the dragon. They want a war of teeth, bone, sinew and will. If that is you, save your grit for something that deserves it. There are mountains to climb and children to raise. Don't let this be the battle that defines your life. It is only a pest. Evict him, and get on with your life.
+
 One caution. None of this is permission to hurt anyone. If lust has you in an affair, paying for sex, pressing a woman who has said no, or doing anything against the law, stop that today. Someone else is paying for it, and you don't need the last page for that. Everything else ends at the final step, with no campaign before it.
-
-## Before you go on {-}
-
-This book does not replace a doctor or a counselor. Most men need nothing more than these pages. A few need a person as well. If one of these is you, get that help now, and read the book alongside it.
-
-- **You have thoughts of ending your life or of hurting yourself.** Get medical help today. See a doctor, or call your local emergency number if you are in danger.
-- **You use this to numb an old pain, or it began after something was done to you as a child.** Tell a doctor or a counselor. They keep what you say private, and they have heard it before.
-- **Your urges frighten you, or what you look at has moved toward children or anything against the law.** You are not beyond help. See a doctor or a counselor now. They are there to help you, and they have heard it before. If the thoughts horrify you, arrive uninvited, and you would never act on them, that is often a treatable anxiety problem and no sign that you are dangerous. Tell a doctor exactly that.
-
-The Appendix at the back has more.
 
 ## Is this you? {-}
 
@@ -32,6 +26,16 @@ If you said yes to even one of these, keep reading.
 You are in good company, by the way. One pastor who writes honestly about masturbation calls it "a regular practice of most single men", and plenty of married men could raise a hand too. What sets you apart from most of them is that you've decided to do something about it.
 
 Are you reading this for a son, a husband, a brother or a friend? The best thing you can do is get him to read it. If he won't, read it yourself. Once you see how the trap works, you'll be far better at helping him out of it, and at keeping the next boy from walking in.
+
+## Before you go on {-}
+
+This book does not replace a doctor or a counselor. Most men need nothing more than these pages. A few need a person as well. If one of these is you, get that help now, and read the book alongside it.
+
+- **You have thoughts of ending your life or of hurting yourself.** Get medical help today. See a doctor, or call your local emergency number if you are in danger.
+- **You use this to numb an old pain, or it began after something was done to you as a child.** Tell a doctor or a counselor. They keep what you say private, and they have heard it before.
+- **Your urges frighten you, or what you look at has moved toward children or anything against the law.** You are not beyond help. See a doctor or a counselor now. They are there to help you, and they have heard it before. If the thoughts horrify you, arrive uninvited, and you would never act on them, that is often a treatable anxiety problem and no sign that you are dangerous. Tell a doctor exactly that.
+
+The Appendix at the back has more.
 
 ## One appetite, fed five ways {-}
 

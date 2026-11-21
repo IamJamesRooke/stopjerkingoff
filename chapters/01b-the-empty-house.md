@@ -24,9 +24,9 @@ The man did all the right things, as far as he knew. He put the tenant out. He s
 
 That is what quitting by force is. A man stops the act and goes on believing that it gave him something. It relaxed him. It helped him sleep. It made him feel wanted. So there is a gap in his life where it used to be, and a gap gets filled.
 
-This book works the other way around. Before anybody is put out, we look at what this tenant has really done for you all these years. What rent has he paid? What has he ever mended? You will find that he has paid nothing and broken a great deal, and that the room was never short of him. It was never his room.
+This book works the other way around. Before anybody is put out, we look at what this tenant has really done for you all these years. What rent has he paid? What has he ever mended? You will find that he has paid nothing and broken a great deal, and that the room was never short of him. It was never his room. A tenant who pays nothing isn't a tenant. He is a squatter.
 
-So why is he still there? A man keeps a squatter for one of two reasons. He believes the squatter gives him something. Or he has grown so used to him that he thinks he has a right to stay. This one has given you nothing, and he has no right. He is a freeloader, and it is your house. He has never paid a day's rent. He leaves his dishes in your sink, and he smells. And look who has been paying his bills and carrying his meals up the stairs. You have. Nobody else can put him out for you. And you have never truly tried, because some part of you still thought he was worth keeping.
+So why is he still there? A man keeps a squatter for one of two reasons. He believes the squatter gives him something. Or he has grown so used to him that he thinks he has a right to stay. This one has given you nothing, and he has no right. He is a freeloader, and it is your house. He leaves his dishes in your sink, and he smells. And look who has been paying his bills and carrying his meals up the stairs. You have. Nobody else can put him out for you. And you have never truly tried, because some part of you still thought he was worth keeping.
 
 Once a man has seen that, there is no vacancy. There is nothing for the tenant to come back to.
 
