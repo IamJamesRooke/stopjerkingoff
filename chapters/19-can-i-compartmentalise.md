@@ -12,13 +12,9 @@ It's a neat picture, and it is false from start to finish. In Robert Louis Steve
 
 ## What you're rehearsing {-}
 
-Every night with the habit is a rehearsal. For what, exactly?
+Every night with the habit is a rehearsal, and a man turns into what he rehearses. He practices being a spectator. He practices getting his own way, at his own speed, with a cast he can swap the instant his interest dips.
 
-You're practicing arousal with nobody else there. You're practicing being a spectator, with a cast you can swap the instant your interest dips. You're practicing getting exactly your own way, at your own speed, with no one else's mood, tiredness or wishes to take into account.
-
-Now set a real woman beside all that. She's one person, and you can't swap her. She has a mind of her own and a bad day of her own. Loving her takes patience and attention, and it means giving something of yourself. In every respect she's the opposite of what you've been rehearsing.
-
-Human beings rate things. Give your mind a private cast that is always willing, always new and never tired, and it starts keeping score. Your wife gets marked against them, or the woman you haven't met yet. No real woman can beat a cast that's open all night and wants nothing from you.
+Then he sits down across the table from one real woman, who can't be swapped and has a bad day of her own. He finds she has already been marked against the cast. Nobody decided that at the table. It came out of the box. A box that leaks into his marriage is not a box.
 
 ## One man {-}
 
@@ -34,7 +30,7 @@ The moment the squatter is gone, there is no back room. That low, shifty, insecu
 
 Being the same man in every room is a great deal less work.
 
-One more trap is left, and it catches the man who is eager to stop. It looks like motivation.
+The next trap catches the man who is eager to stop. It looks like motivation.
 
 <!-- SOURCES (Chapter 19): every quote below is from the research files; check each against its page before publishing.
 - "they become merely the medium through which he increasingly adores himself." — C.S. Lewis, letter to Keith Masson (1956), Collected Letters vol. 3, as quoted at https://restlesspilgrim.net/blog/tag/sexual-morality/ (fragment only; in copyright, keep it this short; research/more-sources.md; the book takes "they" to be the imaginary women of the fantasy, so check the antecedent in the letter)

@@ -15,7 +15,7 @@ The Bible has older names for both. The first is *repentance*. The word doesn't 
 
 Decide and rejoice, or repent and receive. That's the whole method, and both halves are gifts. God gives the turning, and God gives the grace.
 
-This book has asked no vow of you while you read, and for good reason. Your old vow was a promise to go without something you still wanted. This decision comes at the end, when you no longer want what you're leaving. That is why it holds.
+This book has asked no vow of you while you read, and for good reason. The old vow was a promise to go without. This decision is only a refusal to go back for nothing. It comes at the end, when you no longer want what you're leaving, and that is why it holds.
 
 "Then why all these chapters? Why didn't you say so on page one?"
 
@@ -29,7 +29,7 @@ He talks to men who have quit, and expects to find them barely holding on. Most 
 
 Why does that attempt go so smoothly? Because the terrible cravings he braced for don't exist. Doubt creates them. A man suffers only when he wants the habit and thinks he can't have it. Even in the trap you go whole days without it when you're busy or traveling, and you barely notice. The misery comes from wavering: the "maybe just tonight", the door left open a crack.
 
-So make the decision certain and final. Don't hope you've stopped.
+So when your turn comes, make the decision certain and final. Don't hope you've stopped.
 
 Know it.
 
@@ -47,7 +47,7 @@ So let your sorrow look up and not in. Be sorry for what this has cost the peopl
 
 Guilt loads the gun. The man who decides and then spends three weeks feeling filthy is moping in religious clothes, and it ends in the same place. Grace is what makes instruction two possible. You rejoice because the past really is dealt with. A man of forty-three, who had fasted and read his Bible over it for years, summed up his freedom in three words and capital letters: "JESUS DID IT!" That is what rejoicing sounds like, and you can start on the first day.
 
-The psychiatrist who treats porn addiction has noticed what frightens his patients about stopping: "if I stop, I have to face the guilt of having screwed up the last 10 years of my life." That fear has an answer. The ten years are confessed and forgiven. You don't have to carry them, and you don't have to keep the habit going to avoid looking at them.
+Dr. Kanojia, the psychiatrist, has noticed what frightens his patients about stopping: "if I stop, I have to face the guilt of having screwed up the last 10 years of my life." That fear has an answer. The ten years are confessed and forgiven. You don't have to carry them, and you don't have to keep the habit going to avoid looking at them.
 
 If you're not a believer, the same advice holds: drop the self-hatred. It never helped you once. Decide, and be glad.
 
@@ -55,17 +55,15 @@ If you're not a believer, the same advice holds: drop the self-hatred. It never 
 
 This book keeps saying one hard thing: **a man who can't control his lust can't be trusted.** Here is the other half.
 
-You probably thought self-control meant what you'd been doing for years: gripping the rail, a strong man holding down a strong desire. That's a wrestling match, and you know who usually won.
+You probably thought self-control meant gripping the rail, a strong man holding down a strong desire. That's a wrestling match, and you know who usually won.
 
 Real self-control is quieter. It belongs to a man whose mind is no longer divided. He isn't holding anything down, because there's nothing pushing up. Thomas Chalmers, a Scottish preacher of two hundred years ago, explained how a desire leaves a heart: "the only way to dispossess it of an old affection is by the expulsive power of a new one." For Chalmers the new affection was love for God himself, and he held that nothing smaller is strong enough. If you're not a believer, take the half that holds for any man. A want is never pushed out by force. It goes when you see that it never gave you anything.
 
-The payoff comes at once. The moment you decide and mean it, you have given your word and you're going to keep it. For the first time in years you'll be a man who can believe his own promises. Trust starts there, and your wife, your friends and your work will feel it in time.
-
-Fitness for service starts there too. A sober soldier doesn't spend his watch fighting the bottle. He has stopped wanting it, and he can be put on the wall.
+The payoff comes at once. The moment you decide and mean it, you have given your word and you're going to keep it. For the first time in years you can believe your own promises. Trust starts there, and your wife, your friends and your work will feel it in time.
 
 ## Two warnings {-}
 
-**First: if you're ready now, don't wait for my permission.** Turn. Make your decision today, out loud, in your own words. Then keep reading to the end, because the chapters ahead are what keep a man from sliding back.
+**First: don't make the decision tonight.** It has its own place, a few chapters on. A decision made on the strength of one good chapter is how the old vows were made. If you have already stopped, stay stopped, and keep reading. The chapters between here and there are what keep a man from sliding back.
 
 **Second: don't misread "the first weeks".** The Little Monster takes a few weeks to starve. That doesn't mean a few weeks of suffering. And it doesn't mean holding out until day twenty-one, because nothing magic happens on day twenty-one. A man who mopes for three weeks will be moping in the fourth.
 

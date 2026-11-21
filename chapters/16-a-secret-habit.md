@@ -4,7 +4,7 @@
 >
 > — Ephesians 5:11
 
-You have followed the squatter through every room in the house. Now for the way out, and it starts with the one thing all those rooms had in common.
+Now for the way out. It starts with the one thing every room in the house had in common.
 
 The first week you masturbated as a boy, you locked the door. Nobody taught you to hide it.
 
@@ -12,7 +12,7 @@ You knew.
 
 Nobody has ever called it a social habit. You don't do it at a dinner party. It may be the most private thing you do, and that privacy is what keeps it going.
 
-The rest of lust lives the same way. Nobody watches porn with the family in the room. And the messages to her are the ones you delete.
+The rest of lust lives the same way. Nobody watches porn with the family in the room. And the messages a man sends to a woman he shouldn't be writing to are the ones he deletes.
 
 ## The work of hiding {-}
 
@@ -30,7 +30,7 @@ Nothing happened, and nobody was caught. But for one minute of his evening he wa
 
 That is what the secret costs in one evening. Over the years it does four things.
 
-**It makes every man think he's the only one.** He assumes the men around him are clean, and they assume the same of him. Five minutes of honest talk would break the spell. A nineteen-year-old wrote of his own years of believing it: "I harboured a wrong notion that I was the only guy with these special problems."
+**It makes every man think he's the only one.** He assumes the men around him are clean, and they assume the same of him. Five minutes of honest talk would break the spell. One young man wrote of his own years of believing it: "I harboured a wrong notion that I was the only guy with these special problems."
 
 **It protects the lies.** A lie kept in your head never has to face a question. Said aloud, it sounds as thin as it is. Try telling another grown man, with a straight face, "I need this in order to sleep."
 
@@ -39,6 +39,16 @@ That is what the secret costs in one evening. Over the years it does four things
 **It sets you against your own side.** A secret has to be guarded against somebody. This one is guarded against the people who are for you: your wife, your friends, your children. That is a small disloyalty, repeated every day. The free man is finished with it. He is on the same side as the people who love him.
 
 A man with a secret can't be fully known. And he never feels fully loved, because he's always thinking, "You wouldn't say that if you knew."
+
+## The man at the front of the church {-}
+
+One man lives that first lie harder than anyone. He serves on the welcome team, leads a small group, perhaps plays in the band. He has masturbated since he was fourteen and has never said one word about it to a living soul.
+
+On Sunday he's at the front with his hands raised. On Saturday night he was where he always is. He has confessed it so many times, in the same words, that he's embarrassed to bring it up with God again. So he has stopped bringing it up, and after a while he has stopped bringing up much else.
+
+Peter once asked Jesus how many times he had to forgive his brother. Seven times? Jesus said seventy times seven. God doesn't hold himself to a lower standard than the one he gave Peter.
+
+The secret leaks into everything he might have done. He turns down the mission trip, lets someone else lead, and never says why. He is enlisted, and he keeps reporting sick.
 
 ## Into the light {-}
 
@@ -66,13 +76,11 @@ There is an order to it.
 
 Start today with the two who already know. Stop hiding it from yourself, and stop hiding it from God. He has seen every time, and he hasn't left. If you're not a believer, say the plain facts aloud in an empty room, and notice how much smaller they sound.
 
-Then, once you have stopped, tell one person you trust. Tell him as a free man who is finished with a secret. Don't tell him as a man asking for a guard. A man who confesses so that somebody will watch him has only handed his willpower to a friend. A man who tells it because it is over is simply done with hiding.
+The third person comes after you have stopped, and not before. He hears it from a free man who is finished with a secret, not from a man asking for a guard.
 
 Men walk out into the light every day. The door was only ever locked from the inside.
 
 **DON'T BE THE LAST MAN IN THE DARK.**
-
-The only question left is when.
 
 <!-- SOURCES (Chapter 16): every quote below is from the research files; check each against its page before publishing.
 - "the things you do in private come out in public" — FitXFearless, "Nofap made me more attractive (here's why)", https://www.youtube.com/watch?v=mBgA7jORnXU (auto-captions; research/transcripts/fitxfearless-mBgA7jORnXU.md; the caption reads "The things you do in the back end, the things you do in private come out in public.")

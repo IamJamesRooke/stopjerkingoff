@@ -6,7 +6,7 @@
 
 This is where the lies are thickest.
 
-Most men, especially young and single ones, think they've already counted the cost of this habit and found it small. "It doesn't hurt anybody. The doctors say so." The doctors are talking about your body, and on your body I take their word. **This book isn't about your body.**
+Most men, especially young and single ones, think they've already counted the cost of this habit and found it small. "It doesn't hurt anybody. The doctors say so." The doctors are talking about your body, and on your body I take their word. **Most of this book isn't about your body.**
 
 A doctor can check your blood pressure. But who checks your drive, or your nerve? Who checks whether you can hold a woman's gaze, keep a promise to yourself, or pray without flinching? No clinic runs those tests. You're the only one who can read the results, and you've been reading them for years.
 
@@ -18,7 +18,7 @@ A young man rarely notices the cost. At twenty he has energy to burn, nobody dep
 
 Some men do worry about the cost. But listen to how they picture it. They picture a landmine. It's buried somewhere in the field ahead of them, and one day they might step on it. The wife finds out. The job is lost. The body fails. Or they might walk the whole field and never touch it. Plenty of men seem to. So each morning a man checks himself over, finds that nothing has blown up, and says, "So far, so good."
 
-Get that picture out of your head. It's the wrong picture, and it's the one that keeps you walking.
+It's the wrong picture, and it's the one that keeps you walking.
 
 A truer picture is a bank account that somebody dips into every day. He takes a few coins at a time, never enough to notice. You would spot a robbery. You don't spot this. Then years later you add it up, and a fortune is gone.
 
@@ -32,11 +32,11 @@ There is no shock treatment here. Nothing that follows will be news to you. It's
 
 ### Your drive {-}
 
-One coach masturbated daily for years, and he sums up what it does to men in three short sentences: "It kills their drive. It destroys their confidence and it numbs their hunger."
+The same coach masturbated daily for years himself, and he sums up what it does to men in three short sentences: "It kills their drive. It destroys their confidence and it numbs their hunger."
 
 Why would it do that? Think about what a man's hunger is for. It's meant to get him up, send him out and make him build something, win someone and become someone. Then every night he tells that hunger it has already been fed. After enough years it stops asking.
 
-That is the flat feeling. It isn't sadness, exactly. The morning after, you've got your coffee, your list and your good intentions, and there's nothing behind them. One man on the NoFap forum, ninety days out, remembered where he had been: "My drive for life was almost at zero."
+That is the flat feeling. It isn't sadness, exactly. The morning after, you've got your coffee, your list and your good intentions, and there's nothing behind them. One man on NoFap, the biggest of the quit-porn forums, remembered at ninety days out where he had been: "My drive for life was almost at zero."
 
 A married pastor says the same from the other end. God put the drive in a husband, he says, partly so that he would pursue his wife: date her, listen to her, win her again. Take that drive somewhere else and it's spent. "I don't have it anymore", he says. The husband ends up with a book on one side of the room while his wife gets on with her evening on the other.
 
@@ -44,7 +44,7 @@ None of this is said to shame you. It is what the habit has been taking, a littl
 
 ### Your focus {-}
 
-C.S. Lewis put it in three words: "indulgence brings fog". Part of the fog is simple tiredness. A bigger part is that the habit takes up room in your head. A corner of your mind is always either planning the next time or regretting the last. One man who got free said it felt like "coming out from a fog". He hadn't known he was in it until it lifted. Nobody does.
+C.S. Lewis put it in three words: "indulgence brings fog". Part of the fog is simple tiredness. A bigger part is that the habit takes up room in your head. A corner of your mind is always either planning the next time or regretting the last. You have already heard one man call getting free "coming out from a fog". He hadn't known he was in it until it lifted. Nobody does.
 
 ### Your confidence {-}
 
@@ -52,7 +52,7 @@ This is the one men find hardest to believe and easiest to recognize. Why would 
 
 Because you bring it with you. You walk in knowing what you did at midnight, and you assume it shows. The morning after, you can hardly look people in the eye.
 
-It's worst around women. A man who spent last night using women in his head finds it hard to face the next real one this morning. He's either sizing her up or looking at his shoes. One man who got out found that this changes too: "I feel like a better person and have a better appreciation for women".
+It's worst around women. A man who spent last night using women in his head finds it hard to face the next real one this morning. He's either sizing her up or looking at his shoes.
 
 ### The way you see women {-}
 
@@ -146,3 +146,6 @@ And then there is the body. Men whisper about this part, and almost nobody tells
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
 
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
+
+
+<!-- 2026-11-21 five-star pass (editor H2): structural cuts, moves and repairs from the outside review and the cold-listener report. Cut text is kept in the pass's parked-H2 file; source notes above still stand for anything cut. -->

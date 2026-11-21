@@ -46,7 +46,7 @@ It hasn't. And you are not a hopeless case. You've only been using a method that
 
 That is why this book will not try to frighten you. You'll find no horror stories here about your hormones or your hairline. If fear worked, you'd have stopped years ago. Doctors say masturbation doesn't damage your body, and I'm not going to argue with them. This book isn't about your body. It's about your mind, your drive, your word and your soul, and there you are the best witness. You know how you feel ten minutes afterward.
 
-It won't sell you superpowers either. Some corners of the internet promise that quitting brings a deeper voice, glowing skin and women turning their heads. I promise none of it. What you get is better than a superpower. You get yourself back.
+It won't sell you superpowers either: no deeper voice, no glowing skin, no women turning their heads. What you get is better. You get yourself back.
 
 ## Nothing to lose {-}
 

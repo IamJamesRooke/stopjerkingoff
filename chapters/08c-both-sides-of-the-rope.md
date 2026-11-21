@@ -20,18 +20,22 @@ Every man with this habit carries a shadow at the back of his mind. Most of the 
 
 It's the small jolt when the conversation turns to porn. It's the half-second of dread when someone borrows his phone. It's the vague unease late at night after a bad day, which he has always blamed on the day.
 
-The day didn't cause it. Men without the habit don't carry that shadow. King David knew it well. In Psalm 32 he wrote: "When I kept silence, my bones wasted away through my groaning all day long."
+Mostly the day didn't cause it. A man without the habit has bad days too, and no shadow of this kind. King David knew it well. He had a secret of his own once, and in Psalm 32 he wrote: "When I kept silence, my bones wasted away through my groaning all day long."
 
 Then he tells you what lifted it. "I acknowledged my sin to you. I didn't hide my iniquity," he wrote, and God "forgave the iniquity of my sin." The shadow goes the same way for you. You tell the truth, and you are forgiven.
 
-Some gains of stopping you'll notice and enjoy on purpose. You get the time and the energy back, and you're done with the whole silly business of making love to nobody. The best gain you'll notice by its absence. One ordinary afternoon you'll realize that the shadow isn't there, and hasn't been for days. You'll have nothing to hide and nothing to dread.
+Some gains of stopping you'll notice and enjoy on purpose. You get the time and the energy back, and you're done with the whole silly business of making love to nobody.
+
+The best gain is the one you won't see arrive. One ordinary afternoon you'll realize that the shadow isn't there, and hasn't been for days. You'll have nothing to hide and nothing to dread.
 
 That day is closer than you think.
 
-One thing is left, and it isn't about how you feel. It is about what you are worth to the people who count on you.
+So much for how the habit makes you feel. There is also what it makes you worth to the people who count on you.
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 08-what-its-doing-to-you.Rmd; the source notes for everything here are in that file. -->
 
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
 
 <!-- 2026-11-21 room-by-room reorder (James approved: nothing arrives before the reader needs it; the rooms come in the order a man retreats through them). Before and after: editorial/ROOM-ORDER-2026-11-21.md. -->
+
+<!-- 2026-11-21 five-star pass (editor H2): structural cuts, moves and repairs from the outside review and the cold-listener report. Cut text is kept in the pass's parked-H2 file; source notes above still stand for anything cut. -->

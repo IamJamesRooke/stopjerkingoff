@@ -30,11 +30,7 @@ Turn it the right way up. You're not going without anything. He is. He is going 
 
 He can't trust himself. You can.
 
-Ask the men who've been out for a while whether they pine for it. One of them, hooked from twelve to twenty-one, wrote:
-
-> "I've been freed now and it's nearly been 7 years."
-
-He says his freedom came when God met him, and he describes what came with it: "this truly sensational feeling of peace for the first time in my life". That doesn't sound like a man missing his old hobby.
+Ask the men who've been out for a while whether they pine for it. One of them was hooked from twelve to twenty-one. He says his freedom came when God met him, and he describes what came with it: "this truly sensational feeling of peace for the first time in my life". That doesn't sound like a man missing his old hobby.
 
 ## It tightens {-}
 

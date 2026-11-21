@@ -12,7 +12,7 @@ One man in the trap put the entire thing in seven words:
 
 That is the only reason any man carries on, three times a day or twice a month. He's feeding the Little Monster.
 
-And the Little Monster isn't picky. A video feeds him. A fantasy feeds him. A long look at a stranger feeds him, and so does a flirty message from a woman you have no business messaging. It's all one diet, and it all goes to one small belly.
+And the Little Monster isn't picky. A video feeds him. A fantasy feeds him. A long look at a stranger feeds him. It's all one diet, and it all goes to one small belly.
 
 What a man calls the pleasure is only the pleasure of getting back to how he'd have felt anyway. He's trying to return to the peace and ease he had as a boy, before any of this started. And he keeps using the very thing that took it from him.
 
@@ -24,9 +24,7 @@ But nothing wonderful has arrived. An irritation has ended.
 
 That's what the relief is. Before the habit, you were complete. You had no alarm. Each time you go around the loop you feel better for a moment, and you also set the alarm to go off again.
 
-All you know is that there's an itch, you do the thing, and the itch goes. It doesn't stay gone. The relief you just bought sets up the next urge. Men on the recovery forums have a name for that: the chaser.
-
-It works like salt water. The more you drink, the thirstier you get.
+The relief you just bought sets up the next urge. Men on the recovery forums have a name for that: the chaser.
 
 So why can't men see it? There are three reasons.
 
@@ -52,7 +50,7 @@ In fact the two are opposites.
 - **Food is good, and stays good.** You'll enjoy Sunday dinner at eighty. Whatever this once was, it stopped being a treat years ago. It's a chore you do with one eye on the door.
 - **Eating doesn't create hunger. It ends it.** The habit creates its own itch. Far from ending it, each time guarantees the next.
 
-"But isn't sex a God-given appetite too?" It is. And that is the point. Sex with your wife is the meal. The habit is licking the photograph on the menu. It was never what the hunger was for. Sex is the one appetite a man was given in order to give it away. The habit turns it into something he keeps for himself. A husband who'd carried the habit into his marriage came to see it plainly:
+"But isn't sex a God-given appetite too?" It is. And that is the point. Sex with your wife is the meal. The habit is licking the photograph on the menu. It was never what the hunger was for. Sex is the one appetite a man was given in order to give it away. The habit turns it into something he keeps for himself. A husband who'd carried the hand into his marriage came to see it plainly:
 
 > "I've come to realize that masturbation, any way you slice it, is a selfish act"
 

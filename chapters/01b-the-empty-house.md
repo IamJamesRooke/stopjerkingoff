@@ -30,11 +30,11 @@ Jesus gave the order of things in one line: "You will know the truth, and the tr
 
 A Christian will say more. Jesus's story is about a house left empty, and a house isn't meant to stand empty. It has an owner, and he means to live in it. He doesn't come as a substitute for the tenant. He was the owner all along.
 
-Now look at how the squatter lives. He has no body of his own. He can't look at anything, or touch anything, or go anywhere. Everything he gets, he gets with what you lend him: your eyes, your mind and your hand. From some men he has borrowed more than that, and we'll come to it.
+Now look at how the squatter lives. He has no body of his own. He can't look at anything, or touch anything, or go anywhere. Everything he gets, he gets with what you lend him: your eyes, your mind and your hand. From some men he has borrowed more than that.
 
 One warning about him. He never leaves when you shut a room. He moves down the hall. You will hear it in your own voice: "Fine, not that. But surely this is all right." When you hear that sentence, smile. That is him, changing rooms. This book follows him room by room, and it goes further than you expect. You don't have to agree to anything in advance. Judge each room when we get there.
 
-That is why this book asks you not to throw anything out yet. The day will come, near the end, when you show him the door. You'll do it once, and it will be easy, because by then you will know that he has nothing you want. You won't have to drag anyone out. You stop paying his bills and you stop bringing his food, and his friends leave with him.
+That is why this book asks you not to throw anything out yet. The day will come, near the end, when you show him the door. You'll do it once, and it will be easy, because by then you will know that he has nothing you want. You won't have to drag anyone out. Nobody evicts a squatter by sweeping. You stop carrying up his dinner. He leaves, and his friends leave with him.
 
 That leaves the question you have asked yourself a hundred times. You aren't stupid. You have wanted him out for years. So why does it feel so hard?
 

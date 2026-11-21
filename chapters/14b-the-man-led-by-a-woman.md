@@ -4,29 +4,11 @@
 >
 > — Proverbs 7:22
 
-Here lust borrows a man's feet. This is the chase. If that has never been you, read this for the man you know who is living it.
-
-There's a man you may recognize at any party. He walks in and goes straight to the women. He doesn't say hello to the men. He buys a round, and every glass goes to a girl. Ask him why, and he says, "I'm only being friendly. I'm a generous guy."
-
-Try a test. Does he buy the men a drink? Does he spend as much time talking to the men? A generous man is generous with everybody. This man is spending, and he knows what he is shopping for. It is a hit dressed up as a gift.
-
-The slang of the 2020s calls it simping. The word is new. The problem is very old, and it comes down to one sentence.
+A man on the chase thinks he is doing the leading. He has it backward. The problem is very old, and it comes down to one sentence.
 
 **A man ruled by what he wants ends up ruled by whoever can give it to him.**
 
 Think of his wanting as a lever that sticks out of him. Anyone who takes hold of it can move him.
-
-## The man who waits {-}
-
-The man at the party is the loud kind. There is a quiet kind, and there are far more of him.
-
-He has a friend who is a woman, and he has been in love with her for three years. He drives her to the airport. He fixes her computer. He listens for an hour while she talks about the man she is actually seeing. He calls it friendship.
-
-But a friend wants nothing back, and this man is keeping count. Every favor is a payment into an account that he believes will pay out one day. She may know it and enjoy the service. She may have no idea. Either way, he isn't being kind to her. He is waiting to be paid. And under the good manners he is angry that the payment hasn't come.
-
-Put the same test to him. Would he do all this for a man? Would he do it for her if he knew for certain that nothing would ever come of it? If the answer is no, it was never a gift.
-
-If that is you, the way out is plain. Stop the favors that are really payments. Tell her once, outright, what you want, or step back and say nothing. Then see what is left. Either the friendship stands on its own, or it never was one.
 
 ## Whoever knows what he wants {-}
 
@@ -52,7 +34,37 @@ That is not quite the end. His hair grew again, and on his last day, blind and b
 
 Notice where the story puts the blame. Delilah sold him for silver, and that was treachery. But nobody took his secret from him. He gave it away.
 
-Samson was led by a woman he couldn't leave. The next man was led by the one he married.
+## The king who sulked {-}
+
+One more old story, and a short one. What King Ahab wanted was a vineyard, not a woman. Watch him anyway, because the lever is the same.
+
+The owner of the vineyard wouldn't sell. So the king went home. He "laid himself down on his bed, and turned away his face, and would eat no bread." His wife, Jezebel, found him sulking. "I will give you the vineyard", she said. She wrote letters in his name, sealed them with his seal, and had the owner killed.
+
+Ahab asked no questions. The plan was hers. But it was his name on the letters and his seal in the wax. A man who is being given what he wants doesn't ask how. The Bible's verdict on him is that he "sold himself".
+
+Mark Driscoll, an American pastor, gives the men of his church a short rule drawn from that marriage: "If you tolerate, they will dominate." Ahab tolerated everything, because his silence had been paid for.
+
+There is a simple way to find out whether you are Ahab. Say no to something, kindly and plainly, and see what it costs you. Perhaps you already know what it will cost, and that is why you haven't said it in years. Then someone has a hand on the lever.
+
+## The free man in the room {-}
+
+So what does a man look like with the lever gone? Put him in a room full of women, at any party.
+
+He can still see that a woman is beautiful. Her beauty just stops deciding anything. He doesn't buy the drink or laugh at the joke that wasn't funny. He doesn't give her the favor, the job or the last word because of her face. He treats her as he treats everyone else, which is fairly.
+
+That is better for him. He keeps his money, his judgment and his self-respect. It is better for her too, because she is treated as a person. And it is better for the plain woman standing beside her, whom men on the hunt have looked straight through all her life.
+
+## At home {-}
+
+That freedom matters most at home, with his wife.
+
+There is a husband who gives in on everything and never says a hard word. It looks like kindness. It is fear. He wants her, and he is afraid of what an honest sentence might cost him. Sometimes a wife knows that and uses it. Far more often she has no idea, and only wonders why he never tells her what he thinks. Either way, he can't change her. What he can change is whether the lever works.
+
+Now take the husband whose lust no longer runs him. He can say, quite calmly, "That isn't right, and I won't go along with it." He isn't being cold, and he isn't punishing her. He still loves her, and he still wants her. But he can't be bought with sex or starved by the lack of it, so he is free to tell her the truth. That is better for her as well. She can trust his yes, because he can say no.
+
+Samson was a strong man and Ahab was a king, and neither could say no. This man is neither. He is only free, and that turns out to be the one thing that matters. Nobody can lead him by what he wants, because it no longer leads him.
+
+That is the chase. And the chase has only ever been going to one place.
 
 <!-- SOURCES (The Man Led by a Woman). New chapter 2026-11-19, split out of 'Every Man in the Trap' at James's word. Closing paragraph is the book's own.
 - Epigraph: Proverbs 7:22 (WEB), part; checked against the WEB text 2026-11-19.
@@ -78,3 +90,5 @@ Samson was led by a woman he couldn't leave. The next man was led by the one he 
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
 
 <!-- 2026-11-21 room-by-room reorder (James approved: nothing arrives before the reader needs it; the rooms come in the order a man retreats through them). Before and after: editorial/ROOM-ORDER-2026-11-21.md. -->
+
+<!-- 2026-11-21 five-star pass (H3; review items B4 and B8 as limited by the author's rulings 2 and 3): 'The King Who Turned His Face to the Wall' (14d-the-king-who-turned-his-face-to-the-wall.md) merged into this chapter. Samson stays in full. Ahab is cut to one short section, 'The king who sulked', opening with the cold-listener fix (a vineyard, not a woman; the lever is the same). WEB quotations kept verbatim: 1 Kings 21:4, 21:7 (the last sentence only, "I will give you the vineyard"), 21:25 ("sold himself"); 21:8 is now paraphrased. Driscoll's line stays, credited (source in the block above). 'The free man in the room' moved in unchanged. 'The lever at home' rewritten as 'At home': one fair statement that a wife sometimes knows and uses it and far more often has no idea; the couch and the pillow are cut. 'Simping' cut (dated slang). In from 15c-mothers-sisters-daughters.md: 'The app' (now 'The man who swipes', one of its two men cut) and 'The one girl'; their source notes are in 15-fantasy-and-the-thought-life.md. Two placeholders mark where sections arriving from other chapters fit. Carried from the dissolved file's comment lines: 2026-11-20 structure pass (split out of this file; sources here); 2026-11-20 Hydra version (closing hook leads to 'The Collector and the Customer'); 2026-11-20 review batch (reader report 5); 2026-11-21 overnight round. Cut text is in the scratchpad file parked-H3.md. -->

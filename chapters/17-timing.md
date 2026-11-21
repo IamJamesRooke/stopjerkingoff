@@ -6,27 +6,17 @@
 
 When do you stop?
 
-Lust is doing you no good in any room of the house, so the right time is now. But you have carried the habit a long time, and probably told nobody. It deserves a proper ending, on a day you saw coming.
+This book has already set the day. You stop at the final step, near the end. Until then you make no vow and start no streak. If you have already stopped, stay stopped. So you aren't choosing a date. You are getting ready for one, and it is close.
 
-## Your schedule {-}
-
-In this book the answer is simple. If you're ready today, today is the day. At the latest, you stop at the final step, near the end of the book. That is what stopping right away means. There's no tapering and no ninety-day climb. So you're not choosing a date so much as getting ready for one.
-
-## Before the day {-}
-
-Look at two things before that day comes. First, work out when the habit seems to matter most to you. If it's your pressure valve, the worst week at work will look like the wrong week. If it's your cure for boredom, the long empty vacation will. Know which kind you are, because that's where the Big Monster will try to bargain.
-
-Next, look at the three weeks after you expect to finish the book. Is there a trip away on your own? Is your wife visiting her mother? Is there a woman you already know you shouldn't see? Are there finals, a deadline, a string of late nights in an empty house? None of these has to put you off. They only need to be seen coming. A man who expects the quiet hotel room, and knows he's missing nothing in it, walks straight through it.
-
-In the meantime, don't cut down. Cutting down only makes each time more precious. Make one change: pay attention. If you fall while you're reading, notice how it starts without your deciding. Notice the hunt. Notice how short the end is, and how flat the ten minutes after it. Notice that nothing you were promised turned up. You're not looking for disgust. You're looking for the truth, and you've never watched before.
+You have carried this a long time, and probably told nobody. It deserves a proper ending, on a day you saw coming.
 
 ## The week that never comes {-}
 
-**Whatever you do, don't tell yourself "not now, later" and put the book in a drawer.** Keep reading, know roughly when you'll finish, and look forward to that day.
+**Whatever you do, don't tell yourself "not now, later" and put the book in a drawer.**
 
-You aren't giving anything up. You're about to be handed a great deal.
+The trap has one clever twist. When life is stressful, it's the wrong time to stop, because you think you need it. When life is calm, you feel no urgency, because things aren't so bad. One or the other is always true, so the right time never comes. And it is never a bad week to carry on.
 
-The trap has one clever twist. When life is stressful, it's the wrong time to stop, because you think you need it. When life is calm, you feel no urgency, because things aren't so bad. One or the other is always true, so the right time never comes. And it is never a bad week to carry on. That is why this book doesn't ask you to pick a good week. It asks you to finish reading, and then stop, whatever week it is.
+That is why this book doesn't ask you to pick a good week. It asks you to finish reading, and then stop, whatever week it is.
 
 The book of Ecclesiastes has a line for the man who waits for perfect weather: "He who observes the wind won't sow; and he who regards the clouds won't reap."
 
@@ -36,19 +26,17 @@ The book of Ecclesiastes has a line for the man who waits for perfect weather: "
 2. Are you going to keep it up until you die? Will you be at it at sixty, and at seventy-five, a grandfather waiting for the house to empty? Of course you aren't.
 3. Then when will you stop?
 
-Tomorrow? After finals? Next year? When you're married? Haven't you been asking that question since the day you first realized you couldn't leave it alone?
+You have been asking that third question since the day you first found you couldn't leave it alone. The answer was always some better week, and the better week is the one that never comes.
 
-Perhaps you're hoping to wake up one morning and find you've simply lost interest. You won't. The path across the lawn gets more worn each year you walk it. It doesn't grow over while you're still using it. Or are you waiting until it has cost you something you can't get back? A marriage, say, or a calling, or the best ten years of your working life? That would be a strange time to choose.
+It won't be easier next year. It will be the same job with another year of rut worn in. Nobody wakes up one morning to find he has simply lost interest.
 
-Your life may be hard, and nobody here will tell you it isn't. But notice what the habit does to a hard life. It drains you every night and tells you every morning that you can't keep your own word. Hard work and long hours don't break men. What breaks them is the false crutch they lean on to get through.
+## See the weeks coming {-}
 
-## It won't be easier next year {-}
+One piece of getting ready is worth doing now. Look at the three weeks after you expect to finish the book. Is there a trip away on your own? Is your wife visiting her mother? Are there finals, a deadline, a string of late nights in an empty house?
 
-You've already decided you're not staying in this trap for life. So at some point you will have to walk out. It won't be easier next year. It will be the same job with another year of rut worn in. The time is now, or as soon after now as finishing this book allows.
+None of these has to put you off. They only need to be seen coming. A man who expects the quiet hotel room, and knows he's missing nothing in it, walks straight through it.
 
-Think of the rest of your life with no locked door, no secret and nothing to confess for the hundredth time. And if you follow the instructions, you won't grit your teeth through the first weeks, waiting for it to get better. You can find it easy, and even enjoy it.
-
-Paul wrote to the church at Corinth, "Behold, now is the acceptable time."
+So the time is the day you finish this book, whatever kind of week that turns out to be. Paul wrote to the church at Corinth, "Behold, now is the acceptable time."
 
 That leaves the fear under all the others. Once the habit is gone, will you miss it?
 

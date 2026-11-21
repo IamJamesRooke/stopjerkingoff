@@ -8,6 +8,8 @@ You know what lust is, and you know what you are for. You are ready for the fina
 
 It is not a final session. There is no "one last time" in this book. Nobody sins once more for old times' sake on his way out of a sin. And you don't need to. Whenever your last time was, it's behind you now. You didn't mark it with a ceremony, and that's the right send-off for a thing that was never worth anything.
 
+If you had already stopped before you got here, good. Stay stopped, and take this step all the same. It says out loud what you have been doing.
+
 The final step is a decision, spoken out loud. For a believer it is a prayer, and for a man who doesn't pray there is a version right after it. Before you take it, ask yourself one thing. Does some part of you still believe lust has something to give you? If so, read on until that belief is gone. There's no hurry and no shame in it.
 
 You don't have to feel brave, and you don't need a clean record behind you. A man who has failed fifty times takes this step exactly like a man who has never tried.
@@ -32,11 +34,11 @@ One thing comes before the prayer. The decision you're about to make is yours, a
 
 ## The prayer {-}
 
-Here are the instructions.
+Here is how.
 
 **1. Go somewhere you can be alone and speak out loud.** Kneel if you're able. A man's body teaches his mind what's going on.
 
-**2. Pray this.** Use your own words if you prefer, but don't make it long or clever.
+**2. Pray this.** Use your own words if you prefer, but don't make it long or clever. Near the end you will ask to be shown a man to go back for. He is some man you know who is still where you were. A freed man goes back for one.
 
 > Father, I confess it.
 >

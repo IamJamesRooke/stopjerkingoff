@@ -22,9 +22,11 @@ She is about to trust one man with the rest of her life. There will be a year wh
 
 So he tells her. He doesn't make a speech about sin. He says something closer to this: "I want you more than I can say, and I'm glad to keep it for our wedding." She may laugh. She may be hurt, and hear it as a no to her. So he says the other half plainly: he doesn't want her less. She may need an evening to think about it. And she will remember it on her wedding day. Read this chapter with her, if you like. Waiting is something the two of you give each other, and she should have a say in how you keep it.
 
-One fair point. She sent the picture, and she isn't a child. A woman can feed lust in a man as easily as a man can feed it in himself. But you are the one reading this book, so you are the one who moves first.
+One fair point. She sent the picture, and she isn't a child. Her part in this is real, and it is hers to answer for. But you are the one reading this book, so you are the one who moves first.
 
-If you're not a believer, use the plain test. Is this a gift given inside a promise already made? The gift is real. The promise isn't made yet. Make it, and the bed is yours to share. But using her never turns into a gift. Lust doesn't stop at a wedding.
+And if you were the one who asked for the picture, hear it plainly. That is making your own porn, with a woman you know. A picture, once sent, belongs to whoever holds the phone. A free man doesn't ask for it. If she offers, he says no, and she will remember that he did.
+
+If you're not a believer, use the plain test. Is this a gift given inside a promise already made? The gift is real. The promise isn't made yet. Make it, and the bed is yours to share. One caution. A ring doesn't turn using her into giving. The photograph, alone in a room, is still a hit after the wedding.
 
 ## If you already share a bed {-}
 
@@ -47,3 +49,5 @@ That is every room in the house. One thing has kept the squatter alive in all of
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
 
 <!-- 2026-11-21 room-by-room reorder (James approved: nothing arrives before the reader needs it; the rooms come in the order a man retreats through them). Before and after: editorial/ROOM-ORDER-2026-11-21.md. -->
+
+<!-- 2026-11-21 five-star pass (H3; cold-listener 1.7): 'The pictures' arrived, shortened, from 'Mothers, Sisters, Daughters'; the non-believer paragraph's last two sentences made plain; the 'fair point' no longer generalizes about women. -->

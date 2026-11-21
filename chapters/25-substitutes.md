@@ -4,34 +4,19 @@
 >
 > — 2 Timothy 2:22
 
-When a man stops the habit, he looks around for something to put in the gap. The usual candidates are:
+When a man stops, he looks around for something to put in the gap. He finds two kinds of thing: a milder version of what he left, and food.
 
-- **The act, stopped short.** Edging, so that "technically" nothing happened. Or "just touching", a hand under the covers that isn't *doing* anything.
-- **A screen "instead".** Porn without touching, as if the eyes were a separate department. The endless scroll. The dating app you keep "just to look". One woman's paid page. A girlfriend made by a computer. Stories and drawings with "nobody real" in them.
-- **A woman "instead".** Someone to use in place of your hand.
-- **Food.** The fridge at midnight.
-
-USE NONE OF THEM.
-
-A substitute is a new lodger in the old room. It doesn't make stopping easier. It makes it harder. Answer an urge with a substitute and you haven't ended the urge. You've stretched it out. And you've told yourself something fatal: "There's a hole here, and I need to stuff it with something." That's handing the screaming toddler the candy. You get five minutes of quiet and the same scene again tomorrow.
-
-Three things to remember:
-
-1. **There is no substitute for lust,** because nothing is missing.
-2. **You don't need the habit.** It was never food. When an urge comes, remind yourself that men in the trap have urges all the time and free men don't. The urge is one more thing the habit did to you, and what you're feeling is the Little Monster dying.
-3. **The habit made the void. It never filled it.** The sooner you show your body and mind that there's nothing to fill, the sooner you're free.
-
-## The same thing in a smaller glass {-}
-
-Go back over the list. Only food is a substitute at all. Everything else on it is the same thing in a smaller glass. That is cutting down, and cutting down never freed anyone.
-
-A woman "instead" is the cruelest trade. A man stops the habit and goes looking for someone to use in its place. That is the same lust, and now there's a second person paying for it.
-
-Then there's the scroll. He isn't *looking at porn*. He's looking at a fitness account, then a beach video, then whatever the feed has learned he'll stop for. Those feeds are built to keep you simmering. A man who scrolls them and doesn't touch himself has not stopped. He's a man on a diet who spends his evenings standing in the bakery.
+You have met the milder versions in every room of the house. The act stopped short. Porn without touching. The scroll. The dating app kept "just to look". A woman to use in place of the hand, which is the cruelest trade, because now a second person is paying. None of these is a substitute. Each is the same thing in a smaller glass. That is cutting down, and cutting down never freed anyone.
 
 Food is the one real substitute, and it doesn't work either. The restless feeling is very like hunger, so some men try to feed it. But a stuffed man lies heavy and bored on the couch, and that is just where the old thought finds him.
 
-The real damage a substitute does isn't in your stomach or under the covers. It's in your head. Do you look for a substitute for the flu once it's cleared up? Of course not. Say "I need something in its place" and you're saying "I've made a sacrifice". That one belief is what makes the Willpower Method so miserable.
+USE NONE OF THEM.
+
+A substitute doesn't make stopping easier. It makes it harder. Answer an urge with a substitute and you haven't ended the urge. You've stretched it out. And you've told yourself something fatal: "There's a hole here, and I need to stuff it with something." That's handing the screaming toddler the candy. You get five minutes of quiet and the same scene again tomorrow.
+
+Do you look for a substitute for the flu once it's cleared up? Say "I need something in its place" and you're saying "I've made a sacrifice". That one belief is what makes the Willpower Method so miserable.
+
+Nothing is missing. Lust made the void. It never filled it.
 
 ## Pursue {-}
 
@@ -40,10 +25,6 @@ Paul wrote this to Timothy, a young pastor he was training: "Flee from youthful 
 That is not a substitute. A substitute is a thing you grab to plug a hole. Paul is describing a life you can now get on with. One pastor calls it "escaping into reality, into God Himself." You'll have evenings and energy to spare. Spend them on things that are good in themselves.
 
 One man wrote that he quit at twenty-nine and replaced the habit with antique shopping. Good for him. But I don't believe old teapots held it off for thirty years. He stopped, and then he had his Saturdays back and spent them on something he liked.
-
-If you need a genuine break in your day, take one. You'll enjoy it more now that it doesn't have to end behind a locked door.
-
-So you need no substitute. When an urge comes in the first days, it's the Little Monster starving. Enjoy feeling him go.
 
 That leaves a practical question. If nothing goes in the gap, should you at least stay out of temptation's way?
 

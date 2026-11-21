@@ -38,7 +38,7 @@ If you have spent years on the wrong side of the line, so has nearly every man w
 
 And don't try to drag yourself across the line tonight by force. That is sweeping the house again. For now it's enough to know where the line is. The one exception is another person. If someone else is in it, you are making a choice about her, and you can stop making it today.
 
-So that is the line. One room is left, and it is the hardest in the house. The man in it isn't using a stranger. He has found the right woman, and he means to keep her.
+So that is the line. The last room is the hardest in the house. The man in it isn't using a stranger. He has found the right woman, and he means to keep her. The squatter has saved his best line for him.
 
 <!-- 2026-11-20 for the Hydra version (editorial/HYDRA-PLAN.md). In the book build since 2026-11-20 as new printed Ch 3, leading into "Why Is It Difficult to Stop?".
 SOURCES: Epigraph and body quotation: Proverbs 5:15 (WEB, checked 2026-11-20). "out of his father's house" alludes to Genesis 2:24 without quoting it. The man with the right woman and no promise yet is an anonymous archetype (James's direction 2026-11-20: stick with the biblical view as the ideal). The Introduction's caution still stands for the reader in an affair or using a woman: stop that today. -->
@@ -50,3 +50,5 @@ SOURCES: Epigraph and body quotation: Proverbs 5:15 (WEB, checked 2026-11-20). "
 <!-- 2026-11-21 opening rewrite (James: the opening must grip and reward quickly; tested on three cold readers). Before and after: editorial/OPENING-REWRITE-2026-11-21.md. Cut text is in editorial/PARKING.md. -->
 
 <!-- 2026-11-21 room-by-room reorder (James approved: nothing arrives before the reader needs it; the rooms come in the order a man retreats through them). Before and after: editorial/ROOM-ORDER-2026-11-21.md. -->
+
+<!-- 2026-11-21 five-star pass (H3; ruling 6): the 'One room is left' formula varied; the last line now hands the squatter's line to the next chapter's opening. -->

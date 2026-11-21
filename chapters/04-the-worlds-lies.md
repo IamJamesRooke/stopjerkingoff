@@ -22,9 +22,9 @@ Start with masturbation, because the loudest lies are about that. Your grandfath
 
 ## The opposite lie {-}
 
-There is hype in the other direction too. Stop, whole corners of the internet promise, and you'll get a deeper voice, clear skin and a surge of testosterone. Women will turn around in the street. The biggest forum of them all started with a thread about a study claiming a testosterone spike after seven days. That study was retracted in 2021.
+There is hype in the other direction too. Stop, whole corners of the internet promise, and you'll get powers. The biggest forum of them all started with a thread about a study claiming a testosterone spike after seven days. That study was retracted in 2021.
 
-All that hype ought to get men out. It helps to keep them in. It turns stopping into a feat. You go on "hard mode", you count days and you call yourself a warrior. That is a lot of armor for evicting a squatter. Then day thirty comes, the prize hasn't arrived, and back you go.
+All that hype ought to get men out. It helps to keep them in. It turns stopping into a feat. You count days, you take vows and you call yourself a warrior. That is a lot of armor for evicting a squatter. Then day thirty comes, the prize hasn't arrived, and back you go.
 
 Both sermons, "it's good for you" and "quitting gives you powers", agree on one thing. Both say that stopping is a big deal. It isn't.
 
@@ -38,9 +38,9 @@ The people who defend masturbation have two fair points, and I'll grant them bot
 
 First, the Bible never mentions masturbation by name. If you were hoping for a verse that says "you shall not", there isn't one, and this book won't pretend there is. But Jesus didn't need to name the act, because he went behind it. In Matthew 5:28 he put the sin in the look and in the heart, and that is where masturbation lives. Ask yourself how often it has happened without lust, and you have your answer. The Catholic Church goes further. It teaches that the act is wrong in itself, because sex was made to join a husband and wife. Many Protestant pastors reach the same place through Jesus's words about the look.
 
-Second, the numbers. In one 2017 study of adults who watch porn, nearly nine in ten were not compulsive in the sense a clinic uses. About one in eight used porn little and still felt great distress over it. If that is you, your trouble may be the war more than the habit, and this book means to end the war. It doesn't say that every man with the habit is a clinical addict. Its case rests on two things no clinic measures: what Jesus said about lust, and what men say the habit has cost them. So when this book treats all of it as one problem, that is a moral and spiritual judgment. It is not a medical one, and most doctors would not make it. Besides, you didn't pick up a book with this title because you were fine.
+Second, the numbers, and here I have to borrow from porn, because porn is what gets studied. In one 2017 study of adults who watch porn, nearly nine in ten were not compulsive in the sense a clinic uses. About one in eight used porn little and still felt great distress over it. If that is you, your trouble may be the war more than the habit, and this book means to end the war. So this book doesn't call every man with the habit a clinical addict. Its judgment is moral and spiritual, not medical, and most doctors would not make it. It rests on what Jesus said about lust, and on what men say the habit has cost them. Besides, you didn't pick up a book with this title because you were fine.
 
-Those are the lies about masturbation. The lies about porn and about women are worse, because somebody else pays for them.
+Those are the lies about the hand. The lies about porn are worse, because somebody else pays for them.
 
 <!-- SOURCES (Chapter 4): every quote below is from the research files; check each against its page before publishing.
 - NO LONGER QUOTED in the body (cut 2026-11-18): "Virtually every man and almost as many women have tried it." — John Piper, "Missions and Masturbation", https://www.desiringgod.org/articles/missions-and-masturbation. Confirmed word for word on desiringgod.org, 2026-11-14 (research/quote-verification.md), and restored as a quote.

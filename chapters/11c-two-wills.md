@@ -30,8 +30,10 @@ The old Christians who say a man must keep watch his whole life are right. Peter
 
 The habit feeds the Little Monster. The lies are the Big Monster. Starve the first, clear out the second, and you will have **NEITHER THE NEED NOR THE WISH** to go back to any of it.
 
-There is one more way men try to do it by willpower. It sounds like the sensible one, and it is the worst.
+Some men hear all this and choose what sounds like the sensible middle road. It is the worst road of the lot.
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 11-the-willpower-method.Rmd; the source notes for everything here are in that file. -->
 
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
+
+<!-- 2026-11-21 five-star pass (editor H2): structural cuts, moves and repairs from the outside review and the cold-listener report. Cut text is kept in the pass's parked-H2 file; source notes above still stand for anything cut. -->

@@ -28,7 +28,7 @@ What happens is simple, and you can check every step against your own experience
 
 1. **A cue.** You get into bed. You step into the shower. The house goes quiet. You're bored, or wound up, or lonely, or you saw something on your phone.
 2. **An urge.** A small, restless "go on".
-3. **Relief.** You do it, or you open the site, or you send the message. The restlessness stops.
+3. **Relief.** You do it, or you open the site. The restlessness stops.
 
 That's the loop: cue, urge, relief. Every time you go around it, you teach yourself that this cue leads to that relief. Do it a few hundred times and the lesson is learned by heart. The cue alone will now produce the urge. It doesn't matter whether you're aroused, in the mood, or even paying attention.
 

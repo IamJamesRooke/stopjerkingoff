@@ -12,19 +12,15 @@ It doesn't begin that way. In the early years the line is casual: "I'll stop. Ju
 
 Then the line changes. After enough failed attempts you decide the fault must be in you. "I just don't have the willpower." Or you decide the fault is in nature: "Men are built this way. There must be something in it that I can't live without."
 
-Trying to quit feels like climbing a sand dune. You dig in and gain a few yards, and you can nearly see over the top. Then comes a bad day. Your footing goes, and you slide to the bottom with sand in your shoes. Nobody in the trap can explain it. They only know where they keep ending up.
+Nobody in the trap can explain it. He only knows where he keeps ending up.
 
-## Two questions {-}
+## One question {-}
 
 Find any man with the habit and ask him: "Suppose you could go back to the week before you first did it, knowing everything you know today. Would you start?"
 
 "Not a chance."
 
-Now find the man who defends it. He's read that it's natural, he'll tell you that doctors have no problem with it, and he thinks this book is medieval. Ask him: "So you'll be teaching your son to do it every night until he's forty? You'd be pleased to hear it's the one thing that gets him to sleep?"
-
-"Of course not."
-
-Isn't that strange? Millions of men do this, many of them daily, and not one would choose it again or wish it on his boy.
+Isn't that strange? Millions of men do this, many of them daily, and not one would choose it again.
 
 So the puzzle was never how stopping could be easy. The puzzle is why stopping seems hard. Under that sits a bigger one: why does anybody do it at all?
 
@@ -36,7 +32,7 @@ Then you spent the next ten, twenty or thirty years wishing you could leave it a
 
 You're not unique. You're standard issue.
 
-What does the habit give you in return? What kind of pleasure is it that you regret before you've even caught your breath, and are planning again by the following evening? You wish you weren't doing it while you do it. You're restless for it when you don't.
+What does the habit give you in return? What kind of pleasure do you regret before you've caught your breath, and plan again by the next evening? You wish you weren't doing it while you do it. You're restless for it when you don't.
 
 And the regret piles up. A man despises himself a little every time he promises "never again" one night and breaks it the next. He despises himself when his wife is asleep in the next room. He despises himself when he's too drained to get out of bed and do the thing he'd planned. He may be a sensible, capable man who runs every other part of his life well. He still carries this small contempt for himself everywhere, like a stone in his pocket.
 
@@ -52,7 +48,7 @@ Nothing. That's the going rate.
 
 Why, though? What exactly makes it hard?
 
-**Some say the urges are unbearable.** They aren't. The urge on its own is a mild, restless itch. You've sat through worse in a dentist's waiting room. Plenty of men have carried this habit to the grave without once suspecting they were hooked on anything. That tells you how gentle the pull really is.
+**Some say the urges are unbearable.** They aren't. I know it hasn't felt mild. Some nights it has felt like a hand on the back of your neck. That weight is fear, and fear can be taken away. The urge on its own is a mild, restless itch. You've sat through worse in a dentist's waiting room. Plenty of men have carried this habit to the grave without once suspecting they were hooked on anything. That tells you how gentle the pull really is.
 
 **Some say a man's body needs it.** Pressure builds, they tell you, and it has to go somewhere. But your body was dealing with all of that on its own before you ever lent a hand, and it still knows how. You've also gone days without, on trips and in busy weeks, and nothing burst.
 

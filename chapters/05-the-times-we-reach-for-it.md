@@ -10,7 +10,11 @@ A man who quits by willpower leaves that pile standing. He stops the habit but g
 
 ## What an urge really is {-}
 
-First look at the urge itself, because fear and the lies work as a team. What does a strong urge actually feel like? You get a tight chest and restless hands, your mind won't settle, and you can't sleep. Now think where else you've felt exactly that. You felt it outside an exam room, before a job interview, and walking over to speak to a girl you liked. It's anxiety. Most of what you call the urge is fear of the urge: the dread of being left wanting and miserable. The Little Monster only whispers. Fear turns the whisper into a roar.
+First look at the urge itself, because fear and the lies work as a team. What does a strong urge actually feel like? You get a tight chest and restless hands, your mind won't settle, and you can't sleep. Now think where else you've felt exactly that. You felt it outside an exam room, before a job interview, and walking over to speak to a girl you liked. It's anxiety.
+
+Most of the urge is the fear of the urge.
+
+It is the dread of being left wanting and miserable. The Little Monster only whispers. Fear turns the whisper into a roar.
 
 That's how men can still be pining a year after they stopped. Nothing in the body lasts a year. The pining is all in the head.
 
@@ -20,7 +24,7 @@ Stress comes first. I don't mean life's disasters. I mean the ordinary grind. Th
 
 One man caught himself reaching for porn, and saw what he was really after. He wasn't aroused at all, he said. He was sad. Thousands of men agreed with his next sentence, and it explains half the habit: "I don't know how to handle being sad".
 
-A psychiatrist who treats porn addiction says the same of the men who come to him: "people think that it's about sex. They think it's about lust. It's not. It's about emotional regulation." Don't hear that as an excuse. The lust is real, and Jesus named it. But lust is often only the shape the habit takes. The man is using it to change how he feels.
+Alok Kanojia, an American psychiatrist who treats porn addiction, says the same of the men who come to him: "people think that it's about sex. They think it's about lust. It's not. It's about emotional regulation." Don't hear that as an excuse. The lust is real, and Jesus named it. But lust is often only the shape the habit takes. The man is using it to change how he feels.
 
 You're carrying two loads. One is the day's real trouble. The other is the Little Monster's low grumble, which you're so used to that you can't tell it from the first. When you masturbate, the second load lifts for a moment, so the total drops and you feel better. That lift is real. But the email, the bill and the argument are all exactly where you left them. And you've added the flatness, a late night and one more broken promise. You're tenser than you'd have been if you'd never had the habit at all.
 

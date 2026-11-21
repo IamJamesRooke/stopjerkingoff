@@ -12,7 +12,7 @@ But the rule is strict, and the grace is real. A soldier who trips on the march 
 
 No. There's no counter in this book, so there's no zero to go back to. Your freedom was never a number. A man in a recovery group pictured it as a row of hurdles. You cleared ten cleanly and stumbled on the eleventh. That doesn't mean you have to go back and start the race again.
 
-But don't shrug it off. Something real happened. You fed the Little Monster and your conscience knows it. It makes no difference whether it was porn, the hand or a message to her. Do three things, in this order.
+But don't shrug it off. Something real happened. You fed the Little Monster and your conscience knows it. It makes no difference whether it was porn, the hand or a message to a woman you had sworn off. Do three things, in this order.
 
 *Confess it today.* Don't wait until you've punished yourself for a week. If you're Catholic, that means Confession, and don't put it off. "If we confess our sins, he is faithful". That promise wasn't only for the first time. The proverb says, "a righteous man falls seven times and rises up again". It doesn't say he never falls. It says he gets up. If you're married, don't start a new secret. Agree with your wife what she wants to be told, and tell the man you told. And remember the two words spoken to the son who still smelled of yesterday: just come.
 
@@ -43,7 +43,7 @@ See that for what it is: the old lie dressed up as holiness. Brooding and self-p
 
 ## The hard journey of not drinking bleach {-}
 
-If a slip has left you taking the whole business very solemnly, here is the cure. It comes from a writer who goes by Guillaco, in a short work called *Meditations of a Porn Addict*, which the book EasyPeasy quotes. He reasoned that the habit offers no benefit and only hurts you, so wanting it is about as sensible as wanting to drink bleach. Then he imagined the support forum. Here it is, lightly edited.
+If a slip has left you taking the whole business very solemnly, here is the cure. It comes from a writer who goes by Guillaco, in a short work called *Meditations of a Porn Addict*, which EasyPeasy quotes. He reasoned that the habit offers no benefit and only hurts you, so wanting it is about as sensible as wanting to drink bleach. Then he imagined the support forum. Here it is, lightly edited.
 
 "Hi! We are NoBleach, and we host challenges in which participants, called Bleachstronauts, abstain from drinking bleach for a period of time. Whether you want a monthly challenge as a test of self-control, or whether excessive bleach drinking has become a problem in your life and you want to quit for longer, you will find a supportive community and plenty of resources here."
 
@@ -55,11 +55,7 @@ A second:
 
 "I don't have a problem stopping. But sometimes I go down the street and see someone drinking water, you know, from a glass, and I imagine the glass has bleach in it. Then I get a craving. After debating with myself all day, I finally give in at night and drink a glass."
 
-A third:
-
-"Look, my problem is when I'm alone in my kitchen. I start to look at the glasses. Sometimes I tempt myself by opening the cupboard where I keep the bleach. Sometimes I smell it, and, well, I end up right back where I started. I'm so desperate to stop this, but I'm not sure I'll ever be able to."
-
-A fourth has given up hope:
+A third has given up hope:
 
 "Stopping drinking bleach is impossible. I mean, I always have a mouth, you know? How am I supposed to stop when I always have a throat reminding me that I could swallow bleach?"
 
@@ -73,7 +69,7 @@ You're smiling because you can see what the Bleachstronauts can't. Nobody needs 
 
 If you slipped, the lesson is not "try harder". Somewhere you started believing again that the glass had something to offer. The world repeats its lies daily, so it does no harm to hear the truth twice.
 
-One thing is left to do, and it isn't for you.
+That is everything you need for yourself. The last job is for somebody else.
 
 <!-- SOURCES (If You Slip): this unnumbered chapter was made on 2026-11-17 by joining the slip guidance from Chapter 29 ("I fell. Am I back to zero?") and Chapter 31 ("Slipping", "Wanting it to hurt", "The bully", "The men who quit the pebble"), so that it has one home. No new quotations were added.
 - "you cleanly got over ten and then you kind of stumbled on like the 11th but that doesn't mean that you've fallen over and you have to start again" — a member of a NoFap group on a HealthyGamerGG video; full source line in Chapter 29's SOURCES.

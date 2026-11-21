@@ -28,29 +28,25 @@ Nobody is born needing to do this to get to sleep. You weren't lying in your cri
 
 The other hard-looking case is boredom mixed with stress. Think of the student in finals week, or the single man in an apartment by himself. Each has long empty hours and nobody around. On the Willpower Method those hours are deadly, because he has all evening to brood over what he's "lost".
 
-With the right frame of mind those same hours are no trouble. Don't worry that being alone keeps reminding you that you've stopped. Let it. Every reminder is a chance to think: *I'm getting rid of it. Isn't that marvelous?* Thought of that way, the urges turn into small moments of pleasure.
+With the right frame of mind those same hours are no trouble. Don't worry that being alone keeps reminding you that you've stopped. Let it. Every reminder is a reminder that you are getting out.
 
 ## So, will it be harder? {-}
 
 No.
 
-Young or old, married or single, pastor or plumber, believer or not: any man can find this easy and even enjoyable. He only has to follow all the instructions.
+Young or old, married or single, pastor or plumber, believer or not: any man can find this easy and even enjoyable. He only has to follow the two instructions.
 
 Most men find it easier than they feared. Some men carry more than the habit: an old wound, a depression, something that was done to them. If that is you, the method still works, and you may need a person's help as well as a book. Getting that help is no failure.
 
-## The two main reasons men fail {-}
+## The bad day {-}
 
-There are only two worth worrying about.
+One thing does trip men in every one of these situations, and it is a bad day.
 
-**The first is something outside you.** A scene in a movie, an ad, a photo in your feed, a woman at the gym. Or it's a softer thing: you see a couple holding hands and feel a sudden envy. It catches you in a weak moment. When it happens, use it. Remind yourself that there's no such thing as one look or one time. Be glad the chain is broken. And remember that the man still in the trap would swap places with you tomorrow. He's the one to feel sorry for, because he still has to do it.
+Get this clear before you start: you will have good days and bad days whether you go back to the habit or not. The book of Ecclesiastes says God has made the good day and the bad day side by side. They come to the free man and the man in the trap alike.
 
-**The second is a bad day.** Get this clear before you start: you will have good days and bad days whether you go back to the habit or not. The book of Ecclesiastes says God has made the good day and the bad day side by side. They come to the free man and the man in the trap alike. You can't have hills without valleys.
+The willpower man spends his bad day pining for his comfort, so now he has two problems. The free man has one. He meets it with a clear head, and he isn't dragging a guilty secret through it.
 
-The trouble with the Willpower Method is what the man does with his bad day. He starts pining for his comfort, and now he has two problems. The free man has one. He is also better equipped to meet it, with more energy and a clear head, and he isn't dragging a guilty secret through it.
-
-If a bad day lands on you in the first weeks, shrug and take the punch. You had bad days before, plenty of them, or you wouldn't be reading this book. Then say it plainly: "All right, today is rotten. Jerking off won't fix it. Nor will a video, or a message to her. Tomorrow will be better, and in the meantime I've got one enormous thing going for me. I'm free."
-
-Your decision was right, and you know it. Why torture yourself by doubting it?
+If a bad day lands on you in the first weeks, shrug and take the punch. You had bad days before, plenty of them, or you wouldn't be reading this book. Then say it plainly: "All right, today is rotten. Jerking off won't fix it. Nor will a video, or a message to a woman I shouldn't be writing to. Tomorrow will be better, and in the meantime I've got one enormous thing going for me. I'm free."
 
 Stay glad. It matters on the good days, and it matters most on the bad ones.
 

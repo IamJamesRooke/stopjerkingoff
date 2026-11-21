@@ -4,7 +4,7 @@ If you're like most men, the phone is in your hand before your head has touched 
 
 "I do it when I'm bored." But boredom is a state of mind. Give a man something that absorbs him and he can go for days without a thought of it. Leave him lying on a bed with nothing to do and a screen full of half-dressed strangers. Now there's nothing between him and the Little Monster's whisper. He isn't bored and then tempted. He's itchy, and with nothing to distract him he notices it.
 
-A psychiatrist who treats porn addiction says the number one cause of relapse is not strong emotion. It is boredom. His reason takes one line: "if you've got a gap in your day porn will fill it".
+The same psychiatrist says the number one cause of relapse is not strong emotion. It is boredom. His reason takes one line: "if you've got a gap in your day porn will fill it".
 
 The most famous fall in the Bible began in an empty hour. David, Israel's greatest king, was alone on his roof on an idle evening, while his army was away at war. You know that hour.
 
@@ -36,13 +36,11 @@ Why is a free man relaxed without it? And why can't you relax after one or two d
 
 For many men this is the last excuse to fall, because the fear feels so practical. "I've got work in the morning. I can't lie awake."
 
-So ask the plain questions. How did you sleep when you were eight? How do the men who've stopped sleep? How did you sleep in a tent, in a barracks, in your in-laws' guest room?
-
-You've made the habit your sleeping pill. The bed is the cue. Lights out is the cue. So every night the Little Monster wakes up just as you lie down, and you can't settle until he's been fed. Then you sleep, and you thank the habit. It was the habit that kept you awake.
+You already know who keeps you awake. Here is how he does it. The bed is the cue. Lights out is the cue. So every night the Little Monster wakes up just as you lie down, and you can't settle until he's been fed. Then you sleep, and you thank the habit.
 
 It's a poor sedative in any case. The session runs late and the phone runs later. At seven the next morning a man drags himself out of bed and blames the mattress.
 
-When you stop, you may have two or three nights when the old cue fires and you lie there for a while. Don't dread them. Lie there and smile, because you know what's dying. After that you'll sleep the way you did as a boy. David wrote of it in Psalm 4: "In peace I will both lay myself down and sleep, for you, LORD alone, make me live in safety." He says he'll sleep in peace. He doesn't say he'll sleep worn out.
+When you stop, you may have a few nights when the old cue fires and you lie there for a while. Don't dread them. Lie there and smile, because you know what's dying. Most men then sleep the way they did as boys. If you still sleep badly a month from now, that is a different problem, and a doctor is the person to see. David wrote of it in Psalm 4: "In peace I will both lay myself down and sleep, for you, LORD alone, make me live in safety." He says he'll sleep in peace. He doesn't say he'll sleep worn out.
 
 ## Energy {-}
 
@@ -50,15 +48,11 @@ Most men know the flat ten minutes afterward. Fewer notice what the habit does t
 
 The tiredness gets filed under "getting older". Your friends are tired too, so it seems normal. At twenty-eight you talk like an old man, and you assume that drive belongs to teenagers.
 
-Suppose I could lift you out of today and set you down three weeks after stopping, just for one morning. You'd feel the difference all at once, and that alone would do it. You wouldn't say, "Is this how good it gets?" You'd say, "Had I really sunk that far?" I can't carry you there. You can walk.
+Suppose I could lift you out of today and set you down a few weeks after stopping, just for one morning. You'd feel the difference all at once, and that alone would do it. You wouldn't say, "Is this how good it gets?" You'd say, "Had I really sunk that far?" I can't carry you there. You can walk.
 
-I can't prove this with a lab report. It is testimony, and the testimony is remarkably consistent. One man wrote, thirty days in:
+I can't prove this with a lab report. It is testimony, and the testimony is remarkably consistent. Men say the energy comes back, and many say it starts within days. There is one condition. If you stop by willpower, feeling deprived, the gloom will swallow every gain. Stop this book's way and you get to enjoy each gain as it comes.
 
-> "First off, I finally have energy again! I haven't felt this good since high school."
-
-The energy comes back fast. It starts within days, on one condition. If you stop by willpower, feeling deprived, the gloom will swallow every gain. Stop this book's way and you get to enjoy them from the first morning.
-
-One occasion is left. It lies underneath all the others, and it is the saddest.
+Underneath all of these occasions lies one more, and it is the saddest.
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 05-the-times-we-reach-for-it.Rmd; the source notes for everything here are in that file. -->
 

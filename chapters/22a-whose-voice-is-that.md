@@ -8,7 +8,7 @@ There's a simple test. Don't argue and don't agree. Just let the thought sit the
 
 You've caught him.
 
-Now treat him as the caller he is. You have said no once, and outright. Give him no reason, because a reason is something he can argue with. Don't let him down gently. Then never answer again.
+Now treat him as the caller he is. Once you have said your No, outright, give him no reason, because a reason is something he can argue with. Don't let him down gently. Then never answer again.
 
 Here's a second test. Hold up your hand and wiggle your fingers. Now ask the urge to do it. He can't. He has no hands of his own, and he has never once done the deed himself. He can only talk until you lend him yours.
 

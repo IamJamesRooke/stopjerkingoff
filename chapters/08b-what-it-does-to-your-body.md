@@ -14,13 +14,13 @@ Death grip is men's own slang, and the name fits. A hand can squeeze far harder 
 
 Then a real woman arrives. She is warm and soft, and to a body trained on a fist she feels like almost nothing. Some men can't finish with her, however long it goes on. Some can't stay ready. A woman on a forum for men who are stopping wrote this about the man she had been with: "when he did have sex he felt nothing".
 
-Sex therapists and urologists see these men regularly, and they have their own drier names for it. Alok Kanojia is an American psychiatrist with a large following, who goes by Dr. K. In 2023 he put it as bluntly as a doctor can. A tight, dry hand, he said, "feels different from a vagina". A man who knows nothing else has trained his body away from a real woman.
+Sex therapists and urologists see these men regularly, and they have their own drier names for it. In 2023 Dr. Kanojia, the psychiatrist, put it as bluntly as a doctor can. A tight, dry hand, he said, "feels different from a vagina". A man who knows nothing else has trained his body away from a real woman.
 
-What is going on? Most doctors describe it as training. Think of a man who salts his food a little more heavily every year. His tongue isn't ruined, but plain food now tastes of nothing. Some doctors go further, and say that years of dry friction may dull the skin and the nerves themselves. That may be so. Nobody has proved it, and you will hear it said with more confidence than the evidence allows. The training explanation has the most behind it. It is also the hopeful one, because a body that learned one thing can learn another.
+What is going on? Most doctors describe it as training. Think of a man who salts his food a little more heavily every year. His tongue isn't ruined, but plain food now tastes of nothing. Some doctors go further, and say that years of dry friction may dull the skin and the nerves themselves. Nobody has proved that. The training explanation has the most behind it. It is also the hopeful one, because a body that learned one thing can learn another.
 
-A medical student told his story on the NoFap forum. With his first girlfriend, "even after months, still no orgasm for me. I couldn't even get close." Then comes the sentence every man should hear: "She started to think it was her fault, but deep inside, I knew what the problem was."
+A medical student told his story on NoFap. With his first girlfriend, "even after months, still no orgasm for me. I couldn't even get close." Then comes the sentence every man should hear: "She started to think it was her fault, but deep inside, I knew what the problem was."
 
-Let's keep this honest. Death grip isn't an official diagnosis, and nobody has proved the cause. A study published in 2023 looked at several hundred young men. Those with erection trouble were about twice as likely to masturbate in these rough ways. That shows a link and no more. Some doctors doubt it's common. And if this is your trouble, see a doctor, because medicines and other conditions can do the same thing.
+Let's keep this honest. Death grip isn't an official diagnosis. A study published in 2023 looked at several hundred young men. Those with erection trouble were about twice as likely to masturbate in these rough ways. That shows a link and no more. Some doctors doubt it's common. And if this is your trouble, see a doctor, because medicines and other conditions can do the same thing.
 
 Even the specialists who call masturbation harmless start the cure in the same place. They usually ask a man to stop for a while, and then to change the way he does it. This book asks you to stop for good. That is my conviction, not their prescription. If a sex therapist gives you exercises, that is treatment. Tell the therapist your convictions at the start. A good one will work within them.
 
@@ -35,3 +35,6 @@ The body can mend. So why has a list like this never once made you stop?
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
 
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
+
+
+<!-- 2026-11-21 five-star pass (editor H2): structural cuts, moves and repairs from the outside review and the cold-listener report. Cut text is kept in the pass's parked-H2 file; source notes above still stand for anything cut. -->

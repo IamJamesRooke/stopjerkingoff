@@ -8,8 +8,6 @@ How? The method has one aim: to change the way you think about the habit.
 
 That's all. It won't make you stronger, and it won't make you more disciplined. It will change what you see when you look at porn, at masturbation, and later at the pull women have on you. Once you see it clearly, stopping is easy.
 
-I didn't invent this way of quitting. A man named Allen Carr did, for smokers. His book, *Easy Way to Stop Smoking*, has helped a great many people put down cigarettes without a fight. Later a free book called [*The Easy Peasy Way to Quit Porn*](https://easypeasymethod.org/) used Carr's method to help men quit porn. This book borrows from both, and takes the same method to lust itself. The credit is theirs. Any mistakes are mine.
-
 ## Why the normal way is so hard {-}
 
 The normal way of quitting goes like this. You write down everything the habit costs you: the guilt, the tiredness, the lost time, the distance from God. Then you tell yourself:
@@ -54,15 +52,21 @@ So the habit didn't give you sleep. It took your sleep, and every night it rents
 
 A man who wears tight shoes all day for the pleasure of taking them off isn't enjoying a benefit. Every "benefit" on that list works the same way, and each one gets its turn.
 
-## What to do while you read {-}
+## What to do tonight {-}
 
-While you read, do one thing you have never done before. Watch.
+Tonight, do three things. None of them is "try harder".
 
-If you fall, keep your eyes open, and notice what it actually gave you. Notice the ten minutes afterward too. As you read, the wish to do it will shrink without any effort from you. Let it.
+1. **Call off the war.** No vow, no streak, no cutting down. You may also stop hating yourself this evening. It never helped once.
+2. **Watch.** Nobody is telling you to sin, and if you have already stopped, stay stopped. But if you fall, keep your eyes open. Notice how it starts, how long the good part lasts, and how the ten minutes afterward feel.
+3. **Keep reading, in order.** A chapter or two a night is plenty.
+
+If something loosened in your chest at "call off the war", that is the first of the relief. As you read, the wish to do it will shrink without any effort from you. Let it.
 
 There's no "one last time" ceremony waiting for you in the closing pages. There is only a plain No, and you'll be glad to say it. It is not the old vow. The old vow was a promise made in your own strength, before you understood the trap, and you know how long those lasted. This one you'll say with your eyes open, and if you pray, you'll say it leaning on God.
 
-A Christian wrote this book, and it quotes the Bible, because the best pictures of this trap are in there. You don't have to believe a word of it to get out. If you're an atheist, play along. If you hold another faith, bring it with you. When you hear God or sin mentioned, take it as your conscience talking.
+I didn't invent this way of quitting. A man named Allen Carr did, for smokers. His book, *Easy Way to Stop Smoking*, has helped a great many people put down cigarettes without a fight. Later a free book called [*The Easy Peasy Way to Quit Porn*](https://easypeasymethod.org/) used Carr's method to help men quit porn. This book borrows from both, and takes the same method to lust itself. The credit is theirs. Any mistakes are mine.
+
+A Christian wrote this one, and it quotes the Bible, because the best pictures of this trap are in there. You don't have to believe a word of it to get out. If you don't believe, read it as you would any old book that turns out to know you. If you hold another faith, bring it with you. When you hear God or sin mentioned, take it as your conscience talking.
 
 And if you are a Christian, hear one verse early. Romans 8:1 says, "There is therefore now no condemnation to those who are in Christ Jesus". When this book says "sin", it is telling the truth. It is not beating you.
 

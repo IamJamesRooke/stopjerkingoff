@@ -7,7 +7,25 @@
 For a few weeks after you stop, you may feel an occasional urge. Urges come in two kinds, and most of the misery of the Willpower Method comes from mixing them up.
 
 1. **The leftover itch.** This is the Little Monster going hungry: a faint, empty, restless feeling, a sense that there's something you ought to be doing.
-2. **The cue triggers.** These are the times and places you've wired to the habit: the bed, the shower, the empty house, the phone at midnight, the app you used to open, a message from her.
+2. **The cue triggers.** These are the times and places you've wired to the habit: the bed, the shower, the empty house, the phone at midnight, the app you used to open, a message from a woman you shouldn't be writing to.
+
+## The man on the couch, week one {-}
+
+Take the man on the couch, the week after his last time.
+
+Monday he gets into bed and the bell rings on schedule. He lies there. It is a little like wanting to sneeze. He doesn't argue with it and he doesn't feed it. Twenty minutes later he is asleep.
+
+Tuesday is nothing at all. He is almost offended.
+
+Wednesday he wakes up hard, and the old thought arrives with the alarm. He gets up and puts the kettle on. By the time it boils, the thought has gone.
+
+Thursday is a bad day at work, the kind he used to carry home and settle at midnight. He carries it home. At eleven it is still a bad day, and no worse than it would have been. He goes to bed annoyed and wakes up fine, with nothing to delete.
+
+Friday his wife takes the children to her mother's, and the house goes quiet at eight. For fifteen years that quiet was a starting gun. He puts on a film. He notices the empty house at ten, when the film ends and he gets up to lock the door.
+
+Saturday the bell rings in the shower for a minute or two, fainter, like a caller who already expects no answer. On Sunday he can't remember whether it rang.
+
+Nothing in that week took courage. A bell rang a few times and nobody got up. Your week won't be his, day for day. But it will be made of the same two things. Take them one at a time.
 
 ## The leftover itch {-}
 
@@ -23,7 +41,7 @@ You'll know this from changing cars. In the old one the turn signal was on the l
 
 Nothing is wrong with you or with the car. It's an old groove, and it wears out quickly as long as you don't treat each misfire as a crisis. When the bell rings in the first days, you'll think, "This is when I'd normally do it." That's all the thought is. A cue is a reminder, and it can't give you orders.
 
-A recovery coach found out how little a cue can do when it's left alone. An urge hit him as he walked home from the gym. He didn't argue with it and he didn't obey it, and by the time he got home it had passed. His whole method is to do nothing, and he reports that the urge "fades after maybe a minute or two". The psychiatrist who treats porn addiction gives his patients the same instruction: "The main thing that you have to do is nothing".
+A recovery coach found out how little a cue can do when it's left alone. An urge hit him as he walked home from the gym. He didn't argue with it and he didn't obey it, and by the time he got home it had passed. His whole method is to do nothing, and he reports that the urge "fades after maybe a minute or two". Dr. Kanojia gives his patients the same instruction: "The main thing that you have to do is nothing".
 
 Here the two methods part. The willpower man believes he's made a sacrifice, so every ring of the bell reminds him of his loss. He sits moping and waiting for the urges to stop, which is the surest way to keep them coming. The man who stopped in order to gain superpowers is worse off. He's been checking daily for his transformation. He tells himself a real man wouldn't be having these thoughts at all. So every stray thought becomes proof that he's failing. Both men are making the bell louder.
 
@@ -47,7 +65,7 @@ If you're a Christian, take one more thing to heart. It is not a sin to be tempt
 
 **Don't try not to think about it.** Willpower men spend their days trying to forget. That works about as well as trying to fall asleep by worrying about being awake. You can't forget in the first few days anyway. The Little Monster will remind you, and so will every billboard. You don't need to forget, because nothing bad is happening. If it crosses your mind a hundred times a day, enjoy it a hundred times: *I'm free.* You'll be surprised how soon you stop thinking of it at all.
 
-**Don't doubt your decision.** Doubt comes first, then moping, then the slide. If you catch yourself feeling low, remember that the habit was causing the lowness. If a friend sends you something, be glad to say, "I don't bother with that anymore."
+**Don't doubt your decision.** Doubt comes first, then moping, then the slide. If you catch yourself feeling low, remember that the habit caused most of the lowness you knew. If you are still low weeks from now, that is a different problem, and a doctor is the person to see. If a friend sends you something, be glad to say, "I don't bother with that anymore."
 
 You had strong reasons for stopping, and now is the time to take them down off the shelf. Remember the years, the fog, the secrecy and the distance from God. A voice will tell you they weren't so bad.
 

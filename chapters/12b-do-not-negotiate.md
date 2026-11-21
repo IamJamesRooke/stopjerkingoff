@@ -21,25 +21,9 @@ He gives the woman four instructions.
 
 De Becker himself reaches for the comparison this book needs. The pursuer, he says, is like an addict, and she is the drug. Small doses don't wean him. They keep him hooked. The only cure is none at all.
 
-## If you find yourself obsessed with a woman {-}
-
-This part is not for every reader. But there may be a woman who has told you no, and you are still writing to her. If so, hear that list from the other side.
-
-She may never have said the word. Many women don't. They want to be kind, or polite, or they are a little afraid of how you'll take it. So her no comes as a slow reply, then "I'm busy this week", then silence. Don't wait to hear it said outright. A woman who wants to hear from you makes that easy to tell. If you have to wonder, she has answered.
-
-You wouldn't call yourself a stalker. You would say that you're persistent, or in love. From where she stands, she said no and she meant it. Every message since has frightened her a little more. That isn't love. Love wants her good, and she has told you what her good is.
-
-The best thing you can do is also the only thing. Respect her decision, and stop all contact today. Send no last message, no apology and no explanation. Stay away from her house and from her pictures.
-
-- **It is the only way to leave with your dignity.** Every further message spends a little more of it.
-- **Expect nothing from it.** If she were ever to think differently, it would be her doing and on her terms. It would never be because you pushed.
-- **You are thinking like a starving man.** She is not the only woman in the world. There are women who would be glad of you, and you could be with one who wants you back.
-
-It will feel hard for a few days. That is only the itch, and it passes. If you find you can't stop, tell a doctor or a counselor today. In many places this is also a crime.
-
 ## Your own stalker {-}
 
-Now for every reader. You have a stalker of your own. De Becker's clients were famous people, the kind a stranger fixes on and will not leave alone. In this story you are the famous one, and you have a fan.
+You have a stalker of your own. De Becker's clients were famous people, the kind a stranger fixes on and will not leave alone. In this story you are the famous one, and you have a fan.
 
 **The Little Monster is the stalker.** He is the caller who can't take no for an answer, and every urge is one more message from him.
 
@@ -54,7 +38,7 @@ Her four instructions are yours, word for word.
 
 There is one difference, and it is all in your favor. Her pursuer may be dangerous. Yours is not. The Little Monster is not ten feet tall. He is a pipsqueak you could kick across the room. His only weapon is to annoy you.
 
-He is an itch, about as strong as a mosquito bite or a tag scratching at the back of your collar. He can't hurt you, and he can't make you do anything. Men have crossed oceans and built cities, and then taken orders from this.
+He is an itch, about as strong as a tag scratching at the back of your collar. He can't hurt you, and he can't make you do anything. Men have crossed oceans and built cities, and then taken orders from this.
 
 If he has ever felt enormous to you, that was the fear of him, and fear can flatten a strong man.
 
@@ -71,3 +55,5 @@ So how does a caller like that ever get through?
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
 
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
+
+<!-- 2026-11-21 five-star pass (editor H2): structural cuts, moves and repairs from the outside review and the cold-listener report. Cut text is kept in the pass's parked-H2 file; source notes above still stand for anything cut. -->

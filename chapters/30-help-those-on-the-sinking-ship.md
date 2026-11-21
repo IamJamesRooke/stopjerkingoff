@@ -4,9 +4,9 @@
 >
 > — Galatians 6:1
 
-You're off the ship. Before you walk up the beach, turn around and look at who's still aboard.
+Here is one last picture. Think of the trap as a ship, sitting low in the water. You're off it. Before you walk up the beach, turn around and look at who's still aboard.
 
-Your brother is on it. So are half the men you work with, most of the men at your gym, and quite possibly your son. From the shore the ship looks different. You can see how low it sits in the water.
+Your brother is on it. So are half the men you work with, most of the men at your gym, and quite possibly your son. From the shore you can see what none of them can: it is going down.
 
 Nothing keeps men aboard like the willpower quitter. He's on day nineteen of his streak, gray in the face, snapping at his wife and telling everyone who'll listen how hard it is. The men on the ship look at him and think, "If that's freedom, pass me my phone." His misery is the best advertisement the habit has.
 
@@ -22,13 +22,13 @@ Tell him what it's like on shore. Tell him how good it is to wake up with a clea
 
 Tell him one more thing, because he's sure of the opposite: he is not alone. Every man on the ship thinks he's the only one aboard. It helps to hear otherwise from a man he respects.
 
-Best of all, get him to read this book. One link is all it takes: [stopjerkingoff.com](https://stopjerkingoff.com/). Think of his name now, before you go on.
+Best of all, get him to read this book. One link is all it takes: [stopjerkingoff.com](https://stopjerkingoff.com/). Think of his name now, before you go on. He may be the man you asked to be shown.
 
 ## Don't kick a man who's drowning {-}
 
 Whatever you do, don't look down on him.
 
-People say nobody is harder on a sinner than a reformed one. There's something in it, and the cause is nearly always the Willpower Method. The man who stopped by gritting his teeth still half believes he gave up a treasure. He feels shaky. A shaky man defends himself by attacking, so he lectures, sighs and posts sermons at his friends. It does wonders for his opinion of himself. The man on the receiving end is backed into a corner, feels more wretched than before, and heads for the one comfort he knows.
+People say nobody is harder on a sinner than a reformed one. The cause is nearly always the Willpower Method. The man who stopped by gritting his teeth still half believes he gave up a treasure. That leaves him shaky, and a shaky man defends himself by attacking. So he lectures, sighs and posts sermons at his friends. The man on the receiving end feels more wretched than before, and heads for the one comfort he knows.
 
 You don't need to do that, because you're not shaky. You gave up nothing and you know it.
 
@@ -38,7 +38,7 @@ So never tell a married man he's as good as cheating. Never tell a teenager he's
 
 ## Fences don't free anybody {-}
 
-A good deal of well-meant help makes things worse.
+Some well-meant help makes things worse.
 
 A father finds out and takes the phone away for a month. A youth leader gets thirty boys to sign a pledge card. A man goes on a mission trip, shares a room with five others, and comes home proud of two clean weeks.
 
@@ -46,7 +46,7 @@ All three stop the hand and leave the wanting where it was.
 
 Ask the man back from the mission trip how the first night alone in his own house went. Being kept from the habit didn't shrink the desire. It taught him two things. The habit must be precious, since everyone works so hard to keep it from him. And he must be helpless, since he can't be trusted alone.
 
-The cruelest version is the one we use on boys. We hand a twelve-year-old a screen and tell him nothing useful. At fifteen somebody finds what he's been watching and shames him for it. Your son doesn't need a fence. He needs what you now have: an explanation. He needs a father who can say, "I was caught in that for years. Here is how it works. Here is the way out."
+A son is the same. He doesn't need a fence. He needs what you now have: an explanation. He needs a father who can say, "I was caught in that for years. Here is how it works. Here is the way out."
 
 One thing here is not a fence. A wife who asks to see her husband's phone is rebuilding trust, and that is hers to ask.
 
@@ -54,7 +54,7 @@ On the night Jesus was arrested, Peter said three times that he didn't know him.
 
 You've turned again. Now go back for your brothers.
 
-Take the method with you when you go. It fits in twelve lines.
+Take the method with you when you go. It fits in ten lines.
 
 <!-- SOURCES (Chapter 30): every quote below is from the research files; check each against its page before publishing.
 - "You are not alone in the battle." — John Piper, "Missions and Masturbation", https://www.desiringgod.org/articles/missions-and-masturbation. Confirmed word for word on desiringgod.org, 2026-11-14 (research/quote-verification.md), and restored as a quote.

@@ -1,14 +1,14 @@
-# Fantasy and the Thought Life
+# A Scroll Isn't Porn {#fantasy-and-the-thought-life}
 
 > "but I tell you that everyone who gazes at a woman to lust after her has committed adultery with her already in his heart."
 >
 > — Matthew 5:28
 
-This room has no porn in it. It has a phone, and a head.
+This room has no porn in it. It has a phone.
 
 Take a man who has quit porn, and means it. He hasn't opened one of those sites in months. He has a red line and he stays on the right side of it.
 
-On the right side of that line is every feed of pictures and short videos a phone can show. There are the fitness models, the women trying on clothes for the camera, and the beach photos of a girl he went to school with. None of it would trip a filter. And when the phone is in another room there's the reel in his own head. It holds old girlfriends, scenes he watched years ago, and the woman from the gym.
+On the right side of that line is every feed of pictures and short videos a phone can show. There are the fitness models, the women trying on clothes for the camera, and the beach photos of a girl he went to school with. None of it would trip a filter.
 
 Perhaps you are that man, and you know how the evening goes. Your wife is tired, or you have no wife, and you feel you're owed something. "I won't look at porn. I'll just scroll for a bit." Forty minutes later you're in the bathroom. Or you don't finish at all, and you go to bed pleased with yourself and wide awake.
 
@@ -34,7 +34,11 @@ A word for the man who doesn't. Some men get stuck checking whether a look or a 
 
 For everyone else, be honest about the scroll. It is a purposeful gaze pretending to be an accident.
 
-And the squatter has an answer ready for the man with a woman of his own. "Fine. But I've never touched anyone else. A thought isn't cheating."
+So look once more at the man who quit porn and kept the feed. He is still standing at his red line, with a phone full of crumbs.
+
+AND HE CALLS IT BEING FREE!
+
+Take the phone away and the squatter only shrugs. He has a film of his own. "Fine. No scroll. But what goes on in my own head is nobody's business. A thought isn't cheating."
 
 <!-- SOURCES (Chapter 15): every quote below is from the research files; check each against its page before publishing.
 - "sends the man back into the prison of himself, there to keep a harem of imaginary brides." / "this harem, once admitted, works against his ever getting out and really uniting with a real woman." / "The danger is that of coming to love the prison." — C.S. Lewis, letter to Keith Masson, 1956 (Collected Letters, vol. 3), fragments as quoted at https://www.pintswithjack.com/?p=341 and https://www.catholiceducation.org/en/marriage-and-family/sexuality/c-s-lewis-on-lust-women-and-masturbation.html (in copyright: three short fragments, do not extend; the first was also used in Chapter 5; the sentences between them are paraphrase from research/more-sources.md; the full letter was not read)
@@ -74,3 +78,5 @@ And the squatter has an answer ready for the man with a woman of his own. "Fine.
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
 
 <!-- 2026-11-21 room-by-room reorder (James approved: nothing arrives before the reader needs it; the rooms come in the order a man retreats through them). Before and after: editorial/ROOM-ORDER-2026-11-21.md. -->
+
+<!-- 2026-11-21 five-star pass (H3; cold-listener joins 5 and 6): the chapter is now the feed and the look only; the film in the head has the next chapter. The 'kept the feed ... AND HE CALLS IT BEING FREE!' lines moved here from 'Mothers, Sisters, Daughters'. A new title is proposed in the H3 report (ruling 16); the title is unchanged here. -->

@@ -18,7 +18,7 @@ That is the secret this book is built on, and every page after this one is the p
 
 This book will help you conquer lust. You will stop masturbating, stop watching porn, and stop making bad decisions with women because you're thinking with the wrong head. You can stop right away, stay stopped, and not be miserable doing it. Nobody is going to shame you, and nobody is going to ask you to grit your teeth.
 
-Three plain words, so that we never lose each other. *Porn* is the screen. *Masturbation* is the hand. Most men know the two as one thing, done alone behind a shut door. When this book says *the habit*, that is what it means. *Lust* is the bigger word. It is the appetite behind the habit, and it has other ways of eating. The first half of this book deals with the habit. Then it follows lust everywhere else it goes.
+Four plain words, so that we never lose each other. *Porn* is the screen. *Masturbation* is the hand. Most men know the two as one thing, done alone behind a shut door. When this book says *the habit*, that is what it means. *Lust* is the bigger word. It is the appetite behind the habit, and it has other ways of eating. The first half of this book deals with the habit. Then it follows lust everywhere else it goes.
 
 Some men would almost rather have the dragon. They want a war of teeth, bone, sinew and will. If that is you, save your grit for something that deserves it. There are mountains to climb and children to raise. Don't let this be the battle that defines your life. It is only a pest. Evict him, and get on with your life.
 

@@ -4,7 +4,7 @@
 >
 > — Psalm 124:7
 
-Some time in the first three weeks after he stops, a man usually has a moment when he simply knows he's free.
+Some time after he stops, many a man has a moment when he simply knows he's free.
 
 It's hard to describe and impossible to mistake. The day looks brighter. Up to then you've been *telling* yourself that you don't need the habit. In this moment you find you no longer have to tell yourself anything. The last thread has gone. You know you're done with it, and you don't want it back. From then on you look at men who are still in the trap and feel only pity.
 
@@ -16,25 +16,21 @@ The deeper in you were, the better the moment is, and it doesn't wear off. Most 
 
 ## When does it come? {-}
 
-For most men it's days, not weeks.
+Nobody has measured this, so take it as testimony and not as a schedule. Men who report a moment usually put it in the first week or two. Plenty never get one. They just notice one day that it has been quiet for a while.
 
-For some men it comes on the first day. With some readers it happens before the book is finished. Somewhere in the middle chapters they put it down and say, "That's enough. I can see the whole thing. I'm done." Readers of EasyPeasy report the same. One, twelve days out, had already stopped thinking of himself as a man holding on: "I just refer to myself as 'nonuser'", he wrote, and "I feel much happier as nonuser."
+For some men it comes on the first day. With some readers it happens before the book is finished. Somewhere in the middle chapters they put it down and say, "That's enough. I can see the whole thing. I'm done." One reader of EasyPeasy, twelve days out, had already stopped thinking of himself as a man holding on: "I just refer to myself as 'nonuser'", he wrote, and "I feel much happier as nonuser."
 
-It doesn't come to every man as a moment. For some it's sudden, a single day they can name. For others it comes on like a dawn. One young man, telling how God freed him, was careful to say so: "this wasn't something that happened overnight". The slow kind is no less free. If yours comes by degrees, you haven't done it wrong. So take the two figures that follow as a rough guide and no more. They are not a sentence to serve or a date to wait for.
+For others it comes on like a dawn. One young man, telling how God freed him, was careful to say so: "this wasn't something that happened overnight". The slow kind is no less free. If yours comes by degrees, or you can never name the day, you haven't done it wrong.
 
-**About five days in,** the habit stops being the main thing on your mind. This is when most men have their moment. It usually comes in one of the old danger spots: the empty house, the sleepless night, the evening after a fight. You get to the far side of it and suddenly realize that you coped perfectly well, or even enjoyed yourself. The thought of the habit never crossed your mind. After that it's easy going.
+When it does come as a moment, it usually comes in one of the old danger spots. The empty house, the sleepless night, the evening after a fight. You get to the far side and realize that you coped perfectly well, or even enjoyed yourself. The thought of the habit never crossed your mind.
 
 For the man on the couch it comes like this. His wife reaches across and picks up his phone to check the time, and nothing in his chest jumps. Only afterward does he notice that the phone was lying face up.
 
-**About three weeks in** is when most willpower attempts die. Here is why.
+## Don't test it {-}
 
-## The three-week trap {-}
+One warning belongs here. A few weeks in, a man senses that the desire has gone, and he wants proof. "I'll just see. If it does nothing for me, I'll know I've beaten it." That test is the Little Monster's first meal in weeks, and it is how a great many willpower attempts end.
 
-By the third week the man senses that the desire has gone. He isn't sure, so he decides to prove it. "I'll just see. If it does nothing for me, I'll know I've beaten it."
-
-And it does feel odd. It's flat and a bit silly, and he takes that as his proof. But he has just handed the Little Monster his first meal in three weeks. Within the hour a small voice starts up: "You haven't beaten it. You want another."
-
-So don't prove anything to anyone, including yourself. You will never need to test your freedom, and every test of it is the habit under another name.
+You will never need to test your freedom. Every test of it is the habit under another name.
 
 ## Don't wait for it {-}
 
@@ -44,9 +40,9 @@ If you're a Christian you have firmer ground than a feeling. Paul says that if a
 
 So go and enjoy your life, and cope with it, from the very start.
 
-The moment will arrive soon enough.
+The moment, or the quiet, will arrive without your help.
 
-One question is left before you decide. What is all this freedom for?
+Before you decide, look past the door. What is all this freedom for?
 
 <!-- SOURCES (Chapter 27): every quote below is from the research files; check each against its page before publishing.
 - "a light as it were of serenity infused into my heart" — Augustine, Confessions, Book 8, ch. 12, §29, E.B. Pusey translation (public domain), https://faculty.georgetown.edu/jod/augustine/Pusey/book08

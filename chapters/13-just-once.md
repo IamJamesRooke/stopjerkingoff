@@ -36,11 +36,21 @@ If answering buys so little, why does anyone answer? Because of what the message
 
 You know the voice. It says it's just one more time, just one more video, and you can get back to your purpose after. It always sounds that reasonable.
 
-The message is always about one special time. The one after a week away on business. The one after the fight. The one on the night she turns over and says she's tired. The one video. The one message to her, "just to say hello". The one you've "earned".
+The message is always about one special time. The one after a week away on business. The one after the fight. The one on the night your wife turns over and says she's tired. The one video. The one you've "earned".
 
 Notice what the message never offers. It never says, "Go back to doing this every night for another twenty years." No man would take that offer. So it offers one, because one is the only size it can sell.
 
 Get this fixed in your mind: JUST ONCE DOES NOT EXIST. It's a chain, and each link is forged by the one before. The myth of the rare special occasion is also what keeps men moping after they've quit. They are like a man who has moved to a new house and keeps driving past the old one.
+
+## One little look {-}
+
+Sometimes the offer comes smaller still. Not once, only a look. A scroll past a certain account, a quick search, a minute of "just touching, not finishing". This is what finishes off most men on the Willpower Method, three or four days in.
+
+Often the little look is a letdown, and the man is delighted. "That did nothing for me. I must be losing interest." The opposite is true. He never did this for the enjoyment. He did it to feed the Little Monster. Think how that scrap tasted to him after four days of starving. The man didn't notice. The Little Monster did.
+
+It is also the caller getting his answer. All the calls the man let ring taught the caller nothing. The one he picked up taught him to keep ringing.
+
+Job, the suffering man of the Old Testament, had the right idea. "I made a covenant with my eyes", he said; "how then should I look lustfully at a young woman?" He didn't promise to look a little. He made a covenant not to. King David took one long look from a rooftop, and you know what it cost him.
 
 ## How to leave it unanswered {-}
 
@@ -49,6 +59,8 @@ So here is how a man lets it ring.
 Never picture the single, harmless time. It's a fantasy in every sense. When the thought of it comes, see the whole chain. See thousands of secret nights and thousands of flat ten minutes afterward. See a secret carried through every room you walk into, and the years of your strength poured down a drain. Why choose a lifetime of that, when you could be free?
 
 And when the voice comes, remember the four instructions. The first is said only once, at the end of this book, and then it is said for good. The other three are how it stays said. Give no reason. Don't let him down gently. Never answer again. You don't have to win the argument, because there isn't one. A man who is debating whether tonight is an exception has already picked up the phone.
+
+A man who got out called the whole business "just a poisoned cookie." That's the difference between the two methods. The willpower man stands in front of the cookie, telling himself not to take it. You've seen that it's poisoned. You don't have to resist it. You just don't eat it.
 
 Don't let any of this frighten you. Any man can do it. It's absurdly easy, so long as you have three things straight:
 
@@ -68,15 +80,11 @@ It is de Becker's picture, thousands of years before there was a telephone. Some
 
 You are to rule over it. Ruling doesn't mean wrestling him on the doorstep, or leaning on the door all night. Nothing is pushing from the other side. It means you don't open it, and once you've seen what is outside, you have no wish to.
 
-A Christian will tell you who sends the caller. The devil wants your soul. And the devil doesn't need to defeat you if he can distract you. So he sends the Little Monster. One small thing that calls and calls is enough to shut a man down. It keeps him from using what God gave him to advance the Kingdom of Heaven.
-
-Look at what he sent, though. He didn't send a dragon. He sent a pipsqueak with a telephone. Martin Luther was the monk who started the Protestant Reformation. He said that if the devil won't leave any other way, you should jeer at him, because he can't bear scorn. So laugh at the caller as much as you like. Only don't fight him, and don't answer him.
-
-If you don't believe in a devil, keep the picture anyway. Something is keeping you from being all that you could be, and it does it with nothing stronger than a nagging call. Nobody stalks a man who isn't worth having.
+And look at what is crouching there. It isn't a dragon. It is a pipsqueak with a telephone. Martin Luther was the monk who started the Protestant Reformation. He said that if the devil won't leave any other way, you should jeer at him, because he can't bear scorn. So laugh at the caller as much as you like. Only don't fight him, and don't answer him.
 
 Don't open the door. James, one of the first leaders of the church, put it as a promise: "Be subject therefore to God. Resist the devil, and he will flee from you." To resist him is simply not to answer. He has nothing else.
 
-Well, he has one small trick left. He points at another man and whispers, "Look at him. He has it under control."
+He does have one small trick. He points at another man and whispers, "Look at him. He has it under control."
 
 <!-- SOURCES (Chapter 13): every quote below is from the research files; check each against its page before publishing.
 - "Within seconds after cumming, the phase shift in mental acuity that I felt was simply astounding." — r/NoFap, "decided to relapse on purpose to see if my…", http://www.reddit.com/r/NoFap/comments/1d3k4w/decided_to_relapse_on_purpose_to_see_if_my/ (via YBOP, https://www.yourbrainonporn.com/rebooting-porn-use-faqs/what-is-the-chaser/; Reddit original not opened. The book reads the "phase shift" as a change for the worse and assumes "a long break"; check the thread.)
@@ -139,3 +147,23 @@ Well, he has one small trick left. He points at another man and whispers, "Look 
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
 
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
+
+<!-- 2026-11-21 five-star pass (editor H2): 'Just One Little Look' (23-just-one-little-peek.md) was dissolved into this chapter as the section 'One little look' plus the poisoned-cookie paragraph in 'How to leave it unanswered'. The two devil paragraphs in 'At the door' were cut (the argument lives in 'Fit for Service'); Luther and James 4:7 stay. Cut text is in the pass's parked-H2 file. The dissolved chapter's source notes follow, unchanged. -->
+
+<!-- SOURCES (Chapter 23): every quote below is from the research files; check each against its page before publishing.
+- "in the past I 'cheat' very often" — a reader of EasyPeasy, talkingsober.com, https://talkingsober.com/t/easypeasy-is-it-worth/189461 (source: "in the past I 'cheat' very often - looked at 'soft' photos as alternatiive to get my body 'ready'."; research/round2/easypeasy-readers.md). This replaces the r/NoFap line "I looked up one word", which came from mirror listings with no permalink.
+- "you're most vulnerable to temptation when you're weak and when you think you're strong" — Craig Groeschel, Life.Church, "When the Urge Is Too Strong", https://www.youtube.com/watch?v=7xzzJ6uLnbQ (professional captions; research/round2/sources-log.md)
+- "just a poisoned cookie." — NoFap forum, "Aren't women amazing? 10 Months of NoFap" (username not confirmed), quoted on YBOP: https://www.yourbrainonporn.com/rebooting-accounts/rebooting-accounts-page-2/age-23-no-brain-fog-shyness-fading-more-motivation-creativity-feeling-connected-to-other-people-again-drive-to-leave-comfort-zone/ (source: "Porn is just a poisoned cookie."; he said it of porn, the book applies it to the habit)
+- Not quoted: David on the rooftop (2 Samuel 11:2).
+- Scripture (World English Bible): Job 31:1.
+-->
+
+<!-- 2026-11-20 structure pass (James: right sections in the right chapters, right sizes, one flow): Job's verse is now quoted in the body (Job 31:1, WEB, split around 'he said') in place of a pointer to the epigraph. -->
+
+<!-- 2026-11-20 (James): callback to the four instructions from 'Just Once' (say it once and outright; give no reason; don't let him down gently; never answer again), restated in place with no pointer back. -->
+
+<!-- 2026-11-20 (James, at printed Ch 44: emphasize that David's look ultimately cost the kingdom): new paragraph after the Job and David lines. Retold, not quoted: 2 Samuel 12:10 (the sword shall never depart from your house); 13:1-29 (Amnon, Tamar, Absalom); 15:13-30 (David flees Jerusalem, weeping, barefoot); 16:15 (Absalom in Jerusalem); 18:9-33 (Absalom's death). The later division of the kingdom is NOT claimed here, since Scripture ties that to Solomon (1 Kings 11). -->
+
+<!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): pastor: 'and what he did next'. (The method check asked to cut this paragraph; it stays because James asked for it on 2026-11-20.) -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

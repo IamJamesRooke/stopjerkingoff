@@ -6,9 +6,11 @@
 
 Ask a man why he wants to stop and he'll usually give you one of three answers: his conscience, his energy, or his wife.
 
-He almost never mentions the plain slavery of it. Men have bled to end slavery wherever they've found it. Yet here is a man who puts the collar on himself every night and calls it his private business. The strangest part is something he never notices. On the nights when nothing stops him, he does it and wishes he were a man who didn't. The only time the habit looks precious is when he's trying to cut down, or when a week at the in-laws rules it out.
+He almost never mentions the plain slavery of it. Men have bled to end slavery wherever they've found it. Yet here is a man who puts the collar on himself every night and calls it his private business. The strangest part is something he never notices. On the nights when nothing stops him, he does it and wishes he were a man who didn't. The only time the habit looks precious is when he's trying to cut down, or when something rules it out.
 
 One cost of that slavery needs no doctor, no pastor and no argument about whether it's a sin. All it needs is a clock.
+
+This chapter and the few after it count what the habit costs. None of it is here to scare you into stopping. Fear never worked. It is here because a thing that gives nothing and costs this much takes no willpower to leave.
 
 ## Do the math {-}
 
@@ -21,8 +23,6 @@ Now and then a man works out what a week costs him, and that's unpleasant enough
 Be honest about where the time goes. The act is the smallest part of it.
 
 **The hunt.** If porn is still in the picture, you know about the hunt. Some men end the night with a hundred tabs open, still searching for the one video that will do. If porn is gone, the hunt has only moved. Now it's a scroll through a feed that was supposed to be innocent. Or it's a slow search through your own memory for a scene that still works.
-
-**The chase.** Add the hours lust spends on real women. Count the hours on dating apps, the messages you drafted three times, and the evenings spent on someone you knew was wrong for you. Count the money as well: the drinks, the gifts, the subscriptions. None of it was courtship. A man courting a wife is building something. This was the itch, spending your time and your wages on its own account.
 
 **The slump.** You know the half hour afterward, when you lie there like a dropped coat. Sometimes it's the whole flat evening. Do that daily and it adds up to lost days.
 
@@ -42,17 +42,11 @@ Every other decision in your life gets weighed. You look at what you'd gain and 
 
 A young man who fought this for nineteen years said: "I can't tell you how many years I've wasted battling with the lust". Nobody can hand those years back. But he has decades still to come, and so do you.
 
-The men who've stopped all report one surprise: how much room there suddenly is. One says, "I'm actually reading books again for the first time in a decade". Another took up the piano in the space the habit left behind. Put that room to one practical use. Pick one goal you could reach in three or four months, and pour the hours into that.
+Men who've stopped report one surprise: how much room there suddenly is. One says, "I'm actually reading books again for the first time in a decade". Another took up the piano in the space the habit left behind. Put that room to one practical use. Pick one goal you could reach in three or four months, and pour the hours into that.
 
-Soon you'll be making your decision, if you haven't made it already. Staying free after that takes one thing: you don't do it, and you don't fall for "just this once". If you're ever tempted by that phrase, remember what it costs. It doesn't cost you ten minutes. It costs you the years.
-
-And if you're ever helping a friend out of this trap, try this. Tell him you know a man who turns down a month's extra vacation every year, with full pay. When he asks who would be that foolish, say to him, "You!" It's rude, but it works.
+Soon you'll be making your decision. Staying free after that takes one thing: you don't do it, and you don't fall for "just this once". If you're ever tempted by that phrase, remember what it costs. It doesn't cost you ten minutes. It costs you the years.
 
 Paul has a phrase for what you're about to do: "redeeming the time". To redeem a thing is to buy it back, the way a man buys back the watch he pawned. Those hours were always yours. You're about to walk in and take them back, and it won't cost you anything.
-
-One of the oldest prayers in the Bible asks for a single thing: "So teach us to count our days, that we may gain a heart of wisdom."
-
-You've counted them now. Go and spend them well.
 
 Time is the cost you can count. The others are harder to see, because you have trained yourself not to look.
 
@@ -80,3 +74,6 @@ Time is the cost you can count. The others are harder to see, because you have t
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
 
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
+
+
+<!-- 2026-11-21 five-star pass (editor H2): structural cuts, moves and repairs from the outside review and the cold-listener report. Cut text is kept in the pass's parked-H2 file; source notes above still stand for anything cut. -->

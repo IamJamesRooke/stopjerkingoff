@@ -12,7 +12,7 @@ Because it isn't a habit.
 
 Jesus had the right word for it. "Everyone who commits sin is the bondservant of sin," he said. A bondservant is a slave. Two thousand years before anyone studied addiction, he had already named it. A man with a habit is in charge of it. This thing is in charge of you. Call it sin, or addiction, or a trap. This book uses all three. It will go on saying "the habit" as well, because that is what men call it. But never forget what it is. IT'S A MASTER, NOT A HABIT.
 
-And there is only one of him. What sends you to the bathroom is what opens the site. It is also what makes you say yes to a woman you ought to walk away from. They look like separate habits. One master gives the orders.
+And there is only one of him. What sends you to the bathroom is what opens the site. They look like separate habits. One master gives the orders.
 
 And the joke of it is his size. For years you have been taking orders from a squatter in your own back room.
 
@@ -20,15 +20,15 @@ The men who have gotten out reach for the same word without being told. One of t
 
 That is why it seems so hard to "give up". The slave has come to believe his master is also his comforter. He thinks he gets a real pleasure or a real crutch out of it. He thinks life without it would have a hole in the middle.
 
-Now the good news. Once you see how the master holds you, and why you really reach for the habit, you'll stop. Just like that. A few weeks from now only two mysteries will be left. One is how it ever had a grip on you. The other is why you can't get your friends to see what you see.
+Now the good news. Once you see how the master holds you, and why you really reach for the habit, you'll stop. Just like that. Before long only two mysteries will be left. One is how it ever had a grip on you. The other is why you can't get your friends to see what you see.
 
 ## The quiet trap {-}
 
-What makes this trap so neat is how quiet it is. Your own flesh supplies the bait, and the world stands around telling you it isn't a trap at all.
+The trap is quiet. Your own flesh supplies the bait, and the world stands around telling you it isn't a trap at all.
 
-Think about how a boy walks in. With cigarettes there's at least a cough, and a health warning printed on the box. With porn there's the jolt of knowing he's looking at something he shouldn't. With his own hand there's nothing of the kind. There's no dealer, no price, no hangover and no smell on his clothes. It's his own body, in his own bed, and it happened half by accident. No alarm bell rings. Why would one?
+A boy gets no warning. Cigarettes at least bring a cough, and a label on the box. His own hand brings no dealer, no price, no hangover and no smell on his clothes. No alarm bell rings. Why would one?
 
-Later something does feel wrong: the first guilt, or the first prayer he doesn't quite want to finish. But the routine is already laid down. From then on he lives like every other man in the trap. He wonders why he keeps doing it, hopes his own boys never start, and every so often tries to break out.
+Later something does feel wrong: the first guilt, or the first prayer he doesn't quite want to finish. But the routine is already laid down. From then on he lives like every other man in the trap. He wonders why he keeps doing it, and every so often he tries to break out.
 
 So whose fault is it? One man who got out said it well: "I would say it is our fault and not our fault at the same time". He's right on both counts. Nobody chooses to walk into the trap, but a man does have to choose to walk out.
 
@@ -38,7 +38,7 @@ A few days of that and his resolve goes soft. "I picked a bad week. I'll do it w
 
 And each year the calm weeks seem fewer. He's left home, there's a job, rent, a wife, small children. Life, he decides, just gets more stressful as you go.
 
-It doesn't. He's mixing up responsibility with stress. He wasn't carefree at fourteen. He was a bundle of nerves. What has grown is the habit's share of the load. It doesn't calm a man down. It winds him up, quietly, one guilty night at a time: another secret to keep, another promise broken, another morning started already behind. He blames the job.
+Not as much as he thinks. He's mixing up responsibility with stress. He wasn't carefree at fourteen. He was a bundle of nerves. What has grown is the habit's share of the load. It doesn't calm a man down. It winds him up, quietly, one guilty night at a time: another secret to keep, another promise broken, another morning started already behind. He blames the job.
 
 ## The two causes {-}
 

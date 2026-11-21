@@ -12,27 +12,23 @@ Ask one more question. Who gains from your habit?
 
 You don't. So who does? There are companies that earn more the longer you stay aroused, alone and tired. And behind the companies, something does better when men are numb and spent. A Christian has a name for that something, and Peter warned the people he loved about him: "Be sober and self-controlled. Be watchful. Your adversary, the devil, walks around like a roaring lion, seeking whom he may devour." If you don't believe in a devil, call it a business model. It is working on you either way.
 
-And it never has to fight you. Take a man with people to love and work to do. Perhaps he has something to build that would do some good in the world. How do you stop him? Show him a little skin on a screen and he takes himself off the field. Twenty minutes later he is spent, and no use to anybody until tomorrow. Tomorrow you can do it again. It's the cheapest victory there is. Notice how little imagination it takes. The enemy of mankind has one trick, and it is the one that works on a boy of fourteen.
+And it never has to fight you. Take a man with people to love and work to do. Perhaps he has something to build that would do some good in the world. How do you stop him? Show him a little skin on a screen and he takes himself off the field. Twenty minutes later he is spent, and no use to anybody until tomorrow. Tomorrow you can do it again. It's the cheapest victory there is. The enemy of mankind has one trick, and it is the one that works on a boy of fourteen.
 
 None of that is an excuse. The apostle James won't let a man say the devil made him do it: "each one is tempted when he is drawn away by his own lust and enticed." The bait is dangled, but the appetite is yours. That is good news, because it means the way out is yours as well.
 
 Now think what all this says about you. Nobody bothers to distract a man who doesn't matter. You were worth taking out of the fight.
 
-## The king on the roof {-}
-
-Think of David on his roof again, in the year he sent his army to war and stayed home. And think of Uriah, the soldier he wronged. Called back from the front, Uriah would not go home to his own bed while his brothers slept in the field. David got him drunk, and even drunk he slept at the palace door like a man on duty.
-
-Uriah, drunk, was fit for service. David, sober, was no use to anybody. Lust had taken the commander off the field without a fight.
+It worked on a king. Remember the palace door: Uriah, drunk, was fit for service. David, sober, was no use to anybody.
 
 ## Drunk on duty {-}
 
-You may be a Christian. You may be on God's side, and he does love you. "There is therefore now no condemnation" is as true today as it ever was. And you were made on purpose. Paul says the work was planned as well as the man: "we are his workmanship, created in Christ Jesus for good works, which God prepared before that we would walk in them." There is something with your name on it that nobody else is going to do.
+You may be a Christian, on God's side and loved by him. "There is therefore now no condemnation" is as true today as it ever was. And you were made on purpose. Paul says the work was planned as well as the man: "we are his workmanship, created in Christ Jesus for good works, which God prepared before that we would walk in them." There is something with your name on it that nobody else is going to do.
 
 But a man ruled by lust is still the soldier who shows up drunk for duty. He is loved, he is enlisted, and he is unfit for service. He can't fight at full strength, and the people counting on him get less than the whole of him. You know who they are. Paul puts being sober and being armed in one breath: "since we belong to the day, let's be sober, putting on the breastplate of faith and love, and for a helmet, the hope of salvation." Sober comes first, and then the armor.
 
-So get the order right. The people who know most about getting sober learned this the hard way. Whatever you put ahead of your sobriety, they say, you will lose. For a Christian, God comes first. But getting sober is how a man gets back to putting him there. Putting sobriety first doesn't mean building your life around it. It means settling it, so you can get on with everything else. A sober soldier doesn't spend the day thinking about drink. He does his job.
+So get the order right. Men who have quit drinking have a saying that fits here: whatever you put ahead of staying sober, you will lose. Read "sober" as "free of lust". For a Christian, God comes first, and getting free is how a man gets back to putting him there. Putting it first doesn't mean building your life around it. It means settling it, so you can get on with everything else. A sober soldier doesn't spend the day thinking about drink. He does his job.
 
-Here is the good news, and the reason this book exists. Lust is not hard to settle. Nobody is sending you on a ten-year campaign. You have read this far, and you know what lust is: a trick, an itch that feeds itself, a lie about comfort. It doesn't take courage to put down a thing you have seen through. Save your courage for the service. You will need it there.
+Here is the good news, and the reason this book exists. Lust is not hard to settle. Nobody is sending you on a ten-year campaign. You have read this far, and you know what lust is: a trick, an itch that feeds itself, a lie about comfort. It doesn't take courage to put down a thing you have seen through. Save your courage for the service. You will need it there. The first job will be small: one man who is still where you were.
 
 And being fit is not the price of being loved. It is what a loved man is for.
 

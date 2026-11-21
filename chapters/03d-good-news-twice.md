@@ -24,15 +24,13 @@ Grass grows back.
 
 Once you stop walking the path, the Little Monster starves, and he starves fast.
 
-It's never too late. One man who wrote about it got free in his forty-third year. If you've been at this for decades, or several times a day, take heart. It's just as easy for you as for the man who does it once a month, and in one way it's better. The further down it has taken you, the bigger the relief. Men go from daily to nothing in one step. The so-called withdrawal is a few restless evenings, and a man can even enjoy them, because he knows what he is hearing. It is the squatter's stomach, rumbling.
+It's never too late. One man who wrote about it got free in his forty-third year. If you've been at this for decades, or several times a day, take heart. It's just as easy for you as for the man who does it once a month, and in one way it's better. The further down it has taken you, the bigger the relief. Many men go from daily to nothing in one step. The so-called withdrawal is a few restless evenings, and a man can even enjoy them, because he knows what he is hearing. It is the squatter's stomach, rumbling.
 
 Go back to Paul's words: "the flesh lusts against the Spirit, and the Spirit against the flesh". Paul never says the flesh is beaten by more flesh, by a harder jaw and a tighter fist. The sentence just before it, Galatians 5:16, reads: "But I say, walk by the Spirit, and you won't fulfill the lust of the flesh." He puts the weight on what to walk toward.
 
 In his letter to the Romans he does say to put sin to death. But notice how he says it: "if by the Spirit you put to death the deeds of the body, you will live." The Spirit does the heavy lifting.
 
 Back in Galatians, a few verses on, he lists what grows in a man who walks by the Spirit. The last item on the list is self-control. He calls it a fruit, and fruit grows on a tree. Nobody ever got an apple by clenching his teeth.
-
-So the flesh is the easy part. The hard part is everything you have been told.
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 03-the-flesh.Rmd; the source notes for everything here are in that file. -->
 

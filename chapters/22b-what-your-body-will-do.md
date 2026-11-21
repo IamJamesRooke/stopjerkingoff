@@ -14,11 +14,11 @@ A man who stops is often caught off guard by his own body. It goes on being a ma
 
 **Wet dreams.** Sooner or later you'll probably have one. Doctors describe them as "orgasms during sleep that happen without conscious control". Sin needs a decision, and you weren't there to make one. It is not a sin, and it is not a slip. You have nothing to confess and nothing to reset. Change the sheets and carry on. But don't lie awake afterward replaying the dream. That part you *are* awake for.
 
-**A flat spell.** Some men find that desire switches off altogether for a while. The forums call it the flatline. It is not a slip, and it is not damage. But there is a trap inside it, and the trap has sent a great many men back. So it gets a warning of its own.
+**A flat spell.** Some men find that desire switches off altogether for a while. The forums call it the flatline. It is not a slip, and nothing suggests it is damage. But there is a trap inside it, and the trap has sent a great many men back. So it gets a warning of its own.
 
 ## The trap in the flat spell {-}
 
-It goes like this. A man stops, and for the first days his desire is loud. Then, somewhere in the first couple of months, it goes quiet. He stops waking up hard. A beautiful woman walks past and nothing stirs, and he feels unplugged below the waist. One medical student wrote that his body "literally 'died' on me. I lost my libido completely and felt depressed."
+It goes like this. A man stops, and for the first days his desire is loud. Then, somewhere in the first couple of months, it goes quiet. He stops waking up hard. A beautiful woman walks past and nothing stirs, and he feels unplugged below the waist. One man wrote that his body "literally 'died' on me. I lost my libido completely and felt depressed."
 
 Nobody warned him, so he draws the obvious conclusion. Stopping has broken him.
 
@@ -30,9 +30,9 @@ The check can't even tell you anything. If your body answers, the voice says, "G
 
 So what is really happening? No study has measured the flat spell. All I can give you is what thousands of men report, and the likeliest reason for it. For years your body was flooded with more stimulation than any man was built for. It coped by turning its own sensitivity down. Take the flood away, and for a while ordinary life isn't loud enough to register. Then the dial comes back up.
 
-The flat spell is not damage, then. It is repair. A man in bed with the flu doesn't run a marathon to prove his legs still work. He rests, and he gets well.
+So the flat spell is most likely repair, not damage. A man in bed with the flu doesn't run a marathon to prove his legs still work. He rests, and he gets well.
 
-How long does it last? Some men never get one at all. Most who do say a week or two. For a few it runs much longer. There is no timetable, so don't measure yourself against one. The psychiatrist who treats porn addiction tells his patients the flat feeling is generally temporary. And one man, who went through a long one, reported from the far end: "the other side is beautiful".
+How long does it last? Some men never get one at all. Most who do say a week or two. For a few it runs much longer. There is no timetable, so don't measure yourself against one. Dr. Kanojia tells his patients the flat feeling is generally temporary. And one man, who went through a long one, reported from the far end: "the other side is beautiful".
 
 See the flat spell for what it is. The caller has stopped calling, and you are worried about the silence. He has no desire left to use on you, so he uses fear. Enjoy the quiet. It is the easiest stretch you will get.
 
@@ -44,19 +44,17 @@ One caution, and it matters. If low desire or erection trouble lasts more than a
 
 ## If your body doesn't work with your wife {-}
 
-Some men find, after years of the habit, that their body doesn't answer properly when they are with their wife. How long until it does? Nobody can give you a date. One medical student who wrote about it was well in a little over a month. One recovery coach went through it himself. He says it was about two and a half months before things worked at all, and another six of gradual progress after that. A few men report longer. A sex therapist who has written a great deal about it asks his patients to pause for a time, and then retrains them. He keeps reminding them that the restraint is "only temporary". If you are under a therapist's care for this, follow the treatment, and tell the therapist what you believe.
+Some men find, after years of the habit, that their body doesn't answer properly when they are with their wife. How long until it does? Nobody can give you a date. The medical student whose girlfriend blamed herself was well in a little over a month. One recovery coach went through it himself. He says it was about two and a half months before things worked at all, and another six of gradual progress after that. A few men report longer. A sex therapist who has written a great deal about it asks his patients to pause for a time, and then retrains them. He keeps reminding them that the restraint is "only temporary". If you are under a therapist's care for this, follow the treatment, and tell the therapist what you believe.
 
 So be patient with your body, and tell your wife what is going on, because the worst part for her is thinking it's her fault. See a doctor too, since medicines and other conditions can cause the same trouble. And don't "test" things on your own in the meantime. You know what that is.
 
-## Try it and see {-}
+## Nothing to store up {-}
 
-The forums call going without "semen retention", and they promise a great deal for it. Your body doesn't soak semen back up as some kind of fuel. Nobody has shown that holding it raises your testosterone. And a wet dream doesn't "lose" you anything.
-
-Men who stop do say they feel better: more energy, more confidence, more focus. Those are reports, not proof, but there is no mystery in them. A man who has stopped has his evenings back. He sleeps, and he isn't carrying a secret. For the first time in years he has kept a promise to himself. That would put a spring in anybody's step. So don't take the forums' word for it, or mine. Try it and see. If the energy comes, enjoy it as a bonus. You stopped to be free.
+The forums call going without "semen retention", and they promise a great deal for it. Your body doesn't soak semen back up as some kind of fuel. Nobody has shown that holding it raises your testosterone. And a wet dream doesn't "lose" you anything. If you feel better for stopping, as many men say they do, enjoy it as a bonus. You stopped to be free.
 
 One last word. If you're married, none of this means holding back from your wife. She isn't the habit.
 
-Your body will look after itself. What undoes most men is something much smaller.
+Your body will look after itself. But perhaps you think your case is not like other men's.
 
 <!-- 2026-11-20 structure pass (James: right sections in the right chapters, right sizes, one flow): NEW CHAPTER, split out of 'The First Weeks' so that chapter is about urges and this one is about the body. Also holds the question about erection trouble with a wife, moved from 'Questions Men Ask' and turned from a Q&A into prose. 'Relapse' in the heading became 'slip' (the book's own word). Epigraph Psalm 139:14 (WEB, first sentence; checked 2026-11-20). All quotations are unchanged; their sources are listed in the comments of 22-the-first-weeks.Rmd and 29-feedback.Rmd. -->
 

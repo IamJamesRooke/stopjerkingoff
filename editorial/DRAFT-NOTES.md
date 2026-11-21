@@ -468,3 +468,12 @@ James: the Introduction and chapters 1 to 5 must grip and reward quickly. Rewrit
 ## 2026-11-21 room-by-room reorder
 
 James (after listening to chapter 6): still too much front-loading; think like an addict, easiest wins first; do not name the marriage line too soon. Three chapters moved, joins rewritten. Before and after: editorial/ROOM-ORDER-2026-11-21.md. Rules: last section of STYLE.md. Backup branch: backup/pre-room-order-2026-11-21.
+
+
+## Revision 2026-11-21: line-edit sweep and five-star pass
+
+- Line-edit sweep: every chapter read twice, 694 edits (editorial/LINE-EDIT-SWEEP-2026-11-21.md). Fixed vocabulary: porn = the screen; masturbation / the hand = the act; the habit = the two together; lust = the wider appetite.
+- Two outside reads of the swept book: a cold listener (editorial/COLD-LISTENER-2026-11-21.md) and a five-star gap review (editorial/FIVE-STAR-REVIEW-2026-11-21.md).
+- Five-star pass (editorial/FIVE-STAR-PASS-2026-11-21.md): 66 chapters became 61, about 63,200 words became about 58,000. One home per idea (superpowers, the counter, David, the drunk soldier, "one to test it"). The Ladder folded into Every Man in the Trap; At Least I'm Not Him dissolved; The King Who Turned His Face to the Wall merged into The Man Led by a Woman; Just One Little Look merged into Just Once; Porn, and Sex merged into Questions Men Ask. New chapter The Chase (split from The Man Led by a Woman). The lies about real women moved from chapter 11 to The Collector and the Customer. "What to do tonight" added to The Easy Method. The couch man's first week added to The First Weeks. One story about when to stop: no vow while reading, if already stopped stay stopped, the one decision is at The Final Step. Timetables became testimony. Now reordered so the house, the couch man and the button land last. For the People Beside Him is an unnumbered afterword. Rules: ten, not twelve.
+- Rulings held: no invented narrator story; Driscoll stays credited; the pill and abortion sentences stay (author's call); method lines, marriage line, Bible text and real quotes untouched.
+- Open for James: a short true first-person account of the narrator (anonymous) for The Easy Method; whether the pill and abortion sentences stay; the store description should say plainly that a Christian wrote it.

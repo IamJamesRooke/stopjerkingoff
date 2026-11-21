@@ -10,9 +10,13 @@ You don't need that proved to you. Ask the man who said "never again" last night
 
 That is not an accusation. It was true of the man writing this, and it is the reason this book exists. It is true of half the respectable men you will meet today.
 
-And look at who has done it to us. It wasn't a dragon. A grown man, trusted with a job and a family, can't keep his word against a squatter the size of a house cat. That ought to annoy you. Good. Be annoyed at the right party.
+And look at who has done it to us. It wasn't a dragon. A grown man, trusted with a job and a family, can't keep his word against a squatter the size of a house cat. If that annoys you, good. Be annoyed at the right party.
 
-The reverse is also true. A man who can say no has a yes that is worth something. His wife can rest her weight on it. So can his children, and the men beside him. So can he. You were made for something, and this book is about getting you fit for it.
+The reverse is also true. A man who can say no has a yes that is worth something. His wife can rest her weight on it. So can his children, and the men beside him. So can he.
+
+Don't hear a clenched jaw in that. A no costs nothing when you want nothing on the other side of it.
+
+You were made for something, and this book is about getting you fit for it.
 
 None of this is new. Three thousand years ago, lust brought down a king no army could beat.
 
@@ -35,3 +39,5 @@ None of this is new. Three thousand years ago, lust brought down a king no army 
 <!-- 2026-11-21 opening rewrite (James: the opening must grip and reward quickly; tested on three cold readers). Before and after: editorial/OPENING-REWRITE-2026-11-21.md. Cut text is in editorial/PARKING.md. -->
 
 <!-- 2026-11-21 room-by-room reorder (James approved: nothing arrives before the reader needs it; the rooms come in the order a man retreats through them). Before and after: editorial/ROOM-ORDER-2026-11-21.md. -->
+
+<!-- 2026-11-21 five-star pass (editor H2): structural cuts, moves and repairs from the outside review and the cold-listener report. Cut text is kept in the pass's parked-H2 file; source notes above still stand for anything cut. -->

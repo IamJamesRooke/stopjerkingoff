@@ -2,15 +2,15 @@
 
 You have said your No. Everything from here on is about living as a free man. The telephone will still ring now and then. Here is what you do about it.
 
-A surgeon turned writer named Maxwell Maltz had a picture worth carrying with you.
+You already know the caller, and you know that answering is what taught him to keep calling. Maxwell Maltz, a surgeon turned writer, adds an armchair to the picture.
 
-Imagine you're sitting in an armchair and the telephone rings. All your life you've jumped up to answer it. Today you stay in the chair. You can hear it perfectly well. You're not pretending it isn't ringing, and you're not gripping the armrests. You just don't get up.
+Imagine you're sitting in it and the telephone rings. It is the same telephone the caller has been using. All your life you've jumped up to answer it. Today you stay in the chair. You can hear it perfectly well. You're not pretending it isn't ringing, and you're not gripping the armrests. You just don't get up.
 
 Notice two things. First, the ringing has no power of its own. A bell is a noise in the air and can't lift a man out of a chair. It only moved you because you had the habit of obeying it. Second, not answering takes no effort. You aren't wrestling the phone. You're doing nothing at all, and doing it comfortably.
 
-Every cue you'll meet is that telephone. It may be the empty house, the photo in the feed, the bed at midnight, the bad day or the message from her. Let it ring. It will stop.
+Every cue you'll meet is that telephone. It may be the empty house, the photo in the feed, the bed at midnight, the bad day, or a message from a woman you had sworn off. Let it ring. It will stop.
 
-You have just done the first of four things: you said it once, and you said it outright. The other three keep it said. Give no reason. Don't let him down gently. Never answer again.
+The caller gets four answers, and you have just given the first: you said it once, and you said it outright. The other three keep it said. Give no reason. Don't let him down gently. Never answer again.
 
 You know your hour: the shower, the empty house, midnight. Expect it. A bell you saw coming is only a bell.
 
@@ -26,13 +26,15 @@ That's what you're after, and it's within reach. You don't have to wait to becom
 
 You are already a free man.
 
-On good days and bad, don't build your life around having stopped. If you do, you'll turn something that cost you nothing into a real sacrifice. You haven't given up living. You've been healed, and you've been let out. The habit was a pest in the back room. It was never meant to be the story of your life. The weeks will go by, and your energy and your conscience will recover. Your good days will be better and your bad days milder than they ever were.
+On good days and bad, don't build your life around having stopped. If you do, you'll turn something that cost you nothing into a real sacrifice. You haven't given up living. You've been let out. The habit was a pest in the back room. It was never meant to be the story of your life. The weeks will go by, and your energy and your conscience will recover. Your good days will be better and your bad days milder than they ever were.
 
 And whenever the thought of it crosses your mind, tomorrow or in forty years, be glad. You're free.
 
 ## A final warning {-}
 
-Men who have walked out and lived happily for years do go back in. A man who finds stopping easy can find starting again just as easy.
+Men who have walked out and lived happily for years do go back in. People assume such a man was still hooked. Rarely. Stopping was so easy that he lost his respect for the trap. He thought, "I could allow myself one now and then. If things go badly, I know how to get out again."
+
+It doesn't work like that. Stopping the habit is easy. Controlling it is impossible. An easy door swings both ways.
 
 **Don't fall for that.**
 
@@ -44,7 +46,7 @@ Paul once wrote to people who were already free: "Stand firm therefore in the li
 
 You're free, so stand firm.
 
-One job remains. Sometime in the first week or so, tell one person you trust.
+Sometime in the first week or so, tell one person you trust.
 
 Which person? And who else needs to know?
 

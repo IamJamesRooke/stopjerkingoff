@@ -1,12 +1,12 @@
-# For the People Beside Him {#advice-to-non-users}
+# Afterword: For the People Beside Him {- #advice-to-non-users}
 
 > "Two are better than one, because they have a good reward for their labor. For if they fall, the one will lift up his fellow; but woe to him who is alone when he falls, and doesn't have another to lift him up."
 >
 > — Ecclesiastes 4:9-10
 
-The book is finished. The man it was written for has his blessing and is on his way. This afterword is for a different reader: the people standing beside him. His wife, his parents, his pastor, his friends. If that's you, and you've come straight here, welcome. Wives come first.
+The book is finished. The man it was written for has his blessing and is on his way. These pages are not for him. They are for the people standing beside him: his wife, his parents, his pastor, his friends. If that's you, and you've come straight here, welcome. Wives come first.
 
-If you're the man himself, read it anyway. It shows you how the habit looks from the outside.
+If you are the man himself, you may read over their shoulders. It shows you how the habit looks from the outside.
 
 ## To wives {-}
 
@@ -36,7 +36,7 @@ Don't push the book at him with a speech about what he's doing to his marriage, 
 
 He knows.
 
-He has known for years, and he has preached himself that sermon more often and more harshly than you ever could.
+He has known for years, and he has preached himself that sermon more harshly than you ever could.
 
 One thing is hard to grasp from outside. He doesn't keep doing it because he likes it, whatever he says. He does it because he believes he can't manage without it. He thinks it calms him down, sends him to sleep and gets him through bad days. Underneath sits a deeper dread: that life without it would be gray.
 
@@ -92,7 +92,7 @@ If you're a woman reading for yourself, everything here applies. The Little Mons
 
 ## Help end the silence {-}
 
-Most men got here through silence. The world told them it was healthy, the church told them nothing, and their fathers were too ashamed to speak. So break it for one man. You don't have to become a campaigner. When you see a man grinding through a streak on willpower, point him here. When a friend makes the usual joke, you might just say, "I gave that up, actually. Best thing I've done." And when your son reaches the age, talk to him.
+Most men got here through silence. The world told them it was healthy, the church told them nothing, and their fathers were too ashamed to speak. So break it for one man. You don't have to become a campaigner. When a friend makes the usual joke, you might just say, "I gave that up, actually. Best thing I've done."
 
 Now and then you'll get a blank look or a laugh. More often than you'd think, you'll get a message a week later that begins, "Can I ask you something?"
 

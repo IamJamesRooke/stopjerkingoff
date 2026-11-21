@@ -33,6 +33,41 @@ Men who do it daily tend to think of themselves as weak, and can't see how other
 
 So the men in the trap differ in their brakes, and in where their lust goes, and in nothing else. Line them up, from the shallow end to the deep, and you will find yourself among them.
 
+## The line-up {-}
+
+You may be in it more than once. And notice, as you go, that nearly every man in it has a reason why he is not as bad as the next one.
+
+Start with the one man who isn't in the trap, the man who never started. He's rare, and he shouldn't be smug about it. He's outside by upbringing, luck or the grace of God. Every man inside was once sure he'd never be caught.
+
+- **The beginner.** Usually a boy of twelve or thirteen. Don't envy him. He's a fly strolling about on the rim of the jar.
+- **The nightly man.** Once a day, in bed, lights off. He calls it his sleeping pill. He eases his itch for ten minutes in every twenty-four hours and carries it for the rest.
+- **The streak counter.** When he's doing it, he wishes he weren't. When he's stopped, he feels deprived and counts the days. He has the worst of both.
+- **The single man who'll stop when he's married.** "When I'm married" is the most comfortable way there is of saying "not yet".
+- **The married man.** He thought the wedding would end it. At least, he says, he has never cheated.
+- **The man on porn.** The screen never runs out, so he loses hours where another man loses minutes. He ends up watching things that would have sickened him at eighteen. He isn't a monster, and the way out is no harder for him.
+- **The man who quit porn and kept the hand.** He tells himself the hand alone is a different thing.
+- **The man who keeps it all in his head.** No screen at all. At least, he says, he doesn't look at anything.
+- **The man who says no real woman is involved.** He reads sex stories, or looks at drawings. Or he talks every night to a girlfriend made by a computer. The lust is real, and it is his.
+- **The man led by women.** He follows, flatters, pays and waits. Or he swipes on the dating apps every night and meets nobody.
+- **The collector.** He goes from bed to bed and keeps count, and he takes the number as proof that he is somebody.
+- **The man who pays.** A monthly fee for one woman's private pictures, or a back room, or a trip abroad where nobody knows him. He tells himself it is at least honest.
+
+## One trap {-}
+
+You don't need to envy any of these men, or look down on any of them.
+
+Jesus told a story about two men who went up to the temple to pray. The first was a Pharisee, and the Pharisees were the strictest religious men of that day. He stood and prayed, "God, I thank you that I am not like the rest of men".
+
+Every man in the trap says a version of that prayer. "At least I don't look at porn." "At least it's only once a week." "At least it's only in my head." "At least I've never cheated." "At least I've never paid for it."
+
+The second man was a tax collector, a man everyone despised. He compared himself with nobody. He only said, "God, be merciful to me, a sinner!" Jesus said he was the one who went home right with God that day.
+
+There aren't really any types. There's one trap, and men are standing at different depths in it. The way out is the same for all of them.
+
+Every one of these men is feeding the same small monster. And every "at least" is a room he hasn't opened yet.
+
+Remember the warning about the squatter. Shut one room on him and he doesn't leave. He moves down the hall. So follow him. Start with the man who quit porn and kept the hand, and listen to what he says.
+
 <!-- SOURCES (Chapter 14): every quote below is from the research files; check each against its page before publishing.
 - "Their masturbation isn't a calculated moral decision; it's a compulsion." — Johnathan Arnold, "Is Masturbation a Sin?", Holy Joys, 11 Apr 2026, https://holyjoys.org/is-masturbation-sin/ (the book says "the men who come to him"; check that Arnold is describing people he counsels)
 - "I was beside myself over how I had grieved God and my wife" — Fred, Covenant Eyes comments, 22 Oct 2014, https://covenanteyes.com/blog/three-steps-to-kick-the-habit-of-masturbation/comment-page-4 (same commenter as the "selfish act" quote in Chapter 3)
@@ -72,3 +107,5 @@ So the men in the trap differ in their brakes, and in where their lust goes, and
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Some sections of this chapter moved to the chapters that follow it; their source notes stay listed here. -->
 
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
+
+<!-- 2026-11-21 five-star pass (H3; review items B4 and cold-listener 3.7): 'The Ladder' (14a-the-ladder.md) folded into this chapter as the short list 'The line-up' (one or two sentences a man, no statistics; the pool image kept, the ladder title gone; the man who never started is named as outside the trap). 'At Least I'm Not Him' (14c-at-least-im-not-him.md) dissolved: its closing section 'One trap' (the Pharisee and the tax collector, Luke 18:10-14, quotes from 18:11 and 18:13 WEB) and the hook into 'The Back Door' now end this chapter; the married man went to 'You Would If You Could', the imagination-only man to the same chapter's harem section, the church guy to the handoff file for 'The Locked Door'. The source notes for all of that material were already listed in this file's SOURCES block above. Carried from the dissolved files' comment lines: 2026-11-20 structure pass (both split out of this file); 2026-11-20 Hydra version (the long 'man who buys it in person' bullet and 'The collector' moved to 'The Collector and the Customer'); 2026-11-20 review batch (reader report 5 and 12); 2026-11-21 editorial pass, overnight round and room-by-room reorder. Cut text is in the scratchpad file parked-H3.md. -->

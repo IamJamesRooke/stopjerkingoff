@@ -4,45 +4,29 @@
 >
 > — Proverbs 24:16
 
-This book has no quarrel with the man in the trap. Its quarrel is with the trap. Every man who walks out is a cause for gladness. Only two kinds of reader come to grief.
+This book has no quarrel with the man in the trap. Its quarrel is with the trap. When the method goes wrong for a man, the cause is one of four things. Two keep him from starting, and two trip him once he has.
 
-## The man who goes back in {-}
-
-The first gets free and finds it easy. A year later he is back where he started, half believing the method failed him.
-
-It's like pulling a man out of a flooded river. He lies on the bank coughing and thanking you. Six months later you walk past and he's wading in again.
-
-Please don't be that man.
-
-People assume he went back because he was still hooked. Rarely. Stopping was so easy that he lost his respect for the trap. He thought, "I could allow myself one now and then. If things go badly, I know how to get out again."
-
-It doesn't work like that. Stopping the habit is easy. Controlling it is impossible. An easy door swings both ways.
-
-## The man who won't jump, or jumps and struggles {-}
-
-The second is too frightened to try, or tries and finds it hard going. His trouble is one of four things.
-
-### 1. Fear of failure {-}
+## 1. Fear of failure {-}
 
 Failing is no disgrace. Refusing to try is plain foolishness. What are you protecting by not trying? Nothing. If you try and fail, you're exactly where you are today. If you don't try, you've failed already and saved yourself the trouble of hoping.
 
-### 2. Fear of being miserable {-}
+## 2. Fear of being miserable {-}
 
 Ask the cold question. What terrible thing will happen to you if you never touch the habit again? Nothing. All the terrible things lie the other way.
 
-The panic itself is part of what the habit did to you, and it passes. Being rid of that fear is the best thing you gain. If it rises, breathe slowly. If people are grinding you down, step outside. Stand in the parking lot for five minutes.
+The panic itself is part of what the habit did to you, and it passes. If it rises, breathe slowly. If people are grinding you down, step outside. Stand in the parking lot for five minutes.
 
-And if you feel like crying, cry. We teach boys to clench their jaws and swallow it, and it does them no good. King David wept, and so did Jesus. The clock is on your side. Every hour that passes, the Little Monster is weaker.
+And if you feel like crying, cry. We teach boys to clench their jaws and swallow it, and it does them no good. King David wept, and so did Jesus.
 
 One serious word. What you feel may be darker than a bad day. If you find yourself thinking about harming yourself, put this book down and talk to someone today: a doctor, a pastor, a crisis line. That isn't the Little Monster, and no book is the right tool for it.
 
 And one more, said as gently as I know how. For some men this habit didn't begin with curiosity. It began after something was done to them as children. One therapist was abused himself. He says that most of the men who come to him were too, and that most have never told a soul. If that is part of your story, hear two things. What was done to you was not your sin. And telling someone who knows how to help, a counselor trained in trauma, is part of getting free. This book can clear away the lies about the habit, but it can't do that work for you. The Appendix says where to start.
 
-### 3. Not following the instructions {-}
+## 3. Not following the rules {-}
 
-A man says the method didn't work for him. Then he describes how he ignored nearly every instruction in it. He cut down, kept the folder, skipped the final step and counted days. The instructions are gathered on one page near the end of this book, so that nobody can say he wasn't told.
+A man says the method didn't work for him. Then he describes how he ignored nearly all of it. He cut down, kept the folder, skipped the final step and counted days. The rules are gathered on one page near the end of this book, so that nobody can say he wasn't told.
 
-### 4. Misunderstanding the instructions {-}
+## 4. Misunderstanding the rules {-}
 
 These are the most common, in the words men use.
 
@@ -56,11 +40,9 @@ It doesn't matter if the habit crosses your mind fifty times a day. What matters
 
 Nobody can give you a date, and you don't need one. The leftover itch is so faint that you can't tell it from hunger, tiredness or a flat mood. That's why willpower quitters never know whether they've made it. Months later they feel hungry or low, and their mind says, "That's it again. You're owed one."
 
-So don't wait for the urge to die. A man who waits keeps asking, "Is it gone yet? Am I really free if I still feel this?" Those questions breed the very fear he hoped would go. If a twinge comes and you're a praying man, pray. One man wrote that whenever he does, he feels completely normal again. If you don't pray, say "I'm free" and get on with your day.
+So don't wait for the urge to die. A man who waits keeps asking, "Is it gone yet?" That question breeds the very fear he hoped would go. The same holds for the moment when you know you're free. Don't wait for that either. You were free when you decided.
 
-**"The moment when I know I'm free hasn't come."**
-
-Then stop waiting for it. Waiting builds a new fear out of nothing. You were free the moment you decided. The only job left is to be glad about it.
+If a twinge comes and you're a praying man, pray. One man wrote that whenever he does, he feels completely normal again. If you don't pray, say "I'm free" and get on with your day.
 
 **"I still want it."**
 
@@ -68,7 +50,7 @@ Then ask which part of you is speaking. A twinge is not a wish. The Little Monst
 
 **"I feel as if I've stopped living."**
 
-Why? Nobody asked you to. For a week or two you'll have a faint itch in the background, hardly worth noticing. You've had that itch for years, every hour you weren't feeding it. You had it at work, at your mother's table and all night while you slept, and it never spoiled a meal. If you hadn't stopped, you'd have carried it to the grave.
+Why? Nobody asked you to. The faint itch in the background is nothing new. You've had it for years, every hour you weren't feeding it. You had it at work, at your mother's table and all night while you slept, and it never spoiled a meal. If you hadn't stopped, you'd have carried it to the grave.
 
 The habit never added to a single occasion. It took from them. So go to the party and the wedding and the beach. Stay late and enjoy your dinner. Don't envy the smooth talker across the room with his three phone numbers. If he goes home alone to what you've left behind, he'd change places with you. You're not the one going without.
 
@@ -78,7 +60,23 @@ Then something hasn't clicked yet. It happens. Some men understand every word of
 
 But hear this as well. If you have followed all of it, read the book twice, and are still struggling after a couple of months, that doesn't mean you misunderstood. Some men need a counselor as well as a book. That is the next step, and no defeat. And if you have felt low most of every day for more than two weeks, see a doctor.
 
-Two questions are bigger than the rest, and they get room of their own.
+## And what about sex? {-}
+
+This book has nothing against sex. It's against the counterfeit.
+
+You already know where the line is. Sex belongs inside marriage. The letter to the Hebrews, in the New Testament, says, "Let marriage be held in honor among all, and let the bed be undefiled". That isn't because sex is dirty. It's because sex is strong. It ties two people together, and lust wants the tie without the promise. Within marriage, sex is a gift, and a married man who has stopped the habit shouldn't hold back from his wife.
+
+If you're not a believer, the test in your pocket gives the same answer. A gift, inside a promise already made? Or a hit?
+
+**"I'm single."**
+
+Then keep it for marriage. What you keep isn't lost. It is saved for her. Don't go looking for somebody to use in place of your hand. That is the same lust with another person in it.
+
+**"I've already lived the other way."**
+
+Nobody here is piling on guilt. The man who wrote this book is no angel. Christians aren't the people who got it right. They're the people who finally admitted they couldn't, and asked for help. Your past is forgiven the same way as everything else in this book. You confess it, and you start again.
+
+That leaves the question nobody likes to ask out loud. What if you fall?
 
 <!-- SOURCES (Chapter 29): every quote below is from the research files; check each against its page before publishing.
 - "Whenever i feel little urge and i pray, i feel completely normal and i also get strength." — Gideon, Covenant Eyes comments, 16 Aug 2015, https://covenanteyes.com/blog/three-steps-to-kick-the-habit-of-masturbation/comment-page-4
@@ -109,3 +107,15 @@ Two questions are bigger than the rest, and they get room of their own.
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Some sections of this chapter moved to the chapters that follow it; their source notes stay listed here. -->
 
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
+
+<!-- 2026-11-21 five-star pass (H5): 'Porn, and Sex' (29a-porn-and-sex.md) merged into this chapter as its last section, 'And what about sex?'. Its 'What about porn?' question and the paragraph on what the culture sells men and women were cut (parked). 'The man who goes back in' moved into 'A final warning' in Let It Ring, without the river. The comment lines below came with the merged file. -->
+
+<!-- from 29a-porn-and-sex.md: -->
+
+<!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 29-feedback.Rmd; the source notes for everything here are in that file. -->
+
+<!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): reader report 3 and 5. -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
+
+<!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->

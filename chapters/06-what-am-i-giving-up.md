@@ -12,19 +12,17 @@ Get this straight in your head:
 
 **THE HABIT DOESN'T FILL A HOLE. IT DIGS ONE.**
 
-Lewis's senior devil, Screwtape, admits that hell can't make a pleasure. It can only bend a real one. And once a pleasure has been bent into a craving for the next new thing, he says, it has a signature: "it diminishes pleasure while increasing desire."
-
-You know that signature. Every year you get less out of the habit and want it more.
+You have the proof in your own years. Every year you get less out of the habit and want it more.
 
 ## There's nothing to give up {-}
 
-Once the Little Monster has starved and the Big Monster has been cleared out of your head, you won't want to masturbate. You won't want the porn or the chase either. You won't be resisting them. You simply won't want them, the way you don't want to chew your pen.
+Once the Little Monster has starved and the Big Monster has been cleared out of your head, you won't want to masturbate. You won't want the porn either. You won't be resisting them. You simply won't want them, the way you don't want to chew your pen.
 
 Where does the habit leave a man? On the nights he does it, he's miserable afterward: flat, guilty and a bit disgusted. On the nights he tries not to, he's miserable too, because he feels robbed. He has only two kinds of evening and both are bad.
 
 Think of yourself at a family gathering, slipping off upstairs with your phone. If anyone had known, he wouldn't have thought, "Lucky man, off to enjoy himself." He'd have thought, "Poor man, he can't sit through dinner." You weren't up there for fun. You went because you were uncomfortable without it. No free man behaves like that.
 
-**"But I'd be giving up sex."** No. If you're married, you're about to get it back. The habit has been quietly spending, alone, what belongs to the two of you. Lewis drew a sharp line between wanting a woman and wanting a sensation. The man after the sensation, he said, "wants a pleasure for which a woman happens to be the necessary piece of apparatus." Masturbation cuts out even the apparatus. Ask the men who've stopped what happened to the real thing. One wrote that he'd gained a "stronger real sex drive without wanting an easy release like porn". A married man put it more plainly: "sex feels natural and great with wifey".
+**"But I'd be giving up sex."** No. If you're married, you're about to get it back. The habit has been quietly spending, alone, what belongs to the two of you. Lewis drew a sharp line between wanting a woman and wanting a sensation. The man after the sensation, he said, "wants a pleasure for which a woman happens to be the necessary piece of apparatus." Masturbation cuts out even the apparatus. Ask the men who've stopped what happened to the real thing. One wrote that he'd gained a "stronger real sex drive without wanting an easy release like porn".
 
 **"But I'm single. It's all I've got."** Then all you've got is a rehearsal for being alone. It is a counterfeit, and a counterfeit trains you to be content without the real thing.
 
@@ -52,11 +50,9 @@ The rash isn't the guilt, the tired mornings, the wasted evenings, the distance 
 
 The feeling you keep reaching to relieve is the hole, and the cream dug it. When you stop, the hole doesn't yawn open in front of you. It closes.
 
-Porn and the chase after women work the same way. Porn made the hunger for more porn. The chase made the ache that sends you chasing.
+A skeptic on a recovery forum raised a fair objection. He was halfway through EasyPeasy. If you lost nothing, he said, then nothing would change and you wouldn't notice anything. Of course something changes. The man with the rash loses his cream, and he notices. He also loses the itch, the scratching, the tube in every coat and the dread of running out. When this book says you give up nothing, it means nothing good. You lose a problem and the false cure for it, and you lose them together.
 
-A skeptic on a recovery forum raised a fair objection. He was halfway through EasyPeasy, the online book that inspired this one. If you lost nothing, he said, then nothing would change and you wouldn't notice anything. Of course something changes. The man with the rash loses his cream, and he notices. He also loses the itch, the scratching, the tube in every coat and the dread of running out. When this book says you give up nothing, it means nothing good. You lose a problem and the false cure for it, and you lose them together.
-
-The apostle Paul said the same of his own life, in his letter to the Philippians: "I consider those things that were gain to me as a loss for Christ." Paul had a list of things he'd once counted as profit. He didn't give them up with gritted teeth. He looked at them beside what he'd found, which was Christ himself, and moved all of it to the other side of the ledger. In the next verse he called them "refuse", which is a polite translation. He isn't boasting about a sacrifice. He has seen what the stuff was worth.
+Paul said the same of his own life, in his letter to the Philippians: "I consider those things that were gain to me as a loss for Christ." Paul had a list of things he'd once counted as profit. He didn't give them up with gritted teeth. He looked at them beside what he'd found, which was Christ himself, and moved all of it to the other side of the ledger. In the next verse he called them "refuse", which is a polite translation. He isn't boasting about a sacrifice. He has seen what the stuff was worth.
 
 That's where you're headed. You won't be a man bravely doing without. You'll look at the tube of cream and wonder how you ever thought it was medicine.
 

@@ -26,15 +26,13 @@ Loneliness is a hunger for people, and the habit feeds it a photograph.
 
 ## It's the occasion, not the habit {-}
 
-So here's the list: the bad day, the empty hour, the stuck page, the quiet evening, the sleepless night, the bad date, the lonely room. In every one of them the habit claimed to help. In every one it did no more than quiet, for a few minutes, a restlessness it had caused. Then it handed back your trouble with interest.
+So here's the list: the bad day, the good day, the empty hour, the stuck page, the quiet evening, the sleepless night, the bad date, the lonely room. In every one of them the habit claimed to help. In every one it did no more than quiet, for a few minutes, a restlessness it had caused. Then it handed back your trouble with interest.
 
 It was never the habit that made those moments bearable. The evening off, the warm shower and the clean bed are good in themselves, and the habit was a tax on them. Take away the need for it, and the good times get better and the hard times get easier.
 
 A man who believes he needs the habit to cope will reach for it every time life leans on him. A man who knows he doesn't need it has nothing left to reach for.
 
 Come to me, Jesus says, and I will give you rest. That's better than relief, and you already know the difference between the two. Relief is what you've been buying every night for years, and it has never lasted until morning.
-
-So if the habit never helped, what exactly would you be giving up?
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 05-the-times-we-reach-for-it.Rmd; the source notes for everything here are in that file. -->
 

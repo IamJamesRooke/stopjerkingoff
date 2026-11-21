@@ -1,6 +1,8 @@
 # You Would If You Could {#you-would-if-you-could}
 
-This room belongs to the man with a wife or a girlfriend. He has never touched another woman. He only thinks about them.
+This room has no screen in it. The film plays in a man's own head.
+
+Start with the man who has a wife or a girlfriend. He has never touched another woman. He only thinks about them.
 
 Ask what the fantasy is. It's a rehearsal. In his head he has already said yes. Suppose the woman in his head walked into the room and made the same offer. In the fantasy, he has never once said no.
 
@@ -36,13 +38,33 @@ She deserves better than a man whose loyalty depends on his luck. She deserves a
 
 That man isn't gritting his teeth. He has stopped wanting it, so there is nothing left to offer him.
 
+## Filling the gap {-}
+
+The married man has one more line. At least he has never cheated. He believes he's owed a release every day or two, and his wife is not always of the same mind. She's tired, or pregnant, or away, or they've had a fight. So he "fills the gap", and the film in his head plays while he does.
+
+Her tiredness is no excuse, and the habit doesn't stay inside the gap anyway. Soon it's happening on nights when she would have said yes, because it's quicker, because it asks nothing, because nobody has to be won over. In time he's half glad when she turns over.
+
+And when she does reach for him, he's already spent, or his mind is on a reel she isn't in. He gave the best of it to nobody, and she gets what's left over. One husband wrote, after he finally saw it:
+
+> "I was beside myself over how I had grieved God and my wife"
+
+Whatever you believe about marriage, you promised her this part of yourself. A man who takes it back in secret, a little at a time, is keeping something from her. Some part of her knows it, even if she couldn't tell you what's wrong.
+
 ## The harem in your head {-}
 
-No filter blocks a memory. That's why some men think the reel is the safe option.
+No filter blocks a memory. That's why some men think the film in the head is the safe option. "I don't look at anything. It's all in my head."
 
-C.S. Lewis didn't. He called it a harem of imaginary brides, and he saw what the harem does to a man. The imaginary women are always available. They never refuse, and they never ask a man to give anything up. There is nobody at the other end of any of them. So, Lewis wrote, "this harem, once admitted, works against his ever getting out and really uniting with a real woman." A real woman has moods, needs and a mind of her own. The harem has none, so the real woman starts to feel like hard work.
+Everybody starts there, and the scenes don't stay tame. Soon the mind wants a real face: a coworker, a friend's wife, the girl who serves his coffee. Then it wants "just a photo, to get started".
 
-Then comes his warning: "The danger is that of coming to love the prison."
+This man is proud that no one else's sin is on his screen. But he's the director, the casting agent and the whole audience of his own private movie theater. The women in it never agreed to appear.
+
+Even the husband who only ever pictures his wife is not safe. He's still teaching his body that the finish line is himself, alone, on his own schedule. The version of her in his head never says "not like that" and never needs anything.
+
+C.S. Lewis saw all this. He called it a harem of imaginary brides, and he saw what the harem does to a man. The imaginary women are always available. They never refuse, and they never ask a man to give anything up. There is nobody at the other end of any of them. So, Lewis wrote, "this harem, once admitted, works against his ever getting out and really uniting with a real woman." A real woman has moods, needs and a mind of her own. The harem has none, so the real woman starts to feel like hard work.
+
+The 2020s gave the harem a voice. A man can now talk every night to a girlfriend made by a computer. She is always awake and always pleased with him. She never has a bad day and never says no. In one American survey in 2025, nearly a third of young men said they had chatted with a machine as a boyfriend or girlfriend. Of everyone in the survey who had tried it, about one in five said they liked it better than talking to a real person. Now the walls talk back.
+
+Lewis warned where it ends: "The danger is that of coming to love the prison."
 
 That's the cost of the thought life. Each time, the cell gets a little more comfortable.
 
@@ -60,9 +82,9 @@ So the place to act is the beginning, where it costs almost nothing. One man who
 
 That is the whole instruction. Let the bird fly over. Don't build it a nest.
 
-It's far easier than you fear. A man builds the nest for one reason: he believes there's something in it for him. Once he sees that there isn't, the bird comes, finds nowhere to land, and flies on. If you're not a believer, the instruction is the same. Notice the first thought, and let it go by.
+It's far easier than you fear. A man builds the nest for one reason: he believes there's something in it for him. Once he sees that there isn't, the bird comes, finds nowhere to land, and flies on.
 
-That deals with the women who aren't there. The squatter's next line is about the ones who are. "Fine. But looking never hurt anybody."
+That deals with the women who aren't there. The squatter's next line is about the ones who are. "Fine. But I can't walk around with my eyes shut."
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 15-fantasy-and-the-thought-life.Rmd; the source notes for everything here are in that file. -->
 
@@ -71,3 +93,5 @@ That deals with the women who aren't there. The squatter's next line is about th
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
 
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
+
+<!-- 2026-11-21 five-star pass (H3; review item B4, cold-listener join 1 and item 4.2): this chapter now carries the thought life. In from the dissolved 'At Least I'm Not Him': the married man (new section 'Filling the gap', with the quote "I was beside myself over how I had grieved God and my wife", Fred, Covenant Eyes comments, 22 Oct 2014) and the imagination-only man (inside 'The harem in your head'; his last sentence cut as a repeat of Lewis). In from the dissolved 'The Ladder': the man with a machine and the 2025 survey (Wheatley Institute, BYU, 'Counterfeit Connections', Feb 2025). Full source notes for all three are in 14-types-of-user.md. The closing hook now hands to 'Mothers, Sisters, Daughters' with 'I can't walk around with my eyes shut'. -->

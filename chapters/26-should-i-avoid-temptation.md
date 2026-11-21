@@ -6,25 +6,23 @@
 
 Up to now this book has given orders: no willpower campaign, no cutting down, no substitutes. On avoiding temptation I can't hand you a rule, because the answer depends on your life. You'll have to judge for yourself, and I can only help you judge well.
 
-What keeps a man in the trap is fear of what life would be like outside it. That fear comes in two phases.
+First, the thing behind the question. What keeps a man in the trap is fear of life outside it, and the fear comes twice.
 
-## Phase One: "How will I get through tonight?" {-}
+## "How will I get through tonight?" {-}
 
-This is the panic. It comes when the evening stretches ahead with nobody in it, when your wife is away or you don't have one.
-
-The panic is not a withdrawal pang. It's the belief that you can't cope without your release. It's strongest just before you stop, when your body is asking for nothing at all. It is plain fear of the unknown, the same thing a boy feels on his first diving board.
+This is the panic. It comes when the evening stretches ahead with nobody in it. It is not a withdrawal pang. It's strongest just before you stop, when your body is asking for nothing at all. It is plain fear of the unknown, the same thing a boy feels on his first diving board.
 
 The board is two feet above the water, and from up there it looks like twenty. The pool is ten feet deep and looks like a puddle. Every instinct tells him he's about to crack his skull. Stepping off takes real nerve. The rest is easy, and he comes up laughing.
 
-The panic is in your head. You don't depend on the habit, even now, while you're still in the trap. Paul says the spirit God gives is not one of fear. Believer or not, the water's deep enough, and plenty of men have jumped before you.
+Paul says the spirit God gives is not one of fear. Believer or not, the water's deep enough, and plenty of men have jumped before you.
 
-**Don't panic. Step off the board.**
+**When your day comes, don't panic. Step off the board.**
 
-## Phase Two: "What about the rest of my life?" {-}
+## "What about the rest of my life?" {-}
 
-The second fear is slower. It's the worry that some day will come that you can't bear without the habit. The lonely Christmas. The months when your wife is sick. A death in the family. Step off the board and you'll find the opposite is true. A free man handles a hard day better, because he isn't also fighting himself. Her illness was never going to be your excuse anyway.
+The second fear is slower. It's the worry that some day will come that you can't bear without the habit. The lonely Christmas. The months when your wife is sick. A death in the family. The opposite is true. A free man handles a hard day better, because he isn't also fighting himself. Her illness was never going to be your excuse anyway.
 
-That leaves the practical question, which comes in three forms.
+Now the practical question, which comes in three forms.
 
 ## "Should I keep a way back, just in case?" {-}
 
@@ -32,7 +30,7 @@ Some men stop but keep an escape hatch: the saved folder, the account they still
 
 They think the hatch makes them braver. It does the reverse. A hatch is a door left open an inch, and the Little Monster hears it as hope. Men who keep a way back tend to use it. When a bad moment comes, using the hatch costs nothing, because the excuse was written in advance. A man with no hatch has nothing to bargain with, and the urge passes.
 
-But the main reason these men fail is that they were never fully committed. The two essentials are:
+But the main reason these men fail is that they were never fully committed. Two things were missing:
 
 1. **Certainty.**
 2. **"Isn't it marvelous that I don't need it anymore?"**
@@ -51,9 +49,7 @@ There are two opposite mistakes.
 
 Common sense says to avoid unnecessary stimulation. The word to notice is *unnecessary*. Christians have an old phrase for this: avoid the near occasion of sin. It means don't stand where you know you'll fall. That's not fear. It's sense.
 
-A pastor with a gift for the obvious puts it in terms of chocolate. He has never eaten four hundred pieces of candy, he says, when there were none within his reach. Temptation often comes through a door that somebody deliberately left open. He has a line for the gym as well. If every visit has you staring at what you see there, then "don't go to the gym!"
-
-None of this is a gimmick or a vow, and none of it has to wait for the last page. It is only the stupid thing avoided. So charge the phone in the kitchen. You're not in danger. Bed is just a stupid place for a phone at midnight, whatever you look at. Unfollow the accounts you followed for one reason. Cancel the subscriptions. Delete the folder.
+None of this is a gimmick or a vow, and none of it has to wait for the last page. It is only the stupid thing avoided. Charge the phone in the kitchen. You're not in danger. Bed is just a stupid place for a phone at midnight, whatever you look at. Unfollow the accounts you followed for one reason. Cancel the subscriptions. Delete the folder.
 
 One man who was bound by the habit for years goes further, if your circumstances need it: "If it means you got to get a roommate, get a roommate." If you're married and your wife asks for an open phone or a filter, give it gladly. That is honesty, not a fortress. Beyond that, you don't need to rearrange your life.
 

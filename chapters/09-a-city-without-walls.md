@@ -4,9 +4,7 @@
 >
 > — Proverbs 25:28
 
-No army ever beat King David.
-
-He was brought down anyway, and not by a stronger man. His story is very old, and it is about you.
+The king was David. His story is very old, and it is about you.
 
 Start with that proverb about the city. It comes from King Solomon, David's son. In his day a city's wall was the city. Inside the wall were homes, markets, children playing and a temple. Take the wall away and you still have all those things, until the first raiding party arrives. A city without walls belongs to whoever shows up, however rich it is.
 
@@ -42,25 +40,17 @@ Uriah trusted his king, and his king was a city without walls.
 
 ## Your own word {-}
 
-So say the hard sentence once more, with David's name on it. **A man who can't control his lust can't be trusted.**
-
-It is a description, not an insult. His wife trusts a man who keeps a locked room. His children are raised by a man who is only half there. And the person who trusts him least is himself.
+David broke faith with a man who trusted him. The man you have broken faith with most often is yourself.
 
 Count your own promises. "Never again." "This is the last time." "Starting Monday." You made each one and meant it, perhaps hundreds of times, and you broke every one. Each was a promise to yourself.
 
 A man can only break his word to himself so often before he stops believing it. After that he says "I'll start the business", or "I'll get fit", or "I'll be a better husband". Something inside him quietly replies, "No, you won't. I know you." That is the deepest thing the habit does. It makes you a man whose word, in his own ears, is worth nothing.
 
+David was not weak where the world could see. He had one gap in the wall. So have you.
+
 Don't hear that as a verdict. Walls can be rebuilt. A governor named Nehemiah found Jerusalem's walls in ruins and had them back up in fifty-two days. Yours will go up faster. For now, just look at the gap and admit it's there.
 
-## Take the thirst away {-}
-
-A city without walls can be raided. It can also be bought. A man led by his thirst can be steered by anyone who knows what he wants: an advertiser, a screen, a rival who wants him compromised.
-
-Take the thirst away and there is nothing to steer him by. It doesn't make him cold toward women. It does the opposite. A man who isn't hungry to take anything from a woman is the first man who can treat her as a person. And the one woman he has given himself to gets a husband nobody else has a hook in.
-
-David was not weak where the world could see. He had one gap in the wall. You have had it too. You are about to close it.
-
-All of this has been one-sided. You've heard at length what the habit costs and what you gain by stopping. A fair book gives both sides. So here is the other side, set out in full: the advantages of lust.
+All of this has been one-sided. You've heard at length what lust costs a man and what he gains by stopping. A fair book gives both sides. So here is the other side, set out in full: the advantages of lust.
 
 <!-- ADDED 2026-11-18 at James's direction: the full story of David, Bathsheba and Uriah in "A city without walls" (2 Samuel 11:1-27 and 12:1-18, retold; WEB quotations from 11:5, 11:11, 11:15, 11:25 and 12:7; Uriah among the mighty men is 2 Samuel 23:39; Solomon as the son of David and Bathsheba is 12:24). In "Nobody's lever": Samson and Delilah told in full (Judges 16:4-21; WEB quotations from 16:5, 16:6, 16:9, 16:15, 16:16, 16:20, 16:21; "seven fresh cords" paraphrases "seven green cords that were never dried") and Ahab and Jezebel added (1 Kings 16:31, 21:1-16, 21:25; WEB quotations from 21:7 and 21:25; the later use of her name is Revelation 2:20). James pointed to Mark Driscoll's sermon "29 Signs of a Jezebel Demon", https://www.youtube.com/watch?v=6YlOjjya9vo, as the prompt for the Jezebel passage. Nothing is quoted from it. Endings added 2026-11-18 at James's direction: Samson's death (Judges 16:22-30; WEB quotations from 16:22 and 16:28; "more in his death than in his life" paraphrases 16:30; his prayer asks vengeance "for my two eyes", 16:28; Samson among the faithful is Hebrews 11:32). Ahab's end (1 Kings 21:17-29, WEB quotations from 21:19 and 21:29; sackcloth 21:27; "three years" is 22:1; the prophet Micaiah imprisoned 22:26-27; the random arrow and the chariot 22:34-35; Jezebel's death 2 Kings 9:30-37, where the dogs eat her on the plot of Jezreel, given in the body as "where it fell"). The sermon calls her "seductive and controlling" on the strength of Revelation 2:20; the body says plainly that 1 Kings does not show her seducing anyone. "The season when kings went to war" and "the eyes that had led him" are the writer's own.
 -->
@@ -77,3 +67,6 @@ All of this has been one-sided. You've heard at length what the habit costs and 
 <!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). Exact changes are in the report sent to James. -->
 
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
+
+
+<!-- 2026-11-21 five-star pass (editor H2): structural cuts, moves and repairs from the outside review and the cold-listener report. Cut text is kept in the pass's parked-H2 file; source notes above still stand for anything cut. -->
