@@ -12,7 +12,7 @@ You don't have to believe in spirits to know that house, and the story isn't her
 
 You have swept that house many times.
 
-You swore off porn, and for three weeks you were clean. Then you noticed you were spending an hour a night scrolling past women in swimsuits and calling it nothing. Or you deleted every app and blocked every site, and the reel in your memory started up in their place. Or you stopped the whole business by force, and poured the same hunger into chasing a woman who didn't want you. You threw one thing out, and it came back with company.
+You swore off porn, and for three weeks you were clean. Then you noticed you were spending an hour a night scrolling past women in swimsuits and calling it nothing. Or you deleted every app and blocked every site, and the reel in your memory started up in their place. Or you stopped the whole business by force, and poured the same hunger into chasing a woman who didn't want you. You threw one thing out, and it came back with company. That is how it goes with a squatter. Keep his room ready, and he brings his friends. They are as small as he is, and just as grubby.
 
 No wonder it feels unbeatable. No wonder you decided the fault was in you.
 
@@ -26,7 +26,7 @@ That is what quitting by force is. A man stops the act and goes on believing tha
 
 This book works the other way around. Before anybody is put out, we look at what this tenant has really done for you all these years. What rent has he paid? What has he ever mended? You will find that he has paid nothing and broken a great deal, and that the room was never short of him. It was never his room.
 
-So why is he still there? A man keeps a squatter for one of two reasons. He believes the squatter gives him something. Or he has grown so used to him that he thinks he has a right to stay. This one has given you nothing, and he has no right. He is a freeloader, and it is your house. Nobody else can put him out for you. And you have never truly tried, because some part of you still thought he was worth keeping.
+So why is he still there? A man keeps a squatter for one of two reasons. He believes the squatter gives him something. Or he has grown so used to him that he thinks he has a right to stay. This one has given you nothing, and he has no right. He is a freeloader, and it is your house. He has never paid a day's rent. He leaves his dishes in your sink, and he smells. And look who has been paying his bills and carrying his meals up the stairs. You have. Nobody else can put him out for you. And you have never truly tried, because some part of you still thought he was worth keeping.
 
 Once a man has seen that, there is no vacancy. There is nothing for the tenant to come back to.
 
@@ -48,9 +48,9 @@ Now look at how he lives. He has no body of his own. He can't look at anything, 
 
 Look, think, touch, chase, take. It is a ladder, and each rung leads to the next. It is also the oldest story there is. He saw her. He couldn't stop thinking about her. He went after her. He took her.
 
-You may be feeding all five, or only two. It makes no difference. He is fed five ways, and there is one small belly behind them all. That is why you are not going to fight five battles. There is only one squatter, and he lives on what you lend him.
+You may be feeding all five, or only two. It makes no difference. He is fed five ways, and there is one small belly behind them all. That is why you are not going to fight five battles. There is only one squatter, with whatever grubby friends he has brought home. They all eat from the same plate, and you are the one who carries it up.
 
-It is also why this book asks you not to throw anything out yet. The day will come, near the end, when you show him the door. You'll do it once, and it will be easy, because by then you will know that he has nothing you want.
+It is also why this book asks you not to throw anything out yet. The day will come, near the end, when you show him the door. You'll do it once, and it will be easy, because by then you will know that he has nothing you want. You won't have to drag anyone out. You stop paying his bills and you stop bringing his food, and his friends leave with him.
 
 But before we look at what he has paid, one question has to be settled. Five ways make a long list. Is all of that really lust? Where exactly is the line?
 
