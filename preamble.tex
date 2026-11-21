@@ -107,21 +107,20 @@
 % ---- Front matter: cover, half title, title page, copyright page ----
 \usepackage{graphicx}
 \usepackage{xcolor}
-\definecolor{coverbg}{HTML}{0B111E}
+\definecolor{coverbg}{HTML}{0E1626}
 \newcommand{\sjoyear}{\the\year}
 \newcommand{\sjomonth}{\ifcase\month\or January\or February\or March\or April\or May\or June\or July\or August\or September\or October\or November\or December\fi}
 \renewcommand{\maketitle}{%
   \frontmatter
   \pagestyle{empty}%
-  % Cover
-  \newgeometry{margin=0pt}%
+  % Cover: a zero-height box at the very top of a margin-free page, so the image can
+  % never overflow onto a page of its own. The strips either side are the cover's own navy.
+  \newgeometry{margin=0pt, headheight=0pt, headsep=0pt, footskip=0pt}%
   \begin{titlepage}
-    \pagecolor{coverbg}%
-    \vspace*{\fill}
-    \centering\includegraphics[height=\paperheight]{images/cover.png}\par
-    \vspace*{\fill}
+    \vspace*{-\topskip}\nointerlineskip
+    \noindent\raisebox{-\paperheight}[0pt][0pt]{\makebox[0pt][l]{\textcolor{coverbg}{\rule{\paperwidth}{\paperheight}}}%
+      \makebox[\paperwidth][c]{\includegraphics[height=\paperheight]{images/cover.png}}}%
   \end{titlepage}%
-  \nopagecolor
   \restoregeometry
   % Half title (recto), blank verso
   \cleardoublepage
