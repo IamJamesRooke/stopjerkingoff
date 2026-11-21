@@ -531,6 +531,16 @@ One change is not shown as before/after: in The Ladder, the thirteen men were re
 
 ---
 
+**Before**
+
+> Look at what he believed at that moment. He was suffering. The habit would end the suffering. There was something in it for him after all. Given all that,
+
+**After**
+
+> Look at what he believed at that moment. He was suffering, the habit would end the suffering, and there was something in it for him after all. Given all that,
+
+---
+
 ## The Counter
 
 **Before**
@@ -1059,6 +1069,16 @@ One change is not shown as before/after: in The Ladder, the thirteen men were re
 **After**
 
 > See the flat spell for what it is. The caller
+
+---
+
+**Before**
+
+> It goes like this. A man stops. For the first days his desire is loud. Then, somewhere in the first couple of months, it goes quiet. He stops waking up hard. A beautiful woman walks past and nothing stirs. He feels unplugged below the waist.
+
+**After**
+
+> It goes like this. A man stops, and for the first days his desire is loud. Then, somewhere in the first couple of months, it goes quiet. He stops waking up hard. A beautiful woman walks past and nothing stirs, and he feels unplugged below the waist.
 
 ---
 

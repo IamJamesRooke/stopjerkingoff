@@ -18,7 +18,7 @@ A man who stops is often caught off guard by his own body. It goes on being a ma
 
 ## The trap in the flat spell {-}
 
-It goes like this. A man stops. For the first days his desire is loud. Then, somewhere in the first couple of months, it goes quiet. He stops waking up hard. A beautiful woman walks past and nothing stirs. He feels unplugged below the waist. One medical student wrote that his body "literally 'died' on me. I lost my libido completely and felt depressed."
+It goes like this. A man stops, and for the first days his desire is loud. Then, somewhere in the first couple of months, it goes quiet. He stops waking up hard. A beautiful woman walks past and nothing stirs, and he feels unplugged below the waist. One medical student wrote that his body "literally 'died' on me. I lost my libido completely and felt depressed."
 
 Nobody warned him, so he draws the obvious conclusion. Stopping has broken him.
 

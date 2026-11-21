@@ -50,7 +50,7 @@ This is the point where he gives in.
 
 What follows is the strangest minute of all. He feels real relief, because the Little Monster has been fed and has stopped nagging. In the same minute there's the flatness, and the old question: *why did I do that?* He draws the obvious conclusion that he's weak and has no willpower.
 
-It wasn't only weakness. He changed his mind. Look at what he believed at that moment. He was suffering. The habit would end the suffering. There was something in it for him after all. Given all that, going back was a perfectly logical decision. His will was tired, but that wasn't the whole story. He was also acting on false information, and that part this book can fix.
+It wasn't only weakness. He changed his mind. Look at what he believed at that moment. He was suffering, the habit would end the suffering, and there was something in it for him after all. Given all that, going back was a perfectly logical decision. His will was tired, but that wasn't the whole story. He was also acting on false information, and that part this book can fix.
 
 "What's the point of a clean conscience if I'm miserable?" It's a fair question, and the answer is that you won't be. A life without the habit isn't gray and twitchy. His misery doesn't come from the Little Monster, who is tiny. It comes from the tug-of-war. He starts by believing he's given something up, so he feels deprived, and feeling deprived is itself a strain. In a strain, the old voice says "go on", and now he can't. So he feels more deprived still.
 
