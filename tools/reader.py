@@ -100,7 +100,7 @@ for name in ("index.html", "introduction.html"):
 <p class="hero-facts">{total} short chapters · about {round(hours)} hours · read here or download</p>
 <p class="hero-actions"><a class="hero-start" href="#introduction">Start reading</a>
 <a class="hero-continue" href="{e(first)}" hidden>Continue</a></p>
-<p class="hero-downloads">Or download the <a href="stopjerkingoff.pdf">PDF</a> or the <a href="stopjerkingoff.epub">EPUB</a>.</p>
+<p class="hero-downloads">Or download the <a href="stopjerkingoff.pdf?v={VERSION}">PDF</a> or the <a href="stopjerkingoff.epub?v={VERSION}">EPUB</a>.</p>
 </div>
 </div>
 '''

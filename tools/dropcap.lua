@@ -37,7 +37,7 @@ function Pandoc(doc)
   local out = {}
   for _, block in ipairs(doc.blocks) do
     if block.t == "Header" and block.level == 1 and not started then
-      out[#out + 1] = pandoc.RawBlock("latex", "\\mainmatter")
+      out[#out + 1] = pandoc.RawBlock("latex", "\\cleardoublepage\\mainmatter")
       started = true
     end
     if block.t == "Header" and block.level == 1 then
