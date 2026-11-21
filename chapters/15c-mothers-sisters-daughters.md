@@ -52,7 +52,7 @@ Set him beside the man who quit porn and kept the feed. That man is still standi
 
 AND HE CALLS IT BEING FREE!
 
-Those are the rooms a man can sit in by himself. Now the squatter does something new. He borrows your feet, and walks out into company. "I'm only being friendly."
+So far the squatter has mostly watched. Now he does something new. He borrows your feet, and walks out into company. "I'm only being friendly."
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 15-fantasy-and-the-thought-life.Rmd; the source notes for everything here are in that file. -->
 

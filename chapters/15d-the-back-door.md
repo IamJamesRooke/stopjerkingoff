@@ -22,7 +22,7 @@ Then the memory wears thin. Every scratch works a little less well than the one 
 
 So what has the hand really been paying you all these years?
 
-It was never pleasure. It was relief from an itch, and the last time is what set the itch going. For ten minutes it gets a man back to how the man who never does it feels all day. That is the entire gift.
+It was never pleasure. It was relief from an itch, and the last time is what set the itch going. For ten minutes it gets a man back to how the man who never does it feels all day. That is all it has ever paid.
 
 Then there is what it teaches. A body learns that desire is something to be dealt with quickly, alone, and with nobody to answer to. A man practices that for fifteen years. Then he marries, and wonders why the lesson came with him.
 
@@ -32,7 +32,7 @@ Here is a test to carry through the rooms that are left. Ask one question of any
 
 So the hand is not the harmless one. It holds the door open for all the rest.
 
-And now the squatter picks up his blanket and moves down the hall. "Fine. Nothing on the screen, and hands off. But what goes on in my own head is nobody's business."
+And now the squatter picks up his blanket and moves down the hall. "Fine. No porn. But a scroll isn't porn, and what goes on in my own head is nobody's business."
 
 <!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md): NEW CHAPTER for the third head, Touch. Built from the Ladder's "man who quit porn and kept the hand" and the line that stood in the Introduction until today ("One man quit porn twice and went back twice. Both times, he said, masturbation was what led him back": the YBOP quote sourced in the Introduction's comments). No new quotations. Epigraph: 1 Corinthians 6:12, second sentence (WEB, checked 2026-11-20). -->
 

@@ -26,7 +26,7 @@ Some of the gains of stopping are ones you'll notice and enjoy on purpose. You'l
 
 That day is closer than you think.
 
-One cost is left. It is the one a man least likes to hear said aloud.
+One thing is left, and it isn't about how you feel. It is about what you are worth to the people who count on you.
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 08-what-its-doing-to-you.Rmd; the source notes for everything here are in that file. -->
 

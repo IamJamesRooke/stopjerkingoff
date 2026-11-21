@@ -4,7 +4,7 @@
 >
 > — Matthew 5:28
 
-This room has no porn in it and no hand. It has a phone, and a head.
+This room has no porn in it. It has a phone, and a head.
 
 Take a man who has quit porn, and means it. He hasn't opened one of those sites in months. He has a red line and he stays on the right side of it.
 
@@ -34,7 +34,7 @@ A word for the man who doesn't. Some men get stuck checking whether a look or a 
 
 For everyone else, be honest about the scroll. It is a purposeful gaze pretending to be an accident.
 
-But suppose you never touch a screen at all. Suppose you are faithful. Are you sure?
+And the squatter has an answer ready for the man with a woman of his own. "Fine. But I've never touched anyone else. A thought isn't cheating."
 
 <!-- SOURCES (Chapter 15): every quote below is from the research files; check each against its page before publishing.
 - "sends the man back into the prison of himself, there to keep a harem of imaginary brides." / "this harem, once admitted, works against his ever getting out and really uniting with a real woman." / "The danger is that of coming to love the prison." — C.S. Lewis, letter to Keith Masson, 1956 (Collected Letters, vol. 3), fragments as quoted at https://www.pintswithjack.com/?p=341 and https://www.catholiceducation.org/en/marriage-and-family/sexuality/c-s-lewis-on-lust-women-and-masturbation.html (in copyright: three short fragments, do not extend; the first was also used in Chapter 5; the sentences between them are paraphrase from research/more-sources.md; the full letter was not read)

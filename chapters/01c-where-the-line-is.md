@@ -1,6 +1,6 @@
 # Where the Line Is {#where-the-line-is}
 
-You have followed him through every room but one. Look, think, touch, chase, take. Those are the five ways he has been fed, with your eyes, your mind, your hand, your feet and your bed. In every room the same small test did the work. Is this a gift, or a hit I'm taking?
+You have followed him through every room but one. Look, think, touch, chase, take. Those are the five ways he has been fed, with your eyes, your mind, your hand, your feet and your bed. In room after room the same small test did the work. Is this a gift, or a hit I'm taking?
 
 Before the last room, that test deserves a proper look, because the last room is where men argue with it.
 
@@ -20,7 +20,7 @@ That leaves the bed, and the test is hardest there, because she is in it too and
 
 The Bible drew the line in the same place three thousand years ago. Sex belongs inside marriage. The book of Proverbs says it the way a father would say it to his son: "Drink water out of your own cistern, running water out of your own well." Inside a marriage, sex is a gift, and a husband and wife who give themselves to each other are on the right side of the line. The screen, the hand, the private film of another woman, the chase and any bed outside marriage are on the other side.
 
-You may not accept that yet, and you don't have to accept it to keep reading. Just keep the test in your pocket, and try it on your own life as we go.
+You may not accept that yet, and you don't have to accept it to keep reading. Just keep the test in your pocket, and try it on your own life.
 
 ## Who decides? {-}
 

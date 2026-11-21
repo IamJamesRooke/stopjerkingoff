@@ -52,7 +52,7 @@ That is not quite the end. His hair grew again, and on his last day, blind and b
 
 Notice where the story puts the blame. Delilah sold him for silver, and that was treachery. But nobody took his secret from him. He gave it away.
 
-Samson at least was fooled by a woman he loved. The next man wasn't fooled at all.
+Samson was led by a woman he couldn't leave. The next man was led by the one he married.
 
 <!-- SOURCES (The Man Led by a Woman). New chapter 2026-11-19, split out of 'Every Man in the Trap' at James's word. Closing paragraph is the book's own.
 - Epigraph: Proverbs 7:22 (WEB), part; checked against the WEB text 2026-11-19.
