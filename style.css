@@ -381,10 +381,9 @@ pre code {
   position: absolute !important; width: 1px; height: 1px; padding: 0; margin: -1px;
   overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0;
 }
-/* The site numbers chapters in reading order ("Chapter 3 of 66"), so the book's own
-   numbers, which skip the unnumbered chapters, are left to the PDF and EPUB. */
-.book .book-body .page-inner section.normal h1 .header-section-number,
-.book .book-summary ul.summary li.chapter > a > b { display: none; }
+/* The chapter number sits in the line under the title ("Chapter 3 of 66 · about 6 min"),
+   so the title itself stays clean. The sidebar keeps the numbers. */
+.book .book-body .page-inner section.normal h1 .header-section-number { display: none; }
 /* Sidebar: chapters only. */
 .book .book-summary ul.summary li.chapter ul { display: none; }
 .book .book-summary ul.summary li.continue-reading a { font-weight: 700; color: var(--sjo-accent, #2b6cb0) !important; }

@@ -36,15 +36,18 @@ def words(s):
 
 pages = {p: (book / p).read_text(encoding="utf-8") for p in order}
 minutes = {p: max(1, round(words(s) / WPM)) for p, s in pages.items()}
-# Numbered: everything between the Introduction and the back matter.
-counted = [p for p in order if p != "introduction.html"
-           and not titles[p].lower().startswith(("appendix", "attribution"))]
-total = len(counted)
+# Chapter numbers are the book's own (bookdown's), so the site, PDF and EPUB agree.
+def number_of(s):
+    m = re.search(r'class="section level1[^"]*"[^>]*>\s*<h1><span class="header-section-number">\D*(\d+)</span>', s)
+    return int(m.group(1)) if m else None
+numbers = {p: number_of(s) for p, s in pages.items()}
+counted = [p for p in order if numbers[p]]
+total = max([n for n in numbers.values() if n] or [0])
 hours = sum(minutes.values()) / 60
 e = lambda t: html.escape(t, quote=True)
 
 def meta_line(p):
-    n = f"Chapter {counted.index(p) + 1} of {total} · " if p in counted else ""
+    n = f"Chapter {numbers[p]} of {total} · " if numbers[p] else ""
     return (f'<p class="chapter-meta" data-path="{e(p)}" data-title="{e(titles[p])}">'
             f'{n}about {minutes[p]} min</p>')
 
