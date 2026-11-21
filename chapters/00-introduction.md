@@ -45,7 +45,7 @@ He looks, at porn, at a feed full of strangers, at a woman in the street. He thi
 
 You may know one of them or all five. It is the same lust each time, making a man's decisions for him.
 
-So this book doesn't go after them one at a time. It goes after the one appetite behind all five. You aren't going to manage five problems. You are going to get lust itself out of the driving seat, and all five go with it.
+So this book doesn't go after them one at a time. It goes after the one appetite behind all five. You aren't going to manage five problems. You are going to get lust itself out of the driver's seat, and all five go with it.
 
 ## One condition {-}
 

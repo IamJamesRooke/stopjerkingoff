@@ -32,7 +32,7 @@ But a man ruled by lust is like a soldier who shows up drunk for duty. He is lov
 
 So get the order right. The people who know most about getting sober learned this the hard way. Whatever you put ahead of your sobriety, they say, you will lose. For a Christian, God comes first. But getting sober is how a man gets back to putting him there. First doesn't mean building your life around it. It means settling it, so that you can get on with everything else. A sober soldier doesn't spend the day thinking about drink. He does his job.
 
-Now the good news, which is the reason this book exists. This is not hard to settle. Nobody is sending you on a ten-year campaign. You have read this far, and you know what the thing is: a trick, an itch that feeds itself, a lie about comfort. It doesn't take courage to put down a thing you have seen through.
+Now the good news, which is the reason this book exists. This is not hard to settle. Nobody is sending you on a ten-year campaign. You have read this far, and you know what the thing is: a trick, an itch that feeds itself, a lie about comfort. It doesn't take courage to put down a thing you have seen through. Save your courage for the service. You will need it there.
 
 And being fit is not the price of being loved. It is what a loved man is for.
 

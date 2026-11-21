@@ -14,13 +14,15 @@ Jesus had the right word for it. "Everyone who commits sin is the bondservant of
 
 It is one master, too. The thing that sends you to the bathroom is the thing that opens the site. It is the same thing that makes you say yes to a woman you ought to walk away from. They look like separate habits. There is one master giving the orders.
 
+And the joke of it is his size. For years you have been taking orders from a squatter in your own back room.
+
 The men who have gotten out reach for the same word without being told. One of them, eight months clean, looked back and counted. He wrote that he had been a slave to it since he was twelve years old. He was thirty.
 
 That is why it seems so hard to "give up". The slave has come to believe his master is also his comforter. He thinks he gets a real pleasure or a real crutch out of it, and that life without it would have a hole in the middle.
 
 Now the good news. Once you see how the master actually holds you, and why you really reach for it, you'll stop. Just like that. A few weeks from now only two mysteries will be left. One is how it ever had a grip on you. The other is why you can't get your friends to see what you see.
 
-## The sinister trap {-}
+## The quiet trap {-}
 
 This trap is one of the neatest ever built. Your own flesh supplies the bait, and the world stands around telling you it isn't a trap at all.
 

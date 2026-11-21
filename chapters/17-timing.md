@@ -8,7 +8,7 @@ That is the whole trap, taken apart. From here on, the book is about walking out
 
 The habit is doing you no good, so the right time to stop is now. Even so, timing deserves some thought.
 
-For many men, getting caught by this at thirteen was the worst thing that ever happened to them, and they've never told anyone. Something like that deserves to be dealt with properly, and that includes when.
+You have carried this a long time, and probably told nobody. So it deserves to be finished properly, and that includes when.
 
 ## Your schedule {-}
 

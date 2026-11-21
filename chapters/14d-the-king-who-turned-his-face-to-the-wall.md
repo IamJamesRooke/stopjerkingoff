@@ -20,7 +20,7 @@ So what does a man look like with the lever gone? Put him in a room full of wome
 
 He can see that a woman is beautiful. It simply stops deciding anything. He doesn't buy the drink or laugh at the joke that wasn't funny. He doesn't give her the favor, the job or the last word because of her face. He treats her as he treats everyone else, which is fairly.
 
-That is better for him. He keeps his money, his judgment and his self-respect. It is better for her too, because she gets dealt with as a person. And it is better for the plain woman standing beside her, whom thirsty men have looked straight through all her life.
+That is better for him. He keeps his money, his judgment and his self-respect. It is better for her too, because she gets dealt with as a person. And it is better for the plain woman standing beside her, whom men on the hunt have looked straight through all her life.
 
 ## The lever at home {-}
 

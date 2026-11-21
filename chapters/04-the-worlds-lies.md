@@ -24,7 +24,7 @@ Your grandfather was told that this habit would make him go blind, grow hair on 
 
 There is hype in the other direction too. Whole corners of the internet promise that if you stop you'll get a deeper voice, clear skin, a surge of testosterone and women turning around in the street. The biggest forum of them all started with a thread about a study claiming a testosterone spike after seven days. That study was retracted in 2021.
 
-All that hype ought to get men out. In fact it helps to keep them in. It turns stopping into a feat. You go on "hard mode", you count days and you call yourself a warrior. Then day thirty comes, the prize hasn't arrived, and back you go.
+All that hype ought to get men out. In fact it helps to keep them in. It turns stopping into a feat. You go on "hard mode", you count days and you call yourself a warrior. That is a great deal of armor for putting out a squatter. Then day thirty comes, the prize hasn't arrived, and back you go.
 
 Both sermons, "it's good for you" and "quitting gives you powers", agree on one thing. They both say it's a big deal to stop. It isn't.
 

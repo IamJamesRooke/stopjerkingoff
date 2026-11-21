@@ -18,6 +18,10 @@ There isn't one. Men create the difficulty themselves, by using the Willpower Me
 
 It is the swept and empty house. He puts the tenant out and keeps the room ready, and the tenant comes back with company.
 
+Some men are sorry to hear that it's easy. They wanted a war. They had pictured the long nights, the clenched jaw, all bone and sinew and will, and a medal at the far end. A squatter gives no medals.
+
+If you have that kind of grit, good. The world is short of it. Spend it on a marriage, a business, a mission or a marathon. Don't spend it here, and don't let this be the battle that defines you. Nobody wants it on his gravestone that he fought his own hand for fifty years. Evict him, and get on with your life.
+
 It usually takes years to realize you're hooked, because of one stubborn illusion: we assume men do this because they enjoy it. So on the nights we plainly don't enjoy it, we conclude we could stop any time. "I don't even like it that much. I could drop it tomorrow." That's the confidence trap. Somehow tomorrow is never the day you want to.
 
 ## The first attempts {-}

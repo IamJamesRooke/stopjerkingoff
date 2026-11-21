@@ -28,7 +28,7 @@ You are already a free man.
 
 Sometime in the first week or so, tell one person you trust.
 
-On good days and bad, don't build your life around having stopped. If you do, you'll turn something that cost you nothing into a real sacrifice. You haven't given up living. You've been healed of something and let out of somewhere. The weeks will go by, and your energy and your conscience will recover. Your good days will be better and your bad days milder than they ever were.
+On good days and bad, don't build your life around having stopped. If you do, you'll turn something that cost you nothing into a real sacrifice. You haven't given up living. You've been healed of something and let out of somewhere. It was a pest in the back room. It was never meant to be the story of your life. The weeks will go by, and your energy and your conscience will recover. Your good days will be better and your bad days milder than they ever were.
 
 And whenever the thought of it crosses your mind, tomorrow or in forty years, be glad. You're free.
 
@@ -38,7 +38,7 @@ Men who have walked out and lived happily for years do go back in. I hope this b
 
 **Don't fall for that.**
 
-However long you've been free, and however sure you are that you could never be caught again, keep one lifelong rule: not once, for any reason. A lonely anniversary doesn't count as a reason. Neither does "to help me sleep", or "just to see". The Little Monster starves and stops calling. But years from now, on some odd evening, an old thought may drift past, the way you still reach for the light switch in a house you moved out of long ago. Nothing is behind it. It is only the memory of a call. Notice it, smile, and don't pick up. "Just once" is the one thing that could put a tenant back in the room.
+However long you've been free, and however sure you are that you could never be caught again, keep one lifelong rule: not once, for any reason. A lonely anniversary doesn't count as a reason. Neither does "to help me sleep", or "just to see". The Little Monster starves and stops calling. But years from now, on some odd evening, an old thought may drift past, the way you still reach for the light switch in a house you moved out of long ago. Nothing is behind it. It is only the memory of a call. Notice it, smile, and don't pick up. "Just once" is the one thing that could put the squatter back in the room.
 
 The rule is strict, and the grace is real. A man who falls confesses it that day, refuses the second one, and gets up. Don't plan on needing that.
 

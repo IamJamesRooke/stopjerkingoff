@@ -6,7 +6,7 @@
 
 You've reached the end of the book. Congratulations. I mean that as plainly as I can say it. You were caught in something that holds most men for life, and you walked out. You'll discover over the coming months that life was better than you thought it was. The habit had been standing in front of it.
 
-Look back at the house for a moment. The squatter had no body of his own. He lived on what you lent him: your eyes, your mind, your hand, your feet and your bed. You didn't get rid of him by sweeping harder. You saw that he had never paid a day's rent, and then there was no room left for him to come back to. If an old thought ever drifts past, you know what it is. Let it go by.
+Look back at the house for a moment. The squatter had no body of his own. He lived on what you lent him: your eyes, your mind, your hand, your feet and your bed. You didn't get rid of him by sweeping harder. You saw that he had never paid a day's rent, and then there was no room left for him to come back to. Open the windows. The smell will be gone in a day or two. If an old thought ever drifts past, you know what it is. Let it go by.
 
 And the man on the couch? His phone is lying face up on the cushion tonight, and he hasn't given it a thought.
 
@@ -56,7 +56,7 @@ Don't preach it and don't argue it. You know by now that nobody is argued out of
 
 Stopping was never the whole point. A man can stop and still be small.
 
-The point was to become a man whose desires are in their right order. A man who has command of himself. A man who can love a woman without using her, and look at any woman without taking. A man with his strength back, who spends it on something greater than himself.
+The point was to become a man whose desires are in their right order. A man who has command of himself. A man who can love a woman without using her, and look at any woman without taking. A man with his strength back, who spends it on something greater than himself. That is what your grit was for.
 
 That is a bigger thing than quitting a habit. It is yours to grow into for the rest of your life.
 

@@ -456,3 +456,7 @@ Not done, on purpose: no deep cut of the willpower run (only real repeats went, 
 ## Revision 2026-11-21, overnight round
 
 Read-aloud pass, fact and quote audit (nothing shaky found), plain-English pass, Method Check 3, Pastor Review 3 and the safe items of Reader Report 4. 99 changes in 54 files, all listed before and after in editorial/OVERNIGHT-2026-11-21.md. Notable: "partner" is now "wife" (Pastor Review 3, M1); "But I'm Going to Marry Her" has a new section, "If you already share a bed"; the marriage line at the Final Step keeps its position and adds a warmer sentence; the non-believer line after Chalmers no longer asks for a replacement love.
+
+## Revision 2026-11-21, squatter and humor pass
+
+"Five mouths" is gone: lust is a squatter with no body of his own, fed five ways by what the man lends him (eyes, mind, hand, feet, bed). Whole book reread for humor and for "smaller than you think"; the squatter is on page one, with James's line about saving your grit. Changes are in editorial/SQUATTER-2026-11-21.md and editorial/HUMOR-PASS-2026-11-21.md.
