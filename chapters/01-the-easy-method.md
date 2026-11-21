@@ -8,7 +8,7 @@ How? The method has one aim: to change the way you think about lust.
 
 That's all. It won't make you stronger, and it won't make you more disciplined. It will change what you see when you look at porn, at the habit, and at the pull women have on you. Once you see it clearly, stopping is easy.
 
-The method isn't mine. It began with Allen Carr's *Easy Way to Stop Smoking*. A free book called [*The Easy Peasy Way to Quit Porn*](https://easypeasymethod.org/) applied it to porn. I borrowed its structure and its method, and the credit belongs to them. Any mistakes in applying it here are mine.
+I didn't invent this way of quitting. A man named Allen Carr did, for smokers. His book, *Easy Way to Stop Smoking*, has helped a great many people put down cigarettes without a fight. Later a free book called [*The Easy Peasy Way to Quit Porn*](https://easypeasymethod.org/) used Carr's method to help men quit porn. This book borrows from both, and takes the same method to lust itself. The credit is theirs. Any mistakes are mine.
 
 ## Why the normal way is so hard {-}
 
