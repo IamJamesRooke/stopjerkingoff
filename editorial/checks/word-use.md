@@ -4,7 +4,7 @@
 
 | File | words | lust | porn | women/woman | masturbat/MO | habit | soldier/duty/fit | Little Monster | Big Monster | wrong head | thread (can't be trusted) |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| Intro | 768 | 2 | 1 | 3 | 1 | 2 | 0 | 0 | 0 | 1 | 0 |
+| Intro | 780 | 2 | 1 | 3 | 1 | 2 | 0 | 0 | 0 | 1 | 0 |
 | b | 966 | 0 | 2 | 1 | 1 | 4 | 0 | 0 | 0 | 0 | 0 |
 | c | 310 | 2 | 0 | 1 | 0 | 0 | 5 | 0 | 0 | 0 | 1 |
 | 1 | 1682 | 1 | 12 | 5 | 4 | 6 | 0 | 0 | 0 | 0 | 0 |
@@ -72,7 +72,7 @@
 | faq | 1792 | 10 | 10 | 7 | 6 | 6 | 5 | 3 | 1 | 1 | 0 |
 | why-this-book | 1014 | 8 | 6 | 5 | 2 | 2 | 4 | 0 | 0 | 1 | 0 |
 
-## Overused words and phrases (book total 58882 words)
+## Overused words and phrases (book total 58894 words)
 
 | Word | Count | Per 1000 words | In how many files |
 |---|---|---|---|

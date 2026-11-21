@@ -10,7 +10,7 @@ Keep the button in mind. This book can't press it for you. But it can show you t
 
 ## You never chose this {-}
 
-Yes, you choose each time. You lock the door, you pick up the phone, you start. But did you ever sit down as a boy and sign up for fifteen years of this, every night, whether you wanted to or not? Of course you didn't. Curiosity and puberty started it. Then it quietly took the wheel, and for most of us porn poured fuel on it.
+Yes, you choose each time. You lock the door, you pick up the phone, you start. But did you ever sit down as a boy and sign up for fifteen years of this, every night, whether you wanted to or not? Of course you didn't. Curiosity and puberty started it. Then it quietly took the wheel, and for most of us porn stepped on the gas.
 
 You walked into a trap. It is one of the neatest traps there is, because the bait is your own body. And you can tell it's a trap by one fact. No man caught in it wants his son caught in it. Every man in the trap wishes he'd never started, and yet every man in the trap carries on. Nobody forces him.
 

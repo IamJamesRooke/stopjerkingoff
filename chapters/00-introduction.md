@@ -14,37 +14,39 @@ There is no dragon.
 
 There is a small, smelly squatter living in his back room. The squatter has never paid a day's rent. He has no strength of his own. He lives on the meals the man carries up to him. When he gets hungry, he bangs on the floor.
 
-That is what this book is built on, and the rest of it is the proof. The thing that has beaten you for years isn't strong. It is small, and you have been feeding it yourself.
+That is the picture this book is built on, and the rest of it is the proof. The thing that has beaten you for years isn't strong. It is small, and you have been feeding it yourself.
 
 Small is not the same as harmless. He has cost you plenty, and this book will count it.
 
-So this book will not ask you to try harder. You have tried harder. Every other method hands you a sword and points you at the dragon. No man wins a fight against something he still half wants.
+But this book will not ask you to try harder. You have tried harder. Every other method hands you a sword and points you at the dragon. No man wins a fight against something he still half wants.
 
 This book does one thing instead. It shows you, lie by lie, that the squatter has nothing you want. A man who sees that needs no willpower. He just stops carrying dinner up the stairs.
 
-You will stop watching porn and stop masturbating. This book calls the two together *the habit*. Then it follows *lust*, the appetite behind the habit, everywhere else it feeds. You will stop making bad decisions with women because you're thinking with the wrong head. You will stop for good, and you won't be miserable doing it.
+Here is what happens. You stop watching porn, and you stop masturbating. This book calls those two together *the habit*. Then the book goes after *lust* itself, the appetite behind the habit, wherever else it feeds. You stop making bad decisions with women because you're thinking with the wrong head. You stop for good, and you aren't miserable doing it.
 
 Nobody here will shame you or try to scare you. Shame and fear are what sent you back to the phone.
 
-Save your grit for something that deserves it. There are mountains to climb and children to raise. Don't let this be the battle that defines your life. He is a pest. Evict him, and get on with your life.
+Save your grit for something that deserves it. There are mountains to climb and children to raise. Don't let this be the battle that defines your life. The squatter is a pest. Evict him, and get on with your life.
 
 One man who got out described it like this:
 
 > "I feel like coming out from a fog that has been around me all this time."
 
-This book quotes the Bible and takes God seriously. If you believe, you'll find this way leans on grace, not grit. If you don't, you can still walk out by it.
+This book quotes the Bible and takes God seriously. If you believe, you'll find this way leans on grace, not grit. If you don't, the way out is the same, and it is open to you.
 
 It takes about four hours, and nobody has to know you're reading it. Read it this week. There are two rules.
 
 **DO NOT SKIP CHAPTERS.** They are short. Each one takes away one thing the squatter lives on, and the last step only works if the others came first.
 
-**Don't try to quit while you read.** Make no vows, start no streaks, and don't cut down. Everything you have been told says to try harder and reset the counter. Has any of it worked? Nobody is telling you to sin, and if you have already stopped, stay stopped. If you fall while you're reading, don't despair. Keep reading.
+**Don't try to quit while you read.** Make no vows, start no streaks, and don't cut down. Everything you have been told says to try harder and reset the counter. Has any of it worked?
+
+Nobody is telling you to sin. If you have already stopped, stay stopped. If you fall while you're reading, don't despair. Keep reading.
 
 Two things can't wait for the last chapter.
 
 If your lust is hurting someone else, stop that today. That means an affair, paying for sex, pressing a woman who has said no, or anything against the law. Someone else is paying for it.
 
-And a book is not a doctor. This method has freed many men, but nobody has tested it in a clinic. Do you have thoughts of harming yourself? Did this begin after something was done to you as a child? Do your urges frighten you, or pull you toward anything illegal? Then see a doctor or a counselor now, and read this book alongside them. The Appendix says more. They have heard it before. You are not beyond help.
+And a book is not a doctor. This method has freed many men, but nobody has tested it in a clinic. Do you have thoughts of harming yourself? Did this begin after something was done to you as a child? Do your urges frighten you, or pull you toward anything illegal? Then see a doctor or a counselor now, and read this book alongside them. They have heard it before. The Appendix at the back says more. You are not beyond help.
 
 If you are a woman, you are welcome here. The book says "he" throughout, but the trap is built the same for you, and so is the way out.
 
