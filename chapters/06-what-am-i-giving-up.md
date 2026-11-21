@@ -2,9 +2,9 @@
 
 Nothing. Not one thing.
 
-That's the whole chapter, really. But you don't believe it yet, so let's go slowly.
+That's the whole chapter. But you don't believe it yet, so let's go slowly.
 
-Stopping looks hard for one reason: fear. You're afraid a pleasure is about to be taken from you, or a comfort you lean on. You're afraid that the quiet evening alone, the long shower and the warm bed will never feel quite as good again. You're afraid that the next rotten day will arrive and you'll have nothing to make it easier to bear.
+Stopping looks hard for one reason: fear. You're afraid a pleasure is about to be taken from you, or a comfort you lean on. You're afraid that the quiet evening alone, the long shower and the warm bed will never feel quite as good again. You're afraid that the next rotten day will arrive and you'll have nothing to get you through it.
 
 Underneath those sits a bigger fear, and it's the world's favorite lie: that an orgasm on demand is something a man can't do without. That if you stop, you'll be denying your own nature. That you'll walk around with a hole in your life where the habit used to be.
 
@@ -12,7 +12,7 @@ Get this straight in your head:
 
 **THE HABIT DOESN'T FILL A HOLE. IT DIGS ONE.**
 
-In C.S. Lewis's *Screwtape Letters*, a senior devil admits that hell can't make a pleasure. All it can do is take a real one and bend it. And once a pleasure has been bent into a craving for the next new thing, the same devil says, it has a signature: "it diminishes pleasure while increasing desire."
+Lewis's senior devil, Screwtape, admits that hell can't make a pleasure. It can only bend a real one. And once a pleasure has been bent into a craving for the next new thing, he says, it has a signature: "it diminishes pleasure while increasing desire."
 
 You know that signature. Every year you get less out of the habit and want it more.
 
@@ -22,41 +22,41 @@ Once the Little Monster has starved and the Big Monster has been cleared out of 
 
 Where does the habit leave a man? On the nights he does it, he's miserable afterward: flat, guilty and a bit disgusted. On the nights he tries not to, he's miserable too, because he feels robbed. He has only two kinds of evening and both are bad.
 
-Think of yourself at a family gathering, slipping off upstairs with your phone. If anyone had known, he wouldn't have thought, "Lucky man, off to enjoy himself." He'd have thought, "Poor man, he can't sit through dinner." You weren't doing that for the fun of it. You did it because you were uncomfortable without it. No free man behaves like that.
+Think of yourself at a family gathering, slipping off upstairs with your phone. If anyone had known, he wouldn't have thought, "Lucky man, off to enjoy himself." He'd have thought, "Poor man, he can't sit through dinner." You weren't up there for fun. You went because you were uncomfortable without it. No free man behaves like that.
 
 **"But I'd be giving up sex."** No. If you're married, you're about to get it back. The habit has been quietly spending, alone, what belongs to the two of you. Lewis drew a sharp line between wanting a woman and wanting a sensation. The man after the sensation, he said, "wants a pleasure for which a woman happens to be the necessary piece of apparatus." Masturbation cuts out even the apparatus. Ask the men who've stopped what happened to the real thing. One wrote that he'd gained a "stronger real sex drive without wanting an easy release like porn". A married man put it more plainly: "sex feels natural and great with wifey".
 
-**"But I'm single. It's all I've got."** Then what you've got is a rehearsal for being alone. The word for it is a counterfeit. And the counterfeit trains you to be content without the real thing.
+**"But I'm single. It's all I've got."** Then all you've got is a rehearsal for being alone. It is a counterfeit, and a counterfeit trains you to be content without the real thing.
 
 So there's nothing to give up. And there's a great deal to gain. When men think about stopping, they tend to think first about energy or sleep, or about their conscience. Those are good reasons. But I believe the biggest gains are these:
 
 - Your confidence and your courage come back.
 - You stop being a slave.
-- The dark thing lurking behind every thought, and the daily contempt for yourself that goes with it, are gone.
+- The shadow behind every thought lifts, and the daily contempt for yourself goes with it.
 
 ## The itch and the cream {-}
 
 Imagine you get an itchy patch on the back of your hand. It's nothing much. A friend hands you a little tube of cream and says, "Try this." You rub some in and the itch stops at once. Marvelous.
 
-A few days later the itch is back, and a bit bigger. You use the cream again, and it goes again. And so it continues. Each time the patch comes back it has spread a little further, and the gaps get shorter. After a few years it covers both arms and wakes you most nights. You keep a tube in every coat, and you get nervous when one is nearly empty.
+A few days later the itch is back, and a bit bigger. You use the cream again, and it goes again. Each time the patch comes back it has spread a little further, and the gaps get shorter. After a few years it covers both arms and wakes you most nights. You keep a tube in every coat, and you get nervous when one is nearly empty.
 
-Then one day you read something. It turns out thousands of people have this same rash, and the cause has finally been found. The cream doesn't cure the itch. It pushes it under the skin for a few hours, and feeds it while it's down there. The cream is the reason the rash has been spreading. Stop using the cream and the rash dies off by itself, quite quickly.
+Then one day you read that thousands of people have this same rash, and the cause has finally been found. The cream doesn't cure the itch. It pushes it under the skin for a few hours, and feeds it while it's down there. The cream is the reason the rash has been spreading. Stop using the cream and the rash dies off by itself, quite quickly.
 
 Would you use the cream again?
 
-Would you need willpower to leave the tube in the drawer? Would you count the days, or call yourself a warrior? You might be uneasy for the first week, in case what you'd read was wrong. But as soon as you saw the patch shrinking, the wish for the cream would go. You wouldn't mope. You wouldn't sit around feeling sorry for yourself. You'd look at your arms every morning and grin.
+Would you need willpower to leave the tube in the drawer? Would you count the days, or call yourself a warrior? You might be uneasy for the first week, in case what you'd read was wrong. But as soon as you saw the patch shrinking, the wish for the cream would go. You wouldn't mope. You'd look at your arms every morning and grin.
 
 That is exactly what it's like to walk away from the habit.
 
 The rash isn't the guilt, the tired mornings, the wasted evenings, the distance from your wife or the silence between you and God. All of those are extra. The rash is that edgy, hollow, slightly panicky feeling of *I need it*. Men who don't have the habit never get that feeling. You didn't have it at nine years old. It arrived with the first time, and every time since has fed it.
 
-The feeling you keep reaching to relieve is the void, and the cream made it. When you stop, the void doesn't yawn open in front of you. It closes.
+The feeling you keep reaching to relieve is the hole, and the cream dug it. When you stop, the hole doesn't yawn open in front of you. It closes.
 
 Porn and the chase after women work the same way. Porn made the hunger for more porn. The chase made the ache that sends you chasing.
 
-A skeptic on a recovery forum raised a fair objection. He was halfway through EasyPeasy, the online book that inspired this one. If you lost nothing, he said, then nothing would change and you wouldn't notice anything. Of course something changes. The man with the rash loses his cream, and he notices. He loses the itch, the scratching, the tube in every coat and the dread of running out. When this book says you give up nothing, it means nothing good. You lose a problem and the false cure for it, and you lose them together.
+A skeptic on a recovery forum raised a fair objection. He was halfway through EasyPeasy, the online book that inspired this one. If you lost nothing, he said, then nothing would change and you wouldn't notice anything. Of course something changes. The man with the rash loses his cream, and he notices. He also loses the itch, the scratching, the tube in every coat and the dread of running out. When this book says you give up nothing, it means nothing good. You lose a problem and the false cure for it, and you lose them together.
 
-The apostle Paul said the same of his own life: "I consider those things that were gain to me as a loss for Christ." That is in his letter to the Philippians. Paul had a list of things he'd once counted as profit. He didn't give them up with gritted teeth. He looked at them beside what he'd found, which was Christ himself, and moved all of it to the other side of the ledger. In the next verse he called them "refuse", which is a polite translation. He isn't boasting about a sacrifice. He has seen what the stuff was worth.
+The apostle Paul said the same of his own life, in his letter to the Philippians: "I consider those things that were gain to me as a loss for Christ." Paul had a list of things he'd once counted as profit. He didn't give them up with gritted teeth. He looked at them beside what he'd found, which was Christ himself, and moved all of it to the other side of the ledger. In the next verse he called them "refuse", which is a polite translation. He isn't boasting about a sacrifice. He has seen what the stuff was worth.
 
 That's where you're headed. You won't be a man bravely doing without. You'll look at the tube of cream and wonder how you ever thought it was medicine.
 

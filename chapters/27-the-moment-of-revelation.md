@@ -6,11 +6,11 @@
 
 Some time in the first three weeks after he stops, a man usually has a moment when he simply knows he's free.
 
-It's hard to describe and you can't mistake it. The day looks brighter. Up to then you've been *telling* yourself that you don't need the habit. In this moment you find you no longer have to tell yourself anything. The last thread has gone. You know you're done with it, and you don't want it back. From then on you look at men who are still in the trap and feel only pity.
+It's hard to describe and impossible to mistake. The day looks brighter. Up to then you've been *telling* yourself that you don't need the habit. In this moment you find you no longer have to tell yourself anything. The last thread has gone. You know you're done with it, and you don't want it back. From then on you look at men who are still in the trap and feel only pity.
 
 One of the Psalms has a picture of it. "Our soul has escaped like a bird out of the fowler's snare." A fowler is a man who traps birds. The bird is out, and the snare lies broken on the ground behind it. The next line says who broke it: "Our help is in the LORD's name, who made heaven and earth."
 
-Men who stop by willpower rarely get this moment. They're glad they've stopped, but they go through life believing they gave something up, so there's never a day when the weight comes off.
+Men who stop by willpower rarely get this moment. They're glad they've stopped, but they go through life believing they gave something up. For them the weight never comes off.
 
 The deeper in you were, the better the moment is, and it doesn't wear off. Most joys fade. You remember that your wedding day or your first paycheck was wonderful, but you can't call the feeling back. This one you can. On a gray afternoon years from now you'll be able to stop and think, "I don't do that anymore," and feel glad again.
 
@@ -18,25 +18,27 @@ The deeper in you were, the better the moment is, and it doesn't wear off. Most 
 
 For most men it's days, not weeks.
 
-For some men it comes on the first day. With some readers it happens before the book is finished. Somewhere in the middle chapters they put it down and say, "That's enough. I can see the whole thing. I'm done." EasyPeasy is the online book about porn that inspired this one, and its readers report the same. One, twelve days out, had already stopped thinking of himself as a man holding on: "I just refer to myself as 'nonuser'", he wrote, and "I feel much happier as nonuser."
+For some men it comes on the first day. With some readers it happens before the book is finished. Somewhere in the middle chapters they put it down and say, "That's enough. I can see the whole thing. I'm done." Readers of EasyPeasy report the same. One, twelve days out, had already stopped thinking of himself as a man holding on: "I just refer to myself as 'nonuser'", he wrote, and "I feel much happier as nonuser."
 
-And let's be honest that it doesn't come to every man as a moment. For some it's sudden, a single day they can name. For others it comes on like a dawn. One young man, telling how God freed him, was careful to say so: "this wasn't something that happened overnight". Both kinds are real, and the slow kind is no less free. If yours comes by degrees, you haven't done it wrong. So take the two figures that follow as a rough guide and no more. They are not a sentence to serve, and they are not a date to wait for.
+It doesn't come to every man as a moment. For some it's sudden, a single day they can name. For others it comes on like a dawn. One young man, telling how God freed him, was careful to say so: "this wasn't something that happened overnight". The slow kind is no less free. If yours comes by degrees, you haven't done it wrong. So take the two figures that follow as a rough guide and no more. They are not a sentence to serve or a date to wait for.
 
-**About five days in,** the habit stops being the main thing on your mind. This is when most men have their moment. It usually comes in one of the old danger spots: the empty house, the sleepless night, the evening after a fight. You get to the far side of it and suddenly realize that you coped perfectly well, or even enjoyed yourself. The thought of the habit never crossed your mind. For the man on the couch it comes like this. His wife reaches across and picks up his phone to check the time, and nothing in his chest jumps. Only afterward does he notice that the phone was lying face up. After that it's easy going, and you know you're free.
+**About five days in,** the habit stops being the main thing on your mind. This is when most men have their moment. It usually comes in one of the old danger spots: the empty house, the sleepless night, the evening after a fight. You get to the far side of it and suddenly realize that you coped perfectly well, or even enjoyed yourself. The thought of the habit never crossed your mind. After that it's easy going.
 
-**About three weeks in** is when most willpower attempts die, and it's worth knowing why.
+For the man on the couch it comes like this. His wife reaches across and picks up his phone to check the time, and nothing in his chest jumps. Only afterward does he notice that the phone was lying face up.
+
+**About three weeks in** is when most willpower attempts die. Here is why.
 
 ## The three-week trap {-}
 
 By the third week the man senses that the desire has gone. He isn't sure, so he decides to prove it. "I'll just see. If it does nothing for me, I'll know I've beaten it."
 
-And it does feel odd. It's flat and a bit silly, and he takes that as his proof. But he has just handed the Little Monster its first meal in three weeks. Within the hour a small voice starts up: "You haven't beaten it. You want another."
+And it does feel odd. It's flat and a bit silly, and he takes that as his proof. But he has just handed the Little Monster his first meal in three weeks. Within the hour a small voice starts up: "You haven't beaten it. You want another."
 
 So don't prove anything to anyone, including yourself. You will never need to test your freedom, and every test of it is the habit under another name.
 
 ## Don't wait for it {-}
 
-The answer is not to sit waiting for that moment. The answer is to see that it's finished from the moment you decide. You've cut off the Little Monster's supply. Nothing on earth can stop you being free now, unless you sit moping or wait for a sign.
+So don't sit waiting for the moment. The habit is finished the minute you decide. The Little Monster's supply is cut off. Nothing on earth can stop you being free then, unless you sit moping or wait for a sign.
 
 If you're a Christian you have firmer ground than a feeling. Paul says that if anyone is in Christ, "he is a new creation. The old things have passed away." He wrote that as a fact about you, and the feeling will catch up with the fact.
 
@@ -44,7 +46,7 @@ So go and enjoy your life, and cope with it, from the very start.
 
 The moment will arrive soon enough.
 
-One question is left before the final step. What is all this freedom for?
+One question is left before you decide. What is all this freedom for?
 
 <!-- SOURCES (Chapter 27): every quote below is from the research files; check each against its page before publishing.
 - "a light as it were of serenity infused into my heart" — Augustine, Confessions, Book 8, ch. 12, §29, E.B. Pusey translation (public domain), https://faculty.georgetown.edu/jod/augustine/Pusey/book08

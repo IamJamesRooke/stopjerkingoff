@@ -4,23 +4,27 @@
 >
 > — Matthew 6:34
 
-You've reached the end of the book. Congratulations. I mean that as plainly as I can say it. You were caught in something that holds most men for life, and you walked out. You'll discover over the coming months that life was better than you thought it was. The habit had been standing in front of it.
+You've reached the end of the book. Congratulations. You were caught in a trap that holds most men for life, and you walked out. Over the coming months you'll find that life was better than you thought. The habit had been standing in front of it.
 
 Look back at the house for a moment. The squatter had no body of his own. He lived on what you lent him: your eyes, your mind, your hand, your feet and your bed. You didn't get rid of him by sweeping harder. You saw that he had never paid a day's rent, and then there was no room left for him to come back to. Open the windows. The smell will be gone in a day or two. If an old thought ever drifts past, you know what it is. Let it go by.
 
 And the man on the couch? His phone is lying face up on the cushion tonight, and he hasn't given it a thought.
 
+And the button on the nightstand, the one you'd have broken the furniture to press? It was real. You pressed it.
+
 ## Today is the only day you've got {-}
 
-One more idea before you go. It's short, and it'll serve you long after you've forgotten the rest.
+One more idea before you go. It will serve you long after you've forgotten the rest.
 
 The habit lived in two places, and neither was real. It lived in the past: the shame of last night, the tally of broken promises. And it lived in the future: "How will I manage a whole lifetime without it?" Nobody can manage a lifetime. A lifetime doesn't arrive in one piece. It comes one ordinary day at a time, and no man has ever had to stay free on any day except this one.
 
-Jesus told his friends the same thing. Leave tomorrow alone, because it has worries enough of its own. Yesterday is confessed and finished with.
+Jesus told his friends the same thing. Leave tomorrow alone, because it has worries enough of its own.
+
+Yesterday is confessed and finished.
 
 Tomorrow isn't yours yet.
 
-What you've been given is this afternoon.
+What you've been given is today.
 
 So practice one thing. Soon, perhaps this week, a thought will float up: "I could, just now." A second later you'll catch it and think, "That's not me. It's the leftover noise of a thing I've finished with." Then you'll feel a small burst of gladness. The thought no longer gives you orders. That's another moment of knowing you're free, and you can have it as often as you like.
 
@@ -30,25 +34,25 @@ Right now, as you read, nothing is wrong. You're free, you're forgiven, and you'
 
 ## What goes in the space {-}
 
-Something has changed. You have your space back: the hours, the energy and the attention that the habit used to eat. The room was never his, and it isn't empty. It's yours, and if you're a Christian, you share it with its owner. Spend it well.
+You have your space back: the hours, the energy and the attention the habit used to eat. The room was never his, and it isn't empty. It's yours, and if you're a Christian, you share it with its owner. Spend those hours well.
 
 For a Christian that means God first: not as a guard posted at the door, but as the one you were made to enjoy. Pray like a man with nothing to hide, because you have nothing to hide. Open the Bible because you want to. Sit in church without the old feeling of being a fraud in a pew.
 
 For any man it means the people in front of you. Your wife, who is owed the whole of you now, and who may need time. Your children, who get a father who isn't half elsewhere. Your friends and your work, and the thing you always meant to build.
 
-If you're not a believer, here is one honest suggestion, and then I'll leave it alone. This book has leaned on an old book from start to finish, and you may have noticed how often it got your life right. If it did, it's worth asking where those ideas came from. Read the Gospel of Mark. It's the shortest of the four accounts of Jesus's life, and you can read it in an evening. Or pray once, even if you aren't sure anyone is listening: "God, if you're there, show me." You've got nothing to lose. You've just learned that about lust.
+If you're not a believer, here is one honest suggestion, and then I'll leave it alone. This book has leaned on an old book from start to finish, and you may have noticed how often it got your life right. If it did, ask where those ideas came from. Read the Gospel of Mark. It's the shortest of the four accounts of Jesus's life, and you can read it in an evening. Or pray once, even if you aren't sure anyone is listening: "God, if you're there, show me." You've got nothing to lose. You've just learned that about lust.
 
 ## Pass it on {-}
 
 This book is shared under an open license. That means you may copy it, print it, translate it, quote it and pass it around without asking anyone. The Attribution page has the details.
 
-It is open because it was handed on to me. The method came from Allen Carr. The people behind EasyPeasy reworked it and shared it under the same license. I took what they shared, applied it to lust as a whole, and am handing it on in turn. Jesus put the principle in one short sentence when he sent his disciples out: "Freely you received, so freely give."
+It is open because it came to me that way. The method began with Allen Carr, who used it to free smokers. The people behind EasyPeasy turned it on porn and shared their book under the same open license. I took what they shared, turned it on lust as a whole, and am handing it on in turn. Jesus put the principle in one short sentence when he sent his disciples out: "Freely you received, so freely give."
 
 So if this book has done you good, I'll ask one thing of you: pay it forward.
 
-There is a bigger reason than gratitude. Lust has been made normal, and all of it runs on one fuel: men who can't look away. Every man who walks out stops paying for it. Every man he brings with him makes it two. It ends one free man at a time, and you are one of them now.
+There is a bigger reason than gratitude. Lust has been made normal, and the whole machine runs on one fuel: men who can't look away. Every man who walks out stops paying for it. Every man he brings with him makes it two. It ends one free man at a time, and you are one of them now.
 
-So tell one man. Somebody came to mind while you were reading. It might be a brother, a friend, or a young man you know. Send him the link, [stopjerkingoff.com](https://stopjerkingoff.com/), with one line: "This worked for me." Give it to those who lead men as well: your pastor, your youth leader, the man who runs the men's group. And if you find a mistake or can translate it, the text is open, and the site says how to send it in.
+So tell one man. You already have his name. Send him the link, [stopjerkingoff.com](https://stopjerkingoff.com/), with one line: "This worked for me." Give it to those who lead men as well: your pastor, your youth leader, the man who runs the men's group. And if you find a mistake or can translate it, the text is open, and the site says how to send it in.
 
 Don't preach it and don't argue it. You know by now that nobody is argued out of this trap. Pass the book along and get on with your day. The men who need it will read it at one in the morning, on their own, the way you probably did.
 

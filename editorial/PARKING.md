@@ -369,3 +369,16 @@ It will be easy.
 - The Back Door: "The three so far have something in common. Each has kept to a room with nobody else in it. The next one walks out into company."
 - Mothers, Sisters, Daughters: "That is the eye and the mind. Next comes the one most men know best."
 - Where the Line Is: "You know the five now, and you know the line. That leaves the question you have asked yourself a hundred times. You aren't stupid. You have wanted out for years. So why are you still in?"
+
+
+## 2026-11-21 line-edit sweep: cut from the Introduction
+
+Perhaps your version looks different. Perhaps it is the message to her that you rewrote five times, or the money you spent to be noticed. Perhaps it is the bed you woke up in and wished you hadn't. It is the same thing in a different coat.
+
+(Cut because it brings the chase and the bed onto page one, before the reader needs them.)
+
+## 2026-11-21 line-edit sweep: cut from the "just one look" chapter (David's aftermath)
+
+The bill kept coming. The prophet Nathan told him that the sword would never leave his house, and it never did. One of David's sons raped his own half sister. Another son, Absalom, killed that brother for it, and later raised an army against his father. The king no army had ever beaten fled his own capital on foot, weeping, while his son sat in his palace. He got the throne back, but it cost him Absalom too. One look, and what he did next, cost him the peace of his kingdom for the rest of his life.
+
+(Cut because David's story is already told in A City Without Walls; here it is now a one-sentence callback.)

@@ -4,9 +4,9 @@
 >
 > — Job 31:1
 
-This is what finishes off most men on the Willpower Method. They last three days, perhaps four, and then allow themselves one little look to get them through. It might be a scroll past a certain account, a quick search, or a minute of "just touching, not finishing". It might be one message to a woman he has sworn off, "just to see how she is". Men who do this have no idea what it does to their morale.
+One little look is what finishes off most men on the Willpower Method. They last three days, perhaps four, and then allow themselves one look to get them through. It might be a scroll past a certain account, a quick search, or a minute of "just touching, not finishing". It might be one message to a woman they have sworn off, "just to see how she is". Men who do this have no idea what it does to them.
 
-Often the little look is a letdown. The man's conscious mind is delighted: "That did nothing for me. I must be losing interest." The opposite is true. You never did this for the enjoyment. If you had, once would have been enough for a lifetime. You did it to feed the Little Monster. Think how that scrap tasted to him after four days of starving. You didn't notice, but he did, and he passes the news down to wherever your habits are kept. Soon a small voice says that, whatever the book proved, the thing is precious and you'd like another.
+Often the little look is a letdown. The man's conscious mind is delighted: "That did nothing for me. I must be losing interest." The opposite is true. You never did this for the enjoyment. You did it to feed the Little Monster. Think how that scrap tasted to him after four days of starving. You didn't notice, but he did, and he passes the news down to wherever your habits are kept. Soon a small voice says that, whatever the book proved, the habit is precious and you'd like another look.
 
 The little look does damage in two ways:
 
@@ -15,9 +15,7 @@ The little look does damage in two ways:
 
 The little look is also the caller getting his answer. All the calls you let ring taught him nothing. The one you picked up taught him to keep ringing.
 
-Job, the suffering man of the Old Testament, had the right idea. "I made a covenant with my eyes", he said; "how then should I look lustfully at a young woman?" He didn't promise to look a little. He made a covenant not to. King David took one long look from a rooftop, and it cost him his honor, a loyal soldier's life, and a child.
-
-The bill kept coming. The prophet Nathan told him that the sword would never leave his house, and it never did. One of David's sons raped his own half sister. Another son, Absalom, killed that brother for it, and later raised an army against his father. The king no army had ever beaten fled his own capital on foot, weeping, while his son sat in his palace. He got the throne back, but it cost him Absalom too. One look, and what he did next, cost him the peace of his kingdom for the rest of his life.
+Job, the suffering man of the Old Testament, had the right idea. "I made a covenant with my eyes", he said; "how then should I look lustfully at a young woman?" He didn't promise to look a little. He made a covenant not to. King David took one long look from a rooftop. It cost him his honor, a loyal soldier's life, a child, and the peace of his own house for the rest of his days.
 
 A man who got out called the whole business "just a poisoned cookie." That's the difference between the two methods. The willpower man stands in front of the cookie, telling himself not to take it. You've seen that it's poisoned. You don't have to resist it. You just don't eat it.
 

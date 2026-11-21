@@ -2,9 +2,9 @@
 
 A Benedictine monk once gave this advice to women who want to marry: "Marry a man who can fast." He meant a man who has learned to say no to himself.
 
-Picture a soldier who shows up for duty drunk. He may be on the right side. He may even be loved. He is still unfit for service, and the men beside him go without the support they were counting on.
+Picture a soldier who shows up for duty drunk. He may be on the right side. He may even be loved. He is still unfit for service, and the men who were counting on him are on their own.
 
-That is the theme under this whole book. It is self-control, and it comes down to one hard sentence. **A man who can't control his lust can't be trusted.** His wife can't fully trust him. His employer can't. Worst of all, he can't trust himself, because he has broken his own word too many times.
+Self-control is the theme under this whole book, and it comes down to one hard sentence. **A man who can't control his lust can't be trusted.** His wife can't fully trust him. His employer can't. Worst of all, he can't trust himself, because he has broken his own word too many times.
 
 You don't need that proved to you. Ask the man who said "never again" last night.
 
@@ -12,9 +12,9 @@ That is not an accusation. It was true of the man writing this, and it is the re
 
 And look at who has done it to us. It wasn't a dragon. A grown man, trusted with a job and a family, can't keep his word against a squatter the size of a house cat. That ought to annoy you. Good. Be annoyed at the right party.
 
-The reverse is also true. The man who is free of this walks differently. He can say no, so his yes is worth something. You were made for something, and this book is about getting you fit for it.
+The reverse is also true. A man who can say no has a yes that is worth something. His wife can rest her weight on it. So can his children, and the men beside him. So can he. You were made for something, and this book is about getting you fit for it.
 
-None of this is new. Three thousand years ago it brought down a king that no army could beat.
+None of this is new. Three thousand years ago, lust brought down a king no army could beat.
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of index.Rmd; the source notes for everything here are in that file. -->
 

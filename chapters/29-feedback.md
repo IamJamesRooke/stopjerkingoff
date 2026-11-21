@@ -4,23 +4,23 @@
 >
 > — Proverbs 24:16
 
-This book has no quarrel with the man in the trap. Its quarrel is with the trap. Every man who walks out is a cause for gladness. Two kinds of reader spoil it.
+This book has no quarrel with the man in the trap. Its quarrel is with the trap. Every man who walks out is a cause for gladness. Only two kinds of reader come to grief.
 
 ## The man who goes back in {-}
 
-The first is the man who reads the final warning, gets free and finds it easy. A year later he is back where he started, and this time he half believes the method has failed him.
+The first gets free and finds it easy. A year later he is back where he started, half believing the method failed him.
 
 It's like pulling a man out of a flooded river. He lies on the bank coughing and thanking you. Six months later you walk past and he's wading in again.
 
-When you're out, please don't be that man.
+Please don't be that man.
 
-People assume he went back because he was still hooked and couldn't stand it. That's rarely true. Stopping was so easy that he lost his respect for the trap. He thought, "I could allow myself one now and then. If things go badly, I know how to get out again."
+People assume he went back because he was still hooked. Rarely. Stopping was so easy that he lost his respect for the trap. He thought, "I could allow myself one now and then. If things go badly, I know how to get out again."
 
-It doesn't work like that. Stopping is easy, and controlling it is impossible. The one thing you must do to be free of the habit is not do it. An easy door swings both ways.
+It doesn't work like that. Stopping the habit is easy. Controlling it is impossible. An easy door swings both ways.
 
 ## The man who won't jump, or jumps and struggles {-}
 
-The second kind is too frightened to try, or tries and finds it hard going. His troubles come in four kinds.
+The second is too frightened to try, or tries and finds it hard going. His trouble is one of four things.
 
 ### 1. Fear of failure {-}
 
@@ -28,11 +28,11 @@ Failing is no disgrace. Refusing to try is plain foolishness. What are you prote
 
 ### 2. Fear of being miserable {-}
 
-Ask the cold question: what terrible thing will happen to you if you never do this again? The answer is nothing. All the terrible things lie the other way.
+Ask the cold question. What terrible thing will happen to you if you never touch the habit again? Nothing. All the terrible things lie the other way.
 
-The panic itself is part of what the habit did to you, and it passes. Being rid of that fear is the best thing you gain. If it rises, breathe slowly. If you're in company and people are grinding you down, step outside. Stand in the yard or the parking lot for five minutes.
+The panic itself is part of what the habit did to you, and it passes. Being rid of that fear is the best thing you gain. If it rises, breathe slowly. If people are grinding you down, step outside. Stand in the parking lot for five minutes.
 
-And if you feel like crying, cry. Don't be ashamed of it. We teach boys to clench their jaws and swallow it, and it does them no good. King David wept, and so did Jesus. The clock is on your side. Every hour that passes, the Little Monster is weaker.
+And if you feel like crying, cry. We teach boys to clench their jaws and swallow it, and it does them no good. King David wept, and so did Jesus. The clock is on your side. Every hour that passes, the Little Monster is weaker.
 
 One serious word. What you feel may be darker than a bad day. If you find yourself thinking about harming yourself, put this book down and talk to someone today: a doctor, a pastor, a crisis line. That isn't the Little Monster, and no book is the right tool for it.
 
@@ -40,41 +40,41 @@ And one more, said as gently as I know how. For some men this habit didn't begin
 
 ### 3. Not following the instructions {-}
 
-You'd be amazed. A man says the method didn't work for him, and then describes how he ignored nearly every instruction in it. He cut down, he kept the folder, he skipped the final step and he counted days. The instructions are gathered on one page near the end of this book, so that nobody can say he wasn't told.
+A man says the method didn't work for him. Then he describes how he ignored nearly every instruction in it. He cut down, kept the folder, skipped the final step and counted days. The instructions are gathered on one page near the end of this book, so that nobody can say he wasn't told.
 
 ### 4. Misunderstanding the instructions {-}
 
-These are the most common ones.
+These are the most common, in the words men use.
 
 **"I can't stop thinking about it."**
 
 Of course you can't, and you shouldn't try. Tell yourself not to think of a white horse and see what trots in.
 
-It doesn't matter if the subject crosses your mind fifty times a day. What matters is *what* you think when it does. If you think, "I wish I could," or "When will this end?", you'll be miserable. If you think, "I'm free", you'll be glad fifty times a day.
+It doesn't matter if the habit crosses your mind fifty times a day. What matters is *what* you think when it does. If you think, "I wish I could," or "When will this end?", you'll be miserable. If you think, "I'm free", you'll be glad fifty times a day.
 
 **"When does the urge die?"**
 
-Nobody can give you a date, and you don't need one. The leftover itch is so faint that you can't tell it from ordinary hunger, tiredness or a flat mood. That's why willpower quitters never know whether they've made it. Months later they feel hungry or low, and their mind says, "That's it again. You're owed one."
+Nobody can give you a date, and you don't need one. The leftover itch is so faint that you can't tell it from hunger, tiredness or a flat mood. That's why willpower quitters never know whether they've made it. Months later they feel hungry or low, and their mind says, "That's it again. You're owed one."
 
-So don't wait for the urge to die. A man who waits keeps asking, "Is it gone yet? Am I really free if I still feel this?" and those questions produce the fear he was hoping would go away. If a twinge comes and you're a praying man, pray. One man wrote that whenever he does, he feels completely normal again. If you don't pray, say "I'm free" and get on with your day.
+So don't wait for the urge to die. A man who waits keeps asking, "Is it gone yet? Am I really free if I still feel this?" Those questions breed the very fear he hoped would go. If a twinge comes and you're a praying man, pray. One man wrote that whenever he does, he feels completely normal again. If you don't pray, say "I'm free" and get on with your day.
 
 **"The moment when I know I'm free hasn't come."**
 
-If you're waiting for it, you're building another phobia. What are you waiting for? You were free when you decided. The only job left is to be glad about it from the start.
+Then stop waiting for it. Waiting builds a new fear out of nothing. You were free the moment you decided. The only job left is to be glad about it.
 
 **"I still want it."**
 
-Then ask which part of you is speaking. A twinge is not a wish. The Little Monster wants feeding, and you don't want what comes after. But if you find you really do believe there is still something in it for you, then one of the old lies is still standing. That is no disgrace. Go back and find which one, and read that chapter again.
+Then ask which part of you is speaking. A twinge is not a wish. The Little Monster wants feeding, and you don't want what comes after. But if you really do believe there is still something in it for you, one of the old lies is still standing. There's no shame in that. Find which one, and read that chapter again.
 
 **"I feel as if I've stopped living."**
 
-Why? Nobody asked you to. For a week or two you'll have a slight disturbance in the background: a faint, almost unnoticeable itch. Now think. You've had that itch for years, every hour you weren't feeding it. You had it at work, with your friends, at your mother's table and all night while you slept, and it never spoiled a meal. If you hadn't stopped, you'd have carried it to the grave.
+Why? Nobody asked you to. For a week or two you'll have a faint itch in the background, hardly worth noticing. You've had that itch for years, every hour you weren't feeding it. You had it at work, at your mother's table and all night while you slept, and it never spoiled a meal. If you hadn't stopped, you'd have carried it to the grave.
 
 The habit never added to a single occasion. It took from them. So go to the party and the wedding and the beach. Stay late and enjoy your dinner. Don't envy the smooth talker across the room with his three phone numbers. If he goes home alone to what you've left behind, he'd change places with you. You're not the one going without.
 
 **"I'm miserable and irritable."**
 
-Then something hasn't clicked yet, and that is no disgrace either. Some men understand every word of this book and believe it, and still set off like a man walking to the gallows. But you're doing the thing you most wanted to do, and what every man in the trap wishes he could do. Whatever method a man uses, the goal is a frame of mind in which every thought of the habit ends with "I'm free". If that's where you want to finish, why not begin there?
+Then something hasn't clicked yet. It happens. Some men understand every word of this book and believe it, and still set off like a man walking to the gallows. But you're doing the thing you most wanted to do, the thing every man in the trap wishes he could do. Whatever method a man uses, the goal is the same. Every thought of the habit ends with "I'm free". If that's where you want to finish, why not begin there?
 
 But hear this as well. If you have followed all of it, read the book twice, and are still struggling after a couple of months, that doesn't mean you misunderstood. Some men need a counselor as well as a book. That is the next step, and no defeat. And if you have felt low most of every day for more than two weeks, see a doctor.
 

@@ -1,6 +1,6 @@
 # The Rules in One Place {#the-instructions}
 
-This chapter is for the man who has taken the final step. If you haven't yet, your only instruction is to keep reading. The method fits in two words: decide and rejoice. These twelve spell it out.
+Here is the whole method, to carry with you. It fits in two words: decide and rejoice. These twelve rules spell it out. They are for the man who has taken the final step. If you haven't yet, you have one instruction only: read the book in order.
 
 1. Follow every instruction. All of them.
 2. Keep your mind open.
@@ -17,7 +17,7 @@ This chapter is for the man who has taken the final step. If you haven't yet, yo
 
 ## Verses for the moment {-}
 
-Here are some older words to keep. Pick one or two and learn them by heart. They aren't for shouting back at the Little Monster, because he gets no answer. They are for you, on any ordinary day, to remember whose you are. If you're not a believer, borrow them anyway. They will serve you better than a slogan.
+Here are four older lines to keep. Learn one or two by heart. They aren't for shouting back at the Little Monster, because he gets no answer. They are for you, on any ordinary day, to remember whose you are. If you're not a believer, borrow them anyway. They will serve you better than a slogan.
 
 > "For sin will not have dominion over you, for you are not under law, but under grace."
 >
@@ -34,6 +34,8 @@ Here are some older words to keep. Pick one or two and learn them by heart. They
 > "If therefore the Son makes you free, you will be free indeed."
 >
 > — John 8:36
+
+Those are the rules. All that's left is to send you off.
 
 <!-- SOURCES (Chapter 32): no quotations other than Scripture.
 - The first ten instructions follow EasyPeasy's list in order, reworded for this book. The eleventh (go back for one man) is ours, added in the 2026-11-17 editorial pass. Instruction 8 swaps the bare decision in EasyPeasy's eighth instruction for the prayer and vow of Chapter 28.

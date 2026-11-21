@@ -6,64 +6,64 @@
 
 Sooner or later almost every man in the trap tries setting himself a limit.
 
-Sometimes he means it as a stepping stone: "I'll ease off gradually, and then I'll stop." Sometimes he means it as a truce with the Little Monster: "I'll never be rid of you, so let's agree on terms." It nearly always arrives after a failed attempt to stop outright. A few days in, the man cracks, and the next morning he says something like this:
+Sometimes he means it as a stepping stone: "I'll ease off gradually, and then I'll stop." Sometimes he means it as a truce with the Little Monster: "I'll never be rid of you, so let's agree on terms." It nearly always follows a failed attempt to stop outright. A few days in, the man cracks, and the next morning he says something like this:
 
-"Never again is too much to ask. So from now on it's Saturdays only. Or only in the shower. Or only from my own head, with no screen. If I can hold it there for a while, I'll trim it further, and one day it will just fade out."
+"Never again is too much to ask. So from now on it's Saturdays only. Or only in the shower. Or only from my own head, with no screen. If I can hold it there, I'll trim it further, and one day it will just fade out."
 
-You may notice that you're living on one of these deals already. "Only without porn" is a limit. So is "only the soft stuff", and so is "I'll look, but I won't touch". With women the limit sounds like "we only text" or "it's just flirting". Lent is the forty days before Easter, when many Christians give something up. One man tried exactly that deal for Lent, porn out and the habit kept. He found he couldn't do the one without thinking about the other. A smaller meal is still a meal, and he is still being fed.
+You may be living on one of these deals already. "Only without porn" is a limit. So is "only the soft stuff", and so is "I'll look, but I won't touch". With women the limit sounds like "we only text" or "it's just flirting".
 
-It sounds like the moderate, grown-up option. Of everything a man can try, it is the worst, and it's the reason plenty of men stay caught for life. Four things happen to him.
+One man tried such a deal for Lent, the forty days before Easter when many Christians give something up. He dropped porn and kept masturbation. He found he couldn't do the one without thinking about the other. A smaller meal is still a meal, and the Little Monster is still being fed.
 
-1. **He gets the worst of both worlds.** He's still feeding the Little Monster, so the itch never dies. He's also thinking about the habit more than he ever did, so the Big Monster grows fat as well.
-2. **He wishes his life away.** Monday to Friday become a corridor he has to walk down. He's a grown man counting sleeps.
-3. **He carries the itch all week.** Before he set the limit, when the urge came he gave in, and the restlessness at least eased for a while. Now he drags it through six days out of seven, on top of everything else life hands him. He gets short with his wife and kids and can't think why.
-4. **Every time becomes "special".** Before, most of the times were automatic. He barely noticed them, and he certainly didn't treasure them. Now that he has waited six days, Saturday night feels like Christmas.
+A limit sounds like the grown-up option. It keeps plenty of men caught for life. Four things happen to the man who sets one.
 
-Look hard at number four, because the whole trick is in it. The relief was never in the act. The relief is the itch ending. So the longer the itch is left to nag, the bigger the relief seems, and the surer he is that he's enjoying something. He has turned a dull routine into a treat by making himself suffer for it first.
+1. **He gets the worst of both worlds.** He's still feeding the Little Monster, so the itch never dies. He also thinks about the habit more than he ever did, so the Big Monster grows fat as well.
+2. **He wishes his life away.** Monday to Friday become a corridor he has to walk down. He's a grown man counting sleeps until Saturday.
+3. **He carries the itch all week.** Before the limit, he gave in when the urge came, and the restlessness at least eased for a while. Now he drags it through six days out of seven. He gets short with his wife and kids and can't think why.
+4. **Every time becomes "special".** Before, most times were automatic. He barely noticed them, and he certainly didn't treasure them. Now that he has waited six days, Saturday night feels like Christmas.
 
-With a limit, the thing is always on offer, because Saturday is always coming. The monster never gets the message that the kitchen has closed. He just learns the opening hours, and he sits by the door all week.
+Look hard at number four, because the whole trick is in it. The relief was never in the act. The relief is the itch ending. So the longer the itch nags, the bigger the relief seems, and the surer he is that he's enjoying something. He has turned a dull routine into a treat by making himself suffer for it first.
 
-The hard part of stopping was never the flesh. It's the lie that the habit is a comfort or a reward. Cutting down does nothing to that lie except feed it. A man living by a limit ends up convinced that the most precious thing in his week is five minutes on a Saturday night. He set out to make the habit smaller, and he has made it the center of his calendar.
+With a limit, the habit is always on offer, because Saturday is always coming. The Little Monster never hears that the kitchen has closed. He just learns the opening hours, and he sits by the door all week.
+
+The hard part of stopping was never the flesh. It's the lie that the habit is a comfort or a reward. Cutting down only feeds that lie. A man living by a limit ends up convinced that the most precious thing in his week is five minutes on a Saturday night. He set out to make the habit smaller, and he has made it the center of his calendar.
 
 ## Less is not less {-}
 
 Many a man believes that the less he does it, the less he'll want it.
 
-The reverse is true. The less he does it, the longer the itch runs, and the sweeter the scratching feels. He'll also find that the old favorites have stopped working so well. Now he "needs" something a little stronger to make the long wait worth it. That is how a man who swore he'd only ever use his imagination ends up back on his phone.
+The reverse is true. The longer the wait, the sweeter the scratching feels. And the old favorites stop working so well. Now he "needs" something a little stronger to make the long wait worth it. That is how a man who swore he'd only ever use his imagination ends up back on his phone.
 
-You can test this on yourself without changing anything. Don't set yourself a limit while you read. Just think back. Take the days you did it twice. How was the second time? Flat and pointless, more than likely. Now think of a time you'd gone ten days without and then gave in. Fireworks.
+You can test this without changing anything. Just think back. Take the days you did it twice. How was the second time? Flat and pointless, more than likely. Now think of a time you'd gone ten days without and then gave in. Fireworks.
 
-The act was the same. Your hand was the same. The memory you used may well have been the same. The only thing that changed was how long you'd been kept waiting. If a thing were truly good, it would still be good the second time. A second helping of mashed potatoes is still mashed potatoes.
+The act was the same. Your hand was the same. The only thing that changed was how long you'd been kept waiting. If a thing were truly good, it would still be good the second time. A second helping of mashed potatoes is still mashed potatoes.
 
-Is the Saturdays-only man in control of anything? Outwardly he's the disciplined one, the once-a-week man the daily man envies. Inwardly he has spent six days out of seven in a quiet fight, and the seventh losing it by appointment. And the logic of his position doesn't hold. Either there's something real in the habit or there isn't. If there is, why wait a week for it? If there isn't, why do it at all?
+Is the Saturdays-only man in control of anything? Outwardly he's the disciplined one, the once-a-week man the daily man envies. Inwardly he spends six days out of seven in a quiet fight, and the seventh losing it by appointment. And his logic doesn't hold. Either there's something real in the habit or there isn't. If there is, why wait a week for it? If there isn't, why do it at all?
 
 ## Willpower for life {-}
 
-Cutting down doesn't work, because it rests on a hope: do a thing less and less, and the wish for it will shrink. That's how ordinary habits behave, and this isn't an ordinary habit. An appetite that is fed, even a little, comes back asking for more. It never asks for less. So to hold the line at once a week, a man has to push back against the pull with willpower and discipline. He has to keep pushing every day until he dies.
+An appetite that is fed, even a little, comes back asking for more. It never asks for less. So to hold the line at once a week, a man has to push back against the pull every day until he dies.
 
 **Cutting down means willpower for life.**
 
 If you had that kind of willpower to spare, you'd have stopped years ago. Stopping completely is far easier, and it hurts far less.
 
-The same goes for every half-measure dressed up as progress. Edging is one: a man goes right up to the end and stops, tells himself "at least I didn't finish", and has in fact kept the engine running for an hour. Looking without touching is another. So is touching without looking. So is "just checking". They're all ways of cutting down. One man who'd tried the first of them left this for the men coming after him:
+The same goes for every half-measure dressed up as progress. Edging is one. A man goes right up to the end and stops, and tells himself, "At least I didn't finish." He has kept the engine running for an hour. Looking without touching is another. So is touching without looking. So is "just checking". They're all ways of cutting down. One man who'd tried edging left this for the men coming after him:
 
 > "Don't edge. Really. Don't do it. It's the absolutely worst thing to do."
 
 A limit is indulgence with a schedule.
 
-Under one man's testimony a commenter wrote the sentence this whole chapter is trying to say. God had told him, he wrote, that he couldn't kill something he continued to feed.
+Under one man's testimony, a commenter put this whole chapter in one sentence. God had told him, he wrote, that he couldn't kill something he continued to feed.
 
 So your choices are these:
 
-1. Keep to a limit for life, and put yourself through that every week. You won't manage it anyway.
-2. Drop the limit, go back to doing it whenever, and let it take a bit more from you each year. Pointless.
+1. Keep to a limit for life, and put yourself through all that every week. You won't manage it anyway.
+2. Drop the limit, go back to doing it whenever, and let it take a bit more from you each year.
 3. Be kind to yourself and cut it out altogether.
 
-This is what Paul is getting at in his letter to the Romans, when he says to "make no provision for the flesh". "Saturdays only" is a provision. It's a standing reservation for the flesh: table for one, every Saturday, name on the list. Paul doesn't say to make a smaller provision. He says to make none.
+This is what Paul means when he tells the Romans to "make no provision for the flesh". "Saturdays only" is a provision. It's a standing reservation: table for one, every Saturday, name on the list. Paul doesn't say to make a smaller provision. He says to make none.
 
-That verse has a history. Augustine, the great teacher of the early church, spent years praying, "Give me chastity and continency, only not yet."
-
-One day he sat in a garden in Milan, sick of himself. From the house next door he heard a child's voice chanting, "Take up and read." He picked up a book of Paul's letters and read the first lines his eyes fell on. They were this verse: "put on the Lord Jesus Christ, and make no provision for the flesh".
+That verse has a history. Augustine was the man who prayed for years, "Give me chastity and continency, only not yet." One day he sat in a garden in Milan, sick of himself. From the house next door he heard a child's voice chanting, "Take up and read." He picked up a book of Paul's letters and read the first lines his eyes fell on. They were this verse: "put on the Lord Jesus Christ, and make no provision for the flesh".
 
 He wrote that he had no wish to read any further, and no need to. "Not yet" was over that afternoon.
 
@@ -71,7 +71,7 @@ Remember:
 
 **DON'T CUT IT DOWN. CUT IT OUT.**
 
-Which leaves the smallest request of all: just once. The answer to it comes from a strange place, a book about stalkers.
+That leaves the smallest request of all: just once. The answer to it comes from a strange place, a book about stalkers.
 
 <!-- ADDED 2026-11-19 (pastors' review): Augustine in the garden, Confessions Book 8, chapter 12 (Pusey translation: "Take up and read"; "No further would I read; nor needed I", paraphrased here). The verses he read were Romans 13:13-14. "Give me chastity and continency, only not yet" is Book 8, chapter 7, as in Chapter 2. Lent explained. "Carry on as normal" removed.
 -->

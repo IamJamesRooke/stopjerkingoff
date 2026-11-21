@@ -4,19 +4,19 @@
 >
 > — John 8:34
 
-So far you have seen the trap from the outside. Now we open it up and look at how it holds a man. For this stretch of the book the subject is the habit: porn and masturbation, together or one at a time.
+So far you have seen the trap from the outside. Now we open it up and see how it holds a man. The subject, for now, is the habit: porn and masturbation, together or one at a time.
 
 Sooner or later, every man with the habit gets the creepy feeling that he isn't the one in charge.
 
-It doesn't begin that way. In the early years the line is casual: "I'll stop. Just not tonight." Augustine became one of the great teachers of the early church. But first he spent years ruled by lust, and in those years he prayed much the same prayer: "Give me chastity and continency, only not yet." Sixteen centuries later we're all still praying it.
+It doesn't begin that way. In the early years the line is casual: "I'll stop. Just not tonight." Augustine became one of the great teachers of the early church. But first he spent years ruled by lust, and he prayed much the same prayer: "Give me chastity and continency, only not yet." Sixteen centuries later we're all still praying it.
 
 Then the line changes. After enough failed attempts you decide the fault must be in you. "I just don't have the willpower." Or you decide the fault is in nature: "Men are built this way. There must be something in it that I can't live without."
 
-Trying to quit feels like climbing a sand dune. You dig in and gain a few yards, and you can nearly see over the top. Then comes a bad day, your footing goes, and you slide down to the bottom with sand in your shoes. Nobody in the trap can explain it. They only know where they keep ending up.
+Trying to quit feels like climbing a sand dune. You dig in and gain a few yards, and you can nearly see over the top. Then comes a bad day. Your footing goes, and you slide to the bottom with sand in your shoes. Nobody in the trap can explain it. They only know where they keep ending up.
 
 ## Two questions {-}
 
-Find any man who masturbates regularly, or watches porn, and ask him: "Suppose you could go back to the week before you first did it, knowing everything you know today. Would you start?"
+Find any man with the habit and ask him: "Suppose you could go back to the week before you first did it, knowing everything you know today. Would you start?"
 
 "Not a chance."
 
@@ -26,7 +26,7 @@ Now find the man who defends it. He's read that it's natural, he'll tell you tha
 
 Isn't that strange? Millions of men do this, many of them daily, and not one would choose it again or wish it on his boy.
 
-So the puzzle in this book was never how stopping could be easy. The puzzle is why stopping seems hard, and under that sits a bigger one: why does anybody do it at all?
+So the puzzle was never how stopping could be easy. The puzzle is why stopping seems hard. Under that sits a bigger one: why does anybody do it at all?
 
 Think about how you started. Nobody sold it to you. Nobody talked you into it. Your own body turned up one day with a new trick. The jokes at school told you that every boy did it, so you thought no more about it. Porn arrived just as quietly: a pop-up, a friend's phone, a link somebody sent as a joke.
 
@@ -36,7 +36,7 @@ Then you spent the next ten, twenty or thirty years wishing you could leave it a
 
 You're not unique. You're standard issue.
 
-What does the habit actually give you in return? What kind of pleasure is it that you regret before you've even caught your breath, and are planning again by the following evening? You wish you weren't doing it while you do it. You're restless for it when you don't.
+What does the habit give you in return? What kind of pleasure is it that you regret before you've even caught your breath, and are planning again by the following evening? You wish you weren't doing it while you do it. You're restless for it when you don't.
 
 And the regret piles up. A man despises himself a little every time he promises "never again" one night and breaks it the next. He despises himself when his wife is asleep in the next room. He despises himself when he's too drained to get out of bed and do the thing he'd planned. He may be a sensible, capable man who runs every other part of his life well. He still carries this small contempt for himself everywhere, like a stone in his pocket.
 
@@ -48,7 +48,7 @@ Nothing. That's the going rate.
 
 ## The usual explanations {-}
 
-"Fine," you say. "I know all that. But once you're in it, it's very hard to get out."
+"Fine," you say. "I know all that. But once you're in, it's very hard to get out."
 
 Why, though? What exactly makes it hard?
 
@@ -58,7 +58,7 @@ Why, though? What exactly makes it hard?
 
 **Some say they simply enjoy it.** A man can enjoy a good steak. He doesn't need one every night behind a locked door, and he doesn't panic at the thought of a week without one. We enjoy the things we truly like while they last, and we don't sit around feeling robbed in between.
 
-That leaves the explanation almost every man settles on in the end. It is the most comfortable one, and it is wrong.
+That leaves one explanation. It is the most comfortable of them all, and it is wrong.
 
 <!-- SOURCES (Chapter 2): every quote below is from the research files; check each against its page before publishing.
 - "I keep seeing myself it again even after saying it's over." — Romanus, Covenant Eyes comments, 20 Jul 2020, https://www.covenanteyes.com/blog/three-steps-to-kick-the-habit-of-masturbation/comment-page-10

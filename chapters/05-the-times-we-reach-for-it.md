@@ -4,39 +4,39 @@
 >
 > — Matthew 11:28
 
-The Big Monster isn't one lie. He's a pile of small ones, and each is attached to a particular moment in your day: "it helps me when I'm stressed", "it's the only way I get to sleep", "it's my reward".
+The Big Monster isn't one lie. He's a pile of small ones, and each is tied to a moment in your day. "It helps me when I'm stressed." "It's the only way I get to sleep." "It's my reward."
 
-A man who quits by willpower leaves that pile standing. He stops doing it but goes on believing in it. So every bad day and every sleepless night he feels robbed. Sooner or later he goes back for what he thinks is his. So we're going to take the pile apart, one occasion at a time.
+A man who quits by willpower leaves that pile standing. He stops the habit but goes on believing in it. So every bad day and every sleepless night he feels robbed. Sooner or later he goes back for what he thinks is his. We're going to take the pile apart, one occasion at a time.
 
 ## What an urge really is {-}
 
-Before the occasions, look at the urge itself, because fear and the lies work as a team. What does a strong urge actually feel like? You get a tight chest and restless hands, your mind won't settle, and you can't sleep. Now think where else you've felt exactly that. You felt it outside an exam room, before a job interview, and walking over to speak to a girl you liked. It's anxiety. Most of what you call "the urge" is the fear of the urge, which is the dread that you'll be left wanting and miserable. The Little Monster only whispers. The fear is what makes it sound like a roar.
+First look at the urge itself, because fear and the lies work as a team. What does a strong urge actually feel like? You get a tight chest and restless hands, your mind won't settle, and you can't sleep. Now think where else you've felt exactly that. You felt it outside an exam room, before a job interview, and walking over to speak to a girl you liked. It's anxiety. Most of what you call the urge is fear of the urge: the dread of being left wanting and miserable. The Little Monster only whispers. Fear turns the whisper into a roar.
 
-That's how men can still be pining a year after they stopped. Nothing in the body lasts a year. That part is all in the head.
+That's how men can still be pining a year after they stopped. Nothing in the body lasts a year. The pining is all in the head.
 
 ## After a bad day {-}
 
 Stress comes first. I don't mean life's disasters. I mean the ordinary grind. The boss's email arrives at ten minutes to five. Then there's the bill you'd forgotten, the argument in the kitchen, the kids screaming in the back of the car. Somewhere in the afternoon a thought slides in: *tonight, when everyone's in bed.* You haven't decided anything, and already you're leaning on it.
 
-One man caught himself in the act of reaching for it, and saw what he was really after. He wasn't aroused at all, he said. He was sad. Thousands of men agreed with his next sentence, and it explains half the habit: "I don't know how to handle being sad".
+One man caught himself reaching for porn, and saw what he was really after. He wasn't aroused at all, he said. He was sad. Thousands of men agreed with his next sentence, and it explains half the habit: "I don't know how to handle being sad".
 
-A psychiatrist who treats porn addiction says the same of the men who come to him: "people think that it's about sex. They think it's about lust. It's not. It's about emotional regulation." Don't hear that as an excuse. The lust is real, and Jesus named it. But lust is often only the shape the habit takes. What a man is using it for is to change how he feels.
+A psychiatrist who treats porn addiction says the same of the men who come to him: "people think that it's about sex. They think it's about lust. It's not. It's about emotional regulation." Don't hear that as an excuse. The lust is real, and Jesus named it. But lust is often only the shape the habit takes. The man is using it to change how he feels.
 
-You're carrying two loads. One is the day's real trouble. The other is the Little Monster's low grumble, which you're so used to that you can't tell it from the first. When you do it, the second load lifts for a moment, so the total drops and you feel better. That lift is real. But the email, the bill and the argument are all exactly where you left them. You've now added the flatness, a late night and one more broken promise. You're tenser than you'd have been if you'd never had the habit at all.
+You're carrying two loads. One is the day's real trouble. The other is the Little Monster's low grumble, which you're so used to that you can't tell it from the first. When you masturbate, the second load lifts for a moment, so the total drops and you feel better. That lift is real. But the email, the bill and the argument are all exactly where you left them. And you've added the flatness, a late night and one more broken promise. You're tenser than you'd have been if you'd never had the habit at all.
 
 The habit gets the credit for easing a pressure that it largely built.
 
 Try a test. Have you ever expected the house to yourself for an evening and then had the plans change? Your wife's night out is canceled, or a roommate comes home early. Do you remember that flash of irritation, almost panic, far too big for what had happened? A free man doesn't get that. The habit put it there.
 
-The habit doesn't steady your nerves. It wears them down. Year after year it takes a little more of your courage, and all the while it tells you it's the only thing holding you together. One of the best things about getting out is that your natural confidence comes back. A man who isn't hiding anything walks into a room differently.
+The habit doesn't steady your nerves. It wears them down. Year after year it takes a little more of your courage, and all the while it tells you it's the only thing holding you together. Get out, and your natural confidence comes back. A man who isn't hiding anything walks into a room differently.
 
-Jesus made an invitation to the tired and the weighed-down: "Come to me, all you who labor and are heavily burdened, and I will give you rest." He doesn't send you off to earn it first. You've been taking your burdens to something that hands them back heavier.
+Jesus made an invitation to the tired and the weighed-down: "Come to me, all you who labor and are heavily burdened, and I will give you rest." He doesn't send you off to earn the rest first. You've been taking your burdens to something that hands them back heavier.
 
 ## "I've earned it" {-}
 
-The bad day has a cousin, and it is the good day. "I've worked hard, I've been good, I've earned it." Look at the prize you're awarding yourself. No other trophy has to be cleared from the history afterward. One coach, who is no preacher, gives the reason it never feels like one: "masturbation gives you the reward without the effort". A reward without the effort isn't a reward. It's a bribe, paid by the Little Monster to keep you where you are.
+The bad day has a cousin, and it is the good day. "I've worked hard, I've been good, I've earned it." Look at the prize you're awarding yourself. No other trophy has to be cleared from the history afterward. One coach, who is no preacher, gives the reason it never feels like a prize: "masturbation gives you the reward without the effort". A reward without the effort isn't a reward. It's a bribe, paid by the Little Monster to keep you where you are.
 
-Those are the big days. Most of it happens on the small ones, in the last hour before sleep.
+Those are the big days. Most of the habit happens on the small ones, in the last hour before sleep.
 
 <!-- SOURCES (Chapter 5): every quote below is from the research files; check each against its page before publishing.
 - "I am fed up of constantly doing it under pressure and stress." — Michael, Covenant Eyes comments, 2 Jan 2015, https://covenanteyes.com/blog/three-steps-to-kick-the-habit-of-masturbation/comment-page-4

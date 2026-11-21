@@ -8,21 +8,21 @@ No two men come to this book from the same place. One is nineteen and one is six
 
 ## The man at the front of the church {-}
 
-You'd think it would be easiest for the pastor, the elder or the worship leader. It isn't. Reasons were never the problem, and he has more reasons than anyone. He fears being found out, and fear sends a man reaching for comfort. He believes he must set an example, so he carries a second helping of guilt: "I, of all people." Often he has no pastor of his own. If you lead in a church, you're in an ordinary trap, and it opens the ordinary way.
+You'd think it would be easiest for the pastor, the elder or the worship leader. It isn't. He has more reasons to stop than anyone, and reasons were never the problem. He fears being found out, and fear sends a man reaching for comfort. He believes he must set an example, so he carries a second helping of guilt: "I, of all people." Often he has no pastor of his own. If you lead in a church, you're in an ordinary trap, and it opens the ordinary way.
 
 If that's you, tell someone outside your own church: a pastor you trust in another town, your bishop or superintendent, a counselor. If you're a priest, tell your confessor or spiritual director. You've spent years carrying other men's secrets. You're allowed to put this one down.
 
 ## The man who has been at it for decades {-}
 
-He's sure it must be harder for him. Thirty years of rut can't be the same as three.
+He's sure it must be harder for him. Thirty years in the rut can't be the same as three.
 
 It is the same. The Little Monster is no bigger at fifty than he was at fifteen, and the lies are the same lies. Under one man's testimony a commenter did the math on his own life: from thirteen to forty-four, more than thirty years of it. The length of the sentence has nothing to do with how the door opens. All it changes is the size of the relief.
 
 ## The man who thinks he's built this way {-}
 
-Plenty of men believe they're a special case. "I've got an unusually high drive." "I've got an addictive personality." Christians have their own version: "This is my besetting sin, my thorn. I'll carry it to the grave." He is borrowing from Paul, who wrote of a "thorn in the flesh". But Paul's thorn was a suffering God allowed. It was never a sin he was told to keep. Usually the man has picked this up from too many failed streaks and too many alarming videos.
+Plenty of men believe they're a special case. "I've got an unusually high drive." "I've got an addictive personality." Christians have their own version: "This is my besetting sin, my thorn. I'll carry it to the grave." That man is borrowing from Paul, who wrote of a "thorn in the flesh". But Paul's thorn was a suffering God allowed. It was never a sin he was told to keep. Usually a man picks up the belief from too many failed streaks and too many alarming videos.
 
-Nobody is born needing to do this to get to sleep. You weren't lying in your crib plotting it. It's the trap that catches a man. His character has nothing to do with it. But the trap is clever enough to make him blame his character. You must drop that belief. A man who believes he is in for life will behave like it long after the Little Monster is dead.
+Nobody is born needing to do this to get to sleep. You weren't lying in your crib plotting it. The trap catches a man. His character has nothing to do with it, though the trap is clever enough to make him blame it. Drop that belief. A man who believes he is in for life will behave like it long after the Little Monster is dead.
 
 ## The student and the single man {-}
 
@@ -31,8 +31,6 @@ The other hard-looking case is boredom mixed with stress. Think of the student i
 With the right frame of mind those same hours are no trouble. Don't worry that being alone keeps reminding you that you've stopped. Let it. Every reminder is a chance to think: *I'm getting rid of it. Isn't that marvelous?* Thought of that way, the urges turn into small moments of pleasure.
 
 ## So, will it be harder? {-}
-
-So, will it be harder for you?
 
 No.
 
@@ -44,9 +42,9 @@ Most men find it easier than they feared. Some men carry more than the habit: an
 
 There are only two worth worrying about.
 
-**The first is something outside you.** A scene in a movie, an ad, a photo in your feed, a woman at the gym. Or it's a softer thing: you see a couple holding hands and feel a sudden envy. It catches you in a weak moment. When it happens, use it. Remind yourself that there's no such thing as one look or one time. Be glad the chain is broken. And remember that the man still in the trap would swap places with you tomorrow. He's the one to feel sorry for, because he still has to.
+**The first is something outside you.** A scene in a movie, an ad, a photo in your feed, a woman at the gym. Or it's a softer thing: you see a couple holding hands and feel a sudden envy. It catches you in a weak moment. When it happens, use it. Remind yourself that there's no such thing as one look or one time. Be glad the chain is broken. And remember that the man still in the trap would swap places with you tomorrow. He's the one to feel sorry for, because he still has to do it.
 
-**The second is a bad day.** Get this clear before you start: you will have good days and bad days whether you go back to it or not. The book of Ecclesiastes says God has made the good day and the bad day side by side. They come to the free man and the man in the trap alike. You can't have hills without valleys.
+**The second is a bad day.** Get this clear before you start: you will have good days and bad days whether you go back to the habit or not. The book of Ecclesiastes says God has made the good day and the bad day side by side. They come to the free man and the man in the trap alike. You can't have hills without valleys.
 
 The trouble with the Willpower Method is what the man does with his bad day. He starts pining for his comfort, and now he has two problems. The free man has one. He is also better equipped to meet it, with more energy and a clear head, and he isn't dragging a guilty secret through it.
 
@@ -56,7 +54,7 @@ Your decision was right, and you know it. Why torture yourself by doubting it?
 
 Stay glad. It matters on the good days, and it matters most on the bad ones.
 
-And on a bad day you will be tempted to reach for something else in its place.
+And on a bad day you will be tempted to reach for something else in the habit's place.
 
 <!-- SOURCES (Chapter 24): every quote below is from the research files; check each against its page before publishing.
 - "Having experienced the prison of masturbation myself, I understand the struggle." — Henry Duodu Appiahkorang, Substack, 11 Oct 2024, https://duodu.substack.com/p/escaping-the-ocean-of-masturbation (the book calls him "one Christian writer"; the research does not say whether he is a pastor)

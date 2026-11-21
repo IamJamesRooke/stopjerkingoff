@@ -20,11 +20,11 @@ It sounds sensible. A few men do get free this way. But it is the hard road, and
 
 Why is it so hard? There are two reasons.
 
-**1. Guilt and fear make you reach for it.** What does a man do when he feels ashamed, anxious and worthless? He looks for comfort. And what has he trained himself to use for comfort? Tell a man the habit is ruining him and you've just handed him one more reason to escape into it tonight. A counselor on a Christian recovery blog saw it clearly: "Shame is the problem for so many, many Christians." This is why the scare videos and the thundering sermons have never freed you. They load the gun. A man who tries to quit out of desperation is working against himself, because desperation is the very thing that drives him back to it. That is true of porn. It is just as true of the hand, and of the next woman you chase to feel better about yourself.
+**1. Guilt and fear make you reach for it.** What does a man do when he feels ashamed, anxious and worthless? He looks for comfort. And what has he trained himself to use for comfort? Tell a man the habit is ruining him and you've just handed him one more reason to escape into it tonight. A counselor on a Christian recovery blog saw it clearly: "Shame is the problem for so many, many Christians." This is why the scare videos and the thundering sermons have never freed you. They load the gun. A man who tries to quit out of desperation is working against himself, because desperation is the very thing that drives him back. That is true of porn, and it is just as true of the hand.
 
-**2. Every reason to stop makes stopping harder.** That sounds crazy, so take it slowly. For one thing, your reasons tell you that you *ought* to give something up. So part of you goes on believing there is something to give up: a comfort, a treat, an old friend. You feel like a man being marched away from his only pleasure. And for another, your reasons point your eyes at the wrong question. You don't do it because of the reasons you should stop. Nobody opens the site or shuts the bathroom door *because* it leaves him flat and guilty. The real question is the other one: why do you want to do it at all?
+**2. Every reason to stop makes stopping harder.** That sounds crazy, so take it slowly. First, your reasons tell you that you *ought* to give something up. So part of you goes on believing there is something to give up: a comfort, a treat, an old friend. You feel like a man being marched away from his only pleasure. Second, your reasons point your eyes at the wrong question. You don't do it because of the reasons you should stop. Nobody opens the site or shuts the bathroom door *because* it leaves him flat and guilty. The real question is the other one: why do you want to do it at all?
 
-The man from the Christian forum, the one whose own effort failed him, spotted the trap inside all that effort. The harder he tried to stop thinking about porn, the more it became the center of his thoughts. Swap in "masturbation", or "her", and nothing changes.
+The man from the Christian forum, the one whose own effort failed him, spotted the trap inside all that effort. The harder he tried to stop thinking about porn, the more it became the center of his thoughts. Swap in "masturbation" and nothing changes.
 
 ## Three questions {-}
 
@@ -36,9 +36,9 @@ In their place, look straight at what you do and ask:
 2. **Do I actually enjoy it?**
 3. **Why am I doing this to myself?**
 
-The rest of the book exists to prove one thing to you: lust does nothing for you. Nothing at all. The porn doesn't. The hand doesn't. The chase doesn't.
+The rest of the book exists to prove one thing to you: the habit does nothing for you. Nothing at all. The porn doesn't. The hand doesn't.
 
-Be clear about what that means. I'm not saying the costs are bigger than the benefits. Every man already knows that, and it has never helped him. I'm saying there are no benefits.
+Be clear about what that means. Nobody is saying the costs are bigger than the benefits. Every man already knows that, and it has never helped him. There are no benefits.
 
 Not one.
 
@@ -58,7 +58,7 @@ A man who wears tight shoes all day for the pleasure of taking them off isn't en
 
 While you read, do one thing you have never done before. Watch.
 
-If you fall, keep your eyes open, and notice what it actually gave you. As you read, the wish to do it will shrink without any effort from you. Let it.
+If you fall, keep your eyes open, and notice what it actually gave you. Notice the ten minutes afterward too. As you read, the wish to do it will shrink without any effort from you. Let it.
 
 There's no "one last time" ceremony waiting for you in the closing pages. There is only a plain No, and you'll be glad to say it. It is not the old vow. The old vow was a promise made in your own strength, before you understood the trap, and you know how long those lasted. This one you'll say with your eyes open, and if you pray, you'll say it leaning on God.
 

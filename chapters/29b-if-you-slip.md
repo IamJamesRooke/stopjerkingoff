@@ -4,30 +4,30 @@
 >
 > — Micah 7:8
 
-I hope you never need this chapter. It is a warning, and it gives no permission. The rule from the final step stands: not once, for any reason.
+I hope you never need this chapter. It gives no permission. The rule stands: not once, for any reason.
 
-But the rule is strict and the grace is real. A soldier who trips on the march doesn't desert. He gets up and gets back in line. So here is what to do if you fall.
+But the rule is strict, and the grace is real. A soldier who trips on the march doesn't desert. He gets up and gets back in line. So here is what to do if you fall.
 
 ## Am I back to zero? {-}
 
 No. There's no counter in this book, so there's no zero to go back to. Your freedom was never a number. A man in a recovery group pictured it as a row of hurdles. You cleared ten cleanly and stumbled on the eleventh. That doesn't mean you have to go back and start the race again.
 
-But don't shrug it off. Something real happened. You fed the Little Monster and your conscience knows it. It makes no difference whether it was the site, the hand or a message to her. Do three things, in this order.
+But don't shrug it off. Something real happened. You fed the Little Monster and your conscience knows it. It makes no difference whether it was porn, the hand or a message to her. Do three things, in this order.
 
-*Confess it today.* Don't wait until you've punished yourself for a week. If you're Catholic, that means Confession, and don't put it off. "If we confess our sins, he is faithful". That promise wasn't only for the first time. The proverb says, "a righteous man falls seven times and rises up again". It doesn't say he never falls. It says he gets up. If you're married, don't start a new secret. Agree with your wife what she wants to be told, and tell the man you told. And remember the two words from the final step, spoken to a man who still smelled of yesterday: just come.
+*Confess it today.* Don't wait until you've punished yourself for a week. If you're Catholic, that means Confession, and don't put it off. "If we confess our sins, he is faithful". That promise wasn't only for the first time. The proverb says, "a righteous man falls seven times and rises up again". It doesn't say he never falls. It says he gets up. If you're married, don't start a new secret. Agree with your wife what she wants to be told, and tell the man you told. And remember the two words spoken to the son who still smelled of yesterday: just come.
 
-*Refuse the second one.* The real danger was never the fall. It's the thought that arrives an hour later: "Well, I've ruined it now, so I may as well." That's the streak counter talking. One fall is a fall, and a week of "may as well" puts you back inside. The pang is made of fear. A man who decides he's "hooked for life" after one slip has scared himself back inside.
+*Refuse the second one.* The real danger was never the fall. It's the thought that arrives an hour later: "Well, I've ruined it now, so I may as well." That's the streak counter talking. One fall is a fall. A week of "may as well" is the trap. What you feel after a fall is mostly fear. A man who decides he's "hooked for life" after one slip has scared himself back inside.
 
-*Find the lie that crept back.* A fall usually means one of the old lies got back in. You doubted, or you waited, or you kept a substitute, or you "tested" yourself, or you'd kept a way back. The things you learned in this book haven't been unlearned. Find the gap, read that part again if it helps, take the final step again and be glad again.
+*Find the lie that crept back.* A fall usually means an old lie got back in. You doubted, or you waited, or you kept a substitute, or you "tested" yourself, or you'd kept a way back. Nothing you learned in this book has been unlearned. Find the gap, read that part again if it helps, take the final step again and be glad again.
 
 You fell forward.
 
 ## The lies that follow a slip {-}
 
-The forums call it a "relapse" and reset the counter. The word does damage of its own. It turns one stupid act into an identity: *I'm a relapser.* What actually happened is smaller. You slipped, you fed the Little Monster, and now the Big Monster is telling you lies. Learn to recognize them.
+The forums call it a "relapse" and reset the counter. The word does damage of its own. It turns one stupid act into an identity: *I'm a relapser.* What happened is smaller. You slipped, you fed the Little Monster, and now the Big Monster is telling you lies. Learn to recognize them.
 
 - **"I'll never be free."** One slip has become a life sentence. Would you say that to a friend?
-- **"From now on I must be perfect: up at five, cold shower, an hour of prayer, no sugar."** Here guilt has dressed itself up as discipline. You'll keep it up for four days, collapse, and reach for comfort.
+- **"From now on I must be perfect: up at five, cold shower, an hour of prayer, no sugar."** That is guilt posing as discipline. You'll keep it up for four days, collapse, and reach for comfort.
 - **"Other men are on day two hundred and I can't manage twenty. I must be a hopeless case."** You're comparing yourself with a number on a stranger's screen. You don't know how he's doing, and it doesn't matter.
 - **"I shouldn't even feel desire."** Yes, you should. Desire is God's idea. You're a man and not a statue. Noticing that a woman is beautiful is not a fall. The sin was never the noticing. It was the second look, the one you take on purpose.
 
@@ -39,11 +39,11 @@ Religious men get one snare all to themselves.
 
 A man follows this method and finds stopping easy. Then he feels guilty that it was easy. Surely, after all those years, it ought to cost something. Surely he should suffer a little, as payment. So some part of him sets about making it hard. He broods and punishes himself. He even half welcomes a fall, so that he can feel truly wretched afterward.
 
-See that for what it is. It's the old lie dressed up as holiness. If you're a Christian you know perfectly well who paid, and it wasn't you. Brooding and self-punishment aren't humility. The debt was paid in full, by Christ. If you're Catholic and your priest gives you a penance, that is a different thing. It's medicine for the soul. It doesn't pay for your forgiveness. Christ did that. You don't owe misery on top, so take the freedom and be glad of it.
+See that for what it is: the old lie dressed up as holiness. Brooding and self-punishment aren't humility. If you're a Christian you know perfectly well who paid, and it wasn't you. Christ paid the debt in full. If you're Catholic and your priest gives you a penance, that is a different thing. It's medicine for the soul. It doesn't pay for your forgiveness. Christ did that. You don't owe misery on top. Take the freedom and be glad of it.
 
 ## The hard journey of not drinking bleach {-}
 
-If a slip has left you taking the whole business very solemnly, here's some medicine. It comes from a writer who goes by Guillaco, in a short work called *Meditations of a Porn Addict*, which the book EasyPeasy quotes. He reasoned that the habit offers no benefit and only hurts you, so wanting it is about as sensible as wanting to drink bleach. Then he imagined the support forum. Here it is, lightly edited.
+If a slip has left you taking the whole business very solemnly, here is the cure. It comes from a writer who goes by Guillaco, in a short work called *Meditations of a Porn Addict*, which the book EasyPeasy quotes. He reasoned that the habit offers no benefit and only hurts you, so wanting it is about as sensible as wanting to drink bleach. Then he imagined the support forum. Here it is, lightly edited.
 
 "Hi! We are NoBleach, and we host challenges in which participants, called Bleachstronauts, abstain from drinking bleach for a period of time. Whether you want a monthly challenge as a test of self-control, or whether excessive bleach drinking has become a problem in your life and you want to quit for longer, you will find a supportive community and plenty of resources here."
 
@@ -69,7 +69,7 @@ And the last has just reset his counter:
 
 Guillaco adds that he isn't mocking anyone's feelings. He wants you to see "how ridiculously easy it is (and always will be)" to be free. Then he asks: "How often do you allow yourself to drink a glass of bleach? Never? Why? Because it's a horrible thing, that's why!"
 
-You're smiling because you can see what the Bleachstronauts can't. Nobody needs courage, a counter or a monthly challenge to keep from drinking bleach. All he needs is to see what's in the glass. After that, not drinking it isn't an achievement. It's an ordinary day.
+You're smiling because you can see what the Bleachstronauts can't. Nobody needs courage, a counter or a monthly challenge to keep from drinking bleach. All a man needs is to see what's in the glass. After that, not drinking it isn't an achievement. It's an ordinary day.
 
 If you slipped, the lesson is not "try harder". Somewhere you started believing again that the glass had something to offer. The world repeats its lies daily, so it does no harm to hear the truth twice.
 

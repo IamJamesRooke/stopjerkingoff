@@ -6,7 +6,7 @@
 
 Men on the Willpower Method are always short of motivation, so they manufacture some. They bolt a prize onto the end of quitting and hope the prize will drag them through.
 
-The plainest version is the bribe: "If I get to the end of the month, I'll buy myself those sneakers." It sounds sensible. But be honest. Would any man in the trap swap his nightly comfort for a pair of shoes? The bribe only tells him that the month ahead is something to be endured, and that what he's leaving behind was worth compensating him for. The sacrifice has just gotten bigger in his mind.
+The plainest version is the bribe: "If I get to the end of the month, I'll buy myself those sneakers." It sounds sensible. But be honest. Would any man in the trap swap his nightly comfort for a pair of shoes? The bribe tells him two things. The month ahead is something to be endured, and what he's leaving behind is worth paying him for. The sacrifice has just gotten bigger in his mind.
 
 The internet has built grander prizes than sneakers. Here are the three you're most likely to meet.
 
@@ -14,7 +14,7 @@ The internet has built grander prizes than sneakers. Here are the three you're m
 
 Spend an evening on the NoFap forums and you'll be promised a great deal. You'll get a deeper voice, clear skin, an "aura", and women drawn across the room by forces unknown.
 
-It isn't proven. A therapist who works with these men said of the whole list, "there is little medical evidence for any of these changes." And the hype does its damage right here. You stop. Day twelve arrives. You inspect the mirror and find the same face. No aura. The barista hasn't noticed a thing. You were promised a voice like a movie trailer, and you still sound like yourself. Now a voice says, "It isn't working. You gave it up for nothing." You were promised wages, the wages didn't come, and you go back to the old job.
+None of it is proven. A therapist who works with these men said of the whole list, "there is little medical evidence for any of these changes." And the hype does its damage right here. You stop. Day twelve arrives. You inspect the mirror and find the same face. No aura. The barista hasn't noticed a thing. You were promised a voice like a movie trailer, and you still sound like yourself. Then comes the whisper: "It isn't working. You gave it up for nothing." You were promised wages, the wages didn't come, and you go back to the old job.
 
 The honest men in that world say so themselves. One, ninety days free, said the wisest thing on the whole subject. The so-called superpowers, he wrote, are just the qualities a man would have if he weren't hooked. They aren't powers. They're what a man is like when nothing is draining him.
 
@@ -22,7 +22,7 @@ The honest men in that world say so themselves. One, ninety days free, said the 
 
 A close cousin. The pitch is that the energy you save becomes the fuel that gets you the girl. In one coach's words, that energy "is what's going to drive you to get the woman you want".
 
-This leaves lust exactly where it was and just points it somewhere else. Jesus didn't say to harness the look. He said the look was already the sin. You're still treating women as the prize and your own desire as the boss. And it sets a trap with two doors. Suppose you don't get the girl. Then you're miserable, quitting "failed", and you know where you go for comfort. Suppose you do get her. Then the incentive has been paid out and there's nothing left holding you.
+This doesn't evict the squatter. It moves him down the hall, from the look to the chase. Jesus didn't say to harness the look. He said the look was already the sin. You're still treating women as the prize and your own desire as the boss. And it sets a trap that catches you win or lose. Suppose you don't get the girl. Then you're miserable, quitting "failed", and you know where you go for comfort. Suppose you do get her. Then the incentive has been paid out and there's nothing left holding you.
 
 Either way you're back.
 
@@ -30,7 +30,7 @@ The Christian version is a bargain with God: "Lord, I'll give this up, and You'l
 
 ## 3. The 90-day badge {-}
 
-The badge is the day counter with a finish line. It makes the days into a sentence to be served, with freedom scheduled for day ninety-one. And on day ninety-one the badge is won, the reason has expired, and the Big Monster hasn't been touched. Do you want to stop for ninety days, or do you want to be free?
+The badge is the day counter with a finish line. It turns the days into a sentence to be served, with freedom scheduled for day ninety-one. And on day ninety-one the badge is won, the reason has expired, and the Big Monster hasn't been touched. Do you want to stop for ninety days, or do you want to be free?
 
 The group version is the pact: six men in a chat, all starting on Monday. When one falls, the rest have the excuse they were hoping for.
 
@@ -40,15 +40,15 @@ Don't confuse a pact with honesty. This habit has to come into the light. Tellin
 
 Every one of these makes the same mistake. It ties stopping to a payment. If the payment doesn't arrive, you feel cheated. If it does arrive, the novelty wears off and you feel deprived. In both cases you start asking, "Is this really making my life better? Did I do it wrong?" Doubt like that is what urges are made of.
 
-Stop fooling yourself. The real costs are enormous: years of evenings, a foggy head, a conscience you can't look at, a word you can't keep. If those haven't stopped you, a badge and a pair of sneakers won't. All a phony prize can do is make the sacrifice look bigger.
+The real costs are already enormous: years of evenings, a foggy head, a conscience you can't look at, a word you can't keep. If those haven't stopped you, a badge and a pair of sneakers won't. All a phony prize can do is make the sacrifice look bigger.
 
-So look at the other end of the rope and ask the plain questions. What is it doing for me? Nothing. Why do I need it? You don't. You're only punishing yourself.
+So look at the other end of the rope and ask the plain questions. What is the habit doing for me? Nothing. Why do I need it? I don't. I'm only punishing myself.
 
-Will good things follow? Almost certainly. Men report more energy, more nerve and clearer heads. But those are a bonus. Jesus put it in the right order: "seek first God's Kingdom and his righteousness; and all these things will be given to you as well." Seek the other things first and you get neither. A man may well stop this and be single and broke a year later. He'll still be free, and he still won't miss it.
+Will good things follow? Almost certainly. Men report more energy, more nerve and clearer heads. But those are a bonus. Jesus put it in the right order: "seek first God's Kingdom and his righteousness; and all these things will be given to you as well." Seek the other things first and you get neither. A man may well stop and be single and broke a year later. He'll still be free, and he still won't miss it.
 
 ## Don't announce it {-}
 
-One last thing. Don't announce your quitting to the world, or post "Day 1" anywhere. Nobody else much cares. An announcement turns you into a proud ex-addict with an audience to perform for. What you want to be is a happy man who simply doesn't do it. Quietly handing this book to a man who needs it is a different thing.
+Don't announce your quitting to the world, or post "Day 1" anywhere. Nobody else much cares. An announcement turns you into a proud ex-addict with an audience to perform for. You want to be a happy man who simply doesn't do it. Quietly handing this book to a man who needs it is a different thing.
 
 A man on the NoFap forum got there after seventy-six days and wrote the sentence all of this has been aiming at: "I realize I do not need a why anymore."
 

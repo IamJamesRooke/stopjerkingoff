@@ -4,31 +4,31 @@ When all the other explanations have collapsed, most men settle on this one: it'
 
 It sounds like an answer, but it isn't one.
 
-Are habits hard to break? You change them constantly. You move to a new house, and for two days your hand goes to the wrong wall for the light switch. By the weekend it doesn't. You rent a car in a country that drives on the opposite side, and after one nervous mile you're fine. You start a new job and your whole morning is rearranged within a week. People drop thirty-year habits with no drama at all, including habits they liked.
+Are habits hard to break? You change them all the time. You move to a new house, and for two days your hand goes to the wrong wall for the light switch. By the weekend it doesn't. You rent a car in a country that drives on the opposite side, and after one nervous mile you're fine. You start a new job and your whole morning is rearranged within a week. People drop thirty-year habits with no drama at all, including habits they liked.
 
-So why would this one be different? This habit leaves you restless when you skip it and ashamed when you don't. You'd pay good money to be rid of it. And stopping asks nothing of you. You don't have to do a thing. You only have to not do one. Why can't you?
+So why would this one be different? This habit leaves you restless when you skip it and ashamed when you don't. You would break a nightstand to be rid of it. And stopping asks nothing of you. You don't have to do a thing. You only have to not do one. Why can't you?
 
 Because it isn't a habit.
 
-Jesus had the right word for it. "Everyone who commits sin is the bondservant of sin," he said. A bondservant is a slave. Two thousand years before anyone studied addiction, he had already named it. A man with a habit is in charge of it. This thing is in charge of you. You may call that sin, or addiction, or a trap. This book will use all three, and "the habit" as well, for convenience. But never forget what it is. IT'S A MASTER, NOT A HABIT.
+Jesus had the right word for it. "Everyone who commits sin is the bondservant of sin," he said. A bondservant is a slave. Two thousand years before anyone studied addiction, he had already named it. A man with a habit is in charge of it. This thing is in charge of you. Call it sin, or addiction, or a trap. This book uses all three. It will go on saying "the habit" as well, because that is what men call it. But never forget what it is. IT'S A MASTER, NOT A HABIT.
 
-It is one master, too. The thing that sends you to the bathroom is the thing that opens the site. It is the same thing that makes you say yes to a woman you ought to walk away from. They look like separate habits. There is one master giving the orders.
+And there is only one of him. What sends you to the bathroom is what opens the site. It is also what makes you say yes to a woman you ought to walk away from. They look like separate habits. One master gives the orders.
 
 And the joke of it is his size. For years you have been taking orders from a squatter in your own back room.
 
 The men who have gotten out reach for the same word without being told. One of them, eight months clean, looked back and counted. He wrote that he had been a slave to it since he was twelve years old. He was thirty.
 
-That is why it seems so hard to "give up". The slave has come to believe his master is also his comforter. He thinks he gets a real pleasure or a real crutch out of it, and that life without it would have a hole in the middle.
+That is why it seems so hard to "give up". The slave has come to believe his master is also his comforter. He thinks he gets a real pleasure or a real crutch out of it. He thinks life without it would have a hole in the middle.
 
-Now the good news. Once you see how the master actually holds you, and why you really reach for it, you'll stop. Just like that. A few weeks from now only two mysteries will be left. One is how it ever had a grip on you. The other is why you can't get your friends to see what you see.
+Now the good news. Once you see how the master holds you, and why you really reach for the habit, you'll stop. Just like that. A few weeks from now only two mysteries will be left. One is how it ever had a grip on you. The other is why you can't get your friends to see what you see.
 
 ## The quiet trap {-}
 
-This trap is one of the neatest ever built. Your own flesh supplies the bait, and the world stands around telling you it isn't a trap at all.
+What makes this trap so neat is how quiet it is. Your own flesh supplies the bait, and the world stands around telling you it isn't a trap at all.
 
 Think about how a boy walks in. With cigarettes there's at least a cough, and a health warning printed on the box. With porn there's the jolt of knowing he's looking at something he shouldn't. With his own hand there's nothing of the kind. There's no dealer, no price, no hangover and no smell on his clothes. It's his own body, in his own bed, and it happened half by accident. No alarm bell rings. Why would one?
 
-By the time something does feel wrong, the first guilt or the first prayer he doesn't quite want to finish, the routine is already laid down. From then on he lives like every other man in the trap. He wonders why he keeps doing it, hopes his own boys never start, and every so often tries to break out.
+Later something does feel wrong: the first guilt, or the first prayer he doesn't quite want to finish. But the routine is already laid down. From then on he lives like every other man in the trap. He wonders why he keeps doing it, hopes his own boys never start, and every so often tries to break out.
 
 So whose fault is it? One man who got out said it well: "I would say it is our fault and not our fault at the same time". He's right on both counts. Nobody chooses to walk into the trap, but a man does have to choose to walk out.
 
@@ -38,14 +38,16 @@ A few days of that and his resolve goes soft. "I picked a bad week. I'll do it w
 
 And each year the calm weeks seem fewer. He's left home, there's a job, rent, a wife, small children. Life, he decides, just gets more stressful as you go.
 
-It doesn't. He's mixing up responsibility with stress. You weren't carefree at fourteen. You were a bundle of nerves. What has grown is the habit's share of the load. Masturbation doesn't calm a man down. It winds him up, quietly, one guilty night at a time: another secret to keep, another promise broken, another morning started already behind. He blames the job.
+It doesn't. He's mixing up responsibility with stress. He wasn't carefree at fourteen. He was a bundle of nerves. What has grown is the habit's share of the load. It doesn't calm a man down. It winds him up, quietly, one guilty night at a time: another secret to keep, another promise broken, another morning started already behind. He blames the job.
 
 ## The two causes {-}
 
-Stopping can be easy for any man. But first we need the facts about why you're still doing it. I don't mean the frightening kind. It comes down to two things:
+Stopping can be easy for any man. But first you need the facts about why you're still doing it, and they aren't the frightening kind. It comes down to two things:
 
 1. **The flesh.**
 2. **The world's lies.**
+
+Take those two away, and nothing is left to hold you.
 
 The men who have already walked out aren't missing a thing. They aren't gritting their teeth or looking back with longing. If anything they seem faintly puzzled that they ever bothered.
 

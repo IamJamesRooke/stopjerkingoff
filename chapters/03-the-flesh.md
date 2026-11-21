@@ -4,23 +4,25 @@
 >
 > — Galatians 5:17
 
-Let's get one thing straight before anything else. There is nothing wrong with your sex drive.
+First, get one thing straight. There is nothing wrong with your sex drive.
 
-God made it, and he made it strong on purpose. C.S. Lewis, the author of the Narnia stories, also wrote a book called *The Screwtape Letters*. It is a set of letters from a senior devil named Screwtape to a junior devil, coaching him on how to tempt one ordinary man. At one point Screwtape complains about exactly this: "He made the pleasures: all our research so far has not enabled us to produce one." The other side can't make a pleasure. It can only bend one. Desire for a woman is the reason any of us are here. It's meant to pull a man out of himself and toward a wife, a home and children. A preacher who was bound by this habit for years puts the whole matter in a line. The trouble, he says, is "the wrong use of the right thing. Pleasure is not bad."
+God made it, and he made it strong on purpose. Desire for a woman is the reason any of us are here. It's meant to pull a man out of himself and toward a wife, a home and children.
+
+C.S. Lewis, the author of the Narnia stories, also wrote a book called *The Screwtape Letters*. In it a senior devil named Screwtape writes to a junior devil, coaching him on how to tempt one ordinary man. At one point Screwtape complains about God: "He made the pleasures: all our research so far has not enabled us to produce one." The other side can't make a pleasure. It can only bend one.
+
+A preacher who was bound by this habit for years puts the whole matter in a line. The trouble, he says, is "the wrong use of the right thing. Pleasure is not bad."
 
 When Paul writes about "the flesh", he doesn't mean your skin. He means the part of a man that wants what it wants, now, for itself, and doesn't care what it costs. If you're not a believer, call it appetite. Whatever you call it, you've met it.
 
-Lust is what happens when the flesh gets hold of desire. Desire says, "She is lovely." Lust says, "I want that, for me, now." Desire looks at a person. Lust looks at something to use.
+Lust is what happens when the flesh gets hold of desire. Desire says, "She is lovely." Lust says, "I want that, for me, now." Desire sees a person. Lust sees something to use.
 
 There is an old word for a thing set apart for a high use. The word is holy. Your body is in that class, and so is the drive God put in it. Paul asks his readers, "don't you know that your body is a temple of the Holy Spirit who is in you". He isn't saying your body is dirty. He is saying it is too good for this. If you're not a believer, think of something you would never use carelessly, like your grandfather's watch. Lust picks up the watch and hammers a nail with it.
 
-Lust is fed in more ways than one. A man looks, he thinks, he touches, and some men go further. They look like separate problems. They are one appetite.
-
-Masturbation is the plainest case, so we'll use it to show how the thing works. A drive that was built to end in another person is made to end in a tissue. It's a hijacking, and the plane lands nowhere.
+Lust feeds in more ways than one. Masturbation is the plainest case, so we'll use it to show how lust works. A drive that was built to end in another person is made to end in a tissue. It's a hijacking, and the plane lands nowhere.
 
 ## How the loop works {-}
 
-You'll find plenty of videos that explain this habit with brain chemistry, complete with diagrams. We're going to skip all of that. Some of it is shaky, and you don't need any of it. You don't have to understand an engine to notice that the car keeps pulling left.
+You'll find plenty of videos that explain this habit with brain chemistry, complete with diagrams. We'll skip all of it. Some of it is shaky, and you don't need any of it. You don't have to understand an engine to notice that the car keeps pulling left.
 
 What happens is simple, and you can check every step against your own experience.
 

@@ -6,7 +6,7 @@
 
 Up to now this book has given orders: no willpower campaign, no cutting down, no substitutes. On avoiding temptation I can't hand you a rule, because the answer depends on your life. You'll have to judge for yourself, and I can only help you judge well.
 
-What keeps a man in lust for life is fear of what life would be like without it. That fear comes in two phases.
+What keeps a man in the trap is fear of what life would be like outside it. That fear comes in two phases.
 
 ## Phase One: "How will I get through tonight?" {-}
 
@@ -14,17 +14,17 @@ This is the panic. It comes when the evening stretches ahead with nobody in it, 
 
 The panic is not a withdrawal pang. It's the belief that you can't cope without your release. It's strongest just before you stop, when your body is asking for nothing at all. It is plain fear of the unknown, the same thing a boy feels on his first diving board.
 
-The board is two feet above the water, and from up there it looks like twenty. The pool is ten feet deep and looks like a puddle. Every instinct tells him he's about to crack his skull. Stepping off takes real nerve. After that the rest is easy, and he comes up laughing.
+The board is two feet above the water, and from up there it looks like twenty. The pool is ten feet deep and looks like a puddle. Every instinct tells him he's about to crack his skull. Stepping off takes real nerve. The rest is easy, and he comes up laughing.
 
-Don't worry. The panic is in your head. The truth is that you don't depend on the thing, even now, while you're still in the trap. Paul says the spirit God gives is not one of fear. Believer or not, the water's deep enough, and plenty of men have jumped before you.
+The panic is in your head. You don't depend on the habit, even now, while you're still in the trap. Paul says the spirit God gives is not one of fear. Believer or not, the water's deep enough, and plenty of men have jumped before you.
 
 **Don't panic. Step off the board.**
 
 ## Phase Two: "What about the rest of my life?" {-}
 
-The second fear is slower. It's the worry that some future situation won't be bearable without the habit: the lonely Christmas, the months when your wife is sick, a death in the family. Step off the board and you'll find the opposite is true. A free man handles a hard day better, because he isn't also fighting himself. Her illness was never going to be your excuse anyway.
+The second fear is slower. It's the worry that some day will come that you can't bear without the habit. The lonely Christmas. The months when your wife is sick. A death in the family. Step off the board and you'll find the opposite is true. A free man handles a hard day better, because he isn't also fighting himself. Her illness was never going to be your excuse anyway.
 
-That leaves the practical question, which comes in two forms.
+That leaves the practical question, which comes in three forms.
 
 ## "Should I keep a way back, just in case?" {-}
 
@@ -47,11 +47,15 @@ There are two opposite mistakes.
 
 **The first is the fortress.** This man bans the internet, avoids the beach, and lives as if every woman were a danger. Every change tells him the same thing: "I'm in terrible danger and I've given up a great deal." That's the Willpower Method with a fence around it.
 
-**The second is the dare.** This man lies in bed at midnight with the phone on his chest to prove how strong he is. He looks like a man guarding a bomb he built himself. He's being a fool. Nobody proves he has quit drinking by sleeping in a bar. Testing yourself adds nothing to your freedom. Common sense says to avoid unnecessary stimulation. The word to notice is *unnecessary*. Christians have an old phrase for this: avoid the near occasion of sin. It means don't stand where you know you'll fall. That's not fear. It's sense.
+**The second is the dare.** This man lies in bed at midnight with the phone on his chest to prove how strong he is. He looks like a man guarding a bomb he built himself. Nobody proves he has quit drinking by sleeping in a bar. Testing yourself adds nothing to your freedom.
+
+Common sense says to avoid unnecessary stimulation. The word to notice is *unnecessary*. Christians have an old phrase for this: avoid the near occasion of sin. It means don't stand where you know you'll fall. That's not fear. It's sense.
 
 A pastor with a gift for the obvious puts it in terms of chocolate. He has never eaten four hundred pieces of candy, he says, when there were none within his reach. Temptation often comes through a door that somebody deliberately left open. He has a line for the gym as well. If every visit has you staring at what you see there, then "don't go to the gym!"
 
-None of this is a gimmick or a vow, and none of it has to wait for the last page. It is only the stupid thing avoided. So charge the phone in the kitchen. Do it because bed is a stupid place for a phone at midnight, whatever you look at. You're not doing it because you're in danger. Unfollow the accounts you followed for one reason. Cancel the subscriptions. Delete the folder. One man who was bound by this for years will go further if a man's circumstances need it: "If it means you got to get a roommate, get a roommate." That's sense, and there's no fear in it. If you're married and your wife asks for an open phone or a filter, give it gladly. That is honesty. It isn't a fortress. Beyond that, you don't need to rearrange your life.
+None of this is a gimmick or a vow, and none of it has to wait for the last page. It is only the stupid thing avoided. So charge the phone in the kitchen. You're not in danger. Bed is just a stupid place for a phone at midnight, whatever you look at. Unfollow the accounts you followed for one reason. Cancel the subscriptions. Delete the folder.
+
+One man who was bound by the habit for years goes further, if your circumstances need it: "If it means you got to get a roommate, get a roommate." If you're married and your wife asks for an open phone or a filter, give it gladly. That is honesty, not a fortress. Beyond that, you don't need to rearrange your life.
 
 Joseph, in the book of Genesis, shows you both halves. He was a young Hebrew slave in Egypt, running the house of an officer named Potiphar. Potiphar's wife kept asking him to sleep with her. One day she caught him by his coat, and he "ran outside". He didn't stay to test his character. But he hadn't been hiding from the house either. He'd gone in that day to do his work.
 
@@ -59,13 +63,15 @@ Joseph, in the book of Genesis, shows you both halves. He was a young Hebrew sla
 
 ## "Should I stay in for a few weeks?" {-}
 
-If you mean needless *stress*, then yes, within reason. You don't have to prove anything.
+If you mean staying clear of needless *stress*, then yes, within reason. You don't have to prove anything.
 
 If you mean your social life, the advice is the opposite. Go out right away, to the wedding, the party, the beach. Talk to women and look them in the eye.
 
 What sent you back to your room in the past was mostly an empty evening, so fill your evenings with people. And enjoy this while you're out: you don't *need* anything from any woman in the room. You can talk to her, like her and go home with a clear head. That's self-control with the fear gone out of it, and Paul puts it in the same breath as power and love. You're turning into a man who can be trusted.
 
 If it's this good while the Little Monster is still twitching, think what it'll be like when he's gone.
+
+And one day you will simply know that he is.
 
 <!-- SOURCES (Chapter 26): every quote below is from the research files; check each against its page before publishing.
 - "Be vigilant over your eyes. Avoid unnecessary stimulation." — John Piper, "Strategies for Fighting Sexual Sin", https://www.desiringgod.org/messages/strategies-for-fighting-sexual-sin. Confirmed word for word on desiringgod.org, 2026-11-14 (research/quote-verification.md), and restored as a quote.

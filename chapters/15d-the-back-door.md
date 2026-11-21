@@ -6,25 +6,25 @@
 
 "Fine. No porn. But the hand on its own is natural."
 
-That is the first room he moves to, and nearly every man has stood in it. Some men have read every page so far and quietly filed it all under porn. The screen was the problem, they decide, and the hand without the screen is another matter. A man quits porn and is proud of it, and he should be. But he keeps the hand, the way a man gives up whiskey and keeps the beer.
+That is the first room the squatter moves to, and nearly every man has stood in it. Some men have read every page so far and quietly filed it under porn. The screen was the problem, they decide, and the hand without the screen is another matter. A man quits porn and is proud of it, and he should be. But he keeps the hand, the way a man gives up whiskey and keeps the beer.
 
 The hand needs no screen, no woman and no money. All it needs is a man by himself for five minutes. For most men it was the first thing lust ever borrowed, and they expect it to be the last to go.
 
 Its lie is different from the lie of the screen. The screen says, "This is exciting." The hand says, "This is nothing." It's natural. It's free. Nobody gets hurt. It's just maintenance, like trimming your nails.
 
-Some men in Corinth had a slogan like that: "All things are lawful for me." Paul let them have it, and then answered it: "but I will not be brought under the power of anything."
+Some men in the church at Corinth, a Greek city, had a slogan like that: "All things are lawful for me." Paul let them have it, and then answered it: "but I will not be brought under the power of anything."
 
-This chapter is called the back door for a reason. One man quit porn twice, and went back twice. Both times, he said, masturbation was what led him back.
+One man quit porn twice, and went back twice. Both times, he said, masturbation was what led him back.
 
 It isn't hard to see how. The hand never works alone. Ask what is playing while it happens, because something always is. It's a memory, or a face from the feed, or a woman from work. The hand is where the look and the thought turn into the act.
 
-Then the memory wears thin. The same memory does a little less each time. So the hand goes looking for a stronger film, and it knows exactly where the stronger film is kept. The man bolted the front door and left the back door standing open. Then he was surprised to find the same old visitor in his kitchen.
+But a memory wears thin. It does a little less each time. So the hand goes looking for a stronger film, and it knows exactly where that film is kept. The man bolted the front door and left the back door standing open. Then he was surprised to find the same old visitor in his kitchen.
 
 So what has the hand really been paying you all these years?
 
-It was never pleasure. It was relief from an itch, and the last time is what set the itch going. For ten minutes it gets a man back to how the man who never does it feels all day. That is all it has ever paid.
+It was never pleasure. It was relief from an itch, and the last time set the itch going. For ten minutes a man feels the way the man who never does it feels all day. That is all it has ever paid.
 
-Then there is what it teaches. A body learns that desire is something to be dealt with quickly, alone, and with nobody to answer to. A man practices that for fifteen years. Then he marries, and wonders why the lesson came with him.
+Then there is what the hand teaches. A body learns that desire is something to be dealt with quickly, alone, and with nobody to answer to. A man practices that for fifteen years. Then he marries, and wonders why the lesson came with him.
 
 The world calls this self-love. It is a strange kind of love that needs the door locked and leaves you feeling worse than before.
 

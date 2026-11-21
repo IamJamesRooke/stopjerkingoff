@@ -4,13 +4,15 @@
 >
 > — Ephesians 5:11
 
-The first week you did it as a boy, you locked the door. Nobody taught you to hide it.
+You have followed the squatter through every room in the house. Now for the way out, and it starts with the one thing all those rooms had in common.
+
+The first week you masturbated as a boy, you locked the door. Nobody taught you to hide it.
 
 You knew.
 
-Nobody has ever called this a social habit. You don't do it at a dinner party. It may be the most private thing you do, and that privacy is what keeps it going.
+Nobody has ever called it a social habit. You don't do it at a dinner party. It may be the most private thing you do, and that privacy is what keeps it going.
 
-The rest of lust lives the same way. Nobody watches porn at the dinner table. And the messages to her are the ones you delete.
+The rest of lust lives the same way. Nobody watches porn with the family in the room. And the messages to her are the ones you delete.
 
 ## The work of hiding {-}
 
@@ -18,7 +20,7 @@ Look at what the locked door costs a grown man on an ordinary evening.
 
 He is on the couch beside his wife, and his phone lies face down on the cushion. It is always face down. She reaches across and picks it up to check the time, and something in his chest jumps before he can stop it.
 
-There is nothing on the screen. He cleared it an hour ago, as he clears it every night. He runs through it in his head anyway. The history. The other tab. The folder with the dull name.
+There is nothing on the screen. He cleared it an hour ago, as he clears it every night. He runs the checklist in his head anyway. The history. The other tab. The folder with the dull name.
 
 She hands the phone back and says it's nearly ten. He says he might stay up a while.
 
@@ -32,9 +34,9 @@ That is what the secret costs in one evening. Over the years it does four things
 
 **It protects the lies.** A lie kept in your head never has to face a question. Said aloud, it sounds as thin as it is. Try telling another grown man, with a straight face, "I need this in order to sleep."
 
-**It splits you in two.** There's the man people meet, and there's the man behind the door. The first spends a lot of energy making sure nobody meets the second. And the wall doesn't hold. What a man does in private comes out in public. C.S. Lewis once answered a letter from a man who had asked him about this very habit. He wrote that "almost the main work of life is to come out of our selves, out of the little dark prison we are all born in." A secret is that prison with the bolt on the inside.
+**It splits you in two.** There's the man people meet, and there's the man behind the door. The first spends a lot of energy making sure nobody meets the second. And the wall doesn't hold. What a man does in private comes out in public. C.S. Lewis wrote that "almost the main work of life is to come out of our selves, out of the little dark prison we are all born in." A secret is that prison with the bolt on the inside.
 
-**It sets you against your own side.** A secret has to be guarded against somebody. This one is guarded against the people who are for you: your wife, your friends, your children. So you end up keeping watch against your own family. That is a small disloyalty, repeated every day. The free man is finished with it. He is on the same side as the people who love him.
+**It sets you against your own side.** A secret has to be guarded against somebody. This one is guarded against the people who are for you: your wife, your friends, your children. That is a small disloyalty, repeated every day. The free man is finished with it. He is on the same side as the people who love him.
 
 A man with a secret can't be fully known. And he never feels fully loved, because he's always thinking, "You wouldn't say that if you knew."
 
@@ -54,23 +56,23 @@ A man is only as strong as he is honest.
 
 ## Fear is not sorrow {-}
 
-Watch for a counterfeit. Most men with this secret live in dread of being found out, and they take the dread for a conscience. It isn't one. The dread of being found out isn't repentance. It's the habit guarding itself.
+Watch for a counterfeit. Most men with this secret live in dread of being found out, and they take the dread for a conscience. It isn't one. It's the habit guarding itself.
 
 Paul drew the line in a letter to the church at Corinth: "godly sorrow produces repentance to salvation, which brings no regret. But the sorrow of the world produces death." Godly sorrow is the regret that turns a man around. The other kind is only sorry about what it might cost him. One test tells them apart. Godly sorrow isn't afraid of who finds out.
 
 ## Whom to tell, and when {-}
 
-So whom do you tell, and when? There is an order to it.
+There is an order to it.
 
 Start today with the two who already know. Stop hiding it from yourself, and stop hiding it from God. He has seen every time, and he hasn't left. If you're not a believer, say the plain facts aloud in an empty room, and notice how much smaller they sound.
 
 Then, once you have stopped, tell one person you trust. Tell him as a free man who is finished with a secret. Don't tell him as a man asking for a guard. A man who confesses so that somebody will watch him has only handed his willpower to a friend. A man who tells it because it is over is simply done with hiding.
 
-Men walk out into the light every day, and the door has only ever been locked from the inside.
+Men walk out into the light every day. The door was only ever locked from the inside.
 
 **DON'T BE THE LAST MAN IN THE DARK.**
 
-So the door opens from your side. The only question left is when.
+The only question left is when.
 
 <!-- SOURCES (Chapter 16): every quote below is from the research files; check each against its page before publishing.
 - "the things you do in private come out in public" — FitXFearless, "Nofap made me more attractive (here's why)", https://www.youtube.com/watch?v=mBgA7jORnXU (auto-captions; research/transcripts/fitxfearless-mBgA7jORnXU.md; the caption reads "The things you do in the back end, the things you do in private come out in public.")

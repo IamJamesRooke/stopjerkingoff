@@ -12,7 +12,7 @@ You swore off porn, and for three weeks you were clean. Then you noticed you wer
 
 No wonder it feels unbeatable. No wonder you decided the fault was in you.
 
-It can feel like being possessed. Something is running you that you never invited, and you want it out. That is an honest way to say how it feels, and there is no shame in it. But keep two things straight. He has never once made you do it. Every time, he asked, and you were the one who answered. And he is not ten feet tall. He is a pipsqueak, squatting in a back room.
+It can feel like being possessed. Something is running you that you never invited, and you want it out. That is an honest way to say how it feels, and there is no shame in saying it. But keep two things straight. He has never once made you do it. Every time, he asked, and you were the one who answered. And he is not ten feet tall. He is a pipsqueak, squatting in a back room.
 
 Now look at the one detail in the story that explains everything. Why could it come back? Because the house was empty.
 
@@ -34,7 +34,7 @@ Now look at how the squatter lives. He has no body of his own. He can't look at 
 
 One warning about him. He never leaves when you shut a room. He moves down the hall. You will hear it in your own voice: "Fine, not that. But surely this is all right." When you hear that sentence, smile. That is him, changing rooms. This book follows him room by room, and it goes further than you expect. You don't have to agree to anything in advance. Judge each room when we get there.
 
-It is also why this book asks you not to throw anything out yet. The day will come, near the end, when you show him the door. You'll do it once, and it will be easy, because by then you will know that he has nothing you want. You won't have to drag anyone out. You stop paying his bills and you stop bringing his food, and his friends leave with him.
+That is why this book asks you not to throw anything out yet. The day will come, near the end, when you show him the door. You'll do it once, and it will be easy, because by then you will know that he has nothing you want. You won't have to drag anyone out. You stop paying his bills and you stop bringing his food, and his friends leave with him.
 
 That leaves the question you have asked yourself a hundred times. You aren't stupid. You have wanted him out for years. So why does it feel so hard?
 

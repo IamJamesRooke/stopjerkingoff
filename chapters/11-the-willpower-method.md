@@ -6,43 +6,43 @@
 
 You have seen how the trap is built and what it charges. Now for the way most men try to climb out of it.
 
-Everybody knows that stopping is hard. The forums say so. The apps say so. The men who have tried say so, and add that it will be misery for the rest of your life. Nearly every book on the subject opens by warning you what a brutal road lies ahead.
+Everybody knows that stopping is hard. The forums say so. The apps say so. The men who have tried say so, and add that it will be misery for life. Nearly every book on the subject opens by warning you of the brutal road ahead.
 
-Your own attempts were hard too. They were every bit as hard as you remember. But the hardness came from the method.
+Your own attempts were every bit as hard as you remember. But the hardness came from the method.
 
-The truth is that stopping is absurdly easy.
+Stopping is absurdly easy.
 
-I know how that sounds, so bear with me. If I told you to run a marathon in under three hours, that would be hard. You'd need years of training, and you might not have the legs for it however hard you trained. But stopping the habit doesn't ask you to *do* anything. You only have to not do something. Nobody is holding you down and making you. Your body doesn't need it the way it needs bread and water. So if you want to stop, where exactly is the difficulty?
+I know how that sounds. If I told you to run a marathon in under three hours, that would be hard. You'd need years of training, and you still might not have the legs. But stopping the habit doesn't ask you to *do* anything. You only have to not do something. Nobody is holding you down. Your body doesn't need it the way it needs bread and water. So if you want to stop, where exactly is the difficulty?
 
-There isn't one. Men create the difficulty themselves, by using the Willpower Method. I mean any way of quitting that leaves you feeling you've sacrificed something. It is the same method whether the thing is porn, the hand or a woman you keep going back to. A man blocks the sites and unblocks them. He deletes her number and finds it again. We'll follow the habit here, because it shows the pattern most plainly.
+There isn't one. Men create the difficulty themselves, by using the Willpower Method. I mean any way of quitting that leaves you feeling you've sacrificed something. It is the same method whether a man is quitting porn, the hand or a woman he keeps going back to. He blocks the sites and unblocks them. He deletes her number and finds it again. We'll follow the habit here, porn and the hand, because it shows the pattern most plainly.
 
-It is the swept and empty house. He puts the tenant out and keeps the room ready, and the tenant comes back with company.
+It is the swept and empty house. A man puts the tenant out and keeps the room ready, and the tenant comes back with company.
 
-Some men are sorry to hear that it's easy. They wanted a war. They had pictured the long nights, the clenched jaw, all bone and sinew and will, and a medal at the far end. A squatter gives no medals.
+Some men are sorry to hear that it's easy. They wanted a war. They had pictured the long nights, the clenched jaw and a medal at the far end. A squatter gives no medals.
 
-If you have that kind of grit, good. The world is short of it. Spend it on a marriage, a business, a mission or a marathon. Don't spend it here, and don't let this be the battle that defines you. Nobody wants it on his gravestone that he fought his own hand for fifty years. Evict him, and get on with your life.
+If you have that kind of grit, good. The world is short of it. Spend it on a marriage, a business or a mission. Nobody wants it on his gravestone that he fought his own hand for fifty years. Evict him, and get on with your life.
 
-It usually takes years to realize you're hooked, because of one stubborn illusion: we assume men do this because they enjoy it. So on the nights we plainly don't enjoy it, we conclude we could stop any time. "I don't even like it that much. I could drop it tomorrow." That's the confidence trap. Somehow tomorrow is never the day you want to.
+It usually takes years to realize you're hooked, because of one stubborn illusion. We assume men keep the habit because they enjoy it. So on the nights we plainly don't enjoy it, we conclude we could stop any time. "I don't even like it that much. I could drop it tomorrow." That's the confidence trap. Somehow tomorrow is never the day you want to.
 
 ## The first attempts {-}
 
-After a few failed attempts, a man generally falls back on hope. One morning, he tells himself, he'll just wake up and not want it anymore. The hope gets fed by stories. "My cousin just stopped. Got married and never thought about it again." Don't be fooled. Look into those stories and they're never that simple. Either the man had been working up to it for a year and the wedding was the last push, or something had frightened him. No man has ever drifted out of this trap by accident. **It won't happen unless you make it happen.**
+After a few failed attempts, a man falls back on hope. One morning, he tells himself, he'll just wake up and not want it anymore. Stories feed the hope. "My cousin just stopped. Got married and never thought about it again." Look into those stories and they're never that simple. Either the man had been working up to it for a year, or something had frightened him. No man has ever drifted out of this trap by accident. **It won't happen unless you make it happen.**
 
 ## Why willpower is so hard {-}
 
-Let's slow down and watch the Willpower Method work.
+Now watch the Willpower Method at work.
 
-For most of our lives we keep our heads in the sand: "I'll deal with it later." Then something jolts a man into an attempt. He knows he'd be better off without it. That was never in doubt. What trips him is something else: he believes he's making a sacrifice. He can't say what it is he's sacrificing. He only has a feeling that in the good times and the bad times alike, the habit *helps*. It's an illusion, but it's a strong one.
+For most of our lives we keep our heads in the sand: "I'll deal with it later." Then something jolts a man into an attempt. He knows he'd be better off without the habit. That was never in doubt. What trips him is the belief that he's making a sacrifice. He can't say what he's sacrificing. He only has a feeling that, in good times and bad, the habit *helps*. It's an illusion, but a strong one.
 
-On top of that sit the lies he's soaked up from the world. On top of those sits the heaviest lie of all, which is how terrible it is to quit. He's heard about the man ninety days clean who still thinks about it every hour. He's heard about the man who says it has been a nightly war for fifty years. Most likely he's lived some of those stories himself.
+On top of that sit the lies he's soaked up from the world. On top of those sits the heaviest lie of all: that quitting is terrible. He's heard about the man ninety days clean who still thinks about it every hour. He's heard about the man who says it has been a nightly war for fifty years. Most likely he's lived some of those stories himself.
 
 So he doesn't start out thinking, "Wonderful! Have you heard? I don't have to do this anymore!" He starts in dread, like a man looking up at a cliff he has to climb. He texts his accountability partner: "Pray for me. This month is going to be rough." Most attempts are beaten before they begin.
 
 And fighting wears a man down. Every night he holds out by force, he has a little less left to hold out with the next night.
 
-Suppose he gets through the first few days. He feels a bit brighter. There's a little more spring in the mornings. And the reasons that made him stop are already fading. It's like passing a crash on the highway. You ease off for ten miles, shaken, and by the time you're running late again your foot is back on the floor.
+Suppose he gets through the first few days. He feels a bit brighter, with a little more spring in the mornings. And the reasons that made him stop are already fading. It's like passing a crash on the highway. You ease off for ten miles, shaken, and by the time you're running late again your foot is back on the floor.
 
-Meanwhile the Little Monster hasn't been fed. There's no pain in it. If a head cold made you feel like that, you wouldn't even mention it. But he knows what he wants. So the Little Monster wakes the Big Monster, and now watch something remarkable. The very man who three days ago was listing every reason to stop starts hunting, just as earnestly, for a reason to start:
+Meanwhile the Little Monster hasn't been fed. His hunger doesn't hurt. If a head cold felt like that, you wouldn't even mention it. But he knows what he wants, so he wakes the Big Monster. Now watch something remarkable. Three days ago this man was listing every reason to stop. Now he hunts, just as earnestly, for a reason to start:
 
 - "Life's short. There are worse sins."
 - "I can't think straight. I'm snapping at everyone. I can't do my job like this."
@@ -50,13 +50,13 @@ Meanwhile the Little Monster hasn't been fed. There's no pain in it. If a head c
 - "I'll just see how she's doing. It's only a message."
 - "God made men this way. He can't expect the impossible."
 
-This is the point where he gives in.
+And he gives in.
 
-What follows is the strangest minute of all. He feels real relief, because the Little Monster has been fed and has stopped nagging. In the same minute there's the flatness, and the old question: *why did I do that?* He draws the obvious conclusion that he's weak and has no willpower.
+What follows is the strangest minute of all. He feels real relief, because the Little Monster has been fed and has stopped nagging. In the same minute there's the flatness, and the old question: *why did I do that?* He draws the obvious conclusion. He's weak, and he has no willpower.
 
-It wasn't only weakness. He changed his mind. Look at what he believed at that moment. He was suffering, the habit would end the suffering, and there was something in it for him after all. Given all that, going back was a perfectly logical decision. His will was tired, but that wasn't the whole story. He was also acting on false information, and that part this book can fix.
+It wasn't only weakness. He changed his mind. Look at what he believed at that moment. He was suffering, the habit would end the suffering, and there was something in it for him after all. Given all that, going back was a perfectly logical decision. His will was tired, yes. But he was also acting on false information, and that part this book can fix.
 
-"What's the point of a clean conscience if I'm miserable?" It's a fair question, and the answer is that you won't be. A life without the habit isn't gray and twitchy. His misery doesn't come from the Little Monster, who is tiny. It comes from the tug-of-war. He starts by believing he's given something up, so he feels deprived, and feeling deprived is itself a strain. In a strain, the old voice says "go on", and now he can't. So he feels more deprived still.
+"What's the point of a clean conscience if I'm miserable?" It's a fair question, and the answer is that you won't be. A life without the habit isn't gray and twitchy. The willpower man's misery doesn't come from the Little Monster, who is tiny. It comes from the tug-of-war. He believes he's given something up, so he feels deprived, and feeling deprived is itself a strain. Under strain the old voice says "go on", and now he can't. So he feels more deprived still.
 
 That is the method at its best. Now add a scoreboard.
 

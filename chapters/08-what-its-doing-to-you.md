@@ -12,7 +12,7 @@ A doctor can check your blood pressure. But who checks your drive, or your nerve
 
 So almost nothing here is a medical finding, and where the doctors do come into it I'll say so. Check every line against your own life. If one doesn't fit, drop it. I don't think you'll drop many.
 
-A young man rarely notices the cost. At twenty he has energy to burn, nobody depending on him, and no wife lying beside him to notice that he's absent. He can fund the habit out of the surplus. The bill arrives later, when life starts asking for everything he has. Then he finds he's been spending a tenth of it in the dark for fifteen years.
+A young man rarely notices the cost. At twenty he has energy to burn, nobody depending on him, and no wife beside him to feel his absence. He can fund the habit out of the surplus. The bill arrives later, when life starts asking for everything he has. Then he finds he's been spending a tenth of it in the dark for fifteen years.
 
 ## It isn't a landmine {-}
 
@@ -20,7 +20,7 @@ Some men do worry about the cost. But listen to how they picture it. They pictur
 
 Get that picture out of your head. It's the wrong picture, and it's the one that keeps you walking.
 
-A truer picture is a bank account that somebody dips into every day. He never takes much. It's a few coins at a time, and never enough to notice. You would spot a robbery. You don't spot this. Then years later you add it up, and a fortune is gone.
+A truer picture is a bank account that somebody dips into every day. He takes a few coins at a time, never enough to notice. You would spot a robbery. You don't spot this. Then years later you add it up, and a fortune is gone.
 
 That is how this habit charges you. The cost isn't buried up ahead. **IT'S ALREADY BEING PAID.** You paid some last night, in the hour you spent and the sleep you lost after it. You paid some this morning, when you got up a little flat and a little ashamed. You'll pay some this afternoon, when your mind slides off the work in front of you. And you'll pay some tonight, when you're a little less present with the people in the room. None of it is big enough to call a disaster, and that's why you never see the total.
 
@@ -28,7 +28,7 @@ So don't ask whether the mine will ever go off. Ask what has been going out of t
 
 ## What it has been taking {-}
 
-There is no shock treatment here. Nothing below will be news to you. It's a list of things you already know and have trained yourself not to look at.
+There is no shock treatment here. Nothing that follows will be news to you. It's a list of things you already know and have trained yourself not to look at.
 
 ### Your drive {-}
 
@@ -40,7 +40,7 @@ That is the flat feeling. It isn't sadness, exactly. The morning after, you've g
 
 A married pastor says the same from the other end. God put the drive in a husband, he says, partly so that he would pursue his wife: date her, listen to her, win her again. Take that drive somewhere else and it's spent. "I don't have it anymore", he says. The husband ends up with a book on one side of the room while his wife gets on with her evening on the other.
 
-None of this is said to shame you. It is what the habit has been taking, a little more each year, and you are leaving it.
+None of this is said to shame you. It is what the habit has been taking, a little more each year, and you are about to stop paying.
 
 ### Your focus {-}
 
@@ -64,7 +64,7 @@ The women notice, even when you think they don't. And you lose something you may
 
 If you're a believer, you'll know this one best. If you're not, read it as "your conscience".
 
-The Bible's first story tells it. After Adam, the first man, ate the fruit God had forbidden, he covered himself, and then he hid. God came walking in the garden in the cool of the day, and Adam was crouching among the trees. Nobody had told him to hide. Shame did it without being asked.
+One of the Bible's first stories tells it. After Adam, the first man, ate the fruit God had forbidden, he covered himself, and then he hid. God came walking in the garden in the cool of the day, and Adam was crouching among the trees. Nobody had told him to hide. Shame did it without being asked.
 
 That's the real cost of this habit to a Christian man, and it has nothing to do with lightning bolts.
 
@@ -76,13 +76,13 @@ You skip the prayer because of what you did an hour ago. You sit at the back and
 
 This means the marriage you have, or the one you hope to have.
 
-Desire is meant to drive a man out of himself and toward a real woman, who has her own mind and her right to say no. The habit turns him around and hands him women in his head. They never have a headache, never need listening to and never ask anything of him. And a man can come to prefer it that way.
+Desire is meant to drive a man out of himself and toward a real woman. She has her own mind and her right to say no. The habit turns him around and hands him women in his head. They never have a headache, never need listening to and never ask anything of him. And a man can come to prefer it that way.
 
 So the husband lies a foot from his wife and a hundred miles away. She can't name what's wrong, but she can feel that some part of him is being spent elsewhere. Sometimes his body gives him away. "I knew there was a serious problem", wrote a man on a sobriety forum, "when I was losing my erection sometimes when I was with my wife". And he can't tell her, so there's now a locked room in the marriage.
 
 If she finds out for herself, it lands as a betrayal. It doesn't feel to her like a private habit. She wonders what else she doesn't know, and whether she was ever enough. None of that is her fault.
 
-A single man shouldn't imagine that a wedding ring will fix it. Ask any married man in the trap. He took the habit to his wedding with him.
+A single man shouldn't imagine that a wedding ring will fix it. Ask any married man in the trap. He took the habit on his honeymoon.
 
 And then there is the body. Men whisper about this part, and almost nobody tells them straight.
 

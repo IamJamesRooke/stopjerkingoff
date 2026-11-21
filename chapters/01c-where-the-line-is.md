@@ -1,6 +1,6 @@
 # Where the Line Is {#where-the-line-is}
 
-You have followed him through every room but one. Look, think, touch, chase, take. Those are the five ways he has been fed, with your eyes, your mind, your hand, your feet and your bed. In room after room the same small test did the work. Is this a gift, or a hit I'm taking?
+You have followed the squatter through every room but one. Look, think, touch, chase, take. Those are the five ways he has been fed, with your eyes, your mind, your hand, your feet and your bed. In room after room the same small test did the work. Is this a gift, or a hit I'm taking?
 
 Before the last room, that test deserves a proper look, because the last room is where men argue with it.
 
@@ -16,9 +16,9 @@ A gift has a person at the other end and a promise underneath it. A hit has only
 
 Run the five through it once more. The screen is a hit. So is the hand, and so is the private film. The chase is a man working a woman for what he can get, which is the opposite of a gift.
 
-That leaves the bed, and the test is hardest there, because she is in it too and she may want it as much as he does. So look at what sex is. It ties two people together. It can make a child. It is the most one body can say to another: all of me, to you. With no promise under it, his body says that and he doesn't mean it. That is why it so often leaves a flat feeling behind, even when both of them were willing.
+That leaves the bed, and the test is hardest there. She is in it too, and she may want it as much as he does. So look at what sex is. It ties two people together. It can make a child. It is the most one body can say to another: all of me, to you. With no promise under it, his body says that and he doesn't mean it. That is why it so often leaves a flat feeling behind, even when both of them were willing.
 
-The Bible drew the line in the same place three thousand years ago. Sex belongs inside marriage. The book of Proverbs says it the way a father would say it to his son: "Drink water out of your own cistern, running water out of your own well." Inside a marriage, sex is a gift, and a husband and wife who give themselves to each other are on the right side of the line. The screen, the hand, the private film of another woman, the chase and any bed outside marriage are on the other side.
+The Bible drew the line in the same place three thousand years ago. Sex belongs inside marriage. The book of Proverbs says it the way a father would say it to his son: "Drink water out of your own cistern, running water out of your own well." Inside a marriage, sex is a gift. A husband and wife who give themselves to each other are on the right side of the line. The screen, the hand, the private film of another woman, the chase and any bed outside marriage are on the other side.
 
 You may not accept that yet, and you don't have to accept it to keep reading. Just keep the test in your pocket, and try it on your own life.
 

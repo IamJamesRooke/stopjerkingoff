@@ -6,7 +6,7 @@
 
 Men who masturbate every day tend to envy the man who doesn't. We've all met him, or read his posts. "Honestly, I can go a couple of weeks and not even think about it." We wish we were built like that.
 
-Don't. This may be hard to believe, but no man in the trap enjoys being in it, however lightly he seems to wear it. Keep three things in view:
+Don't. No man in the trap enjoys being in it, however lightly he seems to wear it. Keep three things in view:
 
 - No man ever decided to get hooked, lightly or heavily.
 - So every man in the trap feels like a fool.
@@ -14,22 +14,22 @@ Don't. This may be hard to believe, but no man in the trap enjoys being in it, h
 
 Think about how people talk about things they really enjoy. A serious fisherman tells you how often he gets out on the water, and wishes it were more. So why does a man boast about how *little* he does it? If going without is the thing to be proud of, the trophy belongs to the man who never does it at all.
 
-Suppose a friend said to you, "I can go two whole weeks without toast, and it doesn't bother me in the slightest." You'd wonder what was wrong with him. If he likes toast, why go without? If he doesn't, why mention it? A man only makes a speech like that about something that has a hold on him. What the two-week man is really telling you is: "I survived two weeks." Like every man in the trap, he's hoping that if he can survive two weeks he might one day survive for good. And if two weeks was a feat of survival, imagine how precious the next time must have been.
+Suppose a friend said to you, "I can go two whole weeks without toast, and it doesn't bother me in the slightest." You'd wonder what was wrong with him. If he likes toast, why go without? If he doesn't, why mention it? A man only makes a speech like that about something that has a hold on him. What the two-week man is really telling you is, "I survived two weeks." And if two weeks was a feat of survival, imagine how precious the next time must have been.
 
-That's why the man who does it rarely is, in one way, more firmly caught than the man who does it daily. The illusion of pleasure is bigger for him, because he's always coming off a long wait. He also has less reason to get out. It costs him less time, and the damage is harder to see. Things do go wrong: a flat mood, a wandering mind in bed with his wife, a coldness when he tries to pray. He blames them on work or tiredness or his age.
+That's why the man who masturbates rarely is, in one way, more firmly caught than the man who does it daily. The illusion of pleasure is bigger for him, because he's always coming off a long wait. He also has less reason to get out. It costs him less time, and the damage is harder to see. Things do go wrong: a flat mood, a wandering mind in bed with his wife, a coldness when he tries to pray. He blames them on work or tiredness or his age.
 
-So a man in the trap makes two mistakes about other men. He envies the one who seems to do it less, and he looks down on the one who does more. "At least I'm not him." Both mistakes come from the same belief, that these are different kinds of men. They aren't, and here is why.
+So a man in the trap makes two mistakes about other men. He envies the one who seems to do it less, and he looks down on the one who does more. "At least I'm not him." Both mistakes rest on one belief, that these are different kinds of men. They aren't.
 
 ## Why every man doesn't do it all day {-}
 
-If the light man is caught as firmly as the heavy one, why do they look so different? It isn't strength. If you've got an itch that never quite goes, the natural thing is to scratch whenever it nags. Each scratch works a little less well than the one before. So the natural drift is always toward more: more often, for longer, with stronger material. So why isn't every man in the trap doing it five times a day? Four things hold him back.
+If the light man is caught as firmly as the heavy one, why do they look so different? It isn't strength. An itch that never quite goes gets scratched whenever it nags, and each scratch works a little less well than the one before. So the natural drift is always toward more: more often, for longer, with stronger material. Then why isn't every man in the trap doing it five times a day? Four things hold him back.
 
 1. **Time.** He has a job, a family and a life, and most days are full.
 2. **The body.** A man can only go so many rounds, and fewer as he gets older and more tired.
-3. **Privacy.** A wife in the bed, a roommate, children who don't knock, thin walls. For many men the only thing between them and twice as often is a lack of locked doors.
-4. **Conscience.** The tug of war that goes on in every man in the trap. Some of it comes from how he was raised, some from a wife's opinion, and some from a plain dislike of what he's turning into.
+3. **Privacy.** A wife in the bed, a roommate, children who don't knock, thin walls. For many men, all that stands between them and twice as often is a shortage of locked doors.
+4. **Conscience.** Every man in the trap is in a tug of war with himself. Some of it comes from how he was raised, some from a wife's opinion, and some from a plain dislike of what he's turning into.
 
-Men who do it daily tend to think of themselves as weak, and can't see how other men keep it to once a week. But the once-a-week man is usually no stronger. One or more of those four brakes is simply on harder. He shares a small apartment, or he's fifty-five, or he works fourteen-hour days. Take the brake off, say with a week alone in a hotel, and watch what he does.
+Men who do it daily tend to think of themselves as weak, and can't see how other men keep it to once a week. But the once-a-week man is usually no stronger. One of those four brakes is simply on harder. He shares a small apartment, or he's fifty-five, or he works fourteen-hour days. Take the brake off, say with a week alone in a hotel, and watch what he does.
 
 So the men in the trap differ in their brakes, and in where their lust goes, and in nothing else. Line them up, from the shallow end to the deep, and you will find yourself among them.
 

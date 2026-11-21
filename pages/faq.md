@@ -4,7 +4,7 @@ Short, straight answers to the questions men ask most about quitting masturbatio
 
 ## What is this book about? {-}
 
-Conquering lust. Lust is fed in five ways: a man looks, thinks, touches, chases and takes. So you stop watching porn, stop masturbating, and stop making bad decisions with women because you're thinking with the wrong head. One method deals with all five. See [The Empty House](the-empty-house.html). A man ruled by lust is like a soldier who shows up for duty drunk. He is still loved, and he is unfit for service. The book gets you fit. See the [Introduction](index.html) and [Fit for Service](fit-for-service.html).
+Conquering lust. You stop watching porn, stop masturbating, and stop making bad decisions with women because you're thinking with the wrong head. The book starts with the habit, which is porn and masturbation, and then follows lust everywhere else it goes. One method deals with all of it. See the [Introduction](index.html) and [The Empty House](the-empty-house.html). A man ruled by lust is like a soldier who shows up for duty drunk. He is still loved, and he is unfit for service. The book gets you fit. See [Can You Be Trusted?](can-you-be-trusted.html) and [Fit for Service](fit-for-service.html).
 
 ## How do I stop masturbating? {-}
 
@@ -36,7 +36,7 @@ NoFap-style quitting usually means a streak counter, a day count, a reset after 
 
 ## Do I have to stop while I'm reading? {-}
 
-You don't have to start a willpower campaign. Don't make a vow you'll break by Friday, start a streak or cut down. Just keep reading until you've finished the whole book. Nobody is telling you to sin. A willpower campaign halfway through a book that's about to make willpower unnecessary only gets in the way. If you fall while you're reading, don't despair, and don't stop reading. If the wish to do it fades as you read, let it. And if you're ready to stop today, stop today. If you've already stopped, don't start again for the book's sake. And read the chapters in order without skipping, because each one builds on the last. See [The Easy Method](the-easy-method.html).
+You don't have to start a willpower campaign. Don't make a vow you'll break by Friday, start a streak or cut down. Just keep reading until you've finished the whole book. Nobody is telling you to sin. A willpower campaign halfway through a book that's about to make willpower unnecessary only gets in the way. If you fall while you're reading, don't despair, and don't stop reading. If the wish to do it fades as you read, let it. And if you're ready to stop today, stop today. If you've already stopped, don't start again for the book's sake. And read the chapters in order without skipping, because each one builds on the last. See the [Introduction](index.html) and [The Easy Method](the-easy-method.html).
 
 ## Should I cut down gradually? {-}
 
@@ -44,7 +44,7 @@ No. Cutting down keeps the habit precious. You spend all day waiting for the tim
 
 ## I've quit porn but I still masturbate. Is that enough? {-}
 
-No. Porn and masturbation feed each other, and "porn-free but still doing it" usually means the fantasy has just moved into your head. The book deals with the thought life too. See ["Porn-free but still doing it"](the-ladder.html) and [Fantasy and the Thought Life](fantasy-and-the-thought-life.html).
+No. Porn and masturbation feed each other, and "porn-free but still doing it" usually means the fantasy has just moved into your head. The book deals with the thought life too. See [The Back Door](the-back-door.html) and [Fantasy and the Thought Life](fantasy-and-the-thought-life.html).
 
 ## How do I stop watching porn? {-}
 

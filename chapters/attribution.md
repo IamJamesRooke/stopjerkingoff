@@ -18,7 +18,7 @@ If you want to write to me, with a correction, a question or your own story, the
 
 I did not invent the method in this book.
 
-- It follows, chapter by chapter, the structure of [***EasyPeasy***](https://easypeasymethod.org/) by **Hackauthor²** (CC BY-SA 4.0), the free online book on quitting pornography. The Little Monster, the Big Monster and the order of the chapters are all inherited from it. The wording here is new.
+- It grew out of [***EasyPeasy***](https://easypeasymethod.org/) by **Hackauthor²** (CC BY-SA 4.0), the free online book on quitting pornography. The method, the Little Monster, the Big Monster and the core of the chapter plan are inherited from it. The wording here is new, and so are the chapters that go past porn.
 - The bleach forum in "If You Slip" is by **Guillaco**, from *Meditations of a Porn Addict*, as quoted in EasyPeasy (CC BY-SA 4.0). It is lightly edited here.
 - EasyPeasy is in turn based on **Allen Carr's Easyway** method, first set out in *The Easy Way to Stop Smoking*.
 

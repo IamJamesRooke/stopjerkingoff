@@ -4,33 +4,33 @@
 >
 > — James 4:8
 
-This is the myth of the two rooms.
+This is the myth of the back room. The squatter stays in there, and the rest of the house is yours.
 
 It's spread mostly by men who are trying to stop by willpower. They can't stop, so they need a story that lets them carry on. The story goes: "That's my private side. It has nothing to do with my marriage, my faith or the man I am at work. I keep it in its box." You may know the old story of Dr. Jekyll, the respectable doctor who drinks a potion and turns into the brutal Mr. Hyde at night. Dr. Jekyll coaches the kids' team on Saturday morning. Mr. Hyde has the phone at midnight. The two never meet.
 
-It's a neat story, and it is false from start to finish. In Robert Louis Stevenson's book, Hyde doesn't stay in his room. He gets stronger every time he's let out, and by the end he's turning up without being called. There's only one man in that story, and there's only one of you.
+It's a neat picture, and it is false from start to finish. In Robert Louis Stevenson's book, Hyde doesn't stay in his room. He gets stronger every time he's let out, and by the end he's turning up without being called. Your squatter is no different. You have watched him move down the hall, from room to room. There's only one man in that story, and there's only one of you.
 
 ## What you're rehearsing {-}
 
-Every time you do it, you're practicing something. What, exactly?
+Every night with the habit is a rehearsal. For what, exactly?
 
 You're practicing arousal with nobody else there. You're practicing being a spectator, with a cast you can swap the instant your interest dips. You're practicing getting exactly your own way, at your own speed, with no one else's mood, tiredness or wishes to take into account.
 
 Now set a real woman beside all that. She's one person, and you can't swap her. She has a mind of her own and a bad day of her own. Loving her takes patience and attention, and it means giving something of yourself. In every respect she's the opposite of what you've been rehearsing.
 
-Human beings rate things. Feed your mind a private cast who are always willing, always new and never tired. You'll start scoring your wife against them, or the woman you haven't met yet. No real woman can beat a cast that's open all night and wants nothing from you.
+Human beings rate things. Give your mind a private cast that is always willing, always new and never tired, and it starts keeping score. Your wife gets marked against them, or the woman you haven't met yet. No real woman can beat a cast that's open all night and wants nothing from you.
 
 ## One man {-}
 
-So no, you can't compartmentalize. That goes for the man with a wife at home and a flirtation at work as well. He thinks he has two rooms.
+So no, you can't compartmentalize. That goes for the man with a wife at home and a flirtation at work as well. He thinks he has two lives.
 
 He is one man.
 
-Jesus said the same about money: no one can serve two masters. A man with a secret room has two masters, and the one in the secret room is winning. The man who thinks he's got it safely boxed is the last to find out.
+Jesus said the same about money: no one can serve two masters. A man with a locked back room has two masters, and the one in the back room is winning. The man who thinks he's got it safely boxed is the last to find out.
 
-## Two rooms become one {-}
+## One life {-}
 
-The moment the Little Monster is gone, the two rooms become one. That low, shifty, insecure feeling you've carried for years goes with him. You stop managing a double life, because there's only one life left to manage. A man who had been free for a hundred days said it with an exclamation mark: "I don't feel like a creep with a secret perverted second sex life anymore!" Your confidence comes back, and with it a self-respect you may not have felt since you were a boy.
+The moment the squatter is gone, there is no back room. That low, shifty, insecure feeling you've carried for years goes with him. You stop managing a double life, because there's only one life left to manage. A man who had been free for a hundred days said it with an exclamation mark: "I don't feel like a creep with a secret perverted second sex life anymore!" Your confidence comes back, and with it a self-respect you may not have felt since you were a boy.
 
 Being the same man in every room is a great deal less work.
 

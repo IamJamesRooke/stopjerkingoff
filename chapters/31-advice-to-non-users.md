@@ -4,9 +4,9 @@
 >
 > — Ecclesiastes 4:9-10
 
-This chapter is for the people standing next to the man in the trap: his wife, his parents, his pastor, his friends. If that's you, and you've come straight here, welcome. Wives will find their section first.
+The book is finished. The man it was written for has his blessing and is on his way. This afterword is for a different reader: the people standing beside him. His wife, his parents, his pastor, his friends. If that's you, and you've come straight here, welcome. Wives come first.
 
-If you're the man himself, read it anyway. It shows you how this looks from the outside.
+If you're the man himself, read it anyway. It shows you how the habit looks from the outside.
 
 ## To wives {-}
 
@@ -14,7 +14,7 @@ This part is for you, and it is about you. It isn't about how to help him.
 
 **It is a betrayal, and you may call it that.** Whatever he calls it, he hid something from you, perhaps for years. He gave to a screen, or to his own head, what he promised to you. You are allowed to be hurt, angry or numb, or all three in one afternoon. Calling it a trap explains how he got there. It doesn't excuse it, and it doesn't cancel what it cost you.
 
-**It was never about you.** He almost certainly brought it into the marriage from his teens. It isn't a verdict on your looks, your body or how often you say yes. Men married to women they adore are caught in it. One pastor's wife, writing about her husband's pornography, put the first question in six words: "Am I not enough for him?" She went on, "I felt ugly and unwanted." You were never the measure. The habit was there before he knew your name. If he has seemed far away in the bedroom, that came from the habit too. It is not your fault.
+**It was never about you.** He almost certainly brought it into the marriage from his teens, before he knew your name. It isn't a verdict on your looks, your body or how often you say yes. Men married to women they adore are caught in it. One pastor's wife, writing about her husband's pornography, put the first question in six words: "Am I not enough for him?" She went on, "I felt ugly and unwanted." You were never the measure. If he has seemed far away in the bedroom, that came from the habit too. It is not your fault.
 
 **You are owed the truth.** That means one full, honest account: what, for how long, and whether anyone else was involved. He should give it to you once and whole, and not in pieces. You decide how much detail you want. You may ask questions later, and he should answer them.
 
@@ -28,7 +28,7 @@ This part is for you, and it is about you. It isn't about how to help him.
 
 **Know when it is bigger than a book.** There may have been an affair, years of lying, anger turned on you, pressure in the bedroom, or something illegal. You may be afraid. Any of those is beyond a book. Tell someone you trust and get help, and see a doctor if your health may be at risk. Getting help is not disloyalty. Your safety and your children's come before his recovery.
 
-In time you may want to understand what had hold of him. If so, read the rest of the book. Do it for your own sake. It may answer some of what you've been asking yourself at night.
+In time you may want to understand what had hold of him. If so, read the book from the start, for your own sake. It may answer some of what you've been asking yourself at night.
 
 ## Getting him to read this book {-}
 
@@ -38,32 +38,32 @@ He knows.
 
 He has known for years, and he has preached himself that sermon more often and more harshly than you ever could.
 
-One thing is hard to grasp from outside. He doesn't keep doing it because he likes it. He may say he does, to you and to himself, because a man has to hold on to some dignity. He does it because he believes he can't manage without it. He thinks it calms him down, sends him to sleep and gets him through bad days. Underneath that sits a deeper dread: that life without it would be gray, and that a man who stops is only half a man.
+One thing is hard to grasp from outside. He doesn't keep doing it because he likes it, whatever he says. He does it because he believes he can't manage without it. He thinks it calms him down, sends him to sleep and gets him through bad days. Underneath sits a deeper dread: that life without it would be gray.
 
-So if you corner him, you get a cornered animal. Demand that he stop and he'll want it more. He'll also get better at hiding it, and a hidden habit grows more precious.
+Corner him and you get a cornered animal. Demand that he stop and he'll want it more. He'll also hide it better, and a hidden habit grows more precious.
 
-Work on the opposite side instead. Don't tell him how bad it is. Show him it can be left. If you're a man who has gotten out, say so. A single sentence from someone he respects, "That had me for fifteen years and it's gone," will do more than any lecture. If you're not, find him one: a book, a testimony, an older man with some sense. Be a little careful where you send him. Many of the forums run on streak counters and gritted teeth, which is the Willpower Method with a crowd watching.
+So work the other way. Don't tell him how bad it is. Show him it can be left. If you're a man who has gotten out, say so. A single sentence from someone he respects, "That had me for fifteen years and it's gone," will do more than any lecture. If you're not, find him one: a testimony, or an older man with some sense. Be careful where you send him. Many forums run on streak counters and gritted teeth, which is the Willpower Method with a crowd watching.
 
-By then he may be willing to read. He'll be braced for two hundred pages of hellfire or hormone charts. Tell him there's neither. Tell him it doesn't even ask him to stop until the end.
+He'll be braced for two hundred pages of hellfire or hormone charts. Tell him there's neither, and that the book doesn't even ask him to stop until the end.
 
-And don't make it strange. Don't stage a confrontation, and don't try to win an argument. If you win it, you've lost him. Mention it once, plainly and kindly, and leave the book where he can find it.
+Don't stage a confrontation, and don't try to win an argument. If you win it, you've lost him. Mention the book once, plainly and kindly, and leave it where he can find it.
 
 ## To parents {-}
 
 Most men in the trap fell in as boys, alone, with nobody explaining anything. Several of the men quoted in this book started at ten. That's the age to think about, and it's earlier than you'd like.
 
-Don't condemn him. Shame a boy and you teach him two things: that he's disgusting, and that he must hide better. You've then manufactured the secrecy and self-loathing that the habit feeds on. Paul's instruction fits: "You fathers, don't provoke your children to wrath, but nurture them in the discipline and instruction of the Lord."
+Don't condemn your son. Shame a boy and you teach him two things: that he's disgusting, and that he must hide better. Secrecy and self-loathing are what the habit feeds on. Paul's instruction fits: "You fathers, don't provoke your children to wrath, but nurture them in the discipline and instruction of the Lord."
 
 But the alternative to condemning isn't silence. Silence is how most men got here. The alternative is an explanation, given calmly, by someone who isn't shocked.
 
 So, fathers, a few suggestions.
 
 - **Speak before the world does.** One man who was caught at ten, and now talks about it publicly, tells parents to "be the first presenter of truth to your children." If you wait until you've "caught" him, you're already late. The conversation starts as a trial.
-- **Tell him the truth about the trap.** Tell him desire is good and God-made. Tell him this habit hijacks it, that it promises relief and delivers an itch, and that nearly every man who starts wishes he hadn't. You've just read a whole book on the subject. Give him the ten-minute version.
+- **Tell him the truth about the trap.** Tell him desire is good and God-made. Tell him this habit hijacks it, that it promises relief and delivers an itch, and that nearly every man who starts wishes he hadn't. This book is the long version. Give him the ten-minute one.
 - **Tell him your own story,** as much of it as is fitting. Nothing takes the shame out of a boy faster than finding out his father has been there and gotten out.
 - **Never spy and then explode.** If you find something, wait a day. Then talk to him the way you wish someone had talked to you.
 - **Use ordinary sense about screens.** Fences don't free a man. But a twelve-year-old with a private screen in his bedroom at midnight isn't being trusted. He's been abandoned to it. Keeping phones out of bedrooms at night is plain parenting, and it's a good rule for the adults as well.
-- **Warn him about the stranger who asks for a picture.** Boys of earlier generations didn't need this warning. A stranger who looks like a pretty girl may write to your son and ask for a picture. If the boy sends one, the "girl" turns out to be a criminal who demands money and threatens to show the picture to everyone he knows. In the early 2020s the FBI counted more than twelve thousand victims of this in under two years. Most were boys of fourteen to seventeen, and at least twenty of them took their own lives. Tell your son before it happens. Tell him that if it ever does, he can come straight to you and he won't be shamed.
+- **Warn him about the stranger who asks for a picture.** A stranger who looks like a pretty girl may write to your son and ask for a picture. If the boy sends one, the "girl" turns out to be a criminal who demands money and threatens to show the picture to everyone he knows. In the early 2020s the FBI counted more than twelve thousand victims of this in under two years. Most were boys of fourteen to seventeen, and at least twenty of them took their own lives. Tell your son before it happens. Tell him that if it ever does, he can come straight to you and he won't be shamed.
 - **When he's old enough, give him this book.** You're the judge of when.
 
 If you're a mother raising a son without his father, you can say most of this yourself, and he'll survive the embarrassment. If you can't, find a man you trust, a grandfather or uncle or youth leader, and ask him to.
@@ -72,17 +72,17 @@ And if your son is already grown and already caught, the advice on getting a man
 
 ## To pastors and priests {-}
 
-You know better than I do how many men in your congregation this touches. You also know how rarely the word is said aloud in church. I'm asking you to say it.
+You know better than I do how many men in your congregation this touches, and how rarely the word is said aloud in church. I'm asking you to say it.
 
 Say it calmly and without drama. Don't make it the worst sin in the catalog, and don't make it a nervous joke at the men's breakfast. Say something like, "Many of you are caught in this, here is why, and here is the door." Men have sat under you for years believing they were the only one. One sentence from you ends that.
 
-Lead with hope, because your men are already expert in guilt, and guilt is what sends them back. And be careful with the usual tools. Pledges, weekly check-ins and streak charts all assume that the man wants it and must be stopped. Aim past behavior at belief. A man who no longer wants it doesn't need restraining.
+Lead with hope, because your men are already expert in guilt, and guilt is what sends them back. Be careful with the usual tools. Pledges, weekly check-ins and streak charts all assume that the man wants it and must be stopped. Aim past behavior at belief. A man who no longer wants it doesn't need restraining.
 
 If a man comes to you and confesses, remember what it cost him to knock on your door. Thank him first.
 
 If you hear confessions, you already know how often this comes through the grille. A man who confesses the same sin every month may need more than absolution and a penance. He may need someone to explain the trap. This book is one way to do that.
 
-And this book is not a replacement for you. It clears away the lies so that a man can hear what you've been telling him all along.
+This book is no replacement for you. It clears away the lies so that a man can hear what you've been telling him all along.
 
 ## A note on women {-}
 
@@ -92,7 +92,7 @@ If you're a woman reading for yourself, everything here applies. The Little Mons
 
 ## Help end the silence {-}
 
-Most men got here through silence. The world told them it was healthy, the church told them nothing, and their fathers were too ashamed to speak. So I'd ask you to stop for one man. You don't have to become a campaigner. But when you see a man grinding through a streak on willpower, point him here. When a friend makes the usual joke, you might just say, "I gave that up, actually. Best thing I've done." And when your son reaches the age, talk to him.
+Most men got here through silence. The world told them it was healthy, the church told them nothing, and their fathers were too ashamed to speak. So break it for one man. You don't have to become a campaigner. When you see a man grinding through a streak on willpower, point him here. When a friend makes the usual joke, you might just say, "I gave that up, actually. Best thing I've done." And when your son reaches the age, talk to him.
 
 Now and then you'll get a blank look or a laugh. More often than you'd think, you'll get a message a week later that begins, "Can I ask you something?"
 

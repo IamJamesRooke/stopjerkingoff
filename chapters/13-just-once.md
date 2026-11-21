@@ -6,13 +6,13 @@
 
 ## Three times a man picks up {-}
 
-The Little Monster is a caller who won't stop ringing, and a caller who is never answered gives up. So he gets through one way only. A man picks up, just once. That is all "just once" has ever been, and it happens at three times in a man's life.
+The Little Monster is a caller who won't stop ringing, and a caller who is never answered gives up. So he gets through one way only. A man picks up, just once. That is all "just once" has ever been, and it comes at three points in a man's life.
 
 The first is the very first time. No boy ever decided on a habit of twenty years. He decided on once, and the caller has had his number ever since.
 
 The second comes in the middle of an attempt to stop. A man is four days in and doing well. Then comes a rough week, or a special occasion, and he picks up once to get through it. That attempt is over. Look back at your own. Most of them were not beaten by a hundred nights. They were beaten by one.
 
-The third is the cruelest. It comes to a man who has been free for months, or for years. The calls stopped long ago. He picks up once to prove he doesn't need it anymore, or simply to see. It proves the opposite.
+The third is the cruelest. It comes to a man who has been free for months, or years. The calls stopped long ago. He picks up once to prove he doesn't need the habit anymore, or simply to see. It proves the opposite.
 
 Men say afterward that the habit "came back". Nothing came back. He picked up.
 
@@ -26,7 +26,7 @@ What follows is always the same. The flatness lands, and it's so grim that the m
 
 But it already has.
 
-Within a day or two the pull for another one arrives. Men call it the chaser. The caller got through, and now he is ringing again. The man sits there baffled that a thing which makes him feel this bad could have made him do it. Yet it did.
+Within a day or two the pull for another one arrives. That is the chaser. The caller got through, and now he is ringing again.
 
 John Owen, an English pastor, wrote in 1656 that sin "aims always at the utmost". The caller never wants one. He asks for one in order to get the rest.
 
@@ -34,9 +34,9 @@ John Owen, an English pastor, wrote in 1656 that sin "aims always at the utmost"
 
 If answering buys so little, why does anyone answer? Because of what the message says. The caller himself can't speak. He is only an itch. The old lie does his talking for him.
 
-You know the voice that sells it. It says it's just one more time, just one more video, and you can get back to your purpose after. It always sounds that reasonable, and it always promises that you can go straight back to being the man you meant to be.
+You know the voice. It says it's just one more time, just one more video, and you can get back to your purpose after. It always sounds that reasonable.
 
-The message is always about one special time, and the thought of it stops many men from ever stopping. The one after a week away on business. The one after the fight. The one on the night she turns over and says she's tired. The one video. The one message to her, "just to say hello". The one you've "earned".
+The message is always about one special time. The one after a week away on business. The one after the fight. The one on the night she turns over and says she's tired. The one video. The one message to her, "just to say hello". The one you've "earned".
 
 Notice what the message never offers. It never says, "Go back to doing this every night for another twenty years." No man would take that offer. So it offers one, because one is the only size it can sell.
 
@@ -46,11 +46,11 @@ Get this fixed in your mind: JUST ONCE DOES NOT EXIST. It's a chain, and each li
 
 So here is how a man lets it ring.
 
-Train yourself never to picture the single, harmless time. It's a fantasy in every sense. When lust comes to mind, see the whole of it. See thousands of secret nights and thousands of flat ten minutes afterward. See a secret carried through every room you walk into, and the years of your strength poured down a drain. A weak moment isn't a crime. But why choose a lifetime of that, when you could be free?
+Never picture the single, harmless time. It's a fantasy in every sense. When the thought of it comes, see the whole chain. See thousands of secret nights and thousands of flat ten minutes afterward. See a secret carried through every room you walk into, and the years of your strength poured down a drain. Why choose a lifetime of that, when you could be free?
 
-And when the voice comes, remember the four. The first is said only once, at the end of this book, and then it is said for good. The other three are how it stays said. Give no reason. Don't soften it. Never answer again. You don't have to win the argument, because there isn't one. A man who is debating whether tonight is an exception has already picked up the phone.
+And when the voice comes, remember the four instructions. The first is said only once, at the end of this book, and then it is said for good. The other three are how it stays said. Give no reason. Don't let him down gently. Never answer again. You don't have to win the argument, because there isn't one. A man who is debating whether tonight is an exception has already picked up the phone.
 
-Don't frighten yourself with any of this. You can do it. Any man can. It's absurdly easy, so long as you have three things straight:
+Don't let any of this frighten you. Any man can do it. It's absurdly easy, so long as you have three things straight:
 
 1. There is nothing to give up. There is only a great deal to gain.
 2. There is no harmless one. There is only the whole chain or none of it.
@@ -64,17 +64,19 @@ Cain and Abel were the sons of Adam and Eve. Each of them brought an offering to
 
 Cain didn't listen. He took his brother out into the field and killed him.
 
-Hear the warning again, because it is de Becker's picture, thousands of years before there was a telephone. Something is crouching at your door. It wants you. It will not go away because you ask it nicely. And Cain only had to open the door once.
+It is de Becker's picture, thousands of years before there was a telephone. Something is crouching at your door. It wants you. It will not go away because you ask it nicely. And Cain only had to open the door once.
 
-You are to rule over it. Ruling doesn't mean wrestling him on the doorstep, or leaning on the door all night. Nothing is leaning on it. It means you don't open it, and once you've seen what is outside, you have no wish to.
+You are to rule over it. Ruling doesn't mean wrestling him on the doorstep, or leaning on the door all night. Nothing is pushing from the other side. It means you don't open it, and once you've seen what is outside, you have no wish to.
 
-A Christian will tell you who sends the caller. The devil wants your soul. And the devil doesn't need to defeat you if he can distract you. So he sends the Little Monster, because the Little Monster works. One small thing that calls and calls is enough to shut a man down. It keeps him from using what God gave him to advance the Kingdom of Heaven.
+A Christian will tell you who sends the caller. The devil wants your soul. And the devil doesn't need to defeat you if he can distract you. So he sends the Little Monster. One small thing that calls and calls is enough to shut a man down. It keeps him from using what God gave him to advance the Kingdom of Heaven.
 
-Look at what he sent, though. He didn't send a dragon. He sent a pipsqueak with a telephone. Martin Luther was the monk who started the Protestant Reformation. He said that if the devil won't leave any other way, you should jeer at him, because he can't bear scorn. So laugh at the caller as much as you like. Only don't fight him, and don't answer him. Once he knows that calling will never work, he gives up.
+Look at what he sent, though. He didn't send a dragon. He sent a pipsqueak with a telephone. Martin Luther was the monk who started the Protestant Reformation. He said that if the devil won't leave any other way, you should jeer at him, because he can't bear scorn. So laugh at the caller as much as you like. Only don't fight him, and don't answer him.
 
 If you don't believe in a devil, keep the picture anyway. Something is keeping you from being all that you could be, and it does it with nothing stronger than a nagging call. Nobody stalks a man who isn't worth having.
 
 Don't open the door. James, one of the first leaders of the church, put it as a promise: "Be subject therefore to God. Resist the devil, and he will flee from you." To resist him is simply not to answer. He has nothing else.
+
+Well, he has one small trick left. He points at another man and whispers, "Look at him. He has it under control."
 
 <!-- SOURCES (Chapter 13): every quote below is from the research files; check each against its page before publishing.
 - "Within seconds after cumming, the phase shift in mental acuity that I felt was simply astounding." — r/NoFap, "decided to relapse on purpose to see if my…", http://www.reddit.com/r/NoFap/comments/1d3k4w/decided_to_relapse_on_purpose_to_see_if_my/ (via YBOP, https://www.yourbrainonporn.com/rebooting-porn-use-faqs/what-is-the-chaser/; Reddit original not opened. The book reads the "phase shift" as a change for the worse and assumes "a long break"; check the thread.)

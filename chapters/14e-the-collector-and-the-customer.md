@@ -1,8 +1,8 @@
 # The Collector and the Customer {#the-collector-and-the-customer}
 
-The last thing lust borrows is a man's bed. It is where all the others have been leading. A man looks, thinks, touches and chases. Then one night he takes.
+The last thing lust borrows is a man's bed. The chase was heading there, and so was everything before it. One night he stops chasing and takes.
 
-Most men who have fed this one are neither collectors nor customers. They simply went home with someone when the chance came. Ask one of them about it the next morning. He doesn't look like a conqueror. He is looking for his shoes.
+Most men who have done it are neither collectors nor customers. They simply went home with someone when the chance came. Ask one of them about it the next morning. He doesn't look like a conqueror. He is looking for his shoes.
 
 There was also a woman in that bed. Perhaps she hoped it meant something, and it didn't. Or perhaps she was using him exactly as he was using her. Then two people took a hit, and nobody was given a gift.
 
@@ -12,7 +12,7 @@ Two men have gone further up this road than the rest. Look at them closely, beca
 
 ## The collector {-}
 
-The collector's "at least" is that he needs no screen. Real women want him. So he keeps a number. He wouldn't tell his mother, but he knows it exactly. The men online call it a body count, and they compare numbers the way boys compare scores.
+The collector's "at least" is that he needs no screen. Real women want him. And he keeps a number. He wouldn't tell his mother what it is, but he knows it exactly. The men online call it a body count, and they compare numbers the way boys compare scores.
 
 Ask him about the women and something odd comes out. He didn't like half of them. Some he wasn't even attracted to. He slept with them anyway, because each one moved the number up. And the number told him something he badly needed to hear: women want you, so you must be somebody.
 
@@ -20,7 +20,7 @@ That isn't confidence. It's a man so unsure of his worth that he needs a new wom
 
 Picture a man at a buffet for the first time. He stacks plate after plate. He paid a lot to get in and he may never be back, so he takes everything. Now watch the wealthy man at the same buffet. He takes what he wants and leaves the rest. He isn't afraid it will run out. The man who takes every woman who offers is not the rich man in that room. He's the hungry one.
 
-Now try something. Suppose every night like that came with what sex was built to carry. If you sleep with her, you stay with her. You marry her. If a child comes, that child is a human life, and yours to raise. And count the years. You'll spend far more of them talking with her, eating with her and sitting through her bad days than you will ever spend in bed with her.
+Now try something. Suppose every night like that came with what sex was built to carry. If you sleep with her, you stay with her. You marry her. If a child comes, that child is a human life, and yours to raise. And count the years. You'll spend far more of them talking with her, eating with her and sitting through her bad days than in bed with her.
 
 Would you still have gone home with her?
 
@@ -30,9 +30,9 @@ One question for any man, believer or not. If you had lived as though the Christ
 
 ## The customer {-}
 
-The customer's "at least" is that it's honest. For him it may be an escort, a back room, or a cheap flight to a place where nobody knows him. He pays a fair price, he says, and they are two adults. But he can't know whether she chose this. In every country police keep finding women in this trade who are held there by a debt, a threat or a passport locked in someone else's drawer. He can't know her age.
+The customer's "at least" is that it's honest. For him it may be an escort, a back room, or a cheap flight to a place where nobody knows him. He pays a fair price, he says, and they are two adults. But he can't know whether she chose this. In every country police keep finding women in this trade who are held there. A debt holds them, or a threat, or a passport locked in someone else's drawer. And he can't know her age.
 
-And for all that he buys the same ten minutes and the same flat feeling afterward, at a higher price. It is the porn habit with the screen taken away. The man who watches porn is already a customer. This man has only walked up to the counter.
+And for all that, he buys the same ten minutes and the same flat feeling, at a higher price. It is the porn habit with the screen taken away. The man who watches porn is already a customer. This man has only walked up to the counter.
 
 ## The married man who strays {-}
 
@@ -40,7 +40,7 @@ One more man belongs here. He has a wife, and he took a woman who wasn't her. He
 
 So that is the collector, the customer and the stray. Each of them took a woman he never meant to keep.
 
-And here the squatter makes his last move, and it is his best. "Fine. Not strangers. But a woman I love is different."
+Here the squatter makes his last move, and his best. "Fine. Not strangers. But a woman I love is different."
 
 Before that room, one question has to be settled, and you have been circling it for a long time. Where exactly is the line?
 

@@ -8,29 +8,29 @@ This room has no porn in it. It has a phone, and a head.
 
 Take a man who has quit porn, and means it. He hasn't opened one of those sites in months. He has a red line and he stays on the right side of it.
 
-On the right side of it is every feed of pictures and short videos a phone can show. There are the fitness models, the women trying on clothes for the camera, and the beach photos of a girl he went to school with. None of it would trip a filter. And when the phone is in another room there's the reel in his own head. It holds old girlfriends, scenes he watched years ago, and the woman from the gym.
+On the right side of that line is every feed of pictures and short videos a phone can show. There are the fitness models, the women trying on clothes for the camera, and the beach photos of a girl he went to school with. None of it would trip a filter. And when the phone is in another room there's the reel in his own head. It holds old girlfriends, scenes he watched years ago, and the woman from the gym.
 
 Perhaps you are that man, and you know how the evening goes. Your wife is tired, or you have no wife, and you feel you're owed something. "I won't look at porn. I'll just scroll for a bit." Forty minutes later you're in the bathroom. Or you don't finish at all, and you go to bed pleased with yourself and wide awake.
 
-Two things make this worse than it looks. First, it props up the belief that you're being deprived. Every swipe tells you that the real feast is over the line and you're a good boy for eating crumbs on the doorstep. Second, it eats your self-respect. An honest man finds himself tilting his screen away from his wife.
+Two things make the scroll worse than it looks. First, it props up the belief that you're being deprived. Every swipe tells you that the real feast is over the line and you're a good boy for eating crumbs on the doorstep. Second, it eats your self-respect. An honest man finds himself tilting his screen away from his wife.
 
 ## Crumbs are still a meal {-}
 
-The Little Monster doesn't care where his food comes from. Scraps keep him alive as well as a banquet does. The "soft" stuff in your feed gives the itch a moment's ease, which is all it needs to stay awake until next time.
+The squatter doesn't care where his food comes from. Scraps keep him alive as well as a banquet. The soft stuff in your feed eases the itch for a moment, and a moment is all it needs to stay awake until next time.
 
 And the feed learns. Pause on one photo for two seconds and it brings you ten more tomorrow. It's a machine for finding your red line and parking you next to it.
 
-The woman on the screen is beautiful. Nobody is denying it. If she were your wife, and in the room, she'd be a gift. But she isn't in the room. She's light on a piece of glass. Run the test. There is nobody at the other end, so it is a hit.
+The woman on the screen is beautiful. Nobody denies it. If she were your wife, and in the room, she'd be a gift. But she isn't in the room. She's light on a piece of glass. Run the test. Gift or hit? There is nobody at the other end, so it is a hit.
 
-A furnace has a pilot light, a tiny flame that burns all day and uses almost no gas. Its only job is to make sure the main burner can fire the instant it's asked. That's what the scroll and the daydream are. You never do it "out of nowhere". The pilot light has been on since breakfast.
+A furnace has a pilot light, a tiny flame that burns all day and uses almost no gas. Its only job is to make sure the main burner can fire the instant it's asked. That's what the scroll and the daydream are. The urge never comes out of nowhere. The pilot light has been on since breakfast.
 
 ## "Then I'll look and not touch" {-}
 
-Hear again what Jesus said: "everyone who gazes at a woman to lust after her has committed adultery with her already in his heart." He doesn't draw the line at the hand, or at a certain kind of website. He draws it at the gaze.
+Hear what Jesus said: "everyone who gazes at a woman to lust after her has committed adultery with her already in his heart." He doesn't draw the line at the hand, or at a certain kind of website. He draws it at the gaze.
 
-He doesn't say that seeing a beautiful woman is a sin, or that a thought arriving is a sin. A veteran of the recovery forums put the distinction well: "Admiration of beauty is not lust, know the difference." The difference is in three small words: "to lust after". That's a look with a purpose. It's the second look, the lingering one, the one you go back for. Most men know which kind they're doing.
+He doesn't say that seeing a beautiful woman is a sin, or that a thought arriving is a sin. A veteran of the recovery forums put the distinction well: "Admiration of beauty is not lust, know the difference." The difference is in three small words: "to lust after". That's a look with a purpose. It's the second look, the lingering one, the one you go back for. Most men know which look they are giving.
 
-A word for the man who doesn't. Some men get stuck checking whether a look or a thought was a sin, and go over it for hours. If that is you, read this book differently. When you can't tell, treat it as noticing and move on. Don't confess the same thing twice. You will never feel certain, so don't wait to. This kind of checking has a name, scrupulosity. It can be treated, and a doctor or a counselor can help. If you're Catholic, tell your confessor as well. Priests know this well.
+A word for the man who doesn't. Some men get stuck checking whether a look or a thought was a sin, and go over it for hours. If that is you, read this book differently. When you can't tell, treat it as noticing and move on. Don't confess the same thing twice. You will never feel certain, so don't wait until you do. This kind of checking has a name, scrupulosity. It can be treated, and a doctor or a counselor can help. If you're Catholic, tell your confessor as well. Priests know this well.
 
 For everyone else, be honest about the scroll. It is a purposeful gaze pretending to be an accident.
 

@@ -4,16 +4,16 @@
 >
 > — 1 Corinthians 10:13
 
-For a few weeks after you stop, you may feel an occasional urge. Urges come in two quite different kinds, and most of the misery of the Willpower Method comes from mixing them up.
+For a few weeks after you stop, you may feel an occasional urge. Urges come in two kinds, and most of the misery of the Willpower Method comes from mixing them up.
 
 1. **The leftover itch.** This is the Little Monster going hungry: a faint, empty, restless feeling, a sense that there's something you ought to be doing.
 2. **The cue triggers.** These are the times and places you've wired to the habit: the bed, the shower, the empty house, the phone at midnight, the app you used to open, a message from her.
 
 ## The leftover itch {-}
 
-The first kind involves no pain at all. Think of going without lunch. Your stomach grumbles and you get a bit short with people, but nothing hurts. This is milder than that, and there's one difference: your body needs lunch, and it doesn't need this. In a man who isn't moping, the itch fades quickly and is gone for good. The Little Monster has the staying power of a toddler at bedtime. He is loud, then quiet, then asleep.
+The leftover itch involves no pain at all. Think of going without lunch. Your stomach grumbles and you get a bit short with people, but nothing hurts. The itch is milder than that, with one difference: your body needs lunch, and it doesn't need this. In a man who isn't moping, the itch fades quickly and is gone for good. The Little Monster has the staying power of a toddler at bedtime. He is loud, then quiet, then asleep.
 
-Men on the Willpower Method get through this part too. The itch isn't what brings them down. The second kind does.
+Men on the Willpower Method get through this part too. The itch isn't what brings them down. The cues do.
 
 ## The turn signal and the wipers {-}
 
@@ -23,23 +23,23 @@ You'll know this from changing cars. In the old one the turn signal was on the l
 
 Nothing is wrong with you or with the car. It's an old groove, and it wears out quickly as long as you don't treat each misfire as a crisis. When the bell rings in the first days, you'll think, "This is when I'd normally do it." That's all the thought is. A cue is a reminder, and it can't give you orders.
 
-A recovery coach tells a story that shows how little a cue can do when it's left alone. An urge hit him as he walked home from the gym. He didn't argue with it and he didn't obey it, and by the time he got home it had passed. His whole method is to do nothing, and he reports that the urge "fades after maybe a minute or two". A psychiatrist gives his patients the same instruction: "The main thing that you have to do is nothing".
+A recovery coach found out how little a cue can do when it's left alone. An urge hit him as he walked home from the gym. He didn't argue with it and he didn't obey it, and by the time he got home it had passed. His whole method is to do nothing, and he reports that the urge "fades after maybe a minute or two". The psychiatrist who treats porn addiction gives his patients the same instruction: "The main thing that you have to do is nothing".
 
-Here the two methods go separate ways. The willpower man believes he's made a sacrifice, so every ring of the bell reminds him of his loss. He sits moping and waiting for the urges to stop, which is the surest way to keep them coming. The man who stopped in order to gain superpowers is worse off. He's been checking daily for his transformation. He tells himself a real man wouldn't be having these thoughts at all. So every stray thought becomes proof that he's failing. Both of them are making the bell louder.
+Here the two methods part. The willpower man believes he's made a sacrifice, so every ring of the bell reminds him of his loss. He sits moping and waiting for the urges to stop, which is the surest way to keep them coming. The man who stopped in order to gain superpowers is worse off. He's been checking daily for his transformation. He tells himself a real man wouldn't be having these thoughts at all. So every stray thought becomes proof that he's failing. Both men are making the bell louder.
 
 ## On the worst night {-}
 
-Picture a man who has been free for years. His father dies. Some fool tells him, "Go on, just tonight, it'll help you through." Suppose he does. It can't calm him, because he has no itch for it to relieve. At best he's distracted for five minutes, which a walk or a bad movie would have done as well. Then the grief is still there, and he's added shame to it and woken the Little Monster. Tomorrow night he has a choice he didn't have before: put up with the itch or feed it. Many a free man has gone back in through that door.
+Picture a man who has been free for years. His father dies. Some fool tells him, "Go on, just tonight, it'll help you through." Suppose he does. The habit can't calm him, because he has no itch for it to relieve. At best he's distracted for five minutes, which a walk or a bad movie would have done as well. Then the grief is still there, and he's added shame to it and woken the Little Monster. Tomorrow night he has a choice he didn't have before: put up with the itch or feed it. Many a free man has gone back in through that door.
 
-So get it settled now. You don't need it on the good nights or on the worst night of your life. It was never a crutch.
+So settle it now. You don't need the habit on the good nights or on the worst night of your life. It was never a crutch.
 
 ## "Isn't it marvelous?" {-}
 
-Whichever kind of urge turns up, accept it. Nothing hurts. The feeling itself isn't bad. What hurts is *wanting something and believing you're denied it*. So don't mope. Name it:
+Whichever kind of urge turns up, accept it. The feeling itself isn't bad. What hurts is *wanting something and believing you're denied it*. So don't mope. Name it:
 
 "I know what this is. It's the Little Monster dying. Men in the trap live with this every day of their lives. Free men don't have it. ISN'T IT MARVELOUS that I'm nearly rid of it?"
 
-For a few weeks there'll be a small disturbance in you, and all through those weeks something wonderful will be happening. You are coming clear. You're starving a squatter, and he will try every trick he has to get fed. He will catch you off guard, when something flashes up on your feed and for a second you forget you've stopped. Each time you see through one of these tricks, he gets weaker.
+For a few weeks there'll be a small disturbance in you, and all through those weeks something wonderful is happening. You're starving a squatter, and he will try every trick he has to get fed. He will catch you off guard, when something flashes up on your feed and for a second you forget you've stopped. Each trick you see through leaves him weaker.
 
 Paul says two things about these moments. "No temptation has taken you except what is common to man", so you're not a special case. And "God is faithful", he says, and will "make the way of escape". So there is always a way out. Usually the way out is simply to let the moment pass.
 
@@ -49,9 +49,9 @@ If you're a Christian, take one more thing to heart. It is not a sin to be tempt
 
 **Don't doubt your decision.** Doubt comes first, then moping, then the slide. If you catch yourself feeling low, remember that the habit was causing the lowness. If a friend sends you something, be glad to say, "I don't bother with that anymore."
 
-You had strong reasons for stopping, and now is the time to take them down off the shelf. Remember the years, the fog, the secrecy and the distance from God. The Little Monster will try to tell you they weren't so bad.
+You had strong reasons for stopping, and now is the time to take them down off the shelf. Remember the years, the fog, the secrecy and the distance from God. A voice will tell you they weren't so bad.
 
-He will tell you in a voice you know very well. It is your own.
+You know that voice very well. It is your own.
 
 <!-- SOURCES (Chapter 22): every quote below is from the research files; check each against its page before publishing.
 - "Whose voice is that?" (the old lie says "I"; say No and it switches to "you"; the hand test): from the essay in EasyPeasy's appendix, which borrows Jack Trimpey's Addictive Voice Recognition Technique. The body no longer names either (2026-11-18, names kept out of the body); the credit stays here and on the Attribution page.

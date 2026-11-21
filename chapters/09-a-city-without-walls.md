@@ -8,15 +8,15 @@ No army ever beat King David.
 
 He was brought down anyway, and not by a stronger man. His story is very old, and it is about you.
 
-Start with a proverb from King Solomon, David's son, about three thousand years ago: "Like a city that is broken down and without walls is a man whose spirit is without restraint." In his day a city's wall was the city. Inside the wall were homes, markets, children playing and a temple. Take the wall away and you still have all those things, until the first raiding party arrives. A city without walls belongs to whoever shows up, however rich it is.
+Start with that proverb about the city. It comes from King Solomon, David's son. In his day a city's wall was the city. Inside the wall were homes, markets, children playing and a temple. Take the wall away and you still have all those things, until the first raiding party arrives. A city without walls belongs to whoever shows up, however rich it is.
 
 Solomon says a man without self-control is like that. He doesn't call him wicked or worthless. He calls him defenseless. Whatever shows up gets in: a mood, an image, a bad day, a pretty face on a screen. Such a man doesn't decide what happens in his own evening.
 
 ## The king and his soldier {-}
 
-Solomon knew what he was talking about. The proof was in his own family. His father was King David, and his mother was a woman named Bathsheba. This is how they met.
+Solomon knew what he was talking about. The proof was in his own family. His mother was a woman named Bathsheba. This is how his parents met.
 
-David was Israel's greatest king, and he had been a soldier long before he was a king. One year, at the season when kings went to war, he sent his army out and stayed home. One evening he walked on the palace roof and saw a woman bathing. He asked who she was. The answer should have ended it. She was the wife of Uriah.
+David had been a soldier long before he was a king. One year, at the season when kings went to war, he sent his army out and stayed home. One evening he walked on the palace roof and saw a woman bathing. He asked who she was. The answer should have ended it. She was the wife of Uriah.
 
 David knew that name. Uriah was one of his own. The Bible keeps a list of David's mighty men, the fighters who had stood beside him for years, and Uriah's name is on it. That night Uriah was away at the front, fighting David's war.
 
@@ -44,21 +44,23 @@ Uriah trusted his king, and his king was a city without walls.
 
 So say the hard sentence once more, with David's name on it. **A man who can't control his lust can't be trusted.**
 
-That is a description, and no insult is meant by it. His wife is trusting a man who keeps a locked room. His children are being raised by a man who's only half there. And the person who trusts him least is himself. Count the promises. "Never again." "This is the last time." "Starting Monday." You've made each of them and meant it, perhaps hundreds of times, and broken every one. Each time, you broke a promise you had made to yourself.
+It is a description, not an insult. His wife trusts a man who keeps a locked room. His children are raised by a man who is only half there. And the person who trusts him least is himself.
 
-A man can only break his word to himself so often before he stops believing it. After that, when he says "I'll start the business" or "I'll get fit" or "I'll be a better husband", something inside him quietly replies, "No, you won't. I know you." That is the deepest thing the habit does. It makes you a man whose word, in his own ears, is worth nothing.
+Count your own promises. "Never again." "This is the last time." "Starting Monday." You made each one and meant it, perhaps hundreds of times, and you broke every one. Each was a promise to yourself.
 
-Don't hear that as a verdict. Walls can be rebuilt, and a governor named Nehemiah, who found Jerusalem's walls in ruins, had them back up in fifty-two days. Yours will go up faster. For now, just look at the gap in the wall and admit that it's there.
+A man can only break his word to himself so often before he stops believing it. After that he says "I'll start the business", or "I'll get fit", or "I'll be a better husband". Something inside him quietly replies, "No, you won't. I know you." That is the deepest thing the habit does. It makes you a man whose word, in his own ears, is worth nothing.
+
+Don't hear that as a verdict. Walls can be rebuilt. A governor named Nehemiah found Jerusalem's walls in ruins and had them back up in fifty-two days. Yours will go up faster. For now, just look at the gap and admit it's there.
 
 ## Take the thirst away {-}
 
 A city without walls can be raided. It can also be bought. A man led by his thirst can be steered by anyone who knows what he wants: an advertiser, a screen, a rival who wants him compromised.
 
-Take the thirst away and there is nothing to steer him by. That isn't contempt for women. A man who isn't hungry to take anything from a woman is the first man who can treat her as a person. And the one woman he has given himself to gets a husband nobody else has a hook in.
+Take the thirst away and there is nothing to steer him by. It doesn't make him cold toward women. It does the opposite. A man who isn't hungry to take anything from a woman is the first man who can treat her as a person. And the one woman he has given himself to gets a husband nobody else has a hook in.
 
 David was not weak where the world could see. He had one gap in the wall. You have had it too. You are about to close it.
 
-Now, all of this has been pretty one-sided. You've heard at length what the habit costs and what you gain by stopping. A fair book should give both sides. So what comes next is the other side, set out in full: the advantages of lust.
+All of this has been one-sided. You've heard at length what the habit costs and what you gain by stopping. A fair book gives both sides. So here is the other side, set out in full: the advantages of lust.
 
 <!-- ADDED 2026-11-18 at James's direction: the full story of David, Bathsheba and Uriah in "A city without walls" (2 Samuel 11:1-27 and 12:1-18, retold; WEB quotations from 11:5, 11:11, 11:15, 11:25 and 12:7; Uriah among the mighty men is 2 Samuel 23:39; Solomon as the son of David and Bathsheba is 12:24). In "Nobody's lever": Samson and Delilah told in full (Judges 16:4-21; WEB quotations from 16:5, 16:6, 16:9, 16:15, 16:16, 16:20, 16:21; "seven fresh cords" paraphrases "seven green cords that were never dried") and Ahab and Jezebel added (1 Kings 16:31, 21:1-16, 21:25; WEB quotations from 21:7 and 21:25; the later use of her name is Revelation 2:20). James pointed to Mark Driscoll's sermon "29 Signs of a Jezebel Demon", https://www.youtube.com/watch?v=6YlOjjya9vo, as the prompt for the Jezebel passage. Nothing is quoted from it. Endings added 2026-11-18 at James's direction: Samson's death (Judges 16:22-30; WEB quotations from 16:22 and 16:28; "more in his death than in his life" paraphrases 16:30; his prayer asks vengeance "for my two eyes", 16:28; Samson among the faithful is Hebrews 11:32). Ahab's end (1 Kings 21:17-29, WEB quotations from 21:19 and 21:29; sackcloth 21:27; "three years" is 22:1; the prophet Micaiah imprisoned 22:26-27; the random arrow and the chariot 22:34-35; Jezebel's death 2 Kings 9:30-37, where the dogs eat her on the plot of Jezreel, given in the body as "where it fell"). The sermon calls her "seductive and controlling" on the strength of Revelation 2:20; the body says plainly that 1 Kings does not show her seducing anyone. "The season when kings went to war" and "the eyes that had led him" are the writer's own.
 -->

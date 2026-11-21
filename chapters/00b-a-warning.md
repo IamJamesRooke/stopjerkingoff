@@ -10,9 +10,9 @@ Keep the button in mind. This book can't press it for you. But it can show you t
 
 ## You never chose this {-}
 
-Yes, you choose each time. You lock the door, you pick up the phone, you start. But did you ever sit down as a boy and decide to do this every night for the next fifteen years, whether you wanted to or not? Of course you didn't. Curiosity and puberty started it. Then the habit quietly took the wheel, and for most of us porn later poured fuel on it.
+Yes, you choose each time. You lock the door, you pick up the phone, you start. But did you ever sit down as a boy and sign up for fifteen years of this, every night, whether you wanted to or not? Of course you didn't. Curiosity and puberty started it. Then it quietly took the wheel, and for most of us porn poured fuel on it.
 
-You walked into a trap. It is one of the most subtle traps there is, because the bait is your own body. And you can tell that it's a trap by one fact. No man caught in it wants his son caught in it. Every man in the trap wishes he'd never started, and yet every man in the trap carries on. Nobody forces him.
+You walked into a trap. It is one of the neatest traps there is, because the bait is your own body. And you can tell it's a trap by one fact. No man caught in it wants his son caught in it. Every man in the trap wishes he'd never started, and yet every man in the trap carries on. Nobody forces him.
 
 So why does he do it?
 
@@ -30,7 +30,7 @@ So "How do I stop?" was the wrong question all along. You are a champion at stop
 
 It isn't desire. It's **FEAR**.
 
-You fear that life without it means a long, gray stretch of frustration, craving and restless nights. That fear is built on things you were told along the way:
+You fear that life without the habit means a long, gray stretch of frustration, craving and restless nights. That fear is built on things you were told along the way:
 
 - "A man needs a release."
 - "It's healthy. Everybody says so."
@@ -40,17 +40,17 @@ You fear that life without it means a long, gray stretch of frustration, craving
 
 Look at who gains from every line on that list. It isn't you. The squatter wrote it, and he would say that, wouldn't he? It's his dinner.
 
-Believe those lines for long enough and the fear grows. You fear the nights alone, and the hard days without your little reward. Most of all, you fear that this is just how men are, and that even if you stop you'll spend the rest of your life fighting it. If you've tried and failed many times, as most of us have, you'll be sure of it. One man wrote that he had failed so often he sometimes wondered whether God's grace for him had run out.
+Believe those lines for long enough and the fear grows. You fear the nights alone, and the hard days without your little reward. Most of all, you fear that this is just how men are. Even if you stop, you think, you'll be fighting it for the rest of your life. If you've tried and failed many times, as most of us have, you'll be sure of it. One man wrote that he had failed so often he sometimes wondered whether God's grace for him had run out.
 
 It hasn't. And you are not a hopeless case. You've only been using a method that can't work.
 
-That is why this book will not try to frighten you. There are no horror stories here about your hormones or your hairline. If fear worked, you'd have stopped years ago. Doctors say masturbation doesn't damage your body, and I'm not going to argue with them. This book isn't about your body. It's about your mind, your drive, your word and your soul, and there you are the best witness. You know how you feel ten minutes afterward.
+That is why this book will not try to frighten you. You'll find no horror stories here about your hormones or your hairline. If fear worked, you'd have stopped years ago. Doctors say masturbation doesn't damage your body, and I'm not going to argue with them. This book isn't about your body. It's about your mind, your drive, your word and your soul, and there you are the best witness. You know how you feel ten minutes afterward.
 
 It won't sell you superpowers either. Some corners of the internet promise that quitting brings a deeper voice, glowing skin and women turning their heads. I promise none of it. What you get is better than a superpower. You get yourself back.
 
 ## Nothing to lose {-}
 
-So read on with your mind open, and question everything, this book included. If you think it's just a habit, ask why you can drop other habits in a week but not this one. If you think you enjoy it, ask why a small panic rises at the words "never again".
+So read on with your mind open. Question everything, this book included. If you think it's just a habit, ask why you can drop other habits in a week but not this one. If you think you enjoy it, ask why a small panic rises at the words "never again".
 
 **YOU HAVE NOTHING TO LOSE.** If you reach the last page and decide you'd rather carry on, nothing stops you.
 

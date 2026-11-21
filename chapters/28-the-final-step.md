@@ -4,13 +4,13 @@
 >
 > — Galatians 5:1
 
-You've settled the timing. You're ready for the final step.
+You know what lust is, and you know what you are for. You are ready for the final step.
 
 It is not a final session. There is no "one last time" in this book. Nobody sins once more for old times' sake on his way out of a sin. And you don't need to. Whenever your last time was, it's behind you now. You didn't mark it with a ceremony, and that's the right send-off for a thing that was never worth anything.
 
-The final step is a decision, spoken out loud. For a believer it is a prayer, and for a man who doesn't pray there is a version right after it. Before you take it, ask yourself one thing. Does some part of you still believe it has something to give you? If so, read on until that is gone. There's no hurry and no shame in it.
+The final step is a decision, spoken out loud. For a believer it is a prayer, and for a man who doesn't pray there is a version right after it. Before you take it, ask yourself one thing. Does some part of you still believe lust has something to give you? If so, read on until that belief is gone. There's no hurry and no shame in it.
 
-You don't have to feel brave, and you don't need a clean record behind you. A man who has failed fifty times takes this step exactly as a man does who has never tried.
+You don't have to feel brave, and you don't need a clean record behind you. A man who has failed fifty times takes this step exactly like a man who has never tried.
 
 Nobody *decides* to fall into this trap. You wandered in as a boy. But the trap is built to hold you for life, and nobody wanders out of it. Getting out takes one clear, positive decision, and you're about to make it.
 
@@ -18,13 +18,13 @@ Nobody *decides* to fall into this trap. You wandered in as a boy. But the trap 
 
 Of course you have, and you broke it every time. You may be afraid of breaking another.
 
-What were you promising then? You promised to go without something you still wanted. That was a vow against yourself, and half of you never signed it. Today is different, because there's nothing left that you want from it. You're only putting into words what has already happened in your head.
+What were you promising then? You promised to go without something you still wanted. That was a vow against yourself, and half of you never signed it. Today is different, because there's nothing left that you want from lust. You're only putting into words what has already happened in your head.
 
 So don't think about failing. This time you aren't climbing by willpower. You're walking out through an open door, and you can enjoy the walk. If you're a Christian, you also have something stronger than your own word to stand on. A Christian counselor wrote it about pornography, and it holds for every form lust takes: "Jesus' grace to change you is stronger than pornography's power to destroy you."
 
-And if what holds you back is the feeling that you've failed too often to come back again, hear a man who felt exactly that. He pictures the prodigal son, the runaway in Jesus's story, halfway home. In his picture the son protests, "But God, I still smell like yesterday." And the Father answers with two words: "Just come." He adds, for every man reading: "You're not too dirty. You're not too far."
+Maybe you feel you've failed too often to come back again. Hear a man who felt exactly that. He pictures the prodigal son, the runaway in Jesus's story, halfway home. In his picture the son protests, "But God, I still smell like yesterday." And the Father answers with two words: "Just come." He adds, for every man reading: "You're not too dirty. You're not too far."
 
-Jesus asked for plain speech: "But let your 'Yes' be 'Yes' and your 'No' be 'No.'" That is all this is: a plain No that you mean. You are showing a squatter the door, once, and you already know that he has nothing you want.
+Jesus asked for plain speech: "But let your 'Yes' be 'Yes' and your 'No' be 'No.'" That is all this step is: a plain No that you mean. You are showing a squatter the door, once, and you already know that he has nothing you want.
 
 ## If there is another person {-}
 
@@ -70,7 +70,7 @@ Here are the instructions.
 
 Change the words until they are true of you. Name what it cost you. The sentence that matters is the plain No.
 
-That is the whole of the final step. As a decision, it counts in full. A decision you've only thought is easy to un-think. One you've spoken has been heard, if only by you. If one day you want to pray the other version, it will still be here.
+That is the decision, and it counts in full. A decision you've only thought is easy to un-think. One you've spoken has been heard, if only by you. If one day you want to pray the other version, it will still be here.
 
 If you're Catholic, take this to Confession as well, and soon. The Church asks Catholics to bring sins like this to a priest. Many men say that was the moment the weight came off. Your priest has heard it all before, and he is bound never to repeat a word of it.
 

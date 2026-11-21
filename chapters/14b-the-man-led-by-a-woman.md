@@ -6,7 +6,7 @@
 
 Here lust borrows a man's feet. This is the chase. If that has never been you, read this for the man you know who is living it.
 
-There's a man you may recognize at any party. He walks in and goes straight to the women. He doesn't say hello to the men. He buys a round, and every glass goes to a girl. He would tell you he is just a generous, friendly guy.
+There's a man you may recognize at any party. He walks in and goes straight to the women. He doesn't say hello to the men. He buys a round, and every glass goes to a girl. Ask him why, and he says, "I'm only being friendly. I'm a generous guy."
 
 Try a test. Does he buy the men a drink? Does he spend as much time talking to the men? A generous man is generous with everybody. This man is spending, and he knows what he is shopping for. It is a hit dressed up as a gift.
 
@@ -18,9 +18,9 @@ Think of his wanting as a lever that sticks out of him. Anyone who takes hold of
 
 ## The man who waits {-}
 
-The man at the bar is the loud kind. There is a quiet kind, and there are far more of him.
+The man at the party is the loud kind. There is a quiet kind, and there are far more of him.
 
-He has a friend, she is a woman, and he has been in love with her for three years. He drives her to the airport. He fixes her computer. He listens for an hour while she talks about the man she is actually seeing. He calls it friendship.
+He has a friend who is a woman, and he has been in love with her for three years. He drives her to the airport. He fixes her computer. He listens for an hour while she talks about the man she is actually seeing. He calls it friendship.
 
 But a friend wants nothing back, and this man is keeping count. Every favor is a payment into an account that he believes will pay out one day. She may know it and enjoy the service. She may have no idea. Either way, he isn't being kind to her. He is waiting to be paid. And under the good manners he is angry that the payment hasn't come.
 
@@ -32,13 +32,13 @@ If that is you, the way out is plain. Stop the favors that are really payments. 
 
 The lever doesn't care whose hand is on it. A woman can pull it, and so can anyone else who knows what he wants.
 
-The man who makes advertisements knows. That is why a pretty girl is leaning on the car. The stranger who writes to him out of nowhere knows. In her pictures she is young and lovely, and she thinks he is wonderful, and after three weeks she has a trouble that only his money can fix. Very often "she" is a man at a desk, working from a script. Governments know it too. For as long as there have been secrets, the cheapest way to get one has been to send a pretty woman to the man who keeps it.
+The man who makes advertisements knows. That is why a pretty girl is leaning on the car. The stranger who writes to him out of nowhere knows. In her pictures she is young and lovely, and she thinks he is wonderful. After three weeks she has a trouble that only his money can fix. Very often "she" is a man at a desk, working from a script. Governments know it too. The cheapest way to get a secret has always been to send a pretty woman to the man who keeps it.
 
 None of these people is stronger or cleverer than he is. They don't need to be. They only need to know where the lever is.
 
 ## The strongest man in the Bible {-}
 
-None of this is new. The oldest full account of it is in the Bible, in the book of Judges, and it is about a man named Samson. He was the strongest man in the Bible. God gave him that strength to free his people from their enemies, the Philistines, and no army could hold him. His weakness was women, and his enemies knew it. He fell in love with a woman named Delilah, and the Philistine rulers came to her with an offer. "Entice him, and see in which his great strength lies." Each of them promised her eleven hundred pieces of silver.
+None of this is new. The oldest full account is in the book of Judges, and it is about a man named Samson. He was the strongest man in the Bible. God gave him that strength to free his people from their enemies, the Philistines, and no army could hold him. His weakness was women, and his enemies knew it. He fell in love with a woman named Delilah, and the Philistine rulers came to her with an offer. "Entice him, and see in which his great strength lies." Each of them promised her eleven hundred pieces of silver.
 
 Three times she asked him for his secret. Three times he told her a lie, and each time she tried it on him with armed men hiding in the next room.
 
