@@ -1,4 +1,4 @@
-# Advantages of Lust
+# Advantages of the Habit {#advantages-of-lust}
 
 &nbsp;
 

@@ -20,7 +20,7 @@ Nothing is missing. Lust made the void. It never filled it.
 
 ## Pursue {-}
 
-Paul wrote this to Timothy, a young pastor he was training: "Flee from youthful lusts; but pursue righteousness, faith, love, and peace with those who call on the Lord out of a pure heart." He gives two instructions. The first is *flee*: don't negotiate with it or keep a milder version of it. The second is *pursue*: go after righteousness, faith, love and peace. And do it "with those who call on the Lord", which means in company.
+Paul wrote this to Timothy, a young pastor he was training: "Flee from youthful lusts; but pursue righteousness, faith, love, and peace with those who call on the Lord out of a pure heart." He gives two commands. The first is *flee*: don't negotiate with it or keep a milder version of it. The second is *pursue*: go after righteousness, faith, love and peace. And do it "with those who call on the Lord", which means in company.
 
 That is not a substitute. A substitute is a thing you grab to plug a hole. Paul is describing a life you can now get on with. One pastor calls it "escaping into reality, into God Himself." You'll have evenings and energy to spare. Spend them on things that are good in themselves.
 

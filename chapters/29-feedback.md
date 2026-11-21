@@ -4,11 +4,11 @@
 >
 > — Proverbs 24:16
 
-This book has no quarrel with the man in the trap. Its quarrel is with the trap. When the method goes wrong for a man, the cause is one of four things. Two keep him from starting, and two trip him once he has.
+This book has no quarrel with the man in the trap. Its quarrel is with the trap. When the method goes wrong for a man, the cause is one of four things. Two are fears that come back and make him doubt, and two are mistakes in carrying it out.
 
 ## 1. Fear of failure {-}
 
-Failing is no disgrace. Refusing to try is plain foolishness. What are you protecting by not trying? Nothing. If you try and fail, you're exactly where you are today. If you don't try, you've failed already and saved yourself the trouble of hoping.
+Failing is no disgrace. If the fear of failing comes back after you have decided, ask what it is protecting. Nothing. A man who falls is exactly where he was the day before he decided, and he gets up.
 
 ## 2. Fear of being miserable {-}
 

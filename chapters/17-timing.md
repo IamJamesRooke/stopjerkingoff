@@ -16,7 +16,7 @@ You have carried this a long time, and probably told nobody. It deserves a prope
 
 The trap has one clever twist. When life is stressful, it's the wrong time to stop, because you think you need it. When life is calm, you feel no urgency, because things aren't so bad. One or the other is always true, so the right time never comes. And it is never a bad week to carry on.
 
-That is why this book doesn't ask you to pick a good week. It asks you to finish reading, and then stop, whatever week it is.
+That is why this book doesn't ask you to pick a good week. It asks you to read as far as the final step, and then stop, whatever week it is.
 
 The book of Ecclesiastes has a line for the man who waits for perfect weather: "He who observes the wind won't sow; and he who regards the clouds won't reap."
 
@@ -32,11 +32,11 @@ It won't be easier next year. It will be the same job with another year of rut w
 
 ## See the weeks coming {-}
 
-One piece of getting ready is worth doing now. Look at the three weeks after you expect to finish the book. Is there a trip away on your own? Is your wife visiting her mother? Are there finals, a deadline, a string of late nights in an empty house?
+One piece of getting ready is worth doing now. Look at the three weeks after you expect to reach that step. Is there a trip away on your own? Is your wife visiting her mother? Are there finals, a deadline, a string of late nights in an empty house?
 
 None of these has to put you off. They only need to be seen coming. A man who expects the quiet hotel room, and knows he's missing nothing in it, walks straight through it.
 
-So the time is the day you finish this book, whatever kind of week that turns out to be. Paul wrote to the church at Corinth, "Behold, now is the acceptable time."
+So the time is the day you reach the final step, whatever kind of week that turns out to be. Paul wrote to the church at Corinth, "Behold, now is the acceptable time."
 
 That leaves the fear under all the others. Once the habit is gone, will you miss it?
 

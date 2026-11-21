@@ -116,7 +116,7 @@ SOURCES = {}
 PAGE_DESC = {
     "about.html": ("A plain summary of Stop Jerking Off: a self-help recovery book for men who want to stop compulsive "
                    "porn use and masturbation, using a cognitive, no-willpower approach inspired by EasyPeasy."),
-    "advantages-of-lust.html": "The chapter on the advantages of lust. The page is blank on purpose, because there are none.",
+    "advantages-of-lust.html": "The chapter on the advantages of the habit. The page is blank on purpose, because there are none.",
     "faq.html": ("How do I stop masturbating? Can I quit without willpower? Is it harmful, or a sin? "
                  "Plain answers to the questions men ask most, from the book Stop Jerking Off."),
     "why-this-book.html": ("Why willpower, streaks and NoFap counters keep failing, and how a book inspired "

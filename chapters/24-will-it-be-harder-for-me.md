@@ -6,7 +6,7 @@
 
 No two men come to this book from the same place. One is nineteen and one is sixty. One is married, one has never been kissed. Some situations do look harder than others. They don't have to be, once the Big Monster is gone.
 
-## The man at the front of the church {-}
+## The man who leads the church {-}
 
 You'd think it would be easiest for the pastor, the elder or the worship leader. It isn't. He has more reasons to stop than anyone, and reasons were never the problem. He fears being found out, and fear sends a man reaching for comfort. He believes he must set an example, so he carries a second helping of guilt: "I, of all people." Often he has no pastor of his own. If you lead in a church, you're in an ordinary trap, and it opens the ordinary way.
 
@@ -26,7 +26,7 @@ Nobody is born needing to do this to get to sleep. You weren't lying in your cri
 
 ## The student and the single man {-}
 
-The other hard-looking case is boredom mixed with stress. Think of the student in finals week, or the single man in an apartment by himself. Each has long empty hours and nobody around. On the Willpower Method those hours are deadly, because he has all evening to brood over what he's "lost".
+One more hard-looking case is boredom mixed with stress. Think of the student in finals week, or the single man in an apartment by himself. Each has long empty hours and nobody around. On the Willpower Method those hours are deadly, because he has all evening to brood over what he's "lost".
 
 With the right frame of mind those same hours are no trouble. Don't worry that being alone keeps reminding you that you've stopped. Let it. Every reminder is a reminder that you are getting out.
 

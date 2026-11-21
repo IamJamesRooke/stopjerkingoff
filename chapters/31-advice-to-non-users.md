@@ -50,7 +50,7 @@ Don't stage a confrontation, and don't try to win an argument. If you win it, yo
 
 ## To parents {-}
 
-Most men in the trap fell in as boys, alone, with nobody explaining anything. Several of the men quoted in this book started at ten. That's the age to think about, and it's earlier than you'd like.
+Most men in the trap fell in as boys, alone, with nobody explaining anything. Several of the men quoted in this book started at twelve, and many start younger. That's the age to think about, and it's earlier than you'd like.
 
 Don't condemn your son. Shame a boy and you teach him two things: that he's disgusting, and that he must hide better. Secrecy and self-loathing are what the habit feeds on. Paul's instruction fits: "You fathers, don't provoke your children to wrath, but nurture them in the discipline and instruction of the Lord."
 

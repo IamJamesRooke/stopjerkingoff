@@ -13,7 +13,7 @@ For a few weeks after you stop, you may feel an occasional urge. Urges come in t
 
 Take the man on the couch, the week after his last time.
 
-Monday he gets into bed and the bell rings on schedule. He lies there. It is a little like wanting to sneeze. He doesn't argue with it and he doesn't feed it. Twenty minutes later he is asleep.
+Monday he gets into bed and the old cue goes off on schedule, like a bell. He lies there. It is a little like wanting to sneeze. He doesn't argue with it and he doesn't feed it. Twenty minutes later he is asleep.
 
 Tuesday is nothing at all. He is almost offended.
 

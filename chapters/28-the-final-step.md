@@ -10,7 +10,7 @@ It is not a final session. There is no "one last time" in this book. Nobody sins
 
 If you had already stopped before you got here, good. Stay stopped, and take this step all the same. It says out loud what you have been doing.
 
-The final step is a decision, spoken out loud. For a believer it is a prayer, and for a man who doesn't pray there is a version right after it. Before you take it, ask yourself one thing. Does some part of you still believe lust has something to give you? If so, read on until that belief is gone. There's no hurry and no shame in it.
+The final step is a decision, spoken out loud. For a believer it is a prayer, and for a man who doesn't pray there is a version right after it. Before you take it, ask yourself one thing. Does some part of you still believe lust has something to give you? If so, don't take the step yet. Name the thing you still think it gives you, and read that chapter again. There's no hurry and no shame in it.
 
 You don't have to feel brave, and you don't need a clean record behind you. A man who has failed fifty times takes this step exactly like a man who has never tried.
 

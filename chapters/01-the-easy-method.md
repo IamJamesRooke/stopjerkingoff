@@ -64,7 +64,7 @@ If something loosened in your chest at "call off the war", that is the first of 
 
 There's no "one last time" ceremony waiting for you in the closing pages. There is only a plain No, and you'll be glad to say it. It is not the old vow. The old vow was a promise made in your own strength, before you understood the trap, and you know how long those lasted. This one you'll say with your eyes open, and if you pray, you'll say it leaning on God.
 
-I didn't invent this way of quitting. A man named Allen Carr did, for smokers. His book, *Easy Way to Stop Smoking*, has helped a great many people put down cigarettes without a fight. Later a free book called [*The Easy Peasy Way to Quit Porn*](https://easypeasymethod.org/) used Carr's method to help men quit porn. This book borrows from both, and takes the same method to lust itself. The credit is theirs. Any mistakes are mine.
+I didn't invent this way of quitting. A man named Allen Carr did, for smokers. His book, *The Easy Way to Stop Smoking*, has helped a great many people put down cigarettes without a fight. Later a free book called [*The Easy Peasy Way to Quit Porn*](https://easypeasymethod.org/) used Carr's method to help men quit porn. This book borrows from both, and takes the same method to lust itself. The credit is theirs. Any mistakes are mine.
 
 A Christian wrote this one, and it quotes the Bible, because the best pictures of this trap are in there. You don't have to believe a word of it to get out. If you don't believe, read it as you would any old book that turns out to know you. If you hold another faith, bring it with you. When you hear God or sin mentioned, take it as your conscience talking.
 
