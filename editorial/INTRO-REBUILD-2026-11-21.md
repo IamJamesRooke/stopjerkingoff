@@ -19,7 +19,7 @@ Four versions were written: the old one, a fuller one with the argument for why 
 ## What changed
 
 - New first sentence, which is also the homepage line.
-- Added: the "normal / afterward" line; "I was him for years."; why other methods fail ("No man wins a fight against something he still half wants."); "Small is not the same as harmless."; "A Christian wrote this book… grace, not grit… you can still walk out by it."; "nobody has to know you're reading it"; "Read it this week."
+- Added: the "normal / afterward" line; "I was him for decades."; why other methods fail ("No man wins a fight against something he still half wants."); "Small is not the same as harmless."; "A Christian wrote this book… grace, not grit… you can still walk out by it."; "nobody has to know you're reading it"; "Read it this week."
 - Cut and parked: both headings, the glossary (the habit and lust are now named inside the promise), the second testimony, the note to helpers, "teeth, bone, sinew and will", "the secret".
 - Kept: the scene, "There is no dragon.", the squatter, "Save your grit…", "Evict him, and get on with your life.", "DO NOT SKIP CHAPTERS.", both safety notes, the welcome to women, the button.
 - Length: 876 words before, 785 after, with no headings.
@@ -36,7 +36,7 @@ He means it. He always means it.
 
 Everybody tells him it's normal. Nobody tells him why it feels like this afterward.
 
-You know this man. Most men do. I was him for years.
+You know this man. Most men do. I was him for decades.
 
 He is no weakling. He has given up harder things than this. Against this one thing he has tried everything: vows, prayers, blocked sites, cold showers, counted days. None of it lasted. So he has come to believe he is fighting a dragon.
 

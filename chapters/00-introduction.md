@@ -6,7 +6,7 @@ He means it. He always means it.
 
 Everybody tells him it's normal. Nobody tells him why it feels like this afterward.
 
-You know this man. Most men do. I was him for years.
+You know this man. Most men do. I was him for decades.
 
 He is no weakling. He has given up harder things than this. Against this one thing he has tried everything: vows, prayers, blocked sites, cold showers, counted days. None of it lasted. So he has come to believe he is fighting a dragon.
 
