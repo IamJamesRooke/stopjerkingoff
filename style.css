@@ -375,3 +375,80 @@ pre code {
 /* Skip link: hidden until a keyboard user tabs to it. */
 .skip-link { position: absolute; left: -9999px; top: 8px; z-index: 1000; padding: 8px 14px; background: #c9a55a; color: #111a2c; font-weight: 700; border-radius: 4px; }
 .skip-link:focus { left: 8px; }
+
+/* ---- Reading aids (tools/reader.py, site/reader.js) ---- */
+.sr-only {
+  position: absolute !important; width: 1px; height: 1px; padding: 0; margin: -1px;
+  overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0;
+}
+/* The site numbers chapters in reading order ("Chapter 3 of 66"), so the book's own
+   numbers, which skip the unnumbered chapters, are left to the PDF and EPUB. */
+.book .book-body .page-inner section.normal h1 .header-section-number,
+.book .book-summary ul.summary li.chapter > a > b { display: none; }
+/* Sidebar: chapters only. */
+.book .book-summary ul.summary li.chapter ul { display: none; }
+.book .book-summary ul.summary li.continue-reading a { font-weight: 700; color: var(--sjo-accent, #2b6cb0) !important; }
+
+.book .book-body .page-inner section.normal p.chapter-meta {
+  margin: -0.4em 0 2em;
+  font-family: Inter, system-ui, sans-serif;
+  font-size: 0.8em;
+  letter-spacing: 0.02em;
+  color: var(--sjo-muted, #6b6b6b);
+}
+
+/* Next chapter card */
+.book .book-body .page-inner section.normal nav.next-card { margin: 3.5em 0 1.5em; }
+.book .book-body .page-inner section.normal nav.next-card a {
+  display: block;
+  padding: 1.1em 1.3em 1.2em;
+  border: 1px solid var(--sjo-line, #d8d8d8);
+  border-radius: 10px;
+  background: var(--sjo-panel, #f6f6f4);
+  text-decoration: none !important;
+  color: inherit !important;
+  transition: border-color .15s, transform .15s;
+}
+.book .book-body .page-inner section.normal nav.next-card a:hover { border-color: var(--sjo-accent, #2b6cb0); transform: translateY(-1px); }
+nav.next-card .next-label {
+  display: block;
+  font-family: Inter, system-ui, sans-serif; font-size: 0.75em; font-weight: 700;
+  letter-spacing: 0.12em; text-transform: uppercase;
+  color: var(--sjo-accent, #2b6cb0);
+}
+nav.next-card .next-title { display: block; margin: 0.25em 0 0.2em; font-size: 1.45em; font-weight: 600; line-height: 1.25; color: var(--sjo-head, #111); }
+nav.next-card .next-meta { display: block; font-family: Inter, system-ui, sans-serif; font-size: 0.8em; color: var(--sjo-muted, #6b6b6b); }
+
+/* Reading progress */
+.read-progress { position: fixed; top: 0; left: 0; height: 3px; width: 0; z-index: 9999; background: #e0b25c; pointer-events: none; }
+
+/* Homepage hero: one screen, then the Introduction */
+.book .book-body .page-inner section.normal .home-hero {
+  display: flex; align-items: center; gap: 2.2em;
+  min-height: calc(100vh - 140px);
+  margin: 0 0 2em;
+}
+.book .book-body .page-wrapper .page-inner section.normal .home-hero img.home-cover {
+  flex: 0 0 auto; width: 250px; margin: 0 !important;
+}
+.home-hero .hero-text { flex: 1 1 auto; }
+.book .book-body .page-inner section.normal .home-hero p { text-indent: 0; }
+.book .book-body .page-inner section.normal .home-hero p.hero-line { font-size: 1.45em; line-height: 1.35; margin: 0 0 0.7em; color: var(--sjo-head, #111); }
+.book .book-body .page-inner section.normal .home-hero p.hero-facts { font-family: Inter, system-ui, sans-serif; font-size: 0.85em; color: var(--sjo-muted, #6b6b6b); margin: 0 0 1.4em; }
+.home-hero .hero-actions { display: flex; flex-wrap: wrap; gap: 0.6em; margin: 0 0 1.1em; }
+.book .book-body .page-inner section.normal .home-hero a.hero-start,
+.book .book-body .page-inner section.normal .home-hero a.hero-continue {
+  display: inline-block; padding: 0.7em 1.5em; border-radius: 8px;
+  font-family: Inter, system-ui, sans-serif; font-weight: 700; font-size: 1em;
+  text-decoration: none !important;
+}
+.book .book-body .page-inner section.normal .home-hero a.hero-start { background: var(--sjo-accent, #2b6cb0); color: var(--sjo-accent-ink, #fff) !important; }
+.book .book-body .page-inner section.normal .home-hero a.hero-continue { border: 1px solid var(--sjo-accent, #2b6cb0); color: var(--sjo-accent, #2b6cb0) !important; }
+.home-hero a.hero-continue[hidden] { display: none !important; }
+.book .book-body .page-inner section.normal .home-hero p.hero-downloads { font-size: 0.9em; color: var(--sjo-muted, #6b6b6b); margin: 0; }
+@media (max-width: 700px) {
+  .book .book-body .page-inner section.normal .home-hero { flex-direction: column; text-align: center; gap: 1.3em; min-height: 0; margin-top: 56px; }
+  .book .book-body .page-wrapper .page-inner section.normal .home-hero img.home-cover { width: min(190px, 50vw); }
+  .home-hero .hero-actions { justify-content: center; }
+  .book .book-body .page-inner section.normal .home-hero p.hero-line { font-size: 1.25em; }
+}
