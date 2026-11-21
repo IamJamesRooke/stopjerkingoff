@@ -16,7 +16,7 @@ The panic is not a withdrawal pang. It's the belief that you can't cope without 
 
 The board is two feet above the water, and from up there it looks like twenty. The pool is ten feet deep and looks like a puddle. Every instinct tells him he's about to crack his skull. Stepping off takes real nerve. After that the rest is easy, and he comes up laughing.
 
-Don't worry. The panic is in your head. The beautiful truth is that you don't depend on the thing, even now, while you're still in the trap. Paul says the spirit God gives is not one of fear. Believer or not, the water's deep enough, and plenty of men have jumped before you.
+Don't worry. The panic is in your head. The truth is that you don't depend on the thing, even now, while you're still in the trap. Paul says the spirit God gives is not one of fear. Believer or not, the water's deep enough, and plenty of men have jumped before you.
 
 **Don't panic. Step off the board.**
 
@@ -47,7 +47,7 @@ There are two opposite mistakes.
 
 **The first is the fortress.** This man bans the internet, avoids the beach, and lives as if every woman were a danger. Every change tells him the same thing: "I'm in terrible danger and I've given up a great deal." That's the Willpower Method with a fence around it.
 
-**The second is the dare.** This man lies in bed at midnight with the phone on his chest to prove how strong he is. He's being a fool. Nobody proves he has quit drinking by sleeping in a bar. Testing yourself adds nothing to your freedom. Common sense says to avoid unnecessary stimulation. The word to notice is *unnecessary*. Christians have an old phrase for this: avoid the near occasion of sin. It means don't stand where you know you'll fall. That's not fear. It's sense.
+**The second is the dare.** This man lies in bed at midnight with the phone on his chest to prove how strong he is. He looks like a man guarding a bomb he built himself. He's being a fool. Nobody proves he has quit drinking by sleeping in a bar. Testing yourself adds nothing to your freedom. Common sense says to avoid unnecessary stimulation. The word to notice is *unnecessary*. Christians have an old phrase for this: avoid the near occasion of sin. It means don't stand where you know you'll fall. That's not fear. It's sense.
 
 A pastor with a gift for the obvious puts it in terms of chocolate. He has never eaten four hundred pieces of candy, he says, when there were none within his reach. Temptation often comes through a door that somebody deliberately left open. He has a line for the gym as well. If every visit has you staring at what you see there, then "don't go to the gym!"
 
@@ -85,3 +85,5 @@ If it's this good while the Little Monster is still twitching, think what it'll 
 <!-- 2026-11-20 (James): callback to the four instructions from 'Just Once' (say it once and outright; give no reason; don't let him down gently; never answer again), restated in place with no pointer back. -->
 
 <!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): method L4. -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

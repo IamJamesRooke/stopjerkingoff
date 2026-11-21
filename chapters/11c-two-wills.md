@@ -18,9 +18,7 @@ If you're not a believer, stay with me, because part of this holds without the t
 
 ## Enjoyment never came into it {-}
 
-Enjoyment has nothing to do with this, and it never did. If men did it for enjoyment, they wouldn't do it when they're sick, or exhausted, or an hour after they'd promised God. We only assume we enjoy it because the alternative is too insulting to consider. The alternative is that we've been doing something for twenty years that gives us nothing.
-
-That's also why most of it happens half-asleep, on autopilot, in the dark. Suppose you could watch a man at this habit. You'd see he's only content while he isn't thinking about what he's doing. The moment he thinks about it, he's uneasy.
+Enjoyment has nothing to do with this, and it never did. We only assume we enjoy it because the alternative is too insulting to consider. The alternative is that we've been doing something for twenty years that gives us nothing. That's why most of it happens half-asleep, on autopilot, in the dark. A man at this habit is only content while he isn't thinking about what he's doing.
 
 The Willpower Method gets self-control wrong. It thinks self-control means holding a door shut for the rest of your life against something heavy leaning on the other side. That isn't self-control. It's a siege, and sooner or later the man inside gets tired. A soldier who spends every watch wrestling the bottle isn't fit for duty either.
 
@@ -35,3 +33,5 @@ The habit feeds the Little Monster. The lies are the Big Monster. Starve the fir
 There is one more way men try to do it by willpower. It sounds like the sensible one, and it is the worst.
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 11-the-willpower-method.Rmd; the source notes for everything here are in that file. -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

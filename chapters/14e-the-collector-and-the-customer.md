@@ -26,11 +26,11 @@ Would you still have gone home with her?
 
 Most men answer at once. "No. Not her." Then she was never someone you wanted. She was a plate.
 
-Here is a question for any man, believer or not. If you had lived as though the Christian rules were true, would you have made better decisions, or worse?
+One question for any man, believer or not. If you had lived as though the Christian rules were true, would you have made better decisions, or worse?
 
 ## The customer {-}
 
-The customer's "at least" is that it's honest. For him it may be an escort, a massage parlor with a back room, or a trip abroad to a place where sex is cheap and nobody knows him. He pays a fair price, he says, and they are two adults. Look at what he can't know. He can't know whether she chose this. In every country police keep finding women in this trade who are held there by a debt, a threat or a passport locked in someone else's drawer. He can't know her age.
+The customer's "at least" is that it's honest. For him it may be an escort, a massage parlor with a back room, or a trip abroad to a place where sex is cheap and nobody knows him. He pays a fair price, he says, and they are two adults. But he can't know whether she chose this. In every country police keep finding women in this trade who are held there by a debt, a threat or a passport locked in someone else's drawer. He can't know her age.
 
 And for all that he buys the same ten minutes and the same flat feeling afterward, at a higher price. It is the porn habit with the screen taken away. The man who watches porn is already a customer. This man has only walked up to the counter.
 
@@ -47,3 +47,5 @@ The last case is harder. This man means to keep her.
 <!-- 2026-11-20 (James: keep everything from the Bible as much as possible): Hydra wording replaced by the empty house and the five mouths. -->
 
 <!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): method M6: two risk-list sentences cut from 'The customer' (the trafficking sentences stay). Reader report 5: a front-door line. -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

@@ -12,7 +12,7 @@ It's a neat story, and it is false from top to bottom. In Robert Louis Stevenson
 
 ## What you're rehearsing {-}
 
-Every time you do it, you're practicing something. Look at what.
+Every time you do it, you're practicing something. What, exactly?
 
 You're practicing arousal with nobody else there. You're practicing being a spectator, with a cast you can swap the instant your interest dips. You're practicing getting exactly your own way, at your own speed, with no one else's mood, tiredness or wishes to take into account.
 
@@ -30,9 +30,11 @@ Jesus said the same about money: no one can serve two masters. A man with a secr
 
 ## Two rooms become one {-}
 
-Now the good part. The moment the Little Monster is gone, the two rooms become one. That low, shifty, insecure feeling you've carried for years goes with him. You stop managing a double life, because there's only one life left to manage. A man who had been free for a hundred days said it with an exclamation mark: "I don't feel like a creep with a secret perverted second sex life anymore!" Your confidence comes back, and with it a self-respect you may not have felt since you were a boy.
+The moment the Little Monster is gone, the two rooms become one. That low, shifty, insecure feeling you've carried for years goes with him. You stop managing a double life, because there's only one life left to manage. A man who had been free for a hundred days said it with an exclamation mark: "I don't feel like a creep with a secret perverted second sex life anymore!" Your confidence comes back, and with it a self-respect you may not have felt since you were a boy.
 
-Being the same man in every room is a great deal less work. You'll see.
+Being the same man in every room is a great deal less work.
+
+One more trap is left, and it catches the man who is eager to stop. It looks like motivation.
 
 <!-- SOURCES (Chapter 19): every quote below is from the research files; check each against its page before publishing.
 - "they become merely the medium through which he increasingly adores himself." — C.S. Lewis, letter to Keith Masson (1956), Collected Letters vol. 3, as quoted at https://restlesspilgrim.net/blog/tag/sexual-morality/ (fragment only; in copyright, keep it this short; research/more-sources.md; the book takes "they" to be the imaginary women of the fantasy, so check the antecedent in the letter)
@@ -47,3 +49,5 @@ Being the same man in every room is a great deal less work. You'll see.
 <!-- 2026-11-19 (James: check section lengths, 'Just make the changes'): the 'One man' heading moved down so the comparison paragraph stays with 'What you're rehearsing'; new closing heading 'Two rooms become one'; 'the Willpower Method' said plainly; the forum attribution shortened (same source as before). -->
 
 <!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

@@ -4,7 +4,7 @@
 
 The date went badly, or it went nowhere. Or you had a fight with your partner and she's gone to bed with her back to you. You come home with the particular ache of a man who's been turned down. Tonight of all nights, you tell yourself, you're owed something. You aren't. Her no is never your excuse.
 
-Look at what the habit offers. It's company that can't say no, because nobody is there. And each night you take that offer makes the real thing a little harder to face.
+What the habit offers is company that can't say no, because nobody is there. And each night you take that offer makes the real thing a little harder to face.
 
 These are the nights you think you'd miss most. But they're the same principle. The habit quieted the Little Monster on a night when he happened to be loud. By doing so it made sure that he'd be loud on the next such night too.
 
@@ -14,7 +14,7 @@ Underneath most of the others lies this one.
 
 You're alone in an apartment or a hotel room, or you're lying beside a partner who feels a long way off. There is nobody to touch and nobody who knows you. And this, at least, feels like closeness.
 
-It's the saddest of the lies, because the ache is real and it's a good ache. You were made for company. "It is not good for the man to be alone" is almost the first thing God says about us in the Bible. A Catholic speaker says it in one sentence: "What you really long for is authentic love, but you settled for the counterfeit."
+The ache is real, and it's a good ache. You were made for company. "It is not good for the man to be alone" is almost the first thing God says about us in the Bible. A Catholic speaker says it in one sentence: "What you really long for is authentic love, but you settled for the counterfeit."
 
 A counterfeit doesn't only fail to pay. It makes you poorer. C.S. Lewis, answering a letter about this very habit, said it "sends the man back into the prison of himself, there to keep a harem of imaginary brides." Desire was meant to get you out of yourself. This locks you further in. Every time, you finish more alone than you began, in the same empty room with one more thing that nobody knows about you. A secret is a wall. You're building it yourself, one evening at a time, between you and everyone who might have loved you.
 
@@ -35,3 +35,5 @@ Come to me, Jesus says, and I will give you rest. That's better than relief, and
 So if it never helped, what exactly would you be giving up?
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 05-the-times-we-reach-for-it.Rmd; the source notes for everything here are in that file. -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

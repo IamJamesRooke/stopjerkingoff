@@ -18,7 +18,7 @@ Nobody *decides* to fall into this trap. You wandered in as a boy. But the trap 
 
 Of course you have, and you broke it every time. You may be afraid of breaking another.
 
-Look at what you were promising then. You promised to go without something you still wanted. That was a vow against yourself, and half of you never signed it. Today is different, because there's nothing left that you want from it. You're only putting into words what has already happened in your head.
+What were you promising then? You promised to go without something you still wanted. That was a vow against yourself, and half of you never signed it. Today is different, because there's nothing left that you want from it. You're only putting into words what has already happened in your head.
 
 So don't think about failing. This time you aren't climbing by willpower. You're walking out through an open door, and you can enjoy the walk. If you're a Christian, you also have something stronger than your own word to stand on. A Christian counselor wrote it about pornography, and it holds for every form lust takes: "Jesus' grace to change you is stronger than pornography's power to destroy you."
 
@@ -112,3 +112,5 @@ Do it now.
 <!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): reader report 4 and pastor: 'Are you certain? Are you excited? ... re-read the book', which shut out the man with many failures, became one question and a welcome to him; the prodigal lines are set out so they read aloud; the secular version says 'Where I have used anyone'. James's rule in 'If there is another person' is untouched. -->
 
 <!-- 2026-11-20: added one sentence after the harm-and-law rule restating the marriage line (pastor review 2, H2). The rule itself is unchanged. -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

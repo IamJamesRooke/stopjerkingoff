@@ -6,15 +6,9 @@
 
 When a man stops, he looks around for something to put in the gap. The usual candidates are:
 
-- **Edging.** Going right up to the line and stopping short, so that "technically" nothing happened.
-- **"Just touching."** A hand under the covers that isn't *doing* anything.
-- **Porn "instead".** Looking without touching, as if the eyes were a separate department.
+- **The act, stopped short.** Edging, so that "technically" nothing happened. Or "just touching", a hand under the covers that isn't *doing* anything.
+- **A screen "instead".** Porn without touching, as if the eyes were a separate department. The endless scroll. The dating app you keep "just to look". One woman's paid page. A girlfriend made by a computer. Stories and drawings with "nobody real" in them.
 - **A woman "instead".** Someone to use in place of your hand.
-- **The endless scroll.** Short videos, suggested pictures, the "accidental" search.
-- **The dating app you keep "just to look".** Swiping through faces with no plan to meet any of them.
-- **One woman's paid page "instead of porn".** A subscription, and tips so that she writes back.
-- **A girlfriend made by a computer.** A program that talks sweetly and never says no.
-- **Stories and drawings.** "Nobody real is in them."
 - **Food.** The fridge at midnight.
 
 USE NONE OF THEM.
@@ -51,6 +45,8 @@ If you need a genuine break in your day, take one. You'll enjoy it more now that
 
 So you don't need a substitute. If an urge comes in the next few days, it's the Little Monster starving, and you can let that be your comfort. Enjoy feeling him go.
 
+That leaves a practical question. If nothing goes in the gap, should you at least stay out of temptation's way?
+
 <!-- SOURCES (Chapter 25): every quote below is from the research files; check each against its page before publishing.
 - "masturbating up to the edge of orgasm, then stopping to cool things down, then revving up again." — YBOP, "What if I masturbate (edge) or watch porn without orgasm?", https://www.yourbrainonporn.com/rebooting-porn-use-faqs/what-if-i-masturbate-edge-or-watch-porn-without-orgasm/ (source sentence begins "Edging is masturbating up to...")
 - "they come up with new trends every month" — FitXFearless, "How To Desexualize Your Brain", https://www.youtube.com/watch?v=5YssueIJrZI (auto-captions, unpunctuated; research/transcripts/fitxfearless-5YssueIJrZI.md; he is speaking of TikTok "thirst trap" trends)
@@ -71,3 +67,5 @@ So you don't need a substitute. If an urge comes in the next few days, it's the 
 <!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md), callback added: one sentence: a substitute is a new head on the old neck. -->
 
 <!-- 2026-11-20 (James: keep everything from the Bible as much as possible): Hydra wording replaced by the empty house and the five mouths. -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

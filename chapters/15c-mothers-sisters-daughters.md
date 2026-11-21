@@ -10,7 +10,7 @@ A man doesn't size up his sister, or perform for her, or keep a door open with h
 
 Imagine living like that for one week, in every shop, office and street. Think how much quieter your head would be.
 
-Here is the funny part. Women can tell the difference at once. Most of them have been looked over by men since they were girls, and they know that look from across a room. A man who talks to them the way he talks to anyone stands out, because he is rare. Don't do it for that. A man who does it to be noticed is back to performing. Just know that it is so.
+Women can tell the difference at once. Most of them have been looked over by men since they were girls, and they know that look from across a room. A man who talks to them the way he talks to anyone stands out, because he is rare. Don't do it for that. A man who does it to be noticed is back to performing. Just know that it is so.
 
 It changes the woman you're dating as well. Nothing is wrong with wanting a beautiful wife. But beauty can blind a man, and a blind man signs anything. So take her face out of the question for a minute, and ask two plain things. Do I really like being with her? Can I build a life with her? A man ruled by lust can't answer those. He has never been calm enough near her to find out.
 
@@ -46,7 +46,7 @@ One more thing passes between a man and the girl on his mind, and that is pictur
 
 ## Seeing people again {-}
 
-Here is what waits on the other side. NoFap is an online movement of men who give up porn and masturbation. One of them, a hundred days out, noticed that the women around him had changed. Of course it was his eyes that had changed. He had stopped scanning their bodies, he wrote, and "started noticing much more interesting things about them. Smiles, gestures". He was seeing people again.
+A man on the NoFap forum, a hundred days out, noticed that the women around him had changed. Of course it was his eyes that had changed. He had stopped scanning their bodies, he wrote, and "started noticing much more interesting things about them. Smiles, gestures". He was seeing people again.
 
 Set him beside the man who quit porn and kept the feed. That man is still standing at his red line, with a phone full of crumbs and a head full of women who aren't there.
 
@@ -59,3 +59,5 @@ That is the eye and the mind. The next mouth is the one most men know best.
 <!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md): the head-by-head section was reordered, so the closing hook now leads to 'The Back Door'. The locked-door hook moved to the end of 'At Least I'm Not Him'. -->
 
 <!-- 2026-11-20 (James: keep everything from the Bible as much as possible): Hydra wording replaced by the empty house and the five mouths. -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

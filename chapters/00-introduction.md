@@ -21,16 +21,11 @@ The Appendix at the back has more.
 Now ask yourself honestly:
 
 - Do you watch porn, or keep drifting back to it after swearing off?
-- Do you masturbate to memories, to fantasies, or to whatever crosses your feed?
-- Have you made promises to yourself, or to God, that you broke within days?
 - Do you reach for it without thinking, in bed or in the shower, when you're bored, stressed, lonely or can't sleep?
-- Do you feel flat, guilty or disgusted with yourself afterward, and then do it again anyway?
-- Do you keep it secret? Would you be ashamed if the people you respect knew how often?
 - Do your thoughts drift to it at work, at dinner, or while you're talking to a woman?
 - Have you made a bad decision because you wanted a woman? Have you sent the message, spent the money, told the lie, or said yes when you should have said no?
 - Have you used a woman for a night, or kept one around because you didn't want to go without?
-- Has it cost you energy, focus, sleep, or closeness with your partner?
-- Have you ever counted days, reached a streak you were proud of, and lost it in five minutes?
+- Have you promised yourself, or God, that you would stop, and broken the promise within days? Did you feel disgusted with yourself, and then do it again anyway?
 
 If you said yes to even one of these, keep reading.
 
@@ -42,7 +37,7 @@ Are you reading this for a son, a husband, a brother or a friend? The best thing
 
 Lust is fed in five ways in this book. A man can look, think, touch, chase and take.
 
-He looks, at porn, at a feed full of strangers, at a woman in the street. He thinks, and plays the fantasy or the memory over again. He touches, and that is the hand: the late-night itch and the shower routine. He chases. He sends the message he shouldn't, stays with the wrong woman, spends money to impress, and can't think straight near a pretty face. The slang of the 2020s calls this simping. The thing itself is as old as Samson. And he takes, which is sex outside marriage, from the one-night stand to the affair.
+He looks, at porn, at a feed full of strangers, at a woman in the street. He thinks, and plays the fantasy or the memory over again. He touches, and that is the hand: the late-night itch and the shower routine. He chases. He sends the message he shouldn't, stays with the wrong woman, spends money to impress, and can't think straight near a pretty face. The slang of the 2020s calls this simping. The thing itself is as old as Samson. He was the strongest man in the Bible, and a woman he couldn't say no to brought him down. And he takes, which is sex outside marriage, from the one-night stand to the affair.
 
 You may know one of them or all five. It is the same lust each time, making a man's decisions for him.
 
@@ -56,13 +51,11 @@ The method works on one condition:
 
 Think of it as a staircase. Each chapter is a step, and each step only holds your weight because the one beneath it is there. Jump ahead to the "how to stop" chapter and you'll land on nothing.
 
-Take the steps in order, and here is what this method is built to be:
+Take the steps in order. This method is built to be:
 
 - **Immediate.** You don't taper off. You stop.
 - **For any man.** It is the same for the man who is at it three times a day as for the man who slips twice a month.
-- **Free of misery.** No weeks of climbing the walls.
-- **Free of willpower.** No gritted teeth.
-- **Free of gimmicks.** No apps, no supplements, no locked boxes.
+- **Free of misery and willpower.** No weeks of climbing the walls, no gritted teeth, and no apps, supplements or locked boxes.
 - **Clean.** You won't swap it for overeating, scrolling or drinking.
 - **Lasting.** You don't have to keep walking out of the same trap.
 
@@ -82,7 +75,7 @@ And a third:
 
 > "It's been over 5 years since God broke me free from the chains of pornography and masturbation addiction. I will never go back."
 
-Notice what the free men talk about. They don't describe a miserable fight that never ends. They describe chains breaking and a fog lifting. They still keep watch, as every Christian does. But keeping watch is a long way from fighting for your life every night. That is where this book is taking you.
+The free men don't describe a miserable fight that never ends. They describe chains breaking and a fog lifting. They still keep watch, as every Christian does. But keeping watch is a long way from fighting for your life every night. That is where this book is taking you.
 
 First, though, a warning. This book is not what you are expecting.
 
@@ -119,3 +112,5 @@ SOURCES (Introduction): every quote below is from the research files; check each
 <!-- 2026-11-20 (James: keep everything from the Bible as much as possible): Hydra wording replaced by the empty house and the five mouths. -->
 
 <!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): method M1: the exception for harm to another person is now explicit. -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

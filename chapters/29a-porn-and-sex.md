@@ -12,10 +12,16 @@ Look at what we've all been sold. Porn teaches a man that women are for hire. Th
 
 The Bible's answer is old and simple: keep sex for marriage. The letter to the Hebrews, in the New Testament, says, "Let marriage be held in honor among all, and let the bed be undefiled". That isn't because sex is dirty. It's because sex is strong. It ties two people together, and lust wants the tie without the promise. Within marriage, sex is a gift, and a married man who has stopped the habit shouldn't hold back from his wife.
 
+If you're not a believer, the plain test gives the same answer. Is this a gift, given inside a promise already made? Or is it a hit you're taking?
+
 If you've already lived the other way, this isn't here to pile on guilt. Nobody who wrote this book is an angel. Christians aren't the people who got it right. They're the people who finally admitted they couldn't, and asked for help. That's the heart of the whole faith. Look honestly and you find you aren't as good as you thought. Nobody is, and nobody gets there alone.
 
 So if you're single, the answer is to wait. Don't go looking for somebody to use in place of your hand. That is the same lust with another person in it. And if you're carrying a past, it's forgiven the same way as everything else in this book. You confess it, and you start again.
 
+That leaves the question nobody likes to ask out loud. What if you fall?
+
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 29-feedback.Rmd; the source notes for everything here are in that file. -->
 
 <!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): reader report 3 and 5. -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

@@ -70,6 +70,8 @@ Men walk out into the light every day, and the door has only ever been locked fr
 
 **DON'T BE THE LAST MAN IN THE DARK.**
 
+So the door opens from your side. The only question left is when.
+
 <!-- SOURCES (Chapter 16): every quote below is from the research files; check each against its page before publishing.
 - "the things you do in private come out in public" — FitXFearless, "Nofap made me more attractive (here's why)", https://www.youtube.com/watch?v=mBgA7jORnXU (auto-captions; research/transcripts/fitxfearless-mBgA7jORnXU.md; the caption reads "The things you do in the back end, the things you do in private come out in public.")
 - "almost the main work of life is to come out of our selves, out of the little dark prison we are all born in." — C.S. Lewis, letter to Keith Masson, 1956 (Collected Letters, vol. 3), fragment as quoted at https://restlesspilgrim.net/blog/tag/sexual-morality/ (in copyright: do not extend; "our selves" as on the page)
@@ -90,3 +92,5 @@ Men walk out into the light every day, and the door has only ever been locked fr
 <!-- 2026-11-19 (James: check section lengths, 'Just make the changes'): two new headings ('Say it aloud', 'Where to start'); the epigraph verse is now quoted in the body so the listener hears it, with 'reprove' explained; the therapist is named in place (Doug Weiss, source already listed above). -->
 
 <!-- 2026-11-19 (James: 'do it', all seven points): retitled 'The Locked Door' (was 'A Secret Habit?'; page address kept by heading ID a-secret-habit). 'You locked the door ... You knew' now opens the chapter; the 'real reasons to stop' sentence is cut. New section 'The work of hiding' (the phone face down; an illustration, not a testimony). The row of men shortened (it is also in 'Every Man in the Trap'). Lewis lead-in smoothed, quotation unchanged. New section 'Fear is not sorrow' with 2 Corinthians 7:10 (WEB, without the opening 'For'; checked 2026-11-19); the 'isn't afraid of who finds out' test follows Lambert (listed above). New section 'Whom to tell, and when': today, yourself and God; after stopping, one trusted person, as a free man and not as a request for a guard (matches the method check). Ending: the 'more men every day / afraid of being the last' claim, carried over from the smoking book, is replaced. -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

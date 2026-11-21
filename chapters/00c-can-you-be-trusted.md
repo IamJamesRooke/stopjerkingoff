@@ -1,12 +1,12 @@
 # Can You Be Trusted? {- #can-you-be-trusted}
 
-There is a bigger theme under all of this, and it is self-control. **A man who can't control his lust can't be trusted.** His partner can't fully trust him. His employer can't. Worst of all, he can't trust himself, because he has broken his own word too many times.
+A Benedictine monk once gave this advice to women who want to marry: "Marry a man who can fast." He meant a man who has learned to say no to himself.
 
-That is not an accusation. It was true of the man writing this, and it is the reason this book exists.
+Picture a soldier who shows up for duty drunk. He may be on the right side. He may even be loved. He is still unfit for service, and the men beside him go without the support they were counting on.
 
-A Benedictine monk once gave this advice to women who want to marry: "Marry a man who can fast." He meant a man who has learned to say no to himself. Proverbs says the same from the other side. A man without self-control is like a city with its walls broken down.
+That is the theme under this whole book. It is self-control, and it comes down to one hard sentence. **A man who can't control his lust can't be trusted.** His partner can't fully trust him. His employer can't. Worst of all, he can't trust himself, because he has broken his own word too many times.
 
-Picture a soldier who shows up for duty drunk. He may be on the right side. He may even be loved. He is still unfit for service, and the men beside him go without the support they were counting on. A man ruled by lust is like that. You were made for something. This book is about getting you fit for it.
+That is not an accusation. It was true of the man writing this, and it is the reason this book exists. You were made for something. This book is about getting you fit for it.
 
 The good news is that the reverse is also true. The man who is free of this walks differently. You're about to find out.
 
@@ -34,13 +34,9 @@ Near the end there is a short chapter called If You Slip. If you fall, during th
 
 Three words come up often. *Lust* means desire turned into taking, which is fed in five ways: the look, the thought, the touch, the chase and the taking. *The habit* means the first three working together, the look, the thought and the hand, because they nearly always arrive as one. When the book means the chase or the taking, it says so. *NoFap* is an online movement of men trying to stop both, and many of the men quoted here wrote on its forum. Visit communities like that after you've finished the book, and not before.
 
-This book was inspired by a free book called [*The Easy Peasy Way to Quit Porn*](https://easypeasymethod.org/), known as EasyPeasy. EasyPeasy was itself a rewrite of Allen Carr's *Easy Way to Stop Smoking*. I borrowed its structure and its method, and the credit for both belongs to them. But porn is only one face of the problem, and this book goes after the root. Any mistakes in applying the method here are mine. Like EasyPeasy, this book is shared under the Creative Commons Attribution-ShareAlike license. You may copy it, share it and adapt it, as long as you give credit and keep the same license. The full text and its history are open to anyone, in a [public repository on GitHub](https://github.com/IamJamesRooke/stopjerkingoff).
+This book was inspired by a free book called [*The Easy Peasy Way to Quit Porn*](https://easypeasymethod.org/), known as EasyPeasy. EasyPeasy was itself a rewrite of Allen Carr's *Easy Way to Stop Smoking*. I borrowed its structure and its method, and the credit for both belongs to them. But porn is only one face of the problem, and this book goes after the root. Any mistakes in applying the method here are mine. Like EasyPeasy, this book is shared under an open license, so you may copy it, share it and adapt it. The Attribution page at the back has the license, the public repository, and an address if you want to write to me.
 
-If you want to write to me, with a correction, a question or your own story, the address is [hello@stopjerkingoff.com](mailto:hello@stopjerkingoff.com). I read what comes in.
-
-So I have one request. If this book helps you, pass it on. Most men have never been told there is an easy way out.
-
-One last time: **DO NOT SKIP CHAPTERS.**
+I have one request. If this book helps you, pass it on. Most men have never been told there is an easy way out.
 
 I won't wish you luck, because luck doesn't come into it. Grace does.
 
@@ -57,3 +53,5 @@ I won't wish you luck, because luck doesn't come into it. Grace does.
 <!-- 2026-11-20 (James: keep everything from the Bible as much as possible): Hydra wording replaced by the empty house and the five mouths. -->
 
 <!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): reader report 11: the line is kept as James decided, and framed so it doesn't land as an accusation. -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

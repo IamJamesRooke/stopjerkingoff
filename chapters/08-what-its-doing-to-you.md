@@ -20,7 +20,7 @@ Some men do worry about the cost. But listen to how they picture it. They pictur
 
 Get that picture out of your head. It's the wrong picture, and it's the one that keeps you walking.
 
-Here is a truer one. Think of a bank account that somebody dips into every day. He never takes much. It's a few coins at a time, and never enough to notice. You would spot a robbery. You don't spot this. Then years later you add it up, and a fortune is gone.
+A truer picture is a bank account that somebody dips into every day. He never takes much. It's a few coins at a time, and never enough to notice. You would spot a robbery. You don't spot this. Then years later you add it up, and a fortune is gone.
 
 That is how this habit charges you. The cost isn't buried up ahead. **IT'S ALREADY BEING PAID.** You paid some last night, in the hour you spent and the sleep you lost after it. You paid some this morning, when you got up a little flat and a little ashamed. You'll pay some this afternoon, when your mind slides off the work in front of you. And you'll pay some tonight, when you're a little less present with the people in the room. None of it is big enough to call a disaster, and that's why you never see the total.
 
@@ -142,3 +142,5 @@ And then there is the body. Men whisper about this part, and almost nobody tells
 <!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). Exact changes are in the report sent to James. -->
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Some sections of this chapter moved to the chapters that follow it; their source notes stay listed here. -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

@@ -8,6 +8,12 @@ The text of this book is released under the [Creative Commons Attribution-ShareA
 
 You may copy it, share it, print it, translate it and adapt it, for any purpose, as long as you give credit and release your version under the same license.
 
+The full text and its history are open to anyone, in a [public repository on GitHub](https://github.com/IamJamesRooke/stopjerkingoff).
+
+## Write to me {-}
+
+If you want to write to me, with a correction, a question or your own story, the address is [hello@stopjerkingoff.com](mailto:hello@stopjerkingoff.com). I read what comes in.
+
 ## Where the method comes from {-}
 
 I did not invent the method in this book.
@@ -38,3 +44,5 @@ If you are quoted here and would like your words removed or corrected, please sa
 - "please say so" has no contact route yet; add one (repository issues or an email address) when the book has a home.
 - The build code's GPLv3 licence (see README.md) is not mentioned here because this page covers the book text only; add a line if wanted.
 -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

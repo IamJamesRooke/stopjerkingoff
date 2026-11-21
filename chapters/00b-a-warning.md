@@ -8,7 +8,7 @@ I do say that lust is a sin and a thief. I say the habit robs you of drive, focu
 
 I won't sell you superpowers either. Some corners of the internet promise that quitting will give you a deeper voice, glowing skin and women turning their heads. I promise none of it. What you get is better than a superpower. You get yourself back.
 
-Here is something that will sound strange: **you never chose this habit.**
+This will sound strange: **you never chose this habit.**
 
 Yes, you choose each time. You lock the door, you pick up the phone, you start. But did you ever sit down as a boy and decide to do this every night for the next fifteen years, whether you wanted to or not? Of course you didn't. Curiosity and puberty started it. Then the habit quietly took the wheel, and for most of us porn later poured fuel on it.
 
@@ -32,7 +32,7 @@ Believe those for long enough and the fear grows. You fear the nights alone, and
 
 It hasn't. And you are not a hopeless case. You've only been using a method that can't work.
 
-If you feel nervous right now, as though this isn't the right time, notice something. The habit doesn't relieve that nervousness. It causes it. And when exactly were you planning to get out? Tomorrow? Once you're married? After this stressful season? That day never arrives by itself.
+You may feel nervous right now, as though this isn't the right time. The habit doesn't relieve that nervousness. It causes it. And when exactly were you planning to get out? Tomorrow? Once you're married? After this stressful season? That day never arrives by itself.
 
 ## The good news {-}
 
@@ -57,3 +57,5 @@ You're about to do what every man in the trap secretly longs to do. You're going
 One question is left before we start, and this whole book turns on it. Can you be trusted?
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of index.Rmd; the source notes for everything here are in that file. -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

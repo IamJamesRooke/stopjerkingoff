@@ -25,9 +25,7 @@ He's waiting for things to get better, and while he mopes, the thing he's given 
 
 Back to our man on his streak, because something really is happening to him, though he can't feel it. If he lasts a few weeks, the Little Monster starves. The bodily itch is so slight that he never notices it die.
 
-Around then he feels he's cracked it. So he allows himself one, to prove the point, or to celebrate, or just to see. He does it, and it's a let-down, as it always was. But the Little Monster has had a meal, and next day there's a small voice asking for another. He had been out, and he's walked back in.
-
-He doesn't go straight back to nightly. He's careful and leaves it a week or two. Then he reasons, "I had one and didn't get hooked, so one more is safe." That's the same reasoning he used at thirteen, and it works the same way now.
+Around then he feels he's cracked it. So he allows himself one, to prove the point, or to celebrate, or just to see. He does it, and it's a let-down, as it always was. But the Little Monster has had a meal, and next day there's a small voice asking for another. He had been out, and he's walked back in. A week or two later he reasons, "I had one and didn't get hooked, so one more is safe." That's the same reasoning he used at thirteen, and it works the same way now.
 
 Some men do succeed on willpower. I don't want to take anything away from them. But listen to how they tell it. It was long and it was bitter, because the lie was still in their heads the whole time. The Little Monster had been dead for months and they were still moping. At last it dawned on them that they weren't going to give in, the moping stopped, and they found that life went on perfectly well.
 
@@ -36,3 +34,5 @@ Many more fail than succeed that way. And some who succeed stay fragile for the 
 The most honest account of all this was written two thousand years ago, by a tougher man than you or me. He lost too.
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 11-the-willpower-method.Rmd; the source notes for everything here are in that file. -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

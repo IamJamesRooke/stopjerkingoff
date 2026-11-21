@@ -4,11 +4,15 @@
 >
 > — Romans 7:15
 
+You have seen how the trap is built and what it charges. Now for the way most men try to climb out of it.
+
 Everybody knows that stopping is hard. The forums say so. The apps say so. The men who have tried say so, and add that it will be misery for the rest of your life. Nearly every book on the subject opens by warning you what a brutal road lies ahead.
 
-The truth is that it's absurdly easy.
+Your own attempts were hard too. They were every bit as hard as you remember. But the hardness came from the method.
 
-I know how that sounds. I'm not saying your own attempts were easy. They were every bit as hard as you remember. I'm saying the hardness came from the method. Bear with me. If I told you to run a marathon in under three hours, that would be hard. You'd need years of training, and you might not have the legs for it however hard you trained. But stopping the habit doesn't ask you to *do* anything. You only have to not do something. Nobody is holding you down and making you. Your body doesn't need it the way it needs bread and water. So if you want to stop, where exactly is the difficulty?
+The truth is that stopping is absurdly easy.
+
+I know how that sounds, so bear with me. If I told you to run a marathon in under three hours, that would be hard. You'd need years of training, and you might not have the legs for it however hard you trained. But stopping the habit doesn't ask you to *do* anything. You only have to not do something. Nobody is holding you down and making you. Your body doesn't need it the way it needs bread and water. So if you want to stop, where exactly is the difficulty?
 
 There isn't one. Men create the difficulty themselves, by using the Willpower Method. I mean any way of quitting that leaves you feeling you've sacrificed something. It is the same method whether the thing is porn, the hand or a woman you keep going back to. A man blocks the sites and unblocks them. He deletes her number and finds it again. We'll follow the habit here, because it shows the pattern most plainly.
 
@@ -24,11 +28,9 @@ After a few failed attempts, a man generally falls back on hope. One morning, he
 
 Let's slow down and watch the Willpower Method work.
 
-For most of our lives we keep our heads in the sand: "I'll deal with it later." Every so often something jolts us into an attempt. So we sit down and add it up. On one side go the shame, the tiredness, the wasted hours, the distance from God and the look we can't give our partner. And on the other side? What, exactly? Any honest tally comes out the same, and it has since we were fifteen: **Stop. You're being a fool.**
+For most of our lives we keep our heads in the sand: "I'll deal with it later." Then something jolts a man into an attempt. He knows he'd be better off without it. That was never in doubt. What trips him is something else: he believes he's making a sacrifice. He can't say what it is he's sacrificing. He only has a feeling that in the good times and the bad times alike, the habit *helps*. It's an illusion, but it's a strong one.
 
-So he knows he'd be better off without it. That was never in doubt. What trips him is something else: he believes he's making a sacrifice. He can't say what it is he's sacrificing. He only has a feeling that in the good times and the bad times alike, the habit *helps*. It's an illusion, but it's a strong one.
-
-On top of that sit the lies he's soaked up from the world. On top of those sits the heaviest lie of all, which is how terrible it is to quit. He's heard about the man ninety days clean who still thinks about it every hour. He's heard about the man who says it has been a nightly war for fifty years. He's read about the man who set himself five years, reached day 280, and lost it in one lonely evening. He may know one or two men who are obviously being eaten by this and still can't stop. Most likely he's lived some of those stories himself.
+On top of that sit the lies he's soaked up from the world. On top of those sits the heaviest lie of all, which is how terrible it is to quit. He's heard about the man ninety days clean who still thinks about it every hour. He's heard about the man who says it has been a nightly war for fifty years. Most likely he's lived some of those stories himself.
 
 So he doesn't start out thinking, "Wonderful! Have you heard? I don't have to do this anymore!" He starts in dread, like a man looking up at a cliff he has to climb. He texts his accountability partner: "Pray for me. This month is going to be rough." Most attempts are beaten before they begin.
 
@@ -39,9 +41,7 @@ Suppose he gets through the first few days. He feels a bit brighter. There's a l
 Meanwhile the Little Monster hasn't been fed. There's no pain in it. If a head cold made you feel like that, you wouldn't even mention it. But he knows what he wants. So the Little Monster wakes the Big Monster, and now watch something remarkable. The very man who three days ago was listing every reason to stop starts hunting, just as earnestly, for a reason to start:
 
 - "Life's short. There are worse sins."
-- "I chose the wrong week."
 - "I can't think straight. I'm snapping at everyone. I can't do my job like this."
-- "It isn't even mentioned in the Bible."
 - "Better this than going back to porn."
 - "I'll just see how she's doing. It's only a message."
 - "God made men this way. He can't expect the impossible."
@@ -52,7 +52,7 @@ What follows is the strangest minute of all. He feels real relief, because the L
 
 It wasn't only weakness. He changed his mind. Look at what he believed at that moment. He was suffering. The habit would end the suffering. There was something in it for him after all. Given all that, going back was a perfectly logical decision. His will was tired, but that wasn't the whole story. He was also acting on false information, and that part this book can fix.
 
-"What's the point of a clean conscience if I'm miserable?" It's a fair question, and the answer is that you won't be. A life without the habit isn't gray and twitchy. Notice where his misery comes from. It doesn't come from the Little Monster, who is tiny. It comes from the tug-of-war. He starts by believing he's given something up, so he feels deprived, and feeling deprived is itself a strain. In a strain, the old voice says "go on", and now he can't. So he feels more deprived still.
+"What's the point of a clean conscience if I'm miserable?" It's a fair question, and the answer is that you won't be. A life without the habit isn't gray and twitchy. His misery doesn't come from the Little Monster, who is tiny. It comes from the tug-of-war. He starts by believing he's given something up, so he feels deprived, and feeling deprived is itself a strain. In a strain, the old voice says "go on", and now he can't. So he feels more deprived still.
 
 That is the method at its best. Now add a scoreboard.
 
@@ -88,3 +88,5 @@ That is the method at its best. Now add a scoreboard.
 <!-- 2026-11-20 (James: keep everything from the Bible as much as possible): Hydra wording replaced by the empty house and the five mouths. -->
 
 <!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): reader report 6: one honest clause for the man with many failed attempts. -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

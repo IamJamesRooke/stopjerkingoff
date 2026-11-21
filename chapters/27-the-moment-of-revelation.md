@@ -22,7 +22,7 @@ For some men it comes on the first day. With some readers it happens before the 
 
 And let's be honest that it doesn't come to every man as a moment. For some it's sudden, a single day they can name. For others it comes on like a dawn. One young man, telling how God freed him, was careful to say so: "this wasn't something that happened overnight". Both kinds are real, and the slow kind is no less free. If yours comes by degrees, you haven't done it wrong. So take the two figures that follow as a rough guide and no more. They are not a sentence to serve, and they are not a date to wait for.
 
-**About five days in,** the habit stops being the main thing on your mind. This is when most men have their moment. It usually comes in one of the old danger spots: the empty house, the sleepless night, the evening after a fight. You get to the far side of it and suddenly realize that you coped perfectly well, or even enjoyed yourself. The thought of the habit never crossed your mind. After that it's smooth sailing, and you know you're free.
+**About five days in,** the habit stops being the main thing on your mind. This is when most men have their moment. It usually comes in one of the old danger spots: the empty house, the sleepless night, the evening after a fight. You get to the far side of it and suddenly realize that you coped perfectly well, or even enjoyed yourself. The thought of the habit never crossed your mind. For the man on the couch it comes like this. His wife reaches across and picks up his phone to check the time, and nothing in his chest jumps. Only afterward does he notice that the phone was lying face up. After that it's smooth sailing, and you know you're free.
 
 **About three weeks in** is when most willpower attempts die, and it's worth knowing why.
 
@@ -44,6 +44,8 @@ So go and enjoy your life, and cope with it, from the very start.
 
 The moment will arrive soon enough.
 
+One question is left before the final step. What is all this freedom for?
+
 <!-- SOURCES (Chapter 27): every quote below is from the research files; check each against its page before publishing.
 - "a light as it were of serenity infused into my heart" — Augustine, Confessions, Book 8, ch. 12, §29, E.B. Pusey translation (public domain), https://faculty.georgetown.edu/jod/augustine/Pusey/book08
 - "I feel less depressed and more free you know." — SeydouxBlue, r/pornfree, https://www.reddit.com/r/pornfree/comments/9v0ocg/nofaper_with_a_question_what_has_changed_for_you/ (via YBOP; Reddit original not opened; he was "a few weeks" in, so he is not describing a feeling years later)
@@ -62,3 +64,5 @@ The moment will arrive soon enough.
 <!-- 2026-11-20 structure pass (James: right sections in the right chapters, right sizes, one flow): EasyPeasy explained in place; the closing announcement of the next chapter cut (Fit for Service announces itself). -->
 
 <!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

@@ -22,7 +22,7 @@ Your grandfather was told that this habit would make him go blind, grow hair on 
 
 ## The opposite lie {-}
 
-There is hype in the other direction too. Whole corners of the internet promise that if you stop you'll get a deeper voice, clear skin, a surge of testosterone and women turning around in the street. The biggest forum of them all started with a thread about a study claiming a testosterone spike after seven days. That study has since been retracted.
+There is hype in the other direction too. Whole corners of the internet promise that if you stop you'll get a deeper voice, clear skin, a surge of testosterone and women turning around in the street. The biggest forum of them all started with a thread about a study claiming a testosterone spike after seven days. That study was retracted in 2021.
 
 All that hype ought to get men out. In fact it helps to keep them in. It turns stopping into a feat. You go on "hard mode", you count days and you call yourself a warrior. Then day thirty comes, the prize hasn't arrived, and back you go.
 
@@ -87,3 +87,5 @@ Those are the lies about the habit. The lies about porn and about women are wors
 <!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). Exact changes are in the report sent to James. -->
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Some sections of this chapter moved to the chapters that follow it; their source notes stay listed here. -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

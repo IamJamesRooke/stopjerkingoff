@@ -25,6 +25,8 @@ Above all, remember:
 
 **"JUST ONE LITTLE LOOK" IS HOW YOU GOT INTO THIS IN THE FIRST PLACE.**
 
+That is the look. The next worry is the one every man saves for last: that his own case is different.
+
 <!-- SOURCES (Chapter 23): every quote below is from the research files; check each against its page before publishing.
 - "in the past I 'cheat' very often" — a reader of EasyPeasy, talkingsober.com, https://talkingsober.com/t/easypeasy-is-it-worth/189461 (source: "in the past I 'cheat' very often - looked at 'soft' photos as alternatiive to get my body 'ready'."; research/round2/easypeasy-readers.md). This replaces the r/NoFap line "I looked up one word", which came from mirror listings with no permalink.
 - "you're most vulnerable to temptation when you're weak and when you think you're strong" — Craig Groeschel, Life.Church, "When the Urge Is Too Strong", https://www.youtube.com/watch?v=7xzzJ6uLnbQ (professional captions; research/round2/sources-log.md)
@@ -40,3 +42,5 @@ Above all, remember:
 <!-- 2026-11-20 (James, at printed Ch 44: emphasize that David's look ultimately cost the kingdom): new paragraph after the Job and David lines. Retold, not quoted: 2 Samuel 12:10 (the sword shall never depart from your house); 13:1-29 (Amnon, Tamar, Absalom); 15:13-30 (David flees Jerusalem, weeping, barefoot); 16:15 (Absalom in Jerusalem); 18:9-33 (Absalom's death). The later division of the kingdom is NOT claimed here, since Scripture ties that to Solomon (1 Kings 11). -->
 
 <!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): pastor: 'and what he did next'. (The method check asked to cut this paragraph; it stays because James asked for it on 2026-11-20.) -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

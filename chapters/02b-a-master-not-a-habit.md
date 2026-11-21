@@ -18,7 +18,7 @@ The men who have gotten out reach for the same word without being told. One of t
 
 That is why it seems so hard to "give up". The slave has come to believe his master is also his comforter. He thinks he gets a real pleasure or a real crutch out of it, and that life without it would have a hole in the middle.
 
-Here is the good news. Once you see how the master actually holds you, and why you really reach for it, you'll stop. Just like that. A few weeks from now only two mysteries will be left. One is how it ever had a grip on you. The other is why you can't get your friends to see what you see.
+Now the good news. Once you see how the master actually holds you, and why you really reach for it, you'll stop. Just like that. A few weeks from now only two mysteries will be left. One is how it ever had a grip on you. The other is why you can't get your friends to see what you see.
 
 ## The sinister trap {-}
 
@@ -30,7 +30,7 @@ By the time something does feel wrong, the first guilt or the first prayer he do
 
 So whose fault is it? One man who got out said it well: "I would say it is our fault and not our fault at the same time". He's right on both counts. Nobody chooses to walk into the trap, but a man does have to choose to walk out.
 
-Now look at when a man tries to break out. He almost never decides to stop on a good day. He decides after an incident. He's nearly caught. Or a friend says something that lands. Or he looks at his partner and feels like a fraud. Or he's with a real woman and his body lets him down. So he quits on the very day he feels worst, which is the very day his old comforter is the thing he most wants. He has piled a second misery on the first one and thrown away the only remedy he knows.
+And when does a man try to break out? He almost never decides to stop on a good day. He decides after an incident. He's nearly caught. Or a friend says something that lands. Or he looks at his partner and feels like a fraud. Or he's with a real woman and his body lets him down. So he quits on the very day he feels worst, which is the very day his old comforter is the thing he most wants. He has piled a second misery on the first one and thrown away the only remedy he knows.
 
 A few days of that and his resolve goes soft. "I picked a bad week. I'll do it when things calm down. After finals. When I've got a girlfriend. Once I'm married." Then things do calm down, and with the pressure off, the reason to stop has gone as well. He drifts on until the next incident.
 
@@ -45,7 +45,7 @@ Stopping can be easy for any man. But first we need the facts about why you're s
 1. **The flesh.**
 2. **The world's lies.**
 
-And look at the men who have already walked out. They aren't missing a thing. They aren't gritting their teeth or looking back with longing. If anything they seem faintly puzzled that they ever bothered.
+The men who have already walked out aren't missing a thing. They aren't gritting their teeth or looking back with longing. If anything they seem faintly puzzled that they ever bothered.
 
 Before long you'll be one of them. Jesus said, "You will know the truth, and the truth will make you free." He was talking to people who had started to follow him, and the truth he meant was his own word. A few verses later he says it is the Son who makes a man free. This book is about one small corner of that truth: the lies lust tells. If you're not a believer, you can still test those lies for yourself.
 
@@ -56,3 +56,5 @@ Take the flesh first. It is the smaller of the two, and it is not what you think
 <!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md), wording pass: 'three coats' became 'five heads'. -->
 
 <!-- 2026-11-20 (James: keep everything from the Bible as much as possible): Hydra wording replaced by the empty house and the five mouths. -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

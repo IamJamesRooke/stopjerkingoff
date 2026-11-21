@@ -70,7 +70,7 @@ You are to rule over it. Ruling doesn't mean wrestling him on the doorstep, or l
 
 A Christian will tell you who sends the caller. The devil wants your soul. And the devil doesn't need to defeat you if he can distract you. So he sends the Little Monster, because the Little Monster works. One small thing that calls and calls is enough to shut a man down. It keeps him from using what God gave him to advance the Kingdom of Heaven.
 
-Look at what he sent, though. He didn't send a dragon. He sent a pipsqueak with a telephone. Martin Luther said that if the devil won't leave any other way, you should jeer at him, because he can't bear scorn. So laugh at the caller as much as you like. Only don't fight him, and don't answer him. Once he knows that calling will never work, he gives up.
+Look at what he sent, though. He didn't send a dragon. He sent a pipsqueak with a telephone. Martin Luther was the monk who started the Protestant Reformation. He said that if the devil won't leave any other way, you should jeer at him, because he can't bear scorn. So laugh at the caller as much as you like. Only don't fight him, and don't answer him. Once he knows that calling will never work, he gives up.
 
 If you don't believe in a devil, keep the picture anyway. Something is keeping you from being all that you could be, and it does it with nothing stronger than a nagging call. Nobody stalks a man who isn't worth having.
 
@@ -133,3 +133,5 @@ Don't open the door. James, one of the first leaders of the church, put it as a 
 <!-- 2026-11-20 quote check: the Luther line is a paraphrase of the saying widely quoted in his name ("The best way to drive out the devil, if he will not yield to texts of Scripture, is to jeer and flout him, for he cannot bear scorn"; C.S. Lewis used it as an epigraph to The Screwtape Letters). The book paraphrases and does not quote, and softens "texts of Scripture" to "any other way". Fine to record as it stands. -->
 
 <!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): method H1 and pastor M7: 'the door stays shut' (a siege) became 'you don't open it'; James 4:7 is now quoted whole, with one line saying that to resist is not to answer. -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

@@ -34,7 +34,7 @@ It's like a shortcut across a lawn. The first time, you barely leave a mark. Wal
 
 That's the whole mechanism. It doesn't mean you have a broken brain, an unusually high drive or a weak character. You have a path worn in the grass.
 
-Notice one more thing. The urge isn't really desire for a woman. It's the wish to end a restless feeling. Hold on to that, because everything hangs on it.
+One more thing. The urge isn't really desire for a woman. It's the wish to end a restless feeling. Hold on to that, because everything hangs on it.
 
 That restless feeling deserves a name.
 
@@ -70,3 +70,5 @@ That restless feeling deserves a name.
 <!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md; James approved the two opening drafts): the 'three faces' paragraph became the five heads, in two sentences fewer. -->
 
 <!-- 2026-11-20 (James: keep everything from the Bible as much as possible): Hydra wording replaced by the empty house and the five mouths. -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

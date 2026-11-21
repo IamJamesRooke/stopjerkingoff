@@ -6,7 +6,7 @@ If you're like most men, the phone is in your hand before your head has touched 
 
 A psychiatrist who treats porn addiction says the number one cause of relapse is not strong emotion. It is boredom. His reason takes one line: "if you've got a gap in your day porn will fill it".
 
-The most famous fall in the Bible began in an empty hour. David was Israel's greatest king. His army was away at war, and he had stayed at home. "At evening, David arose from his bed and walked on the roof of the king's house." He was idle, off duty and alone, and it was evening. You know that hour.
+The most famous fall in the Bible began in an empty hour. David, Israel's greatest king, fell on an idle evening, alone on his roof, while his army was away at war. You know that hour.
 
 And far from curing boredom, the habit breeds it. Afterward you're heavy and dull. You don't get up and call a friend or fix the shelf. You lie there and scroll. Boredom is what tells a man that he ought to be doing something, and the habit switches it off.
 
@@ -22,7 +22,7 @@ It removed a distraction that it had planted, and it sent you back with a duller
 
 "It relaxes me."
 
-Does it? Look at the thing itself. There's a locked door, and one ear is listening for footsteps on the stairs. You delete the history and cover your tracks. In the shower you keep an eye on the clock, because people are waiting for the bathroom. A man who is relaxing doesn't behave like that. He looks like a burglar.
+Does it? There's a locked door, and one ear is listening for footsteps on the stairs. You delete the history and cover your tracks. In the shower you keep an eye on the clock, because people are waiting for the bathroom. A man who is relaxing doesn't behave like that. He looks like a burglar.
 
 Take the morning shower. It's the habit at its most mechanical: warm water, a locked door, five minutes, the same as yesterday. Nothing in you asked for it. The shower asked for it.
 
@@ -42,7 +42,7 @@ You've turned the last cue of the day into a sleeping pill. The bed is the cue. 
 
 It's a poor sedative in any case. The session runs late and the phone runs later, and at seven the next morning a man drags himself out of bed and blames the mattress.
 
-When you stop, you may have two or three nights when the old cue fires and you lie there for a while. Don't dread them. Lie there and smile, because you know what's dying. After that you'll sleep the way you did as a boy. David wrote of it in Psalm 4: "In peace I will both lay myself down and sleep, for you, LORD alone, make me live in safety." Notice that he says he'll sleep in peace. He doesn't say he'll sleep worn out.
+When you stop, you may have two or three nights when the old cue fires and you lie there for a while. Don't dread them. Lie there and smile, because you know what's dying. After that you'll sleep the way you did as a boy. David wrote of it in Psalm 4: "In peace I will both lay myself down and sleep, for you, LORD alone, make me live in safety." He says he'll sleep in peace. He doesn't say he'll sleep worn out.
 
 ## Energy {-}
 
@@ -52,7 +52,7 @@ The tiredness gets filed under "getting older". Your friends are tired too, so i
 
 Suppose I could lift you out of today and set you down three weeks after stopping. It would be just for a morning, so that you felt the difference all at once. That alone would do it. You wouldn't say, "Is this how good it gets?" You'd say, "Had I really sunk that far?" I can't carry you there. You can, though.
 
-I can't prove this with a lab report. This is testimony, but it is remarkably consistent. Here is one man, thirty days in:
+I can't prove this with a lab report. This is testimony, but it is remarkably consistent. One man wrote, thirty days in:
 
 > "First off, I finally have energy again! I haven't felt this good since high school."
 
@@ -61,3 +61,5 @@ The energy comes back fast. It starts within days, on one condition. If you stop
 One occasion is left. It lies underneath all the others, and it is the saddest.
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 05-the-times-we-reach-for-it.Rmd; the source notes for everything here are in that file. -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

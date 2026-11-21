@@ -8,6 +8,8 @@ You've reached the end of the book. Congratulations. I mean that as plainly as I
 
 Look back at the house for a moment. The tenant was fed through five mouths: the look, the thought, the touch, the chase and the taking. You didn't get rid of him by sweeping harder. You saw that he had never paid a day's rent, and then there was no room left for him to come back to. If an old thought ever drifts past, you know what it is. Let it go by.
 
+And the man on the couch? His phone is lying face up on the cushion tonight, and he hasn't given it a thought.
+
 ## Today is the only day you've got {-}
 
 One more idea before you go. It's short, and it'll serve you long after you've forgotten the rest.
@@ -20,7 +22,7 @@ Tomorrow isn't yours yet.
 
 What you've been given is this afternoon.
 
-So here is something to practice. Soon, perhaps this week, a thought will float up: "I could, just now." A second later you'll catch it and think, "That's not me. It's the leftover noise of a thing I've finished with." Then you'll feel a small burst of gladness. The thought no longer gives you orders. That's another moment of knowing you're free, and you can have it as often as you like.
+So practice one thing. Soon, perhaps this week, a thought will float up: "I could, just now." A second later you'll catch it and think, "That's not me. It's the leftover noise of a thing I've finished with." Then you'll feel a small burst of gladness. The thought no longer gives you orders. That's another moment of knowing you're free, and you can have it as often as you like.
 
 If you're a Christian, you have the better half of this. You don't just watch your thoughts go by. You hand them over. If you're not a believer, the watching half is still yours: notice the thought, name it, let it pass. It works all the same.
 
@@ -91,3 +93,5 @@ You're free, and you're fit for service. Go in peace.
 <!-- 2026-11-20 (James: keep everything from the Bible as much as possible): Hydra wording replaced by the empty house and the five mouths. -->
 
 <!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): method H3 and H5: no lifelong caller; 'an empty room doesn't stay empty for long' (substitute logic) became 'the room was never his, and it isn't empty'. -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

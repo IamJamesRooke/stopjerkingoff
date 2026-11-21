@@ -4,6 +4,8 @@
 >
 > — 2 Corinthians 6:2
 
+That is the whole trap, taken apart. From here on, the book is about walking out.
+
 The habit is doing you no good, so the right time to stop is now. Even so, timing deserves some thought.
 
 For many men, getting caught by this at thirteen was the worst thing that ever happened to them, and they've never told anyone. Something like that deserves to be dealt with properly, and that includes when.
@@ -26,7 +28,7 @@ In the meantime, don't cut down. Cutting down only teaches you that being denied
 
 Remember that you aren't giving anything up. You're about to be handed a great deal.
 
-Here is the cleverest twist in the trap. When life is stressful, it's the wrong time to stop, because you "need" it. When life is calm, you feel no urgency, because things aren't so bad. One or the other is always true, so the right time never comes. Notice that it is never a bad week to carry on. That is why this book doesn't ask you to pick a good week. It asks you to finish reading, and then stop, whatever week it is.
+The trap has one clever twist. When life is stressful, it's the wrong time to stop, because you "need" it. When life is calm, you feel no urgency, because things aren't so bad. One or the other is always true, so the right time never comes. And it is never a bad week to carry on. That is why this book doesn't ask you to pick a good week. It asks you to finish reading, and then stop, whatever week it is.
 
 The book of Ecclesiastes has a line for the man who waits for perfect weather: "He who observes the wind won't sow; and he who regards the clouds won't reap."
 
@@ -48,7 +50,7 @@ So look at it squarely. You've already decided you're not staying in this trap f
 
 Think how fast a week goes. Think of the rest of your life with no locked door, no secret and nothing to confess for the hundredth time. And if you follow the instructions, you won't be gritting your teeth through the first weeks, waiting for it to get better. You can find it easy, and even enjoy it.
 
-Paul wrote to the church at Corinth, "Behold, now is the acceptable time." He was right. Keep reading.
+Paul wrote to the church at Corinth, "Behold, now is the acceptable time." He was right. That leaves the fear under all the others. Once it's gone, will you miss it?
 
 <!-- SOURCES (Chapter 17): every quote below is from the research files; check each against its page before publishing.
 - "I encourage you to stop masturbating immediately." — Johnathan Arnold, "Is Masturbation a Sin?", Holy Joys, 11 Apr 2026, https://holyjoys.org/is-masturbation-sin/ (source sentence: "If you are struggling with lust and masturbation, I encourage you to stop masturbating immediately."; the book disagrees only about timing, and says so)
@@ -61,3 +63,5 @@ Paul wrote to the church at Corinth, "Behold, now is the acceptable time." He wa
 <!-- 2026-11-19 (James: check section lengths, 'Just make the changes'): 'Your schedule' split into 'Your schedule', 'Before the day' and 'The week that never comes'; new heading 'It won't be easier next year'; the closing line now quotes the verse in place (2 Corinthians 6:2, part) so it does not lean on the epigraph. -->
 
 <!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

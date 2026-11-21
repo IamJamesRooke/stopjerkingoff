@@ -48,13 +48,15 @@ Follow it through. Every "just once" is you calling him back. It makes no differ
 Her four instructions are yours, word for word.
 
 - **Say it once, and say it outright.** This book will bring you to that moment. It is one plain No, with no hope left in it.
-- **Give no reason.** A reason is something he can argue with. Tell him you're too tired tonight, and he will be back when you're rested. You don't owe an itch an explanation.
+- **Give no reason.** Tell him you're too tired tonight, and he will be back when you're rested. You don't owe an itch an explanation.
 - **Don't let him down gently.** "Only this week" and "only on Saturdays" are a door left open an inch, and he hears them as hope.
 - **Then never answer again.** Arguing with him is contact. Bargaining with him is contact. Even telling him to go away is contact. When he calls, let it ring.
 
 There is one difference, and it is all in your favor. Her pursuer may be dangerous. Yours is not. Keep his size in view. The Little Monster is not ten feet tall. He is a pipsqueak you could punt the length of a football field. His only weapon is to annoy you.
 
 He is an itch, about as strong as a mosquito bite or a tag scratching at the back of your collar. He can't hurt you, and he can't make you do anything. Men have crossed oceans and built cities, and then taken orders from this.
+
+If he has ever felt enormous to you, that was not his size. He is small. The fear of him is what was big, and fear can flatten a strong man.
 
 Nobody ever went back because the itch was unbearable. It isn't. If stopping has ever felt like torture to you, the itch wasn't doing it. The wanting was, and the belief that you were being denied something. Men go back because they believe "just once" will buy them some peace. It buys another round of calls.
 
@@ -65,3 +67,5 @@ So how does a caller like that ever get through?
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 13-just-once.Rmd; the source notes for everything here are in that file. -->
 
 <!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): method M2: 'unbearable' contradicted the same chapter. -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

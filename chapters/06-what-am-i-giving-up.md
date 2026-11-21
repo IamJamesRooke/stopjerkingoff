@@ -20,7 +20,7 @@ You know that signature. Every year you get less out of the habit and want it mo
 
 Once the Little Monster has starved and the Big Monster has been cleared out of your head, you won't want to masturbate. You won't want the porn or the chase either. You won't be resisting them. You simply won't want them, the way you don't want to chew your pen.
 
-Look at where the habit leaves a man. On the nights he does it, he's miserable afterward: flat, guilty and a bit disgusted. On the nights he tries not to, he's miserable too, because he feels robbed. He has only two kinds of evening and both are bad.
+Where does the habit leave a man? On the nights he does it, he's miserable afterward: flat, guilty and a bit disgusted. On the nights he tries not to, he's miserable too, because he feels robbed. He has only two kinds of evening and both are bad.
 
 Think of yourself at a family gathering, slipping off upstairs with your phone. If anyone had known, he wouldn't have thought, "Lucky man, off to enjoy himself." He'd have thought, "Poor man, he can't sit through dinner." You weren't doing that for the fun of it. You did it because you were uncomfortable without it. No free man behaves like that.
 
@@ -50,7 +50,7 @@ That is exactly what it's like to walk away from lust.
 
 The rash isn't the guilt, the tired mornings, the wasted evenings, the distance from your partner or the silence between you and God. All of those are extra. The rash is that edgy, hollow, slightly panicky feeling of *I need it*. Men who don't have the habit never get that feeling. You didn't have it at nine years old. It arrived with the first time, and every time since has fed it.
 
-The feeling you keep reaching to relieve is the void. Here is the beautiful part: the cream made it. When you stop, the void doesn't yawn open in front of you. It closes.
+The feeling you keep reaching to relieve is the void, and the cream made it. When you stop, the void doesn't yawn open in front of you. It closes.
 
 Porn and the chase after women work the same way. Porn made the hunger for more porn. The chase made the ache that sends you chasing.
 
@@ -78,3 +78,5 @@ And one thing you get back can be counted on a clock.
 -->
 
 <!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). Exact changes are in the report sent to James. -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

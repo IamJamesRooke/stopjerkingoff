@@ -56,6 +56,8 @@ Your decision was right, and you know it. Why torture yourself by doubting it?
 
 Stay glad. It matters on the good days, and it matters most on the bad ones.
 
+And on a bad day you will be tempted to reach for something else in its place.
+
 <!-- SOURCES (Chapter 24): every quote below is from the research files; check each against its page before publishing.
 - "Having experienced the prison of masturbation myself, I understand the struggle." — Henry Duodu Appiahkorang, Substack, 11 Oct 2024, https://duodu.substack.com/p/escaping-the-ocean-of-masturbation (the book calls him "one Christian writer"; the research does not say whether he is a pastor)
 - Paraphrase, not quoted: thirteen to forty-four, writing at forty-eight — YouTube commenter under "How Mast*rbation Had Me Bound but God", https://www.youtube.com/watch?v=mppw_mrhlIY (research/round2/sources-log.md) (15 likes; "From 13 to 44, 0ver 30 years of struggles. I am 48 now.")
@@ -72,3 +74,5 @@ Stay glad. It matters on the good days, and it matters most on the bad ones.
 <!-- 2026-11-20 structure pass (James: right sections in the right chapters, right sizes, one flow): new heading 'So, will it be harder?'. -->
 
 <!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

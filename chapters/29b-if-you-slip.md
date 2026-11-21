@@ -65,6 +65,8 @@ You're smiling because you can see what the Bleachstronauts can't. Nobody needs 
 
 If you slipped, the lesson is not "try harder". Somewhere you started believing again that the glass had something to offer. The world repeats its lies daily, so it does no harm to hear the truth twice.
 
+One thing is left to do, and it isn't for you.
+
 <!-- SOURCES (If You Slip): this unnumbered chapter was made on 2026-11-17 by joining the slip guidance from Chapter 29 ("I fell. Am I back to zero?") and Chapter 31 ("Slipping", "Wanting it to hurt", "The bully", "The men who quit the pebble"), so that it has one home. No new quotations were added.
 - "you cleanly got over ten and then you kind of stumbled on like the 11th but that doesn't mean that you've fallen over and you have to start again" — a member of a NoFap group on a HealthyGamerGG video; full source line in Chapter 29's SOURCES.
 - "The only fatal thing is to sit down content with anything less than perfection" (C.S. Lewis) and "You are not your past you are how you respond to your past": full source lines in Chapter 29's SOURCES.
@@ -82,3 +84,5 @@ If you slipped, the lesson is not "try harder". Somewhere you started believing 
 <!-- 2026-11-20 (James: the pebble adaptation lost the effect of the original; copy the original and give credit): the invented pebble forum is replaced by Guillaco's bleach forum, taken from EasyPeasy's chapter "Advice to Non-users", section "Slipping (relapse)" (source file 29-advice-to-non-users.Rmd, https://gitlab.com/snuggy/easypeasy, content CC BY-SA 4.0; EasyPeasy spells the name "Gulliaco" in that chapter and "Guillaco" in its Resources list, which links meditations.pdf). The forum welcome and the five posts are the original with light edits for grammar and reading aloud (e.g. "19" spelled out, "container" became "cupboard", "after debating with myself whether I should do it or not" became "after debating with myself all day"). The two short quotations in the paragraph after the posts are verbatim. Left out: his "hackbook" paragraph and the "watch a glass for five minutes" exercise. The pebble version is kept in editorial/PARKING.md. -->
 
 <!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): pastor M2 and the penance line. -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

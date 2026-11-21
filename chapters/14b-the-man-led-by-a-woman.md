@@ -8,7 +8,7 @@ The fourth mouth is the chase. If that has never been you, read this for the man
 
 There's a man you may recognize at any party. He walks in and goes straight to the women. He doesn't say hello to the men. He buys a round, and every glass goes to a girl. He would tell you he is just a generous, friendly guy.
 
-Here is the test. Does he buy the men a drink? Does he spend as much time talking to the men? A generous man is generous with everybody. This man is spending, and he knows what he is shopping for.
+Try a test. Does he buy the men a drink? Does he spend as much time talking to the men? A generous man is generous with everybody. This man is spending, and he knows what he is shopping for.
 
 The slang of the 2020s calls it simping. The word is new. The problem is very old, and it comes down to one sentence.
 
@@ -25,6 +25,8 @@ He has a friend, she is a woman, and he has been in love with her for three year
 But a friend wants nothing back, and this man is keeping count. Every favor is a payment into an account that he believes will pay out one day. She may know it and enjoy the service. She may have no idea. Either way, he isn't being kind to her. He is waiting to be paid. And under the good manners he is angry that the payment hasn't come.
 
 Put the same test to him. Would he do all this for a man? Would he do it for her if he knew for certain that nothing would ever come of it? If the answer is no, it was never a gift.
+
+If that is you, the way out is plain. Stop the favors that are really payments. Tell her once, outright, what you want, or step back and say nothing. Then see what is left. Either the friendship stands on its own, or it never was one.
 
 ## Whoever knows what he wants {-}
 
@@ -72,3 +74,5 @@ Samson at least was fooled by a woman he loved. The next man wasn't fooled at al
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Some sections of this chapter moved to the chapters that follow it; their source notes stay listed here. -->
 
 <!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): reader report 5: a front-door line. Pastor: 'the strongest man who ever lived' became 'in the Bible'. -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

@@ -30,4 +30,8 @@ She doesn't owe you praise for stopping. You owe her a husband who is all there.
 
 Nobody else needs to know. Don't post "Day 1" anywhere. You don't need an audience.
 
+That is the method, start to finish. When it goes wrong, it goes wrong in only a few ways.
+
 <!-- 2026-11-20 structure pass (James: right sections in the right chapters, right sizes, one flow): NEW CHAPTER, moved whole out of 'Questions Men Ask', where it was a 600-word answer inside a list. It follows 'The Final Step', which asks the man to tell one person. Wording unchanged apart from headings, the opening line and James 5:16 quoted in place (WEB, first sentence; checked 2026-11-20). James approved the wife section in the pastor review (2026-11-19). -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

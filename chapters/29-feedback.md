@@ -24,7 +24,7 @@ The second kind is too frightened to try, or tries and finds it hard going. His 
 
 ### 1. Fear of failure {-}
 
-Failing is no disgrace. Refusing to try is plain foolishness. Look at what you're protecting by not trying. You're protecting nothing. If you try and fail, you're exactly where you are today. If you don't try, you've failed already and saved yourself the trouble of hoping.
+Failing is no disgrace. Refusing to try is plain foolishness. What are you protecting by not trying? Nothing. If you try and fail, you're exactly where you are today. If you don't try, you've failed already and saved yourself the trouble of hoping.
 
 ### 2. Fear of being miserable {-}
 
@@ -107,3 +107,5 @@ Two questions are bigger than the rest, and they get room of their own.
 <!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). -->
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Some sections of this chapter moved to the chapters that follow it; their source notes stay listed here. -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

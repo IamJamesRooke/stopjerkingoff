@@ -16,7 +16,7 @@ There's only one real danger left, and it's other men.
 
 The world never stops telling a free man that he's the odd one. Sitcoms treat the habit as a harmless joke and "experts" call it healthy. Then one night you're on your own, a bit low, a bit lonely, and the thought arrives: *Everyone else gets to. Why not me?*
 
-Look at how strange that thought is. Every man who never picked the habit up is glad he didn't. Every man who still has it wishes he'd never begun, and he'll tell you so after a couple of honest questions. Not one of them recommends it to his son. So who exactly are you envying?
+It is a strange thought. Every man who never picked the habit up is glad he didn't. Every man who still has it wishes he'd never begun, and he'll tell you so after a couple of honest questions. Not one of them recommends it to his son. So who exactly are you envying?
 
 It makes no difference which face of lust you look at. The man with the porn, the man with the hand and the man with a new woman every month are the same man. Not one of them is satisfied.
 
@@ -26,16 +26,7 @@ He doesn't approve of himself. If he knew you'd walked out, HE WOULD ENVY YOU.
 
 The other reason a free man gets a twinge is simpler. The other man is *doing* something and you aren't, so it feels as if you're the one going without.
 
-Turn it the right way up. You're not going without anything. He is. He is going without:
-
-- Energy
-- Drive
-- Confidence
-- A clear conscience
-- Closeness to God
-- Freedom
-- Self-respect
-- A word he can keep
+Turn it the right way up. You're not going without anything. He is. He is going without energy, drive and confidence. He is going without a clear conscience and closeness to God. He is going without freedom, self-respect, and a word he can keep.
 
 He can't trust himself. You can.
 
@@ -55,6 +46,8 @@ If he isn't enjoying it this year, he'll enjoy it less next year.
 
 Don't envy him. Pity him, pray for him, and when the chance comes, hand him this book.
 
+One idea still lets a man stay where he is. It says he can keep the habit in one room and his life in another.
+
 <!-- SOURCES (Chapter 18): every quote below is from the research files; check each against its page before publishing.
 - "I've been freed now and it's nearly been 7 years." / "this truly sensational feeling of peace for the first time in my life" — Ambassador for Christ, TalkJesus forum, 13 Sep 2024, thread "[STRUGGLES] Help from brothers and sisters in Christ.", https://www.talkjesus.com/goto/post?id=472239 (research/more-sources.md; he says he was addicted to porn and masturbation from about 12 to 21; the peace followed a spiritual experience, receiving the Holy Ghost, and not quitting itself; the book now frames it that way)
 - "plucked my fleshy garment, and whispered softly, 'Dost thou cast us off? and from that moment shall we no more be with thee for ever?'" — Augustine, Confessions, Book 8, ch. 11, tr. E.B. Pusey (public domain), Project Gutenberg #3296, https://www.gutenberg.org/cache/epub/3296/pg3296.txt (source: "The very toys of toys, and vanities of vanities, my ancient mistresses, still held me; they plucked my fleshy garment, and whispered softly, ..."; research/round2/classics.md)
@@ -67,3 +60,5 @@ Don't envy him. Pity him, pray for him, and when the chance comes, hand him this
 <!-- 2026-11-19 (James: check section lengths, 'Just make the changes'): three new headings ('The sell looks cheap', 'The one danger left', 'It tightens'); no wording changed. -->
 
 <!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

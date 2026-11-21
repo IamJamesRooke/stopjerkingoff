@@ -8,7 +8,7 @@ Ask a man why he wants to stop and he'll usually give you one of three answers: 
 
 He almost never mentions the plain slavery of it. Men have bled to end slavery wherever they've found it. Yet here is a man who puts the collar on himself every night and calls it his private business. The strangest part is something he never notices. On the nights when nothing stops him, he does it and wishes he were a man who didn't. The only time the habit looks precious is when he's trying to cut down, or when a week at the in-laws rules it out.
 
-Here is one cost that needs no doctor, no pastor and no argument about whether it's a sin. All it needs is a clock.
+One cost needs no doctor, no pastor and no argument about whether it's a sin. All it needs is a clock.
 
 ## Do the math {-}
 
@@ -38,11 +38,11 @@ Suppose I offered you a job tomorrow. Same work, same pay, same boss, but with o
 
 You'd sign before I'd finished the sentence. Your only problem would be deciding where to go. Yet a man in the trap turns that same offer down every year. Why?
 
-Here's the reason. Every other decision in your life gets weighed. You look at what you'd gain and what it would cost, and you choose. You may choose badly, but you do choose. Whenever a man weighs this habit honestly, the scales crash down on one side, and the verdict comes back in capital letters: "STOP. YOU'RE BEING ROBBED." So he doesn't weigh it. He hasn't decided to carry on. He carries on because he believes he can't stop. And he keeps his eyes off the scales so that he can live with himself.
+Every other decision in your life gets weighed. You look at what you'd gain and what it would cost, and you choose. You may choose badly, but you do choose. Whenever a man weighs this habit honestly, the scales crash down on one side, and the verdict comes back in capital letters: "STOP. YOU'RE BEING ROBBED." So he doesn't weigh it. He hasn't decided to carry on. He carries on because he believes he can't stop. And he keeps his eyes off the scales so that he can live with himself.
 
 A young man who fought this for nineteen years said: "I can't tell you how many years I've wasted battling with the lust". Nobody can hand those years back. But he has decades still to come, and so do you.
 
-The men who've stopped report the same surprise, which is how much room there suddenly is. One says, "I'm actually reading books again for the first time in a decade". Another took up the piano in the space the habit left behind. Here is one practical use for all that room. Pick one goal you could reach in three or four months, and pour the hours into that.
+The men who've stopped report the same surprise, which is how much room there suddenly is. One says, "I'm actually reading books again for the first time in a decade". Another took up the piano in the space the habit left behind. Put that room to one practical use. Pick one goal you could reach in three or four months, and pour the hours into that.
 
 Soon you'll be making your decision, if you haven't made it already. Staying free after that takes one thing: you don't do it, and you don't fall for "just this once". If you're ever tempted by that phrase, remember what it costs. It doesn't cost you ten minutes. It costs you the years.
 
@@ -76,3 +76,5 @@ Time is the cost you can count. The others are harder to see, because you have t
 <!-- 2026-11-19 (James): final paragraph rewritten. Paul and Moses are no longer named; the Psalm 90:12 quote (WEB, verbatim) stays. -->
 
 <!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). Exact changes are in the report sent to James. -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

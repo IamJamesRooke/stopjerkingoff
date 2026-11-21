@@ -12,7 +12,7 @@ Sometimes he means it as a stepping stone: "I'll ease off gradually, and then I'
 
 You may notice that you're living on one of these deals already. "Only without porn" is a limit. So is "only the soft stuff", and so is "I'll look, but I won't touch". With women the limit sounds like "we only text" or "it's just flirting". Lent is the forty days before Easter, when many Christians give something up. One man tried exactly that deal for Lent, porn out and the habit kept. He found he couldn't do the one without thinking about the other. A smaller mouth is still a mouth, and it is still being fed.
 
-It sounds like the moderate, grown-up option. Of everything a man can try, it is the worst, and it's the reason plenty of men stay caught for life. Here is what happens to him.
+It sounds like the moderate, grown-up option. Of everything a man can try, it is the worst, and it's the reason plenty of men stay caught for life. Four things happen to him.
 
 1. **He gets the worst of both worlds.** He's still feeding the Little Monster, so the itch never dies. He's also thinking about the habit more than he ever did, so the Big Monster grows fat as well.
 2. **He wishes his life away.** Monday to Friday become a corridor he has to walk down. He's a grown man counting sleeps.
@@ -27,7 +27,7 @@ The hard part of stopping was never the flesh. It's the lie that the habit is a 
 
 ## Less is not less {-}
 
-Few things are sadder than the man who believes that the less he does it, the less he'll want it.
+Many a man believes that the less he does it, the less he'll want it.
 
 The reverse is true. The less he does it, the longer the itch runs, and the sweeter the scratching feels. He'll also find that the old favorites have stopped working so well. Now he "needs" something a little stronger to make the long wait worth it. That is how a man who swore he'd only ever use his imagination ends up back on his phone.
 
@@ -53,8 +53,6 @@ A limit is indulgence with a schedule.
 
 Under one man's testimony a commenter wrote the sentence this whole chapter is trying to say. God had told him, he wrote, that he couldn't kill something he continued to feed.
 
-Each failed limit leaves a man a bit more rattled and a bit more certain he's a lifer. That certainty is usually enough to send him back for another round.
-
 So your choices are these:
 
 1. Keep to a limit for life, and put yourself through that every week. You won't manage it anyway.
@@ -63,7 +61,7 @@ So your choices are these:
 
 This is what Paul is getting at in his letter to the Romans, when he says to "make no provision for the flesh". "Saturdays only" is a provision. It's a standing reservation for the flesh: table for one, every Saturday, name on the list. Paul doesn't say to make a smaller provision. He says to make none.
 
-That verse has a history. Augustine became one of the great teachers of the early church. But first he spent years putting it off. His prayer in those years was, "Give me chastity and continency, only not yet."
+That verse has a history. Augustine, the great teacher of the early church, spent years praying, "Give me chastity and continency, only not yet."
 
 One day he sat in a garden in Milan, sick of himself. From the house next door he heard a child's voice chanting, "Take up and read." He picked up a book of Paul's letters and read the first lines his eyes fell on. They were this verse: "put on the Lord Jesus Christ, and make no provision for the flesh".
 
@@ -101,3 +99,5 @@ Which leaves the smallest request of all: just once. The answer to it comes from
 <!-- 2026-11-20 (James: keep everything from the Bible as much as possible): Hydra wording replaced by the empty house and the five mouths. -->
 
 <!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): reader report 2: the two-questions passage repeated point four of the list above it and is cut; one opening sentence merged. -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

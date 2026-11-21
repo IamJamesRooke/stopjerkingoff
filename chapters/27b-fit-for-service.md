@@ -4,15 +4,15 @@
 >
 > — 2 Timothy 2:3-4
 
-Before the final step, one short chapter about what you are being set free for.
+You are not only being set free from something. You are being set free for something.
 
 ## Who gains? {-}
 
-Here is a question this book has kept back until now. Who gains from your habit?
+This book has kept one question back until now. Who gains from your habit?
 
 You don't. So who does? There are companies that earn more the longer you stay aroused, alone and tired. Something does better when men are numb and spent. A Christian has a name for that something, and Peter, one of the twelve men closest to Jesus, warned the people he loved about him: "Be sober and self-controlled. Be watchful. Your adversary, the devil, walks around like a roaring lion, seeking whom he may devour." If you don't believe in a devil, call it a business model. It is working on you either way.
 
-And it never has to fight you. Here is a man with people to love and work to do. Perhaps he has something to build that would do some good in the world. How do you stop him? Show him a little skin on a screen and he takes himself off the field. Twenty minutes later he is spent, and no use to anybody until tomorrow. Tomorrow you can do it again. It's the cheapest victory there is. Notice how little imagination it takes. The enemy of mankind has one trick, and it is the one that works on a boy of fourteen.
+And it never has to fight you. Take a man with people to love and work to do. Perhaps he has something to build that would do some good in the world. How do you stop him? Show him a little skin on a screen and he takes himself off the field. Twenty minutes later he is spent, and no use to anybody until tomorrow. Tomorrow you can do it again. It's the cheapest victory there is. Notice how little imagination it takes. The enemy of mankind has one trick, and it is the one that works on a boy of fourteen.
 
 None of that is an excuse. The apostle James won't let a man say the devil made him do it: "each one is tempted when he is drawn away by his own lust and enticed." The bait is dangled, but the appetite is yours. That is good news, because it means the way out is yours as well.
 
@@ -20,9 +20,7 @@ Now think what all this says about you. Nobody bothers to distract a man who doe
 
 ## The king on the roof {-}
 
-David was Israel's greatest king, and no army ever beat him in the field. The Bible is exact about when he fell. It was "at the time when kings go out", in the one year he sent his army to war and stayed home. He was beaten on a rooftop, on an idle evening, when he should have been with his men.
-
-Now look at the soldier he wronged. Uriah came back from the front and would not go home to his own bed while his brothers slept in the field. David got him drunk, and even drunk he slept at the palace door like a man on duty.
+David, Israel's greatest king, fell in the one year he sent his army to war and stayed home. The soldier he wronged was Uriah. Called back from the front, Uriah would not go home to his own bed while his brothers slept in the field. David got him drunk, and even drunk he slept at the palace door like a man on duty.
 
 Uriah, drunk, was fit for service. David, sober, was no use to anybody. Lust had taken the commander off the field without a fight.
 
@@ -64,3 +62,5 @@ SOURCES (Fit for Service, unnumbered chapter before Chapter 28; added 2026-11-15
 <!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). -->
 
 <!-- 2026-11-20 (James: why isn't this a numbered chapter?): now numbered (printed Ch 49); everything after it moves up one. The page URL is unchanged. -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

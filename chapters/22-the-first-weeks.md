@@ -11,7 +11,7 @@ For a few weeks after you stop, you may feel an occasional urge. Urges come in t
 
 ## The leftover itch {-}
 
-The first kind involves no pain at all. Think of going without lunch. Your stomach grumbles and you get a bit short with people, but nothing hurts. This is milder than that, and there's one difference: your body needs lunch, and it doesn't need this. In a man who isn't moping, the itch fades quickly and is gone for good.
+The first kind involves no pain at all. Think of going without lunch. Your stomach grumbles and you get a bit short with people, but nothing hurts. This is milder than that, and there's one difference: your body needs lunch, and it doesn't need this. In a man who isn't moping, the itch fades quickly and is gone for good. The Little Monster has the staying power of a toddler at bedtime. He is loud, then quiet, then asleep.
 
 Men on the Willpower Method get through this part too. The itch isn't what brings them down. The second kind does.
 
@@ -94,3 +94,5 @@ He will tell you in a voice you know very well. It is your own.
 <!-- 2026-11-20 (James): callback to the four instructions from 'Just Once' (say it once and outright; give no reason; don't let him down gently; never answer again), restated in place with no pointer back. -->
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Some sections of this chapter moved to the chapters that follow it; their source notes stay listed here. -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

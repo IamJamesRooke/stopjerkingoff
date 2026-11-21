@@ -22,7 +22,7 @@ Now find the man who defends it. He's read that it's natural, he'll tell you tha
 
 "Of course not."
 
-Isn't that strange? Here is something millions of men do, many of them daily, and not one would choose it again or wish it on his boy.
+Isn't that strange? Millions of men do this, many of them daily, and not one would choose it again or wish it on his boy.
 
 So the puzzle in this book was never how stopping could be easy. The puzzle is why stopping seems hard, and under that sits a bigger one: why does anybody do it at all?
 
@@ -34,7 +34,7 @@ Then you spent the next ten, twenty or thirty years wishing you could leave it a
 
 You're not unique. You're standard issue.
 
-Look at what the habit actually gives you in return. What kind of pleasure is it that you regret before you've even caught your breath, and are planning again by the following evening? You wish you weren't doing it while you do it. You're restless for it when you don't.
+What does the habit actually give you in return? What kind of pleasure is it that you regret before you've even caught your breath, and are planning again by the following evening? You wish you weren't doing it while you do it. You're restless for it when you don't.
 
 And the regret piles up. A man despises himself a little every time he promises "never again" one night and breaks it the next. He despises himself when his partner is asleep in the next room. He despises himself when he's too drained to get out of bed and do the thing he'd planned. He may be a sensible, capable man who runs every other part of his life well. He still carries this small contempt for himself everywhere, like a stone in his pocket.
 
@@ -75,3 +75,5 @@ That leaves the explanation almost every man settles on in the end. It is the mo
 <!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). Exact changes are in the report sent to James. -->
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Some sections of this chapter moved to the chapters that follow it; their source notes stay listed here. -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

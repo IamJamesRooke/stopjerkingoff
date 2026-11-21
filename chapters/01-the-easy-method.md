@@ -34,7 +34,7 @@ The normal way of quitting goes like this. You write down everything the habit c
 
 It sounds sensible. Men do get free this way. But it is the hard road, and most men who take it end up where one man on a Christian forum did. He wrote that everything that depended on his own effort failed him sooner or later.
 
-Here is why it's so hard.
+Why is it so hard? There are three reasons.
 
 **1. Stopping was never the problem.** You stop every single time you finish. In that flat, gray minute afterward, you are the most committed quitter on earth. "Never again. I mean it this time." Every man says it, and every man means it. The problem is not that minute. The problem is day three, or day thirty, or day three hundred, when you're tired or lonely and a quiet voice says "just this once". One becomes two, and you're back where you started, minus a little more self-respect. For some men it doesn't even take until day three. A nineteen-year-old, raised in a strict Christian home, wrote about his first time: "I vowed never to do that again, only to find myself searching for a secret place after a couple of hours."
 
@@ -54,7 +54,7 @@ In their place, look straight at what you do and ask:
 2. **Do I actually enjoy it?**
 3. **Why am I doing this to myself?**
 
-Here is the beautiful truth, and the rest of the book exists to prove it to you: lust does nothing for you. Nothing at all. The porn doesn't. The hand doesn't. The chase doesn't.
+The rest of the book exists to prove one thing to you: lust does nothing for you. Nothing at all. The porn doesn't. The hand doesn't. The chase doesn't.
 
 Be clear about what that means. I'm not saying the costs are bigger than the benefits. Every man already knows that, and it has never helped him. I'm saying there are no benefits.
 
@@ -80,3 +80,5 @@ So start with a question nobody asks. If it does nothing for you, why is it so h
 <!-- 2026-11-19 quote clean-up (James): attributions that added nothing were cut and the point is now made in the book's own voice. The sources listed above still stand behind those points. -->
 
 <!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). Exact changes are in the report sent to James. -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

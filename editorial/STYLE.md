@@ -229,3 +229,11 @@ History: a Hydra frame was written and withdrawn the same day. James: "let's try
 - Never tell the reader he has a spirit. The parable is Jesus's picture of how a thing returns.
 - **The line**: sex belongs inside marriage. The plain test: a gift given inside a promise already made, or a hit you take? Desire for a woman is not lust.
 - No Hydra, Hercules, sword, fire, stump or heads anywhere in the book.
+
+## The man on the couch (2026-11-21)
+
+One anonymous man runs through the back half of the book, so the reader has a person to follow. He is introduced in The Locked Door: on the couch beside his wife, his phone always face down. He comes back three times, and only three: The Easy Way to Stop ("One man's last time" is his), The Moment You Know (she picks up his phone and nothing in his chest jumps; the phone was lying face up), and Now (the phone face up on the cushion). Keep the image exact, the phone face down and then face up. Don't give him a name, a job or any more scenes without a reason. He is never James.
+
+## Verbal tics (2026-11-21)
+
+Ration the narrator's pointing phrases: "Here is", "Look at", "Notice". Each is fine alone and a drone in audio. Before using one, try starting with the thing itself, or asking it as a question. Don't name the feeling for the reader ("the saddest", "the beautiful truth", "the cruelest part"). Show the thing and let him feel it.

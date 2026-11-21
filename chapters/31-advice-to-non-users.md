@@ -38,7 +38,7 @@ He knows.
 
 He has known for years, and he has preached himself that sermon more often and more harshly than you ever could.
 
-Here is what's hard to grasp from outside. He doesn't keep doing it because he likes it. He may say he does, to you and to himself, because a man has to hold on to some dignity. He does it because he believes he can't manage without it. He thinks it calms him down, sends him to sleep and gets him through bad days. Underneath that sits a deeper dread: that life without it would be gray, and that a man who stops is only half a man.
+One thing is hard to grasp from outside. He doesn't keep doing it because he likes it. He may say he does, to you and to himself, because a man has to hold on to some dignity. He does it because he believes he can't manage without it. He thinks it calms him down, sends him to sleep and gets him through bad days. Underneath that sits a deeper dread: that life without it would be gray, and that a man who stops is only half a man.
 
 So if you corner him, you get a cornered animal. Demand that he stop and he'll want it more. He'll also get better at hiding it, and a hidden habit grows more precious.
 
@@ -124,3 +124,5 @@ Now and then you'll get a blank look or a laugh. More often than you'd think, yo
 <!-- 2026-11-20 structure pass (James: right sections in the right chapters, right sizes, one flow): this chapter now comes after 'Now', as an unnumbered chapter, so the man's own road runs unbroken from the final step to the blessing and the people beside him have a chapter of their own to turn to. New bullet in 'To parents' (the stranger who asks for a picture), moved from 'The Men Still on the Ship'. -->
 
 <!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): pastor M3: 'never a debt' contradicted 1 Corinthians 7:3. -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

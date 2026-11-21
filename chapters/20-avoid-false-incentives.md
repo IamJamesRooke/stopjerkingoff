@@ -14,7 +14,7 @@ The internet has built grander prizes than sneakers. Here are the three you're m
 
 Spend an evening on the NoFap forums and you'll be promised a great deal. You'll get a deeper voice, clear skin, an "aura", and women drawn across the room by forces unknown.
 
-It isn't proven. A therapist who works with these men said of the whole list, "there is little medical evidence for any of these changes." And the hype does its damage right here. You stop. Day twelve arrives. You inspect the mirror and find the same face. No aura. The barista hasn't noticed a thing. Now a voice says, "It isn't working. You gave it up for nothing." You were promised wages, the wages didn't come, and you go back to the old job.
+It isn't proven. A therapist who works with these men said of the whole list, "there is little medical evidence for any of these changes." And the hype does its damage right here. You stop. Day twelve arrives. You inspect the mirror and find the same face. No aura. The barista hasn't noticed a thing. You were promised a voice like a movie trailer, and you still sound like yourself. Now a voice says, "It isn't working. You gave it up for nothing." You were promised wages, the wages didn't come, and you go back to the old job.
 
 The honest men in that world say so themselves. One, ninety days free, said the wisest thing on the whole subject. The so-called superpowers, he wrote, are just the qualities a man would have if he weren't hooked. They aren't powers. They're what a man is like when nothing is draining him.
 
@@ -22,7 +22,7 @@ The honest men in that world say so themselves. One, ninety days free, said the 
 
 A close cousin. The pitch is that the energy you save becomes the fuel that gets you the girl. In one coach's words, that energy "is what's going to drive you to get the woman you want".
 
-Look at what this does. It leaves lust exactly where it was and just points it somewhere else. Jesus didn't say to harness the look. He said the look was already the sin. You're still treating women as the prize and your own desire as the boss. And it sets a trap with two doors. Suppose you don't get the girl. Then you're miserable, quitting "failed", and you know where you go for comfort. Suppose you do get her. Then the incentive has been paid out and there's nothing left holding you.
+This leaves lust exactly where it was and just points it somewhere else. Jesus didn't say to harness the look. He said the look was already the sin. You're still treating women as the prize and your own desire as the boss. And it sets a trap with two doors. Suppose you don't get the girl. Then you're miserable, quitting "failed", and you know where you go for comfort. Suppose you do get her. Then the incentive has been paid out and there's nothing left holding you.
 
 Either way you're back.
 
@@ -77,3 +77,5 @@ So there is no prize, no badge and no bargain. What is left is the easy way, and
 <!-- 2026-11-20 structure pass (James: right sections in the right chapters, right sizes, one flow): new heading 'Don't announce it'; a forward pointer cut. -->
 
 <!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

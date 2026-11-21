@@ -4,7 +4,9 @@
 >
 > — 1 John 1:9
 
-Here are the instructions. Follow them and you'll find stopping somewhere between easy and enjoyable. There are only two:
+You know the trap, the lies, and every wrong way out. This is the right one.
+
+Follow these instructions and you'll find stopping somewhere between easy and enjoyable. There are only two:
 
 1. **Decide that you are finished with lust, all five mouths of it. Never again.**
 2. **Don't mope about it. Rejoice.**
@@ -21,7 +23,7 @@ Because you've done the first half before. You decided, with tears, more times t
 
 ## One man's last time {-}
 
-Here is how it ends for a man who gets out this way. He has spent years on the other method: vows at retreats, on New Year's Day, on mornings when he couldn't look at himself. Then one day a different thought frightens him properly. *What if I simply do this for the rest of my life?* For once he stops vowing and starts watching. He asks what he is actually getting, and the honest answer is a few seconds of relief and then the familiar flatness.
+Remember the man on the couch, with his phone face down on the cushion? This is how it ends for him. He has spent years on the other method: vows at retreats, on New Year's Day, on mornings when he couldn't look at himself. Then one day a different thought frightens him properly. *What if I simply do this for the rest of my life?* For once he stops vowing and starts watching. He asks what he is actually getting, and the honest answer is a few seconds of relief and then the familiar flatness.
 
 He talks to men who have quit, and expects to find them hanging on by their fingernails. Most of them laugh. "Miss it? You're joking." So he says to himself, out loud: "Like it or not, that was the last time." He expects months of climbing the walls. What he gets is relief on the first day, and it doesn't leave.
 
@@ -57,9 +59,9 @@ This book keeps saying one hard thing: **a man who can't control his lust can't 
 
 You probably thought self-control meant what you'd been doing for years. You gripped the rail with white knuckles, a strong man holding down a strong desire. That's a wrestling match, and you know who usually won.
 
-Real self-control is quieter. It belongs to a man whose mind is no longer divided. He isn't holding anything down, because there's nothing pushing up. Thomas Chalmers, a Scottish preacher of two hundred years ago, explained how a desire actually leaves a heart: "the only way to dispossess it of an old affection is by the expulsive power of a new one." For Chalmers the new affection was love for God himself. Nothing smaller is strong enough to push the old one out.
+Real self-control is quieter. It belongs to a man whose mind is no longer divided. He isn't holding anything down, because there's nothing pushing up. Thomas Chalmers, a Scottish preacher of two hundred years ago, explained how a desire actually leaves a heart: "the only way to dispossess it of an old affection is by the expulsive power of a new one." For Chalmers the new affection was love for God himself. He held that nothing smaller is strong enough to push the old one out. If you're not a believer, take the law without the name. An old want doesn't leave an empty heart. It leaves when there is something you love more.
 
-And here is the payoff. The moment you decide and mean it, you have given your word and you're going to keep it. For the first time in years you'll be a man who can believe his own promises. Trust starts there, and your partner, your friends and your work will feel it in time.
+The payoff comes at once. The moment you decide and mean it, you have given your word and you're going to keep it. For the first time in years you'll be a man who can believe his own promises. Trust starts there, and your partner, your friends and your work will feel it in time.
 
 Fitness for service starts there too. A sober soldier doesn't spend his watch fighting the bottle. He has stopped wanting it, and he can be put on the wall.
 
@@ -96,3 +98,5 @@ So what will the first weeks actually feel like?
 <!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). -->
 
 <!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): method L2: instruction one named three faces. -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

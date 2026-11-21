@@ -14,7 +14,7 @@ That is the only reason any man carries on, whether he does it three times a day
 
 And the Little Monster isn't picky. A video feeds him. A fantasy feeds him. A long look at a stranger feeds him, and so does a flirty message from a woman you have no business messaging. It's all one diet. He has five mouths and one small belly.
 
-Here is the cruelest part. The "pleasure" a man gets from it is mostly the pleasure of getting back to how he'd have felt anyway. He's trying to return to the peace and ease he had as a boy, before any of this started. And he keeps using the very thing that took it from him.
+The "pleasure" a man gets from it is mostly the pleasure of getting back to how he'd have felt anyway. He's trying to return to the peace and ease he had as a boy, before any of this started. And he keeps using the very thing that took it from him.
 
 ## The annoying alarm {-}
 
@@ -28,7 +28,7 @@ All you know is that there's an itch, you do the thing, and the itch goes. But i
 
 It works like salt water. The more you drink, the thirstier you get.
 
-It's the oldest trick there is. So why can't men see it? There are three reasons.
+So why can't men see it? There are three reasons.
 
 1. **You've been told since boyhood that it's natural and harmless.** There's a grain of truth in that, which is what makes it stick.
 2. **The itch doesn't hurt.** It feels exactly like ordinary restlessness, tiredness or stress, and those are the very moments you reach for it. So you think of the feeling as normal life, and never as something the habit put there.
@@ -56,7 +56,7 @@ In fact the two are opposites.
 
 > "I've come to realize that masturbation, any way you slice it, is a selfish act"
 
-Notice, too, where the excitement actually is. It's in the lead-up: the door clicking shut, the scroll, the search for the right video, the building of the scene. The end itself lasts seconds, and the flatness lands straight after. That's why so many men drag it out. A man will spend forty minutes choosing the video for an ending that takes six seconds. He has picked jobs with less care.
+The excitement, such as it is, comes before the end. It's in the lead-up: the door clicking shut, the scroll, the search for the right video, the building of the scene. The end itself lasts seconds, and the flatness lands straight after. That's why so many men drag it out. A man will spend forty minutes choosing the video for an ending that takes six seconds. He has picked jobs with less care.
 
 And the lead-up has a problem. It never stays the same size.
 
@@ -65,3 +65,5 @@ And the lead-up has a problem. It never stays the same size.
 <!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md), callback added: two sentences after 'It's all one diet.' naming the Little Monster as the small body under the five heads. -->
 
 <!-- 2026-11-20 (James: keep everything from the Bible as much as possible): Hydra wording replaced by the empty house and the five mouths. -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

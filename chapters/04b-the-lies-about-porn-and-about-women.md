@@ -4,7 +4,7 @@ The world has a second set of lies for the screen, and a third for real women. T
 
 **"Porn is just entertainment. Nobody gets hurt."** Somebody always does. You can't know whether the woman on the screen wanted to be there. You can't check her age, and you can't check whether she agreed. The sites haven't checked either. In 2020 a New York Times report found videos of rape and of underage girls on the biggest porn site in the world. The big card companies stopped handling its payments. Within days the site took down nearly ten million videos, because it had never checked who uploaded them.
 
-Here is one case out of many. A company in California promised young women that their videos would never go online, and then put them on the free sites, where they were watched millions of times. In 2025 its owner was sentenced to twenty-seven years in prison for sex trafficking.
+Take one case out of many. A company in California promised young women that their videos would never go online, and then put them on the free sites, where they were watched millions of times. In 2025 its owner was sentenced to twenty-seven years in prison for sex trafficking.
 
 Millions of ordinary men watched those videos. Not one of them thought he was watching a crime. And the man who watches is not a bystander. He is the customer. The video was made for him, and his visit pays for the next one. Nobody told him. He was sold it as harmless entertainment, and so were you. It never was.
 
@@ -33,3 +33,5 @@ One liar is left, and he is the most persuasive of them all. You have known him 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 04-the-worlds-lies.Rmd; the source notes for everything here are in that file. -->
 
 <!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): pastor M9: one line of mercy after the abortion sentence. -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

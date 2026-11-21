@@ -40,7 +40,7 @@ He looks down the row at the other men and assumes they're all clean. They're lo
 
 ## One trap {-}
 
-That is every man in the trap. You don't need to envy any of them, and you don't need to look down on any of them, and you don't need to be one. Life is simply better outside. Here is a nineteen-year-old who got out:
+That is every man in the trap. You don't need to envy any of them, and you don't need to look down on any of them, and you don't need to be one. Life is simply better outside. A nineteen-year-old who got out wrote:
 
 > "From that moment on, I began rejoicing that Jesus had delivered me from this 5 year addiction"
 
@@ -57,3 +57,5 @@ Every one of these men is feeding the same small monster, through one or more of
 <!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md): 'The collector' section moved, unchanged, to the new chapter 'The Collector and the Customer'. 'Four men' became 'Three more men'. This chapter now comes after the five heads and before 'The Locked Door', so its last line is the locked-door hook that used to end 'Mothers, Sisters, Daughters'. -->
 
 <!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): reader report 5: this chapter moved back to follow 'The Ladder'; its last line now leads into the five mouths. -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

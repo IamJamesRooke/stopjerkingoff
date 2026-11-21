@@ -22,10 +22,12 @@ A medical student told his story on the NoFap forum. With his first girlfriend, 
 
 Let's keep this honest. Death grip isn't an official diagnosis, and nobody has proved the cause. A study published in 2023 looked at several hundred young men. Those with erection trouble were about twice as likely to masturbate in these rough ways. That shows a link and no more. Some doctors doubt it's common. And if this is your trouble, see a doctor, because medicines and other conditions can do the same thing.
 
-Notice what the specialists who treat this prescribe, including the ones who say the habit is harmless. They usually ask a man to stop for a while, and then to change the way he does it. This book asks you to stop for good. That is my conviction, not their prescription. If a sex therapist gives you exercises, that is treatment. Tell the therapist your convictions at the start. A good one will work within them. And the medical student? A little over a month after he stopped: "I had an orgasm during sex, for the first time in my life." For other men it has taken many months. Nobody can promise you a date. What the men who stop do report is that the body often recovers.
+Even the specialists who say the habit is harmless prescribe the same first step. They usually ask a man to stop for a while, and then to change the way he does it. This book asks you to stop for good. That is my conviction, not their prescription. If a sex therapist gives you exercises, that is treatment. Tell the therapist your convictions at the start. A good one will work within them. And the medical student? A little over a month after he stopped: "I had an orgasm during sex, for the first time in my life." For other men it has taken many months. Nobody can promise you a date. What the men who stop do report is that the body often recovers.
 
 The body can mend. So why has a list like this never once made you stop?
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 08-what-its-doing-to-you.Rmd; the source notes for everything here are in that file. -->
 
 <!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): pastor M8. -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->

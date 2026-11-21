@@ -446,3 +446,9 @@ sanctity (Ch 3 "holy" paragraph; Ch 18 "looks cheap" paragraph), care (Ch 4 "som
 daughter"), fairness and self-respect (Ch 14 "the free man in the same room"), loyalty
 (Ch 16 "It sets you against your own side"). The 1 Timothy 5 "sisters, in all purity"
 line was already in Ch 15. Intro, Ch 1 and Ch 2 untouched.
+
+## Revision 2026-11-21: editorial pass (make-it-a-5 list)
+
+James gave free rein ("Just do it"), with the commander's intent: a book God would approve that helps men conquer lust, which only works if men read it. Backups first: branches `backup/james-full-listen-2026-11-20` (commit 6e32298, the 58-chapter book he listened to) and `backup/pre-editorial-pass-2026-11-20` (dbf6372).
+Every change, before and after, is in editorial/EDITORIAL-PASS-2026-11-21.md (111 changes in 53 files). In short: a shorter way in (quiz 11 to 6, promise list 7 to 5, Can You Be Trusted? opens on the monk and the soldier, license and contact details moved to Attribution); David told in full once (A City Without Walls), with one or two sentences elsewhere; hooks on the back-half chapter endings; lists reshaped for the ear (The Ladder under three headings, substitutes 10 to 4, the "going without" list as sentences); about half the "Here is / Look at / Notice" openers recast; named feelings cut; a man on the couch through the back half (rule in STYLE.md); plain lines beside two faith passages (Chalmers; Porn, and Sex); a step for the man who waits on a woman friend; context lines for Samson and Luther; the retraction year (2021) for the testosterone study.
+Not done, on purpose: no deep cut of the willpower run (only real repeats went, about 150 words; the set pieces are James-approved), no email series, no audiobook script, ending order unchanged, "partner" unchanged, the four core method lines untouched.

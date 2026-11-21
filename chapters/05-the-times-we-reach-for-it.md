@@ -22,11 +22,11 @@ One man caught himself in the act of reaching for it, and saw what he was really
 
 A psychiatrist who treats porn addiction says the same of the men who come to him: "people think that it's about sex. They think it's about lust. It's not. It's about emotional regulation." Don't hear that as an excuse. The lust is real, and Jesus named it. But lust is often only the shape the habit takes. What a man is using it for is to change how he feels.
 
-Here is what is really going on. You're carrying two loads. One is the day's real trouble. The other is the Little Monster's low grumble, which you're so used to that you can't tell it from the first. When you do it, the second load lifts for a moment, so the total drops and you feel better. That lift is real. But the email, the bill and the argument are all exactly where you left them. You've now added the flatness, a late night and one more broken promise. You're tenser than you'd have been if you'd never had the habit at all.
+You're carrying two loads. One is the day's real trouble. The other is the Little Monster's low grumble, which you're so used to that you can't tell it from the first. When you do it, the second load lifts for a moment, so the total drops and you feel better. That lift is real. But the email, the bill and the argument are all exactly where you left them. You've now added the flatness, a late night and one more broken promise. You're tenser than you'd have been if you'd never had the habit at all.
 
 The habit gets the credit for easing a pressure that it largely built.
 
-Here's a test. Have you ever expected the house to yourself for an evening and then had the plans change? Your partner's night out is canceled, or a roommate comes home early. Do you remember that flash of irritation, almost panic, far too big for what had happened? A free man doesn't get that. The habit put it there.
+Try a test. Have you ever expected the house to yourself for an evening and then had the plans change? Your partner's night out is canceled, or a roommate comes home early. Do you remember that flash of irritation, almost panic, far too big for what had happened? A free man doesn't get that. The habit put it there.
 
 The habit doesn't steady your nerves. It wears them down. Year after year it takes a little more of your courage, and all the while it tells you it's the only thing holding you together. One of the best things about getting out is that your natural confidence comes back. A man who isn't hiding anything walks into a room differently.
 
@@ -72,3 +72,5 @@ Those are the big days. Most of it happens on the small ones, in the last hour b
 <!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). Exact changes are in the report sent to James. -->
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Some sections of this chapter moved to the chapters that follow it; their source notes stay listed here. -->
+
+<!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
