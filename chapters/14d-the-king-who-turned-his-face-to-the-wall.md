@@ -1,6 +1,6 @@
 # The King Who Turned His Face to the Wall {#the-king-who-turned-his-face-to-the-wall}
 
-Samson was led by a woman he wanted. The next man is a quieter case, and more men are like him. This chapter is for the man who lives with a woman. He was a king named Ahab, and his wife was Jezebel.
+Samson was led by a woman he wanted. The next man is a quieter case, and more men are like him. He was a king named Ahab, and his wife was Jezebel. This chapter is for the married man, and for any man a woman can lead by what he wants.
 
 Ahab wanted a vineyard that lay next to his palace. The owner, a man named Naboth, wouldn't sell. The land had been in his family for generations. So the king went home. He "laid himself down on his bed, and turned away his face, and would eat no bread." He was a grown man and a king, and he sulked like a child because someone had told him no.
 
@@ -24,9 +24,9 @@ That is better for him. He keeps his money, his judgment and his self-respect. I
 
 ## The lever at home {-}
 
-It matters far more with the woman he lives with. Ahab's silence was bought with a vineyard. In most houses it is bought with something else.
+It matters far more at home, with his wife. Ahab's silence was bought with a vineyard. In most houses it is bought with something else.
 
-There's a man who gives in on everything. When his partner is unfair to him, or plainly out of line, he says nothing, because he is afraid of what it will cost him that night. Sex has become a lever in that house. Some women pull that lever on purpose, and that is wrong of them. Others never give it a thought. But he can't change her. What he can change is whether the lever works.
+There's a man who gives in on everything. When his wife is unfair to him, or plainly out of line, he says nothing, because he is afraid of what it will cost him that night. Sex has become a lever in that house. Some women pull that lever on purpose, and that is wrong of them. Others never give it a thought. But he can't change her. What he can change is whether the lever works.
 
 Now take the man whose lust no longer runs him. He can say, quite calmly, "That isn't right, and I won't go along with it." If she tells him he can sleep on the couch tonight, he picks up a pillow and goes. To him it feels like camping.
 

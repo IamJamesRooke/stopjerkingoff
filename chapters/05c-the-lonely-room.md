@@ -2,7 +2,7 @@
 
 ## After the date {-}
 
-The date went badly, or it went nowhere. Or you had a fight with your partner and she's gone to bed with her back to you. You come home with the particular ache of a man who's been turned down. Tonight of all nights, you tell yourself, you're owed something. You aren't. Her no is never your excuse.
+The date went badly, or it went nowhere. Or you had a fight with your wife and she's gone to bed with her back to you. You come home with the particular ache of a man who's been turned down. Tonight of all nights, you tell yourself, you're owed something. You aren't. Her no is never your excuse.
 
 What the habit offers is company that can't say no, because nobody is there. And each night you take that offer makes the real thing a little harder to face.
 
@@ -12,7 +12,7 @@ These are the nights you think you'd miss most. But they're the same principle. 
 
 Underneath most of the others lies this one.
 
-You're alone in an apartment or a hotel room, or you're lying beside a partner who feels a long way off. There is nobody to touch and nobody who knows you. And this, at least, feels like closeness.
+You're alone in an apartment or a hotel room, or you're lying beside a wife who feels a long way off. There is nobody to touch and nobody who knows you. And this, at least, feels like closeness.
 
 The ache is real, and it's a good ache. You were made for company. "It is not good for the man to be alone" is almost the first thing God says about us in the Bible. A Catholic speaker says it in one sentence: "What you really long for is authentic love, but you settled for the counterfeit."
 

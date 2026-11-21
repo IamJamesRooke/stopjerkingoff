@@ -1,8 +1,8 @@
 # Fit for Service {#fit-for-service}
 
-> "You therefore must endure hardship as a good soldier of Christ Jesus. No soldier on duty entangles himself in the affairs of life, that he may please him who enrolled him as a soldier."
+> "No soldier on duty entangles himself in the affairs of life, that he may please him who enrolled him as a soldier."
 >
-> — 2 Timothy 2:3-4
+> — 2 Timothy 2:4
 
 You are not only being set free from something. You are being set free for something.
 

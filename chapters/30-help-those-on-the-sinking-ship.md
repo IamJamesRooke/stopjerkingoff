@@ -8,7 +8,7 @@ You're off the ship. Before you walk up the beach, turn around and look at who's
 
 Your brother is on it. So are half the men you work with, most of the men at your gym, and quite possibly your son. From the shore the ship looks different. You can see how low it sits in the water.
 
-One thing keeps the men on board more than any other. It's the willpower quitter. He's the man on day nineteen of his streak. He is gray in the face, snapping at his partner and telling everyone who'll listen how hard it is. The men on the ship look at him and think, "If that's freedom, pass me my phone." His misery is the best advertisement the habit has.
+One thing keeps the men on board more than any other. It's the willpower quitter. He's the man on day nineteen of his streak. He is gray in the face, snapping at his wife and telling everyone who'll listen how hard it is. The men on the ship look at him and think, "If that's freedom, pass me my phone." His misery is the best advertisement the habit has.
 
 You can be a better one for the other side.
 

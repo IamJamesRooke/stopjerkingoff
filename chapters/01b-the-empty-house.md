@@ -12,7 +12,7 @@ You don't have to believe in spirits to know that house, and the story isn't her
 
 You have swept that house many times.
 
-You swore off porn, and for three weeks you were clean. Then you noticed you were spending an hour a night scrolling past women in swimsuits and calling it nothing. Or you left the phone in the kitchen at bedtime, and the reel in your memory started up in its place. Or you stopped the whole business by force, and poured the same hunger into chasing a woman who didn't want you. You threw one thing out, and it came back with company.
+You swore off porn, and for three weeks you were clean. Then you noticed you were spending an hour a night scrolling past women in swimsuits and calling it nothing. Or you deleted every app and blocked every site, and the reel in your memory started up in their place. Or you stopped the whole business by force, and poured the same hunger into chasing a woman who didn't want you. You threw one thing out, and it came back with company.
 
 No wonder it feels unbeatable. No wonder you decided the fault was in you.
 

@@ -36,7 +36,7 @@ You're not unique. You're standard issue.
 
 What does the habit actually give you in return? What kind of pleasure is it that you regret before you've even caught your breath, and are planning again by the following evening? You wish you weren't doing it while you do it. You're restless for it when you don't.
 
-And the regret piles up. A man despises himself a little every time he promises "never again" one night and breaks it the next. He despises himself when his partner is asleep in the next room. He despises himself when he's too drained to get out of bed and do the thing he'd planned. He may be a sensible, capable man who runs every other part of his life well. He still carries this small contempt for himself everywhere, like a stone in his pocket.
+And the regret piles up. A man despises himself a little every time he promises "never again" one night and breaks it the next. He despises himself when his wife is asleep in the next room. He despises himself when he's too drained to get out of bed and do the thing he'd planned. He may be a sensible, capable man who runs every other part of his life well. He still carries this small contempt for himself everywhere, like a stone in his pocket.
 
 What does he get for carrying it? One man who looked back over half his life gave the honest answer:
 

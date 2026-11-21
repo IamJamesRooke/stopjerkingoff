@@ -59,9 +59,9 @@ This book keeps saying one hard thing: **a man who can't control his lust can't 
 
 You probably thought self-control meant what you'd been doing for years. You gripped the rail as hard as you could, a strong man holding down a strong desire. That's a wrestling match, and you know who usually won.
 
-Real self-control is quieter. It belongs to a man whose mind is no longer divided. He isn't holding anything down, because there's nothing pushing up. Thomas Chalmers, a Scottish preacher of two hundred years ago, explained how a desire actually leaves a heart: "the only way to dispossess it of an old affection is by the expulsive power of a new one." For Chalmers the new affection was love for God himself. He held that nothing smaller is strong enough to push the old one out. If you're not a believer, take the law without the name. An old want doesn't leave an empty heart. It leaves when there is something you love more.
+Real self-control is quieter. It belongs to a man whose mind is no longer divided. He isn't holding anything down, because there's nothing pushing up. Thomas Chalmers, a Scottish preacher of two hundred years ago, explained how a desire actually leaves a heart: "the only way to dispossess it of an old affection is by the expulsive power of a new one." For Chalmers the new affection was love for God himself. He held that nothing smaller is strong enough to push the old one out. If you're not a believer, take the half of it that holds for any man. A want is never pushed out by force. It goes when you see that it never gave you anything.
 
-The payoff comes at once. The moment you decide and mean it, you have given your word and you're going to keep it. For the first time in years you'll be a man who can believe his own promises. Trust starts there, and your partner, your friends and your work will feel it in time.
+The payoff comes at once. The moment you decide and mean it, you have given your word and you're going to keep it. For the first time in years you'll be a man who can believe his own promises. Trust starts there, and your wife, your friends and your work will feel it in time.
 
 Fitness for service starts there too. A sober soldier doesn't spend his watch fighting the bottle. He has stopped wanting it, and he can be put on the wall.
 

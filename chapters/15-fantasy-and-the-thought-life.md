@@ -10,9 +10,9 @@ Take a man who has quit porn, and means it. He hasn't opened one of those sites 
 
 On the right side of it is every feed of pictures and short videos a phone can show. There are the fitness models, the women trying on clothes for the camera, and the beach photos of a girl he went to school with. None of it would trip a filter. And when the phone is in another room there's the reel in his own head. It holds old girlfriends, scenes he watched years ago, and the woman from the gym.
 
-Perhaps you are that man, and you know how the evening goes. Your partner is tired, or you have no partner, and you feel you're owed something. "I won't look at porn. I'll just scroll for a bit." Forty minutes later you're in the bathroom. Or you don't finish at all, and you go to bed pleased with yourself and wide awake.
+Perhaps you are that man, and you know how the evening goes. Your wife is tired, or you have no wife, and you feel you're owed something. "I won't look at porn. I'll just scroll for a bit." Forty minutes later you're in the bathroom. Or you don't finish at all, and you go to bed pleased with yourself and wide awake.
 
-Two things make this worse than it looks. First, it props up the belief that you're being deprived. Every swipe tells you that the real feast is over the line and you're a good boy for eating crumbs on the doorstep. Second, it eats your self-respect. An honest man finds himself tilting his screen away from his partner.
+Two things make this worse than it looks. First, it props up the belief that you're being deprived. Every swipe tells you that the real feast is over the line and you're a good boy for eating crumbs on the doorstep. Second, it eats your self-respect. An honest man finds himself tilting his screen away from his wife.
 
 ## Crumbs are still a meal {-}
 

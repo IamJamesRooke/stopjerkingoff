@@ -1,6 +1,6 @@
 # You Would If You Could {#you-would-if-you-could}
 
-Now take the man who has a partner, and still does this to a video, or to the thought of another woman.
+Now take the man who has a wife or a girlfriend, and still does this to a video, or to the thought of another woman.
 
 Ask what the fantasy is. It's a rehearsal. In his head he has already said yes. Suppose the woman on the screen walked into the room and made the same offer. In the fantasy, he never once says no.
 
@@ -32,7 +32,7 @@ And a question lands in him that he can't put down. How can she trust a man like
 
 She can't. He hasn't touched anyone. But all that stood between her and a betrayal was the bother. He sees it now, and it is not okay.
 
-Your partner deserves better than a man whose loyalty depends on his luck. She deserves a man who wouldn't, even if he could.
+She deserves better than a man whose loyalty depends on his luck. She deserves a man who wouldn't, even if he could.
 
 That man isn't gritting his teeth. He has stopped wanting it, so there is nothing left to offer him.
 

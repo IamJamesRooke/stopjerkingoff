@@ -17,7 +17,7 @@ This chapter is for the man who has taken the final step. If you haven't yet, yo
 
 ## Verses for the moment {-}
 
-Many methods close with affirmations. This one uses older words. Pick one or two, learn them by heart, and say them aloud when the Little Monster stirs. If you're not a believer, borrow them anyway. They will serve you better than a slogan.
+Here are some older words to keep. Pick one or two and learn them by heart. They aren't for shouting back at the Little Monster, because he gets no answer. They are for you, on any ordinary day, to remember whose you are. If you're not a believer, borrow them anyway. They will serve you better than a slogan.
 
 > "For sin will not have dominion over you, for you are not under law, but under grace."
 >

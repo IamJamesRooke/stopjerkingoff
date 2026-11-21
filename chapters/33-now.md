@@ -30,11 +30,11 @@ Right now, as you read, nothing is wrong. You're free, you're forgiven, and you'
 
 ## What goes in the space {-}
 
-Something has changed. You have your space back: the hours, the energy and the attention that the habit used to eat. The room was never his, and it isn't empty. It's yours. Spend it well.
+Something has changed. You have your space back: the hours, the energy and the attention that the habit used to eat. The room was never his, and it isn't empty. It's yours, and if you're a Christian, you share it with its owner. Spend it well.
 
 For a Christian that means God first: not as a guard posted at the door, but as the one you were made to enjoy. Pray like a man with nothing to hide, because you have nothing to hide. Open the Bible because you want to. Sit in church without the old feeling of being a fraud in a pew.
 
-For any man it means the people in front of you. Your partner, who is owed the whole of you now, and who may need time. Your children, who get a father who isn't half elsewhere. Your friends and your work, and the thing you always meant to build.
+For any man it means the people in front of you. Your wife, who is owed the whole of you now, and who may need time. Your children, who get a father who isn't half elsewhere. Your friends and your work, and the thing you always meant to build.
 
 If you're not a believer, here is one honest suggestion, and then I'll leave it alone. This book has leaned on an old book from start to finish, and you may have noticed how often it got your life right. If it did, it's worth asking where those ideas came from. Read the Gospel of Mark. It's the shortest of the four accounts of Jesus's life, and you can read it in an evening. Or pray once, even if you aren't sure anyone is listening: "God, if you're there, show me." You've got nothing to lose. You've just learned that about lust.
 

@@ -26,7 +26,7 @@ Does it? There's a locked door, and one ear is listening for footsteps on the st
 
 Take the morning shower. It's the habit at its most mechanical: warm water, a locked door, five minutes, the same as yesterday. Nothing in you asked for it. The shower asked for it.
 
-Now take the evening. A man comes in from work, eats, puts his feet up, and he's content. The man with the habit can't quite be. He has another appetite waiting, and until it's fed he's not fully in the room. He'll hurry the children's bedtime story. He'll be short with his partner for no reason she can find. He'll wait for the house to go to bed. Afterward, for half an hour, he's as calm as other men are all evening.
+Now take the evening. A man comes in from work, eats, puts his feet up, and he's content. The man with the habit can't quite be. He has another appetite waiting, and until it's fed he's not fully in the room. He'll hurry the children's bedtime story. He'll be short with his wife for no reason she can find. He'll wait for the house to go to bed. Afterward, for half an hour, he's as calm as other men are all evening.
 
 Men call it the perfect end to the day. It's a debt collector at the door.
 

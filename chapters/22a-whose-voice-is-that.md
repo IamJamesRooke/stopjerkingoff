@@ -16,7 +16,7 @@ And hearing the voice doesn't mean you believe the lies again. A man hears "I wa
 
 ## Lines for a hard moment {-}
 
-These aren't spells. Each one is a true sentence to set against a false one. Pick the two or three that fit you, and keep those.
+These aren't spells, and they aren't answers to the voice. He gets none. Each one is a true sentence for you, to remind you of what you already know. Pick the two or three that fit you, and keep those.
 
 1. "A feeling is not an order. I can feel this and do nothing about it, and it'll go."
 2. "It never fixed a bad day. I got the same bad day back with shame added."

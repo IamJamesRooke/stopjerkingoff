@@ -10,7 +10,7 @@ You knew.
 
 Nobody has ever called this a social habit. You don't do it at a dinner party. It may be the most private thing you do, and that privacy is what keeps it going.
 
-Lust's other two faces, porn and the chasing of women, live the same way. Nobody watches porn at the dinner table. And the messages to her are the ones you delete.
+Lust's other mouths live the same way. Nobody watches porn at the dinner table. And the messages to her are the ones you delete.
 
 ## The work of hiding {-}
 
@@ -34,7 +34,7 @@ That is what the secret costs in one evening. Over the years it does four things
 
 **It splits you in two.** There's the man people meet, and there's the man behind the door. The first spends a lot of energy making sure nobody meets the second. And the wall doesn't hold. What a man does in private comes out in public. C.S. Lewis once answered a letter from a man who had asked him about this very habit. He wrote that "almost the main work of life is to come out of our selves, out of the little dark prison we are all born in." A secret is that prison with the bolt on the inside.
 
-**It sets you against your own side.** A secret has to be guarded against somebody. This one is guarded against the people who are for you: your partner, your friends, your children. So you end up keeping watch against your own family. That is a small disloyalty, repeated every day. The free man is finished with it. He is on the same side as the people who love him.
+**It sets you against your own side.** A secret has to be guarded against somebody. This one is guarded against the people who are for you: your wife, your friends, your children. So you end up keeping watch against your own family. That is a small disloyalty, repeated every day. The free man is finished with it. He is on the same side as the people who love him.
 
 A man with a secret can't be fully known. And he never feels fully loved, because he's always thinking, "You wouldn't say that if you knew."
 

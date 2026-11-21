@@ -10,7 +10,7 @@ What keeps a man in lust for life is fear of what life would be like without it.
 
 ## Phase One: "How will I get through tonight?" {-}
 
-This is the panic. It comes when the evening stretches ahead with nobody in it, when your partner is away or you don't have one.
+This is the panic. It comes when the evening stretches ahead with nobody in it, when your wife is away or you don't have one.
 
 The panic is not a withdrawal pang. It's the belief that you can't cope without your release. It's strongest just before you stop, when your body is asking for nothing at all. It is plain fear of the unknown, the same thing a boy feels on his first diving board.
 
@@ -22,7 +22,7 @@ Don't worry. The panic is in your head. The truth is that you don't depend on th
 
 ## Phase Two: "What about the rest of my life?" {-}
 
-The second fear is slower. It's the worry that some future situation won't be bearable without the habit: the lonely Christmas, the months when your partner is sick, a death in the family. Step off the board and you'll find the opposite is true. A free man handles a hard day better, because he isn't also fighting himself. Her illness was never going to be your excuse anyway.
+The second fear is slower. It's the worry that some future situation won't be bearable without the habit: the lonely Christmas, the months when your wife is sick, a death in the family. Step off the board and you'll find the opposite is true. A free man handles a hard day better, because he isn't also fighting himself. Her illness was never going to be your excuse anyway.
 
 That leaves the practical question, which comes in two forms.
 

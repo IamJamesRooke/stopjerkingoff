@@ -44,7 +44,7 @@ Uriah trusted his king, and his king was a city without walls.
 
 Here the thread that runs through this book comes out into the open. **A man who can't control his lust can't be trusted.**
 
-That is a description, and no insult is meant by it. His partner is trusting a man who keeps a locked room. His children are being raised by a man who's only half there. And the person who trusts him least is himself. Count the promises. "Never again." "This is the last time." "Starting Monday." You've made each of them and meant it, perhaps hundreds of times, and broken every one. Each time, you broke a promise you had made to yourself.
+That is a description, and no insult is meant by it. His wife is trusting a man who keeps a locked room. His children are being raised by a man who's only half there. And the person who trusts him least is himself. Count the promises. "Never again." "This is the last time." "Starting Monday." You've made each of them and meant it, perhaps hundreds of times, and broken every one. Each time, you broke a promise you had made to yourself.
 
 A man can only break his word to himself so often before he stops believing it. After that, when he says "I'll start the business" or "I'll get fit" or "I'll be a better husband", something inside him quietly replies, "No, you won't. I know you." That is the deepest thing the habit does. It makes you a man whose word, in his own ears, is worth nothing.
 

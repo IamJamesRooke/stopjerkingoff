@@ -20,7 +20,7 @@ Because of what you believe about it, not because of any weakness in you. The ha
 
 ## Is masturbation harmful? {-}
 
-Doctors say masturbation doesn't damage your body, and this book doesn't argue with them. The book is about something else: what the habit does to your mind, your drive, your word and your soul. That part is conviction and the testimony of men who lived it, not a medical finding. Where doctors do have something to add, as with men who find they can't finish with a real partner, the book says so. See [What It's Doing to You](what-its-doing-to-you.html).
+Doctors say masturbation doesn't damage your body, and this book doesn't argue with them. The book is about something else: what the habit does to your mind, your drive, your word and your soul. That part is conviction and the testimony of men who lived it, not a medical finding. Where doctors do have something to add, as with men who find they can't finish with a real woman, the book says so. See [What It's Doing to You](what-its-doing-to-you.html).
 
 ## Is masturbation a sin? {-}
 

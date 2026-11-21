@@ -48,7 +48,7 @@ So here is how a man lets it ring.
 
 Train yourself never to picture the single, harmless time. It's a fantasy in every sense. When lust comes to mind, see the whole of it. See thousands of secret nights and thousands of flat ten minutes afterward. See a secret carried through every room you walk into, and the years of your strength poured down a drain. A weak moment isn't a crime. But why choose a lifetime of that, when you could be free?
 
-And when the voice comes, remember the four. Say it once. Give no reason. Don't soften it. Never answer again. You don't have to win the argument, because there isn't one. A man who is debating whether tonight is an exception has already picked up the phone.
+And when the voice comes, remember the four. The first is said only once, at the end of this book, and then it is said for good. The other three are how it stays said. Give no reason. Don't soften it. Never answer again. You don't have to win the argument, because there isn't one. A man who is debating whether tonight is an exception has already picked up the phone.
 
 Don't frighten yourself with any of this. You can do it. Any man can. It's absurdly easy, so long as you have three things straight:
 

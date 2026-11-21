@@ -18,11 +18,11 @@ You're practicing arousal with nobody else there. You're practicing being a spec
 
 Now set a real woman beside all that. She's one person, and you can't swap her. She has a mind of her own and a bad day of her own. Loving her takes patience and attention, and it means giving something of yourself. In every respect she's the opposite of what you've been rehearsing.
 
-Human beings rate things. Feed your mind a private cast who are always willing, always new and never tired. You'll start scoring your partner against them, or the woman you haven't met yet. No real woman can beat a cast that's open all night and wants nothing from you.
+Human beings rate things. Feed your mind a private cast who are always willing, always new and never tired. You'll start scoring your wife against them, or the woman you haven't met yet. No real woman can beat a cast that's open all night and wants nothing from you.
 
 ## One man {-}
 
-So no, you can't compartmentalize. That goes for the man with a partner at home and a flirtation at work as well. He thinks he has two rooms.
+So no, you can't compartmentalize. That goes for the man with a wife at home and a flirtation at work as well. He thinks he has two rooms.
 
 He is one man.
 

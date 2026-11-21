@@ -53,7 +53,7 @@ A short list. Everything on it was drawn on in writing this book.
 - **Augustine, *Confessions*, Book 8.** The best account of a divided will that I know.
 - **C.S. Lewis, *Mere Christianity*,** the chapter on sexual morality, and ***The Screwtape Letters*.**
 - **Heath Lambert, *Finally Free*.** It is about pornography, and grace is its subject from start to finish.
-- **Thomas Chalmers, "The Expulsive Power of a New Affection".** One sermon on why a desire leaves only when a greater love arrives.
+- **Thomas Chalmers, "The Expulsive Power of a New Affection".** One sermon on how a greater love pushes out a lesser one.
 - **The Catechism of the Catholic Church, paragraphs 2331 to 2400.** The Catholic Church's teaching on chastity. It is short, and you can read it online.
 - **Maxwell Maltz, *Psycho-Cybernetics*.** The ringing telephone in this book is his.
 

@@ -16,7 +16,7 @@ If you're not a believer, the plain test gives the same answer. Is this a gift, 
 
 If you've already lived the other way, this isn't here to pile on guilt. Nobody who wrote this book is an angel. Christians aren't the people who got it right. They're the people who finally admitted they couldn't, and asked for help. That's the heart of the whole faith. Look honestly and you find you aren't as good as you thought. Nobody is, and nobody gets there alone.
 
-So if you're single, the answer is to wait. Don't go looking for somebody to use in place of your hand. That is the same lust with another person in it. And if you're carrying a past, it's forgiven the same way as everything else in this book. You confess it, and you start again.
+So if you're single, keep it for marriage. What you keep isn't lost. It's kept. Don't go looking for somebody to use in place of your hand. That is the same lust with another person in it. And if you're carrying a past, it's forgiven the same way as everything else in this book. You confess it, and you start again.
 
 That leaves the question nobody likes to ask out loud. What if you fall?
 

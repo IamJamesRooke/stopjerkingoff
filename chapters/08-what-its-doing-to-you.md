@@ -12,7 +12,7 @@ A doctor can check your blood pressure. But who checks your drive, or your nerve
 
 So almost nothing here is a medical finding, and where the doctors do come into it I'll say so. Check every line against your own life. If one doesn't fit, drop it. I don't think you'll drop many.
 
-A young man rarely notices the cost. At twenty he has energy to burn, nobody depending on him, and no partner lying beside him to notice that he's absent. He can fund the habit out of the surplus. The bill arrives later, when life starts asking for everything he has. Then he finds he's been spending a tenth of it in the dark for fifteen years.
+A young man rarely notices the cost. At twenty he has energy to burn, nobody depending on him, and no wife lying beside him to notice that he's absent. He can fund the habit out of the surplus. The bill arrives later, when life starts asking for everything he has. Then he finds he's been spending a tenth of it in the dark for fifteen years.
 
 ## It isn't a landmine {-}
 

@@ -16,7 +16,7 @@ Think about how people talk about things they really enjoy. A serious fisherman 
 
 Suppose a friend said to you, "I can go two whole weeks without toast, and it doesn't bother me in the slightest." You'd wonder what was wrong with him. If he likes toast, why go without? If he doesn't, why mention it? A man only makes a speech like that about something that has a hold on him. What the two-week man is really telling you is: "I survived two weeks." Like every man in the trap, he's hoping that if he can survive two weeks he might one day survive for good. And if two weeks was a feat of survival, imagine how precious the next time must have been.
 
-That's why the man who does it rarely is, in one way, more firmly caught than the man who does it daily. The illusion of pleasure is bigger for him, because he's always coming off a long wait. He also has less reason to get out. It costs him less time, and the damage is harder to see. Things do go wrong: a flat mood, a wandering mind in bed with his partner, a coldness when he tries to pray. He blames them on work or tiredness or his age.
+That's why the man who does it rarely is, in one way, more firmly caught than the man who does it daily. The illusion of pleasure is bigger for him, because he's always coming off a long wait. He also has less reason to get out. It costs him less time, and the damage is harder to see. Things do go wrong: a flat mood, a wandering mind in bed with his wife, a coldness when he tries to pray. He blames them on work or tiredness or his age.
 
 So a man in the trap makes two mistakes about other men. He envies the one who seems to do it less, and he looks down on the one who does more. "At least I'm not him." Both mistakes come from the same belief, that these are different kinds of men. They aren't, and here is why.
 
@@ -26,8 +26,8 @@ If the light man is caught as firmly as the heavy one, why do they look so diffe
 
 1. **Time.** He has a job, a family and a life, and most days are full.
 2. **The body.** A man can only go so many rounds, and fewer as he gets older and more tired.
-3. **Privacy.** A partner in the bed, a roommate, children who don't knock, thin walls. For many men the only thing between them and twice as often is a lack of locked doors.
-4. **Conscience.** The tug of war that goes on in every man in the trap. Some of it comes from how he was raised, some from a partner's opinion, and some from a plain dislike of what he's turning into.
+3. **Privacy.** A wife in the bed, a roommate, children who don't knock, thin walls. For many men the only thing between them and twice as often is a lack of locked doors.
+4. **Conscience.** The tug of war that goes on in every man in the trap. Some of it comes from how he was raised, some from a wife's opinion, and some from a plain dislike of what he's turning into.
 
 Men who do it daily tend to think of themselves as weak, and can't see how other men keep it to once a week. But the once-a-week man is usually no stronger. One or more of those four brakes is simply on harder. He shares a small apartment, or he's fifty-five, or he works fourteen-hour days. Take the brake off, say with a week alone in a hotel, and watch what he does.
 

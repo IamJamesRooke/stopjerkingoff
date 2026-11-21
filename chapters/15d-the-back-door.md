@@ -10,6 +10,8 @@ For most men it was the first of the five to arrive, and they expect it to be th
 
 Its lie is different from the lies of the other four. The others say, "This is exciting." This one says, "This is nothing." It's natural. It's free. Nobody gets hurt. It's just maintenance, like trimming your nails.
 
+Some men in Corinth had a slogan like that: "All things are lawful for me." Paul let them have it, and then answered it: "but I will not be brought under the power of anything."
+
 Because the lie is "nothing", this is the one men keep. A man quits porn and is proud of it, and he should be. But he keeps the hand, the way a man gives up whiskey and keeps the beer. He tells himself it is a different thing now.
 
 This chapter is called the back door for a reason. One man quit porn twice, and went back twice. Both times, he said, masturbation was what led him back.

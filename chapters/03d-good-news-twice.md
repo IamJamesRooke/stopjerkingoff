@@ -16,7 +16,7 @@ Then you got home, shut the bedroom door, and the Little Monster was up and shou
 
 So what changed? Your body didn't. It was the same body in the tent as in the bedroom. What changed was that the cue came back, and with it the expectation. The Little Monster keeps quiet when he knows nothing is coming, and he wakes up the second it might be. What you felt wasn't need. It was expectation.
 
-That means the fleshly part of this is easy to live with, even now, while you're still in it. It's why some men do it once every two weeks all their lives and are every bit as caught as the man who does it daily. It's also why a man can go a year clean, have "just one", and find the path across the lawn still there waiting for him.
+That means the fleshly part of this is easy to live with, even now, while you're still in it. It's why some men do it once every two weeks all their lives and are every bit as caught as the man who does it daily. It's also why a man can go a year clean, have "just one", and be back on the old path within the week.
 
 So the flesh is not the main problem. It's the hook that the real problem hangs on. That doesn't make the damage small. Ask any man who's been at it for twenty years what it has taken from him. But the damage isn't permanent. You may have heard that the path is worn in for life. That's false.
 

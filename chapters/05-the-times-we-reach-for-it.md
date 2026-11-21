@@ -26,7 +26,7 @@ You're carrying two loads. One is the day's real trouble. The other is the Littl
 
 The habit gets the credit for easing a pressure that it largely built.
 
-Try a test. Have you ever expected the house to yourself for an evening and then had the plans change? Your partner's night out is canceled, or a roommate comes home early. Do you remember that flash of irritation, almost panic, far too big for what had happened? A free man doesn't get that. The habit put it there.
+Try a test. Have you ever expected the house to yourself for an evening and then had the plans change? Your wife's night out is canceled, or a roommate comes home early. Do you remember that flash of irritation, almost panic, far too big for what had happened? A free man doesn't get that. The habit put it there.
 
 The habit doesn't steady your nerves. It wears them down. Year after year it takes a little more of your courage, and all the while it tells you it's the only thing holding you together. One of the best things about getting out is that your natural confidence comes back. A man who isn't hiding anything walks into a room differently.
 
