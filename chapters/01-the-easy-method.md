@@ -1,30 +1,12 @@
 # The Easy Method
 
-> "Don't be conformed to this world, but be transformed by the renewing of your mind."
->
-> — Romans 12:2
+The usual way of quitting begins at the foot of a mountain. You stare up at it and take a deep breath. Then you spend weeks dragging yourself uphill, craving and feeling robbed.
 
-This book has one aim: to change the way you think about lust.
+This way begins somewhere else. You begin with relief, like a man walking out of the doctor's office with the all-clear. And the feeling doesn't fade. Years from now you'll look back at this stretch of your life and scratch your head over why you ever did it. When you meet men who are still stuck, you'll feel sorry for them. You won't envy them for a second.
+
+How? The method has one aim: to change the way you think about lust.
 
 That's all. It won't make you stronger, and it won't make you more disciplined. It will change what you see when you look at porn, at the habit, and at the pull women have on you. Once you see it clearly, stopping is easy.
-
-The usual way of quitting begins at the foot of a mountain. You stare up at it and take a deep breath. Then you spend weeks dragging yourself uphill, craving and feeling robbed. This way begins somewhere else. You begin with relief, like a man walking out of the doctor's office with the all-clear. And the feeling doesn't fade. Years from now you'll look back at this stretch of your life and scratch your head over why you ever did it. When you meet men who are still stuck, you'll feel sorry for them. You won't envy them for a second.
-
-## No willpower campaign {-}
-
-Until you've finished the whole book, don't start a willpower campaign.
-
-Don't start a streak. Don't make a vow you'll break by Friday. Don't cut down to weekends. If you fall while you're reading, don't despair, and don't stop reading. And if the wish leaves you along the way, let it go, and don't call it back.
-
-What this book rules out is the willpower vow. That is a promise made in your own strength, before you understand the trap. You've made that kind of promise before, and you know how long it lasts. The plain No at the end of this book is a different thing. You'll say it with your eyes open, and if you pray, you'll say it leaning on God.
-
-Christian readers sometimes ask, "You've just told me it's a sin. Are you telling me to keep going?"
-
-No. It is sin, and this book will never tell you to sin. Nobody is asking you to do it. The instruction is only this: don't launch a willpower campaign halfway through a book that is about to make willpower unnecessary. You've already tried it that way, probably dozens of times. This time, do something you've never done before: watch yourself with your eyes open while the book explains what you're looking at. As you read, the wish to do it will shrink without any effort from you. Let it.
-
-You may have stopped already. Or you may be a few days or weeks into a break and not know what to call yourself. Either way, stay stopped. In truth you're already free. The remaining chapters will let your head catch up with your hands.
-
-By the way, there's no "one last time" ceremony waiting for you in the closing pages. There is only that plain No, and you'll be glad to say it.
 
 ## Why the normal way is so hard {-}
 
@@ -32,15 +14,13 @@ The normal way of quitting goes like this. You write down everything the habit c
 
 "If I can just hold out long enough, the urge will finally die, and then I'll be happy."
 
-It sounds sensible. Men do get free this way. But it is the hard road, and most men who take it end up where one man on a Christian forum did. He wrote that everything that depended on his own effort failed him sooner or later.
+It sounds sensible. A few men do get free this way. But it is the hard road, and most men who take it end up where one man on a Christian forum did. He wrote that everything that depended on his own effort failed him sooner or later.
 
-Why is it so hard? There are three reasons.
+Why is it so hard? There are two reasons.
 
-**1. Stopping was never the problem.** You stop every single time you finish. In that flat, gray minute afterward, you are the most committed quitter on earth. "Never again. I mean it this time." Every man says it, and every man means it. The problem is not that minute. The problem is day three, or day thirty, or day three hundred, when you're tired or lonely and a quiet voice says "just this once". One becomes two, and you're back where you started, minus a little more self-respect. For some men it doesn't even take until day three. A nineteen-year-old, raised in a strict Christian home, wrote about his first time: "I vowed never to do that again, only to find myself searching for a secret place after a couple of hours."
+**1. Guilt and fear make you reach for it.** What does a man do when he feels ashamed, anxious and worthless? He looks for comfort. And what has he trained himself to use for comfort? Tell a man the habit is ruining him and you've just handed him one more reason to escape into it tonight. A counselor on a Christian recovery blog saw it clearly: "Shame is the problem for so many, many Christians." This is why the scare videos and the thundering sermons have never freed you. They load the gun. A man who tries to quit out of desperation is working against himself, because desperation is the very thing that drives him back to it. That is true of porn. It is just as true of the hand, and of the next woman you chase to feel better about yourself.
 
-**2. Guilt and fear make you reach for it.** What does a man do when he feels ashamed, anxious and worthless? He looks for comfort. And what has he trained himself to use for comfort? Tell a man the habit is ruining him and you've just handed him one more reason to escape into it tonight. A counselor on a Christian recovery blog saw it clearly: "Shame is the problem for so many, many Christians." This is why the scare videos and the thundering sermons have never freed you. They load the gun. A man who tries to quit out of desperation is doomed to fail, because desperation is the very thing that drives him back to it. That is true of porn. It is just as true of the hand, and of the next woman you chase to feel better about yourself.
-
-**3. Every reason to stop makes stopping harder.** That sounds crazy, so take it slowly. For one thing, your reasons tell you that you *ought* to give something up. So part of you goes on believing there is something to give up: a comfort, a treat, an old friend. You feel like a man being marched away from his only pleasure. And for another, your reasons point your eyes at the wrong question. You don't do it because of the reasons you should stop. Nobody opens the site or shuts the bathroom door *because* it leaves him flat and guilty. The real question is the other one: why do you want to do it at all?
+**2. Every reason to stop makes stopping harder.** That sounds crazy, so take it slowly. For one thing, your reasons tell you that you *ought* to give something up. So part of you goes on believing there is something to give up: a comfort, a treat, an old friend. You feel like a man being marched away from his only pleasure. And for another, your reasons point your eyes at the wrong question. You don't do it because of the reasons you should stop. Nobody opens the site or shuts the bathroom door *because* it leaves him flat and guilty. The real question is the other one: why do you want to do it at all?
 
 The man from the Christian forum, the one whose own effort failed him, spotted the trap inside all that effort. The harder he tried to stop thinking about porn, the more it became the center of his thoughts. Swap in "masturbation", or "her", and nothing changes.
 
@@ -60,11 +40,29 @@ Be clear about what that means. I'm not saying the costs are bigger than the ben
 
 Not one.
 
-The relaxation, the sleep, the stress relief, the "release", the thrill of something new, the feeling of being wanted: each of them is an illusion. We'll take them apart one at a time.
+The relaxation, the sleep, the stress relief, the "release", the thrill of something new, the feeling of being wanted: each of them is an illusion. We'll take them apart one at a time. But you shouldn't have to take that on trust, so here is one of them now.
+
+## A sample: "It helps me sleep" {-}
+
+It does seem to. You do it, and you drop off. Case closed?
+
+Ask who was keeping you awake. You slept like a stone when you were nine. The man who never started this is asleep ten minutes after his head touches the pillow, and nothing has helped him. You are the only one of the three lying there restless, and you are the only one with a squatter banging on the floor.
+
+So the habit didn't give you sleep. It took your sleep, and every night it rents a little of it back to you. Then you thank it.
+
+A man who wears tight shoes all day for the pleasure of taking them off isn't enjoying a benefit. Every "benefit" on that list works the same way, and each one gets its turn.
+
+## What to do while you read {-}
+
+While you read, do one thing you have never done before. Watch.
+
+If you fall, keep your eyes open, and notice what it actually gave you. As you read, the wish to do it will shrink without any effort from you. Let it.
+
+There's no "one last time" ceremony waiting for you in the closing pages. There is only a plain No, and you'll be glad to say it. It is not the old vow. The old vow was a promise made in your own strength, before you understood the trap, and you know how long those lasted. This one you'll say with your eyes open, and if you pray, you'll say it leaning on God.
 
 Paul, the apostle who wrote much of the New Testament, told the Christians in Rome to "be transformed by the renewing of your mind". He didn't say to try harder. "Be transformed" is something done to you, by God, as your mind is made new. If you're not a believer, call it changing your mind. Either way, it starts with seeing clearly.
 
-So start with a question nobody asks. If it does nothing for you, why is it so hard to stop?
+So start with the squatter. If he does nothing for you, why does he keep coming back? The best answer anyone has given is two thousand years old. It is a story about a house.
 
 <!-- SOURCES (Chapter 1): every quote below is from the research files; check each against its page before publishing.
 - PARAPHRASED, not quoted (2026-11-17): the two lines from the man on a Christian forum (his own effort failed him; trying not to think about porn made it the centre of his thoughts). The post could not be opened to check the wording, so the body gives the sense only. Source: u/Red-Curious, r/TrueChristian, "How I overcame porn permanently" (original post), https://www.reddit.com/r/TrueChristian/comments/larhm7/
@@ -84,3 +82,5 @@ So start with a question nobody asks. If it does nothing for you, why is it so h
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
 
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
+
+<!-- 2026-11-21 opening rewrite (James: the opening must grip and reward quickly; tested on three cold readers). Before and after: editorial/OPENING-REWRITE-2026-11-21.md. Cut text is in editorial/PARKING.md. -->

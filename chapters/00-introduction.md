@@ -1,87 +1,50 @@
-This book will help you conquer lust. You will stop masturbating, stop watching porn, and stop making bad decisions with women because you're thinking with the wrong head. You can stop right away, stay stopped, and not be miserable doing it. There are no cold showers in here, no rubber bands on your wrist, and no ninety-day streak counter to babysit. Nobody is going to shame you, and nobody is going to ask you to grit your teeth.
+It is two in the morning, and a man is lying in bed with his phone.
 
-While you read, please don't start a willpower campaign. Make no vows, start no streaks, and don't cut down. Just keep reading to the last page. You'll soon see why, and why this is not permission to sin.
+He isn't enjoying himself. He stopped enjoying this years ago. He has work at seven. An hour ago he promised himself, again, that tonight would be different. In a few minutes it will be over, and he will lie in the dark feeling flat and a little stupid. Then he will say the two words he has said a thousand times: never again.
 
-That probably sounds backward. Everything you've been told says the opposite: try harder, pray harder, hide the phone, reset the counter. Has any of it worked? If it had, you wouldn't be holding this book.
+He means it. He always means it.
 
-Here is what nobody told you. You have been fighting a dragon, and there is no dragon. There is a small, smelly squatter in your back room. He has never paid a day's rent, and he lives on the meals you carry up to him. It takes no courage to stop feeding a freeloader.
+You know this man. Most men do. One pastor who writes honestly about masturbation calls it "a regular practice of most single men", and plenty of married men could raise a hand too.
+
+Perhaps your version looks different. Perhaps it is the message to her that you rewrote five times, or the money you spent to be noticed. Perhaps it is the bed you woke up in and wished you hadn't. It is the same thing in a different coat.
+
+And the man is no weakling. He holds down a job. He has given up harder things than this. Against this one thing he has tried everything: vows, prayers, blocked sites, cold showers, counted days. For years he has believed he is fighting a dragon.
+
+There is no dragon.
+
+There is a small, smelly squatter living in his back room. The squatter has never paid a day's rent. He has no strength of his own. He lives on the meals the man carries up to him, and when he is hungry he bangs on the floor.
+
+That is the secret this book is built on, and every page after this one is the proof. The thing that has beaten you for years isn't strong. It is small, and you have been feeding it.
+
+## What this book will do {-}
+
+This book will help you conquer lust. You will stop masturbating, stop watching porn, and stop making bad decisions with women because you're thinking with the wrong head. You can stop right away, stay stopped, and not be miserable doing it. Nobody is going to shame you, and nobody is going to ask you to grit your teeth.
 
 Some men would almost rather have the dragon. They want a war of teeth, bone, sinew and will. If that is you, save your grit for something that deserves it. There are mountains to climb and children to raise. Don't let this be the battle that defines your life. It is only a pest. Evict him, and get on with your life.
 
-One caution. None of this is permission to hurt anyone. If lust has you in an affair, paying for sex, pressing a woman who has said no, or doing anything against the law, stop that today. Someone else is paying for it, and you don't need the last page for that. Everything else ends at the final step, with no campaign before it.
-
-## Is this you? {-}
-
-Now ask yourself honestly:
-
-- Do you watch porn, or keep drifting back to it after swearing off?
-- Do you reach for it without thinking, in bed or in the shower, when you're bored, stressed, lonely or can't sleep?
-- Do your thoughts drift to it at work, at dinner, or while you're talking to a woman?
-- Have you made a bad decision because you wanted a woman? Have you sent the message, spent the money, told the lie, or said yes when you should have said no?
-- Have you used a woman for a night, or kept one around because you didn't want to go without?
-- Have you promised yourself, or God, that you would stop, and broken the promise within days? Did you feel disgusted with yourself, and then do it again anyway?
-
-If you said yes to even one of these, keep reading.
-
-You are in good company, by the way. One pastor who writes honestly about masturbation calls it "a regular practice of most single men", and plenty of married men could raise a hand too. What sets you apart from most of them is that you've decided to do something about it.
-
-Are you reading this for a son, a husband, a brother or a friend? The best thing you can do is get him to read it. If he won't, read it yourself. Once you see how the trap works, you'll be far better at helping him out of it, and at keeping the next boy from walking in.
-
-## Before you go on {-}
-
-This book does not replace a doctor or a counselor. Most men need nothing more than these pages. A few need a person as well. If one of these is you, get that help now, and read the book alongside it.
-
-- **You have thoughts of ending your life or of hurting yourself.** Get medical help today. See a doctor, or call your local emergency number if you are in danger.
-- **You use this to numb an old pain, or it began after something was done to you as a child.** Tell a doctor or a counselor. They keep what you say private, and they have heard it before.
-- **Your urges frighten you, or what you look at has moved toward children or anything against the law.** You are not beyond help. See a doctor or a counselor now. They are there to help you, and they have heard it before. If the thoughts horrify you, arrive uninvited, and you would never act on them, that is often a treatable anxiety problem and no sign that you are dangerous. Tell a doctor exactly that.
-
-The Appendix at the back has more.
-
-## One appetite, fed five ways {-}
-
-Lust is fed in five ways in this book. A man can look, think, touch, chase and take.
-
-He looks, at porn, at a feed full of strangers, at a woman in the street. He thinks, and plays the fantasy or the memory over again. He touches, and that is the hand: the late-night itch and the shower routine. He chases. He sends the message he shouldn't, stays with the wrong woman, spends money to impress, and can't think straight near a pretty face. The slang of the 2020s calls this simping. The thing itself is as old as Samson. He was the strongest man in the Bible, and a woman he couldn't say no to brought him down. And he takes, which is sex outside marriage, from the one-night stand to the affair.
-
-You may know one of them or all five. It is the same lust each time, making a man's decisions for him.
-
-So this book doesn't go after them one at a time. It goes after the one appetite behind all five. You aren't going to manage five problems. You are going to get lust itself out of the driver's seat, and all five go with it.
-
-## One condition {-}
-
-The method works on one condition:
-
-**DO NOT SKIP CHAPTERS.**
-
-Think of it as a staircase. Each chapter is a step, and each step only holds your weight because the one beneath it is there. Jump ahead to the "how to stop" chapter and you'll land on nothing.
-
-Take the steps in order. This method is built to be:
-
-- **Immediate.** You don't taper off. You stop.
-- **For any man.** It is the same for the man who is at it three times a day as for the man who slips twice a month.
-- **Free of misery and willpower.** No weeks of restless misery, no gritted teeth, and no apps, supplements or locked boxes.
-- **Clean.** You won't swap it for overeating, scrolling or drinking.
-- **Lasting.** You don't have to keep walking out of the same trap.
-
-Let me be honest about that list. This is a method that has freed many men. It is not a medical treatment, nobody has tested it in a clinic, and I can't promise how it will go for you. I can tell you what it has done for others, and ask you to read to the end.
-
-You probably don't believe a word of that. Neither did these men, once.
-
-One man, still in the trap, wrote:
-
-> "I hate it, but I continually feed it."
-
-A second, after he quit, wrote:
+The men who have walked out don't describe a fight that never ends. One wrote:
 
 > "I feel like coming out from a fog that has been around me all this time."
 
-And a third:
+And another:
 
 > "It's been over 5 years since God broke me free from the chains of pornography and masturbation addiction. I will never go back."
 
-The free men don't describe a miserable fight that never ends. They describe chains breaking and a fog lifting. They still keep watch, as every Christian does. But keeping watch is a long way from fighting for your life every night. That is where this book is taking you.
+That is where this book is taking you.
 
-First, though, a warning. This book is not what you are expecting.
+## Two rules while you read {-}
+
+**DO NOT SKIP CHAPTERS.** They are short. Each one takes away one thing the squatter lives on, and the last step only works if the others came first. Jump ahead to the "how to stop" chapter and you'll land on nothing.
+
+**Don't try to quit while you read.** Make no vows, start no streaks, and don't cut down. I know that sounds backward. Everything you've been told says to try harder, pray harder, hide the phone and reset the counter. Has any of it worked? If it had, you wouldn't be holding this book.
+
+Nobody is telling you to sin. You are only asked not to launch one more willpower campaign, halfway through a book that is about to make willpower unnecessary. If you have already stopped, stay stopped. If you fall while you're reading, don't despair, and don't stop reading. The book has a chapter for that, and it won't scold you.
+
+One thing can't wait for the last page. If lust has you in an affair, paying for sex, pressing a woman who has said no, or doing anything against the law, stop that today. Someone else is paying for it.
+
+And a book is not a doctor. This method has freed many men, but nobody has tested it in a clinic, and some men need a person as well as a book. Do you have thoughts of harming yourself? Did this begin after something was done to you as a child? Do your urges frighten you, or has what you look at moved toward children or anything against the law? Then see a doctor or a counselor now, and read the book alongside them. They have heard it before, and you are not beyond help. The Appendix at the back says more.
+
+Now go back to the man in the bed, and put one thing on his nightstand. A button.
 
 <!-- POLISHED 2026-11-18 for reading aloud. The "gateway to porn relapse" quotation is now a paraphrase, and Luke 15:17 ("he came to himself") is told without quotation marks; the source lines below are kept for the record.
 SOURCES (Introduction): every quote below is from the research files; check each against its page before publishing.
@@ -120,3 +83,5 @@ SOURCES (Introduction): every quote below is from the research files; check each
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
 
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
+
+<!-- 2026-11-21 opening rewrite (James: the opening must grip and reward quickly; tested on three cold readers). Before and after: editorial/OPENING-REWRITE-2026-11-21.md. Cut text is in editorial/PARKING.md. -->

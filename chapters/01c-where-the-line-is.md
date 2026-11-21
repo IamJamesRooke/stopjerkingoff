@@ -1,9 +1,5 @@
 # Where the Line Is {#where-the-line-is}
 
-> "Drink water out of your own cistern, running water out of your own well."
->
-> — Proverbs 5:15
-
 Start with what is not on the list.
 
 Noticing a beautiful woman is not lust. Wanting a wife is not lust. Wanting your own wife certainly isn't. Desire was God's idea. He made it strong on purpose, strong enough to pull a man out of his father's house and into a promise.
@@ -14,7 +10,7 @@ So where is the line? Start with a test any man can use, whatever he believes. A
 
 A gift has a person at the other end and a promise underneath it. A hit has only you.
 
-Run the five through that test. The screen is a hit. So is the hand, and so is the private film. The chase is a man wanting something from a woman, which is the opposite of a gift.
+Run the five through that test. The screen is a hit. So is the hand, and so is the private film. The chase is a man working a woman for what he can get, which is the opposite of a gift.
 
 That leaves the bed, and the test is hardest there, because she is in it too and she may want it as much as he does. So look at what sex is. It ties two people together. It can make a child. It is the most one body can say to another: all of me, to you. With no promise under it, his body says that and he doesn't mean it. That is why it so often leaves a flat feeling behind, even when both of them were willing.
 
@@ -38,7 +34,7 @@ The hardest case is the man who has found the right woman. He loves her and mean
 
 He is closer to the right side than he has ever been. He has the right woman. What he doesn't have yet is the promise. An engagement is a promise to make one.
 
-There is good news for this man. He is the only one in this book who can move the line himself. It takes a ring and a wedding, and the wedding can be small.
+There is good news for this man. He is the only man in this book who can cross the line honestly. It takes a ring and a wedding, and the wedding can be small.
 
 Until then, what he keeps for the wedding isn't lost. It is kept. He will be bringing her a man who doesn't need to take, and every wife needs one of those.
 
@@ -46,11 +42,7 @@ Until then, what he keeps for the wedding isn't lost. It is kept. He will be bri
 
 If you have spent years on the wrong side of the line, so has nearly every man who ever lived. That includes the one writing this. This chapter isn't a verdict on you. It's a map, and you can't leave a place until you know where its edge is.
 
-And don't try to drag yourself across the line tonight by force. That is sweeping the house again. For now it's enough to know where the line is. Keep reading.
-
-One exception. All of that is about the habit you keep by yourself. If another person is in it, that is different. You aren't sweeping a house there. You are making a choice about someone you care about, and you can stop making it today.
-
-So this book is for one kind of man, and he comes in every kind. Single or married, believer or not, feeding lust one way or all five. He is any man whose desire has been making his decisions for him.
+And don't try to drag yourself across the line tonight by force. That is sweeping the house again. For now it's enough to know where the line is. The one exception is another person. If someone else is in it, you are making a choice about her, and you can stop making it today.
 
 You know the five now, and you know the line. That leaves the question you have asked yourself a hundred times. You aren't stupid. You have wanted out for years. So why are you still in?
 
@@ -60,3 +52,5 @@ SOURCES: Epigraph and body quotation: Proverbs 5:15 (WEB, checked 2026-11-20). "
 <!-- 2026-11-20 (James: keep everything from the Bible as much as possible): Hydra wording replaced by the empty house and the five mouths. -->
 
 <!-- 2026-11-20 review batch (reader report 3, change 3; pastor H1, M5, M6; method H4, L1): the chapter now ARGUES the line before stating it. It leads with the gift-or-hit test, runs the five through it, and gives a reason for the bed, then says the Bible drew the line in the same place. The position is unchanged. Out: 'Someday isn't one. A promise has a date on it, and witnesses', 'twenty minutes and a ring', 'waiting is the kindest thing he can do for her', 'a man who can wait', and the dog and the grocery list. In: 'An engagement is a promise to make one', 'a ring and a wedding, and the wedding can be small', 'what he keeps for the wedding isn't lost. It is kept', 'any bed outside marriage', and the exception for when another person is involved. -->
+
+<!-- 2026-11-21 opening rewrite (James: the opening must grip and reward quickly; tested on three cold readers). Before and after: editorial/OPENING-REWRITE-2026-11-21.md. Cut text is in editorial/PARKING.md. -->

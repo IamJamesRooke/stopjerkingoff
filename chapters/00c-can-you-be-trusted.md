@@ -6,41 +6,33 @@ Picture a soldier who shows up for duty drunk. He may be on the right side. He m
 
 That is the theme under this whole book. It is self-control, and it comes down to one hard sentence. **A man who can't control his lust can't be trusted.** His wife can't fully trust him. His employer can't. Worst of all, he can't trust himself, because he has broken his own word too many times.
 
-That is not an accusation. It was true of the man writing this, and it is the reason this book exists. It is true of half the respectable men you will meet today. You were made for something. This book is about getting you fit for it.
+You don't need that proved to you. Ask the man who said "never again" last night.
 
-The good news is that the reverse is also true. The man who is free of this walks differently. You're about to find out.
+That is not an accusation. It was true of the man writing this, and it is the reason this book exists. It is true of half the respectable men you will meet today.
 
-## A word on faith {-}
+And look at who has done it to us. It wasn't a dragon. A grown man, trusted with a job and a family, can't keep his word against a squatter the size of a house cat. That ought to annoy you. Good. Be annoyed at the right party.
 
-This book is written from a Christian point of view, and you don't have to be a Christian to use it. It isn't a sermon. If you're an atheist, play along. If you hold another faith, bring it with you. Nobody here will ask you to convert. When you hear God or sin mentioned, take it as your conscience talking. The trap works the same way on every man, and so does the way out.
+The reverse is also true. The man who is free of this walks differently. He can say no, so his yes is worth something. You were made for something, and this book is about getting you fit for it.
 
-The book says plainly what the Bible says: lust is sin. Jesus didn't set the bar at the act. He set it at the look. In Matthew 5:28 he says, "everyone who gazes at a woman to lust after her has committed adultery with her already in his heart". That one sentence reaches all five. Porn is the look, put on a screen. The bad decisions start with the look. And the hand? Ask yourself how often you've done it with a completely empty head.
+## What I believe, and what you don't have to {-}
 
-Lust is not the same as desire. Noticing that a woman is beautiful is not a sin. Wanting a wife is not a sin. God made desire, and he made it strong. Lust is desire turned into taking: the look you go back for, the woman used as material. This book is against the taking. It has nothing against the desire.
+A Christian wrote this book, and it quotes the Bible, because the best pictures of this trap are in there. You don't have to believe a word of it to get out. If you're an atheist, play along. If you hold another faith, bring it with you. When you hear God or sin mentioned, take it as your conscience talking. The trap works the same way on every man, and so does the way out.
 
-The book ends with a decision that you say out loud. For a Christian it is a prayer. For any other man it is a plain statement in his own words. Nothing is sprung on you.
+The book says plainly what the Bible says: lust is sin. Jesus didn't set the bar at the act. He set it at the look. In Matthew 5:28 he says, "everyone who gazes at a woman to lust after her has committed adultery with her already in his heart".
 
-If you are a Christian, hear this early. The word "sin" is here to tell the truth. It is not here to beat you. The same Bible also says, in Romans 8:1, "There is therefore now no condemnation to those who are in Christ Jesus". Hold on to both. And nothing in this book saves anyone. Freedom is God's gift. All the book can do is clear away the lies that keep a man from taking it.
+But lust is not the same as desire. God made desire, and he made it strong. Lust is desire turned into taking: the look you go back for, the woman used as material. This book is against the taking. It has nothing against the desire.
 
-## If you're a woman reading this {-}
+If you are a Christian, hear this early. The word "sin" is here to tell the truth. It is not here to beat you. The same Bible also says, in Romans 8:1, "There is therefore now no condemnation to those who are in Christ Jesus". Hold on to both. Nothing in this book saves anyone. Freedom is God's gift, and all the book can do is clear away the lies that keep a man from taking it.
 
-The book is written to men, and it says "he" all the way through. You are welcome in it. Women write about this same struggle, and about having no one to talk to. The trap is built the same way for you, and so is the way out. Change the pronouns and read on.
+If you're a woman, you are welcome here. The book says "he" all the way through, but the trap is built the same way for you, and so is the way out. And if you are reading for a son, a husband or a friend, read it yourself first. You can't lead a man out of a trap you don't understand.
 
-## About this book {-}
-
-It isn't long. A few evenings will get you through it. Many men find it helps to read it a second time, so that it sticks.
-
-Near the end there is a short chapter called If You Slip. If you fall, during the book or after it, go there. It won't scold you.
-
-Three words come up often. *Lust* means desire turned into taking, which is fed in five ways: the look, the thought, the touch, the chase and the taking. *The habit* means the first three working together, the look, the thought and the hand, because they nearly always arrive as one. When the book means the chase or the taking, it says so. *NoFap* is an online movement of men trying to stop both, and many of the men quoted here wrote on its forum. Visit communities like that after you've finished the book, and not before.
-
-This book was inspired by a free book called [*The Easy Peasy Way to Quit Porn*](https://easypeasymethod.org/), known as EasyPeasy. EasyPeasy was itself a rewrite of Allen Carr's *Easy Way to Stop Smoking*. I borrowed its structure and its method, and the credit for both belongs to them. But porn is only one face of the problem, and this book goes after the root. Any mistakes in applying the method here are mine. Like EasyPeasy, this book is shared under an open license, so you may copy it, share it and adapt it. The Attribution page at the back has the license, the public repository, and an address if you want to write to me.
-
-I have one request. If this book helps you, pass it on. Most men have never been told there is an easy way out.
+One debt before we go on. The method isn't mine. It began with Allen Carr's *Easy Way to Stop Smoking*. A free book called [*The Easy Peasy Way to Quit Porn*](https://easypeasymethod.org/) applied it to porn. I borrowed its structure and its method, and the credit belongs to them. Any mistakes in applying it here are mine.
 
 I won't wish you luck, because luck doesn't come into it. Grace does.
 
-Jesus said, "If therefore the Son makes you free, you will be free indeed."
+Now for the method itself. It begins with the strangest promise anyone has made you about this.
+
+It will be easy.
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of index.Rmd; the source notes for everything here are in that file. -->
 
@@ -57,3 +49,5 @@ Jesus said, "If therefore the Son makes you free, you will be free indeed."
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
 
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
+
+<!-- 2026-11-21 opening rewrite (James: the opening must grip and reward quickly; tested on three cold readers). Before and after: editorial/OPENING-REWRITE-2026-11-21.md. Cut text is in editorial/PARKING.md. -->

@@ -460,3 +460,7 @@ Read-aloud pass, fact and quote audit (nothing shaky found), plain-English pass,
 ## Revision 2026-11-21, squatter and humor pass
 
 "Five mouths" is gone: lust is a squatter with no body of his own, fed five ways by what the man lends him (eyes, mind, hand, feet, bed). Whole book reread for humor and for "smaller than you think"; the squatter is on page one, with James's line about saving your grit. Changes are in editorial/SQUATTER-2026-11-21.md and editorial/HUMOR-PASS-2026-11-21.md.
+
+## 2026-11-21 opening rewrite
+
+James: the Introduction and chapters 1 to 5 must grip and reward quickly. Rewritten, tested on three cold readers, revised and published. Before and after: editorial/OPENING-REWRITE-2026-11-21.md. Old versions: editorial/PARKING.md. Rules that came out of it: open on a scene; a real aha by the end of chapter 1; cautions said once and inside the story; no epigraph where the verse is quoted in the chapter; housekeeping (license, definitions) belongs at the back.
