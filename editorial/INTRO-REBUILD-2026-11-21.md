@@ -8,7 +8,7 @@ Four versions were written: the old one, a fuller one with the argument for why 
 
 ## What the readers said
 
-- First sentence. "…breaking a promise he made an hour ago" won. It was first for four readers and top three for the rest. "There is no dragon" alone under the cover came last.
+- First sentence. "…breaking a promise he made an hour ago" won. Of the four readers who ranked the candidates, three put it first and one put it third, and all three second-round readers picked the version that opens with it. "There is no dragon" alone under the cover came last.
 - Every reader ranked the old version last or next to last. They quit at the same two places: the four-word glossary and the "God broke me free from the chains" quote.
 - Second person lost. Each wrong detail (the job, work at seven) became an exit, and it broke the handoff to the button.
 - The short version was the only one every reader finished, but they did not trust it: no author, no argument, no word about the cross.
