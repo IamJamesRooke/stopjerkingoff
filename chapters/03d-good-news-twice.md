@@ -31,3 +31,5 @@ One last thing before we move on. Go back to Paul's words: "the flesh lusts agai
 So the flesh is the easy part. The hard part is everything you have been told.
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 03-the-flesh.Rmd; the source notes for everything here are in that file. -->
+
+<!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->

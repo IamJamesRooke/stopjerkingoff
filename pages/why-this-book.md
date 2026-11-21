@@ -59,3 +59,5 @@ And when it works, pass it on. Send the link to one man. Lust has been made norm
 ---
 
 *Stop Jerking Off is published anonymously. It was inspired by EasyPeasy and Allen Carr's Easy Way to Stop Smoking, and is shared under CC BY-SA 4.0.*
+
+<!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->

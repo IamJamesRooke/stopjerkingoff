@@ -75,3 +75,5 @@ You've turned again. Now go back for your brothers.
 <!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md), callback added: a three-sentence paragraph before the last line: the reader brings the fire to the next man. -->
 
 <!-- 2026-11-20 (James: keep everything from the Bible as much as possible): Hydra wording replaced by the empty house and the five mouths. -->
+
+<!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->

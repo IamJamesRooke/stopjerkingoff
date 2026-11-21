@@ -44,7 +44,7 @@ Then one day you read something. It turns out thousands of people have this same
 
 Would you use the cream again?
 
-Would you need willpower to leave the tube in the drawer? Would you count the days, or call yourself a warrior? You might be uneasy for the first week, in case what you'd read was wrong. But as soon as you saw the patch shrinking, the wish for the cream would go. You wouldn't mope. You'd look at your arms every morning and grin.
+Would you need willpower to leave the tube in the drawer? Would you count the days, or call yourself a warrior? You might be uneasy for the first week, in case what you'd read was wrong. But as soon as you saw the patch shrinking, the wish for the cream would go. You wouldn't mope. You wouldn't sit around feeling sorry for yourself. You'd look at your arms every morning and grin.
 
 That is exactly what it's like to walk away from lust.
 
@@ -80,3 +80,5 @@ And one thing you get back can be counted on a clock.
 <!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). Exact changes are in the report sent to James. -->
 
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
+
+<!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->

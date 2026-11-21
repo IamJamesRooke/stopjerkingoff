@@ -35,3 +35,5 @@ That is every man in the trap. Three of them need more than a line, because each
 <!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): reader report 5 and 12: 'At Least I'm Not Him' moved back to follow this chapter, so the married man is not kept waiting behind four chapters about other men; 'he is being worked' softened. -->
 
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
+
+<!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->

@@ -78,3 +78,5 @@ The Attribution page names the other writers and speakers quoted in this book. A
 -->
 
 <!-- 2026-11-19 psych review fixes applied (editorial/PSYCH-REVIEW.md): see that file for the reasoning and sources. -->
+
+<!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->

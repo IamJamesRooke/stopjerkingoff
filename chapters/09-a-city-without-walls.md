@@ -73,3 +73,5 @@ Now, all of this has been pretty one-sided. You've heard at length what the habi
 <!-- 2026-11-19 listener's pass: the proverb is tied to the epigraph; the lever is introduced before it is used, and "an app" became "a screen" (evergreen); the closing bridge no longer points back at "these last few chapters". -->
 
 <!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). Exact changes are in the report sent to James. -->
+
+<!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->

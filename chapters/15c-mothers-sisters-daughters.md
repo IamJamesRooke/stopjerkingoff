@@ -20,7 +20,7 @@ A free man can.
 
 The feed has a cousin, and it looks respectable. It's the dating app.
 
-There is nothing wrong with wanting a wife, or with meeting her through a phone. Plenty of good marriages began that way. But be honest about why you open it. A man looking for a wife reads slowly and writes to one woman. A thirsty man swipes. He goes through fifty faces in five minutes and sorts each one in half a second. What he's after is the small jolt when one of them matches.
+There is nothing wrong with wanting a wife, or with meeting her through a phone. Plenty of good marriages began that way. But be honest about why you open it. A man looking for a wife reads slowly and writes to one woman. A hungry man swipes. He goes through fifty faces in five minutes and sorts each one in half a second. What he's after is the small jolt when one of them matches.
 
 One man told a newspaper that he swiped yes on every woman the app showed him. At his worst he was talking to ten at once. He wasn't looking for any of them. He wanted to know that women found him attractive.
 
@@ -61,3 +61,5 @@ That is the eye and the mind. The next mouth is the one most men know best.
 <!-- 2026-11-20 (James: keep everything from the Bible as much as possible): Hydra wording replaced by the empty house and the five mouths. -->
 
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
+
+<!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->

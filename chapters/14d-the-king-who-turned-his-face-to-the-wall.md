@@ -41,3 +41,5 @@ That is the chase. Samson and Ahab were led. The next man is sure that he is the
 <!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md): the head-by-head section was reordered, so the closing hook now leads to 'The Collector and the Customer'. -->
 
 <!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): reader report 5: a front-door line; 'the strongest man who ever lived' dropped here. -->
+
+<!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->

@@ -52,7 +52,7 @@ Her four instructions are yours, word for word.
 - **Don't let him down gently.** "Only this week" and "only on Saturdays" are a door left open an inch, and he hears them as hope.
 - **Then never answer again.** Arguing with him is contact. Bargaining with him is contact. Even telling him to go away is contact. When he calls, let it ring.
 
-There is one difference, and it is all in your favor. Her pursuer may be dangerous. Yours is not. Keep his size in view. The Little Monster is not ten feet tall. He is a pipsqueak you could kick the length of a football field. His only weapon is to annoy you.
+There is one difference, and it is all in your favor. Her pursuer may be dangerous. Yours is not. Keep his size in view. The Little Monster is not ten feet tall. He is a pipsqueak you could kick across the room. His only weapon is to annoy you.
 
 He is an itch, about as strong as a mosquito bite or a tag scratching at the back of your collar. He can't hurt you, and he can't make you do anything. Men have crossed oceans and built cities, and then taken orders from this.
 
@@ -69,3 +69,5 @@ So how does a caller like that ever get through?
 <!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): method M2: 'unbearable' contradicted the same chapter. -->
 
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
+
+<!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->

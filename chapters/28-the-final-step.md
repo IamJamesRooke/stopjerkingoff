@@ -28,7 +28,7 @@ Jesus asked for plain speech: "But let your 'Yes' be 'Yes' and your 'No' be 'No.
 
 ## If there is another person {-}
 
-One thing comes before the prayer. The decision you're about to make is yours, and so is what you do about it afterward. This book won't write that part for you. It asks only this. Make sure that nothing you are doing breaks the law, and that nothing you are doing is harming another person. If something is, you already know what it is. Don't carry it past today. And remember where the line is. Sex belongs inside marriage, so the No you're about to say covers any bed outside it.
+One thing comes before the prayer. The decision you're about to make is yours, and so is what you do about it afterward. This book won't write that part for you. It asks only this. Make sure that nothing you are doing breaks the law, and that nothing you are doing is harming another person. If something is, you already know what it is. Don't carry it past today. And remember where the line is. Sex belongs inside marriage, so the No you're about to say covers any bed outside it. If a woman you love is in that bed, this is not a No to her. It is a No to using her. The best thing you can bring her is a man who doesn't need to take.
 
 ## The prayer {-}
 
@@ -114,3 +114,5 @@ Do it now.
 <!-- 2026-11-20: added one sentence after the harm-and-law rule restating the marriage line (pastor review 2, H2). The rule itself is unchanged. -->
 
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
+
+<!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->

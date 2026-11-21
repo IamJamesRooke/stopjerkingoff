@@ -27,3 +27,5 @@ Some of the gains of stopping are ones you'll notice and enjoy on purpose. You'l
 That day is closer than you think.
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 08-what-its-doing-to-you.Rmd; the source notes for everything here are in that file. -->
+
+<!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->

@@ -48,3 +48,5 @@ Here are some older words to keep. Pick one or two and learn them by heart. They
 <!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md), callback added: rule 10 now names all five heads. -->
 
 <!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): pastor M5. -->
+
+<!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->

@@ -40,7 +40,7 @@ In Jesus's story the spirit came back with seven others. Count the ways your own
 
 **Chase.** This is lust doing your thinking around real women. The flirting you shouldn't be doing. The message you shouldn't be sending. The woman on a pedestal, and the money spent to make her notice you.
 
-**Take.** Sex outside marriage. The one-night stand, the affair, the sex a man pays for. And the one nobody likes to hear: the woman he loves and means to marry someday.
+**Take.** Sex outside marriage. The one-night stand, the affair, the sex a man pays for. And one case is not like the others, and it gets a fair hearing in this book. It is the bed a man shares with the woman he loves and hasn't married yet.
 
 Look, think, touch, chase, take. It is a ladder, and each rung leads to the next. It is also the oldest story there is. He saw her. He couldn't stop thinking about her. He went after her. He took her.
 
@@ -54,3 +54,5 @@ But before we look at what he has paid, one question has to be settled. Five mou
 SOURCES: Matthew 12:43-45 (WEB, checked 2026-11-20). Quoted verbatim: "I will return into my house from which I came out" (the WEB's inner quotation), "empty, swept, and put in order", and "The last state of that man becomes worse than the first." The rest is retold. Jesus applies the saying to "this evil generation"; the book uses it as his picture of how a thing put out by force returns, and says plainly that it is not telling the reader he has a spirit. Epigraph and body quotation: John 8:32, second sentence (WEB, checked 2026-11-20); the text notes that he was speaking of remaining in his word (8:31). "Tenant" picks up the Little Monster chapter's "you have a tenant ... he pays no rent"; the Little Monster is not named here because the reader has not met him yet. The five (look, think, touch, chase, take) are this book's own list. -->
 
 <!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): pastor M1: Jesus doesn't say 'by force'; it is one spirit with seven others; the owner of the house gets full weight and is not a substitute. -->
+
+<!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->

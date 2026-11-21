@@ -103,3 +103,5 @@ Don't lecture him or corner him. He already knows. Show him it can be left, ment
 If you're in crisis or thinking about harming yourself, please reach out now. The appendix says where to turn and who to ask. See [If you are in crisis](appendix-resources.html#if-you-are-in-crisis).
 
 <!-- 2026-11-19 listener's pass: the FAQ no longer says the appendix lists crisis lines, and matches Chapter 8's new body sections. -->
+
+<!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->

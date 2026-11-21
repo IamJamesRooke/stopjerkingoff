@@ -64,3 +64,5 @@ SOURCES (Fit for Service, unnumbered chapter before Chapter 28; added 2026-11-15
 <!-- 2026-11-20 (James: why isn't this a numbered chapter?): now numbered (printed Ch 49); everything after it moves up one. The page URL is unchanged. -->
 
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
+
+<!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
