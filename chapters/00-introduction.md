@@ -12,25 +12,25 @@ He is no weakling. He has given up harder things than this. Against this one thi
 
 There is no dragon.
 
-There is a small, smelly creature living in his back room. He has never paid a day's rent. He has no strength of his own. He lives on the meals the man carries up to him. When he gets hungry, he bangs on the floor.
+There is a little monster living in the back room upstairs. He is small, and he smells. He has no strength of his own. He lives on the meals the man carries up to him. When he gets hungry, he bangs on the floor.
 
-So why does the man keep him? Because the banging stops when he is fed. The quiet feels so good that the man takes it for rent.
+So why does the man keep feeding him? Because when he is fed, the banging stops. The quiet feels so good that the man thinks the little monster gave it to him. He says it helps him sleep. He says it takes the edge off.
 
-The creature is the Little Monster. The belief that he pays his way is the Big Monster. One lives in the back room. The other lives in the man's head, and it is the only thing holding him.
+That belief is the Big Monster. The creature upstairs is the Little Monster. One lives in the back room. The other lives in the man's head, and it is the only thing holding him.
 
-That is the picture this book is built on, and the rest of it is the proof. Nothing strong ever beat you. Something small fooled you, and you have been feeding him yourself.
+That is the picture this book is built on, and the rest of it is the proof. If you are that man, nothing strong ever beat you. Something small fooled you, and you have been feeding him yourself.
 
 Small is not the same as harmless. He has cost you plenty, and this book will count it.
 
-But this book will not ask you to try harder. You have tried harder. Every other method hands you a sword and points you at the dragon. No man wins a fight against something he still half wants.
+But this book will not ask you to try harder. You have tried harder. Every other method hands you a sword and points you at the dragon. No man wins a fight against something he still believes is doing him good.
 
 This book does one thing instead. It takes the Big Monster apart, lie by lie, until you see that the little one has nothing you want. A man who sees that needs no willpower. He just stops carrying dinner up the stairs.
 
-Here is what happens. You stop watching porn, and you stop masturbating. This book calls those two together *the habit*. Then the book goes after *lust* itself, the appetite behind the habit, wherever else it feeds. You stop making bad decisions with women because you're thinking with the wrong head. You stop for good, and you aren't miserable doing it.
+Here is what happens. You stop watching porn, and you stop masturbating. This book calls those two together *the habit*. Then the book goes after *lust* itself, the appetite behind the habit, wherever else it feeds. You stop letting the wrong head make your decisions about women. You stop for good, and you aren't miserable doing it.
 
 Nobody here will shame you or try to scare you. Shame and fear are what sent you back to the phone.
 
-Save your grit for something that deserves it. There are mountains to climb and children to raise. Don't let this be the battle that defines your life. The Little Monster is a pest. Evict him, and get on with your life.
+Save your grit for something that deserves it. There are mountains to climb and children to raise. Don't let this be the battle that defines your life. The Little Monster is a pest. Put him out, and get on with your life.
 
 One man who got out described it like this:
 
@@ -46,11 +46,11 @@ It takes about four hours, and nobody has to know you're reading it. Read it thi
 
 Nobody is telling you to sin. If you have already stopped, stay stopped. If you fall while you're reading, don't despair. Keep reading.
 
-Two things can't wait for the last chapter.
+There are two exceptions, and they can't wait for the last chapter.
 
 If your lust is hurting someone else, stop that today. That means an affair, paying for sex, pressing a woman who has said no, or anything against the law. Someone else is paying for it.
 
-And a book is not a doctor. This method has freed many men, but nobody has tested it in a clinic. Do you have thoughts of harming yourself? Did this begin after something was done to you as a child? Do your urges frighten you, or pull you toward anything illegal? Then see a doctor or a counselor now, and read this book alongside them. They have heard it before. The Appendix at the back says more. You are not beyond help.
+And a book is not a doctor. Nobody has tested this method in a clinic. If you have thoughts of harming yourself, see a doctor or a counselor now. Do the same if this began with something done to you as a child, or if your urges frighten you. Read this book alongside them. You are not beyond help, and the Appendix says more.
 
 If you are a woman, you are welcome here. The book says "he" throughout, but the trap is built the same for you, and so is the way out.
 

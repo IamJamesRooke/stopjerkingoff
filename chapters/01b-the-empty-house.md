@@ -24,9 +24,9 @@ This book works the other way around. Before anybody is put out, we look at what
 
 You will say he has paid something. He settles you. He gets you to sleep. He takes the edge off a bad day. Look closer at that payment. He bangs on the floor until you bring his dinner up. Then he stops banging. That quiet is the only rent he has ever paid, and it was your quiet to begin with.
 
-So he is no tenant. A tenant who pays nothing is a squatter. He leaves his dishes in your sink, and he smells. And look who has been paying his bills and carrying his meals up the stairs. You have.
+So he is no tenant. He is a freeloader. He leaves his dishes in your sink, and he smells. And look who has been paying his bills and carrying his meals up the stairs. You have.
 
-Then why is he still there? Nobody wants a squatter. You kept him because you believed he was paying.
+Then why is he still there? Nobody wants a freeloader in his house. You kept him because you believed he was paying.
 
 That belief is the Big Monster. It doesn't live in the back room. It lives in your head, and it is made of lies: he relaxes you, he helps you sleep, you would be lost without him. The Little Monster is the easy one. Stop feeding him and he goes quiet in days. In a few weeks he is gone. The Big Monster is what has held you for years, and this book takes it down one lie at a time.
 
@@ -42,7 +42,7 @@ Now look at how the Little Monster lives. He has no body of his own. He can't lo
 
 One warning about him. He never leaves when you shut a room. He moves down the hall. You will hear it in your own voice: "Fine, not that. But surely this is all right." When you hear that sentence, smile. That is him, changing rooms. This book follows him room by room, and it goes further than you expect. You don't have to agree to anything in advance. Judge each room when we get there.
 
-That is why this book asks you not to throw anything out yet. The day will come, near the end, when you show him the door. You'll do it once, and it will be easy, because by then you will know that he has nothing you want. You won't have to drag anyone out. Nobody evicts a squatter by sweeping. You stop believing he pays, and you stop carrying up his dinner. He leaves, and his friends leave with him.
+That is why this book asks you not to throw anything out yet. The day will come, near the end, when you show him the door. You'll do it once, and it will be easy, because by then you will know that he has nothing you want. You won't have to drag anyone out. Nobody gets rid of him by sweeping. You stop believing he pays, and you stop carrying up his dinner. He leaves, and his friends leave with him.
 
 That leaves the question you have asked yourself a hundred times. You aren't stupid. You have wanted him out for years. So why does it feel so hard?
 
