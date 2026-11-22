@@ -4,7 +4,7 @@
 
 | File | words | lust | porn | women/woman | masturbat/MO | habit | soldier/duty/fit | Little Monster | Big Monster | wrong head | thread (can't be trusted) |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| Intro | 850 | 2 | 1 | 3 | 1 | 2 | 0 | 2 | 3 | 1 | 0 |
+| Intro | 896 | 2 | 1 | 3 | 1 | 3 | 0 | 2 | 3 | 1 | 0 |
 | b | 978 | 0 | 2 | 1 | 1 | 4 | 0 | 1 | 2 | 0 | 0 |
 | c | 311 | 2 | 0 | 1 | 0 | 0 | 5 | 1 | 0 | 0 | 1 |
 | 1 | 1046 | 0 | 4 | 1 | 3 | 5 | 0 | 1 | 0 | 0 | 0 |
@@ -59,7 +59,7 @@
 | 26 | 962 | 0 | 0 | 3 | 0 | 2 | 0 | 2 | 1 | 0 | 0 |
 | 27 | 706 | 0 | 0 | 0 | 0 | 4 | 0 | 2 | 0 | 0 | 0 |
 | 27b | 796 | 5 | 0 | 0 | 0 | 1 | 15 | 0 | 0 | 0 | 0 |
-| 28 | 942 | 4 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 28 | 943 | 4 | 2 | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 |
 | 28a | 837 | 0 | 0 | 1 | 0 | 4 | 0 | 2 | 0 | 0 | 0 |
 | 28b | 554 | 0 | 1 | 1 | 0 | 2 | 0 | 0 | 0 | 0 | 0 |
 | 29 | 1205 | 2 | 0 | 0 | 0 | 8 | 0 | 2 | 0 | 0 | 0 |
@@ -74,12 +74,12 @@
 | faq | 1792 | 10 | 10 | 7 | 6 | 6 | 5 | 3 | 1 | 1 | 0 |
 | why-this-book | 1014 | 8 | 6 | 5 | 2 | 2 | 4 | 0 | 0 | 1 | 0 |
 
-## Overused words and phrases (book total 60049 words)
+## Overused words and phrases (book total 60096 words)
 
 | Word | Count | Per 1000 words | In how many files |
 |---|---|---|---|
-| nothing | 161 | 2.68 | 56 |
-| trap | 77 | 1.28 | 33 |
+| nothing | 160 | 2.66 | 56 |
+| trap | 76 | 1.26 | 32 |
 | a man who | 69 | 1.15 | 38 |
 | itch | 52 | 0.87 | 22 |
 | sin | 48 | 0.8 | 28 |
@@ -100,7 +100,7 @@
 | quite | 9 | 0.15 | 7 |
 | envy | 8 | 0.13 | 4 |
 | of course | 7 | 0.12 | 6 |
-| pipsqueak | 5 | 0.08 | 5 |
+| pipsqueak | 6 | 0.1 | 6 |
 | mope | 5 | 0.08 | 5 |
 | honestly | 3 | 0.05 | 3 |
 | chain | 3 | 0.05 | 1 |
@@ -121,14 +121,15 @@
 - "easy way to stop smoking" x6 in 1a, 34, attribution, faq, why-this-book
 - "a doctor or a counselor" x4 in 14d, 15, 34, Intro
 - "a man ruled by lust" x4 in 15c, 27b, faq, why-this-book
+- "belief is the big monster" x4 in 1b, 21, 5c, Intro
 - "for the rest of your" x4 in 1a, 33, 7, b
 - "has nothing to do with" x4 in 11c, 24, 8
 - "have already stopped stay stopped" x4 in 1, 17, 21, Intro
 - "if you have already stopped" x4 in 1, 17, 21, Intro
 - "quit porn and kept the" x4 in 14, 15, 4
+- "that belief is the big" x4 in 1b, 21, 5c, Intro
 - "the easy way to stop" x4 in 1a, 34, attribution, faq
 - "the man on the couch" x4 in 21, 22, 27, 33
 - "the man who never started" x4 in 1, 14, 3c, 8c
-- "thinking with the wrong head" x4 in 14d, Intro, faq, why-this-book
 - "who quit porn and kept" x4 in 14, 15, 4
 - "you have already stopped stay" x4 in 1, 17, 21, Intro

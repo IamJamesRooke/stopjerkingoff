@@ -1225,3 +1225,12 @@ Now go back to the man in the bed, and put one thing on his nightstand. A button
 Cut from reason 1 (the quote told a non-believer the chapter was not for him, and 'many, many' reads badly aloud):
 
 > A counselor on a Christian recovery blog saw it clearly: "Shame is the problem for so many, many Christians."
+
+
+## 2026-11-22, Introduction hard pass
+
+Cut (weak aloud, and it implied the man got out with this method):
+
+> One man who got out described it like this:
+>
+> > "I feel like coming out from a fog that has been around me all this time."
