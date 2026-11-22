@@ -22,7 +22,9 @@ Some men in the church at Corinth, a Greek city, had a slogan like that: "All th
 
 One man quit porn twice, and went back twice. Both times, he said, masturbation was what led him back.
 
-It isn't hard to see how. The hand never works alone. Ask what is playing while it happens, because something always is. It's a memory, or a face from the feed, or a woman from work. The hand is where the look and the thought turn into the act. For the man who quit porn, the film is usually porn. He is still watching it. He has moved the screen inside his head.
+It isn't hard to see how. The hand never works alone. Ask what is playing while it happens, because something always is. It's a memory, or a face from the feed, or a woman from work. The hand is where the look and the thought turn into the act. For the man who quit porn, the film is usually porn.
+
+Men have a name for the store of pictures a man keeps in his head for this. They call it the spank bank. A man who draws on it is still watching porn. He has moved the screen inside his head. It is weaker there, the way fruit juice is weaker than a can of cola. It is the same sugar, and he is still drinking too much of it.
 
 But a memory wears thin. It does a little less each time. So the hand goes looking for a stronger film, and it knows exactly where that film is kept. The man bolted the front door and left the back door standing open. Then he was surprised to find the same old visitor in his kitchen.
 
@@ -67,3 +69,5 @@ The uninvited guest picks up his blanket and moves down the hall. "Fine. But a s
 <!-- 2026-11-22 AT LEAST (James: 'What I really want is for ME to be convinced and not even want these things... I'm jerking off but at least not watching porn / I'm not jerking off but at least I'm with a real woman / I'm jerking off but it's only thinking about other woman, not doing anything about it... I still feel myself believing the lies'; 'each door must be sequentially shut'). 'It is real progress' and 'he should be' proud are gone: leaving porn is a change for the women on the screen and no change for him. The first bargain is quoted in James's words and taken apart (nobody says 'at least' about a thing he is glad of; the monster got his dinner; he is still watching porn, from memory). -->
 
 <!-- 2026-11-22 LEAKS closed after a test reader who bargains as James does. Closes 'now it's only me, and using myself has no victim', 'mine doesn't lead back to porn' and the single man's 'then he marries'. The door no longer says 'if you do reach, watch'. -->
+
+<!-- 2026-11-22 (James: 'When you're jerking off thinking about all your spank bank fantasies you are STILL watching porn... comparing fruit sugars to a coca cola. But it's still porn. The same thing. Too much.'): the spank bank paragraph, with the term explained in place. -->
