@@ -16,7 +16,7 @@ One man tried such a deal for Lent, the forty days before Easter when many Chris
 
 A limit sounds like the grown-up option. It keeps plenty of men caught for life. Four things happen to the man who sets one.
 
-1. **He gets the worst of both worlds.** He's still feeding the Little Monster, so the itch never dies. He also thinks about the habit more than he ever did, so the Big Monster grows fat as well.
+1. **He gets the worst of both worlds.** He's still feeding the Little Monster, so the itch never dies. He also thinks about the habit more than he ever did, so the Big Monster gets bigger as well.
 2. **He wishes his life away.** Monday to Friday become a corridor he has to walk down. He's a grown man counting sleeps until Saturday.
 3. **He carries the itch all week.** Before the limit, he gave in when the urge came, and the restlessness at least eased for a while. Now he drags it through six days out of seven. He gets short with his wife and kids and can't think why.
 4. **Every time becomes "special".** Before, most times were automatic. He barely noticed them, and he certainly didn't treasure them. Now that he has waited six days, Saturday night feels like Christmas.

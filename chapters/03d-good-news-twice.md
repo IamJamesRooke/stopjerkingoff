@@ -14,7 +14,7 @@ Think of the week you spent at your in-laws, sleeping in the guest room with the
 
 Then you got home, shut the bedroom door, and the Little Monster was up and shouting before you'd unpacked.
 
-So what changed? Your body didn't. It was the same body in the tent as in the bedroom. The cue came back, and the expectation came with it. The Little Monster keeps quiet when he knows nothing is coming, and he wakes up the second it might be. What you felt wasn't need. It was expectation.
+So what changed? Your body didn't. It was the same body in the tent as in the bedroom. The cue came back, and the expectation came with it. He keeps quiet when he knows nothing is coming, and he wakes up the second it might be. What you felt wasn't need. It was expectation.
 
 That means the flesh's part in the habit is easy to live with, even now, while you're still in it. It's why some men do it once every two weeks all their lives, and are every bit as caught as the daily man. It's also why a man can go a year clean, have "just one", and be back on the old path within the week.
 

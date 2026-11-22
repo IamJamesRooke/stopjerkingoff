@@ -222,3 +222,11 @@ never at the reader's body.
 - The sextortion warning moved from The Men Still on the Ship to "To parents".
 - Fit for Service: David cut to the one point (who was fit for service); the full telling stays in A City Without Walls.
 - Printed order and numbers are listed in STYLE.md. Cuts are in editorial/PARKING.md.
+
+## The central picture (decided 2026-11-22, James: "deep think, decide what to do")
+
+- **The house** is Jesus's swept and empty house (Matthew 12:43-45).
+- **The Little Monster** is the creature in the back room, and that is his name from the Introduction on. He is the small restless craving. He only bangs, taps, nags and gets fed. He never talks, lies, plots, pays or grows. "Pipsqueak" is for jokes. "Squatter" is only what he is (a lodger who pays no rent) and stays in The Empty House, The Willpower Method and The Final Step. Don't call him a tenant after The Empty House says he is none.
+- **The Big Monster** is why a man keeps him: the belief that the little one pays his way. The only rent he pays is a rest from his own banging. It is built from every lie told about the habit. It is always "it", it lives in the man's head, and it does all the talking. It is taken down or seen through, never fed, starved, woken or killed.
+- **His fate:** the one No puts him out. He knocks and rings from outside for days and is gone in a few weeks. Inside the house he bangs on the floor; outside it he rings the telephone.
+- He moves from room to room when a room is shut. The punt joke lives in The Empty House.

@@ -52,7 +52,7 @@ It does seem to. You masturbate, and you drop off. Case closed?
 
 Ask who was keeping you awake. You slept like a stone when you were nine. The man who never started this is asleep ten minutes after his head touches the pillow, and he needed no help. Only you lie there restless, and only you have a Little Monster banging on the floor.
 
-So the habit didn't give you sleep. It took your sleep, and every night it rents a little of it back to you. Then you thank it.
+So the habit didn't give you sleep. It took your sleep, and every night it sells a little of it back to you. Then you thank it.
 
 A man who wears tight shoes all day for the pleasure of taking them off isn't enjoying a benefit. Every "benefit" on that list works the same way, and each one gets its turn.
 

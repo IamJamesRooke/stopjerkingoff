@@ -20,7 +20,7 @@ Men say afterward that the habit "came back". Nothing came back. He picked up.
 
 And what does a man get for picking up?
 
-If the Little Monster is still alive, he gets a few minutes of quiet, and he teaches the caller how many times to ring. If the Little Monster is long dead, he gets nothing at all. A free man has no itch to relieve. He gets ten flat minutes and feels like a fool.
+If the Little Monster is still alive, the man gets a few minutes of quiet. He also teaches the caller how many times to ring. If the Little Monster is long dead, he gets nothing at all. A free man has no itch to relieve. He gets ten flat minutes and feels like a fool.
 
 What follows is always the same. The flatness lands, and it's so grim that the man is certain nothing this miserable could ever hook him again.
 

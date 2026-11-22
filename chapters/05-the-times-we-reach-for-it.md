@@ -4,7 +4,7 @@
 >
 > — Matthew 11:28
 
-The Big Monster isn't one lie. He's a pile of small ones, and each is tied to a moment in your day. "It helps me when I'm stressed." "It's the only way I get to sleep." "It's my reward."
+The Big Monster isn't one lie. It's a pile of small ones, and each is tied to a moment in your day. "It helps me when I'm stressed." "It's the only way I get to sleep." "It's my reward."
 
 A man who quits by willpower leaves that pile standing. He stops the habit but goes on believing in it. So every bad day and every sleepless night he feels robbed. Sooner or later he goes back for what he thinks is his. We're going to take the pile apart, one occasion at a time.
 
@@ -14,7 +14,7 @@ First look at the urge itself, because fear and the lies work as a team. What do
 
 Most of the urge is the fear of the urge.
 
-It is the dread of being left wanting and miserable. The Little Monster only whispers. Fear turns the whisper into a roar.
+It is the dread of being left wanting and miserable. The Little Monster only taps on the floor. Fear turns the tap into thunder.
 
 That's how men can still be pining a year after they stopped. Nothing in the body lasts a year. The pining is all in the head.
 
@@ -38,7 +38,7 @@ Jesus made an invitation to the tired and the weighed-down: "Come to me, all you
 
 ## "I've earned it" {-}
 
-The bad day has a cousin, and it is the good day. "I've worked hard, I've been good, I've earned it." Look at the prize you're awarding yourself. No other trophy has to be cleared from the history afterward. One coach, who is no preacher, gives the reason it never feels like a prize: "masturbation gives you the reward without the effort". A reward without the effort isn't a reward. It's a bribe, paid by the Little Monster to keep you where you are.
+The bad day has a cousin, and it is the good day. "I've worked hard, I've been good, I've earned it." Look at the prize you're awarding yourself. No other trophy has to be cleared from the history afterward. One coach, who is no preacher, gives the reason it never feels like a prize: "masturbation gives you the reward without the effort". A reward without the effort isn't a reward. It's a bribe, and you pay it yourself, to keep the Little Monster quiet.
 
 Those are the big days. Most of the habit happens on the small ones, in the last hour before sleep.
 

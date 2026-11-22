@@ -16,7 +16,7 @@ I know how that sounds. If I told you to run a marathon in under three hours, th
 
 There isn't one. Men create the difficulty themselves, by using the Willpower Method. I mean any way of quitting that leaves a man feeling he has sacrificed something. He blocks the sites, and a week later he unblocks them.
 
-It is the swept and empty house. A man puts the tenant out and keeps the room ready, and the tenant comes back with company.
+It is the swept and empty house. A man puts the Little Monster out and keeps his room ready, and he comes back with company.
 
 Some men are sorry to hear that it's easy. They wanted a war, with long nights, a clenched jaw and a medal at the far end. A squatter gives no medals. And nobody wants it on his gravestone that he fought his own hand for fifty years.
 
@@ -40,7 +40,7 @@ And fighting wears a man down. Every night he holds out by force, he has a littl
 
 Suppose he gets through the first few days. He feels a bit brighter, with a little more spring in the mornings. And the reasons that made him stop are already fading.
 
-Meanwhile the Little Monster hasn't been fed. His hunger doesn't hurt. If a head cold felt like that, you wouldn't even mention it. But he knows what he wants, so he wakes the Big Monster. Now watch something remarkable. Three days ago this man was listing every reason to stop. Now he hunts, just as earnestly, for a reason to start:
+Meanwhile the Little Monster hasn't been fed. His hunger doesn't hurt. If a head cold felt like that, you wouldn't even mention it. But the hunger is enough to start the Big Monster talking. Now watch something remarkable. Three days ago this man was listing every reason to stop. Now he hunts, just as earnestly, for a reason to start:
 
 - "Life's short. There are worse sins."
 - "I can't think straight. I'm snapping at everyone. I can't do my job like this."

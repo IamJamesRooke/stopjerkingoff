@@ -14,11 +14,11 @@ There is no dragon.
 
 There is a small, smelly creature living in his back room. He has never paid a day's rent. He has no strength of his own. He lives on the meals the man carries up to him. When he gets hungry, he bangs on the floor.
 
-So why does the man keep him? Because of the one trick the creature knows. He bangs until he is fed, and then he stops. The quiet feels so good that the man thinks he was given something. He takes the silence for rent.
+So why does the man keep him? Because the banging stops when he is fed. The quiet feels so good that the man takes it for rent.
 
-This book calls the creature the Little Monster. It calls the belief that he pays his way the Big Monster. The little one lives in the back room. The big one lives in the man's head, and it is the only thing that holds him.
+The creature is the Little Monster. The belief that he pays his way is the Big Monster. One lives in the back room. The other lives in the man's head, and it is the only thing holding him.
 
-That is the picture this book is built on, and the rest of it is the proof. The thing that has beaten you for years isn't strong. It is small, and you have been feeding it yourself.
+That is the picture this book is built on, and the rest of it is the proof. Nothing strong ever beat you. Something small fooled you, and you have been feeding him yourself.
 
 Small is not the same as harmless. He has cost you plenty, and this book will count it.
 

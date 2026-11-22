@@ -35,7 +35,7 @@ But the main reason these men fail is that they were never fully committed. Two 
 1. **Certainty.**
 2. **"Isn't it marvelous that I don't need it anymore?"**
 
-So what's the hatch *for*? If you still want one, something hasn't clicked. Re-read the book and kill the Big Monster properly.
+So what's the hatch *for*? If you still want one, something hasn't clicked. Re-read the book and take the Big Monster down properly.
 
 ## The phone in the bedroom {-}
 

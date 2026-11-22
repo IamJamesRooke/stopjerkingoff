@@ -38,7 +38,7 @@ After that, the two of you have real choices. You can bring the wedding forward.
 
 Only one choice is closed. Don't tell yourself you'll sort it out later and go on as before. "Later" is the Little Monster's favorite word.
 
-That is every room in the house. One thing has kept the Little Monster alive in all of them for years, and it isn't desire. It is a locked door.
+That is every room in the house. One more thing has kept the Little Monster alive in all of them for years, and it isn't desire. It is a locked door.
 
 <!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md): NEW CHAPTER, the hardest case under the fifth head, Take. The man is an anonymous archetype (STYLE.md, archetypal stories), written at James's direction: keep the biblical view as the ideal. No quotations and no statistics. -->
 

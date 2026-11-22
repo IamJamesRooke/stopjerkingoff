@@ -28,15 +28,15 @@ So he is no tenant. A tenant who pays nothing is a squatter. He leaves his dishe
 
 Then why is he still there? Nobody wants a squatter. You kept him because you believed he was paying.
 
-That belief is the Big Monster. It doesn't live in the back room. It lives in your head, and it is made of lies: he relaxes you, he helps you sleep, you would be lost without him. The Little Monster is the easy one. Stop feeding him and he is gone in days. The Big Monster is what has held you for years, and this book takes it down one lie at a time.
+That belief is the Big Monster. It doesn't live in the back room. It lives in your head, and it is made of lies: he relaxes you, he helps you sleep, you would be lost without him. The Little Monster is the easy one. Stop feeding him and he goes quiet in days. In a few weeks he is gone. The Big Monster is what has held you for years, and this book takes it down one lie at a time.
 
 Nobody else can put him out for you. And you have never truly tried, because some part of you still thought he was worth keeping.
 
-Once a man has seen that, there is no vacancy. There is nothing for the tenant to come back to.
+Once a man has seen that, there is no vacancy. There is nothing for him to come back to.
 
 Jesus gave the order of things in one line: "You will know the truth, and the truth will make you free." He was speaking of his own teaching, and a Christian will take it that way. But notice the order, because it holds for any man. Knowing comes first, and freedom follows. He didn't say that effort will make you free.
 
-A Christian will say more. Jesus's story is about a house left empty, and a house isn't meant to stand empty. It has an owner, and he means to live in it. He doesn't come as a substitute for the tenant. He was the owner all along.
+A Christian will say more. Jesus's story is about a house left empty, and a house isn't meant to stand empty. It has an owner, and he means to live in it. He doesn't come to fill a gap. He was the owner all along.
 
 Now look at how the Little Monster lives. He has no body of his own. He can't look at anything, or touch anything, or go anywhere. Everything he gets, he gets with what you lend him: your eyes, your mind and your hand. From some men he has borrowed more than that.
 

@@ -12,7 +12,7 @@ One man in the trap put the entire thing in seven words:
 
 That is the only reason any man carries on, three times a day or twice a month. He's feeding the Little Monster.
 
-And the Little Monster isn't picky. A video feeds him. A fantasy feeds him. A long look at a stranger feeds him. It's all one diet, and it all goes to one small belly.
+And the little one isn't picky. A video feeds him. A fantasy feeds him. A long look at a stranger feeds him. It's all one diet, and it all goes to one small belly.
 
 What a man calls the pleasure is only the pleasure of getting back to how he'd have felt anyway. He's trying to return to the peace and ease he had as a boy, before any of this started. And he keeps using the very thing that took it from him.
 

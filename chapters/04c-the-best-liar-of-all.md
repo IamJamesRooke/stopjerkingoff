@@ -6,7 +6,7 @@ Men in the trap aren't weak-willed. It takes real stamina to keep up a secret fo
 
 Nobody argues with himself about whether to give up golf. About the habit we argue every night, and we think that's normal.
 
-So from now on, treat every word in favor of the habit like a pushy salesman. That includes your own words. Smile and nod, and don't sign. That goes for "you need it" and for "it's who you are". It also goes for the idea of a safe version. "Only in the shower", "only without a screen" and "only on weekends" were all invented by the Little Monster. Keep asking yourself two questions. "Why am I doing this? Do I actually need to?"
+So from now on, treat every word in favor of the habit like a pushy salesman. That includes your own words. Smile and nod, and don't sign. That goes for "you need it" and for "it's who you are". It also goes for the idea of a safe version. "Only in the shower", "only without a screen" and "only on weekends" are all the Big Monster, bargaining for the little one's dinner. Keep asking yourself two questions. "Why am I doing this? Do I actually need to?"
 
 Of course you don't.
 
