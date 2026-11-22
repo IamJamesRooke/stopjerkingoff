@@ -16,7 +16,7 @@ That is the trouble with lust. It doesn't care who she is. It will use a strange
 
 The photograph is half of it. The other half is the bed. You know the old word, fornication. It doesn't ask whether he loves her. It asks whether he has married her. "We're as good as married", he says. Listen to the words. Everything that makes a marriage is in the part he hasn't done yet. That part is the promise, said aloud in front of witnesses, with the door closed behind him. If they truly are as good as married, the wedding is good news, and it can be small and soon. And if there is a reason he can't marry her yet, he already knows the two are not the same.
 
-Perhaps you say the promise is already made, in private, and a wedding adds nothing. Then ask what the private promise leaves open. It leaves a way out that costs you nothing and needs nobody's leave. She knows that door is there, and so do you. A promise said in front of witnesses shuts it. If you would shut it gladly, shut it. If you wouldn't, you have your answer.
+Perhaps you say the promise is already made, in private, and a wedding adds nothing. Then ask what the private promise leaves open. It leaves a way out that costs you nothing and needs nobody's leave. She knows that door is there, and so do you. A promise said in front of witnesses makes that door cost something. If you would pay that gladly, pay it. If you wouldn't, you have your answer.
 
 Yes, people break public promises too. That is a reason to keep a promise. It is no reason to avoid making one.
 
@@ -65,3 +65,5 @@ That is every room in the house. One excuse is left over from this one, and it w
 <!-- 2026-11-22 whole-book test as James (he said the No to the screen, the hand, the feed and the film, and stopped at 'any bed outside marriage'). New closing hook into the two new chapters for the dating man and the man who may never marry. -->
 
 <!-- 2026-11-22 third whole-book test as James (he now says the whole No, but holds back the warm bed with a woman he liked; 'I say the clause as a better policy, not as a man who sees nothing in the room'). Fixes from that test; see the commit of this date. -->
+
+<!-- 2026-11-22 Skeptic read: witnesses make the door cost something; they don't shut it. -->

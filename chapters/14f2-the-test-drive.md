@@ -38,7 +38,7 @@ In 2023 two American sociologists published a study of about seven thousand marr
 
 Living together is the long test drive. A 2023 report surveyed about 1,600 Americans who first married between 2010 and 2019. Of those who moved in before they were engaged, 34 percent had seen the marriage end. Of those who waited for the engagement or the wedding, 23 percent had. The ones who said they moved in to test the relationship did worse than the ones who gave other reasons.
 
-Be fair to the numbers. They count what happened. They don't prove what caused it. Researchers still argue over why, and some say the real danger is moving in too young. But nobody in that argument has found that testing first makes a marriage last.
+Be fair to the numbers. They count what happened. Many of the people with no earlier partners are religious, and that may be part of it. They don't prove what caused it. Researchers still argue over why, and some say the real danger is moving in too young. But nobody in that argument has found that testing first makes a marriage last.
 
 ## What you need to know {-}
 
@@ -57,3 +57,5 @@ Two men are still standing in the hall, and neither has a fiancée. The first is
 <!-- 2026-11-22 RESEARCH FOLDED IN (full notes and limits in research/marriage-dossier-2026-11-22.md). CHECK EACH QUOTATION AGAINST ITS PAGE BEFORE PRINT. Sources: (1) Driscoll, sermon on 1 Corinthians 6:12-7:7, 23 April 2006, transcript on his own site, https://realfaith.com/sermons/good-sex-bad-sex/ ; the words are a fragment of a longer sentence. His reported 'test drive' wording could NOT be verified and is not quoted. (2) Smith and Wolfinger, 'Re-Examining the Link Between Premarital Sex and Divorce', Journal of Family Issues, published online 2023, https://pmc.ncbi.nlm.nih.gov/articles/PMC10989935/ ; 7,030 ever-married people; odds 3.20 for nine or more partners in the late-marrying group; 'There is no evidence of gender differences.' Correlation; early marriages only. (3) Stanley and Rhoades, 'What's the Plan? Cohabitation, Engagement, and Divorce', Institute for Family Studies, April 2023, N = 1,621, https://ifstudies.org/reports/whats-the-plan-cohabitation/2023/executive-summary ; 34% against 23%; 'testing the relationship' was linked to greater odds of the marriage ending. (4) The dissent: Kuperberg 2014 and 2018 (age at moving in), https://thesocietypages.org/ccf/?p=1769 . -->
 
 <!-- 2026-11-22 third whole-book test as James (he now says the whole No, but holds back the warm bed with a woman he liked; 'I say the clause as a better policy, not as a man who sees nothing in the room'). Fixes from that test; see the commit of this date. -->
+
+<!-- 2026-11-22 Skeptic read: the religion confound is named. -->
