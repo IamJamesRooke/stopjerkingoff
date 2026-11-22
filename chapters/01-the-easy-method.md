@@ -84,15 +84,19 @@ Later I joined a men's recovery group at a church. It was a circle of folding ch
 
 The group, though, fought the way everyone fights, with willpower. That seemed backward to me. If grace is real, freedom shouldn't be an arm-wrestle that lasts for life.
 
-That room changed how I saw something else too. Modernity teaches an ideology of social justice, and it glorifies the victim. You are good, and they are evil. Society is "problematic", its faults are "systemic", and the traditional values of the West must be torn down. Christianity teaches the opposite. It says we are all sinners. Every one of us is the villain in somebody else's story. I am the villain in several. Human nature is not basically good. Rape, slavery and slaughter are the default, and history is the record of it. Morality has to be taught, and we all fall short of it.
+That room changed how I saw something else too. Modernity teaches an ideology of social justice, and it glorifies the victim. You are good, and they are evil. Society is "problematic", its faults are "systemic", and the traditional values of the West must be torn down.
+
+Christianity teaches the opposite. It says we are all sinners. Every one of us is the villain in somebody else's story. I am the villain in several. Human nature is not basically good. Rape, slavery and slaughter are the default. Just read a history book. Morality has to be taught, and we all fall short of it.
 
 Aleksandr Solzhenitsyn, a Russian writer who survived the Soviet labor camps, said the line between good and evil runs through every human heart. Jordan Peterson, a Canadian psychologist, says it more plainly: clean your room before you fix the world.
 
 I had been praying for months, asking God how to fix the world. That is a large request from a man who couldn't manage his own evenings. Then one night, at the eleventh hour, a thought came, and it wasn't about the world. It was about my own room.
 
-Men are sedated. Look at one ordinary evening. A man comes home tired and pours a drink to take the edge off. He eats something out of a bag. He plays a game until midnight, scrolls for an hour, and finishes on a porn site. None of it is a crime. All of it is anesthetic. By morning he is anxious and can't say why, and he is half sure that nothing matters anyway. He looks at the news and the price of a house, and decides the game is rigged. He is not entirely wrong. But a sedated man can't fix a rigged game. He can't even fix his room. I was that man.
+Men are sedated. Look at one ordinary evening. A man comes home tired and pours a drink to take the edge off. He eats a burger and fries out of a paper bag, and a sleeve of cookies after. He plays a game until midnight, scrolls for an hour, and finishes on a porn site. None of it is a crime. All of it is anesthetic. By morning he is anxious and can't say why, and he is half sure that nothing matters anyway. He looks at the news and the price of a house, and decides the game is rigged. He is not entirely wrong. But a sedated man can't fix a rigged game. He can't even fix his room. I was that man.
 
 I couldn't cure all of it. I only wanted to be cured of one thing, lust. I looked for a book like that free one, but one that went past porn to lust itself. I couldn't find it. So this book was written for one reader, me. It was written to do what years of fighting never did. Then I gave it away, because I am not the only one.
+
+In that church I saw the problem was bigger than I had thought. The men in the pews have it too. If I ran a church, I would throw everything at this one thing. Get the men to stop jerking off, stop watching porn and stop simping, which is groveling after women for crumbs of attention. Do that, and you change the church for good. It fills up with men who have balls, and who spend that energy on doing something.
 
 Most of the men you'll meet in these pages, I have been. If a man like me can see through this, so can you. That is enough about me.
 
