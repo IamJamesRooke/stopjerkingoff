@@ -84,7 +84,7 @@ That room changed how I saw something else too. Social justice ideology teaches 
 
 Aleksandr Solzhenitsyn was a Russian writer who spent eight years in the Soviet labor camps. He came out saying that the line between good and evil does not run between us and them. It runs through every human heart. Jordan Peterson, a Canadian psychologist, puts it more plainly: clean your own room before you try to fix the world.
 
-I had been praying for months, asking God how to fix the world. One night I woke with the answer, and it wasn't about the world. It was about my own room. Men are sedated. Porn, games, junk food and drink have put a generation half to sleep, and I was one of them. I wanted a book like that free one, but one that went past porn and woke men up. I couldn't find it, so this is that book.
+I had been praying for months, asking God how to fix the world. Then one night, at the eleventh hour, the answer came, and it wasn't about the world. It was about my own room. Men are sedated. Porn, games, junk food and drink have put a generation half to sleep, and I was one of them. I wanted a book like that free one, but one that went past porn and woke men up. I couldn't find it, so this is that book.
 
 Most of the men you'll meet in these pages, I have been. That is all you need to know about me.
 
