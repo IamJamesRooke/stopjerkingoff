@@ -12,7 +12,11 @@ He is no weakling. He has given up harder things than this. Against this one thi
 
 There is no dragon.
 
-There is a small, smelly squatter living in his back room. He has never paid a day's rent. He has no strength of his own. He lives on the meals the man carries up to him. When he gets hungry, he bangs on the floor.
+There is a small, smelly creature living in his back room. He has never paid a day's rent. He has no strength of his own. He lives on the meals the man carries up to him. When he gets hungry, he bangs on the floor.
+
+So why does the man keep him? Because of the one trick the creature knows. He bangs until he is fed, and then he stops. The quiet feels so good that the man thinks he was given something. He takes the silence for rent.
+
+This book calls the creature the Little Monster. It calls the belief that he pays his way the Big Monster. The little one lives in the back room. The big one lives in the man's head, and it is the only thing that holds him.
 
 That is the picture this book is built on, and the rest of it is the proof. The thing that has beaten you for years isn't strong. It is small, and you have been feeding it yourself.
 
@@ -20,13 +24,13 @@ Small is not the same as harmless. He has cost you plenty, and this book will co
 
 But this book will not ask you to try harder. You have tried harder. Every other method hands you a sword and points you at the dragon. No man wins a fight against something he still half wants.
 
-This book does one thing instead. It shows you, lie by lie, that this freeloader has nothing you want. A man who sees that needs no willpower. He just stops carrying dinner up the stairs.
+This book does one thing instead. It takes the Big Monster apart, lie by lie, until you see that the little one has nothing you want. A man who sees that needs no willpower. He just stops carrying dinner up the stairs.
 
 Here is what happens. You stop watching porn, and you stop masturbating. This book calls those two together *the habit*. Then the book goes after *lust* itself, the appetite behind the habit, wherever else it feeds. You stop making bad decisions with women because you're thinking with the wrong head. You stop for good, and you aren't miserable doing it.
 
 Nobody here will shame you or try to scare you. Shame and fear are what sent you back to the phone.
 
-Save your grit for something that deserves it. There are mountains to climb and children to raise. Don't let this be the battle that defines your life. The squatter is a pest. Evict him, and get on with your life.
+Save your grit for something that deserves it. There are mountains to climb and children to raise. Don't let this be the battle that defines your life. The Little Monster is a pest. Evict him, and get on with your life.
 
 One man who got out described it like this:
 
@@ -36,7 +40,7 @@ This book quotes the Bible and takes God seriously. If you believe, you'll find 
 
 It takes about four hours, and nobody has to know you're reading it. Read it this week. There are two rules.
 
-**DO NOT SKIP CHAPTERS.** They are short. Each one takes away one thing the squatter lives on, and the last step only works if the others came first.
+**DO NOT SKIP CHAPTERS.** They are short. Each one takes down one lie the Big Monster is made of, and the last step only works if the others came first.
 
 **Don't try to quit while you read.** Make no vows, start no streaks, and don't cut down. Everything you have been told says to try harder and reset the counter. Has any of it worked?
 

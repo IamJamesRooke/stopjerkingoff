@@ -57,7 +57,7 @@ Whichever kind of urge turns up, accept it. The feeling itself isn't bad. What h
 
 "I know what this is. It's the Little Monster dying. Men in the trap live with this every day of their lives. Free men don't have it. ISN'T IT MARVELOUS that I'm nearly rid of it?"
 
-For a few weeks there'll be a small disturbance in you, and all through those weeks something wonderful is happening. You're starving a squatter, and he will try every trick he has to get fed. He will catch you off guard, when something flashes up on your feed and for a second you forget you've stopped. Each trick you see through leaves him weaker.
+For a few weeks there'll be a small disturbance in you, and all through those weeks something wonderful is happening. You're starving the Little Monster, and he will try every trick he has to get fed. He will catch you off guard, when something flashes up on your feed and for a second you forget you've stopped. Each trick you see through leaves him weaker.
 
 Paul says two things about these moments. "No temptation has taken you except what is common to man", so you're not a special case. And "God is faithful", he says, and will "make the way of escape". So there is always a way out. Usually the way out is simply to let the moment pass.
 

@@ -8,7 +8,7 @@ You don't have to believe in spirits to know that house, and the story isn't her
 
 You have swept that house many times.
 
-You swore off porn, and for three weeks you were clean. Then you noticed you were spending an hour a night scrolling past women in swimsuits and calling it nothing. Or you deleted every app and blocked every site, and the reel in your memory started up in their place. Or you stopped the whole business by force, and poured the same hunger into chasing a woman who didn't want you. You threw one thing out, and it came back with company. That is how it goes with a squatter. Keep his room ready, and he brings his friends. They are as small as he is, and they smell just as bad.
+You swore off porn, and for three weeks you were clean. Then you noticed you were spending an hour a night scrolling past women in swimsuits and calling it nothing. Or you deleted every app and blocked every site, and the reel in your memory started up in their place. Or you stopped the whole business by force, and poured the same hunger into chasing a woman who didn't want you. You threw one thing out, and it came back with company. That is how it goes with the Little Monster. Keep his room ready, and he brings his friends. They are as small as he is, and they smell just as bad.
 
 No wonder it feels unbeatable. No wonder you decided the fault was in you.
 
@@ -20,9 +20,17 @@ The man did all the right things, as far as he knew. He put the tenant out. He s
 
 That is what quitting by force is. A man stops the act and goes on believing that it gave him something. It relaxed him. It helped him sleep. It made him feel wanted. So there is a gap in his life where it used to be, and a gap gets filled.
 
-This book works the other way around. Before anybody is put out, we look at what this tenant has really done for you all these years. What rent has he paid? What has he ever mended? You will find that he has paid nothing and broken a great deal, and that the room was never short of him. It was never his room. You have been treating him as a tenant, and a tenant who pays nothing is only a squatter.
+This book works the other way around. Before anybody is put out, we look at what this tenant has really done for you all these years. What rent has he paid? What has he ever mended?
 
-So why is he still there? A man keeps a squatter for one of two reasons. He believes the freeloader gives him something. Or he has grown so used to him that he thinks he has a right to stay. This one has given you nothing, and he has no right. He is a freeloader, and it is your house. He leaves his dishes in your sink, and he smells. And look who has been paying his bills and carrying his meals up the stairs. You have. Nobody else can put him out for you. And you have never truly tried, because some part of you still thought he was worth keeping.
+You will say he has paid something. He settles you. He gets you to sleep. He takes the edge off a bad day. Look closer at that payment. He bangs on the floor until you bring his dinner up. Then he stops banging. That quiet is the only rent he has ever paid, and it was your quiet to begin with.
+
+So he is no tenant. A tenant who pays nothing is a squatter. He leaves his dishes in your sink, and he smells. And look who has been paying his bills and carrying his meals up the stairs. You have.
+
+Then why is he still there? Nobody wants a squatter. You kept him because you believed he was paying.
+
+That belief is the Big Monster. It doesn't live in the back room. It lives in your head, and it is made of lies: he relaxes you, he helps you sleep, you would be lost without him. The Little Monster is the easy one. Stop feeding him and he is gone in days. The Big Monster is what has held you for years, and this book takes it down one lie at a time.
+
+Nobody else can put him out for you. And you have never truly tried, because some part of you still thought he was worth keeping.
 
 Once a man has seen that, there is no vacancy. There is nothing for the tenant to come back to.
 
@@ -30,11 +38,11 @@ Jesus gave the order of things in one line: "You will know the truth, and the tr
 
 A Christian will say more. Jesus's story is about a house left empty, and a house isn't meant to stand empty. It has an owner, and he means to live in it. He doesn't come as a substitute for the tenant. He was the owner all along.
 
-Now look at how the squatter lives. He has no body of his own. He can't look at anything, or touch anything, or go anywhere. Everything he gets, he gets with what you lend him: your eyes, your mind and your hand. From some men he has borrowed more than that.
+Now look at how the Little Monster lives. He has no body of his own. He can't look at anything, or touch anything, or go anywhere. Everything he gets, he gets with what you lend him: your eyes, your mind and your hand. From some men he has borrowed more than that.
 
 One warning about him. He never leaves when you shut a room. He moves down the hall. You will hear it in your own voice: "Fine, not that. But surely this is all right." When you hear that sentence, smile. That is him, changing rooms. This book follows him room by room, and it goes further than you expect. You don't have to agree to anything in advance. Judge each room when we get there.
 
-That is why this book asks you not to throw anything out yet. The day will come, near the end, when you show him the door. You'll do it once, and it will be easy, because by then you will know that he has nothing you want. You won't have to drag anyone out. Nobody evicts a squatter by sweeping. You stop carrying up his dinner. He leaves, and his friends leave with him.
+That is why this book asks you not to throw anything out yet. The day will come, near the end, when you show him the door. You'll do it once, and it will be easy, because by then you will know that he has nothing you want. You won't have to drag anyone out. Nobody evicts a squatter by sweeping. You stop believing he pays, and you stop carrying up his dinner. He leaves, and his friends leave with him.
 
 That leaves the question you have asked yourself a hundred times. You aren't stupid. You have wanted him out for years. So why does it feel so hard?
 

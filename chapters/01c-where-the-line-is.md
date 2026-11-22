@@ -1,6 +1,6 @@
 # Where the Line Is {#where-the-line-is}
 
-You have followed the squatter through every room but one. Look, think, touch, chase, take. Those are the five ways he has been fed, with your eyes, your mind, your hand, your feet and your bed. In room after room the same small test did the work. Is this a gift, or a hit I'm taking?
+You have followed the Little Monster through every room but one. Look, think, touch, chase, take. Those are the five ways he has been fed, with your eyes, your mind, your hand, your feet and your bed. In room after room the same small test did the work. Is this a gift, or a hit I'm taking?
 
 Before the last room, that test deserves a proper look, because the last room is where men argue with it.
 
@@ -38,7 +38,7 @@ If you have spent years on the wrong side of the line, so has nearly every man w
 
 And don't try to drag yourself across the line tonight by force. That is sweeping the house again. For now it's enough to know where the line is. The one exception is another person. If someone else is in it, you are making a choice about her, and you can stop making it today.
 
-So that is the line. The last room is the hardest in the house. The man in it isn't using a stranger. He has found the right woman, and he means to keep her. The squatter has saved his best line for him.
+So that is the line. The last room is the hardest in the house. The man in it isn't using a stranger. He has found the right woman, and he means to keep her. The best excuse in the house has been saved for him.
 
 <!-- 2026-11-20 for the Hydra version (editorial/HYDRA-PLAN.md). In the book build since 2026-11-20 as new printed Ch 3, leading into "Why Is It Difficult to Stop?".
 SOURCES: Epigraph and body quotation: Proverbs 5:15 (WEB, checked 2026-11-20). "out of his father's house" alludes to Genesis 2:24 without quoting it. The man with the right woman and no promise yet is an anonymous archetype (James's direction 2026-11-20: stick with the biblical view as the ideal). The Introduction's caution still stands for the reader in an affair or using a woman: stop that today. -->

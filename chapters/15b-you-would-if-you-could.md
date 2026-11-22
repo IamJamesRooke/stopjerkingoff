@@ -84,7 +84,7 @@ That is the whole instruction. Let the bird fly over. Don't build it a nest.
 
 It's far easier than you fear. A man builds the nest for one reason: he believes there's something in it for him. Once he sees that there isn't, the bird comes, finds nowhere to land, and flies on.
 
-That deals with the women who aren't there. The squatter's next line is about the ones who are. "Fine. But I can't walk around with my eyes shut."
+That deals with the women who aren't there. The next excuse is about the ones who are. "Fine. But I can't walk around with my eyes shut."
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 15-fantasy-and-the-thought-life.Rmd; the source notes for everything here are in that file. -->
 

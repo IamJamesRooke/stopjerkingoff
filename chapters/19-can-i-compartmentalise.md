@@ -4,7 +4,7 @@
 >
 > — James 4:8
 
-This is the myth of the back room. The squatter stays in there, and the rest of the house is yours.
+This is the myth of the back room. The Little Monster stays in there, and the rest of the house is yours.
 
 It's spread mostly by men who are trying to stop by willpower. They can't stop, so they need a story that lets them carry on. The story goes: "That's my private side. It has nothing to do with my marriage, my faith or the man I am at work. I keep it in its box." You may know the old story of Dr. Jekyll, the respectable doctor who drinks a potion and turns into the brutal Mr. Hyde at night. Dr. Jekyll coaches the kids' team on Saturday morning. Mr. Hyde has the phone at midnight. The two never meet.
 
@@ -26,7 +26,7 @@ Jesus said the same about money: no one can serve two masters. A man with a lock
 
 ## One life {-}
 
-The moment the squatter is gone, there is no back room. That low, shifty, insecure feeling you've carried for years goes with him. You stop managing a double life, because there's only one life left to manage. A man who had been free for a hundred days said it with an exclamation mark: "I don't feel like a creep with a secret perverted second sex life anymore!" Your confidence comes back, and with it a self-respect you may not have felt since you were a boy.
+The moment he is gone, there is no back room. That low, shifty, insecure feeling you've carried for years goes with him. You stop managing a double life, because there's only one life left to manage. A man who had been free for a hundred days said it with an exclamation mark: "I don't feel like a creep with a secret perverted second sex life anymore!" Your confidence comes back, and with it a self-respect you may not have felt since you were a boy.
 
 Being the same man in every room is a great deal less work.
 

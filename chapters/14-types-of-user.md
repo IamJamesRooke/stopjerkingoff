@@ -66,7 +66,7 @@ There aren't really any types. There's one trap, and men are standing at differe
 
 Every one of these men is feeding the same small monster. And every "at least" is a room he hasn't opened yet.
 
-Remember the warning about the squatter. Shut one room on him and he doesn't leave. He moves down the hall. So follow him. Start with the man who quit porn and kept the hand, and listen to what he says.
+Remember the warning about the Little Monster. Shut one room on him and he doesn't leave. He moves down the hall. So follow him. Start with the man who quit porn and kept the hand, and listen to what he says.
 
 <!-- SOURCES (Chapter 14): every quote below is from the research files; check each against its page before publishing.
 - "Their masturbation isn't a calculated moral decision; it's a compulsion." — Johnathan Arnold, "Is Masturbation a Sin?", Holy Joys, 11 Apr 2026, https://holyjoys.org/is-masturbation-sin/ (the book says "the men who come to him"; check that Arnold is describing people he counsels)

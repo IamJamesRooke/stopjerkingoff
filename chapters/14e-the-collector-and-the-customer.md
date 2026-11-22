@@ -62,7 +62,7 @@ He is not a different kind of man from the others in this book. He looked, he th
 
 So that is the collector, the customer and the stray. Each of them took a woman he never meant to keep.
 
-The squatter has one room left to retreat to. Before it, one question has to be settled, and you have been circling it for a long time. Where exactly is the line?
+The Little Monster has one room left to retreat to. Before it, one question has to be settled, and you have been circling it for a long time. Where exactly is the line?
 
 <!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md): NEW CHAPTER for the fifth head, Take. 'The collector' is moved unchanged from 'At Least I'm Not Him' (an illustration, not a testimony; see the notes in 14-types-of-user.md). 'The customer' is the Ladder's long 'man who buys it in person' bullet, moved, with a new first sentence; its facts were checked 2026-11-19 (research/round8/findings.md). New: the opening on the ordinary hookup, and the three sentences on the married man who strays. No new quotations or statistics. -->
 

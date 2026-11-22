@@ -50,7 +50,7 @@ The relaxation, the sleep, the stress relief, the "release", the thrill of somet
 
 It does seem to. You masturbate, and you drop off. Case closed?
 
-Ask who was keeping you awake. You slept like a stone when you were nine. The man who never started this is asleep ten minutes after his head touches the pillow, and he needed no help. Only you lie there restless, and only you have an unwanted tenant banging on the floor.
+Ask who was keeping you awake. You slept like a stone when you were nine. The man who never started this is asleep ten minutes after his head touches the pillow, and he needed no help. Only you lie there restless, and only you have a Little Monster banging on the floor.
 
 So the habit didn't give you sleep. It took your sleep, and every night it rents a little of it back to you. Then you thank it.
 

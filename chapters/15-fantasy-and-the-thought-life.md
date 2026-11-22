@@ -16,7 +16,7 @@ Two things make the scroll worse than it looks. First, it props up the belief th
 
 ## Crumbs are still a meal {-}
 
-The squatter doesn't care where his food comes from. Scraps keep him alive as well as a banquet. The soft stuff in your feed eases the itch for a moment, and a moment is all it needs to stay awake until next time.
+The Little Monster doesn't care where his food comes from. Scraps keep him alive as well as a banquet. The soft stuff in your feed eases the itch for a moment, and a moment is all it needs to stay awake until next time.
 
 And the feed learns. Pause on one photo for two seconds and it brings you ten more tomorrow. It's a machine for finding your red line and parking you next to it.
 

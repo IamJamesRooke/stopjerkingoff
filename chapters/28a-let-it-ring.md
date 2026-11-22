@@ -38,7 +38,7 @@ It doesn't work like that. Stopping the habit is easy. Controlling it is impossi
 
 **Don't fall for that.**
 
-However long you've been free, and however sure you are that nothing could catch you again, keep one rule for life. Not once, for any reason. Not on a lonely anniversary, not "to help me sleep", and not "just to see". The Little Monster starves and stops calling. But years from now, on some odd evening, an old thought may drift past. It is like reaching for the light switch in a house you moved out of long ago. Nothing is behind it. It is only the memory of a call. Notice it, smile, and don't pick up. "Just once" is the one thing that could put the squatter back in the room.
+However long you've been free, and however sure you are that nothing could catch you again, keep one rule for life. Not once, for any reason. Not on a lonely anniversary, not "to help me sleep", and not "just to see". The Little Monster starves and stops calling. But years from now, on some odd evening, an old thought may drift past. It is like reaching for the light switch in a house you moved out of long ago. Nothing is behind it. It is only the memory of a call. Notice it, smile, and don't pick up. "Just once" is the one thing that could put the Little Monster back in the room.
 
 The rule is strict, and the grace is real. A man who falls confesses it that day, refuses the second one, and gets up. Don't plan on needing that.
 

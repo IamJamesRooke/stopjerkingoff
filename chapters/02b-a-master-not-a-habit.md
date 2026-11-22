@@ -14,7 +14,7 @@ Jesus had the right word for it. "Everyone who commits sin is the bondservant of
 
 And there is only one of him. What sends you to the bathroom is what opens the site. They look like separate habits. One master gives the orders.
 
-And the joke of it is his size. For years you have been taking orders from a squatter in your own back room.
+And the joke of it is his size. For years you have been taking orders from a pipsqueak in your own back room.
 
 The men who have gotten out reach for the same word without being told. One of them, eight months clean, looked back and counted. He wrote that he had been a slave to it since he was twelve years old. He was thirty.
 

@@ -6,7 +6,7 @@
 
 "Fine. No porn. But the hand on its own is natural."
 
-That is the first room the squatter moves to, and nearly every man has stood in it. Some men have read every page so far and quietly filed it under porn. The screen was the problem, they decide, and the hand without the screen is another matter. A man quits porn and is proud of it, and he should be. But he keeps the hand, the way a man gives up whiskey and keeps the beer.
+That is the first room the Little Monster moves to, and nearly every man has stood in it. Some men have read every page so far and quietly filed it under porn. The screen was the problem, they decide, and the hand without the screen is another matter. A man quits porn and is proud of it, and he should be. But he keeps the hand, the way a man gives up whiskey and keeps the beer.
 
 The hand needs no screen, no woman and no money. All it needs is a man by himself for five minutes. For most men it was the first thing lust ever borrowed, and they expect it to be the last to go.
 

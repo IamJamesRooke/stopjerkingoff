@@ -54,7 +54,7 @@ Lust has been made normal, and the whole machine runs on one fuel: men who can't
 
 ## One last look {-}
 
-Look back at the house for a moment. The squatter had no body of his own. He lived on what you lent him: your eyes, your mind, your hand, your feet and your bed. You didn't get rid of him by sweeping harder. You saw that he had never paid a day's rent, and then there was no room left for him to come back to. Open the windows. The smell will be gone in a day or two. If an old thought ever drifts past, you know what it is. Let it go by.
+Look back at the house for a moment. The Little Monster had no body of his own. He lived on what you lent him: your eyes, your mind, your hand, your feet and your bed. You didn't get rid of him by sweeping harder. You saw that he had never paid a day's rent, and then there was no room left for him to come back to. Open the windows. The smell will be gone in a day or two. If an old thought ever drifts past, you know what it is. Let it go by.
 
 And the man on the couch? His phone is lying face up on the cushion tonight, and he hasn't given it a thought.
 

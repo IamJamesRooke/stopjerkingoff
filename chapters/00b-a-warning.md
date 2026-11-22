@@ -38,7 +38,7 @@ You fear that life without the habit means a long, gray stretch of frustration, 
 - "It's the only thing that helps me sleep."
 - "Everyone does it, and anyone who says he doesn't is lying."
 
-Look at who gains from every line on that list. It isn't you. The squatter wrote it, and he would say that, wouldn't he? It's his dinner.
+Look at who gains from every line on that list. It isn't you. It is the Little Monster. Every line on it is his dinner.
 
 Believe those lines for long enough and the fear grows. You fear the nights alone, and the hard days without your little reward. Most of all, you fear that this is just how men are. Even if you stop, you think, you'll be fighting it for the rest of your life. If you've tried and failed many times, as most of us have, you'll be sure of it. One man wrote that he had failed so often he sometimes wondered whether God's grace for him had run out.
 
@@ -54,7 +54,7 @@ So read on with your mind open. Question everything, this book included. If you 
 
 **YOU HAVE NOTHING TO LOSE.** If you reach the last page and decide you'd rather carry on, nothing stops you.
 
-The fear may even grow for a chapter or two. Some men put the book down halfway, because they sense that if they keep going they'll actually have to stop. Don't be one of them. That flutter is only the freeloader in the back room. He has noticed what you're reading.
+The fear may even grow for a chapter or two. Some men put the book down halfway, because they sense that if they keep going they'll actually have to stop. Don't be one of them. That flutter is only the Little Monster. He has noticed what you're reading.
 
 Jesus told a story about a son who took his inheritance early, left home and wasted every coin of it. People call him the prodigal son. He ended up feeding pigs, and he was starving. In that pigsty he came to himself. He got up and walked home, and he found his father running down the road to meet him. That is how it feels to walk out of this trap. Before this book is finished, that will be you.
 

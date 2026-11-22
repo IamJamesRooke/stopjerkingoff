@@ -22,7 +22,7 @@ One man, ninety days free, said the wisest thing on the subject. The so-called s
 
 A close cousin. The pitch is that the energy you save becomes the fuel that gets you the girl. In one fitness coach's words, that energy "is what's going to drive you to get the woman you want".
 
-This doesn't evict the squatter. It moves him down the hall, from the look to the chase. Jesus didn't say to harness the look. He said the look was already the sin. You're still treating women as the prize and your own desire as the boss. And it sets a trap that catches you win or lose. Suppose you don't get the girl. Then you're miserable, quitting "failed", and you know where you go for comfort. Suppose you do get her. Then the incentive has been paid out and there's nothing left holding you.
+This doesn't evict the Little Monster. It moves him down the hall, from the look to the chase. Jesus didn't say to harness the look. He said the look was already the sin. You're still treating women as the prize and your own desire as the boss. And it sets a trap that catches you win or lose. Suppose you don't get the girl. Then you're miserable, quitting "failed", and you know where you go for comfort. Suppose you do get her. Then the incentive has been paid out and there's nothing left holding you.
 
 Either way you're back.
 

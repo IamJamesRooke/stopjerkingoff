@@ -42,7 +42,7 @@ If he isn't enjoying it this year, he'll enjoy it less next year.
 
 Pity him, pray for him, and when the chance comes, hand him this book.
 
-One idea still lets a man stay where he is. It says he can keep the squatter shut in the back room and live his life in the rest of the house.
+One idea still lets a man stay where he is. It says he can keep the Little Monster shut in the back room and live his life in the rest of the house.
 
 <!-- SOURCES (Chapter 18): every quote below is from the research files; check each against its page before publishing.
 - "I've been freed now and it's nearly been 7 years." / "this truly sensational feeling of peace for the first time in my life" — Ambassador for Christ, TalkJesus forum, 13 Sep 2024, thread "[STRUGGLES] Help from brothers and sisters in Christ.", https://www.talkjesus.com/goto/post?id=472239 (research/more-sources.md; he says he was addicted to porn and masturbation from about 12 to 21; the peace followed a spiritual experience, receiving the Holy Ghost, and not quitting itself; the book now frames it that way)

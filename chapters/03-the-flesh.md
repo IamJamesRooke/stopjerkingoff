@@ -38,7 +38,7 @@ That's the whole mechanism. It doesn't mean you have a broken brain, an unusuall
 
 One more thing. The urge isn't really desire for a woman. It's the wish to end a restless feeling. Hold on to that, because everything hangs on it.
 
-That restless feeling deserves a name.
+That restless feeling is the Little Monster. It is time to meet him properly.
 
 <!-- SOURCES (Chapter 3): every quote below is from the research files; check each against its page before publishing.
 - "I hate it, but I continually feed it." — cha, Covenant Eyes comments, 8 Nov 2016, https://www.covenanteyes.com/blog/three-steps-to-kick-the-habit-of-masturbation/comment-page-6/ (also used in the Introduction; the book counts "seven words")

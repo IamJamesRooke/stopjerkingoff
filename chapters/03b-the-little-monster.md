@@ -1,10 +1,10 @@
 # The Little Monster {#the-little-monster}
 
-A cue comes, and with it a small, restless urge. We'll call that urge the Little Monster.
+A cue comes, and with it a small, restless urge. That urge is the Little Monster, banging on the floor.
 
 The first thing to know about him is how small he is. The urge doesn't hurt at all. It's a faint, empty, fidgety sense that something is missing. That's why men mistake it for sex drive, or for hunger, or for plain boredom. Left alone for a while it can turn into edginess and a short temper. It's a hunger for something that doesn't feed you.
 
-In the first months you don't notice him at all. The itch and its relief are so slight that you'd laugh at the idea you were hooked. Later, when you're doing it most days, you tell yourself you've come to enjoy it, or that you've "got into the habit". The truth is that you have a squatter, and this is him. The Little Monster has moved in, he pays no rent, and every so often you go around the loop to carry up his dinner.
+In the first months you don't notice him at all. The itch and its relief are so slight that you'd laugh at the idea you were hooked. Later, when you're doing it most days, you tell yourself you've come to enjoy it, or that you've "got into the habit". The truth is that the Little Monster has moved in. He pays no rent, and every so often you go around the loop to carry up his dinner.
 
 One man in the trap put the entire thing in seven words:
 

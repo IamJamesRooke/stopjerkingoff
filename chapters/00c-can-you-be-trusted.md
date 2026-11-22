@@ -10,7 +10,7 @@ You don't need that proved to you. Ask the man who said "never again" last night
 
 That is not an accusation. It was true of the man writing this, and it is the reason this book exists. It is true of half the respectable men you will meet today.
 
-And look at who has done it to us. It wasn't a dragon. A grown man, trusted with a job and a family, can't keep his word against an unwanted tenant the size of a house cat. If that annoys you, good. Be annoyed at the right party.
+And look at who has done it to us. It wasn't a dragon. A grown man, trusted with a job and a family, can't keep his word against a Little Monster the size of a house cat. If that annoys you, good. Be annoyed at the right party.
 
 The reverse is also true. A man who can say no has a yes that is worth something. His wife can rest her weight on it. So can his children, and the men beside him. So can he.
 

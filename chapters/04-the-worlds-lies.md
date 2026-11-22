@@ -6,7 +6,7 @@
 
 The flesh supplies the itch. The world supplies the reasons to scratch it.
 
-Two things keep a man in this trap. The first is the flesh, with its small, restless itch: the Little Monster. The second is the lies, and they are much the bigger of the two. Call them the Big Monster. He is everything you've been told about the little one.
+Two things keep a man in this trap. The first is the flesh, with its small, restless itch: the Little Monster. The second is the lies, and they are much the bigger of the two. They are the Big Monster. He is everything you've been told about the little one, starting with the lie that he pays his way.
 
 Start with masturbation, because the loudest lies are about that. Your grandfather was told that it would make him go blind, grow hair on his palms and land him in an asylum. That was nonsense, and it deserved to be laughed out of the room. But when the scare stories went, the truth went out with them. Now a boy hears the opposite sermon, preached just as confidently. It has five points.
 
@@ -24,7 +24,7 @@ Start with masturbation, because the loudest lies are about that. Your grandfath
 
 There is hype in the other direction too. Stop, whole corners of the internet promise, and you'll get powers. The biggest forum of them all started with a thread about a study claiming a testosterone spike after seven days. That study was retracted in 2021.
 
-All that hype ought to get men out. It helps to keep them in. It turns stopping into a feat. You count days, you take vows and you call yourself a warrior. That is a lot of armor for evicting a squatter. Then day thirty comes, the prize hasn't arrived, and back you go.
+All that hype ought to get men out. It helps to keep them in. It turns stopping into a feat. You count days, you take vows and you call yourself a warrior. That is a lot of armor for evicting a pipsqueak. Then day thirty comes, the prize hasn't arrived, and back you go.
 
 Both sermons, "it's good for you" and "quitting gives you powers", agree on one thing. Both say that stopping is a big deal. It isn't.
 
