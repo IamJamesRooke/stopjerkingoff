@@ -80,7 +80,7 @@ And none of it was ever enough.
 
 Then one woman loved me anyway, baggage and all. I knew how this story went. If I didn't fix it, I would lose her too.
 
-I had been fighting it for years. A free book on quitting porn kept me clean for almost a year. I went back, because I hadn't followed its instructions. That one is on me, not the book.
+I had been fighting it for years. A free book, [*The Easy Peasy Way to Quit Porn*](https://easypeasymethod.org/), kept me clean for almost a year. I went back, because I hadn't followed its instructions. That one is on me, not the book.
 
 After that I joined a men's recovery group at a church. I had always filed Christianity under silly superstition. Sitting in that room, I changed my mind.
 
@@ -94,7 +94,7 @@ It is a comfortable creed. Nothing is ever your fault. I could have used it. The
 
 Christianity teaches the opposite. We are all sinners. Every one of us is the villain in somebody else's story.
 
-Human nature is not basically good. Rape, slavery and slaughter are the default. Just read a history book. Morality has to be taught, and every one of us falls short of it.
+Human nature is not basically good. Rape, slavery and genocide are the default. Just read a history book. Morality has to be taught, and every one of us falls short of it.
 
 Aleksandr Solzhenitsyn, a Russian writer who survived the Soviet labor camps, said it best. The line between good and evil doesn't run between one group and another. It runs through every human heart.
 
@@ -130,7 +130,7 @@ Most of the men you'll meet in these pages, I have been. I gave the habit every 
 
 That is enough about me.
 
-I didn't invent this way of quitting. A man named Allen Carr did, for smokers. His book, *The Easy Way to Stop Smoking*, has helped a great many people put down cigarettes without a fight. The free book that helped me, [*The Easy Peasy Way to Quit Porn*](https://easypeasymethod.org/), took Carr's method and turned it on porn. This book borrows from both, and takes the same method to lust itself. The credit is theirs. Any mistakes are mine.
+I didn't invent this way of quitting. A man named Allen Carr did, for smokers. His book, *The Easy Way to Stop Smoking*, has helped a great many people put down cigarettes without a fight. The free book that helped me took Carr's method and turned it on porn. This book borrows from both, and takes the same method to lust itself. The credit is theirs. Any mistakes are mine.
 
 The best pictures of this trap are in the Bible, so this book quotes it. If you don't believe, read it as you would any old book that turns out to know you. When you hear God or sin mentioned, take it as your conscience talking. If you hold another faith, bring it with you.
 
