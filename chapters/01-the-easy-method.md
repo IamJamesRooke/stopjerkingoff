@@ -76,7 +76,9 @@ The habit cost me three relationships, an engagement and a marriage. After that 
 
 Then a woman loved me anyway, baggage and all. I knew that if I didn't fix this, I would wreck that too.
 
-I had been fighting it for years. A free book called [*The Easy Peasy Way to Quit Porn*](https://easypeasymethod.org/) got me off porn for almost a year. I went back because I didn't follow its instructions. Later I joined a men's recovery group at a church, and found that Christianity wasn't as stupid as I had thought. But the group fought the way everyone fights, with willpower. That seemed backward to me. If grace is real, freedom shouldn't be an arm-wrestle that lasts for life.
+I had been fighting it for years. A free book called [*The Easy Peasy Way to Quit Porn*](https://easypeasymethod.org/) got me off porn for almost a year. I went back because I didn't follow its instructions. Later I joined a men's recovery group at a church. I had always dismissed Christianity as silly superstition. Sitting in that room, I saw it differently. It has stood for two thousand years, and it is the foundation of the civilization I want to live in. I don't understand all of it. But there is a deeper power behind it, and I decided to take it seriously.
+
+The group, though, fought the way everyone fights, with willpower. That seemed backward to me. If grace is real, freedom shouldn't be an arm-wrestle that lasts for life.
 
 I prayed for months and asked God what he wanted me to do. One night it came clear. Men are sedated. Porn, games, junk food and drink have put a generation half to sleep. I wanted a book like that free one, but one that went past porn and woke men up. I couldn't find it, so this is that book.
 
