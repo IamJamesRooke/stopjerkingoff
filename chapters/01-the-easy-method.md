@@ -116,9 +116,9 @@ The feeds do something extra. They leave him anxious, and he can't say why. They
 
 He is not entirely wrong.
 
-But a sedated man can't fix a rigged game. He can't even fix his own room. Some version of that man was me.
+But a sedated man can't fix a rigged game. Some version of that man was me.
 
-Then one night, at the eleventh hour, a thought came. It wasn't about the world. It was about my own room.
+Then one night, at the eleventh hour, a thought came. It wasn't about the world. It was about me.
 
 Jordan Peterson, a Canadian psychologist, tells young men the same thing. Clean your room before you try to fix the world.
 
