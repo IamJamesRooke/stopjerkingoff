@@ -6,7 +6,7 @@ An unclean spirit goes out of a man. It wanders about, finds nowhere to rest, an
 
 You don't have to believe in spirits to know that house, and the story isn't here to tell you that you have one. It is here because nobody has ever described quitting by force more exactly.
 
-You have swept that house many times.
+The house is you, and you have swept it many times.
 
 You swore off porn, and for three weeks you were clean. Then you noticed you were spending an hour a night scrolling past women in swimsuits and calling it nothing. Or you deleted every app and blocked every site, and the reel in your memory started up in their place. Or you stopped the whole business by force, and poured the same hunger into chasing a woman who didn't want you. You threw one thing out, and it came back with company. That is how it goes with the Little Monster. Keep his room ready, and he brings his friends. They are as small as he is, and they smell just as bad.
 

@@ -16,9 +16,9 @@ Picture it this way instead. The man is a house, and in the back room upstairs l
 
 So why does the man keep feeding him? Because when he is fed, the banging stops. The quiet feels so good that the man thinks the little monster gave it to him. He says it helps him sleep. He says it takes the edge off. He wants the monster out, and he is afraid the quiet will go with him.
 
-That belief is the Big Monster. The creature upstairs is the Little Monster. One lives in the back room. The other lives in the man's head, and it is the only thing holding him.
+So there are two monsters, and this book has a name for each. The Little Monster is the craving. The Big Monster is no creature at all. It is the belief that the craving is worth feeding, that the habit does something for him. One is an itch. The other is an idea in the man's head, and it is the only thing holding him.
 
-And it is a lie. The house was quiet before the monster moved in. The rest of this book is the proof.
+And it is a lie. The house was quiet before the monster moved in. The man slept fine as a boy. The rest of this book is the proof.
 
 If you are that man, nothing strong ever beat you. Something small fooled you, and you have been feeding him yourself.
 
