@@ -28,6 +28,18 @@ Sex ties two people together. That is its job. Sleep with her, and you have fogg
 
 That is how a man stays two years with the wrong woman, because the bed was good. It is how he leaves the right one, because the first night was awkward. In both cases the test gave him the wrong answer.
 
+Mark Driscoll, an American pastor, put it in one line in a 2006 sermon: "you can't really get to know someone when you're sleeping with them".
+
+## What the count shows {-}
+
+If testing worked, the people who tested most would have the marriages that last. Researchers have counted, and they find the opposite.
+
+In 2023 two American sociologists published a study of about seven thousand married people, followed from their teens. Those who'd had sexual partners before marriage were more likely to divorce than those who'd had none. With nine partners or more, the odds were about three times as high. It held for the men as much as for the women. The authors were plain about the limits: "Premarital sex predicts divorce, but we do not know why."
+
+Living together is the long test drive. A 2023 report surveyed about 1,600 Americans who first married between 2010 and 2019. Of those who moved in before they were engaged, 34 percent had seen the marriage end. Of those who waited for the engagement or the wedding, 23 percent had. The ones who said they moved in to test the relationship did worse than the ones who gave other reasons.
+
+Be fair to the numbers. They count what happened. They don't prove what caused it. Researchers still argue over why, and some say the real danger is moving in too young. But nobody in that argument has found that testing first makes a marriage last.
+
 ## What you need to know {-}
 
 There are things a man must find out before he bets his life on a woman. Can he talk to her for three hours? Does she tell the truth when it costs her? How does she treat a waiter, her mother and his money? What does she do when he says no?
@@ -39,3 +51,5 @@ So the test drive isn't caution. It is the old habit in a lab coat.
 Two men are still standing in the hall, and neither has a fiancée. The first is dating.
 
 <!-- 2026-11-22 NEW CHAPTER (James: 'Mark Driscoll has lots of stuff on the lies men tell themselves like you need to test drive the woman first'). The argument here is the book's own; no study, quote or person is cited yet. Research on Driscoll's wording and on studies of premarital partners, cohabitation and divorce is in progress and will be folded in only where verified. The closing hook was the last paragraph of But I'm Going to Marry Her. -->
+
+<!-- 2026-11-22 RESEARCH FOLDED IN (full notes and limits in research/marriage-dossier-2026-11-22.md). CHECK EACH QUOTATION AGAINST ITS PAGE BEFORE PRINT. Sources: (1) Driscoll, sermon on 1 Corinthians 6:12-7:7, 23 April 2006, transcript on his own site, https://realfaith.com/sermons/good-sex-bad-sex/ ; the words are a fragment of a longer sentence. His reported 'test drive' wording could NOT be verified and is not quoted. (2) Smith and Wolfinger, 'Re-Examining the Link Between Premarital Sex and Divorce', Journal of Family Issues, published online 2023, https://pmc.ncbi.nlm.nih.gov/articles/PMC10989935/ ; 7,030 ever-married people; odds 3.20 for nine or more partners in the late-marrying group; 'There is no evidence of gender differences.' Correlation; early marriages only. (3) Stanley and Rhoades, 'What's the Plan? Cohabitation, Engagement, and Divorce', Institute for Family Studies, April 2023, N = 1,621, https://ifstudies.org/reports/whats-the-plan-cohabitation/2023/executive-summary ; 34% against 23%; 'testing the relationship' was linked to greater odds of the marriage ending. (4) The dissent: Kuperberg 2014 and 2018 (age at moving in), https://thesocietypages.org/ccf/?p=1769 . -->
