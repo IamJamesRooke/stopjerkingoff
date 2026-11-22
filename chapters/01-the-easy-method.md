@@ -86,7 +86,7 @@ The group, though, fought the way everyone fights, with willpower. That seemed b
 
 That room changed how I saw something else too. Modernity teaches an ideology of social justice, and it glorifies the victim. You are good, and they are evil. Society is "problematic", its faults are "systemic", and the traditional values of the West must be torn down. Christianity teaches the opposite. It says we are all sinners. Every one of us is the villain in somebody else's story. I am the villain in several. Human nature is not basically good. Rape, slavery and slaughter are the default, and history is the record of it. Morality has to be taught, and we all fall short of it.
 
-Aleksandr Solzhenitsyn was a Russian writer who spent eight years in the Soviet labor camps. He came out saying that the line between good and evil does not run between us and them. It runs through every human heart. Jordan Peterson, a Canadian psychologist, puts it more plainly: clean your own room before you try to fix the world.
+Aleksandr Solzhenitsyn, a Russian writer who survived the Soviet labor camps, said the line between good and evil runs through every human heart. Jordan Peterson, a Canadian psychologist, says it more plainly: clean your room before you fix the world.
 
 I had been praying for months, asking God how to fix the world. That is a large request from a man who couldn't manage his own evenings. Then one night, at the eleventh hour, a thought came, and it wasn't about the world. It was about my own room.
 
