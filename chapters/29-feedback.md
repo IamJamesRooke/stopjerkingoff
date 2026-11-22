@@ -8,7 +8,7 @@ This book has no quarrel with the man in the trap. Its quarrel is with the trap.
 
 ## 1. Fear of failure {-}
 
-Failing is no disgrace. If the fear of failing comes back after you have decided, ask what it is protecting. Nothing. A man who falls is exactly where he was the day before he decided, and he gets up.
+Failing is no disgrace. If the fear of failing comes back after you have decided, ask what it is protecting. Nothing. A man who falls has fed the Little Monster once more, and he gets up the same day.
 
 ## 2. Fear of being miserable {-}
 
@@ -121,3 +121,5 @@ That leaves the question nobody likes to ask out loud. What if you fall?
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
 
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). No longer makes the man who goes home with a woman the winner; answers 'I may never marry'. -->
+
+<!-- 2026-11-22 third whole-book test as James (he now says the whole No, but holds back the warm bed with a woman he liked; 'I say the clause as a better policy, not as a man who sees nothing in the room'). Fixes from that test; see the commit of this date. -->

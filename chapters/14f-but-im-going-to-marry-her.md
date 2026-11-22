@@ -38,7 +38,7 @@ Perhaps you are long past this line with the woman you love. Perhaps you live to
 
 But you can't settle this one alone in your head, because she is in it. So talk to her, in daylight, and not at bedtime. Tell her what you have seen about yourself. Tell her it is no judgment on her, and that you aren't leaving. Then tell her what you want: to stop taking from her, and to make her a promise.
 
-After that, the two of you have real choices. You can bring the wedding forward. Plenty of couples have married within a month, with ten guests. Or you can keep the bed for the wedding from here on. That isn't simple under one roof, so some men move out for the months between. If she doesn't share your conviction, listen to her. Don't preach, and don't make her the problem. The line doesn't move. How the two of you get behind it is yours to work out together.
+After that, the two of you have real choices. You can bring the wedding forward. Plenty of couples have married within a month, with ten guests. Or you can keep the bed for the wedding from here on. That isn't simple under one roof, so some men move out for the months between. If she doesn't share your conviction, listen to her. Don't preach, and don't make her the problem. The line doesn't move. How the two of you get behind it is yours to work out together. Working it out is no reason to keep the bed in the meantime.
 
 Only one choice is closed. Don't tell yourself you'll sort it out later and go on as before. "Later" is the oldest lie in the house.
 
@@ -63,3 +63,5 @@ That is every room in the house. One excuse is left over from this one, and it w
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). The Little Monster has no words; the excuse matches Where the Line Is; fornication is not defined twice. -->
 
 <!-- 2026-11-22 whole-book test as James (he said the No to the screen, the hand, the feed and the film, and stopped at 'any bed outside marriage'). New closing hook into the two new chapters for the dating man and the man who may never marry. -->
+
+<!-- 2026-11-22 third whole-book test as James (he now says the whole No, but holds back the warm bed with a woman he liked; 'I say the clause as a better policy, not as a man who sees nothing in the room'). Fixes from that test; see the commit of this date. -->

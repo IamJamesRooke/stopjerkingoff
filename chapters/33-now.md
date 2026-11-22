@@ -60,6 +60,8 @@ And the man on the couch? His phone is lying face up on the cushion tonight, and
 
 And the man in the bed at two in the morning? He is asleep. His phone is charging in the kitchen.
 
+And the single man? He had dinner with friends on Friday, and on Saturday morning nobody was looking for shoes.
+
 And the button on the nightstand, the one you'd have broken the furniture to press? It was real. You pressed it.
 
 ## A blessing {-}
@@ -105,3 +107,5 @@ You're free, and you're fit for service. Go in peace.
 <!-- 2026-11-22 whole-book test as James (he said the No to the screen, the hand, the feed and the film, and stopped at 'any bed outside marriage'). The single man from the Introduction's first scene now walks out of the book too. -->
 
 <!-- 2026-11-22 second whole-book test as James (he said No to everything except 'any bed outside marriage', because with a woman he liked he was glad afterward and stayed). A sentence for the single man in the last chapter. -->
+
+<!-- 2026-11-22 third whole-book test as James (he now says the whole No, but holds back the warm bed with a woman he liked; 'I say the clause as a better policy, not as a man who sees nothing in the room'). Fixes from that test; see the commit of this date. -->

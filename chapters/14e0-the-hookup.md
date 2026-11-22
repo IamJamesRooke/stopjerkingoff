@@ -22,9 +22,11 @@ She is real, and that is the trouble. The screen used a picture. The hand used a
 
 "But she wanted it too." Perhaps she did. Then ask where the two of you were going. If there was no future in it, neither of you gave anything. You were two addicts sharing a dose. Two people took a hit, and nobody was given a gift.
 
-The same holds for the girlfriend of two years he has no plan to marry. It is one long night.
+The same holds for the girlfriend of two years he has no plan to marry. It is one long night. A plan for someday changes nothing, because a plan is not a promise.
 
 Perhaps one of them was different. You liked her. A minute later you were glad, and you stayed till morning. Grant all of it. Then ask what made that night good. It was not the few seconds. It was that she knew you, and that for a while you both acted as if you were staying. The good part was the part that looked like the promise. Now ask where she is. If you are reading this single, it ended like the others, only slower, and it cost you both more. Leaving the promise out added nothing to those nights. It only kept a door open, and one of you used it.
+
+So that night is no exception to this chapter. It is the strongest dose in the house. A stranger's bed is empty by morning, and a man leaves it. The warm bed is good enough to stay in, and never good enough to decide in. A man can spend two years there, and then two more with the next woman. It looks so much like the real thing that he stops looking for the real thing. Count the years the warm beds cost you. Then count what they cost her.
 
 "But there might be a future with this one." A maybe is not a promise. If there is a future, it will still be there when the promise is made. Sleeping with her first doesn't help you find out. A man can't judge a woman while he is using her. And she pays tonight for something you may never deliver.
 
@@ -36,7 +38,7 @@ Perhaps one of them was different. You liked her. A minute later you were glad, 
 
 **During.** Be honest about where your head was. Half the time you were watching yourself. Was it going well? Was she comparing? You were with a stranger, and you were performing for her.
 
-**The minute after.** This is the test of any pleasure. A husband who has made love to a wife he loves is glad a minute later. He stays where he is. Most nights you wanted her gone, or you wanted to be gone. She reached for you, and being held was the part you couldn't stand. Count the nights you stayed and were glad. Then count the others. Remember the saying of the men who pay for it. You don't pay her for the sex. You pay her to leave.
+**The minute after.** This is the test of any pleasure. A husband who has made love to a wife he loves is glad a minute later. He stays where he is. Most nights you wanted her gone, or you wanted to be gone. She reached for you, and being held was the part you couldn't stand. Count the nights you stayed and were glad. Then count the others. Then count how many of those women are still in your life. Remember the saying of the men who pay for it. You don't pay her for the sex. You pay her to leave.
 
 **The morning.** One of you is looking for shoes. Nobody mentions next week. Then comes the drive home and the flat feeling. The phone is out again before lunch.
 
@@ -85,3 +87,5 @@ Some men have gone further up this road than the rest.
 <!-- 2026-11-22 whole-book test as James (he said the No to the screen, the hand, the feed and the film, and stopped at 'any bed outside marriage'). New section 'Take the night apart': the book had only asserted that the hookup is 'the same hit'. It now runs the next-minute test on the bed (before, during, the minute after, the morning). -->
 
 <!-- 2026-11-22 second whole-book test as James (he said No to everything except 'any bed outside marriage', because with a woman he liked he was glad afterward and stayed). New paragraph for the night that WAS good ('The good part was the part that looked like the promise'); the minute-after claim no longer says every night felt the same; two absolutes softened. -->
+
+<!-- 2026-11-22 third whole-book test as James (he now says the whole No, but holds back the warm bed with a woman he liked; 'I say the clause as a better policy, not as a man who sees nothing in the room'). Fixes from that test; see the commit of this date. -->

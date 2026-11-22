@@ -42,8 +42,10 @@ Judge a thing by the whole of it, the bait and the hook together.
 
 So get the claim exactly right. This book has never said it doesn't feel good. It says the habit gives you nothing. The few seconds are real, and they are the bait.
 
-You are not being asked to live without that pleasure. Where it belongs is a question for later, and the answer is a good one. For now, see the few seconds for what they are. They are the one thing you have been defending, and they are how the trap is set.
+Where that pleasure belongs is a question for later, and it gets a straight answer. For now, see the few seconds for what they are. They are the one thing you have been defending, and they are how the trap is set.
 
 One more thing about that lead-up. It never stays the same size.
 
 <!-- 2026-11-22 NEW CHAPTER (James: 'The orgasm is real. The euphoria is real. It does feel good in the moment. Just like sugar tastes great for a few seconds before destroying you. That needs to be addressed.'). The book now says plainly that it feels good, and squares that with 'no benefits at all': relief, the rush (weighed against the hour before and the ten minutes after, and shrinking), and what the rush is for. The last two paragraphs (the lead-up) are moved here from the end of The Little Monster. No facts, studies or quotes were added. -->
+
+<!-- 2026-11-22 third whole-book test as James (he now says the whole No, but holds back the warm bed with a woman he liked; 'I say the clause as a better policy, not as a man who sees nothing in the room'). Fixes from that test; see the commit of this date. -->

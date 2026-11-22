@@ -12,7 +12,7 @@ He says it like this. "I'm jerking off, but at least I'm not watching porn."
 
 Listen to the sentence. Nobody says "at least" about a thing he is glad of. He says it about a thing he is defending.
 
-Then ask what changed upstairs. Nothing did. The Little Monster got his dinner. He can't tell a banquet from a sandwich, and he bangs just as loud tomorrow. "Mild" describes the dose. It doesn't describe the hold. A drunk on beer is still a drunk.
+Then ask what changed upstairs. Nothing did. The Little Monster got his dinner. He can't tell a banquet from a sandwich, and he bangs just as loud tomorrow. Men call it mild. The hold is the same. A drunk on beer is still a drunk.
 
 The hand needs no screen, no woman and no money. All it needs is a man by himself for five minutes. For most men it was the first thing lust ever borrowed, and they expect it to be the last to go.
 
@@ -73,3 +73,5 @@ The uninvited guest picks up his blanket and moves down the hall. "I'm looking, 
 <!-- 2026-11-22 (James: 'When you're jerking off thinking about all your spank bank fantasies you are STILL watching porn... comparing fruit sugars to a coca cola. But it's still porn. The same thing. Too much.'): the spank bank paragraph, with the term explained in place. -->
 
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). The finish is admitted to feel good; the wanting 'brings the hand back if it can' (the hand reappears in later rooms); the gift test no longer lets the hookup pass; the closing excuse is in 'at least' form. -->
+
+<!-- 2026-11-22 third whole-book test as James (he now says the whole No, but holds back the warm bed with a woman he liked; 'I say the clause as a better policy, not as a man who sees nothing in the room'). Fixes from that test; see the commit of this date. -->

@@ -48,8 +48,7 @@ And the question comes back. It always does, because her yes settled nothing abo
 
 A man who knows he is worth having doesn't need a vote every weekend.
 
-Where does a man learn that he is worth having? He doesn't learn it from a yes, because a yes wears off by Monday. He learns it from promises kept and work finished. He learns it from people who would call him at three in the morning. None of those can be won in a bar.
- The winner of the chase is the most anxious man in the bar.
+Where does a man learn that he is worth having? He doesn't learn it from a yes, because a yes wears off by Monday. He learns it from promises kept and work finished. He learns it from people who would call him at three in the morning. None of those can be won in a bar. The winner of the chase is the most anxious man in it.
 
 Life without it doesn't go flat. Flat is what he feels now, between women.
 
@@ -90,3 +89,5 @@ Six men, then. One at the party, one who waits, one who swipes and one who wins.
 <!-- 2026-11-22 whole-book test as James (he said the No to the screen, the hand, the feed and the film, and stopped at 'any bed outside marriage'). New section 'The man who wins': the chapter covered only men who lose, and the lie 'without the chase, life is flat' had no answer. -->
 
 <!-- 2026-11-22 second whole-book test as James (he said No to everything except 'any bed outside marriage', because with a woman he liked he was glad afterward and stayed). Where a man learns he is worth having; the count of men corrected to six. -->
+
+<!-- 2026-11-22 third whole-book test as James (he now says the whole No, but holds back the warm bed with a woman he liked; 'I say the clause as a better policy, not as a man who sees nothing in the room'). Fixes from that test; see the commit of this date. -->

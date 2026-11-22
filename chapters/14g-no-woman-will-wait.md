@@ -16,7 +16,7 @@ The old way doesn't find a wife faster. It fills the years with nights, so a man
 
 You may dread the sentence itself. Say it early and plainly, and don't preach. "I like you. I've decided to keep sex for marriage. That is about me. It is no verdict on you."
 
-If she laughs, let her laugh. If she asks why, tell her the truth. You have seen what the other way did to you.
+If she laughs, let her laugh. If she asks why, tell her the truth. You have seen what the other way did to you. If she asks about the women before her, tell her the truth about that too.
 
 And don't hide behind the line. A man who has stopped using women still has to cross the room, ask her to dinner, and risk a no. The line doesn't make that easier. It makes you a man who can hear the no and stay himself.
 
@@ -24,10 +24,12 @@ And don't hide behind the line. A man who has stopped using women still has to c
 
 Does the line shrink the field? It does. It shrinks it to the women who want what you want. That was always the only field you had.
 
-Be honest about the size of that field. It may be small. Many of the women in it will be believers, and they will ask where you stand. Tell them the truth. But compare the two fields fairly. The wide one has had you for decades, and you have searched it. It gave you nights and no wife. And the wait need not be long. When two people know their minds, a wedding can be small and soon.
+Be honest about the size of that field. It may be small. Many of the women in it will be believers, and they will ask where you stand. Tell them the truth. Some will say no to that, and some won't. Either way, you both know early. But compare the two fields fairly. The wide one has had you for decades, and you have searched it. It gave you nights and no wife. And waiting is not stalling. A man who has watched a woman with clear eyes doesn't need five years to know his mind.
 
 That leaves the second man in the hall. He isn't dating, and he has stopped expecting to.
 
 <!-- 2026-11-22 NEW CHAPTER from the whole-book test as James (lie 6: 'No woman my age will date a man who won't sleep with her. The rule means no relationship.' The book only scripted the fiancé). No facts, studies or quotes; the argument is who leaves, who stays, and what the old way selected. -->
 
 <!-- 2026-11-22 second whole-book test as James (he said No to everything except 'any bed outside marriage', because with a woman he liked he was glad afterward and stayed). Admits the field may be small and who is in it; two overclaims fixed. -->
+
+<!-- 2026-11-22 third whole-book test as James (he now says the whole No, but holds back the warm bed with a woman he liked; 'I say the clause as a better policy, not as a man who sees nothing in the room'). Fixes from that test; see the commit of this date. -->

@@ -34,7 +34,7 @@ Jesus asked for plain speech: "But let your 'Yes' be 'Yes' and your 'No' be 'No.
 
 One thing comes before the prayer. Make sure that nothing you are doing breaks the law, and that nothing you are doing is harming another person. If something is, you already know what it is. Don't carry it past today.
 
-The No you are about to say covers any bed outside marriage. Don't take that as a rule somebody handed you. Check it one last time against your own years. Name what any bed outside a promise left you that stayed. Then ask the old question. Suppose you had kept sex for the woman you promised to keep. Would your decisions have been better, or worse?
+The No you are about to say covers any bed outside marriage. Don't take that as a rule somebody handed you. Check it one last time against your own years. Name the women you liked and stayed with. Where is each of them now, and which of you used the open door? Then ask the old question. Suppose you had kept sex for the woman you promised to keep. Would your decisions have been better, or worse?
 
 If a woman you love is in that bed, this is not a No to her. It is a No to the bed until the promise is made. The best thing you can bring her is a man who doesn't need to take.
 
@@ -130,3 +130,5 @@ Do it now.
 <!-- 2026-11-22 whole-book test as James (he said the No to the screen, the hand, the feed and the film, and stopped at 'any bed outside marriage'). The last check no longer offers a loop ('read again, no hurry'); the No to the bed is plain. -->
 
 <!-- 2026-11-22 second whole-book test as James (he said No to everything except 'any bed outside marriage', because with a woman he liked he was glad afterward and stayed). 'Change the words until they are true of you' let a reader cut 'any bed outside marriage'. -->
+
+<!-- 2026-11-22 third whole-book test as James (he now says the whole No, but holds back the warm bed with a woman he liked; 'I say the clause as a better policy, not as a man who sees nothing in the room'). Fixes from that test; see the commit of this date. -->
