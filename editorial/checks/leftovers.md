@@ -3,7 +3,7 @@
 - **pen name / author name in book files**: 1 hit(s) attribution:11
 - **EasyPeasy author credit (Hackauthor)**: 2 hit(s) attribution:21, attribution:27
 - **'hackbook' (unexplained jargon)**: 0 hit(s) 
-- **first-person author anecdote (I + past tense)**: 6 hit(s) Intro:9, 1:71, 1:75, 1:79, 1:89, 1:93
+- **first-person author anecdote (I + past tense)**: 6 hit(s) Intro:9, 1:71, 1:75, 1:81, 1:93, 1:97
 - **'wifey' / casual**: 0 hit(s) 
 - **'sequel' (allowed only as 'not an official sequel')**: 0 hit(s) 
 - **'play along' (allowed: Intro, Ch 32)**: 0 hit(s) 
