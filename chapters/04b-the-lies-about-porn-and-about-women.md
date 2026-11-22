@@ -16,7 +16,7 @@ Whoever she is, she is somebody's daughter. And when it is her own choice, she h
 
 None of this is here to add to your guilt. It is here to take away the last excuse. You were lied to, and so was the woman on the screen. It was never harmless.
 
-The best liar hasn't spoken yet. You have known him all your life.
+Those are the lies. Now look at some of the men who believed them.
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 04-the-worlds-lies.Rmd; the source notes for everything here are in that file. -->
 
@@ -27,3 +27,5 @@ The best liar hasn't spoken yet. You have known him all your life.
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
 
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'). Long sentence split. -->
+
+<!-- 2026-11-22: the closing hook now leads into two new chapters (The Men Who Believed It, The World It Made); the old hook ('The best liar hasn't spoken yet') closes the second of them. -->
