@@ -4,7 +4,7 @@
 
 | File | words | lust | porn | women/woman | masturbat/MO | habit | soldier/duty/fit | Little Monster | Big Monster | wrong head | thread (can't be trusted) |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| Intro | 896 | 2 | 1 | 3 | 1 | 3 | 0 | 2 | 3 | 1 | 0 |
+| Intro | 929 | 2 | 1 | 3 | 1 | 3 | 0 | 2 | 3 | 1 | 0 |
 | b | 978 | 0 | 2 | 1 | 1 | 4 | 0 | 1 | 2 | 0 | 0 |
 | c | 311 | 2 | 0 | 1 | 0 | 0 | 5 | 1 | 0 | 0 | 1 |
 | 1 | 1046 | 0 | 4 | 1 | 3 | 5 | 0 | 1 | 0 | 0 | 0 |
@@ -74,14 +74,14 @@
 | faq | 1792 | 10 | 10 | 7 | 6 | 6 | 5 | 3 | 1 | 1 | 0 |
 | why-this-book | 1014 | 8 | 6 | 5 | 2 | 2 | 4 | 0 | 0 | 1 | 0 |
 
-## Overused words and phrases (book total 60096 words)
+## Overused words and phrases (book total 60129 words)
 
 | Word | Count | Per 1000 words | In how many files |
 |---|---|---|---|
 | nothing | 160 | 2.66 | 56 |
 | trap | 76 | 1.26 | 32 |
 | a man who | 69 | 1.15 | 38 |
-| itch | 52 | 0.87 | 22 |
+| itch | 53 | 0.88 | 23 |
 | sin | 48 | 0.8 | 28 |
 | exactly | 25 | 0.42 | 16 |
 | relief | 25 | 0.42 | 13 |

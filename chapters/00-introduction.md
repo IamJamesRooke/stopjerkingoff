@@ -12,7 +12,7 @@ He is no weakling. He has done harder things than this. Against this one thing h
 
 There is no dragon.
 
-There is a little monster. He lives in the man's house, in the back room upstairs. He is small, and he smells. He has no strength of his own. He lives on the meals the man carries up to him. When he gets hungry, he bangs on the floor. That banging is what put the phone in the man's hand tonight.
+Picture it this way instead. The man is a house, and in the back room upstairs lives a little monster. The monster is the craving, that small restless itch that says "go on". He is small, and he smells. He has no strength of his own. He lives on the meals the man carries up to him, and every time the man gives in, that is a meal. When the monster gets hungry, he bangs on the floor. That banging is the urge. It is what put the phone in the man's hand tonight.
 
 So why does the man keep feeding him? Because when he is fed, the banging stops. The quiet feels so good that the man thinks the little monster gave it to him. He says it helps him sleep. He says it takes the edge off. He wants the monster out, and he is afraid the quiet will go with him.
 
