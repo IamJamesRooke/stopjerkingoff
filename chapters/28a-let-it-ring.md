@@ -8,7 +8,7 @@ Imagine you're sitting in it and the telephone rings. It is the same telephone t
 
 Notice two things. First, the ringing has no power of its own. A bell is a noise in the air and can't lift a man out of a chair. It only moved you because you had the habit of obeying it. Second, not answering takes no effort. You aren't wrestling the phone. You're doing nothing at all, and doing it comfortably.
 
-Every cue you'll meet is that telephone. It may be the empty house, the photo in the feed, the bed at midnight, the bad day, or a message from a woman you had sworn off. Let it ring. It will stop.
+Every cue you'll meet is that telephone. It may be the empty house, the photo in the feed, the bed at midnight or the bad day. It may be a message from a woman you had sworn off. Let it ring. It will stop.
 
 The caller gets four answers, and you have just given the first: you said it once, and you said it outright. The other three keep it said. Give no reason. Don't let him down gently. Never answer again.
 
@@ -59,3 +59,5 @@ Which person? And who else needs to know?
 <!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): method H3: the tenant no longer telephones for life; the Little Monster starves, and what is left is the memory of a call. -->
 
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). The narrator no longer speaks as a Christian. -->
+
+<!-- 2026-11-22 last book-wide pass: sentences over 25 words split. -->

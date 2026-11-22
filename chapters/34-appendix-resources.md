@@ -16,7 +16,7 @@ Are you thinking about ending your life or harming yourself? Is the darkness you
 
 **If your own urges frighten you,** or what you look at has moved toward children, get help now. See a doctor or a counselor. There are also confidential services for exactly this, where trained people will help you without asking your name. You are not beyond help.
 
-If thoughts like that horrify you, arrive uninvited, and you would never act on them, that is often a treatable anxiety problem and no sign that you are dangerous. Tell a doctor exactly that.
+Suppose thoughts like that horrify you, arrive uninvited, and you would never act on them. That is often a treatable anxiety problem, and no sign that you are dangerous. Tell a doctor exactly that.
 
 What you're feeling is not the Little Monster, and it isn't a verdict on you. This habit loads a man with shame, and shame lies about how things will turn out. You're worth more than the worst thing you've done. No book can do the job of a person, though, so please go and find one.
 
@@ -38,7 +38,7 @@ Most readers will never need more than this book and a friend. If you do, there'
 
 - **Your pastor, priest or an elder.** Tell him plainly, once, as a man giving news.
 - **A Christian counselor.** See one if the habit is tangled up with something older and heavier, such as grief, abuse or a marriage in trouble. If you're not a believer, any good counselor who takes the problem seriously will do.
-- **Your doctor.** See a doctor about sleep that doesn't improve, a low mood that lasts more than two weeks, and low desire or erection trouble that lasts more than a few weeks. Erection trouble can be an early warning about the heart or the blood sugar. A doctor's instructions come before anything in this book. This is not a medical book. A doctor is the person to ask.
+- **Your doctor.** See a doctor about sleep that doesn't improve, or a low mood that lasts more than two weeks. Do the same for low desire or erection trouble that lasts more than a few weeks. Erection trouble can be an early warning about the heart or the blood sugar. A doctor's instructions come before anything in this book. This is not a medical book. A doctor is the person to ask.
 - **One honest friend.** He's the cheapest help on this list and often the best.
 - **For wives.** You need someone of your own to talk to. That might be a wise older woman, a pastor or a counselor. Some counselors specialize in helping wives after a discovery like this. Ask for one who works with betrayal trauma.
 
@@ -80,3 +80,5 @@ The Attribution page names the other writers and speakers quoted in this book. A
 <!-- 2026-11-19 psych review fixes applied (editorial/PSYCH-REVIEW.md): see that file for the reasoning and sources. -->
 
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
+
+<!-- 2026-11-22 last book-wide pass: sentences over 25 words split. -->

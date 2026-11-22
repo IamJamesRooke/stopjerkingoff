@@ -22,7 +22,7 @@ Tell her once, and tell her the truth: what it was, for how long, and whether th
 
 Then let her set the pace. She may be angry, or cold, or want to see your phone, or need time. None of that is a failure to forgive. Trust comes back slowly, and you don't get to say when. Don't ask her to keep score for you. But if she asks to look, show her.
 
-Ask her what she needs, and mean it. If she wants a counselor, a pastor or a friend of her own to talk to, help her get one. If there was an affair, anything against the law, or anything that puts her health at risk, talk to a pastor or counselor first about how to tell her well. Do it soon. If there was another person or paid sex, both of you should see a doctor and be tested before you are intimate again.
+Ask her what she needs, and mean it. If she wants a counselor, a pastor or a friend of her own to talk to, help her get one. There may have been an affair, or something against the law, or something that puts her health at risk. Then talk to a pastor or counselor first about how to tell her well. Do it soon. If there was another person or paid sex, both of you should see a doctor and be tested before you are intimate again.
 
 She doesn't owe you praise for stopping. You owe her a husband who is all there.
 
@@ -41,3 +41,5 @@ That is the method, start to finish. When it goes wrong, it goes wrong in only f
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
 
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). New short section for the man with a girlfriend; the narrator no longer assumes the reader prayed. -->
+
+<!-- 2026-11-22 last book-wide pass: sentences over 25 words split. -->

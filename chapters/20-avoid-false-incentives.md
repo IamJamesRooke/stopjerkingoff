@@ -12,7 +12,7 @@ The internet has built grander prizes than sneakers. Here are the three you're m
 
 ## 1. The superpowers {-}
 
-Spend an evening on the NoFap forums and you'll be promised a deeper voice, clear skin, an "aura", and women drawn across the room by forces unknown.
+Spend an evening on the NoFap forums. You'll be promised a deeper voice, clear skin, an "aura", and women drawn across the room by forces unknown.
 
 None of it is proven, and the hype does its damage right here. You stop. Day twelve arrives. You inspect the mirror and find the same face. The barista hasn't noticed a thing. Then comes the whisper: "It isn't working. You gave it up for nothing." You were promised wages, the wages didn't come, and you go back to the old job.
 
@@ -75,3 +75,5 @@ So there is no prize, no badge and no bargain. What is left is the easy way, and
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
 
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
+
+<!-- 2026-11-22 last book-wide pass: sentences over 25 words split. -->
