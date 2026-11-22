@@ -24,7 +24,7 @@ Find any man with the habit and ask him one thing. "Suppose you could go back to
 
 "Not a chance."
 
-Isn't that strange? Millions of men do this, many of them daily, and not one would choose it again.
+Isn't that strange? Millions of men do this, many of them daily, and hardly one would choose it again.
 
 So the puzzle was never how stopping could be easy. The puzzle is why it seems hard. Under that sits a bigger one. Why does anybody do it at all?
 
@@ -89,3 +89,5 @@ It is wrong.
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
 
 <!-- 2026-11-22 chapters 1 to 5 rebuild (James: 'the same level of attention to detail' as the Introduction; show, don't tell; concrete details; simple sentences; section headers). Opening now answers the question chapter 4 ends on; feelings shown (the thumb unlocking the phone, clearing the history, the stone in his pocket); five section headers; the three explanations given in the man's own words; 'we're all still praying it' became 'men still pray it' so the narrator is not counted among them. New shown moments are illustrations, not real people. The previous text is saved whole in editorial/PARKING.md. -->
+
+<!-- 2026-11-22 SKEPTIC READ (James: read 'as an atheist who reads despite the god talk and still thinks that marriage is a joke, it's a scam which is against men... Women have a legal incentive to divorce. The family courts are against men. This IS true. But try and get it so, by the end, he agrees'). Stage 1 fixes: a plain reason set beside each claim that stood on God alone; the divorce courts conceded early. -->

@@ -32,7 +32,7 @@ I had been fighting the habit for years. A free book, [*The Easy Peasy Way to Qu
 
 After that I joined a men's recovery group at a church. I had always written Christianity off as silly superstition. Sitting in that room, I changed my mind.
 
-Not about everything. I don't understand all of it. But it has lasted two thousand years, and the civilization I want to live in was built on it. Nothing silly lasts that long or builds that much. I came to think there is a deeper power behind it. I don't deny God, and I decided to take the whole thing seriously.
+Not about everything. I don't understand all of it. But it has lasted two thousand years, and the civilization I want to live in was built on it. Age alone proves nothing, and other old faiths can say as much. What moved me was smaller. It described me exactly. I came to think there is a deeper power behind it. I don't deny God, and I decided to take the whole thing seriously.
 
 One thing in that room puzzled me. The group fought the habit the way everyone fights it, with willpower. If grace is real, getting free shouldn't be an arm-wrestle for the rest of your life.
 
@@ -103,3 +103,5 @@ So start with the Little Monster. If he does nothing for you, why has every atte
 <!-- 2026-11-22 light line pass with chapters 1 to 5: ten small edits (stated feelings shown or cut; 'like something he rents' is now 'like a rental car'; 'You have thrown him out before.' added to the last paragraph). 'Deeper power' kept: it is James's phrase. -->
 
 <!-- 2026-11-22 (James: 'The proof that the book works is that I overcame the addiction myself. Which I still haven't.'): the book must not say or imply that the narrator is already free. 'If a man with my record can see through it, so can you' implied he was out. -->
+
+<!-- 2026-11-22 SKEPTIC READ (James: read 'as an atheist who reads despite the god talk and still thinks that marriage is a joke, it's a scam which is against men... Women have a legal incentive to divorce. The family courts are against men. This IS true. But try and get it so, by the end, he agrees'). Stage 1 fixes: a plain reason set beside each claim that stood on God alone; the divorce courts conceded early. -->

@@ -18,7 +18,7 @@ Start with masturbation, because the loudest lies are about that. Your grandfath
 
 **"A man needs the release."** You need air, water and food. Go without those and you die. No man has ever been carried out of a tent after a week's camping because he couldn't get a minute alone.
 
-**"It keeps you out of worse trouble."** Nowhere does the Bible tell a man to commit one sin in order to avoid another. And it doesn't even work. Ask the men who quit porn and kept the hand. The hand let the porn back in.
+**"It keeps you out of worse trouble."** It doesn't even work. Ask the men who quit porn and kept the hand. The hand let the porn back in. And nowhere does the Bible tell a man to commit one sin in order to avoid another.
 
 ## The opposite lie {-}
 
@@ -91,3 +91,5 @@ Those are the lies about the hand. The lies about porn are worse, because somebo
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
 
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'). Closed the reading 'my habit is fine, only my guilt is the problem'. -->
+
+<!-- 2026-11-22 SKEPTIC READ (James: read 'as an atheist who reads despite the god talk and still thinks that marriage is a joke, it's a scam which is against men... Women have a legal incentive to divorce. The family courts are against men. This IS true. But try and get it so, by the end, he agrees'). Stage 1 fixes: a plain reason set beside each claim that stood on God alone; the divorce courts conceded early. -->
