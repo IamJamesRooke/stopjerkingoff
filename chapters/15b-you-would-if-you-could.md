@@ -72,7 +72,7 @@ Even the husband who only ever pictures his wife is not safe. He's still teachin
 
 You have met C.S. Lewis's harem of imaginary brides. He also saw what the harem does to a man. The imaginary women are always available. They never refuse, and they never ask a man to give anything up. There is nobody at the other end of any of them. So, Lewis wrote, "this harem, once admitted, works against his ever getting out and really uniting with a real woman." A real woman has moods, needs and a mind of her own. The harem has none, so the real woman starts to feel like hard work.
 
-The 2020s gave the harem a voice. A man can now talk every night to a girlfriend made by a computer. She is always awake and always pleased with him. She never has a bad day and never says no. In one American survey in 2025, nearly a third of young men said they had chatted with a machine as a boyfriend or girlfriend. Of everyone in the survey who had tried it, about one in five said they liked it better than talking to a real person. Now the walls talk back.
+The 2020s gave the harem a voice. You may never have tried this. Keep reading, because it shows where the film in a man's head is going. A man can now talk every night to a girlfriend made by a computer. She is always awake and always pleased with him. She never has a bad day and never says no. In one American survey in 2025, nearly a third of young men said they had chatted with a machine as a boyfriend or girlfriend. Of everyone in the survey who had tried it, about one in five said they liked it better than talking to a real person. Now the walls talk back.
 
 Lewis warned where it ends: "The danger is that of coming to love the prison."
 
@@ -111,3 +111,5 @@ That deals with the women who aren't there. The next excuse is about the ones wh
 <!-- 2026-11-22 LEAKS closed after a test reader who bargains as James does. The chapter's blows all needed a wife or girlfriend; the single man now gets his own paragraphs. -->
 
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). 'He isn't making a choice' read as 'tonight isn't my choice'. -->
+
+<!-- 2026-11-22 (James: 'some chapters won't apply to everybody... maybe you're not on subscription sites but keep reading because you will see how this is destroying other men's lives as well... Maybe you don't have an AI gf, but this is what lust leads to'). 'Keep reading' line before the computer girlfriend. -->

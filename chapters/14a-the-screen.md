@@ -18,7 +18,7 @@ Then count what he carries out. The strong dose doesn't feed the Little Monster 
 
 ## The woman who says his name {-}
 
-Some men have gone one step past the free sites. Such a man would never go to a prostitute. But he pays a monthly fee to see one woman's private pictures, and he tips her so that she will write back. Or he sends money to a woman who plays video games on a live stream, so that she will say his name.
+Some men have gone one step past the free sites. You may not be one of them. Keep reading anyway, because this is where the screen leads, and it takes down another lie. Such a man would never go to a prostitute. But he pays a monthly fee to see one woman's private pictures, and he tips her so that she will write back. Or he sends money to a woman who plays video games on a live stream, so that she will say his name.
 
 It is a big business. In 2024, men spent more than seven billion dollars on the largest of these subscription sites. Here is what that money often buys. Reporters found that many of the women there never write the messages at all. Agencies hire workers to do it, called chatters. Many of them are men, sitting in offices on the other side of the world, paid to type like her and to keep him spending.
 
@@ -51,3 +51,5 @@ Plenty of men shut this door and settled for that. Then they heard a knock from 
 <!-- 2026-11-22 LEAKS closed after a test reader who bargains as James does. The door no longer says 'if you do go in' or 'the No that counts comes at the end' (read as: tonight is research, tonight doesn't count). A door shuts by being seen through. -->
 
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). 'It only costs more' made the hand the cheap option; PMO is defined once, in the map just before. -->
+
+<!-- 2026-11-22 (James: 'some chapters won't apply to everybody... maybe you're not on subscription sites but keep reading because you will see how this is destroying other men's lives as well... Maybe you don't have an AI gf, but this is what lust leads to'). 'Keep reading' line before the subscription sites. -->
