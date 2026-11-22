@@ -42,7 +42,7 @@ After that, the two of you have real choices. You can bring the wedding forward.
 
 Only one choice is closed. Don't tell yourself you'll sort it out later and go on as before. "Later" is the oldest lie in the house.
 
-That is every room in the house. Two men are still standing in the hall, and neither has a fiancée. The first is dating.
+That is every room in the house. One excuse is left over from this one, and it wears a lab coat.
 
 <!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md): NEW CHAPTER, the hardest case under the fifth head, Take. The man is an anonymous archetype (STYLE.md, archetypal stories), written at James's direction: keep the biblical view as the ideal. No quotations and no statistics. -->
 

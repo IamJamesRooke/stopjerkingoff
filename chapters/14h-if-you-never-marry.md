@@ -40,7 +40,7 @@ And the thirty years? Nobody lives thirty years. He lives today, and today you h
 
 The man who never does it doesn't lie awake counting decades. He isn't starving. He is spared the itch you quiet for ten minutes.
 
-That is every room in the house, and every man in the hall. One more thing has kept the Little Monster alive in all of them for years, and it isn't desire. It is a locked door.
+That is every man in the hall. So far this walk has only shut doors. One door is left, and it opens.
 
 <!-- 2026-11-22 NEW CHAPTER from the whole-book test as James (lies 2 and 5: 'I'll probably never marry. So this is no sex for thirty years'; 'No touch, no one in the bed, for years'). It admits the married man's good may be missed and shows what is actually on the single man's table. 'It taught you to lose interest in a woman the day after you had her' and 'a dozen women on a phone' echo the narrator's own story in Who Is Telling You This. Paul: paraphrase of 1 Corinthians 7:32, not quoted. No studies or invented people. The closing hook was the last paragraph of But I'm Going to Marry Her. -->
 
