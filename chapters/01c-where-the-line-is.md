@@ -64,6 +64,8 @@ Then test the lines the way you would test a bridge. Put weight on them.
 
 You may be single, past forty, and unsure you will ever marry. Then the line seems to offer you nothing but going without. That man gets a full answer before this walk is over.
 
+Or you may think marriage itself is a rigged deal for a man. That charge gets a full hearing too, with the numbers.
+
 I am not saying this from a pulpit. Check it against your own years. You drew every easier line to keep something. What did the thing you kept ever give you?
 
 So the old line is not the strict one among many good ones. It is the only one that holds. It didn't last three thousand years by being old.

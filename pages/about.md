@@ -12,7 +12,7 @@ The book uses a cognitive approach, in the tradition of Allen Carr's *Easy Way t
 
 - **Genre:** self-help and personal development, with a Christian point of view. Readers who are not religious can still use it.
 - **Audience:** adult men. It also includes advice for wives, parents and pastors who want to help someone.
-- **Length:** 73 short chapters, a few hours of reading.
+- **Length:** 75 short chapters, a few hours of reading.
 - **Formats:** read online on this site, or download the [PDF](stopjerkingoff.pdf) or [EPUB](stopjerkingoff.epub).
 - **License:** Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0).
 - **Inspiration:** the structure and method come from [EasyPeasy](https://easypeasymethod.org/), a CC BY-SA book about quitting pornography. See the [attribution page](attribution.html).
