@@ -3,12 +3,12 @@
 - **pen name / author name in book files**: 1 hit(s) attribution:11
 - **EasyPeasy author credit (Hackauthor)**: 2 hit(s) attribution:21, attribution:27
 - **'hackbook' (unexplained jargon)**: 0 hit(s) 
-- **first-person author anecdote (I + past tense)**: 9 hit(s) Intro:9, 1a:5, 1a:13, 1a:15, 1a:19, 1a:25, 1a:47, 1a:57, 1a:71
+- **first-person author anecdote (I + past tense)**: 9 hit(s) Intro:9, 1a:7, 1a:17, 1a:19, 1a:23, 1a:31, 1a:57, 1a:67, 1a:81
 - **'wifey' / casual**: 0 hit(s) 
 - **'sequel' (allowed only as 'not an official sequel')**: 0 hit(s) 
 - **'play along' (allowed: Intro, Ch 32)**: 0 hit(s) 
 - **'atheist' (convention: say 'not a believer')**: 0 hit(s) 
-- **'jerking off' (use rarely, on purpose)**: 2 hit(s) 1a:67, 3c:15
+- **'jerking off' (use rarely, on purpose)**: 2 hit(s) 1a:79, 3c:15
 
 ## Files outside the chapters that name the repository owner
 

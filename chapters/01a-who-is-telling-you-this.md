@@ -2,6 +2,8 @@
 
 This book is about you. But a man who says the habit has no benefits at all should tell you how he knows.
 
+## The awkward boy {-}
+
 I was the awkward boy who couldn't talk to girls. I never went to a school dance. Who would even want me?
 
 At sixteen I found masturbation, and it became my drug. Several times a day. At twenty-one I got fast internet, and the porn came with it. Nobody would have guessed. From the outside, my life looked fine.
@@ -9,6 +11,8 @@ At sixteen I found masturbation, and it became my drug. Several times a day. At 
 When I got my first girlfriend, I couldn't finish with her. My body had been trained on a screen. A real woman was in my bed, and I kept watching porn.
 
 It cost me three relationships, an engagement and a marriage.
+
+## Thirteen ways to be anxious {-}
 
 After that I went the other way. I chased woman after woman, just to run up the count. I spent my nights in bed with the phone, swiping and sexting. When I liked one, I checked my phone for her texts all day, sick with nerves. To ease the nerves, I kept a dozen other women talking as backups. That is not a man with options. That is a man with thirteen ways to be anxious.
 
@@ -20,6 +24,8 @@ I used to think that was a clever line. Now I hear what it says. That is a man t
 
 And none of it was ever enough.
 
+## A room in a church {-}
+
 Then one woman loved me anyway, baggage and all. I knew how this story went. If I didn't fix it, I would lose her too.
 
 I had been fighting the habit for years. A free book, [*The Easy Peasy Way to Quit Porn*](https://easypeasymethod.org/), kept me clean for almost a year. I went back, because I hadn't done what it said. That one is on me, not the book.
@@ -28,7 +34,11 @@ After that I joined a men's recovery group at a church. I had always written Chr
 
 Not about everything. I don't understand all of it. But it has lasted two thousand years, and the civilization I want to live in was built on it. Nothing silly lasts that long or builds that much. I came to think there is a deeper power behind it. I don't deny God, and I decided to take the whole thing seriously.
 
-One idea in that room hit me harder than the rest.
+One thing in that room puzzled me. The group fought the habit the way everyone fights it, with willpower. If grace is real, getting free shouldn't be an arm-wrestle for the rest of your life.
+
+## The villain in the story {-}
+
+One idea in that room hit me harder than anything else.
 
 The modern world preaches social justice, and its hero is the victim. It says you are good, and they are evil. Its favorite words are "problematic" and "systemic". Its cure is to tear down the traditional values of the West.
 
@@ -42,7 +52,7 @@ Aleksandr Solzhenitsyn, a Russian writer who survived the Soviet labor camps, sa
 
 It runs through mine. I am the villain in several stories. Some of the women you just heard about would tell it that way.
 
-One thing in that room puzzled me. The group fought the habit the way everyone fights it, with willpower. If grace is real, getting free shouldn't be an arm-wrestle for the rest of your life.
+## Men are sedated {-}
 
 By then I had been praying for months. I was asking God how to fix the world. That is a big ask from a man who couldn't manage his own evenings.
 
@@ -56,6 +66,8 @@ Social media does something extra. It leaves him anxious, and he can't say why. 
 
 He is not entirely wrong. But a sedated man can't fix a rigged game. I was some version of that man.
 
+## The eleventh hour {-}
+
 One night, at the eleventh hour, a thought came. It wasn't about the world. It was about me. Start there. Jordan Peterson, a Canadian psychologist, tells young men the same thing in plainer words. Clean your room before you try to fix the world.
 
 I couldn't clear every drug off that list. I just wanted to be cured of one. Lust.
@@ -64,15 +76,17 @@ I looked for a book like the free one, but going past porn to lust itself. I cou
 
 Then I put it out for anyone to take, because I am not the only one. Not even close. In that church I saw the problem was bigger than I had thought. The men in the pews have it too.
 
-If a church threw everything at this one thing, it would change for good. Get the men to stop jerking off. Get them to stop watching porn. Get them to stop simping, begging women for crumbs of attention. It fills up with men who have balls and put that wasted energy into getting something done.
-
-I don't run a church. I have a book.
+I think this is where the church should put its full-court press. That is a basketball term for all-out pressure, everywhere on the floor. Wipe out this one problem. Get the men to stop jerking off, stop watching porn and stop simping, which is begging women for crumbs of attention. Change the men, and you change the whole church. It fills up with men who have balls and put that wasted energy into getting something done.
 
 I have been most of the men you'll meet in this book. I gave the habit every chance to pay me back, and it never did. If a man with my record can see through it, so can you.
 
 That is enough about me.
 
+## Where the method comes from {-}
+
 I didn't invent this way of quitting. A man named Allen Carr did, for smokers. His book, *The Easy Way to Stop Smoking*, has helped a great many people put down cigarettes without a fight. The free book that helped me took Carr's method and turned it on porn. This book borrows from both, and takes the same method to lust itself. The credit is theirs. Any mistakes are mine.
+
+## If you believe, and if you don't {-}
 
 The best pictures of this trap are in the Bible, so this book quotes it. If you don't believe, read it as you would any old book that turns out to know you. When you hear God or sin mentioned, take it as your conscience talking. If you hold another faith, bring it with you.
 
@@ -83,3 +97,5 @@ Paul, the apostle who wrote much of the New Testament, told the Christians in Ro
 So start with the squatter. If he does nothing for you, why does he keep coming back? The best answer anyone has given is two thousand years old. It is a story about a house.
 
 <!-- 2026-11-22: new chapter, split out of 'The Easy Method' at James's word. The narrator's story is built from his own outline and corrections. He is not a Christian yet, so it never says he is. STILL UNCONFIRMED by James: 'cheaper, and it took less time'; 'I was some version of that man' (the evening of drink, burger and fries, cookies, a game, scrolling); 'Start there.' as the eleventh-hour thought; 'I gave the habit every chance to pay me back, and it never did'; whether 'three relationships, an engagement and a marriage' is five things or three. STILL MISSING: where he stands now and whether he kept her; the story must not claim either until he says so. Scripture (World English Bible): Romans 8:1 (first half), Romans 12:2 (first half). -->
+
+<!-- 2026-11-22 (James: 'Chapter 3 is great', add sections, cohesion pass, drop the line about running a church): eight spoken section headings; the willpower puzzle moved up to the church-room section so the villain section runs unbroken; the church paragraph is now his view that this is where the church should put its full-court press (explained in place), with 'I don't run a church. I have a book.' removed. -->
