@@ -72,7 +72,7 @@ I was an awkward boy who couldn't talk to girls. At sixteen I found masturbation
 
 Then I had my first girlfriend, and I couldn't finish. A real woman was no match for what porn had taught me to expect. So I kept the porn.
 
-The habit cost me three relationships, an engagement and a marriage. After that I went the other way, woman after woman, to push a number up. I was on the apps all day. When I liked one, I sat waiting for her texts, and I kept ten conversations going in case she went quiet. When I got sick of the chase, I paid for sex and told myself it was only her job. None of it was ever enough.
+The habit cost me three relationships, an engagement and a marriage. After that I went the other way, woman after woman, to push a number up. I was on the apps all day. When I liked one, I checked my phone obsessively for her texts. To ease the nerves, I kept a dozen other women talking as backups. When I got sick of the chase, I paid for sex and told myself it was only her job. None of it was ever enough.
 
 Then a woman loved me anyway, baggage and all. I knew that if I didn't fix this, I would wreck that too.
 
@@ -80,7 +80,7 @@ I had been fighting it for years. A free book called [*The Easy Peasy Way to Qui
 
 The group, though, fought the way everyone fights, with willpower. That seemed backward to me. If grace is real, freedom shouldn't be an arm-wrestle that lasts for life.
 
-That room changed how I saw something else too. Social justice ideology teaches a man that he is a victim. The evil is out there, in the system or in the other side, and he is the one it was done to. Christianity teaches the opposite. It says we are all sinners. Every one of us is the villain in somebody else's story. Left to ourselves we rape, enslave and slaughter, and history is the record of it. The miracle is that we ever do anything else.
+That room changed how I saw something else too. Modernity teaches an ideology of social justice, and it glorifies the victim. You are good, and they are evil. Society is "problematic", its faults are "systemic", and the traditional values of the West must be torn down. Christianity teaches the opposite. It says we are all sinners. Every one of us is the villain in somebody else's story. Human nature is not basically good. Rape, slavery and slaughter are the default, and history is the record of it. Morality has to be taught, and we all fall short of it.
 
 Aleksandr Solzhenitsyn was a Russian writer who spent eight years in the Soviet labor camps. He came out saying that the line between good and evil does not run between us and them. It runs through every human heart. Jordan Peterson, a Canadian psychologist, puts it more plainly: clean your own room before you try to fix the world.
 
