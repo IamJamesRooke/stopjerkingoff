@@ -34,14 +34,18 @@ There is a woman on that screen. You can't know how she got there, or how old sh
 
 That is the first room, and you have looked inside it.
 
-Nobody is asking you for a vow. If you find you don't want what is in there, don't go in. No one is counting days. If you do go in, keep your eyes open, and notice what you carry out. There is no pressure either way. The No that counts comes at the end, and it covers the whole house.
+Nobody is asking you for a vow, and no one is counting days. A door like this doesn't shut by force. It shuts when you have seen that there is nothing in the room you want. If you have seen it, the door is shut already.
 
-A man who shuts this door has stopped paying that trade. Nobody on a screen is being used for him any longer. That is good for them.
+The one No at the end of the book covers the whole house. It will be easy, because by then every door is shut.
 
-For him, the first bargain is waiting just outside, and it sounds like a virtue. "I'm jerking off, but at least I'm not watching porn."
+A man who shuts this door has stopped paying that trade. Nobody on a screen is being used for him any longer. That is good for them. It has done nothing yet for him.
+
+The first bargain is waiting just outside, and it sounds like a virtue. "I'm jerking off, but at least I'm not watching porn."
 
 Plenty of men shut this door and settled for that. Then they heard a knock from the next room down the hall.
 
 <!-- 2026-11-22 NEW CHAPTER for the ladder (James: porn first, the PMO rung, with the paid sites; 'no pressure'; PMO to MO is progress because porn hurts others). The section 'The woman who says his name' is moved whole from The Collector and the Customer (subscription sites, the 2024 seven-billion figure, the chatters); sources are in that chapter's trailing notes. No new facts. 'His face shows nothing' and the ceiling call back to the Introduction. -->
 
 <!-- 2026-11-22 AT LEAST (James: 'What I really want is for ME to be convinced and not even want these things... I'm jerking off but at least not watching porn / I'm not jerking off but at least I'm with a real woman / I'm jerking off but it's only thinking about other woman, not doing anything about it... I still feel myself believing the lies'; 'each door must be sequentially shut'). The door no longer praises the man for leaving porn; it says who gains (the people on the screen) and names the first bargain in his words. -->
+
+<!-- 2026-11-22 LEAKS closed after a test reader who bargains as James does. The door no longer says 'if you do go in' or 'the No that counts comes at the end' (read as: tonight is research, tonight doesn't count). A door shuts by being seen through. -->

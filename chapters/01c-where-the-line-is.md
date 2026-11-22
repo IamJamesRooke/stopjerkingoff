@@ -6,7 +6,7 @@ Before the last room, that test deserves a proper look, because the last room is
 
 Start with what the test does not condemn.
 
-Noticing a beautiful woman is not lust. Wanting a wife is not lust. Wanting your own wife certainly isn't. Desire was God's idea. He made it strong on purpose, strong enough to pull a man out of his father's house and into a promise.
+Noticing a beautiful woman is not lust. Wanting a wife is not lust. Wanting your own wife certainly isn't. Desire is not the enemy. If you believe in God, it was his idea. It is strong on purpose, strong enough to pull a man out of his father's house and into a promise.
 
 Lust is desire with the promise taken out. It wants the woman without the vow, and the pleasure without the person.
 
@@ -20,7 +20,7 @@ That leaves the bed, and the test is hardest there. She is in it too, and she ma
 
 The Bible drew the line in the same place three thousand years ago. Sex belongs inside marriage. The book of Proverbs says it the way a father would say it to his son: "Drink water out of your own cistern, running water out of your own well." Inside a marriage, sex is a gift. A husband and wife who give themselves to each other are on the right side of the line. The screen, the hand, the private film of another woman, the chase and any bed outside marriage are on the other side.
 
-Count the doses once more. Porn, the hand and the orgasm together were the strong one. The hand and the orgasm were the mild one. Take both away, and the wanting of the orgasm was still there, looking for a feed, a daydream or a bed. It was one drug all along.
+Count the doses once more. Porn, the hand and the orgasm together were the strong one. The hand and the orgasm were the same drug with the screen taken away, and the hold was no weaker. Take both away, and the wanting of the orgasm was still there, looking for a feed, a daydream or a bed. It was one drug all along.
 
 But it was only ever a drug outside the promise. Inside the promise the same thing is a gift, and it is for one person.
 
@@ -44,11 +44,13 @@ You could draw the line somewhere easier. Most men do. Every easier line has a n
 
 Look at what each of them does. It shuts some rooms and keeps one ready. You know what happens to a room that is kept ready. The whole habit moves into it. A man with one room left is not nearly free. He is fed in full, through one door.
 
-Only one line keeps no room ready. That isn't a religious claim. Count the rooms.
+Only one line keeps no room for the hit. That isn't a religious claim. Count the rooms.
+
+Marriage is not one more room, with a license on the door. Inside the promise the same test still runs. Sex there is a gift, or it is the old using, and a ring doesn't change which.
 
 Then test the lines the way you would test a bridge. Put weight on them.
 
-**Who gets used?** Behind every easier line, somebody is used. It is a woman on a screen, or a woman in your head who never agreed. It is a woman in a bed, or it is you. Inside the promise nobody is used. Both of them gave, and both of them stay.
+**Who gets used?** Behind every easier line, somebody is used. It is a woman on a screen, or a woman in your head who never agreed. It is a woman in a bed, or it is you. Inside the promise nobody has to be. Both of them gave everything first, and both of them stay.
 
 **What has to be hidden?** Every easier line needs a locked door, a cleared history, or a "Quiet" when she asks about your night. A husband and wife have nothing to hide from anyone.
 
@@ -56,15 +58,19 @@ Then test the lines the way you would test a bridge. Put weight on them.
 
 **Where does the desire go?** On every easier line it is spent, on a screen or a tissue or a stranger. Inside the promise the same force builds a bond, a home and perhaps children. One line burns it. The other puts it to work.
 
+You may be single, past forty, and unsure you will ever marry. Then the line seems to offer you nothing but going without. Look at what you would be going without. It is relief from an itch that the last time made. Nothing was ever owed to you nightly. The man who never does it isn't starving. He feels all day what you feel for ten minutes.
+
+And ask what the habit did with your desire all those years. That force is meant to send a man out looking for a wife. Yours was paid off every night, at home, for nothing. Left unpaid, it goes back to its work.
+
 I am not saying this from a pulpit. Check it against your own years. You drew every easier line to keep something. What did the thing you kept ever give you?
 
-So the old line is not the strict one among many good ones. It is the only one that holds. That is why it has lasted three thousand years.
+So the old line is not the strict one among many good ones. It is the only one that holds. It didn't last three thousand years by being old.
 
 ## Not a verdict {-}
 
 If you have spent years on the wrong side of the line, so has nearly every man who ever lived. That includes the one writing this. This chapter isn't a verdict on you. It's a map, and you can't leave a place until you know where its edge is.
 
-And don't try to drag yourself across the line tonight by force. That is sweeping the house again. For now it's enough to know where the line is. The one exception is another person. If someone else is in it, you are making a choice about her, and you can stop making it today.
+And don't try to drag yourself across the line tonight by force. That is sweeping the house again. A man crosses it when nothing on the wrong side is worth having. The one exception is another person. If someone else is in it, you are making a choice about her, and you can stop making it today.
 
 So that is the line. The last room is the hardest in the house. The man in it isn't using a stranger. He has found the right woman, and he means to keep her. The best excuse in the house has been saved for him.
 
@@ -84,3 +90,5 @@ SOURCES: Epigraph and body quotation: Proverbs 5:15 (WEB, checked 2026-11-20). "
 <!-- 2026-11-22 LADDER (James: go after each behavior in turn; PMO is the enhanced version, MO the mild version, 'the O is only for one person'; no pressure; name fornication; PMO to MO is progress because porn hurts others). Added the two paragraphs that close James's frame: one drug at three strengths, and inside the promise 'it is for one person'. Plan: /mnt/project-files/easy-peasy/ladder-plan-2026-11-22.md -->
 
 <!-- 2026-11-22 AT LEAST (James: 'What I really want is for ME to be convinced and not even want these things... I'm jerking off but at least not watching porn / I'm not jerking off but at least I'm with a real woman / I'm jerking off but it's only thinking about other woman, not doing anything about it... I still feel myself believing the lies'; 'each door must be sequentially shut'). New section 'Why not an easier line?': the case for the biblical line on its merits for any reader (every easier line keeps a room ready; four tests: who gets used, what has to be hidden, would you hand it on, where does the desire go). The narrator says he is not speaking from a pulpit. -->
+
+<!-- 2026-11-22 LEAKS closed after a test reader who bargains as James does. Closes: 'count the rooms proves abstinence, not marriage' and 'nobody is used' overclaim (marriage is not a licensed room; the test still runs); the single man past forty who may never marry; 'three thousand years is age, not argument'; 'for now it's enough to know' (read as permission). 'Desire was God's idea' no longer asserts God to an unconvinced reader. -->

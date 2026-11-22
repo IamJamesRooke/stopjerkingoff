@@ -16,6 +16,10 @@ That is the trouble with lust. It doesn't care who she is. It will use a strange
 
 The photograph is half of it. The other half is the bed. The old word for sex outside marriage is fornication, and the word doesn't ask whether he loves her. It asks whether he has married her. "We're as good as married", he says. Listen to the words. Everything that makes a marriage is in the part he hasn't done yet. That part is the promise, said aloud in front of witnesses, with the door closed behind him. If they truly are as good as married, the wedding is good news, and it can be small and soon. And if there is a reason he can't marry her yet, he already knows the two are not the same.
 
+Perhaps you say the promise is already made, in private, and a wedding adds nothing. Then ask what the private promise leaves open. It leaves a way out that costs you nothing and needs nobody's leave. She knows that door is there, and so do you. A promise said in front of witnesses shuts it. If you would shut it gladly, shut it. If you wouldn't, you have your answer.
+
+Yes, people break public promises too. That is a reason to keep a promise. It is no reason to avoid making one.
+
 You may be thinking that this is a great deal of fuss over a few months. Look at what the months are for.
 
 She is about to trust one man with the rest of her life. There will be a year when she is ill, or eight months pregnant, or three thousand miles away. In that year she will need a man whose desire for her doesn't turn into a demand. He can show her now that she is getting one. No ring says it half as well.
@@ -53,3 +57,5 @@ That is every room in the house. One more thing has kept the Little Monster aliv
 <!-- 2026-11-21 five-star pass (H3; cold-listener 1.7): 'The pictures' arrived, shortened, from 'Mothers, Sisters, Daughters'; the non-believer paragraph's last two sentences made plain; the 'fair point' no longer generalizes about women. -->
 
 <!-- 2026-11-22 LADDER (James: go after each behavior in turn; PMO is the enhanced version, MO the mild version, 'the O is only for one person'; no pressure; name fornication; PMO to MO is progress because porn hurts others). Fornication is named once, in the bed paragraph. No 'no pressure' door here: another person is involved, and the chapter already sets out the choices. Plan: /mnt/project-files/easy-peasy/ladder-plan-2026-11-22.md -->
+
+<!-- 2026-11-22 LEAKS closed after a test reader who bargains as James does. Closes 'a committed couple with a private promise passes every test; why witnesses?' and 'people divorce anyway'. -->

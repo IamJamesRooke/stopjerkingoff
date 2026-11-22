@@ -42,6 +42,12 @@ She deserves better than a man whose loyalty depends on his luck. She deserves a
 
 That man isn't gritting his teeth. He has stopped wanting it, so there is nothing left to offer him.
 
+The single man thinks none of this touches him. He has nobody to betray. But look at what he is practicing. Each night he takes a woman who has no say, no needs and no name tomorrow. If he wants a wife one day, he is training to be a man she can't trust. If he never marries, he still has to live in that head.
+
+And try one test. The woman from work is in his film tonight. Could he describe it to her at lunch tomorrow? If the film were harmless, he could.
+
+Ask the question of this room. What has the film ever given him, except the itch for the next showing?
+
 ## Filling the gap {-}
 
 The married man has one more line. At least he has never cheated. He believes he's owed a release every day or two, and his wife is not always of the same mind. She's tired, or pregnant, or away, or they've had a fight. So he "fills the gap", and the film in his head plays while he does.
@@ -101,3 +107,5 @@ That deals with the women who aren't there. The next excuse is about the ones wh
 <!-- 2026-11-21 five-star pass (H3; review item B4, cold-listener join 1 and item 4.2): this chapter now carries the thought life. In from the dissolved 'At Least I'm Not Him': the married man (new section 'Filling the gap', with the quote "I was beside myself over how I had grieved God and my wife", Fred, Covenant Eyes comments, 22 Oct 2014) and the imagination-only man (inside 'The harem in your head'; his last sentence cut as a repeat of Lewis). In from the dissolved 'The Ladder': the man with a machine and the 2025 survey (Wheatley Institute, BYU, 'Counterfeit Connections', Feb 2025). Full source notes for all three are in 14-types-of-user.md. The closing hook now hands to 'Mothers, Sisters, Daughters' with 'I can't walk around with my eyes shut'. -->
 
 <!-- 2026-11-22 AT LEAST (James: 'What I really want is for ME to be convinced and not even want these things... I'm jerking off but at least not watching porn / I'm not jerking off but at least I'm with a real woman / I'm jerking off but it's only thinking about other woman, not doing anything about it... I still feel myself believing the lies'; 'each door must be sequentially shut'). The third bargain is quoted in James's words at the top of the chapter, with its answer. -->
+
+<!-- 2026-11-22 LEAKS closed after a test reader who bargains as James does. The chapter's blows all needed a wife or girlfriend; the single man now gets his own paragraphs. -->

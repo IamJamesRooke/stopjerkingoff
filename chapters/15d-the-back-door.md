@@ -6,7 +6,7 @@
 
 "Fine. No porn. But the hand on its own is natural."
 
-That is the knock from the second room, and nearly every man has stood in it. This is the mild dose: the hand and the orgasm with no screen. The forums write it MO. Some men have read every page so far and quietly filed it under porn. The screen was the problem, they decide, and the hand without the screen is another matter. A man quits porn and is proud of it. For the women on the screen it is a real change. Nobody is being used for him now. For him, nothing has changed. He keeps the hand, the way a man gives up whiskey and keeps the beer.
+That is the knock from the second room, and nearly every man has stood in it. This is the hand and the orgasm with no screen. The forums write it MO, and men think of it as the mild dose. Some men have read every page so far and quietly filed it under porn. The screen was the problem, they decide, and the hand without the screen is another matter. A man quits porn and is proud of it. For the women on the screen it is a real change. Nobody is being used for him now. For him, nothing has changed. He keeps the hand, the way a man gives up whiskey and keeps the beer.
 
 He says it like this. "I'm jerking off, but at least I'm not watching porn."
 
@@ -32,13 +32,19 @@ It was never pleasure. It was relief from an itch, and the last time set the itc
 
 Then there is what the hand teaches. A body learns that desire is something to be dealt with quickly, alone, and with nobody to answer to. A man practices that for fifteen years. Then he marries, and wonders why the lesson came with him.
 
+And if he never marries, he has still spent his best hours alone behind a locked door.
+
+"But it's only me now. Nobody else is hurt." Then look at the one man who is. He is the man this whole book is about. His evenings go to it. His word goes, each time he says "never again". The push that would have sent him across a room to speak to a woman goes down the drain instead. "Only me" is not a small thing to lose.
+
+Suppose your hand never leads you back to the screen. The trade is the same without it. You ease an itch for ten minutes, and the easing sets it going again.
+
 The world calls this self-love. It is a strange kind of love that needs the door locked and leaves you feeling worse than before.
 
 Here is a test to carry through the rooms that are left. Ask one question of anything you do. Is this a gift, with a person at the other end of it? Or is it a hit I'm taking? A gift has someone to give it to. A hit has only you. The hand has only you.
 
 So the hand is not the harmless one. It holds the door open for all the rest.
 
-The terms at this door are the same as at the first. No vow, no count, no pressure. Has the hand ever paid you anything but relief from its own itch? If not, you may find you don't reach for it. If you do reach, watch what you get.
+The terms at this door are the same as at the first. No vow and no count. Has the hand ever paid you anything but relief from its own itch? If it hasn't, there is nothing in this room either, and the door is shut.
 
 That leaves the orgasm itself. With the screen gone and the hand gone, the wanting doesn't lie down. It goes looking.
 
@@ -59,3 +65,5 @@ The uninvited guest picks up his blanket and moves down the hall. "Fine. But a s
 <!-- 2026-11-22 LADDER (James: go after each behavior in turn; PMO is the enhanced version, MO the mild version, 'the O is only for one person'; no pressure; name fornication; PMO to MO is progress because porn hurts others). This is now the second room (MO, the mild dose). Added: quitting porn is real progress because nobody else is being hurt, 'But he is still hurting himself'; the no-pressure door; the turn to the orgasm itself. Plan: /mnt/project-files/easy-peasy/ladder-plan-2026-11-22.md -->
 
 <!-- 2026-11-22 AT LEAST (James: 'What I really want is for ME to be convinced and not even want these things... I'm jerking off but at least not watching porn / I'm not jerking off but at least I'm with a real woman / I'm jerking off but it's only thinking about other woman, not doing anything about it... I still feel myself believing the lies'; 'each door must be sequentially shut'). 'It is real progress' and 'he should be' proud are gone: leaving porn is a change for the women on the screen and no change for him. The first bargain is quoted in James's words and taken apart (nobody says 'at least' about a thing he is glad of; the monster got his dinner; he is still watching porn, from memory). -->
+
+<!-- 2026-11-22 LEAKS closed after a test reader who bargains as James does. Closes 'now it's only me, and using myself has no victim', 'mine doesn't lead back to porn' and the single man's 'then he marries'. The door no longer says 'if you do reach, watch'. -->

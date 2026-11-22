@@ -70,7 +70,7 @@ Every one of these men is feeding the same small monster. And every "at least" i
 
 Remember the warning about the Little Monster. Shut one room on him and he doesn't leave. He moves down the hall. So follow him, one door at a time.
 
-The rooms come in order of strength. First is porn, the hand and the orgasm together. Men on the recovery forums write it as three letters, PMO. That is the strong dose. Next is the hand and the orgasm with no screen, which they write MO. That is the mild dose. After that comes the wanting of the orgasm itself. It goes looking in a feed, in a daydream, and at last in a woman's bed.
+The rooms come in order of strength. First is porn, the hand and the orgasm together. Men on the recovery forums write it as three letters, PMO. That is the strong dose. Next is the hand and the orgasm with no screen, which they write MO. That is the weaker dose, and it holds a man just as well. After that comes the wanting of the orgasm itself. It goes looking in a feed, in a daydream, and at last in a woman's bed.
 
 It is one hit at three strengths. Where the orgasm does belong is the last question on the walk.
 
@@ -125,3 +125,5 @@ Start with the strong dose.
 <!-- 2026-11-22 LADDER (James: go after each behavior in turn; PMO is the enhanced version, MO the mild version, 'the O is only for one person'; no pressure; name fornication; PMO to MO is progress because porn hurts others). New closing section 'One hit, three strengths' is the map of the walk: PMO, MO, then the wanting of the orgasm; no pressure. The next chapter is now The Screen. Plan: /mnt/project-files/easy-peasy/ladder-plan-2026-11-22.md -->
 
 <!-- 2026-11-22 AT LEAST (James: 'What I really want is for ME to be convinced and not even want these things... I'm jerking off but at least not watching porn / I'm not jerking off but at least I'm with a real woman / I'm jerking off but it's only thinking about other woman, not doing anything about it... I still feel myself believing the lies'; 'each door must be sequentially shut'). The map now says the doors shut in order, and that a door shuts by being seen through. -->
+
+<!-- 2026-11-22 LEAKS closed after a test reader who bargains as James does. 'Mild dose' was usable as permission. -->
