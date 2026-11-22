@@ -22,7 +22,7 @@ It can feel like being possessed. Something is running you that you never invite
 
 But keep two things straight. He has never once made you do it. Every time, he banged on the floor, and you were the one who climbed the stairs. And he is not ten feet tall. He is a pipsqueak, squatting in a back room. He has no reach at all. You could punt him halfway down a football field.
 
-He can't leave that room. Out in the world he has no body of his own. He can't look at anything, or touch anything, or go anywhere. Everything he gets, he gets with what you lend him: your eyes, your mind and your hand.
+Out in the world he has no body of his own. He can't look at anything, or touch anything, or go anywhere. Everything he gets, he gets with what you lend him: your eyes, your mind and your hand.
 
 ## Why he could come back {-}
 
@@ -48,7 +48,7 @@ Then why is he still there? Nobody wants a freeloader in his house. You kept him
 
 That belief is a lie, and it doesn't live in the back room. It lives in your head. He can't say a word. The lies do the talking, in your own voice.
 
-Some were told to you. "A man needs it." "It's healthy." "Everybody does it." Some you tell yourself. "It helps me sleep." "It takes the edge off." "I've earned it."
+You know them. "A man needs it." "It helps me sleep." "I've earned it."
 
 The Little Monster is the easy one. Stop feeding him and he goes quiet in days. In a few weeks he is gone. The lies are what have held you for years, and this book takes them down one at a time.
 
@@ -92,3 +92,5 @@ SOURCES: Matthew 12:43-45 (WEB, checked 2026-11-20). Quoted verbatim: "I will re
 <!-- 2026-11-21 room-by-room reorder (James approved: nothing arrives before the reader needs it; the rooms come in the order a man retreats through them). Before and after: editorial/ROOM-ORDER-2026-11-21.md. -->
 
 <!-- 2026-11-22 chapters 1 to 5 rebuild (James: 'the same level of attention to detail' as the Introduction; show, don't tell; concrete details; simple sentences; section headers). Section headers added; 'tenant' appears only in the rent passage; he bangs and the man climbs the stairs (he no longer 'asks'); the two piles of lies match the Introduction word for word; 'leaves the plate on the floor' replaces dishes in the sink; 'with the bed made and the door open' is the editor's detail in the application, not in the quoted story; first line 'seven friends' is the editor's word. The previous text is saved whole in editorial/PARKING.md. -->
+
+<!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->

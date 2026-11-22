@@ -22,7 +22,7 @@ A medical student told his story on NoFap. With his first girlfriend, "even afte
 
 Let's keep this honest. Death grip isn't an official diagnosis. A study published in 2023 looked at several hundred young men. Those with erection trouble were about twice as likely to masturbate in these rough ways. That shows a link and no more. Some doctors doubt it's common. And if this is your trouble, see a doctor, because medicines and other conditions can do the same thing.
 
-Even the specialists who call masturbation harmless start the cure in the same place. They usually ask a man to stop for a while, and then to change the way he does it. This book asks you to stop for good. That is my conviction, not their prescription. If a sex therapist gives you exercises, that is treatment. Tell the therapist your convictions at the start. A good one will work within them.
+Even the specialists who call masturbation harmless start the cure in the same place. They usually ask a man to stop for a while. This book asks you to stop for good. That is my conviction, not their prescription. If a sex therapist gives you exercises, that is treatment. Tell the therapist your convictions at the start. A good one will work within them.
 
 And the medical student? A little over a month after he stopped: "I had an orgasm during sex, for the first time in my life." Leave aside whose bed that was. The point here is only that the body mends. For other men it has taken many months. Nobody can promise you a date. But the men who stop report that the body often recovers.
 
@@ -42,3 +42,5 @@ The body can mend. So why has a list like this never once made you stop?
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'). Closes the reading 'quit the hand, get better hookups'. -->
 
 <!-- 2026-11-22 from James's research report, checked against the original: Jacobs and others, JMIR Public Health and Surveillance, 2021 (3,419 men aged 18-35 analysed; 21.48% of the 2,067 sexually active had some erectile dysfunction, mostly mild; linked to the problematic-use score, not viewing time; self-selected web sample), https://publichealth.jmir.org/2021/10/e32542/ . The other side: Landripet and Stulhofer, Journal of Sexual Medicine, 2015 (Croatia, Norway, Portugal). -->
+
+<!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->

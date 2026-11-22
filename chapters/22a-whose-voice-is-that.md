@@ -8,7 +8,7 @@ There's a simple test. Don't argue and don't agree. Just let the thought sit the
 
 You've caught it.
 
-Now treat that voice as the caller's messenger. Once you have said your No, outright, give him no reason, because a reason is something he can argue with. Don't let him down gently. Then never answer again.
+Now treat that voice as the caller's messenger. Don't argue with it, and don't answer it.
 
 Here's a second test. Hold up your hand and wiggle your fingers. Now ask the urge to do it. He can't. He has no hands of his own, and he has never once done the deed himself. He can only nag until you lend him yours.
 
@@ -36,3 +36,5 @@ Your body, meanwhile, will do a few things nobody warned you about.
 <!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): method H2: the test no longer asks for a fresh No each time. -->
 
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
+
+<!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->

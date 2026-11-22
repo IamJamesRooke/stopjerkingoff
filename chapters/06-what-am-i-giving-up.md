@@ -24,7 +24,7 @@ Think of yourself at a family gathering, slipping off upstairs with your phone. 
 
 **"But I'd be giving up sex."** No. If you're married, you're about to get it back. The habit has been quietly spending, alone, what belongs to the two of you. Lewis drew a sharp line between wanting a woman and wanting a sensation. The man after the sensation, he said, "wants a pleasure for which a woman happens to be the necessary piece of apparatus." Masturbation cuts out even the apparatus. Ask the men who've stopped what happened to the real thing. One wrote that he'd gained a "stronger real sex drive without wanting an easy release like porn".
 
-**"But I'm single. It's all I've got."** Then all you've got is a rehearsal for being alone. Look at what it has done about that. Every night it takes the edge off the loneliness that would have sent you out the door. That is why all you've got has stayed all you've got.
+**"But I'm single. It's all I've got."** Then all you've got is a rehearsal for being alone. Look at what it has done about that. Every night it takes the edge off the loneliness that would have sent you looking for a wife. That is why all you've got has stayed all you've got.
 
 So there's nothing to give up. And there's a great deal to gain. When men think about stopping, they tend to think first about energy or sleep, or about their conscience. Those are good reasons. But I believe the biggest gains are these:
 
@@ -82,3 +82,5 @@ And one thing you get back can be counted on a clock.
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'). 'The real thing' fed the bargain 'at least she's a real woman'. -->
 
 <!-- 2026-11-22 SKEPTIC READ, stage 2 (an atheist who thinks marriage is rigged against men): trust runs both ways; the single man gets an argument that needs no wife; plain legs beside the God-only cures. -->
+
+<!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->

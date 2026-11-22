@@ -18,7 +18,7 @@ Remember what kept you aboard. You didn't stay because you loved it. You stayed 
 
 So don't shout. Take away the fear.
 
-Tell him what it's like on shore. Tell him how good it is to wake up with a clear head and a clean conscience. Tell him you sleep. Tell him you can look a woman in the face and have nothing to hide from her. Tell him you can pray without first clearing your throat. Tell him the shadow has lifted, and you miss nothing.
+Tell him what it's like on shore. Tell him how good it is to wake up with a clear head and a clean conscience. Tell him you sleep. Tell him you can look a woman in the face and have nothing to hide from her. If you pray, tell him you can do it without first clearing your throat. Tell him the shadow has lifted, and you miss nothing.
 
 Tell him one more thing, because he's sure of the opposite: he is not alone. Every man on the ship thinks he's the only one aboard. It helps to hear otherwise from a man he respects.
 
@@ -79,3 +79,5 @@ Take the method with you when you go. It fits in ten lines.
 <!-- 2026-11-20 (James: keep everything from the Bible as much as possible): Hydra wording replaced by the empty house and the five mouths. -->
 
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
+
+<!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->

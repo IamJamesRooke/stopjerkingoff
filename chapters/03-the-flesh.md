@@ -6,9 +6,9 @@
 
 First, get one thing straight. There is nothing wrong with your sex drive.
 
-God made it, and he made it strong on purpose. Desire for a woman is the reason any of us are here. It's meant to pull a man out of himself and toward a wife, a home and children.
+A Christian will tell you God made it, and made it strong on purpose. Desire for a woman is the reason any of us are here. It's meant to pull a man out of himself and toward a wife, a home and children.
 
-If you don't believe, the point still stands. That drive gets a man out of his room and toward a real woman. No child was ever made behind a locked door.
+If you don't believe, the point still stands. That drive gets a man out of his room and toward a woman he can build a home with. No child was ever made behind a locked door.
 
 C.S. Lewis, the author of the Narnia stories, also wrote a book called *The Screwtape Letters*. In it a senior devil named Screwtape writes to a junior devil, coaching him on how to tempt one ordinary man. At one point Screwtape complains about God: "He made the pleasures: all our research so far has not enabled us to produce one." The other side can't make a pleasure. It can only bend one.
 
@@ -82,3 +82,5 @@ That restless feeling is the Little Monster. It is time to meet him properly.
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'). 'Another person' fed the bargain 'at least she's a real woman'. -->
 
 <!-- 2026-11-22 SKEPTIC READ (James: read 'as an atheist who reads despite the god talk and still thinks that marriage is a joke, it's a scam which is against men... Women have a legal incentive to divorce. The family courts are against men. This IS true. But try and get it so, by the end, he agrees'). Stage 1 fixes: a plain reason set beside each claim that stood on God alone; the divorce courts conceded early. -->
+
+<!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->

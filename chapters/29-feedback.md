@@ -30,29 +30,17 @@ A man says the method didn't work for him. Then he describes how he ignored near
 
 These are the most common, in the words men use.
 
-**"I can't stop thinking about it."**
-
-Of course you can't, and you shouldn't try. Tell yourself not to think of a white horse and see what trots in.
-
-It doesn't matter if the habit crosses your mind fifty times a day. What matters is *what* you think when it does. If you think, "I wish I could," or "When will this end?", you'll be miserable. If you think, "I'm free", you'll be glad fifty times a day.
-
 **"When does the urge die?"**
 
 Nobody can give you a date, and you don't need one. The leftover itch is so faint that you can't tell it from hunger, tiredness or a flat mood. That's why willpower quitters never know whether they've made it. Months later they feel hungry or low, and their mind says, "That's it again. You're owed one."
 
-So don't wait for the urge to die. A man who waits keeps asking, "Is it gone yet?" That question breeds the very fear he hoped would go. The same holds for the moment when you know you're free. Don't wait for that either. You were free when you decided.
+So don't wait for the urge to die. A man who waits keeps asking, "Is it gone yet?" That question breeds the very fear he hoped would go. 
 
 If a twinge comes and you're a praying man, pray. One man wrote that whenever he does, he feels completely normal again. If you don't pray, say "I'm free" and get on with your day.
 
 **"I still want it."**
 
 Then ask which part of you is speaking. A twinge is not a wish. The Little Monster wants feeding, and you don't want what comes after. But if you really do believe there is still something in it for you, one of the old lies is still standing. There's no shame in that. Find which one, and read that chapter again.
-
-**"I feel as if I've stopped living."**
-
-Why? Nobody asked you to. The faint itch in the background is nothing new. You've had it for years, every hour you weren't feeding it. You had it at work, at your mother's table and all night while you slept, and it never spoiled a meal. If you hadn't stopped, you'd have carried it to the grave.
-
-The habit never added to a single occasion. It took from them. So go to the party and the wedding and the beach. Stay late and enjoy your dinner. Don't envy the smooth talker across the room with his three phone numbers. Whether he goes home alone or with one of them, he is still feeding what you put out. You're not the one going without.
 
 **"I'm miserable and irritable."**
 
@@ -74,7 +62,7 @@ Then keep it for marriage. What you keep isn't lost. It is saved for her. And if
 
 **"I've already lived the other way."**
 
-Nobody here is piling on guilt. The man who wrote this book is no angel. Christians aren't the people who got it right. They're the people who finally admitted they couldn't, and asked for help. Your past is forgiven the same way as everything else in this book. You confess it, and you start again.
+Nobody here is piling on guilt. Christians say they aren't the people who got it right. They're the people who admitted they couldn't, and asked for help. Your past is forgiven the same way as everything else in this book. You confess it, and you start again.
 
 That leaves the question nobody likes to ask out loud. What if you fall?
 
@@ -125,3 +113,5 @@ That leaves the question nobody likes to ask out loud. What if you fall?
 <!-- 2026-11-22 third whole-book test as James (he now says the whole No, but holds back the warm bed with a woman he liked; 'I say the clause as a better policy, not as a man who sees nothing in the room'). Fixes from that test; see the commit of this date. -->
 
 <!-- 2026-11-22 SKEPTIC READ, final stage: 'nothing but an itch' no longer unsays what If You Never Marry concedes; the loved woman's bed is told apart from the rest without handing the room back. -->
+
+<!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->

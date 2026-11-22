@@ -22,7 +22,7 @@ What you've been given is today.
 
 So practice one thing. Soon, perhaps this week, a thought will float up: "I could, just now." A second later you'll catch it and think, "That's not me. It's the leftover noise of a thing I've finished with." Then you'll feel a small burst of gladness. The thought no longer gives you orders. That's another moment of knowing you're free, and you can have it as often as you like.
 
-If you're a Christian, you have the better half of this. You don't just watch your thoughts go by. You hand them over. If you're not a believer, the watching half is still yours: notice the thought, name it, let it pass. It works all the same.
+If you're a Christian, there is a second half to this. You don't just watch your thoughts go by. You hand them over. If you're not a believer, the watching half is still yours: notice the thought, name it, let it pass. It works all the same.
 
 Right now, as you read, nothing is wrong. You're free, you're forgiven, and you're breathing. Start from there, and start from there again tomorrow.
 
@@ -46,7 +46,7 @@ That is a bigger thing than quitting a habit. It is yours to grow into for the r
 
 ## Pass it on {-}
 
-This book is open. You may copy it, print it, translate it and hand it around without asking anyone. The Attribution page has the details. It came to me the same way, from Allen Carr through the people behind EasyPeasy. Jesus put the principle in one short sentence when he sent his disciples out: "Freely you received, so freely give."
+This book is open. You may copy it, print it, translate it and hand it around without asking anyone. The Attribution page has the details. It came the same way, from Allen Carr through the people behind EasyPeasy. Jesus put the principle in one short sentence when he sent his disciples out: "Freely you received, so freely give."
 
 So tell one man. You already have his name. Send him the book with one line: "This worked for me." Don't preach it and don't argue it. The men who need it will read it at one in the morning, on their own, the way you probably did.
 
@@ -54,7 +54,7 @@ Lust has been made normal, and the whole machine runs on one fuel: men who can't
 
 ## One last look {-}
 
-Look back at the house for a moment. The Little Monster had no body of his own. He lived on what you lent him: your eyes, your mind, your hand, your feet and your bed. You didn't get rid of him by sweeping harder. You saw that he had never paid a day's rent, and then there was no room left for him to come back to. Open the windows. The smell will be gone in a day or two. If an old thought ever drifts past, you know what it is. Let it go by.
+Look back at the house for a moment. The Little Monster had no body of his own. He lived on what you lent him: your eyes, your mind, your hand, your feet and your bed. You didn't get rid of him by sweeping harder. You saw that he had never paid a day's rent, and you showed him the door. The lies came down one at a time. Open the windows. The smell will be gone in a day or two. If an old thought ever drifts past, you know what it is. Let it go by.
 
 And the man on the couch? His phone is lying face up on the cushion tonight, and he hasn't given it a thought.
 
@@ -62,11 +62,11 @@ And the man in the bed at two in the morning? He is asleep. His phone is chargin
 
 And the single man? He had dinner with friends on Friday, and on Saturday morning nobody was looking for shoes.
 
-And the button on the nightstand, the one you'd have broken the furniture to press? It was real. You pressed it.
+And the button you'd have broken the nightstand to press? There never was one. You did what it does.
 
 ## A blessing {-}
 
-I don't know your name, and you don't know mine. But I've thought about you through every chapter, and I'd like to end by praying for you. These are the oldest words of blessing I know. If you don't believe, take them as a stranger wishing you well with his whole heart.
+I don't know your name, and you don't know mine. But I've thought about you through every chapter, and I'd like to end with a blessing. These are the oldest words of blessing I know. If you don't believe, take them as a stranger wishing you well with his whole heart.
 
 > "The LORD bless you, and keep you.
 >
@@ -109,3 +109,5 @@ You're free, and you're fit for service. Go in peace.
 <!-- 2026-11-22 second whole-book test as James (he said No to everything except 'any bed outside marriage', because with a woman he liked he was glad afterward and stayed). A sentence for the single man in the last chapter. -->
 
 <!-- 2026-11-22 third whole-book test as James (he now says the whole No, but holds back the warm bed with a woman he liked; 'I say the clause as a better policy, not as a man who sees nothing in the room'). Fixes from that test; see the commit of this date. -->
+
+<!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->

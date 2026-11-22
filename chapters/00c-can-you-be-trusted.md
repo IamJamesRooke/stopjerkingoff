@@ -6,7 +6,7 @@ The test runs both ways. A man choosing a wife should ask it of her. Can she say
 
 Picture a soldier who shows up for duty drunk. He may be on the right side. He may even be loved. He is still unfit for service, and the men who were counting on him are on their own.
 
-Self-control is the theme under this whole book, and it comes down to one hard sentence. **A man who can't control his lust can't be trusted.** His wife can't fully trust him. His employer can't. Worst of all, he can't trust himself, because he has broken his own word too many times.
+Self-control is the theme under this whole book, and it comes down to one hard sentence. **A man who can't control his lust can't be trusted.** His wife can't fully trust him. Worst of all, he can't trust himself, because he has broken his own word too many times.
 
 You don't need that proved to you. Ask the man who said "never again" last night.
 
@@ -45,3 +45,5 @@ None of this is new. Three thousand years ago, lust brought down a king no army 
 <!-- 2026-11-21 five-star pass (editor H2): structural cuts, moves and repairs from the outside review and the cold-listener report. Cut text is kept in the pass's parked-H2 file; source notes above still stand for anything cut. -->
 
 <!-- 2026-11-22 SKEPTIC READ, stage 2 (an atheist who thinks marriage is rigged against men): trust runs both ways; the single man gets an argument that needs no wife; plain legs beside the God-only cures. -->
+
+<!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->

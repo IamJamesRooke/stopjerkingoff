@@ -10,7 +10,7 @@ He almost never mentions the plain slavery of it. Men have bled to end slavery w
 
 One cost of that slavery needs no doctor, no pastor and no argument about whether it's a sin. All it needs is a clock.
 
-The next pages count what the habit costs. None of it is here to scare you into stopping. Fear never worked. It is here because a thing that gives nothing and costs this much takes no willpower to leave.
+The next pages count what the habit costs. None of it is here to scare you into stopping. Fear never worked. These are not your reasons to stop. Leave those on the shelf. It is here because a thing that gives nothing and costs this much takes no willpower to leave.
 
 ## Do the math {-}
 
@@ -44,7 +44,7 @@ A young man who fought this for nineteen years said: "I can't tell you how many 
 
 Men who've stopped report one surprise: how much room there suddenly is. One says, "I'm actually reading books again for the first time in a decade". Another took up the piano in the space the habit left behind. Put that room to one practical use. Pick one goal you could reach in three or four months, and pour the hours into that.
 
-Soon you'll be making your decision. Staying free after that takes one thing: you don't do it, and you don't fall for "just this once". If you're ever tempted by that phrase, remember what it costs. It doesn't cost you ten minutes. It costs you the years.
+At the end of this book you'll make your decision. Staying free after that takes one thing: you don't do it, and you don't fall for "just this once". If you're ever tempted by that phrase, remember what it costs. It doesn't cost you ten minutes. It costs you the years.
 
 Paul has a phrase for what you're about to do: "redeeming the time". To redeem a thing is to buy it back, the way a man buys back the watch he pawned. Those hours were always yours. You're about to walk in and take them back, and it won't cost you anything.
 
@@ -79,3 +79,5 @@ Time is the cost you can count. The others are harder to see, because you have t
 <!-- 2026-11-21 five-star pass (editor H2): structural cuts, moves and repairs from the outside review and the cold-listener report. Cut text is kept in the pass's parked-H2 file; source notes above still stand for anything cut. -->
 
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'). Pointer to chapters removed. -->
+
+<!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->

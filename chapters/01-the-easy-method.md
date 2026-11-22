@@ -69,8 +69,8 @@ Picture a man who wears shoes two sizes too small, all day, for the joy of pulli
 Tonight, do three things. None of them is "try harder".
 
 1. **Call off the war.** No vow, no streak, no cutting down. You can also stop hating yourself this evening. It never helped once.
-2. **Watch.** Nobody is telling you to sin. If you have already stopped, stay stopped. But if you fall, keep your eyes open. Notice how it starts, how long the good part lasts, and how you feel ten minutes later. That answers the first two questions with your own eyes.
-3. **Keep reading, in order.** A few chapters a night is plenty.
+2. **Remember.** Nobody is telling you to sin. If you have already stopped, stay stopped. Think back to the last time. How did it start? How long did the good part last? How did you feel ten minutes later? That answers the first two questions from your own life.
+3. **Keep reading, in order.** An hour a night finishes it in about a week.
 
 Did something loosen in your chest at "call off the war"? That is the first of the relief. As you read, the wish to do it shrinks without any effort from you. Let it.
 
@@ -116,3 +116,5 @@ One thing first. "No benefits at all" is a big claim from a stranger. You have e
 <!-- 2026-11-22 split (James: 'Just do it'): the narrator's story, the credit to Carr and EasyPeasy, and the faith paragraphs moved to their own chapter, chapters/01a-who-is-telling-you-this.md. This chapter now ends on a hook into it. -->
 
 <!-- 2026-11-22 chapters 1 to 5 rebuild (James: 'the same level of attention to detail' as the Introduction; show, don't tell; concrete details; simple sentences; section headers). Opens 'Easy?' answering the previous chapter's last line; the two reasons are 'One.' and 'Two.'; 'They load the gun' and the desperation line are cut; 'illusion' is now 'lie'; the sleep sample shows the mechanism (fed, the banging stops, he sleeps); 'a chapter or two a night' is now 'a few chapters a night' to match the Introduction's 'Read it this week'; the non-user 'asleep in ten minutes' claim is now 'doesn't lie awake wanting it'. The previous text is saved whole in editorial/PARKING.md. -->
+
+<!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->

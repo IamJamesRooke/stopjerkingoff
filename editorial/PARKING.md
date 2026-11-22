@@ -1635,3 +1635,18 @@ Even then there is a risk. Plenty of Christian wives find that the Holy Spirit w
 And the good ones want a believing man. I'm not one yet. I won't fake it to get a wife.
 
 I haven't figured it all out. I am making the same bet again, knowing all of this.
+
+## 2026-11-22: cut from Common Questions (29) as repeats of The First Weeks, Will I Miss It and Should I Avoid Temptation
+
+**"I can't stop thinking about it."**
+
+Of course you can't, and you shouldn't try. Tell yourself not to think of a white horse and see what trots in.
+
+It doesn't matter if the habit crosses your mind fifty times a day. What matters is *what* you think when it does. If you think, "I wish I could," or "When will this end?", you'll be miserable. If you think, "I'm free", you'll be glad fifty times a day.
+
+**"I feel as if I've stopped living."**
+
+Why? Nobody asked you to. The faint itch in the background is nothing new. You've had it for years, every hour you weren't feeding it. You had it at work, at your mother's table and all night while you slept, and it never spoiled a meal. If you hadn't stopped, you'd have carried it to the grave.
+
+The habit never added to a single occasion. It took from them. So go to the party and the wedding and the beach. Stay late and enjoy your dinner. Don't envy the smooth talker across the room with his three phone numbers. Whether he goes home alone or with one of them, he is still feeding what you put out. You're not the one going without.
+

@@ -34,7 +34,7 @@ There is a simple test for a real pleasure. Ask how you feel one minute later.
 
 A minute after a good dinner with friends, you are glad you went. A minute after a swim in the sea, you are glad you went. A man who has made love to a wife he loves is glad a minute later.
 
-A minute after this, you wish you hadn't. You clear the history. You don't want to look at your own face in the bathroom mirror. What kind of pleasure does a man regret before he has caught his breath?
+A minute after this, you wish you hadn't. You clear the history. You don't want to look at your own face in the bathroom mirror.
 
 Judge a thing by the whole of it, the bait and the hook together.
 
@@ -49,3 +49,5 @@ One more thing about that lead-up. It never stays the same size.
 <!-- 2026-11-22 NEW CHAPTER (James: 'The orgasm is real. The euphoria is real. It does feel good in the moment. Just like sugar tastes great for a few seconds before destroying you. That needs to be addressed.'). The book now says plainly that it feels good, and squares that with 'no benefits at all': relief, the rush (weighed against the hour before and the ten minutes after, and shrinking), and what the rush is for. The last two paragraphs (the lead-up) are moved here from the end of The Little Monster. No facts, studies or quotes were added. -->
 
 <!-- 2026-11-22 third whole-book test as James (he now says the whole No, but holds back the warm bed with a woman he liked; 'I say the clause as a better policy, not as a man who sees nothing in the room'). Fixes from that test; see the commit of this date. -->
+
+<!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->

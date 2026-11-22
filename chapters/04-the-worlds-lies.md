@@ -12,7 +12,7 @@ Start with masturbation, because the loudest lies are about that. Your grandfath
 
 **"Everyone does it."** Nearly true. But a crowded trap is still a trap. Since when did you take directions from a crowd that's lost?
 
-**"It's healthy. It's harmless. Doctors say so."** Medicine says it doesn't hurt your body, and I won't argue. But the doctor is answering a question you never asked. You didn't ask whether it would damage your prostate. You asked why you can't stop, and why you feel like a smaller man afterward. A Christian writer made the distinction neatly: "But just because something isn't harmful physically doesn't mean it's not harmful spiritually."
+**"It's healthy. It's harmless. Doctors say so."** Medicine says it doesn't hurt your body. But the doctor is answering a question you never asked. You didn't ask whether it would damage your prostate. You asked why you can't stop, and why you feel like a smaller man afterward. A Christian writer made the distinction neatly: "But just because something isn't harmful physically doesn't mean it's not harmful spiritually."
 
 **"It's natural."** So is a great deal that you wouldn't copy. One preacher, who was bound by masturbation for years himself, answers in nine words: "We also see in nature where pigs eat trash." Natural is not the same as good.
 
@@ -40,7 +40,7 @@ First, the Bible never mentions masturbation by name. If you were hoping for a v
 
 Second, the numbers, and here I have to borrow from porn, because porn is what gets studied. In one 2017 study of adults who watch porn, nearly nine in ten were not compulsive in the sense a clinic uses. About one in eight used porn little and still felt great distress over it. If that is you, the war has hurt you as much as the habit. This book means to end both. So this book doesn't call every man with the habit a clinical addict. Its judgment is moral and spiritual, not medical, and most doctors would not make it. It rests on what Jesus said about lust, and on what men say the habit has cost them. Besides, you didn't pick up a book with this title because you were fine.
 
-Those are the lies about the hand. The lies about porn are worse, because somebody else pays for them.
+Those are the lies about the hand. Porn has its own set, and somebody else pays for those too.
 
 <!-- SOURCES (Chapter 4): every quote below is from the research files; check each against its page before publishing.
 - NO LONGER QUOTED in the body (cut 2026-11-18): "Virtually every man and almost as many women have tried it." — John Piper, "Missions and Masturbation", https://www.desiringgod.org/articles/missions-and-masturbation. Confirmed word for word on desiringgod.org, 2026-11-14 (research/quote-verification.md), and restored as a quote.
@@ -93,3 +93,5 @@ Those are the lies about the hand. The lies about porn are worse, because somebo
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'). Closed the reading 'my habit is fine, only my guilt is the problem'. -->
 
 <!-- 2026-11-22 SKEPTIC READ (James: read 'as an atheist who reads despite the god talk and still thinks that marriage is a joke, it's a scam which is against men... Women have a legal incentive to divorce. The family courts are against men. This IS true. But try and get it so, by the end, he agrees'). Stage 1 fixes: a plain reason set beside each claim that stood on God alone; the divorce courts conceded early. -->
+
+<!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->

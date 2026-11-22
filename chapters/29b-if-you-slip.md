@@ -43,7 +43,7 @@ See that for what it is: the old lie dressed up as holiness. Brooding and self-p
 
 If a slip has left you taking the whole business very solemnly, remember the men on the forum who were trying not to drink bleach.
 
-You could see what the Bleachstronauts couldn't. Nobody needs courage, a counter or a monthly challenge to keep from drinking bleach. All a man needs is to see what's in the glass. After that, not drinking it isn't an achievement. It's an ordinary day.
+
 
 If you slipped, the lesson is not "try harder". Somewhere you started believing again that the glass had something to offer. The world repeats its lies daily, so it does no harm to hear the truth twice.
 
@@ -74,3 +74,5 @@ That is everything you need for yourself. The last job is for somebody else.
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). The bleach story answers 'bleach doesn't feel good; this does'; every room named; the narrator doesn't assert God. -->
 
 <!-- 2026-11-22: the bleach forum moved to its own chapter before the Final Step; a short callback stays here. 'You fell forward.' cut (it called a fall progress). -->
+
+<!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->

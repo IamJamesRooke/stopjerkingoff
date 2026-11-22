@@ -18,7 +18,7 @@ None of that is an excuse. The apostle James won't let a man say the devil made 
 
 Now think what all this says about you. Nobody bothers to distract a man who doesn't matter. You were worth taking out of the fight.
 
-It worked on a king. Remember the palace door: Uriah, drunk, was fit for service. David, sober, was no use to anybody.
+It worked on a king. David saw a woman from his roof, took her, and had her husband Uriah killed to hide it. Uriah slept at the palace door, drunk, and was still fit for service. David, sober, was no use to anybody.
 
 ## Drunk on duty {-}
 
@@ -66,3 +66,5 @@ SOURCES (Fit for Service, unnumbered chapter before Chapter 28; added 2026-11-15
 <!-- 2026-11-22 whole-book test as James (he said the No to the screen, the hand, the feed and the film, and stopped at 'any bed outside marriage'). Hook into the bleach chapter, which now comes before the Final Step. -->
 
 <!-- 2026-11-22 second whole-book test as James (he said No to everything except 'any bed outside marriage', because with a woman he liked he was glad afterward and stayed). No longer repeats the next chapter's first line. -->
+
+<!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->

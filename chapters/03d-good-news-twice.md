@@ -22,7 +22,7 @@ So the flesh is not the main problem. It's the hook that the real problem hangs 
 
 Grass grows back.
 
-Once you stop walking the path, the Little Monster starves, and he starves fast.
+Once you stop walking the path, nothing feeds the Little Monster, and he goes fast.
 
 It's never too late. One man who wrote about it got free in his forty-third year. If you've been at this for decades, or several times a day, take heart. It's just as easy for you as for the man who does it once a month, and in one way it's better. The further down it has taken you, the bigger the relief. Many men go from daily to nothing in one step. The so-called withdrawal is a few restless evenings, and a man can even enjoy them, because he knows what he is hearing. It is the Little Monster's stomach, rumbling.
 
@@ -41,3 +41,5 @@ So the flesh is the small part. The big part is what you were told.
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'). Pleasure admitted; the Little Monster only bangs (he no longer shouts or knows). -->
 
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). New last line pulls into the lies. -->
+
+<!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->

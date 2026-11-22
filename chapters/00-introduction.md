@@ -18,7 +18,7 @@ A while after the last time, a feeling shows up. It isn't pain. It is a faint, f
 
 This book gives the craving a name and a face. The name is the Little Monster. He is not a demon, and nothing is really living in you. He is a picture of that itch.
 
-Here is the picture. Your life is a house. In the back room upstairs lives a creature the size of a house cat. He smells like a gym bag left in a hot car. He can't open a door or get down the stairs. He eats only what you carry up to him, and every time you give in, that is a meal. When he gets hungry, he bangs on the floor. That banging is the urge. It put the phone in that man's hand tonight.
+Here is the picture. Your life is a house. In the back room upstairs lives a creature the size of a house cat. He smells like a gym bag left in a hot car. He can't get down the stairs. He eats only what you carry up to him, and every time you give in, that is a meal. When he gets hungry, he bangs on the floor. That banging is the urge. It put the phone in that man's hand tonight.
 
 A dragon would be something to brag about. This is a pipsqueak. You could carry him out in one hand.
 
@@ -56,9 +56,9 @@ One caution. A book is not a doctor, and nobody has tested this method in a clin
 
 ## Two rules {-}
 
-The book takes about five hours, and nobody has to know you're reading it. It is long on purpose. There are a lot of lies, and each one gets taken apart. The length costs you nothing, because nobody asks you to stop until the last pages. Read it this week.
+The book takes about five hours to read, or eight to hear. Nobody has to know you're reading it. It is long on purpose. There are a lot of lies, and each one gets taken apart. The length costs you nothing, because nobody asks you to stop until the last pages. Read it this week.
 
-**Rule one: DO NOT SKIP CHAPTERS.** They are short. Each one takes down one lie, and the last step only works if the others came first.
+**Rule one: DO NOT SKIP CHAPTERS.** Most are short. Most take down one lie, and the last step only works if the others came first.
 
 **Rule two: Don't try to quit while you read.** Make no vows, start no streaks, and don't cut down. You have done all three before. Where are they now?
 
@@ -125,3 +125,5 @@ SOURCES (Introduction): every quote below is from the research files; check each
 <!-- 2026-11-22 (James: 'Make the book as long as it's gotta be... we can say that if it's long you can keep your addiction because it will take longer to read. But we will destroy all the lies.'): 'four hours' is now 'five hours', with the three sentences on why it is long. -->
 
 <!-- 2026-11-22 (James: 'The proof that the book works is that I overcame the addiction myself. Which I still haven't.'): the book must not say or imply that the narrator is already free. 'I was him' is now 'I have been him'. -->
+
+<!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->

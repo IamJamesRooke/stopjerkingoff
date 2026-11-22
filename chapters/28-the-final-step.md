@@ -28,15 +28,15 @@ So don't think about failing. This time you aren't climbing by willpower. You're
 
 Maybe you feel you've failed too often to come back again. Hear a man who felt exactly that. He pictures the prodigal son, the runaway in Jesus's story, halfway home. In his picture the son protests, "But God, I still smell like yesterday." And the Father answers with two words: "Just come." He adds, for every man reading: "You're not too dirty. You're not too far."
 
-Jesus asked for plain speech: "But let your 'Yes' be 'Yes' and your 'No' be 'No.'" That is all this step is: a plain No that you mean. You are showing the Little Monster the door, once, and you already know that he has nothing you want. He may knock for a few days. Nobody is going to answer.
+Jesus asked for plain speech: "But let your 'Yes' be 'Yes' and your 'No' be 'No.'" That is all this step is: a plain No that you mean. You are showing the Little Monster the door, once, and you already know that he has nothing you want. He may knock for a few days. Nobody is going to answer. Out there he starves, and in a few weeks he is gone.
 
 ## If there is another person {-}
 
 One thing comes before the prayer. Make sure that nothing you are doing breaks the law, and that nothing you are doing is harming another person. If something is, you already know what it is. Don't carry it past today.
 
-The No you are about to say covers any bed outside marriage. Don't take that as a rule somebody handed you. Check it one last time against your own years. Name the women you liked and stayed with. Where is each of them now, and which of you used the open door? Then ask the old question. Suppose you had kept sex for the woman you promised to keep. Would your decisions have been better, or worse?
+The No you are about to say covers any bed outside marriage. Don't take that as a rule somebody handed you. Check it one last time against your own years. Name the women you liked and stayed with. Where is each of them now, and which of you took the exit? Then ask one question again. Suppose you had kept sex for the woman you promised to keep. Would your decisions have been better, or worse?
 
-If a woman you love is in that bed, this is not a No to her. It is a No to the bed until the promise is made. This clause is not like the others. Wanting her is not the itch, and waiting will cost you something. You are not quitting her. You are keeping the bed for the promise. The best thing you can bring her is a man who doesn't need to take.
+If a woman you love is in that bed, this is not a No to her. It is a No to the bed until the promise is made. This clause is not like the others. Wanting her is not the itch, and waiting is not losing her. It asks something of you, and it brings her the whole man. You are not quitting her. You are keeping the bed for the promise. The best thing you can bring her is a man who doesn't need to take.
 
 ## The prayer {-}
 
@@ -134,3 +134,5 @@ Do it now.
 <!-- 2026-11-22 third whole-book test as James (he now says the whole No, but holds back the warm bed with a woman he liked; 'I say the clause as a better policy, not as a man who sees nothing in the room'). Fixes from that test; see the commit of this date. -->
 
 <!-- 2026-11-22 SKEPTIC READ, stage 5 (an atheist who thought marriage a scam; at the final No he said every clause, and 'any bed outside marriage' only as a policy for a woman he loves). The book now admits that this one clause asks for waiting and costs something. -->
+
+<!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->

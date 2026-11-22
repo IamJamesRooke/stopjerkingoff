@@ -6,7 +6,7 @@ It does one thing. If he presses it, he wakes up tomorrow as a man who never sta
 
 Would he press it? He would break the nightstand. So would you.
 
-Now ask why. No man would press a button to be rid of fishing. No man would press one to be rid of Sunday dinner. Nobody wishes he had never met a thing he enjoys.
+Now ask why. No man would press a button to be rid of fishing. No man would press one to be rid of Sunday dinner. Nobody wishes he had never met a thing that is good for him.
 
 There is no such button. But what it does can be done. It takes one decision, and you make it at the end of this book.
 
@@ -54,9 +54,9 @@ It hasn't. And you are not a hopeless case. You used a method that can't work.
 
 ## No scares, no superpowers {-}
 
-Fear keeps you here, so this book won't add any. You'll find no horror stories about your hormones or your hairline. If fear worked, you would have stopped years ago.
+Fear keeps you here, so this book won't add any. You'll find no horror stories about your hormones or your hairline. One chapter covers the body, and it sticks to what doctors and men report. If fear worked, you would have stopped years ago.
 
-Doctors say masturbation doesn't damage your body, and I won't argue with them. This book isn't about your body. It's about your mind, your drive, your word and your soul. There you are the best witness. You know how you feel ten minutes afterward.
+Doctors say masturbation doesn't damage your body, and I won't argue with them. Most of this book isn't about your body. It's about your mind, your drive, your word and your soul. There you are the best witness. You know how you feel ten minutes afterward.
 
 It won't sell you superpowers either. No deeper voice, no glowing skin, no women turning their heads. You get something better. You get yourself back.
 
@@ -85,3 +85,5 @@ It will be easy.
 <!-- 2026-11-21 room-by-room reorder (James approved: nothing arrives before the reader needs it; the rooms come in the order a man retreats through them). Before and after: editorial/ROOM-ORDER-2026-11-21.md. -->
 
 <!-- 2026-11-22 chapters 1 to 5 rebuild (James: 'the same level of attention to detail' as the Introduction; show, don't tell; concrete details; simple sentences; section headers). The button is now an object on the nightstand, picking up the Introduction's last line; 'There is no such button. But what it does can be done' states the one decision; the fear is shown as a picture (awake at one, two, three; 'until they are eighty' and 'alone on a Friday night' are the editor's details); the lies list is four lines; new header 'No scares, no superpowers'. The previous text is saved whole in editorial/PARKING.md. -->
+
+<!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->

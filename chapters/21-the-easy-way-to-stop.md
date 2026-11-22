@@ -8,7 +8,7 @@ You know the trap, the lies, and every wrong way out. This is the right one.
 
 Follow these instructions and you'll find stopping somewhere between easy and enjoyable. There are only two:
 
-1. **Decide that you are finished with lust, in all five ways. Never again.**
+1. **Decide that you are finished with lust in all five ways: look, think, touch, chase, take. Never again.**
 2. **Don't mope about it. Rejoice.**
 
 The Bible has older names for both. The first is *repentance*. The word doesn't mean feeling terrible. It means a change of mind: you turn around and walk the other way. The second is *receiving grace*. The believer is forgiven, so he acts like a forgiven man.
@@ -39,7 +39,7 @@ The moment you decide, you're already a man who doesn't do it. You don't become 
 
 So don't wait for the itch to fade before you let yourself be happy. Get out and live.
 
-Here the Christian has an enormous advantage, if he'll take it. The apostle John wrote, "If we confess our sins, he is faithful and righteous to forgive us the sins". Confess, and he is *faithful* to forgive. It doesn't say he might, or that he will once you've proved yourself with a decent streak. And then, in Romans 8:1: "There is therefore now no condemnation to those who are in Christ Jesus." The word is *now*, on day one, with the Little Monster still grumbling.
+Here the Christian has something more, if he'll take it. The apostle John wrote, "If we confess our sins, he is faithful and righteous to forgive us the sins". Confess, and he is *faithful* to forgive. It doesn't say he might, or that he will once you've proved yourself with a decent streak. And then, in Romans 8:1: "There is therefore now no condemnation to those who are in Christ Jesus." The word is *now*, on day one, with the Little Monster still grumbling.
 
 One man, who now teaches other men about this, spent years repenting and falling. Then he saw what was wrong with his repentance. It was all about him: how bad he was, how hard he'd try. "The foundation of my repentance was me", he says. Then he turned it around, and this is the sentence to carry out of this chapter: "Our motive for repentance is the fact that God is good. Not the fact that you are bad."
 
@@ -53,7 +53,7 @@ If you're not a believer, the same advice holds: drop the self-hatred. It never 
 
 ## A man who can be trusted {-}
 
-This book keeps saying one hard thing: **a man who can't control his lust can't be trusted.** Here is the other half.
+This book said one hard thing early on: **a man who can't control his lust can't be trusted.** Here is the other half.
 
 You probably thought self-control meant gripping the rail, a strong man holding down a strong desire. That's a wrestling match, and you know who usually won.
 
@@ -102,3 +102,5 @@ So what will the first weeks actually feel like?
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). The narrator no longer speaks as a Christian. -->
 
 <!-- 2026-11-22 SKEPTIC READ, stage 5 (an atheist who thought marriage a scam; at the final No he said every clause, and 'any bed outside marriage' only as a policy for a woman he loves). The book now admits that this one clause asks for waiting and costs something. -->
+
+<!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->

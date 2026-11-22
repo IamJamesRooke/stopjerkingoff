@@ -26,6 +26,8 @@ You ask him, "You know the only reason you keep doing it is that you can't stop?
 
 "There's no point," he says. "I told you, I like it."
 
+Don't take that dare yourself. You know how a month by force goes.
+
 He likes it so much that he won't risk finding out.
 
 ## "Giving up" {-}
@@ -47,3 +49,5 @@ So let's go through your day and find them.
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
 
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'). Pleasure admitted. -->
+
+<!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->
