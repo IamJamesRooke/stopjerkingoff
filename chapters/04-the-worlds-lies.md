@@ -6,7 +6,7 @@
 
 The flesh supplies the itch. The world supplies the reasons to scratch it.
 
-Two things keep a man in this trap. The first is the flesh, with its small, restless itch: the Little Monster. The second is the lies, and they are much the bigger of the two. They are the Big Monster. You met it as the belief that the little one pays his way. It is built from every lie you were told about the habit.
+Two things keep a man in this trap. The first is the flesh, with its small, restless itch: the Little Monster. The second is the lies, and they are much the bigger of the two. So they get a name as well. Call the whole pile the Big Monster. It is every lie you were told about the habit, and every lie you told yourself. It is no creature. It lives in your head, and it does all the little one's talking.
 
 Start with masturbation, because the loudest lies are about that. Your grandfather was told that it would make him go blind, grow hair on his palms and land him in an asylum. That was nonsense, and it deserved to be laughed out of the room. But when the scare stories went, the truth went out with them. Now a boy hears the opposite sermon, preached just as confidently. It has five points.
 

@@ -28,7 +28,7 @@ So he is no tenant. He is a freeloader. He leaves his dishes in your sink, and h
 
 Then why is he still there? Nobody wants a freeloader in his house. You kept him because you believed he was paying.
 
-That belief is the Big Monster. It doesn't live in the back room. It lives in your head, and it is made of lies: he relaxes you, he helps you sleep, you would be lost without him. The Little Monster is the easy one. Stop feeding him and he goes quiet in days. In a few weeks he is gone. The Big Monster is what has held you for years, and this book takes it down one lie at a time.
+That belief is a lie, and it doesn't live in the back room. It lives in your head. Some of it you were told: a man needs it, it's healthy, everybody does it. Some of it you told yourself: it relaxes me, it helps me sleep, I'd be lost without it. The Little Monster is the easy one. Stop feeding him and he goes quiet in days. In a few weeks he is gone. The lies are what have held you for years, and this book takes them down one at a time.
 
 Nobody else can put him out for you. And you have never truly tried, because some part of you still thought he was worth keeping.
 
