@@ -54,7 +54,7 @@ Then test the lines the way you would test a bridge. Put weight on them.
 
 **Who gets used?** Behind every easier line, somebody is used. It is a woman on a screen, or a woman in your head who never agreed. It is a woman in a bed, or it is you. Inside the promise nobody has to be. Both of them gave everything first, and both of them stay.
 
-**What has to be hidden?** Every easier line needs a locked door, a cleared history, or a "Quiet" when she asks about your night. A husband and wife have nothing to hide from anyone.
+**What has to be hidden?** Every easier line needs a locked door, a cleared history, or a "Quiet" when she asks about your night. A husband and wife need hide nothing about their bed.
 
 **Would you hand it on?** Would you teach your easier line to your son? Would you accept it from the man who dates your daughter? "At least she's a real woman" sounds different when the woman is her. For her you want the man who waits and then stays. Some other father wants that man for his daughter.
 
@@ -62,9 +62,7 @@ Then test the lines the way you would test a bridge. Put weight on them.
 
 **Where does the desire go?** On every easier line it is spent, on a screen or a tissue or a stranger. Inside the promise the same force builds a bond, a home and perhaps children. One line burns it. The other puts it to work.
 
-You may be single, past forty, and unsure you will ever marry. Then the line seems to offer you nothing but going without. Look at what you would be going without. With the hand, it is a few seconds and relief from an itch the last time made. With a woman you won't keep, it is the same hit, and she pays for it too. Neither one was company. Neither one stayed. Nothing was ever owed to you nightly. The man who never does it isn't starving. He feels all day what you feel for ten minutes.
-
-And ask what the habit did with your desire all those years. That force is meant to send a man out looking for a wife. Yours was paid off every night, at home, for nothing. Left unpaid, it goes back to its work.
+You may be single, past forty, and unsure you will ever marry. Then the line seems to offer you nothing but going without. That man gets a full answer before this walk is over.
 
 I am not saying this from a pulpit. Check it against your own years. You drew every easier line to keep something. What did the thing you kept ever give you?
 
@@ -100,3 +98,5 @@ SOURCES: Epigraph and body quotation: Proverbs 5:15 (WEB, checked 2026-11-20). "
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). The single man's answer now covers the bed as well as the hand; the 'one question for any man' paragraph moved here from The Hookup, where it stated the line early. -->
 
 <!-- 2026-11-22 whole-book test as James (he said the No to the screen, the hand, the feed and the film, and stopped at 'any bed outside marriage'). New test under 'Why not an easier line?': the honest-relationship line fails on the reader's own record. -->
+
+<!-- 2026-11-22 second whole-book test as James (he said No to everything except 'any bed outside marriage', because with a woman he liked he was glad afterward and stayed). Overclaim fixed. -->

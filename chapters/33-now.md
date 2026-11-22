@@ -32,7 +32,7 @@ You have your space back: the hours, the energy and the attention the habit used
 
 For a Christian that means God first: not as a guard posted at the door, but as the one you were made to enjoy. Pray like a man with nothing to hide, because you have nothing to hide. Open the Bible because you want to. Sit in church without the old feeling of being a fraud in a pew.
 
-For any man it means the people in front of you. Your wife, who is owed the whole of you now, and who may need time. Your children, who get a father who isn't half elsewhere. Your friends and your work, and the thing you always meant to build.
+For any man it means the people in front of you. Your wife, who is owed the whole of you now, and who may need time. Your children, who get a father who isn't half elsewhere. Your friends and your work, and the thing you always meant to build. If you have no wife and no children, the list is no shorter. It starts with the friends you let drift.
 
 If you're not a believer, here is one honest suggestion, and then I'll leave it alone. This book has leaned on an old book from start to finish, and you may have noticed how often it got your life right. If it did, ask where those ideas came from. Read the Gospel of Mark. It's the shortest of the four accounts of Jesus's life, and you can read it in an evening. Or pray once, even if you aren't sure anyone is listening: "God, if you're there, show me." You've got nothing to lose. You've just learned that about lust.
 
@@ -103,3 +103,5 @@ You're free, and you're fit for service. Go in peace.
 <!-- 2026-11-21 five-star pass (H5): reordered so the three payoffs (the house, the man on the couch, the button) come last before the blessing, under 'One last look'; 'Pass it on' cut to three short paragraphs (the cut text is in the rooms parking file parked-H5.md); 'play along one last time' reworded. -->
 
 <!-- 2026-11-22 whole-book test as James (he said the No to the screen, the hand, the feed and the film, and stopped at 'any bed outside marriage'). The single man from the Introduction's first scene now walks out of the book too. -->
+
+<!-- 2026-11-22 second whole-book test as James (he said No to everything except 'any bed outside marriage', because with a woman he liked he was glad afterward and stayed). A sentence for the single man in the last chapter. -->

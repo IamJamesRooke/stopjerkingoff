@@ -24,6 +24,8 @@ She is real, and that is the trouble. The screen used a picture. The hand used a
 
 The same holds for the girlfriend of two years he has no plan to marry. It is one long night.
 
+Perhaps one of them was different. You liked her. A minute later you were glad, and you stayed till morning. Grant all of it. Then ask what made that night good. It was not the few seconds. It was that she knew you, and that for a while you both acted as if you were staying. The good part was the part that looked like the promise. Now ask where she is. If you are reading this single, it ended like the others, only slower, and it cost you both more. Leaving the promise out added nothing to those nights. It only kept a door open, and one of you used it.
+
 "But there might be a future with this one." A maybe is not a promise. If there is a future, it will still be there when the promise is made. Sleeping with her first doesn't help you find out. A man can't judge a woman while he is using her. And she pays tonight for something you may never deliver.
 
 ## Take the night apart {-}
@@ -34,7 +36,7 @@ The same holds for the girlfriend of two years he has no plan to marry. It is on
 
 **During.** Be honest about where your head was. Half the time you were watching yourself. Was it going well? Was she comparing? You were with a stranger, and you were performing for her.
 
-**The minute after.** This is the test of any pleasure. A husband who has made love to a wife he loves is glad a minute later. He stays where he is. You know what you felt a minute later. You wanted her gone, or you wanted to be gone. She reached for you, and being held was the one part you couldn't stand. Men who pay for sex have a saying. You don't pay her for the sex. You pay her to leave.
+**The minute after.** This is the test of any pleasure. A husband who has made love to a wife he loves is glad a minute later. He stays where he is. Most nights you wanted her gone, or you wanted to be gone. She reached for you, and being held was the part you couldn't stand. Count the nights you stayed and were glad. Then count the others. Remember the saying of the men who pay for it. You don't pay her for the sex. You pay her to leave.
 
 **The morning.** One of you is looking for shoes. Nobody mentions next week. Then comes the drive home and the flat feeling. The phone is out again before lunch.
 
@@ -54,9 +56,9 @@ Most men answer at once. "No. Not her." Then she was never someone you wanted. Y
 
 **"A real man gets as many women as he can."** That is the oldest lie of all. It makes a man's worth depend on being wanted, which is exactly what makes him easy to lead. A real man is one a woman can trust. Of the men who live by the other rule, how many would you trust with your sister?
 
-**"It's only a little fun. She knew what it was."** Then why did you have to tell yourself so? Using a person is still using her when she agrees to it. Paul's rule, in his first letter to the Christians in Thessalonica, is short: "that no one should take advantage of and wrong a brother or sister in this matter". You already knew that. That is why it never felt like fun the next morning.
+**"It's only a little fun. She knew what it was."** Then why did you have to tell yourself so? Using a person is still using her when she agrees to it. Paul's rule, in his first letter to the Christians in Thessalonica, is short: "that no one should take advantage of and wrong a brother or sister in this matter". You already knew that. That is why it so seldom felt like fun the next morning.
 
-She has been lied to as well. She was told that sleeping with a man and expecting nothing from him is freedom. She was told that a pill makes it safe. She was told that if a child comes anyway, the child's life can be ended, as though that would cost her nothing. Nobody told her the price, and nobody asked what she was worth. If you were part of a choice like that, there is forgiveness for it, the same as for everything else in this book. The grief is real, and there is help for it.
+She has been lied to as well. She was told that sleeping with a man and expecting nothing from him is freedom. She was told that a pill makes it safe. She was told that if a child comes anyway, the child's life can be ended, as though that would cost her nothing. Often nobody told her the price, and nobody asked what she was worth. If you were part of a choice like that, there is forgiveness for it, the same as for everything else in this book. The grief is real, and there is help for it.
 
 You don't have to take that from a church. In 2022 a British journalist named Louise Perry wrote a book about it. She had worked at a rape crisis center. She argued that the sexual revolution mostly served men who want sex without ties. One of her chapters is called "Consent Is Not Enough". Studies are mixed, and many people say they felt fine at the time. But the regret shows when researchers ask. A 2012 study questioned Canadian students who'd had sex with no commitment. About three in four said they had regretted it at some time. That was true of the men as well as the women.
 
@@ -68,7 +70,7 @@ The terms at this door are the same as at the others, with one difference. Nobod
 
 Nobody ends hookup culture by complaining about it. A man ends it one bed at a time, starting with his own.
 
-Two men have gone further up this road than the rest.
+Some men have gone further up this road than the rest.
 
 <!-- 2026-11-22 NEW CHAPTER for the ladder, split from The Collector and the Customer (James: 'explicitly talk about fornication... First with other women... End the hookup culture. But then even with your girlfriend.'). New text: the section 'The old word for it' (names and defines fornication) and 'The door'. Everything else is moved unchanged; its sources (1 Thessalonians 4:6 WEB, Louise Perry 2022, the 2012 Canadian regret study) are in the trailing notes of The Collector and the Customer and The World's Lies. -->
 
@@ -81,3 +83,5 @@ Two men have gone further up this road than the rest.
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). Covers the steady girlfriend with no plan to marry; 'She was a plate' cut (it came before the buffet picture and read as contempt); the line is no longer stated early. -->
 
 <!-- 2026-11-22 whole-book test as James (he said the No to the screen, the hand, the feed and the film, and stopped at 'any bed outside marriage'). New section 'Take the night apart': the book had only asserted that the hookup is 'the same hit'. It now runs the next-minute test on the bed (before, during, the minute after, the morning). -->
+
+<!-- 2026-11-22 second whole-book test as James (he said No to everything except 'any bed outside marriage', because with a woman he liked he was glad afterward and stayed). New paragraph for the night that WAS good ('The good part was the part that looked like the promise'); the minute-after claim no longer says every night felt the same; two absolutes softened. -->

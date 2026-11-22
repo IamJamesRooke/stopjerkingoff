@@ -36,7 +36,7 @@ If you're not a believer, keep the picture and change the flag. You still have p
 
 The prophet Isaiah once saw a vision of God on his throne. His first words were, "Woe is me!", because he knew what he was. Then an angel touched his lips with a coal from the altar and told him his sin was forgiven. And when God asked, "Whom shall I send, and who will go for us?", the forgiven man didn't hesitate. He said, "Here I am. Send me!"
 
-You are about to say it. First, one laugh.
+You are about to say it. But laugh first.
 
 <!-- REWRITTEN 2026-11-17 after the reader report: the chapter is shorter, the David section names Bathsheba and Uriah as people who were harmed, and the Ai passage, the Lewis, Nehemiah, Psalm 139, Titus, 2 Timothy 2:21 and Hebrews 12 quotations and two pastors' lines were cut. Source lines below for cut quotations are kept for the record. Bathsheba is named in 2 Samuel 11:3; David "sent messengers, and took her" (11:4); the letter is 11:14-15; the child dies in 12:18. These are retold, not quoted.
 SOURCES (Fit for Service, unnumbered chapter before Chapter 28; added 2026-11-15): the framing is James's own (a soldier showing up drunk for duty; loved but unfit for service; fire support; "if you aren't putting your recovery first you are putting everything else last"). Research: research/round4/findings.md and research/round5/findings.md.
@@ -64,3 +64,5 @@ SOURCES (Fit for Service, unnumbered chapter before Chapter 28; added 2026-11-15
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
 
 <!-- 2026-11-22 whole-book test as James (he said the No to the screen, the hand, the feed and the film, and stopped at 'any bed outside marriage'). Hook into the bleach chapter, which now comes before the Final Step. -->
+
+<!-- 2026-11-22 second whole-book test as James (he said No to everything except 'any bed outside marriage', because with a woman he liked he was glad afterward and stayed). No longer repeats the next chapter's first line. -->

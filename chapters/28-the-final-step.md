@@ -32,7 +32,11 @@ Jesus asked for plain speech: "But let your 'Yes' be 'Yes' and your 'No' be 'No.
 
 ## If there is another person {-}
 
-One thing comes before the prayer. The decision you're about to make is yours, and so is what you do about it afterward. This book won't write that part for you. It asks only this. Make sure that nothing you are doing breaks the law, and that nothing you are doing is harming another person. If something is, you already know what it is. Don't carry it past today. And remember where the line is. Sex belongs inside marriage, so the No you're about to say covers any bed outside it. If a woman you love is in that bed, this is not a No to her. It is a No to the bed until the promise is made. The best thing you can bring her is a man who doesn't need to take.
+One thing comes before the prayer. Make sure that nothing you are doing breaks the law, and that nothing you are doing is harming another person. If something is, you already know what it is. Don't carry it past today.
+
+The No you are about to say covers any bed outside marriage. Don't take that as a rule somebody handed you. Check it one last time against your own years. Name what any bed outside a promise left you that stayed. Then ask the old question. Suppose you had kept sex for the woman you promised to keep. Would your decisions have been better, or worse?
+
+If a woman you love is in that bed, this is not a No to her. It is a No to the bed until the promise is made. The best thing you can bring her is a man who doesn't need to take.
 
 ## The prayer {-}
 
@@ -72,7 +76,7 @@ Here is how.
 >
 > I am free.
 
-Change the words until they are true of you. Name what it cost you. The sentence that matters is the plain No.
+Add what it cost you, in your own words. Don't cut anything from the No.
 
 That is the decision, and it counts in full. A decision you've only thought is easy to un-think. One you've spoken has been heard, if only by you. If one day you want to pray the other version, it will still be here.
 
@@ -124,3 +128,5 @@ Do it now.
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). The spoken No now names the bed and the chase; 'it feels good' no longer blocks an honest reader at the last check. -->
 
 <!-- 2026-11-22 whole-book test as James (he said the No to the screen, the hand, the feed and the film, and stopped at 'any bed outside marriage'). The last check no longer offers a loop ('read again, no hurry'); the No to the bed is plain. -->
+
+<!-- 2026-11-22 second whole-book test as James (he said No to everything except 'any bed outside marriage', because with a woman he liked he was glad afterward and stayed). 'Change the words until they are true of you' let a reader cut 'any bed outside marriage'. -->

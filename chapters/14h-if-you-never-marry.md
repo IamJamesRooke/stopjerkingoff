@@ -8,7 +8,7 @@ That deserves a straight answer. Yes. If you never marry, it means that. This bo
 
 So be exact about what you are asked to put down. It is not that good thing. You don't have it. Look at what is on your table tonight.
 
-There is the screen. There is the hand. There is the stranger from the app, who wants you gone by morning. There is the woman you pay to leave. You have had some of these for twenty or thirty years. If they fed a man, you would be full by now. Are you?
+There is the screen. There is the hand. There is the stranger from the app, gone by morning. There is the woman you pay to leave. You have had some of these for twenty or thirty years. If they fed a man, you would be full by now. Are you?
 
 They are not a smaller helping of what the husband has. They are a photograph of his dinner. A man can eat photographs for thirty years and starve.
 
@@ -16,7 +16,7 @@ They are not a smaller helping of what the husband has. They are a photograph of
 
 Now ask a harder question, without blaming yourself. Why are you single at forty-five?
 
-Nobody can answer that for you, and a hundred things go into it. But count what the habit took out. Every night it paid off the push that sends a man across a room. It taught you to lose interest in a woman the day after you had her. It kept a dozen women on a phone, so that you never had to choose one.
+Nobody can answer that for you, and a hundred things go into it. But count what the habit took out, and check which of these is yours. Every night it paid off the push that sends a man across a room. It taught you to lose interest in a woman the day after you had her. It kept a dozen women on a phone, so that you never had to choose one.
 
 A man can't train for twenty years in the opposite of marriage and then wonder why he isn't married.
 
@@ -24,7 +24,7 @@ A man can't train for twenty years in the opposite of marriage and then wonder w
 
 So the choice in front of you was never sex or no sex. It is this road or that one.
 
-Follow this road to sixty-five. You are still swiping, on whatever the phone has become. You are still paying. The women are the age your daughter would have been. Nobody has a key to your door.
+Follow this road to sixty-five. You are still swiping, on whatever the phone has become. You are still paying. The women get younger than you every year, and nobody has a key to your door.
 
 The other road carries no promise. Nobody can tell you a wife is at the end of it. But it is the only road she could be on.
 
@@ -38,8 +38,10 @@ And it is not an empty road.
 
 And the thirty years? Nobody lives thirty years. He lives today, and today you have gone without nothing but an itch.
 
-The man who never does it doesn't lie awake counting decades. He isn't starving. He feels all day what you feel for ten minutes.
+The man who never does it doesn't lie awake counting decades. He isn't starving. He is spared the itch you quiet for ten minutes.
 
 That is every room in the house, and every man in the hall. One more thing has kept the Little Monster alive in all of them for years, and it isn't desire. It is a locked door.
 
 <!-- 2026-11-22 NEW CHAPTER from the whole-book test as James (lies 2 and 5: 'I'll probably never marry. So this is no sex for thirty years'; 'No touch, no one in the bed, for years'). It admits the married man's good may be missed and shows what is actually on the single man's table. 'It taught you to lose interest in a woman the day after you had her' and 'a dozen women on a phone' echo the narrator's own story in Who Is Telling You This. Paul: paraphrase of 1 Corinthians 7:32, not quoted. No studies or invented people. The closing hook was the last paragraph of But I'm Going to Marry Her. -->
+
+<!-- 2026-11-22 second whole-book test as James (he said No to everything except 'any bed outside marriage', because with a woman he liked he was glad afterward and stayed). The narrator's own history is no longer stated as the reader's; the 'daughter' prophecy cut; small fixes. -->

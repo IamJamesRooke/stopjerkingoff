@@ -46,7 +46,10 @@ Then she says yes, and the question goes quiet. The joy he feels is an alarm shu
 
 And the question comes back. It always does, because her yes settled nothing about him. So he needs another woman to ask. What did the fortieth yes tell him that the fourth did not?
 
-A man who knows he is worth having doesn't need a vote every weekend. The winner of the chase is the most anxious man in the bar.
+A man who knows he is worth having doesn't need a vote every weekend.
+
+Where does a man learn that he is worth having? He doesn't learn it from a yes, because a yes wears off by Monday. He learns it from promises kept and work finished. He learns it from people who would call him at three in the morning. None of those can be won in a bar.
+ The winner of the chase is the most anxious man in the bar.
 
 Life without it doesn't go flat. Flat is what he feels now, between women.
 
@@ -78,10 +81,12 @@ The best thing you can do is also the only thing. Respect her decision, and stop
 
 It will feel hard for a few days. That is the same itch in another coat, and it passes. If you find you can't stop, tell a doctor or a counselor today. In many places this is also a crime.
 
-Five men, then. One at the party, one who waits, one who swipes, one texting a picture in his head, and one who can't let go. Each of them thinks he is the hunter. Look again at who is doing the leading.
+Six men, then. One at the party, one who waits, one who swipes and one who wins. One texting a picture in his head, and one who can't let go. Each of them thinks he is the hunter. Look again at who is doing the leading.
 
 <!-- SOURCES (The Chase). New chapter 2026-11-21 (five-star pass): the first half of 'The Man Led by a Woman' split off so that both stay bite-sized. Holds: the opening; 'Thinking with the wrong head' (moved from 03c-crossing-the-red-line.md, heading dropped, last clause cut); the party man, 'The man who waits', 'The man who swipes', 'The one girl' (source notes in 14b-the-man-led-by-a-woman.md and 15-fantasy-and-the-thought-life.md); 'If you find yourself obsessed with a woman' (moved from 12b-do-not-negotiate.md, now 'If she has said no', with a one-sentence callback to de Becker's four instructions; its comment history is in 13-just-once.md). This file used to hold 'The King Who Turned His Face to the Wall', which was merged into 14b. -->
 
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). Long sentence split. -->
 
 <!-- 2026-11-22 whole-book test as James (he said the No to the screen, the hand, the feed and the film, and stopped at 'any bed outside marriage'). New section 'The man who wins': the chapter covered only men who lose, and the lie 'without the chase, life is flat' had no answer. -->
+
+<!-- 2026-11-22 second whole-book test as James (he said No to everything except 'any bed outside marriage', because with a woman he liked he was glad afterward and stayed). Where a man learns he is worth having; the count of men corrected to six. -->

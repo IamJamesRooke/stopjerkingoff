@@ -24,6 +24,8 @@ Three things are mixed together in that moment. Pull them apart.
 
 And the rush shrinks. It was bigger at fifteen than it is now. It will be smaller next year. The price goes up, and the portion goes down.
 
+Look at where the excitement sits, too. It isn't at the end. It's in the lead-up: the door clicking shut, the scroll, the search for the right video. That's why so many men drag it out. A man will spend forty minutes choosing the video for an ending that takes six seconds. He has picked jobs with less care.
+
 **The third is what the rush is for.** A body doesn't hand out its strongest pleasure for nothing. That rush was built to tie a man to a woman. The habit spends it on nobody, behind a locked door, and then wipes it up.
 
 ## The next minute {-}
@@ -42,8 +44,6 @@ So get the claim exactly right. This book has never said it doesn't feel good. I
 
 You are not being asked to live without that pleasure. Where it belongs is a question for later, and the answer is a good one. For now, see the few seconds for what they are. They are the one thing you have been defending, and they are how the trap is set.
 
-Look also at where the excitement sits. It isn't at the end. It's in the lead-up: the door clicking shut, the scroll, the search for the right video, the building of the scene. The end itself lasts seconds, and the flatness lands straight after. That's why so many men drag it out. A man will spend forty minutes choosing the video for an ending that takes six seconds. He has picked jobs with less care.
-
-And the lead-up has a problem. It never stays the same size.
+One more thing about that lead-up. It never stays the same size.
 
 <!-- 2026-11-22 NEW CHAPTER (James: 'The orgasm is real. The euphoria is real. It does feel good in the moment. Just like sugar tastes great for a few seconds before destroying you. That needs to be addressed.'). The book now says plainly that it feels good, and squares that with 'no benefits at all': relief, the rush (weighed against the hour before and the ten minutes after, and shrinking), and what the rush is for. The last two paragraphs (the lead-up) are moved here from the end of The Little Monster. No facts, studies or quotes were added. -->

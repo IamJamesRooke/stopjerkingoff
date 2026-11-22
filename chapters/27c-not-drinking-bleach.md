@@ -32,7 +32,7 @@ Now say the old bargains in a Bleachstronaut's voice.
 
 "I'm drinking bleach, but at least it isn't the strong kind."
 
-"At least I'm drinking it with a real woman."
+"At least I'm sharing the glass with a real woman."
 
 "I'm only thinking about bleach. I'm not doing anything about it."
 
@@ -43,3 +43,5 @@ You're smiling because you can see what the Bleachstronauts can't. Nobody needs 
 That is all the last step is.
 
 <!-- 2026-11-22 NEW CHAPTER PLACEMENT (James: by the end 'you actually find it gross and don't want it'; the whole-book test reader: the bleach forum was the only place he laughed at the habit, and it sat after the Final Step). The forum text is moved unchanged from If You Slip (Guillaco, Meditations of a Porn Addict, as quoted in EasyPeasy, CC BY-SA 4.0; lightly edited as before). New: the section 'Sugar in the glass' with the four bargains in a Bleachstronaut's voice. -->
+
+<!-- 2026-11-22 second whole-book test as James (he said No to everything except 'any bed outside marriage', because with a woman he liked he was glad afterward and stayed). The woman is not the bleach; the shared hit is. -->
