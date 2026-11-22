@@ -74,7 +74,9 @@ The rooms come in order of strength. First is porn, the hand and the orgasm toge
 
 It is one hit at three strengths. Where the orgasm does belong is the last question on the walk.
 
-There is no pressure on this walk. Nobody will ask you to give up a room before you have looked inside it. At each door, ask one thing. What has this ever given me?
+The doors shut in order, because each excuse leans on the one before it. And a door shuts in only one way. You look inside, and you see there is nothing in the room you want.
+
+So there is no pressure on this walk. Nobody will ask you to give up a room before you have looked inside it. At each door, ask one thing. What has this ever given me?
 
 Start with the strong dose.
 
@@ -121,3 +123,5 @@ Start with the strong dose.
 <!-- 2026-11-21 five-star pass (H3; review items B4 and cold-listener 3.7): 'The Ladder' (14a-the-ladder.md) folded into this chapter as the short list 'The line-up' (one or two sentences a man, no statistics; the pool image kept, the ladder title gone; the man who never started is named as outside the trap). 'At Least I'm Not Him' (14c-at-least-im-not-him.md) dissolved: its closing section 'One trap' (the Pharisee and the tax collector, Luke 18:10-14, quotes from 18:11 and 18:13 WEB) and the hook into 'The Back Door' now end this chapter; the married man went to 'You Would If You Could', the imagination-only man to the same chapter's harem section, the church guy to the handoff file for 'The Locked Door'. The source notes for all of that material were already listed in this file's SOURCES block above. Carried from the dissolved files' comment lines: 2026-11-20 structure pass (both split out of this file); 2026-11-20 Hydra version (the long 'man who buys it in person' bullet and 'The collector' moved to 'The Collector and the Customer'); 2026-11-20 review batch (reader report 5 and 12); 2026-11-21 editorial pass, overnight round and room-by-room reorder. Cut text is in the scratchpad file parked-H3.md. -->
 
 <!-- 2026-11-22 LADDER (James: go after each behavior in turn; PMO is the enhanced version, MO the mild version, 'the O is only for one person'; no pressure; name fornication; PMO to MO is progress because porn hurts others). New closing section 'One hit, three strengths' is the map of the walk: PMO, MO, then the wanting of the orgasm; no pressure. The next chapter is now The Screen. Plan: /mnt/project-files/easy-peasy/ladder-plan-2026-11-22.md -->
+
+<!-- 2026-11-22 AT LEAST (James: 'What I really want is for ME to be convinced and not even want these things... I'm jerking off but at least not watching porn / I'm not jerking off but at least I'm with a real woman / I'm jerking off but it's only thinking about other woman, not doing anything about it... I still feel myself believing the lies'; 'each door must be sequentially shut'). The map now says the doors shut in order, and that a door shuts by being seen through. -->

@@ -16,7 +16,9 @@ Leave the word aside for a minute. Ask what you ask of every room. What did the 
 
 It gave you the same hit as the screen and the hand.
 
-The hookup has an "at least" of its own. At least she is a real person. She is, and that is the trouble. The screen used a picture. The hand used a memory. This uses her.
+The hookup has an "at least" of its own. "I'm not jerking off. At least I'm with a real woman."
+
+She is real, and that is the trouble. The screen used a picture. The hand used a memory. This uses her. He hasn't stopped jerking off. He is doing it with her body, and she is a person.
 
 "But she wanted it too." Perhaps she did. Then ask where the two of you were going. If there was no future in it, neither of you gave anything. You were two addicts sharing a dose. Two people took a hit, and nobody was given a gift.
 
@@ -53,3 +55,5 @@ Most men stop at going home with someone now and then. Two men have gone much fu
 <!-- 2026-11-22 NEW CHAPTER for the ladder, split from The Collector and the Customer (James: 'explicitly talk about fornication... First with other women... End the hookup culture. But then even with your girlfriend.'). New text: the section 'The old word for it' (names and defines fornication) and 'The door'. Everything else is moved unchanged; its sources (1 Thessalonians 4:6 WEB, Louise Perry 2022, the 2012 Canadian regret study) are in the trailing notes of The Collector and the Customer and The World's Lies. -->
 
 <!-- 2026-11-22 (James: 'At least it's a real person but you're still using somebody. And even if she likes it, you're both drug addicts if you have no future together'): the 'at least' and 'two addicts sharing a dose' paragraphs. -->
+
+<!-- 2026-11-22 AT LEAST (James: 'What I really want is for ME to be convinced and not even want these things... I'm jerking off but at least not watching porn / I'm not jerking off but at least I'm with a real woman / I'm jerking off but it's only thinking about other woman, not doing anything about it... I still feel myself believing the lies'; 'each door must be sequentially shut'). The second bargain is quoted in James's words, with 'He hasn't stopped jerking off. He is doing it with her body, and she is a person.' -->

@@ -36,8 +36,12 @@ That is the first room, and you have looked inside it.
 
 Nobody is asking you for a vow. If you find you don't want what is in there, don't go in. No one is counting days. If you do go in, keep your eyes open, and notice what you carry out. There is no pressure either way. The No that counts comes at the end, and it covers the whole house.
 
-A man who walks out of this room has done something real. He has stopped paying that trade, and nobody on a screen is being used for him any longer.
+A man who shuts this door has stopped paying that trade. Nobody on a screen is being used for him any longer. That is good for them.
 
-But he hasn't emptied the house. Plenty of men shut this door and thought they were finished. Then they heard a knock from the next room down the hall.
+For him, the first bargain is waiting just outside, and it sounds like a virtue. "I'm jerking off, but at least I'm not watching porn."
+
+Plenty of men shut this door and settled for that. Then they heard a knock from the next room down the hall.
 
 <!-- 2026-11-22 NEW CHAPTER for the ladder (James: porn first, the PMO rung, with the paid sites; 'no pressure'; PMO to MO is progress because porn hurts others). The section 'The woman who says his name' is moved whole from The Collector and the Customer (subscription sites, the 2024 seven-billion figure, the chatters); sources are in that chapter's trailing notes. No new facts. 'His face shows nothing' and the ceiling call back to the Introduction. -->
+
+<!-- 2026-11-22 AT LEAST (James: 'What I really want is for ME to be convinced and not even want these things... I'm jerking off but at least not watching porn / I'm not jerking off but at least I'm with a real woman / I'm jerking off but it's only thinking about other woman, not doing anything about it... I still feel myself believing the lies'; 'each door must be sequentially shut'). The door no longer praises the man for leaving porn; it says who gains (the people on the screen) and names the first bargain in his words. -->

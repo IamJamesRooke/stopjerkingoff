@@ -36,6 +36,30 @@ Nobody should write his grocery list while he's starving.
 
 That is why the line has to sit somewhere outside you, where your wanting can't reach over and nudge it. You have moved your own line a hundred times. Each time it moved in the same direction.
 
+## Why not an easier line? {-}
+
+You could draw the line somewhere easier. Most men do. Every easier line has a name, and you have said each one in your own voice.
+
+"At least I'm not watching porn." "At least it's only in my head." "At least she's a real woman." "At least I love her."
+
+Look at what each of them does. It shuts some rooms and keeps one ready. You know what happens to a room that is kept ready. The whole habit moves into it. A man with one room left is not nearly free. He is fed in full, through one door.
+
+Only one line keeps no room ready. That isn't a religious claim. Count the rooms.
+
+Then test the lines the way you would test a bridge. Put weight on them.
+
+**Who gets used?** Behind every easier line, somebody is used. It is a woman on a screen, or a woman in your head who never agreed. It is a woman in a bed, or it is you. Inside the promise nobody is used. Both of them gave, and both of them stay.
+
+**What has to be hidden?** Every easier line needs a locked door, a cleared history, or a "Quiet" when she asks about your night. A husband and wife have nothing to hide from anyone.
+
+**Would you hand it on?** Would you teach your easier line to your son? Would you accept it from the man who dates your daughter? "At least she's a real woman" sounds different when the woman is her. For her you want the man who waits and then stays. Some other father wants that man for his daughter.
+
+**Where does the desire go?** On every easier line it is spent, on a screen or a tissue or a stranger. Inside the promise the same force builds a bond, a home and perhaps children. One line burns it. The other puts it to work.
+
+I am not saying this from a pulpit. Check it against your own years. You drew every easier line to keep something. What did the thing you kept ever give you?
+
+So the old line is not the strict one among many good ones. It is the only one that holds. That is why it has lasted three thousand years.
+
 ## Not a verdict {-}
 
 If you have spent years on the wrong side of the line, so has nearly every man who ever lived. That includes the one writing this. This chapter isn't a verdict on you. It's a map, and you can't leave a place until you know where its edge is.
@@ -58,3 +82,5 @@ SOURCES: Epigraph and body quotation: Proverbs 5:15 (WEB, checked 2026-11-20). "
 <!-- 2026-11-21 five-star pass (H3; ruling 6): the 'One room is left' formula varied; the last line now hands the squatter's line to the next chapter's opening. -->
 
 <!-- 2026-11-22 LADDER (James: go after each behavior in turn; PMO is the enhanced version, MO the mild version, 'the O is only for one person'; no pressure; name fornication; PMO to MO is progress because porn hurts others). Added the two paragraphs that close James's frame: one drug at three strengths, and inside the promise 'it is for one person'. Plan: /mnt/project-files/easy-peasy/ladder-plan-2026-11-22.md -->
+
+<!-- 2026-11-22 AT LEAST (James: 'What I really want is for ME to be convinced and not even want these things... I'm jerking off but at least not watching porn / I'm not jerking off but at least I'm with a real woman / I'm jerking off but it's only thinking about other woman, not doing anything about it... I still feel myself believing the lies'; 'each door must be sequentially shut'). New section 'Why not an easier line?': the case for the biblical line on its merits for any reader (every easier line keeps a room ready; four tests: who gets used, what has to be hidden, would you hand it on, where does the desire go). The narrator says he is not speaking from a pulpit. -->
