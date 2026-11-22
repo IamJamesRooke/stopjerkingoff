@@ -78,7 +78,7 @@ Then I put it out for anyone to take, because I am not the only one. Not even cl
 
 I think this is where the church should put its full-court press. That is a basketball term for all-out pressure, everywhere on the floor. Wipe out this one problem. Get the men to stop jerking off, stop watching porn and stop simping, which is begging women for crumbs of attention. Change the men, and you change the whole church. It fills up with men who have balls and put that wasted energy into getting something done.
 
-I have been most of the men you'll meet in this book. I gave the habit every chance to pay me back, and it never did. If a man with my record can see through it, so can you.
+I have been most of the men you'll meet in this book. I gave the habit every chance to pay me back, and it never did. With my record, I am the last man who could sell you a benefit.
 
 That is enough about me.
 
@@ -101,3 +101,5 @@ So start with the Little Monster. If he does nothing for you, why has every atte
 <!-- 2026-11-22 (James: 'Chapter 3 is great', add sections, cohesion pass, drop the line about running a church): eight spoken section headings; the willpower puzzle moved up to the church-room section so the villain section runs unbroken; the church paragraph is now his view that this is where the church should put its full-court press (explained in place), with 'I don't run a church. I have a book.' removed. -->
 
 <!-- 2026-11-22 light line pass with chapters 1 to 5: ten small edits (stated feelings shown or cut; 'like something he rents' is now 'like a rental car'; 'You have thrown him out before.' added to the last paragraph). 'Deeper power' kept: it is James's phrase. -->
+
+<!-- 2026-11-22 (James: 'The proof that the book works is that I overcame the addiction myself. Which I still haven't.'): the book must not say or imply that the narrator is already free. 'If a man with my record can see through it, so can you' implied he was out. -->

@@ -6,7 +6,7 @@ He means it. He always means it.
 
 Everybody tells him it's normal. Nobody tells him why he ends up staring at the ceiling.
 
-You know this man. Most men do. I was him for decades.
+You know this man. Most men do. I have been him for decades.
 
 He is not a weak man. He keeps his word to everyone but himself. Against this one thing he has tried vows, prayers, blocked sites, cold showers and streaks. Not one of them lasted. So he believes he is fighting a dragon.
 
@@ -123,3 +123,5 @@ SOURCES (Introduction): every quote below is from the research files; check each
 <!-- 2026-11-22 research rebuild (James: 'something stopping it from being five star'; vague adjectives; no section headers; the monster could be read literally; 'maybe no big monster at all, just the lies'; 'show, don't tell'; Scott Adams's 'The Day You Became a Better Writer'). Built from research on how strong self-help and quit-addiction books open (Carr's own front matter, Clear, Grace, Goggins, an addiction memoir, Made to Stick, editors' guides, writing for audio). Changes: the scene is shown, not told; the craving is described as a plain feeling BEFORE it is named, with one guard line for the literal reader ('nothing is really living in you'); 'small' is now the size of a house cat, 'smells' is a gym bag left in a hot car; one creature only, with the lies in two piles (told to you, told by you) and no 'Big Monster' until The World's Lies; six section headers; housekeeping split under 'Before you start' and 'Two rules'. The previous Introduction is saved whole in editorial/PARKING.md. -->
 
 <!-- 2026-11-22 (James: 'Make the book as long as it's gotta be... we can say that if it's long you can keep your addiction because it will take longer to read. But we will destroy all the lies.'): 'four hours' is now 'five hours', with the three sentences on why it is long. -->
+
+<!-- 2026-11-22 (James: 'The proof that the book works is that I overcame the addiction myself. Which I still haven't.'): the book must not say or imply that the narrator is already free. 'I was him' is now 'I have been him'. -->
