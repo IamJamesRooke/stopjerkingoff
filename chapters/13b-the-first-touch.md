@@ -10,7 +10,7 @@ That is how it nearly always happens. Nobody sits up in bed and announces a plan
 
 Ask where a heroin addict makes his decision. It isn't when the drug hits. By then nobody is left to decide. It is before the needle goes in. Once it is in, it is in. A man who has swallowed the pill can't unswallow it on the stairs.
 
-The first touch is the needle going in. Everything after it is the drug talking. So a man is free in one place only, and that place is before.
+The first touch is the needle going in. After it he can still stop, but now he is arguing with the drug. The cheap place to choose is before.
 
 ## The free sample {-}
 
@@ -38,10 +38,12 @@ The dieter has to stop in the middle of the meal, with the food in his mouth, a 
 
 This is no rule to grit your teeth over. It is a map of where the choice is. The choice is in the first two seconds, while you are still wholly yourself. It costs nothing there.
 
-So the instruction fits in four words, and your grandmother could have given it. Stop touching your junk.
+So once your No is said, the instruction fits in four words, and your grandmother could have given it. Stop touching your junk.
 
 When you wake up hard, it is plumbing. It is not a summons. Get up and make the coffee.
 
 The lie has one more trick. It points at another man and says, "Look at him. He has it under control."
 
 <!-- 2026-11-22 NEW CHAPTER (James: 'a chapter kind of idea on Stop touching your junk... morning erection, you have some time, nobody is around, you touch once... then twice... it does feel good, especially if you haven't done it in a while... Then you don't want to stop. Like a heroin addict. Once the needle is in... It's in... I wish I could just see those cravings as a drug dealer on the street offering me a hit... A little sample. But like Lays Chips you can never eat just one. It's easier to fast than to diet.'). The dealer is 'the lie', since the Little Monster never talks. Lay's slogan 'Betcha can't eat just one' (introduced 1963) is given in place. Morning erections as plumbing: sourced in What Your Body Will Do. The closing hook was the last paragraph of Just Once. -->
+
+<!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through: the marriage chapters reordered so that If You Never Marry comes last (after All In has shown the good thing), with the hall stitched to match; repeats cut; leaks closed. -->

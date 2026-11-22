@@ -52,7 +52,7 @@ Marriage is not one more room, with a license on the door. Inside the promise th
 
 Then test the lines the way you would test a bridge. Put weight on them.
 
-**Who gets used?** Behind every easier line, somebody is used. It is a woman on a screen, or a woman in your head who never agreed. It is a woman in a bed, or it is you. Inside the promise nobody has to be. Both of them gave everything first, and both of them stay.
+**Who gets used?** Behind every easier line, somebody is used. It is a woman on a screen, or a woman in your head who never agreed. It is a woman in a bed, or it is you. Inside the promise nobody has to be. Both of them gave everything first, and both have promised to stay.
 
 **What has to be hidden?** Every easier line needs a locked door, a cleared history, or a "Quiet" when she asks about your night. A husband and wife need hide nothing about their bed.
 
@@ -72,7 +72,7 @@ So the old line is not the strict one among many good ones. It is the only one t
 
 ## Not a verdict {-}
 
-If you have spent years on the wrong side of the line, so has nearly every man who ever lived. That includes the one writing this. This chapter isn't a verdict on you. It's a map, and you can't leave a place until you know where its edge is.
+If you have spent years on the wrong side of the line, so has nearly every man who ever lived. This chapter isn't a verdict on you. It's a map, and you can't leave a place until you know where its edge is.
 
 And don't try to drag yourself across the line tonight by force. That is sweeping the house again. Nobody is telling you to sin. If you have already stopped, stay stopped. A man crosses it when nothing on the wrong side is worth having. The one exception is another person. If someone else is in it, you are making a choice about her, and you can stop making it today.
 
@@ -102,3 +102,5 @@ SOURCES: Epigraph and body quotation: Proverbs 5:15 (WEB, checked 2026-11-20). "
 <!-- 2026-11-22 whole-book test as James (he said the No to the screen, the hand, the feed and the film, and stopped at 'any bed outside marriage'). New test under 'Why not an easier line?': the honest-relationship line fails on the reader's own record. -->
 
 <!-- 2026-11-22 second whole-book test as James (he said No to everything except 'any bed outside marriage', because with a woman he liked he was glad afterward and stayed). Overclaim fixed. -->
+
+<!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through: the marriage chapters reordered so that If You Never Marry comes last (after All In has shown the good thing), with the hall stitched to match; repeats cut; leaks closed. -->

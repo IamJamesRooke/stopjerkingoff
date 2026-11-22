@@ -46,7 +46,7 @@ Get this fixed in your mind: JUST ONCE DOES NOT EXIST. It's a chain, and each li
 
 Sometimes the offer comes smaller still. Not once, only a look. A scroll past a certain account, a quick search, a minute of "just touching, not finishing". This is what finishes off most men on the Willpower Method, three or four days in.
 
-Often the little look is a letdown, and the man is delighted. "That did nothing for me. I must be losing interest." The opposite is true. He never did this for the enjoyment. He did it to feed the Little Monster. Think how that scrap tasted to him after four days of starving. The man didn't notice. The Little Monster did.
+Often the little look is a letdown, and the man is delighted. "That did nothing for me. I must be losing interest." The opposite is true. The few seconds were never the reason. He did it to feed the Little Monster. Think how that scrap tasted to him after four days of starving. The man didn't notice. The Little Monster did.
 
 It is also the caller getting his answer. All the calls the man let ring taught the caller nothing. The one he picked up taught him to keep ringing.
 
@@ -173,3 +173,5 @@ There is a smaller "just once" than any of these, and it is the one that gets mo
 <!-- 2026-11-22: the closing hook now leads into the new chapter The First Touch; the old hook closes that chapter. -->
 
 <!-- 2026-11-22 SKEPTIC READ, stage 2 (an atheist who thinks marriage is rigged against men): trust runs both ways; the single man gets an argument that needs no wife; plain legs beside the God-only cures. -->
+
+<!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through: the marriage chapters reordered so that If You Never Marry comes last (after All In has shown the good thing), with the hall stitched to match; repeats cut; leaks closed. -->

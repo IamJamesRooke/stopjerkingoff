@@ -16,7 +16,7 @@ His question isn't "*how* shall I try harder?" It's "*who* will deliver me?" The
 
 If you're not a believer, part of this holds without the theology. The war between two wills doesn't end when one of them finally wins. **IT ENDS WHEN ONE OF THEM IS GONE.** The will that wants "one more night" lives entirely on the belief that the night has something to offer. Take away the belief and there's no second will left to fight. That's what this book is doing, a chapter at a time. For a believer, that is the work Paul gave thanks for. The one who delivers does it, and this book only clears the ground.
 
-## Enjoyment never came into it {-}
+## Why he really keeps it {-}
 
 The few seconds at the end feel good, and they are not why a man keeps the habit. He keeps it to stop the banging. We call the whole thing enjoyment because the alternative is too insulting to consider. The alternative is twenty years spent on something that gives us nothing. That's why most of it happens half-asleep, on autopilot, in the dark. A man at this habit is only content while he isn't thinking about what he's doing.
 
@@ -39,3 +39,5 @@ Some men hear all this and choose what sounds like the sensible middle road. It 
 <!-- 2026-11-21 five-star pass (editor H2): structural cuts, moves and repairs from the outside review and the cold-listener report. Cut text is kept in the pass's parked-H2 file; source notes above still stand for anything cut. -->
 
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). No longer denies the pleasure. -->
+
+<!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through: the marriage chapters reordered so that If You Never Marry comes last (after All In has shown the good thing), with the hall stitched to match; repeats cut; leaks closed. -->

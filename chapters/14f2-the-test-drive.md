@@ -28,7 +28,7 @@ Sex ties two people together. That is its job. Sleep with her, and you have fogg
 
 That is how a man stays two years with the wrong woman, because the bed was good. It is how he leaves the right one, because the first night was awkward. In both cases the test gave him the wrong answer.
 
-Mark Driscoll, an American pastor, put it in one line in a 2006 sermon: "you can't really get to know someone when you're sleeping with them".
+Mark Driscoll, the American pastor, put it in one line in a 2006 sermon: "you can't really get to know someone when you're sleeping with them".
 
 ## What the count shows {-}
 
@@ -50,7 +50,7 @@ That goes for the bed itself. Talk about it before the wedding, plainly. Say how
 
 So the test drive isn't caution. It is the old habit in a lab coat.
 
-Two men are still standing in the hall, and neither has a fiancée. The first is dating.
+Three men are still standing in the hall, and none has a fiancée. The first is dating.
 
 <!-- 2026-11-22 NEW CHAPTER (James: 'Mark Driscoll has lots of stuff on the lies men tell themselves like you need to test drive the woman first'). The argument here is the book's own; no study, quote or person is cited yet. Research on Driscoll's wording and on studies of premarital partners, cohabitation and divorce is in progress and will be folded in only where verified. The closing hook was the last paragraph of But I'm Going to Marry Her. -->
 
@@ -59,3 +59,5 @@ Two men are still standing in the hall, and neither has a fiancée. The first is
 <!-- 2026-11-22 third whole-book test as James (he now says the whole No, but holds back the warm bed with a woman he liked; 'I say the clause as a better policy, not as a man who sees nothing in the room'). Fixes from that test; see the commit of this date. -->
 
 <!-- 2026-11-22 Skeptic read: the religion confound is named. -->
+
+<!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through: the marriage chapters reordered so that If You Never Marry comes last (after All In has shown the good thing), with the hall stitched to match; repeats cut; leaks closed. -->

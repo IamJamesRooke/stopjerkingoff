@@ -1,6 +1,6 @@
 # The Rigged Game {#the-rigged-game}
 
-One man is still in the hall, with his arms crossed. He has heard every word about the promise, and he has an answer.
+He has heard every word about the promise, and he has an answer.
 
 "Marriage is a scam, and it is rigged against men. She can leave whenever she likes. She takes the children, the house and half my pay. I watched it happen to my friends."
 
@@ -79,3 +79,5 @@ That is the last easier line in the house, and it has a price list of its own.
 <!-- 2026-11-22 (James: 'THIS BOOK IS NOT ABOUT ME. If we can cut stuff about me, BETTER'): the divorce passage is now an anonymous man in the third person; the lines about the narrator's own faith ('I'm not one yet') are cut. The first-person version is in editorial/PARKING.md. -->
 
 <!-- 2026-11-22 from James's research report, checked against the original: Census P60-285, 'Custodial Parents and Their Child Support: 2022' (August 2025): custodial fathers due $4.8 billion, received $3.0 billion; 49.5% of parents owed support received all of it; fathers 21.8% of custodial parents. The chapter's 2018 custody figures are from the earlier edition, P60-269. -->
+
+<!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through: the marriage chapters reordered so that If You Never Marry comes last (after All In has shown the good thing), with the hall stitched to match; repeats cut; leaks closed. -->

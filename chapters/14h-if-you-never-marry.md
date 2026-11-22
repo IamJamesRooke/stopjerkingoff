@@ -42,10 +42,12 @@ The man who never does it doesn't lie awake counting decades. He isn't starving.
 
 He may still want a wife. That wanting is good, and it is not the itch. It sends a man across a room. The itch only ever sent him up the stairs with a plate.
 
-One man is still in the hall. He has listened to all of this with his arms crossed.
+That is every room in the house, and every man in the hall. One more thing has kept the Little Monster alive in all of them for years, and it isn't desire. It is a locked door.
 
 <!-- 2026-11-22 NEW CHAPTER from the whole-book test as James (lies 2 and 5: 'I'll probably never marry. So this is no sex for thirty years'; 'No touch, no one in the bed, for years'). It admits the married man's good may be missed and shows what is actually on the single man's table. 'It taught you to lose interest in a woman the day after you had her' and 'a dozen women on a phone' echo the narrator's own story in Who Is Telling You This. Paul: paraphrase of 1 Corinthians 7:32, not quoted. No studies or invented people. The closing hook was the last paragraph of But I'm Going to Marry Her. -->
 
 <!-- 2026-11-22 second whole-book test as James (he said No to everything except 'any bed outside marriage', because with a woman he liked he was glad afterward and stayed). The narrator's own history is no longer stated as the reader's; the 'daughter' prophecy cut; small fixes. -->
 
 <!-- 2026-11-22 third whole-book test as James (he now says the whole No, but holds back the warm bed with a woman he liked; 'I say the clause as a better policy, not as a man who sees nothing in the room'). Fixes from that test; see the commit of this date. -->
+
+<!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through: the marriage chapters reordered so that If You Never Marry comes last (after All In has shown the good thing), with the hall stitched to match; repeats cut; leaks closed. -->

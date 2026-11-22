@@ -40,7 +40,7 @@ Be fair to that too. Happier men are more likely to marry, so the ring isn't the
 
 Marriage is an all-in bet, and nobody should tell you otherwise. You push everything to the middle of the table. Your money goes in, and your name, and your future. You can't take it back without losing half of yourself.
 
-It can go wrong. In 2023, about a third of Americans who had ever married had seen a first marriage end in divorce. Men have been ruined by a bad marriage, and so have women. Some wives lie, and some leave, just as some husbands do.
+It can go wrong, and you have seen the numbers. Men have been ruined by a bad marriage, and so have women. Some wives lie, and some leave, just as some husbands do.
 
 That is no argument against the bet. It is an argument for choosing with clear eyes. And the habit never let you choose that way. A man ruled by lust picks a wife with the one part of him that can't see character.
 
@@ -54,7 +54,7 @@ Then remember that she is choosing too. Her risks are not the same as yours, and
 
 Nobody can promise you a wife. But a man who keeps his word, who wants one woman, and who isn't looking over her shoulder is rare.
 
-That is every room in the house, and every man in the hall. One more thing has kept the Little Monster alive in all of them for years, and it isn't desire. It is a locked door.
+One man in the hall has heard all of this and shaken his head. He doesn't expect a wife at all.
 
 <!-- 2026-11-22 NEW CHAPTER (James: 'make me not want to sleep with lots of different women. Make me want to commit and get married and yeah, marriage is an all in bet. So you have to choose carefully.'). The argument is the book's own; no study, quote or person is cited. 'Some wives lie, and some leave, just as some husbands do' keeps the standing tone rule (men take responsibility, but the book doesn't pretend women are angels). The closing hook was the last paragraph of If You Never Marry. -->
 
@@ -63,3 +63,5 @@ That is every room in the house, and every man in the hall. One more thing has k
 <!-- 2026-11-22 third whole-book test as James (he now says the whole No, but holds back the warm bed with a woman he liked; 'I say the clause as a better policy, not as a man who sees nothing in the room'). Fixes from that test; see the commit of this date. -->
 
 <!-- 2026-11-22 Skeptic read: 'she is risking as much' was false by the book's own count and is changed; the cold bed is admitted. -->
+
+<!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through: the marriage chapters reordered so that If You Never Marry comes last (after All In has shown the good thing), with the hall stitched to match; repeats cut; leaks closed. -->

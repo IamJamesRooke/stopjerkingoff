@@ -38,7 +38,7 @@ Some men should not marry, and nobody here will push you.
 
 If you can't find a woman you would trust with that lever, don't sign. If the bed is the reason, or a pregnancy, don't sign. A bad marriage is worse than none.
 
-Then the line means the single road, and you have seen that it is not an empty one. The line never said "marry or else". It says no bed without the promise.
+Then the line means the single road. It is not an empty one, and it gets its own answer. The line never said "marry or else". It says no bed without the promise.
 
 ## How the odds move {-}
 
@@ -66,7 +66,7 @@ A careful man can't bring the risk to zero. He can do what he does with any larg
 
 Lust is the drink.
 
-That is the last man in the hall. So far this walk has only shut doors. One door is left, and it opens.
+Every door on this walk so far has been one to shut. The next one opens.
 
 <!-- 2026-11-22 NEW CHAPTER after the skeptic read (James's test reader: an atheist who thinks marriage is rigged against men; James: 'This IS true. But try and get it so, by the end, he agrees'). Answers 'I'll have the woman without the contract'. Full notes and limits in research/divorce-dossier-2026-11-22.md. CHECK EACH FIGURE AGAINST ITS PAGE BEFORE PRINT. Sources: no gap among the unmarried: Rosenfeld, 'Who wants the Breakup?' (cohabiting 56%, dating 53%, neither distinguishable from half). Prenups: Arizona Revised Statutes 25-203(B) (follows the Uniform Premarital Agreement Act); American Bar Association, 1 May 2023. Never-married men: Lin and Brown, The Gerontologist, 2012 (2009 American Community Survey, baby boomers aged 45-63: never-married men 20.2% in poverty, 73.0% living alone; married boomers of both sexes 4.2% in poverty), https://pmc.ncbi.nlm.nih.gov/articles/PMC3304891 . Odds: CDC/NCHS, National Health Statistics Reports no. 49, 2012 (National Survey of Family Growth 2006-2010; men married at 25 or over 76% intact at ten years, under 20, 48%; first child 8 or more months after the wedding 74% intact at twenty years, before the marriage 43%; lived together unengaged 49% against 60%), https://www.cdc.gov/nchs/data/nhsr/nhsr049.pdf . Work: Killewald, American Sociological Review, 2016 (3.3% against 2.5% a year). 'A blind man signs anything' calls back to Mothers, Sisters, Daughters. The closing hook was the last paragraph of If You Never Marry. -->
 
@@ -75,3 +75,5 @@ That is the last man in the hall. So far this walk has only shut doors. One door
 <!-- 2026-11-22 SKEPTIC READ, stage 5 (an atheist who thought marriage a scam; at the final No he said every clause, and 'any bed outside marriage' only as a policy for a woman he loves). The book now admits that this one clause asks for waiting and costs something. -->
 
 <!-- 2026-11-22 (James: 'for the divorces, it's conditional... if the woman is making more money and a career type boss babe, then the percentage skyrockets'). Checked: the evidence is mixed and does not support 'skyrockets'. Sources: Bertrand, Kamenica and Pan, Quarterly Journal of Economics, 2015 (National Survey of Families and Households, 1987-88 and 1992-94: divorce about 6 points higher on a 12% base when the wife earns more; read in the NBER working paper w19023); Schwartz and Gonalons-Pons, RSF, 2016 (hazard ratio 1.70 for 1968-79 marriages, 1.04 for the 1990s), https://pmc.ncbi.nlm.nih.gov/articles/PMC5021537/ ; Folke and Rickne, American Economic Journal: Applied Economics, 2020 (Sweden 1991-2012, mayors and members of parliament: about 7 points on a 6% base; concentrated where the husband was much older and the wife had taken nearly all the parental leave; no effect in more equal couples); Killewald 2016 (wives' earnings not associated with divorce; the earlier wording 'What she earned made no difference' is replaced). CHECK BEFORE PRINT. -->
+
+<!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through: the marriage chapters reordered so that If You Never Marry comes last (after All In has shown the good thing), with the hall stitched to match; repeats cut; leaks closed. -->
