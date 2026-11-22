@@ -66,7 +66,7 @@ There's no "one last time" ceremony waiting for you in the closing pages. There 
 
 ## Who is telling you this {-}
 
-You should know who is talking. I'll keep it short, because this book is about you.
+You should know who is talking, even though this book is about you.
 
 I was an awkward boy who couldn't talk to girls. At school dances I held up the wall. At sixteen I found masturbation, and it became my drug, several times a day. At twenty-one I got fast internet, and porn came with it. Nobody could have told. From the outside, my life looked fine.
 
