@@ -8,7 +8,7 @@
 - **'sequel' (allowed only as 'not an official sequel')**: 0 hit(s) 
 - **'play along' (allowed: Intro, Ch 32)**: 0 hit(s) 
 - **'atheist' (convention: say 'not a believer')**: 0 hit(s) 
-- **'jerking off' (use rarely, on purpose)**: 2 hit(s) 1a:79, 3c:15
+- **'jerking off' (use rarely, on purpose)**: 5 hit(s) 1a:79, 3c:15, 14a:43, 15b:7, 15d:11
 
 ## Files outside the chapters that name the repository owner
 
@@ -18,13 +18,13 @@
 
 ## Pronoun for God: capitalised vs lowercase (prose lines)
 
-- capitalised He/His/Him near 'God': 1 lines: 18:33
-- lowercase he/his/him near 'God': 17 lines: b:51, 3:9, 8:41, 8:67, 12:56, 13:75, 14b:23, 14b:29, 14b:33, 16:49, 18:33, 20:29, 21:60, 27:23, 27b:25, 27b:37, 28a:25
+- capitalised He/His/Him near 'God': 1 lines: 18:35
+- lowercase he/his/him near 'God': 18 lines: b:51, 1c:9, 3:9, 8:41, 8:67, 12:56, 13:75, 14b:23, 14b:29, 14b:33, 16:49, 18:35, 20:29, 21:60, 27:23, 27b:25, 27b:37, 29b:30
 
 ## British vs American spelling (prose)
 
 - colour: 0  |  color: 0
-- favour: 0  |  favor: 10
+- favour: 0  |  favor: 9
 - realise: 0  |  realize: 5
 - recognise: 0  |  recognize: 4
 - neighbour: 0  |  neighbor: 1

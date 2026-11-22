@@ -43,7 +43,7 @@ See that for what it is: the old lie dressed up as holiness. Brooding and self-p
 
 If a slip has left you taking the whole business very solemnly, remember the men on the forum who were trying not to drink bleach.
 
-You're smiling because you can see what the Bleachstronauts can't. Nobody needs courage, a counter or a monthly challenge to keep from drinking bleach. All a man needs is to see what's in the glass. After that, not drinking it isn't an achievement. It's an ordinary day.
+You could see what the Bleachstronauts couldn't. Nobody needs courage, a counter or a monthly challenge to keep from drinking bleach. All a man needs is to see what's in the glass. After that, not drinking it isn't an achievement. It's an ordinary day.
 
 If you slipped, the lesson is not "try harder". Somewhere you started believing again that the glass had something to offer. The world repeats its lies daily, so it does no harm to hear the truth twice.
 
