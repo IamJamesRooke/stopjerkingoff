@@ -7,7 +7,8 @@
 | Intro | 780 | 2 | 1 | 3 | 1 | 2 | 0 | 0 | 0 | 1 | 0 |
 | b | 966 | 0 | 2 | 1 | 1 | 4 | 0 | 0 | 0 | 0 | 0 |
 | c | 310 | 2 | 0 | 1 | 0 | 0 | 5 | 0 | 0 | 0 | 1 |
-| 1 | 2432 | 3 | 11 | 9 | 5 | 9 | 0 | 0 | 0 | 0 | 0 |
+| 1 | 1045 | 0 | 4 | 1 | 3 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 1a | 1417 | 3 | 7 | 8 | 2 | 5 | 0 | 0 | 0 | 0 | 0 |
 | 1b | 997 | 0 | 1 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1c | 713 | 3 | 0 | 5 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2 | 764 | 1 | 2 | 0 | 1 | 5 | 0 | 0 | 0 | 0 | 0 |
@@ -73,15 +74,15 @@
 | faq | 1792 | 10 | 10 | 7 | 6 | 6 | 5 | 3 | 1 | 1 | 0 |
 | why-this-book | 1014 | 8 | 6 | 5 | 2 | 2 | 4 | 0 | 0 | 1 | 0 |
 
-## Overused words and phrases (book total 59751 words)
+## Overused words and phrases (book total 59781 words)
 
 | Word | Count | Per 1000 words | In how many files |
 |---|---|---|---|
-| nothing | 162 | 2.71 | 55 |
-| trap | 77 | 1.29 | 32 |
-| a man who | 69 | 1.15 | 37 |
+| nothing | 162 | 2.71 | 56 |
+| trap | 77 | 1.29 | 33 |
+| a man who | 69 | 1.15 | 38 |
 | itch | 52 | 0.87 | 22 |
-| sin | 48 | 0.8 | 27 |
+| sin | 48 | 0.8 | 28 |
 | exactly | 25 | 0.42 | 16 |
 | relief | 25 | 0.42 | 13 |
 | free man | 22 | 0.37 | 17 |
@@ -117,15 +118,15 @@
 
 - "every man in the trap" x9 in 12, 14, 29, b
 - "quote quote quote quote quote" x7 in 14, 22a, 4c, b
-- "easy way to stop smoking" x6 in 1, 34, attribution, faq, why-this-book
+- "easy way to stop smoking" x6 in 1a, 34, attribution, faq, why-this-book
 - "a doctor or a counselor" x4 in 14d, 15, 34, Intro
 - "a man ruled by lust" x4 in 15c, 27b, faq, why-this-book
-- "for the rest of your" x4 in 1, 33, 7, b
+- "for the rest of your" x4 in 1a, 33, 7, b
 - "has nothing to do with" x4 in 11c, 24, 8
 - "have already stopped stay stopped" x4 in 1, 17, 21, Intro
 - "if you have already stopped" x4 in 1, 17, 21, Intro
 - "quit porn and kept the" x4 in 14, 15, 4
-- "the easy way to stop" x4 in 1, 34, attribution, faq
+- "the easy way to stop" x4 in 1a, 34, attribution, faq
 - "the man on the couch" x4 in 21, 22, 27, 33
 - "the man who never started" x4 in 1, 14, 3c, 8c
 - "thinking with the wrong head" x4 in 14d, Intro, faq, why-this-book
