@@ -16,19 +16,17 @@ Yes, you choose each time. You lock the door. You pick up the phone. But no boy 
 
 You walked into a trap, and the bait was your own body. One fact gives the trap away. No man caught in it wants his son caught in it.
 
-Every man in it wishes he had never started. Every man in it carries on. Nobody makes him.
-
-So why does he do it?
+Ask any man in it if he would start again. Tonight he carries on anyway. Nobody makes him.
 
 ## You already know how to stop {-}
 
 Here is something nobody told you. Stopping was never your problem.
 
-You stop every time you finish. You turn the phone face down and stare at the ceiling. For that minute you are the most committed quitter on earth. "Never again." You mean it.
+You stop every time you finish. For the next minute you are the most committed quitter on earth.
 
 If stopping were the hard part, you would be done. You have stopped a thousand times.
 
-The trouble comes later. It is day three, or day thirty, or day three hundred. You are tired, or alone on a Friday night, and your own voice says, "Just this once." Once becomes twice, and you are staring at the ceiling again.
+The trouble comes later. It is day three, or day thirty, or day three hundred. You are tired, or the house is empty, and your own voice says, "Just this once." Once becomes twice, and you are staring at the ceiling again.
 
 Some men don't last until day three. A nineteen-year-old from a strict Christian home wrote about his first time: "I vowed never to do that again, only to find myself searching for a secret place after a couple of hours."
 
@@ -36,13 +34,13 @@ So "How do I stop?" was the wrong question. You are a champion at stopping. The 
 
 ## What brings you back {-}
 
-It isn't desire. It is **FEAR**.
+It isn't desire. It is fear.
 
 Picture your life without the habit. What do you see?
 
-Most men see the same thing. They see themselves awake at one, at two, at three, with the banging going on overhead. They see a hard day with no treat at the end of it. They see that going on until they are eighty.
+Most men see the same thing. They see themselves awake at one, at two, at three, with the banging going on overhead. They see a hard day with no treat at the end of it. They see a Friday night alone, with nothing to reach for. They see that going on until they are eighty.
 
-That picture was painted for you, one line at a time. "A man needs a release." "I'll go crazy if I don't." "It's the only thing that helps me sleep." "That's just how men are."
+That picture was painted for you, one line at a time. "I'll go crazy if I don't." "That's just how men are."
 
 Look at what each line does. It sends you up the stairs with a plate.
 
@@ -50,27 +48,27 @@ And the picture is wrong. A creature that eats only what you carry up can't bang
 
 If you have tried and failed many times, the picture looks proven. One man wrote that he had failed so often he sometimes wondered whether God's grace for him had run out.
 
-It hasn't. And you are not a hopeless case. You used a method that can't work.
+It hasn't. Jesus told a story about a son who wasted every coin he had and ended up feeding pigs. In that pigsty he came to himself. He got up and walked home, and his father ran down the road to meet him.
+
+This book quotes the Bible like that, and it takes God seriously. If you believe, you'll find this way leans on grace, not grit. Whatever you believe, nobody here will ask you to pretend. The way out is the same.
+
+And you are not a hopeless case. You used a method that can't work. A ninety-day streak proves you are strong. Losing it proves strength was never the problem.
 
 ## No scares, no superpowers {-}
 
-Fear keeps you here, so this book won't add any. You'll find no horror stories about your hormones or your hairline. One chapter covers the body, and it sticks to what doctors and men report. If fear worked, you would have stopped years ago.
+Fear keeps you here, so this book won't add any. You'll find no horror stories about your hormones or your hairline. Doctors say masturbation doesn't damage your body, and I won't argue with them. If fear worked, you would have stopped years ago.
 
-Doctors say masturbation doesn't damage your body, and I won't argue with them. Most of this book isn't about your body. It's about your mind, your drive, your word and your soul. There you are the best witness. You know how you feel ten minutes afterward.
+Nobody here will sell you superpowers either. No deeper voice, no glowing skin, no women turning their heads. You get something plainer. You get your evenings, your attention and your word back.
 
-It won't sell you superpowers either. No deeper voice, no glowing skin, no women turning their heads. You get something better. You get yourself back.
+One caution, and it is not a scare. A book is not a doctor, and nobody has tested this method in a clinic. If you have thoughts of harming yourself, see a doctor or a counselor now. Do the same if this began with something done to you as a child. Do the same if your urges frighten you, or pull you toward anything illegal. Read this book with their help. You are not beyond help, and the Appendix says more.
 
 ## Nothing to lose {-}
 
 So read on, and question everything, this book included. If you enjoy it, why does your stomach tighten at the words "never again"?
 
-**YOU HAVE NOTHING TO LOSE.** If you reach the last page and would rather carry on, nothing stops you.
+Here is the worst that can happen. You reach the last page, shrug, and pick up the phone. You are out five hours.
 
 The fear may grow for a chapter or two. Some men put the book down halfway. They sense that if they keep reading, they will have to stop. Don't be one of them. That flutter is only the old lies. A lie gets nervous when somebody starts checking it.
-
-Jesus told a story about a son who took his inheritance early, left home and wasted every coin. He ended up feeding pigs, and he was starving. In that pigsty he came to himself. He got up and walked home, and his father ran down the road to meet him.
-
-That is how it feels to walk out of this trap. Before this book is finished, that will be you.
 
 So how do you get out? It starts with the strangest promise anyone has made you about this.
 
@@ -87,3 +85,5 @@ It will be easy.
 <!-- 2026-11-22 chapters 1 to 5 rebuild (James: 'the same level of attention to detail' as the Introduction; show, don't tell; concrete details; simple sentences; section headers). The button is now an object on the nightstand, picking up the Introduction's last line; 'There is no such button. But what it does can be done' states the one decision; the fear is shown as a picture (awake at one, two, three; 'until they are eighty' and 'alone on a Friday night' are the editor's details); the lies list is four lines; new header 'No scares, no superpowers'. The previous text is saved whole in editorial/PARKING.md. -->
 
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->
+
+<!-- 2026-11-22 AVATAR READ OF THE OPENING (James: 'something isn't hooking me in... have all of our user avatars... read a section then tell you what they think'). 28 simulated readers in four panels read section by section. All four found the same thing: the pictures hook (2 a.m., the button, the sleep sample) and the stretches where the book describes itself, promises or gives house rules do not. Changes are confined to the Introduction, The Button and The Easy Method; text removed is in editorial/PARKING.md. -->

@@ -4,10 +4,10 @@
 
 | File | words | lust | porn | women/woman | masturbat/MO | habit | soldier/duty/fit | Little Monster | Big Monster | wrong head | thread (can't be trusted) |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| Intro | 1000 | 2 | 1 | 2 | 1 | 3 | 0 | 3 | 0 | 1 | 0 |
-| b | 857 | 0 | 2 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 |
+| Intro | 743 | 1 | 2 | 1 | 1 | 3 | 0 | 3 | 0 | 0 | 0 |
+| b | 904 | 0 | 2 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 |
 | c | 321 | 2 | 0 | 1 | 0 | 0 | 5 | 1 | 0 | 0 | 1 |
-| 1 | 1015 | 1 | 5 | 0 | 2 | 5 | 0 | 1 | 0 | 0 | 0 |
+| 1 | 979 | 1 | 3 | 1 | 0 | 4 | 0 | 1 | 0 | 0 | 0 |
 | 1a | 895 | 3 | 6 | 5 | 1 | 4 | 0 | 1 | 0 | 0 | 0 |
 | 1b | 1079 | 0 | 1 | 2 | 0 | 0 | 0 | 2 | 0 | 0 | 0 |
 | 1c | 1425 | 3 | 2 | 13 | 0 | 1 | 0 | 1 | 0 | 0 | 0 |
@@ -80,22 +80,22 @@
 | faq | 1792 | 10 | 10 | 7 | 6 | 6 | 5 | 3 | 1 | 1 | 0 |
 | why-this-book | 1014 | 8 | 6 | 5 | 2 | 2 | 4 | 0 | 0 | 1 | 0 |
 
-## Overused words and phrases (book total 64507 words)
+## Overused words and phrases (book total 64261 words)
 
 | Word | Count | Per 1000 words | In how many files |
 |---|---|---|---|
-| nothing | 177 | 2.74 | 63 |
-| a man who | 86 | 1.33 | 45 |
-| trap | 73 | 1.13 | 32 |
+| nothing | 175 | 2.72 | 63 |
+| a man who | 86 | 1.34 | 45 |
+| trap | 72 | 1.12 | 32 |
 | itch | 65 | 1.01 | 26 |
-| sin | 49 | 0.76 | 29 |
-| relief | 27 | 0.42 | 14 |
+| sin | 48 | 0.75 | 28 |
+| relief | 25 | 0.39 | 14 |
 | exactly | 24 | 0.37 | 17 |
 | free man | 22 | 0.34 | 17 |
 | really | 21 | 0.33 | 18 |
-| plain | 19 | 0.29 | 18 |
-| willpower method | 19 | 0.29 | 13 |
-| the truth | 19 | 0.29 | 14 |
+| plain | 19 | 0.3 | 18 |
+| willpower method | 19 | 0.3 | 13 |
+| the truth | 19 | 0.3 | 14 |
 | comfort | 17 | 0.26 | 11 |
 | simply | 16 | 0.25 | 15 |
 | plainly | 14 | 0.22 | 12 |
@@ -103,9 +103,9 @@
 | perhaps | 12 | 0.19 | 10 |
 | moping | 10 | 0.16 | 5 |
 | quite | 9 | 0.14 | 7 |
-| grace | 9 | 0.14 | 8 |
+| grace | 9 | 0.14 | 7 |
 | pipsqueak | 7 | 0.11 | 7 |
-| envy | 7 | 0.11 | 3 |
+| envy | 6 | 0.09 | 2 |
 | of course | 5 | 0.08 | 4 |
 | mope | 5 | 0.08 | 5 |
 | honestly | 3 | 0.05 | 3 |
@@ -127,15 +127,12 @@
 - "quote quote quote quote quote" x6 in 14, 22a, 4c
 - "the hand and the orgasm" x6 in 14, 14a, 15d, 1c
 - "a man ruled by lust" x5 in 14i, 15c, 27b, faq, why-this-book
-- "have already stopped stay stopped" x5 in 1, 17, 1c, 21, Intro
-- "if you have already stopped" x5 in 1, 17, 1c, 21, Intro
-- "you have already stopped stay" x5 in 1, 17, 1c, 21, Intro
-- "a doctor or a counselor" x4 in 14d, 15, 34, Intro
+- "a doctor or a counselor" x4 in 14d, 15, 34, b
 - "feels good for a few" x4 in 18, 27c, 28, 3b
 - "good for a few seconds" x4 in 18, 27c, 28, 3b
-- "is telling you to sin" x4 in 1, 1c, Intro, faq
+- "have already stopped stay stopped" x4 in 1, 17, 1c, 21
+- "if you have already stopped" x4 in 1, 17, 1c, 21
 - "man who never does it" x4 in 14, 14h, 15d, 29
-- "nobody is telling you to" x4 in 1, 1c, Intro, faq
 - "porn the hand and the" x4 in 14, 14a, 1c, why-this-book
 - "the easy way to stop" x4 in 1a, 34, attribution, faq
 - "the end of this book" x4 in 13, 29, 7, b
@@ -143,4 +140,4 @@
 - "the man who never does" x4 in 14, 14h, 15d, 29
 - "the man who never started" x4 in 1, 14, 3c, 8c
 - "the size of a cat" x4 in 14a, 1b, 2, Intro
-- "thinking with the wrong head" x4 in 14d, Intro, faq, why-this-book
+- "you have already stopped stay" x4 in 1, 17, 1c, 21

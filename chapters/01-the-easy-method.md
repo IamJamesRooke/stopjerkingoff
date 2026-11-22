@@ -1,20 +1,32 @@
 # The Easy Method
 
-Easy? You have quit before, and you remember how it went.
-
-Day one, you grit your teeth. Day three, you count the hours. Then one tired night you are behind a locked door again, and the count goes back to zero.
+Easy? You have quit before, and you remember how it went. You gritted your teeth and counted the days. Then one tired night the count went back to zero.
 
 That is the normal way. It starts at the foot of a mountain and drags you uphill, craving and feeling robbed.
 
-This way starts somewhere else. It starts with relief, like a man walking out of the doctor's office with the all-clear. The relief doesn't fade. Years from now you'll scratch your head over why you ever did it. When you meet men who are still stuck, you won't envy them. You'll feel sorry for them.
+This way starts somewhere else. It starts with relief, like a man walking out of the doctor's office with the all-clear.
 
-How? The method has one aim. It changes the way you see the habit.
+How? The method has one aim. It changes the way you see the habit. It won't make you stronger or more disciplined.
 
-That's all. It won't make you stronger or more disciplined. It changes what you see when you look at porn, at masturbation, and later at lust itself. Once you see it as it is, stopping is easy.
+Don't take that on trust. Here is one look.
+
+## One look: "I've earned it" {-}
+
+It does feel like a reward. A hard day, a locked door, and the edge is gone. Case closed?
+
+Ask what the edge was. Part of it was the day. Part of it was the Little Monster, banging on the floor since lunch.
+
+You fed him, and his noise stopped. That was the whole reward. The day is still there, and so is the email you didn't answer.
+
+The man who never started has hard days too. He comes home with one weight on him. You come home with two, and you call it a treat when you put one down.
+
+Picture a man who wears shoes two sizes too small, all day, for the joy of pulling them off at night. Would you call that a benefit of the shoes?
+
+That is one lie, seen as it is. Did seeing it take any willpower?
 
 ## Why the normal way is so hard {-}
 
-The normal way goes like this. You write down what the habit costs you: the guilt, the tired mornings, the lost hours, the distance from God. Then you make yourself a promise.
+The normal way never looks. It goes like this. You write down what the habit costs you: the guilt, the tired mornings, the lost hours, the distance from God. Then you make yourself a promise.
 
 "If I can just hold out long enough, the urge will die, and then I'll be happy."
 
@@ -24,15 +36,13 @@ It fails for two reasons.
 
 **One. Guilt and fear send you back to it.** What does a man do when he feels ashamed and worthless? He looks for comfort. And what has he trained himself to use for comfort?
 
-So the scare videos and the thundering sermons never freed you. They scared you, and a scared man reaches for his comfort. Tell a man the habit is ruining him, and you've handed him one more reason to use it tonight. That is true of porn, and just as true of the hand.
+So the scare videos and the thundering sermons never freed you. They scared you, and a scared man reaches for his comfort. Tell a man the habit is ruining him, and you've handed him one more reason to use it tonight.
 
-**Two. Every reason to stop makes stopping harder.** That sounds backward, so take it slowly.
+**Two. Every reason to stop makes stopping harder.** Tell a boy he can't have the cookie, and the cookie doubles in size.
 
 Your reasons say you *ought* to give something up. So part of you goes on believing there is something to give up: a comfort, a treat, an old friend. You feel like a man marched away from his only pleasure.
 
-Your reasons also point your eyes at the wrong question. Nobody opens the site or locks the bathroom door *because* it leaves him flat and guilty. You don't do it for the reasons you should stop. The real question is the other one. Why do you want to do it at all?
-
-And all that effort has a trap inside it. The same man on the forum spotted it. The harder he tried not to think about porn, the more porn became the center of his thoughts. Swap in "masturbation" and nothing changes.
+And all that effort has a trap inside it. The same man on the forum spotted it. The harder he tried not to think about porn, the more porn became the center of his thoughts.
 
 ## Three questions {-}
 
@@ -50,31 +60,23 @@ Get that exactly right. This is not the old line that the costs are bigger than 
 
 Not one.
 
-The relaxation, the sleep, the stress relief, the "release", the thrill of something new, the feeling of being wanted. Each one is a lie, and this book takes them apart one at a time. But you shouldn't have to take that on trust. Here is one of them now.
+Yes, the finish feels good. That is real. It is the bait, and you'll see what is on the hook.
 
-## A sample: "It helps me sleep" {-}
-
-It does seem to. You do it, and you drop off. Case closed?
-
-Ask who was keeping you awake. You slept like a stone when you were nine. The man who never started doesn't lie awake wanting it. Only you lie there restless, because only you have a Little Monster banging on the floor.
-
-You feed him, the banging stops, and you sleep. Then you thank him for the quiet.
-
-So the habit didn't give you sleep. It took your sleep, and every night it sells a little back.
-
-Picture a man who wears shoes two sizes too small, all day, for the joy of pulling them off at night. Would you call that a benefit of the shoes? Every lie on that list is a tight shoe, and each one gets its turn.
+The relaxation, the stress relief, the "release", the thrill of something new, the feeling of being wanted. Each one is a tight shoe, and each one gets its turn. The bargains get their turn too.
 
 ## What to do tonight {-}
 
 Tonight, do three things. None of them is "try harder".
 
-1. **Call off the war.** No vow, no streak, no cutting down. You can also stop hating yourself this evening. It never helped once.
-2. **Remember.** Nobody is telling you to sin. If you have already stopped, stay stopped. Think back to the last time. How did it start? How long did the good part last? How did you feel ten minutes later? That answers the first two questions from your own life.
-3. **Keep reading, in order.** An hour a night finishes it in about a week.
+1. **Call off the war.** Don't try to quit while you read. Make no vows, start no streaks, and don't cut down. You have done all three before. Where are they now? You can also stop hating yourself this evening. It never helped once.
+2. **Remember.** Think back to the last time. How did it start? How long did the good part last? How did you feel ten minutes later? That answers the first two questions from your own life.
+3. **Keep reading, in order.** Don't skip chapters. Most are short and take down one lie, and the last step only works if the others came first. The length costs you nothing, because nobody asks you to stop before the end. An hour a night finishes it in under a week, and nobody has to know.
 
-Did something loosen in your chest at "call off the war"? That is the first of the relief. As you read, the wish to do it shrinks without any effort from you. Let it.
+Calling off the war is not permission. Nobody is telling you to sin. If you have already stopped, stay stopped. If you slip while you read, keep reading.
 
-This book ends with a plain No, and you'll be glad to say it. It is not the old vow. The old vow was a promise made on your own strength, before you understood the trap. You know how long those lasted. This one you'll say with your eyes open. If you pray, you'll say it leaning on God.
+And this can't wait for the last page. If your lust is hurting someone else, stop that today. That means an affair, paying for sex, pressing a woman who has said no, or anything against the law.
+
+This book ends with a plain No, and you'll be glad to say it. It is not the old vow. The old vow was a promise made on your own strength, before you understood the trap. This one you'll say with your eyes open. If you pray, you'll say it leaning on God.
 
 One thing first. "No benefits at all" is a big claim from a stranger. You have every right to ask who he is, and how he knows.
 
@@ -118,3 +120,5 @@ One thing first. "No benefits at all" is a big claim from a stranger. You have e
 <!-- 2026-11-22 chapters 1 to 5 rebuild (James: 'the same level of attention to detail' as the Introduction; show, don't tell; concrete details; simple sentences; section headers). Opens 'Easy?' answering the previous chapter's last line; the two reasons are 'One.' and 'Two.'; 'They load the gun' and the desperation line are cut; 'illusion' is now 'lie'; the sleep sample shows the mechanism (fed, the banging stops, he sleeps); 'a chapter or two a night' is now 'a few chapters a night' to match the Introduction's 'Read it this week'; the non-user 'asleep in ten minutes' claim is now 'doesn't lie awake wanting it'. The previous text is saved whole in editorial/PARKING.md. -->
 
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->
+
+<!-- 2026-11-22 AVATAR READ OF THE OPENING (James: 'something isn't hooking me in... have all of our user avatars... read a section then tell you what they think'). 28 simulated readers in four panels read section by section. All four found the same thing: the pictures hook (2 a.m., the button, the sleep sample) and the stretches where the book describes itself, promises or gives house rules do not. Changes are confined to the Introduction, The Button and The Easy Method; text removed is in editorial/PARKING.md. -->

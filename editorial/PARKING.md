@@ -1650,3 +1650,245 @@ Why? Nobody asked you to. The faint itch in the background is nothing new. You'v
 
 The habit never added to a single occasion. It took from them. So go to the party and the wedding and the beach. Stay late and enjoy your dinner. Don't envy the smooth talker across the room with his three phone numbers. Whether he goes home alone or with one of them, he is still feeding what you put out. You're not the one going without.
 
+
+## 2026-11-22 The opening before the avatar read (Introduction, The Button, The Easy Method, as of commit 6630615)
+
+Kept whole so that any cut line can be restored: the two-rules section, 'Before you start', the full prodigal son, 'thinking with the wrong head', 'The relief doesn't fade', 'YOU HAVE NOTHING TO LOSE', the sleep sample in The Easy Method, and the rest.
+
+### Introduction
+
+It is two in the morning, and a man is lying in bed with his phone, breaking a promise he made an hour ago.
+
+The screen lights his face, and his face shows nothing. His alarm is set for six. In a few minutes it will be over. He will wipe his hand, turn the phone face down, and stare at the ceiling. Then he will say the two words he has said a thousand times. Never again.
+
+He means it. He always means it.
+
+Everybody tells him it's normal. Nobody tells him why he ends up staring at the ceiling.
+
+You know this man. Most men do. I have been him for decades.
+
+He is not a weak man. He keeps his word to everyone but himself. Against this one thing he has tried vows, prayers, blocked sites, cold showers and streaks. Not one of them lasted. So he believes he is fighting a dragon.
+
+There is no dragon.
+
+#### What you are really fighting
+
+A while after the last time, a feeling shows up. It isn't pain. It is a faint, fidgety itch, like a phone buzzing in another room. That itch is the craving. It is the whole dragon.
+
+This book gives the craving a name and a face. The name is the Little Monster. He is not a demon, and nothing is really living in you. He is a picture of that itch.
+
+Here is the picture. Your life is a house. In the back room upstairs lives a creature the size of a house cat. He smells like a gym bag left in a hot car. He can't get down the stairs. He eats only what you carry up to him, and every time you give in, that is a meal. When he gets hungry, he bangs on the floor. That banging is the urge. It put the phone in that man's hand tonight.
+
+A dragon would be something to brag about. This is a pipsqueak. You could carry him out in one hand.
+
+#### Why you keep feeding him
+
+So why does a grown man keep carrying meals up to a thing like that?
+
+Because when the Little Monster is fed, the banging stops. The house goes quiet, and the quiet feels like a gift. You think he gave it to you.
+
+The lies do the rest. Some were told to you. "A man needs it." "It's healthy." "Everybody does it." Some you tell yourself. "It helps me sleep." "It takes the edge off." "I've earned it."
+
+Each lie says the same thing. He earns his keep. He doesn't. The house was quiet before he moved in. You slept fine when you were nine. The habit gives you nothing. It only stops, for a while, a noise it made itself.
+
+A creature the size of a cat can't hold a grown man. The lies hold him.
+
+#### Put down the sword
+
+So this book will not ask you to try harder. You have tried harder. Most methods hand you a sword and point you at the dragon. No man wins a fight against something he still thinks is doing him good.
+
+This book does one thing. It takes the lies apart, one at a time, until you see the Little Monster has nothing you want. A man who sees that needs no willpower. He stops carrying dinner up the stairs.
+
+Here is what happens. You stop watching porn, and you stop masturbating. This book calls those two together *the habit*. Then it goes after *lust*, the wider appetite behind the habit, the one that has you thinking with the wrong head. You stop once, at the end of the book, for good. You don't miss it. You don't have to believe that yet.
+
+Nobody here will shame you or scare you. Shame and fear are what sent you back to the phone.
+
+Save your grit for something that deserves it. There are mountains to climb and children to raise. This is a pest in a back room. Put him out, and get on with your life.
+
+#### Before you start
+
+This book quotes the Bible and takes God seriously. If you believe, you'll find this way leans on grace, not grit. If you don't, nobody here will ask you to pretend. The way out is the same.
+
+If you are a woman, you are welcome here. The book says "he" throughout, but you were told the same lies, and they come apart the same way.
+
+One caution. A book is not a doctor, and nobody has tested this method in a clinic. If you have thoughts of harming yourself, see a doctor or a counselor now. Do the same if this began with something done to you as a child. Do the same if your urges frighten you, or pull you toward anything illegal. Read this book with their help. You are not beyond help, and the Appendix says more.
+
+#### Two rules
+
+The book takes about five hours to read, or eight to hear. Nobody has to know you're reading it. It is long on purpose. There are a lot of lies, and each one gets taken apart. The length costs you nothing, because nobody asks you to stop until the last pages. Read it this week.
+
+**Rule one: DO NOT SKIP CHAPTERS.** Most are short. Most take down one lie, and the last step only works if the others came first.
+
+**Rule two: Don't try to quit while you read.** Make no vows, start no streaks, and don't cut down. You have done all three before. Where are they now?
+
+Nobody is telling you to sin. If you have already stopped, stay stopped. If you slip while you read, keep reading.
+
+Rule two has one exception. If your lust is hurting someone else, stop that today. That means an affair, paying for sex, pressing a woman who has said no, or anything against the law. That can't wait for the last page.
+
+#### Two in the morning
+
+Now go back to the man in the bed. It is still two in the morning. Put one thing on his nightstand.
+
+A button.
+
+
+### The Button
+
+The button sits on the nightstand, an arm's length from the man with the phone. It is the size of a doorbell.
+
+It does one thing. If he presses it, he wakes up tomorrow as a man who never started. No porn. No hand. No banging on the floor.
+
+Would he press it? He would break the nightstand. So would you.
+
+Now ask why. No man would press a button to be rid of fishing. No man would press one to be rid of Sunday dinner. Nobody wishes he had never met a thing that is good for him.
+
+There is no such button. But what it does can be done. It takes one decision, and you make it at the end of this book.
+
+#### You never signed up
+
+Yes, you choose each time. You lock the door. You pick up the phone. But no boy sits down and signs up for fifteen years of this. Curiosity and puberty started it. For most of us, porn did the rest.
+
+You walked into a trap, and the bait was your own body. One fact gives the trap away. No man caught in it wants his son caught in it.
+
+Every man in it wishes he had never started. Every man in it carries on. Nobody makes him.
+
+So why does he do it?
+
+#### You already know how to stop
+
+Here is something nobody told you. Stopping was never your problem.
+
+You stop every time you finish. You turn the phone face down and stare at the ceiling. For that minute you are the most committed quitter on earth. "Never again." You mean it.
+
+If stopping were the hard part, you would be done. You have stopped a thousand times.
+
+The trouble comes later. It is day three, or day thirty, or day three hundred. You are tired, or alone on a Friday night, and your own voice says, "Just this once." Once becomes twice, and you are staring at the ceiling again.
+
+Some men don't last until day three. A nineteen-year-old from a strict Christian home wrote about his first time: "I vowed never to do that again, only to find myself searching for a secret place after a couple of hours."
+
+So "How do I stop?" was the wrong question. You are a champion at stopping. The real question is why you start again.
+
+#### What brings you back
+
+It isn't desire. It is **FEAR**.
+
+Picture your life without the habit. What do you see?
+
+Most men see the same thing. They see themselves awake at one, at two, at three, with the banging going on overhead. They see a hard day with no treat at the end of it. They see that going on until they are eighty.
+
+That picture was painted for you, one line at a time. "A man needs a release." "I'll go crazy if I don't." "It's the only thing that helps me sleep." "That's just how men are."
+
+Look at what each line does. It sends you up the stairs with a plate.
+
+And the picture is wrong. A creature that eats only what you carry up can't bang forever.
+
+If you have tried and failed many times, the picture looks proven. One man wrote that he had failed so often he sometimes wondered whether God's grace for him had run out.
+
+It hasn't. And you are not a hopeless case. You used a method that can't work.
+
+#### No scares, no superpowers
+
+Fear keeps you here, so this book won't add any. You'll find no horror stories about your hormones or your hairline. One chapter covers the body, and it sticks to what doctors and men report. If fear worked, you would have stopped years ago.
+
+Doctors say masturbation doesn't damage your body, and I won't argue with them. Most of this book isn't about your body. It's about your mind, your drive, your word and your soul. There you are the best witness. You know how you feel ten minutes afterward.
+
+It won't sell you superpowers either. No deeper voice, no glowing skin, no women turning their heads. You get something better. You get yourself back.
+
+#### Nothing to lose
+
+So read on, and question everything, this book included. If you enjoy it, why does your stomach tighten at the words "never again"?
+
+**YOU HAVE NOTHING TO LOSE.** If you reach the last page and would rather carry on, nothing stops you.
+
+The fear may grow for a chapter or two. Some men put the book down halfway. They sense that if they keep reading, they will have to stop. Don't be one of them. That flutter is only the old lies. A lie gets nervous when somebody starts checking it.
+
+Jesus told a story about a son who took his inheritance early, left home and wasted every coin. He ended up feeding pigs, and he was starving. In that pigsty he came to himself. He got up and walked home, and his father ran down the road to meet him.
+
+That is how it feels to walk out of this trap. Before this book is finished, that will be you.
+
+So how do you get out? It starts with the strangest promise anyone has made you about this.
+
+It will be easy.
+
+
+### The Easy Method
+
+Easy? You have quit before, and you remember how it went.
+
+Day one, you grit your teeth. Day three, you count the hours. Then one tired night you are behind a locked door again, and the count goes back to zero.
+
+That is the normal way. It starts at the foot of a mountain and drags you uphill, craving and feeling robbed.
+
+This way starts somewhere else. It starts with relief, like a man walking out of the doctor's office with the all-clear. The relief doesn't fade. Years from now you'll scratch your head over why you ever did it. When you meet men who are still stuck, you won't envy them. You'll feel sorry for them.
+
+How? The method has one aim. It changes the way you see the habit.
+
+That's all. It won't make you stronger or more disciplined. It changes what you see when you look at porn, at masturbation, and later at lust itself. Once you see it as it is, stopping is easy.
+
+#### Why the normal way is so hard
+
+The normal way goes like this. You write down what the habit costs you: the guilt, the tired mornings, the lost hours, the distance from God. Then you make yourself a promise.
+
+"If I can just hold out long enough, the urge will die, and then I'll be happy."
+
+It sounds sensible. A few men do get free this way. Most end up where one man on a Christian forum did. He wrote that everything that depended on his own effort failed him sooner or later.
+
+It fails for two reasons.
+
+**One. Guilt and fear send you back to it.** What does a man do when he feels ashamed and worthless? He looks for comfort. And what has he trained himself to use for comfort?
+
+So the scare videos and the thundering sermons never freed you. They scared you, and a scared man reaches for his comfort. Tell a man the habit is ruining him, and you've handed him one more reason to use it tonight. That is true of porn, and just as true of the hand.
+
+**Two. Every reason to stop makes stopping harder.** That sounds backward, so take it slowly.
+
+Your reasons say you *ought* to give something up. So part of you goes on believing there is something to give up: a comfort, a treat, an old friend. You feel like a man marched away from his only pleasure.
+
+Your reasons also point your eyes at the wrong question. Nobody opens the site or locks the bathroom door *because* it leaves him flat and guilty. You don't do it for the reasons you should stop. The real question is the other one. Why do you want to do it at all?
+
+And all that effort has a trap inside it. The same man on the forum spotted it. The harder he tried not to think about porn, the more porn became the center of his thoughts. Swap in "masturbation" and nothing changes.
+
+#### Three questions
+
+So put your reasons for stopping on a shelf. All of them, the good ones and the godly ones too. You'll take them down again later, when nobody can use them as a stick on you.
+
+In their place, look straight at what you do and ask three questions.
+
+1. **What is it actually doing for me?**
+2. **Do I actually enjoy it?**
+3. **Why am I doing this to myself?**
+
+The rest of this book proves one thing. The habit does nothing for you. The porn doesn't. The hand doesn't.
+
+Get that exactly right. This is not the old line that the costs are bigger than the benefits. Every man knows that already, and it has never helped him. There are no benefits.
+
+Not one.
+
+The relaxation, the sleep, the stress relief, the "release", the thrill of something new, the feeling of being wanted. Each one is a lie, and this book takes them apart one at a time. But you shouldn't have to take that on trust. Here is one of them now.
+
+#### A sample: "It helps me sleep"
+
+It does seem to. You do it, and you drop off. Case closed?
+
+Ask who was keeping you awake. You slept like a stone when you were nine. The man who never started doesn't lie awake wanting it. Only you lie there restless, because only you have a Little Monster banging on the floor.
+
+You feed him, the banging stops, and you sleep. Then you thank him for the quiet.
+
+So the habit didn't give you sleep. It took your sleep, and every night it sells a little back.
+
+Picture a man who wears shoes two sizes too small, all day, for the joy of pulling them off at night. Would you call that a benefit of the shoes? Every lie on that list is a tight shoe, and each one gets its turn.
+
+#### What to do tonight
+
+Tonight, do three things. None of them is "try harder".
+
+1. **Call off the war.** No vow, no streak, no cutting down. You can also stop hating yourself this evening. It never helped once.
+2. **Remember.** Nobody is telling you to sin. If you have already stopped, stay stopped. Think back to the last time. How did it start? How long did the good part last? How did you feel ten minutes later? That answers the first two questions from your own life.
+3. **Keep reading, in order.** An hour a night finishes it in about a week.
+
+Did something loosen in your chest at "call off the war"? That is the first of the relief. As you read, the wish to do it shrinks without any effort from you. Let it.
+
+This book ends with a plain No, and you'll be glad to say it. It is not the old vow. The old vow was a promise made on your own strength, before you understood the trap. You know how long those lasted. This one you'll say with your eyes open. If you pray, you'll say it leaning on God.
+
+One thing first. "No benefits at all" is a big claim from a stranger. You have every right to ask who he is, and how he knows.
+
+
