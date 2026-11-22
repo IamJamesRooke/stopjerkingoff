@@ -50,7 +50,13 @@ Some men had their first child well after the wedding. About three in four of th
 
 Men who moved in with a woman before they were engaged did worse than men who didn't.
 
-Steady work counts. A long study of American couples found that a husband without full-time work ran a higher risk of divorce each year. What she earned made no difference. That sits badly beside "for richer, for poorer", and it is a fact all the same. So find out how she behaved the last time money was short.
+Steady work counts. A long study of American couples found that a husband without full-time work ran a higher risk of divorce each year. That sits badly beside "for richer, for poorer", and it is a fact all the same. So find out how she behaved the last time money was short.
+
+And when she earns more than he does? Men say the risk skyrockets. The studies say it rises some, and mostly in one kind of couple.
+
+An American survey from around 1990 found divorce about half again as likely when the wife earned more. A later study found the link had faded for couples who married in the 1990s. In Sweden, women promoted to a top job were about twice as likely to divorce within three years. That held in traditional couples. It did not hold in couples who had shared the load from the start.
+
+So her paycheck is not the danger. The danger is two people who signed up for one kind of marriage and got another. Settle which kind it is before the wedding.
 
 And her record counts, the same as yours. Has she kept her word when it cost her? Does she own her part when she tells you about the men before you?
 
@@ -67,3 +73,5 @@ That is the last man in the hall. So far this walk has only shut doors. One door
 <!-- 2026-11-22 Additions after the skeptic's second look: why sign the state's paper (it removes the cheap exit); the Killewald finding owned as sitting badly with the vow. -->
 
 <!-- 2026-11-22 SKEPTIC READ, stage 5 (an atheist who thought marriage a scam; at the final No he said every clause, and 'any bed outside marriage' only as a policy for a woman he loves). The book now admits that this one clause asks for waiting and costs something. -->
+
+<!-- 2026-11-22 (James: 'for the divorces, it's conditional... if the woman is making more money and a career type boss babe, then the percentage skyrockets'). Checked: the evidence is mixed and does not support 'skyrockets'. Sources: Bertrand, Kamenica and Pan, Quarterly Journal of Economics, 2015 (National Survey of Families and Households, 1987-88 and 1992-94: divorce about 6 points higher on a 12% base when the wife earns more; read in the NBER working paper w19023); Schwartz and Gonalons-Pons, RSF, 2016 (hazard ratio 1.70 for 1968-79 marriages, 1.04 for the 1990s), https://pmc.ncbi.nlm.nih.gov/articles/PMC5021537/ ; Folke and Rickne, American Economic Journal: Applied Economics, 2020 (Sweden 1991-2012, mayors and members of parliament: about 7 points on a 6% base; concentrated where the husband was much older and the wife had taken nearly all the parental leave; no effect in more equal couples); Killewald 2016 (wives' earnings not associated with divorce; the earlier wording 'What she earned made no difference' is replaced). CHECK BEFORE PRINT. -->
