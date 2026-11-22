@@ -2,6 +2,8 @@
 
 A Benedictine monk once gave this advice to women who want to marry: "Marry a man who can fast." He meant a man who has learned to say no to himself.
 
+The test runs both ways. A man choosing a wife should ask it of her. Can she say no to herself, and keep her word when it costs her?
+
 Picture a soldier who shows up for duty drunk. He may be on the right side. He may even be loved. He is still unfit for service, and the men who were counting on him are on their own.
 
 Self-control is the theme under this whole book, and it comes down to one hard sentence. **A man who can't control his lust can't be trusted.** His wife can't fully trust him. His employer can't. Worst of all, he can't trust himself, because he has broken his own word too many times.
@@ -41,3 +43,5 @@ None of this is new. Three thousand years ago, lust brought down a king no army 
 <!-- 2026-11-21 room-by-room reorder (James approved: nothing arrives before the reader needs it; the rooms come in the order a man retreats through them). Before and after: editorial/ROOM-ORDER-2026-11-21.md. -->
 
 <!-- 2026-11-21 five-star pass (editor H2): structural cuts, moves and repairs from the outside review and the cold-listener report. Cut text is kept in the pass's parked-H2 file; source notes above still stand for anything cut. -->
+
+<!-- 2026-11-22 SKEPTIC READ, stage 2 (an atheist who thinks marriage is rigged against men): trust runs both ways; the single man gets an argument that needs no wife; plain legs beside the God-only cures. -->

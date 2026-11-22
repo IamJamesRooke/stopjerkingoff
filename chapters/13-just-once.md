@@ -82,7 +82,7 @@ You are to rule over it. Ruling doesn't mean wrestling him on the doorstep, or l
 
 And look at what is crouching there. It isn't a dragon. It is a pipsqueak with a telephone. Martin Luther was the monk who started the Protestant Reformation. He said that if the devil won't leave any other way, you should jeer at him, because he can't bear scorn. So laugh at the caller as much as you like. Only don't fight him, and don't answer him.
 
-Don't open the door. James, one of the first leaders of the church, put it as a promise: "Be subject therefore to God. Resist the devil, and he will flee from you." To resist him is simply not to answer. He has nothing else.
+Don't open the door. James, one of the first leaders of the church, put it as a promise: "Be subject therefore to God. Resist the devil, and he will flee from you." That is no call to wrestle. To resist him is simply not to answer. He has nothing else.
 
 There is a smaller "just once" than any of these, and it is the one that gets most men. It takes two seconds.
 
@@ -171,3 +171,5 @@ There is a smaller "just once" than any of these, and it is the one that gets mo
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). Pleasure not denied; the Little Monster no longer whispers (the lie speaks). -->
 
 <!-- 2026-11-22: the closing hook now leads into the new chapter The First Touch; the old hook closes that chapter. -->
+
+<!-- 2026-11-22 SKEPTIC READ, stage 2 (an atheist who thinks marriage is rigged against men): trust runs both ways; the single man gets an argument that needs no wife; plain legs beside the God-only cures. -->

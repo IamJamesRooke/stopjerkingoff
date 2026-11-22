@@ -38,7 +38,7 @@ Why would it do that? Think about what a man's hunger is for. It's meant to get 
 
 That is the flat feeling. It isn't sadness, exactly. The morning after, you've got your coffee, your list and your good intentions, and there's nothing behind them. One man on NoFap, the biggest of the quit-porn forums, remembered at ninety days out where he had been: "My drive for life was almost at zero."
 
-A married pastor says the same from the other end. God put the drive in a husband, he says, partly so that he would pursue his wife: date her, listen to her, win her again. Take that drive somewhere else and it's spent. "I don't have it anymore", he says. The husband ends up with a book on one side of the room while his wife gets on with her evening on the other.
+A married pastor says the same from the other end. God put the drive in a husband, he says, partly so that he would pursue his wife: date her, listen to her, win her again. That is no begging. A beggar asks out of need, and this man gives out of strength. Take that drive somewhere else and it's spent. "I don't have it anymore", he says. The husband ends up with a book on one side of the room while his wife gets on with her evening on the other.
 
 None of this is said to shame you. It is what the habit has been taking, a little more each year, and you are about to stop paying.
 
@@ -153,3 +153,5 @@ And then there is the body. Men whisper about this part, and almost nobody tells
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'). 'A real woman' is now 'one woman'; a line for the man who may never marry. -->
 
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). The quote is no longer in the Introduction, so it is given in full here (same source as before). -->
+
+<!-- 2026-11-22 SKEPTIC READ, stage 2 (an atheist who thinks marriage is rigged against men): trust runs both ways; the single man gets an argument that needs no wife; plain legs beside the God-only cures. -->

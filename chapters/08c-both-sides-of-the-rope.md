@@ -10,7 +10,7 @@ That is why the list never worked. It frightens you. A frightened man reaches fo
 
 **"It's my life. Better to enjoy it than to live like a monk."** Fine. Enjoy it. Now tell me honestly that the life you have just been shown is the enjoyable one. Tell me the man hiding in the bushes is having a better time than the man walking in the garden.
 
-**"I'm single. Who exactly am I hurting?"** The man you're turning into, for one. Your future wife will marry whatever comes out the other end of this. And there is you, now. You're a person too.
+**"I'm single. Who exactly am I hurting?"** The man you're turning into, for one. Anyone who ever relies on you gets whatever comes out the other end of this. And there is you, now. You're a person too.
 
 ## The shadow {-}
 
@@ -23,6 +23,8 @@ It's the small jolt when the conversation turns to porn. It's the half-second of
 Mostly the day didn't cause it. A man without the habit has bad days too, and no shadow of this kind. King David knew it well. He had a secret of his own once, and in Psalm 32 he wrote: "When I kept silence, my bones wasted away through my groaning all day long."
 
 Then he tells you what lifted it. "I acknowledged my sin to you. I didn't hide my iniquity," he wrote, and God "forgave the iniquity of my sin." The shadow goes the same way for you. You tell the truth, and you are forgiven.
+
+If you don't pray, half of that still holds. A shadow needs something hidden. When nothing is left to hide, it has nowhere to stand.
 
 Some gains of stopping you'll notice and enjoy on purpose. You get the time and the energy back, and you're done with the whole silly business of making love to nobody.
 
@@ -41,3 +43,5 @@ So much for how the habit makes you feel. There is also what it makes you worth 
 <!-- 2026-11-21 five-star pass (editor H2): structural cuts, moves and repairs from the outside review and the cold-listener report. Cut text is kept in the pass's parked-H2 file; source notes above still stand for anything cut. -->
 
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'). Pleasure admitted. -->
+
+<!-- 2026-11-22 SKEPTIC READ, stage 2 (an atheist who thinks marriage is rigged against men): trust runs both ways; the single man gets an argument that needs no wife; plain legs beside the God-only cures. -->
