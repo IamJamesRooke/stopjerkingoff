@@ -29,7 +29,7 @@
 - recognise: 0  |  recognize: 4
 - neighbour: 0  |  neighbor: 1
 - labour: 0  |  labor: 2
-- honour: 0  |  honor: 3
+- honour: 0  |  honor: 2
 - organis: 0  |  organiz: 2
 - defence: 0  |  defense: 1
 - grey: 0  |  gray: 7

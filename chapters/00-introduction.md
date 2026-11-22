@@ -8,39 +8,39 @@ Everybody tells him it's normal. Nobody tells him why he ends up staring at the 
 
 You know this man. Most men do. I was him for decades.
 
-He is no weakling. He keeps his word to everyone but himself. Against this one thing he has tried vows, prayers, blocked sites, cold showers and streaks. Not one of them lasted. So he believes he is fighting a dragon.
+He is not a weak man. He keeps his word to everyone but himself. Against this one thing he has tried vows, prayers, blocked sites, cold showers and streaks. Not one of them lasted. So he believes he is fighting a dragon.
 
 There is no dragon.
 
-## What he is really fighting {-}
+## What you are really fighting {-}
 
-A while after the last time, a feeling shows up. It isn't pain. It is a faint, fidgety itch, like a phone buzzing in another room. That itch is the craving, and it is all there is to fight.
+A while after the last time, a feeling shows up. It isn't pain. It is a faint, fidgety itch, like a phone buzzing in another room. That itch is the craving. It is the whole dragon.
 
-This book gives the craving a name and a face. It calls him the Little Monster. He is not a demon, and nothing is really living in you. He is a picture of that itch.
+This book gives the craving a name and a face. The name is the Little Monster. He is not a demon, and nothing is really living in you. He is a picture of that itch.
 
-Here is the picture. Your life is a house. In the back room upstairs lives a creature the size of a house cat. He smells like a gym bag left in a hot car. He can't open a door or get down the stairs. He eats only what you carry up to him, and every time you give in, that is a meal. When he gets hungry, he bangs on the floor. That banging is the urge. It put the phone in the man's hand tonight.
+Here is the picture. Your life is a house. In the back room upstairs lives a creature the size of a house cat. He smells like a gym bag left in a hot car. He can't open a door or get down the stairs. He eats only what you carry up to him, and every time you give in, that is a meal. When he gets hungry, he bangs on the floor. That banging is the urge. It put the phone in that man's hand tonight.
 
-A dragon would at least be an honor. This is a pipsqueak. You could carry him out in one hand.
+A dragon would be something to brag about. This is a pipsqueak. You could carry him out in one hand.
 
 ## Why you keep feeding him {-}
 
 So why does a grown man keep carrying meals up to a thing like that?
 
-Because when he is fed, the banging stops. The house goes quiet, and the quiet feels like a gift. You think he gave it to you.
+Because when the Little Monster is fed, the banging stops. The house goes quiet, and the quiet feels like a gift. You think he gave it to you.
 
-The rest is lies. Some were told to you. "A man needs it." "It's healthy." "Everybody does it." Some you tell yourself. "It helps me sleep." "It takes the edge off." "I've earned it."
+The lies do the rest. Some were told to you. "A man needs it." "It's healthy." "Everybody does it." Some you tell yourself. "It helps me sleep." "It takes the edge off." "I've earned it."
 
-Every one says he pays his way. He doesn't. The house was quiet before he moved in. You slept fine when you were nine. The habit gives you nothing. It only stops, for a while, a noise it made itself.
+Each lie says the same thing. He earns his keep. He doesn't. The house was quiet before he moved in. You slept fine when you were nine. The habit gives you nothing. It only stops, for a while, a noise it made itself.
 
 A creature the size of a cat can't hold a grown man. The lies hold him.
 
-## What this book does {-}
+## Put down the sword {-}
 
 So this book will not ask you to try harder. You have tried harder. Most methods hand you a sword and point you at the dragon. No man wins a fight against something he still thinks is doing him good.
 
 This book does one thing. It takes the lies apart, one at a time, until you see the Little Monster has nothing you want. A man who sees that needs no willpower. He stops carrying dinner up the stairs.
 
-Here is what you get. You stop watching porn, and you stop masturbating. This book calls those two together *the habit*. Then it goes after *lust*, the wider appetite behind the habit, the one that has you thinking with the wrong head. You stop once, at the end of the book, for good. You don't miss it. You don't have to believe that yet.
+Here is what happens. You stop watching porn, and you stop masturbating. This book calls those two together *the habit*. Then it goes after *lust*, the wider appetite behind the habit, the one that has you thinking with the wrong head. You stop once, at the end of the book, for good. You don't miss it. You don't have to believe that yet.
 
 Nobody here will shame you or scare you. Shame and fear are what sent you back to the phone.
 
@@ -48,7 +48,7 @@ Save your grit for something that deserves it. There are mountains to climb and 
 
 ## Before you start {-}
 
-This book quotes the Bible and takes God seriously. If you believe, you'll find this way leans on grace, not grit. If you don't, the way out is the same, and it is open to you.
+This book quotes the Bible and takes God seriously. If you believe, you'll find this way leans on grace, not grit. If you don't, nobody here will ask you to pretend. The way out is the same.
 
 If you are a woman, you are welcome here. The book says "he" throughout, but you were told the same lies, and they come apart the same way.
 
