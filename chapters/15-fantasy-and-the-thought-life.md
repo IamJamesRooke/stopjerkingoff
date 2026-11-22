@@ -38,6 +38,8 @@ So look once more at the man who quit porn and kept the feed. He is still standi
 
 AND HE CALLS IT BEING FREE!
 
+No pressure at this door either. If the feed has started to look like a plate of crumbs, put it down. Nobody is making you, and nobody is counting.
+
 Take the phone away and the pest only shrugs. He has a film of his own. "Fine. No scroll. But what goes on in my own head is nobody's business. A thought isn't cheating."
 
 <!-- SOURCES (Chapter 15): every quote below is from the research files; check each against its page before publishing.
@@ -80,3 +82,5 @@ Take the phone away and the pest only shrugs. He has a film of his own. "Fine. N
 <!-- 2026-11-21 room-by-room reorder (James approved: nothing arrives before the reader needs it; the rooms come in the order a man retreats through them). Before and after: editorial/ROOM-ORDER-2026-11-21.md. -->
 
 <!-- 2026-11-21 five-star pass (H3; cold-listener joins 5 and 6): the chapter is now the feed and the look only; the film in the head has the next chapter. The 'kept the feed ... AND HE CALLS IT BEING FREE!' lines moved here from 'Mothers, Sisters, Daughters'. A new title is proposed in the H3 report (ruling 16); the title is unchanged here. -->
+
+<!-- 2026-11-22 LADDER (James: go after each behavior in turn; PMO is the enhanced version, MO the mild version, 'the O is only for one person'; no pressure; name fornication; PMO to MO is progress because porn hurts others). Added the no-pressure door before the closing hook. Plan: /mnt/project-files/easy-peasy/ladder-plan-2026-11-22.md -->

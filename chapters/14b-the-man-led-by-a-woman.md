@@ -64,6 +64,8 @@ Now take the husband whose lust no longer runs him. He can say, quite calmly, "T
 
 Samson was a strong man and Ahab was a king, and neither could say no. This man is neither. He is only free, and that turns out to be the one thing that matters. Nobody can lead him by what he wants, because it no longer leads him.
 
+No vow is asked at this door either. If you have seen who was holding the lead, you may find you have already put it down.
+
 That is the chase. And the chase has only ever been going to one place.
 
 <!-- SOURCES (The Man Led by a Woman). New chapter 2026-11-19, split out of 'Every Man in the Trap' at James's word. Closing paragraph is the book's own.
@@ -92,3 +94,5 @@ That is the chase. And the chase has only ever been going to one place.
 <!-- 2026-11-21 room-by-room reorder (James approved: nothing arrives before the reader needs it; the rooms come in the order a man retreats through them). Before and after: editorial/ROOM-ORDER-2026-11-21.md. -->
 
 <!-- 2026-11-21 five-star pass (H3; review items B4 and B8 as limited by the author's rulings 2 and 3): 'The King Who Turned His Face to the Wall' (14d-the-king-who-turned-his-face-to-the-wall.md) merged into this chapter. Samson stays in full. Ahab is cut to one short section, 'The king who sulked', opening with the cold-listener fix (a vineyard, not a woman; the lever is the same). WEB quotations kept verbatim: 1 Kings 21:4, 21:7 (the last sentence only, "I will give you the vineyard"), 21:25 ("sold himself"); 21:8 is now paraphrased. Driscoll's line stays, credited (source in the block above). 'The free man in the room' moved in unchanged. 'The lever at home' rewritten as 'At home': one fair statement that a wife sometimes knows and uses it and far more often has no idea; the couch and the pillow are cut. 'Simping' cut (dated slang). In from 15c-mothers-sisters-daughters.md: 'The app' (now 'The man who swipes', one of its two men cut) and 'The one girl'; their source notes are in 15-fantasy-and-the-thought-life.md. Two placeholders mark where sections arriving from other chapters fit. Carried from the dissolved file's comment lines: 2026-11-20 structure pass (split out of this file; sources here); 2026-11-20 Hydra version (closing hook leads to 'The Collector and the Customer'); 2026-11-20 review batch (reader report 5); 2026-11-21 overnight round. Cut text is in the scratchpad file parked-H3.md. -->
+
+<!-- 2026-11-22 LADDER (James: go after each behavior in turn; PMO is the enhanced version, MO the mild version, 'the O is only for one person'; no pressure; name fornication; PMO to MO is progress because porn hurts others). Added the no-pressure door before the closing hook. Plan: /mnt/project-files/easy-peasy/ladder-plan-2026-11-22.md -->

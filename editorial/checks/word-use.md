@@ -5,13 +5,13 @@
 | File | words | lust | porn | women/woman | masturbat/MO | habit | soldier/duty/fit | Little Monster | Big Monster | wrong head | thread (can't be trusted) |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | Intro | 967 | 2 | 1 | 2 | 1 | 3 | 0 | 3 | 0 | 1 | 0 |
-| b | 855 | 0 | 2 | 1 | 1 | 3 | 0 | 0 | 0 | 0 | 0 |
+| b | 838 | 0 | 2 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 |
 | c | 311 | 2 | 0 | 1 | 0 | 0 | 5 | 1 | 0 | 0 | 1 |
 | 1 | 1013 | 1 | 5 | 0 | 2 | 5 | 0 | 1 | 0 | 0 | 0 |
-| 1a | 1424 | 3 | 7 | 8 | 2 | 5 | 0 | 1 | 0 | 0 | 0 |
-| 1b | 1121 | 0 | 1 | 2 | 0 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 1c | 716 | 3 | 0 | 5 | 0 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 2 | 726 | 1 | 1 | 0 | 0 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 1a | 1422 | 3 | 7 | 8 | 2 | 5 | 0 | 1 | 0 | 0 | 0 |
+| 1b | 1100 | 0 | 1 | 2 | 0 | 0 | 0 | 2 | 0 | 0 | 0 |
+| 1c | 793 | 3 | 1 | 5 | 0 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 2 | 701 | 1 | 1 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 |
 | 2b | 1052 | 1 | 0 | 1 | 0 | 13 | 0 | 0 | 0 | 0 | 0 |
 | 3 | 655 | 6 | 0 | 2 | 0 | 2 | 0 | 1 | 0 | 0 | 0 |
 | 3b | 929 | 0 | 0 | 0 | 1 | 9 | 0 | 4 | 0 | 0 | 0 |
@@ -36,15 +36,16 @@
 | 12 | 1108 | 0 | 2 | 0 | 1 | 5 | 0 | 4 | 1 | 0 | 0 |
 | 12b | 831 | 0 | 0 | 2 | 0 | 0 | 0 | 3 | 0 | 0 | 0 |
 | 13 | 1362 | 1 | 0 | 1 | 0 | 3 | 0 | 5 | 0 | 0 | 0 |
-| 14 | 1323 | 2 | 4 | 3 | 2 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 14b | 1172 | 2 | 0 | 9 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 14 | 1445 | 2 | 4 | 4 | 3 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 14a | 614 | 0 | 1 | 5 | 0 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 14b | 1198 | 2 | 0 | 9 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 14d | 1215 | 1 | 0 | 15 | 0 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 14e | 1384 | 1 | 2 | 18 | 0 | 1 | 0 | 1 | 0 | 0 | 0 |
-| 14f | 889 | 2 | 1 | 5 | 0 | 1 | 0 | 2 | 0 | 0 | 0 |
-| 15 | 703 | 3 | 4 | 4 | 0 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 14e | 576 | 0 | 2 | 9 | 0 | 1 | 0 | 1 | 0 | 0 | 0 |
+| 14f | 914 | 2 | 1 | 5 | 0 | 1 | 0 | 2 | 0 | 0 | 0 |
+| 15 | 732 | 3 | 4 | 4 | 0 | 0 | 0 | 1 | 0 | 0 | 0 |
 | 15b | 1386 | 0 | 0 | 10 | 0 | 2 | 1 | 0 | 0 | 0 | 0 |
-| 15c | 404 | 1 | 0 | 6 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 15d | 550 | 1 | 5 | 2 | 1 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 15c | 437 | 1 | 0 | 6 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 15d | 662 | 1 | 5 | 2 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 16 | 1166 | 1 | 1 | 1 | 2 | 4 | 0 | 0 | 0 | 0 | 0 |
 | 17 | 474 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 18 | 631 | 0 | 1 | 2 | 0 | 3 | 0 | 2 | 0 | 0 | 0 |
@@ -74,28 +75,28 @@
 | faq | 1792 | 10 | 10 | 7 | 6 | 6 | 5 | 3 | 1 | 1 | 0 |
 | why-this-book | 1014 | 8 | 6 | 5 | 2 | 2 | 4 | 0 | 0 | 1 | 0 |
 
-## Overused words and phrases (book total 60019 words)
+## Overused words and phrases (book total 60184 words)
 
 | Word | Count | Per 1000 words | In how many files |
 |---|---|---|---|
-| nothing | 161 | 2.68 | 56 |
-| trap | 73 | 1.22 | 32 |
-| a man who | 69 | 1.15 | 38 |
-| itch | 54 | 0.9 | 22 |
+| nothing | 159 | 2.64 | 56 |
+| trap | 73 | 1.21 | 32 |
+| a man who | 72 | 1.2 | 40 |
+| itch | 55 | 0.91 | 22 |
 | sin | 48 | 0.8 | 28 |
-| exactly | 26 | 0.43 | 17 |
-| relief | 26 | 0.43 | 13 |
+| relief | 27 | 0.45 | 13 |
+| exactly | 24 | 0.4 | 17 |
 | free man | 22 | 0.37 | 17 |
 | really | 20 | 0.33 | 17 |
 | plain | 19 | 0.32 | 17 |
 | willpower method | 19 | 0.32 | 13 |
-| simply | 17 | 0.28 | 16 |
 | comfort | 17 | 0.28 | 11 |
+| simply | 16 | 0.27 | 15 |
 | the truth | 15 | 0.25 | 12 |
 | plainly | 12 | 0.2 | 10 |
 | actually | 12 | 0.2 | 10 |
-| perhaps | 12 | 0.2 | 10 |
 | grace | 11 | 0.18 | 9 |
+| perhaps | 10 | 0.17 | 9 |
 | moping | 10 | 0.17 | 5 |
 | quite | 9 | 0.15 | 7 |
 | envy | 8 | 0.13 | 4 |
@@ -119,15 +120,16 @@
 - "every man in the trap" x7 in 12, 14, 29
 - "easy way to stop smoking" x6 in 1a, 34, attribution, faq, why-this-book
 - "quote quote quote quote quote" x6 in 14, 22a, 4c
+- "the hand and the orgasm" x6 in 14, 14a, 15d, 1c
 - "a doctor or a counselor" x4 in 14d, 15, 34, Intro
 - "a man ruled by lust" x4 in 15c, 27b, faq, why-this-book
 - "has nothing to do with" x4 in 11c, 24, 8
 - "have already stopped stay stopped" x4 in 1, 17, 21, Intro
 - "if you have already stopped" x4 in 1, 17, 21, Intro
-- "quit porn and kept the" x4 in 14, 15, 4
+- "porn the hand and the" x4 in 14, 14a, 1c, why-this-book
 - "the easy way to stop" x4 in 1a, 34, attribution, faq
 - "the man on the couch" x4 in 21, 22, 27, 33
 - "the man who never started" x4 in 1, 14, 3c, 8c
+- "the size of a cat" x4 in 14a, 1b, 2, Intro
 - "thinking with the wrong head" x4 in 14d, Intro, faq, why-this-book
-- "who quit porn and kept" x4 in 14, 15, 4
 - "you have already stopped stay" x4 in 1, 17, 21, Intro

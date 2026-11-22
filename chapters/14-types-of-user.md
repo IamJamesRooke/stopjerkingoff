@@ -66,7 +66,17 @@ There aren't really any types. There's one trap, and men are standing at differe
 
 Every one of these men is feeding the same small monster. And every "at least" is a room he hasn't opened yet.
 
-Remember the warning about the Little Monster. Shut one room on him and he doesn't leave. He moves down the hall. So follow him. Start with the man who quit porn and kept the hand, and listen to what he says.
+## One hit, three strengths {-}
+
+Remember the warning about the Little Monster. Shut one room on him and he doesn't leave. He moves down the hall. So follow him, one door at a time.
+
+The rooms come in order of strength. First is porn, the hand and the orgasm together. Men on the recovery forums write it as three letters, PMO. That is the strong dose. Next is the hand and the orgasm with no screen, which they write MO. That is the mild dose. After that comes the wanting of the orgasm itself. It goes looking in a feed, in a daydream, and at last in a woman's bed.
+
+It is one hit at three strengths. Where the orgasm does belong is the last question on the walk.
+
+There is no pressure on this walk. Nobody will ask you to give up a room before you have looked inside it. At each door, ask one thing. What has this ever given me?
+
+Start with the strong dose.
 
 <!-- SOURCES (Chapter 14): every quote below is from the research files; check each against its page before publishing.
 - "Their masturbation isn't a calculated moral decision; it's a compulsion." — Johnathan Arnold, "Is Masturbation a Sin?", Holy Joys, 11 Apr 2026, https://holyjoys.org/is-masturbation-sin/ (the book says "the men who come to him"; check that Arnold is describing people he counsels)
@@ -109,3 +119,5 @@ Remember the warning about the Little Monster. Shut one room on him and he doesn
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
 
 <!-- 2026-11-21 five-star pass (H3; review items B4 and cold-listener 3.7): 'The Ladder' (14a-the-ladder.md) folded into this chapter as the short list 'The line-up' (one or two sentences a man, no statistics; the pool image kept, the ladder title gone; the man who never started is named as outside the trap). 'At Least I'm Not Him' (14c-at-least-im-not-him.md) dissolved: its closing section 'One trap' (the Pharisee and the tax collector, Luke 18:10-14, quotes from 18:11 and 18:13 WEB) and the hook into 'The Back Door' now end this chapter; the married man went to 'You Would If You Could', the imagination-only man to the same chapter's harem section, the church guy to the handoff file for 'The Locked Door'. The source notes for all of that material were already listed in this file's SOURCES block above. Carried from the dissolved files' comment lines: 2026-11-20 structure pass (both split out of this file); 2026-11-20 Hydra version (the long 'man who buys it in person' bullet and 'The collector' moved to 'The Collector and the Customer'); 2026-11-20 review batch (reader report 5 and 12); 2026-11-21 editorial pass, overnight round and room-by-room reorder. Cut text is in the scratchpad file parked-H3.md. -->
+
+<!-- 2026-11-22 LADDER (James: go after each behavior in turn; PMO is the enhanced version, MO the mild version, 'the O is only for one person'; no pressure; name fornication; PMO to MO is progress because porn hurts others). New closing section 'One hit, three strengths' is the map of the walk: PMO, MO, then the wanting of the orgasm; no pressure. The next chapter is now The Screen. Plan: /mnt/project-files/easy-peasy/ladder-plan-2026-11-22.md -->

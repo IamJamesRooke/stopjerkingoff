@@ -20,6 +20,10 @@ That leaves the bed, and the test is hardest there. She is in it too, and she ma
 
 The Bible drew the line in the same place three thousand years ago. Sex belongs inside marriage. The book of Proverbs says it the way a father would say it to his son: "Drink water out of your own cistern, running water out of your own well." Inside a marriage, sex is a gift. A husband and wife who give themselves to each other are on the right side of the line. The screen, the hand, the private film of another woman, the chase and any bed outside marriage are on the other side.
 
+Count the doses once more. Porn, the hand and the orgasm together were the strong one. The hand and the orgasm were the mild one. Take both away, and the wanting of the orgasm was still there, looking for a feed, a daydream or a bed. It was one drug all along.
+
+But it was only ever a drug outside the promise. Inside the promise the same thing is a gift, and it is for one person.
+
 You may not accept that yet, and you don't have to accept it to keep reading. Just keep the test in your pocket, and try it on your own life.
 
 ## Who decides? {-}
@@ -52,3 +56,5 @@ SOURCES: Epigraph and body quotation: Proverbs 5:15 (WEB, checked 2026-11-20). "
 <!-- 2026-11-21 room-by-room reorder (James approved: nothing arrives before the reader needs it; the rooms come in the order a man retreats through them). Before and after: editorial/ROOM-ORDER-2026-11-21.md. -->
 
 <!-- 2026-11-21 five-star pass (H3; ruling 6): the 'One room is left' formula varied; the last line now hands the squatter's line to the next chapter's opening. -->
+
+<!-- 2026-11-22 LADDER (James: go after each behavior in turn; PMO is the enhanced version, MO the mild version, 'the O is only for one person'; no pressure; name fornication; PMO to MO is progress because porn hurts others). Added the two paragraphs that close James's frame: one drug at three strengths, and inside the promise 'it is for one person'. Plan: /mnt/project-files/easy-peasy/ladder-plan-2026-11-22.md -->

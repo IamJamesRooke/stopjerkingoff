@@ -6,7 +6,7 @@
 
 "Fine. No porn. But the hand on its own is natural."
 
-That is the first room the Little Monster moves to, and nearly every man has stood in it. Some men have read every page so far and quietly filed it under porn. The screen was the problem, they decide, and the hand without the screen is another matter. A man quits porn and is proud of it, and he should be. But he keeps the hand, the way a man gives up whiskey and keeps the beer.
+That is the knock from the second room, and nearly every man has stood in it. This is the mild dose: the hand and the orgasm with no screen. The forums write it MO. Some men have read every page so far and quietly filed it under porn. The screen was the problem, they decide, and the hand without the screen is another matter. A man quits porn and is proud of it, and he should be. It is real progress. Nobody on a screen is being used for him now. The only person he is still hurting is himself. But he is still hurting himself. He keeps the hand, the way a man gives up whiskey and keeps the beer.
 
 The hand needs no screen, no woman and no money. All it needs is a man by himself for five minutes. For most men it was the first thing lust ever borrowed, and they expect it to be the last to go.
 
@@ -32,7 +32,11 @@ Here is a test to carry through the rooms that are left. Ask one question of any
 
 So the hand is not the harmless one. It holds the door open for all the rest.
 
-And now the uninvited guest picks up his blanket and moves down the hall. "Fine. But a scroll isn't porn. I'm only looking."
+The terms at this door are the same as at the first. No vow, no count, no pressure. Has the hand ever paid you anything but relief from its own itch? If not, you may find you don't reach for it. If you do reach, watch what you get.
+
+That leaves the orgasm itself. With the screen gone and the hand gone, the wanting doesn't lie down. It goes looking.
+
+The uninvited guest picks up his blanket and moves down the hall. "Fine. But a scroll isn't porn. I'm only looking."
 
 <!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md): NEW CHAPTER for the third head, Touch. Built from the Ladder's "man who quit porn and kept the hand" and the line that stood in the Introduction until today ("One man quit porn twice and went back twice. Both times, he said, masturbation was what led him back": the YBOP quote sourced in the Introduction's comments). No new quotations. Epigraph: 1 Corinthians 6:12, second sentence (WEB, checked 2026-11-20). -->
 
@@ -45,3 +49,5 @@ And now the uninvited guest picks up his blanket and moves down the hall. "Fine.
 <!-- 2026-11-21 room-by-room reorder (James approved: nothing arrives before the reader needs it; the rooms come in the order a man retreats through them). Before and after: editorial/ROOM-ORDER-2026-11-21.md. -->
 
 <!-- 2026-11-21 five-star pass (H3): closing excuse narrowed to the scroll ('I'm only looking'), since the next chapter is now the feed alone. -->
+
+<!-- 2026-11-22 LADDER (James: go after each behavior in turn; PMO is the enhanced version, MO the mild version, 'the O is only for one person'; no pressure; name fornication; PMO to MO is progress because porn hurts others). This is now the second room (MO, the mild dose). Added: quitting porn is real progress because nobody else is being hurt, 'But he is still hurting himself'; the no-pressure door; the turn to the orgasm itself. Plan: /mnt/project-files/easy-peasy/ladder-plan-2026-11-22.md -->
