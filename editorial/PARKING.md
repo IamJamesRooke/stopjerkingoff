@@ -1549,3 +1549,89 @@ One warning about him. He never leaves when you shut a room. He moves down the h
 That is why this book asks you not to throw anything out yet. The day will come, near the end, when you show him the door. You'll do it once, and it will be easy, because by then you will know that he has nothing you want. You won't have to drag anyone out. Nobody gets rid of him by sweeping. You stop believing he pays, and you stop carrying up his dinner. He leaves, and his friends leave with him.
 
 That leaves the question you have asked yourself a hundred times. You aren't stupid. You have wanted him out for years. So why does it feel so hard?
+
+## 2026-11-22: cut from Who Is Telling You This (James: the book is not about him)
+
+## A room in a church {-}
+
+Then one woman loved me, baggage and all. I knew how this story went. If I didn't fix it, I would lose her too.
+
+I had been fighting the habit for years. A free book, [*The Easy Peasy Way to Quit Porn*](https://easypeasymethod.org/), kept me clean for almost a year. I went back, because I hadn't done what it said. That one is on me, not the book.
+
+After that I joined a men's recovery group at a church. I had always written Christianity off as silly superstition. Sitting in that room, I changed my mind.
+
+Not about everything. I don't understand all of it. But it has lasted two thousand years, and the civilization I want to live in was built on it. Age alone proves nothing, and other old faiths can say as much. What moved me was smaller. It described me exactly. I came to think there is a deeper power behind it. I don't deny God, and I decided to take the whole thing seriously.
+
+One thing in that room puzzled me. The group fought the habit the way everyone fights it, with willpower. If grace is real, getting free shouldn't be an arm-wrestle for the rest of your life.
+
+## The villain in the story {-}
+
+One idea in that room hit me hardest.
+
+The modern world preaches social justice, and its hero is the victim. It says you are good, and they are evil. Its favorite words are "problematic" and "systemic". Its cure is to tear down the traditional values of the West.
+
+It is a comfortable thing to believe. Nothing is ever your fault. I could have used it. The awkward boy nobody wanted makes a fine victim.
+
+Christianity teaches the opposite. We are all sinners. Every one of us is the villain in somebody else's story.
+
+Human nature is not basically good. Rape, slavery and genocide are the default. Just read a history book. Morality has to be taught, and every one of us falls short of it.
+
+Aleksandr Solzhenitsyn, a Russian writer who survived the Soviet labor camps, said it best. The line between good and evil doesn't run between one group and another. It runs through every human heart.
+
+It runs through mine. I am the villain in several stories. Some of the women you just heard about would tell it that way.
+
+## Men are sedated {-}
+
+By then I had been praying for months. I was asking God how to fix the world. That is a big ask from a man who couldn't manage his own evenings.
+
+Here is what I thought was wrong with the world. Men are sedated.
+
+Look at one ordinary evening. A man comes home tired and pours a drink to take the edge off. Dinner is a burger and fries out of a paper bag, then a sleeve of cookies. He plays a game until midnight. He scrolls for an hour. He finishes on a porn site.
+
+Another man's evening has weed in it, or a betting app. The drug changes. The job is the same. Each one is sold as taking the edge off. What it takes off is his edge, the part of a man that gets things done. None of it is a crime. All of it is a sedative.
+
+Social media does something extra. It leaves him with a knot in his stomach, and he can't say why. It leaves him half sure that nothing matters anyway. Then he looks at the news and the price of a house, and he decides the game is rigged.
+
+He is not entirely wrong. But a sedated man can't fix a rigged game. I was some version of that man.
+
+## The eleventh hour {-}
+
+One night, at the eleventh hour, a thought came. It wasn't about the world. It was about me. Start there. Jordan Peterson, a Canadian psychologist, tells young men the same thing. Clean your room before you try to fix the world.
+
+I couldn't clear every drug off that list. I just wanted to be cured of one. Lust.
+
+I looked for a book like the free one that went past porn to lust itself. I couldn't find it. So I made this book, for one reader. Me. I wanted it to do what years of fighting never did.
+
+Then I put it out for anyone to take, because I am not the only one. Not even close. In that church I saw the problem was bigger than I had thought. The men in the pews have it too.
+
+I think this is where the church should put its full-court press. That is a basketball term for all-out pressure, everywhere on the floor. Wipe out this one problem. Get the men to stop jerking off, stop watching porn and stop simping, which is begging women for crumbs of attention. Change the men, and you change the whole church. It fills up with men who have balls and put that wasted energy into getting something done.
+
+I have been most of the men you'll meet in this book. I gave the habit every chance to pay me back, and it never did. With my record, I am the last man who could sell you a benefit.
+
+That is enough about me.
+
+
+
+## 2026-11-22: cut from The Rigged Game (first-person version)
+
+## The man telling you this {-}
+
+I lost that bet once. The habit cost me a marriage. Here is the rest.
+
+The divorce made me hate women.
+
+I went red pill. I saw women in the state of nature as amoral, and ready to trade up. The instant I was no longer useful, I was gone.
+
+I saw women like my stomach. I have fed it every day of my life. It doesn't care. It asks what I fed it lately.
+
+I can't tell you that was all wrong. A lot of it is still true. Being with modern women has been a nightmare. I lived it.
+
+But hating them fixes nothing, and I ain't no angel.
+
+So what holds a vow? Two people alone don't. "Till death do us part" needs a church and a community behind it. No leaving. Ever.
+
+Even then there is a risk. Plenty of Christian wives find that the Holy Spirit wants them divorced and happy.
+
+And the good ones want a believing man. I'm not one yet. I won't fake it to get a wife.
+
+I haven't figured it all out. I am making the same bet again, knowing all of this.

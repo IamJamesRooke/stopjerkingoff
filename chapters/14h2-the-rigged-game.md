@@ -28,27 +28,23 @@ He is no fool, and much of what he says is true. So take it one piece at a time,
 
 None of that is in your head. A man who has watched it happen is right to be careful.
 
-## The man telling you this {-}
+## A man who lost the bet {-}
 
-I lost that bet once. The habit cost me a marriage. Here is the rest.
+One man lost that bet, and the habit helped him lose it.
 
-The divorce made me hate women.
+The divorce made him hate women. He went red pill. He saw women in the state of nature as amoral, and ready to trade up. The instant he was no longer useful, he was gone.
 
-I went red pill. I saw women in the state of nature as amoral, and ready to trade up. The instant I was no longer useful, I was gone.
+He saw women like his stomach. He has fed it every day of his life. It doesn't care. It asks what he fed it lately.
 
-I saw women like my stomach. I have fed it every day of my life. It doesn't care. It asks what I fed it lately.
+He won't tell you that was all wrong. A lot of it is still true. Being with modern women was a nightmare, and he lived it.
 
-I can't tell you that was all wrong. A lot of it is still true. Being with modern women has been a nightmare. I lived it.
+But hating them fixes nothing, he says, and he is no angel himself.
 
-But hating them fixes nothing, and I ain't no angel.
-
-So what holds a vow? Two people alone don't. "Till death do us part" needs a church and a community behind it. No leaving. Ever.
+So what holds a vow? Two people alone don't, he says. "Till death do us part" needs a church and a community behind it. No leaving. Ever.
 
 Even then there is a risk. Plenty of Christian wives find that the Holy Spirit wants them divorced and happy.
 
-And the good ones want a believing man. I'm not one yet. I won't fake it to get a wife.
-
-I haven't figured it all out. I am making the same bet again, knowing all of this.
+He hasn't figured it all out. He is making the same bet again, knowing all of this.
 
 ## What is exaggerated {-}
 
@@ -79,3 +75,5 @@ That is the last easier line in the house, and it has a price list of its own.
 <!-- 2026-11-22 passage rewritten on James's notes ('Sometimes the sentences are too long... "I saw women like my stomach..."'; 'a lot of these things ARE still true, not saying I believed it and don't believe it now... can't deny it, being with modern women is a nightmare, i lived it, but still gotta figure it out'). Short sentences, present tense; the earlier paragraph that called the view 'a lie, and a handy one' is cut. THE AUTHOR'S ADDITION, for James to confirm or strike: 'But hating them fixed nothing. And I was no prize. I used women for years, and this book is the record.' (the tone rule: men take responsibility, women aren't angels). NOT USED: a chart James found on X (one user's own tabulation of the General Social Survey 1988-2024, ever-divorced by group). It can't be checked without rerunning the survey data, so no figure from it is printed; the published studies already cited in The Test Drive, The Rigged Game and The Safe Road point the same way. -->
 
 <!-- 2026-11-22 James's own line replaces the author's paragraph: 'but hating them fixes nothing, and I ain't no angel'. -->
+
+<!-- 2026-11-22 (James: 'THIS BOOK IS NOT ABOUT ME. If we can cut stuff about me, BETTER'): the divorce passage is now an anonymous man in the third person; the lines about the narrator's own faith ('I'm not one yet') are cut. The first-person version is in editorial/PARKING.md. -->
