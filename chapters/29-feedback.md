@@ -70,7 +70,7 @@ If you're not a believer, the test in your pocket gives the same answer. A gift,
 
 **"I'm single."**
 
-Then keep it for marriage. What you keep isn't lost. It is saved for her. And if she never comes, you have gone without nothing but an itch. The man who never does it isn't starving. Don't go looking for somebody to use in place of your hand. That is the same lust with another person in it.
+Then keep it for marriage. What you keep isn't lost. It is saved for her. And if she never comes, you have gone without a good thing, and that is a real cost. But it was never on your table. What you put down was an itch. The man who never does it isn't starving. Don't go looking for somebody to use in place of your hand. That is the same lust with another person in it.
 
 **"I've already lived the other way."**
 
@@ -123,3 +123,5 @@ That leaves the question nobody likes to ask out loud. What if you fall?
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). No longer makes the man who goes home with a woman the winner; answers 'I may never marry'. -->
 
 <!-- 2026-11-22 third whole-book test as James (he now says the whole No, but holds back the warm bed with a woman he liked; 'I say the clause as a better policy, not as a man who sees nothing in the room'). Fixes from that test; see the commit of this date. -->
+
+<!-- 2026-11-22 SKEPTIC READ, final stage: 'nothing but an itch' no longer unsays what If You Never Marry concedes; the loved woman's bed is told apart from the rest without handing the room back. -->

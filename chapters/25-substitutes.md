@@ -6,7 +6,7 @@
 
 When a man stops, he looks around for something to put in the gap. He finds two kinds of thing: a milder version of what he left, and food.
 
-You have met the milder versions in every room of the house. The act stopped short. Porn without touching. The scroll. The dating app kept "just to look". The film in your head. The girlfriend's bed, kept because you love her. A woman to use in place of the hand, which is the cruelest trade, because now a second person is paying. None of these is a substitute. Each is the same thing in a smaller glass. That is cutting down, and cutting down never freed anyone.
+You have met the milder versions in every room of the house. The act stopped short. Porn without touching. The scroll. The dating app kept "just to look". The film in your head. The girlfriend's bed, kept because you love her. A woman to use in place of the hand, which is the cruelest trade, because now a second person is paying. None of these is a substitute. Each is the same thing in a smaller glass. The bed of a woman you love is the best-looking glass on that shelf. What is good in it is real, and it belongs to the promise. Kept without the promise, it still keeps the room. That is cutting down, and cutting down never freed anyone.
 
 Food is the one real substitute, and it doesn't work either. The restless feeling is very like hunger, so some men try to feed it. But a stuffed man lies heavy and bored on the couch, and that is just where the old thought finds him.
 
@@ -52,3 +52,5 @@ That leaves a practical question. If nothing goes in the gap, should you at leas
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
 
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). Every room named. -->
+
+<!-- 2026-11-22 SKEPTIC READ, final stage: 'nothing but an itch' no longer unsays what If You Never Marry concedes; the loved woman's bed is told apart from the rest without handing the room back. -->
