@@ -40,7 +40,7 @@ I saw women like my stomach. I have fed it every day of my life. It doesn't care
 
 I can't tell you that was all wrong. A lot of it is still true. Being with modern women has been a nightmare. I lived it.
 
-But hating them fixed nothing. And I was no prize. I used women for years, and this book is the record.
+But hating them fixes nothing, and I ain't no angel.
 
 So what holds a vow? Two people alone don't. "Till death do us part" needs a church and a community behind it. No leaving. Ever.
 
@@ -77,3 +77,5 @@ That is the last easier line in the house, and it has a price list of its own.
 <!-- 2026-11-22 THE MAN TELLING YOU THIS (the skeptic reader asked what the narrator's own divorce cost him and whether he would bet again; James: 'The divorce made me hate women. I was red pilled seeing women in the state of nature as amoral and hypergamous willing to trade me up the instant I was no longer useful. Like my stomach, I've fed it every day for all my life but it doesn't care because it asks when did you feed me lately. Women are the same way. You actually do need a church and a community to say till death do us part. There is no leaving. Ever. Even then there is a risk because like many christian women the holy spirit conveniently tells them to divorce in order to be happy. But to attract the good ones you need to be a believing man. I am making the same bet again knowing all of this.'). His words are kept as close as the sentence rules allow. THE AUTHOR'S OWN ADDITION, for James to confirm or strike: the paragraph 'Some of that is true of some women... call it realism', which shows the hatred as where he was and not where the book lands. 'I am not one yet' keeps the faith stance (the narrator is not a Christian). -->
 
 <!-- 2026-11-22 passage rewritten on James's notes ('Sometimes the sentences are too long... "I saw women like my stomach..."'; 'a lot of these things ARE still true, not saying I believed it and don't believe it now... can't deny it, being with modern women is a nightmare, i lived it, but still gotta figure it out'). Short sentences, present tense; the earlier paragraph that called the view 'a lie, and a handy one' is cut. THE AUTHOR'S ADDITION, for James to confirm or strike: 'But hating them fixed nothing. And I was no prize. I used women for years, and this book is the record.' (the tone rule: men take responsibility, women aren't angels). NOT USED: a chart James found on X (one user's own tabulation of the General Social Survey 1988-2024, ever-divorced by group). It can't be checked without rerunning the survey data, so no figure from it is printed; the published studies already cited in The Test Drive, The Rigged Game and The Safe Road point the same way. -->
+
+<!-- 2026-11-22 James's own line replaces the author's paragraph: 'but hating them fixes nothing, and I ain't no angel'. -->
