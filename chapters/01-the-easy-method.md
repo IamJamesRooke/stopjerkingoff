@@ -62,35 +62,35 @@ This book is about you. But a man who says there are no benefits at all should t
 
 I was the awkward boy who couldn't talk to girls. I never went to a school dance. Who would even want me?
 
-At sixteen I found masturbation, and it became my drug. Several times a day. At twenty-one I got fast internet, and the porn came with it. Nobody could have told. From the outside, my life looked fine.
+At sixteen I found masturbation, and it became my drug. Several times a day. At twenty-one I got fast internet, and the porn came with it. Nobody would have guessed. From the outside, my life looked fine.
 
-When I got my first girlfriend, I couldn't finish. My body had been trained on a screen. A real woman was in my bed, and I kept the porn.
+When I got my first girlfriend, I couldn't finish with her. My body had been trained on a screen. A real woman was in my bed, and I kept watching porn.
 
 It cost me three relationships, an engagement and a marriage.
 
-After that I went the other way. I chased woman after woman, to push a number up. I spent my nights in bed with the phone, swiping and sexting. When I liked one, I checked my phone for her texts all day, sick with nerves. To ease the nerves, I kept a dozen other women talking as backups. That is not a man with options. That is a man with thirteen ways to be anxious.
+After that I went the other way. I chased woman after woman, just to run up the count. I spent my nights in bed with the phone, swiping and sexting. When I liked one, I checked my phone for her texts all day, sick with nerves. To ease the nerves, I kept a dozen other women talking as backups. That is not a man with options. That is a man with thirteen ways to be anxious.
 
-Then I started paying for it. I would like to tell you I was lonely. I wasn't, and it wasn't for lack of dates. I wanted one thing, and I couldn't stay interested in any woman past it. Paying seemed more honest. It was also cheaper, and it took less time.
+Then I started paying for it. I would like to tell you I was lonely. I wasn't. Dates were not the problem. I wanted one thing. Once I got it, I lost interest in the woman. Paying seemed more honest. It was also cheaper, and it took less time.
 
 Men like me have a saying. You don't pay her for the sex. You pay her to leave.
 
-I used to think that was a clever line. Now I hear what it says. It is a man talking about a human being as something he rents. The habit taught me to talk like that.
+I used to think that was a clever line. Now I hear what it says. That is a man talking about a human being like something he rents. The habit taught me to talk like that.
 
 And none of it was ever enough.
 
 Then one woman loved me anyway, baggage and all. I knew how this story went. If I didn't fix it, I would lose her too.
 
-I had been fighting it for years. A free book, [*The Easy Peasy Way to Quit Porn*](https://easypeasymethod.org/), kept me clean for almost a year. I went back, because I hadn't followed its instructions. That one is on me, not the book.
+I had been fighting the habit for years. A free book, [*The Easy Peasy Way to Quit Porn*](https://easypeasymethod.org/), kept me clean for almost a year. I went back, because I hadn't done what it said. That one is on me, not the book.
 
-After that I joined a men's recovery group at a church. I had always filed Christianity under silly superstition. Sitting in that room, I changed my mind.
+After that I joined a men's recovery group at a church. I had always written Christianity off as silly superstition. Sitting in that room, I changed my mind.
 
 Not about everything. I don't understand all of it. But it has lasted two thousand years, and the civilization I want to live in was built on it. Nothing silly lasts that long or builds that much. I came to think there is a deeper power behind it. I don't deny God, and I decided to take the whole thing seriously.
 
 One idea in that room hit me harder than the rest.
 
-The modern world teaches a creed of social justice, and its hero is the victim. You are good, and they are evil. Its favorite words are "problematic" and "systemic". Its cure is to tear down the traditional values of the West.
+The modern world preaches social justice, and its hero is the victim. It says you are good, and they are evil. Its favorite words are "problematic" and "systemic". Its cure is to tear down the traditional values of the West.
 
-It is a comfortable creed. Nothing is ever your fault. I could have used it. The awkward boy nobody wanted makes a fine victim.
+It is a comfortable thing to believe. Nothing is ever your fault. I could have used it. The awkward boy nobody wanted makes a fine victim.
 
 Christianity teaches the opposite. We are all sinners. Every one of us is the villain in somebody else's story.
 
@@ -100,33 +100,33 @@ Aleksandr Solzhenitsyn, a Russian writer who survived the Soviet labor camps, sa
 
 It runs through mine. I am the villain in several stories. Some of the women you just heard about would tell it that way.
 
-One thing in that room puzzled me. The group fought the way everyone fights, with willpower. If grace is real, freedom shouldn't be an arm-wrestle that lasts for life.
+One thing in that room puzzled me. The group fought the habit the way everyone fights it, with willpower. If grace is real, getting free shouldn't be an arm-wrestle for the rest of your life.
 
-By then I had been praying for months. I was asking God how to fix the world. That is a large request from a man who couldn't manage his own evenings.
+By then I had been praying for months. I was asking God how to fix the world. That is a big ask from a man who couldn't manage his own evenings.
 
 Here is what I thought was wrong with the world. Men are sedated.
 
 Look at one ordinary evening. A man comes home tired and pours a drink to take the edge off. Dinner is a burger and fries out of a paper bag, then a sleeve of cookies. He plays a game until midnight. He scrolls for an hour. He finishes on a porn site.
 
-Another man's evening has weed in it, or a betting app. The drug changes. The job is the same. Each one is sold as taking the edge off. What it takes is the edge, the part of a man that gets things done. None of it is a crime. All of it is anesthetic.
+Another man's evening has weed in it, or a betting app. The drug changes. The job is the same. Each one is sold as taking the edge off. What it takes off is his edge, the part of a man that gets things done. None of it is a crime. All of it is a sedative.
 
-The feeds do something extra. They leave him anxious, and he can't say why. They leave him half sure that nothing matters anyway. Then he looks at the news and the price of a house, and he decides the game is rigged.
+Social media does something extra. It leaves him anxious, and he can't say why. It leaves him half sure that nothing matters anyway. Then he looks at the news and the price of a house, and he decides the game is rigged.
 
 He is not entirely wrong. But a sedated man can't fix a rigged game. I was some version of that man.
 
 One night, at the eleventh hour, a thought came. It wasn't about the world. It was about me. Start there. Jordan Peterson, a Canadian psychologist, tells young men the same thing in plainer words. Clean your room before you try to fix the world.
 
-I couldn't clear every drug off that list. I only wanted to be cured of one, and it was lust.
+I couldn't clear every drug off that list. I just wanted to be cured of one. Lust.
 
-I looked for a book like the free one, but one that went past porn to lust itself. I couldn't find it. So I made this one, for one reader. Me. I wanted it to do what years of fighting never did.
+I looked for a book like the free one, but going past porn to lust itself. I couldn't find it. So I made this book, for one reader. Me. I wanted it to do what years of fighting never did.
 
-Then I gave it away, because I am not the only one. Not even close. In that church I saw the problem was bigger than I had thought. The men in the pews have it too.
+Then I put it out for anyone to take, because I am not the only one. Not even close. In that church I saw the problem was bigger than I had thought. The men in the pews have it too.
 
-If I ran a church, I would throw everything at this one thing. Get the men to stop jerking off. Get them to stop watching porn. Get them to stop simping, which means groveling after women for crumbs of attention. Do that, and you change the church for good. It fills with men who have balls, and who put that wasted energy into getting something done.
+If a church threw everything at this one thing, it would change for good. Get the men to stop jerking off. Get them to stop watching porn. Get them to stop simping, begging women for crumbs of attention. It fills up with men who have balls and put that wasted energy into getting something done.
 
 I don't run a church. I have a book.
 
-Most of the men you'll meet in these pages, I have been. I gave the habit every chance to pay me back, and it never did. If a man with my record can see through it, so can you.
+I have been most of the men you'll meet in this book. I gave the habit every chance to pay me back, and it never did. If a man with my record can see through it, so can you.
 
 That is enough about me.
 
@@ -184,3 +184,5 @@ So start with the squatter. If he does nothing for you, why does he keep coming 
 <!-- 2026-11-22 hard edit (James: 'something is still off, get a hard editor, be ruthless'). A cold editor's verdict: no ending and a wasted peak; a lecture in the middle; the confession bragged and blamed the women; the prayer-to-book order was muddled; 'Men are sedated' was one slab about a stranger; the chapter ended twice. Acted on: story rewritten in beats, the section moved ahead of 'What to do tonight' so the chapter ends once, on action and the hook. The EasyPeasy link moved to the credit paragraph. Folding chairs and bad coffee cut. STILL TO CONFIRM (James): 'cheaper, and it took less time'; 'I could get dates. I just didn't want the dates'; 'I had already lost a fiancee and a wife to this'; the evening man (drink, burger and fries, cookies, game, scrolling), weed and betting said of other men; 'Some version of that man was me'. STILL MISSING: one true sentence on where he stands now and whether he kept her; the story has no ending without it. -->
 
 <!-- 2026-11-22 second hard edit (James: 'liking it overall, another full pass, make it five star'). A second cold editor's findings acted on: the story now enters as the answer to 'how do you know?' and ends on 'I gave the habit every chance to pay me back, and it never did'; the 'edge' line no longer says the drugs work; the three general statements build to one personal landing after Solzhenitsyn; rulings softened to a newcomer's view; fewer 'Then's and one-line paragraphs; the Kay Bruner shame quote cut (PARKING.md); the EasyPeasy title is named once, in the credit; the invented 'fiancee and a wife' line cut. -->
+
+<!-- 2026-11-22 final wording pass (James: 'whatever the final result is, just push it'; 'take away anything that seems like I'm doing this for glory or an attaboy'). A listener's ear pass (21 small wording fixes) and a glory filter: 'gave it away' became 'put it out for anyone to take'; the church paragraph no longer has him running the church; 'I could get dates' stays out. The free book is named with its link in the story at James's request. -->

@@ -7,7 +7,7 @@
 | Intro | 780 | 2 | 1 | 3 | 1 | 2 | 0 | 0 | 0 | 1 | 0 |
 | b | 966 | 0 | 2 | 1 | 1 | 4 | 0 | 0 | 0 | 0 | 0 |
 | c | 310 | 2 | 0 | 1 | 0 | 0 | 5 | 0 | 0 | 0 | 1 |
-| 1 | 2434 | 3 | 12 | 9 | 5 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 1 | 2432 | 3 | 11 | 9 | 5 | 9 | 0 | 0 | 0 | 0 | 0 |
 | 1b | 997 | 0 | 1 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1c | 713 | 3 | 0 | 5 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2 | 764 | 1 | 2 | 0 | 1 | 5 | 0 | 0 | 0 | 0 | 0 |
@@ -73,7 +73,7 @@
 | faq | 1792 | 10 | 10 | 7 | 6 | 6 | 5 | 3 | 1 | 1 | 0 |
 | why-this-book | 1014 | 8 | 6 | 5 | 2 | 2 | 4 | 0 | 0 | 1 | 0 |
 
-## Overused words and phrases (book total 59753 words)
+## Overused words and phrases (book total 59751 words)
 
 | Word | Count | Per 1000 words | In how many files |
 |---|---|---|---|
@@ -120,6 +120,7 @@
 - "easy way to stop smoking" x6 in 1, 34, attribution, faq, why-this-book
 - "a doctor or a counselor" x4 in 14d, 15, 34, Intro
 - "a man ruled by lust" x4 in 15c, 27b, faq, why-this-book
+- "for the rest of your" x4 in 1, 33, 7, b
 - "has nothing to do with" x4 in 11c, 24, 8
 - "have already stopped stay stopped" x4 in 1, 17, 21, Intro
 - "if you have already stopped" x4 in 1, 17, 21, Intro
