@@ -8,7 +8,7 @@ This is the myth of the back room. The squatter stays in there, and the rest of 
 
 It's spread mostly by men who are trying to stop by willpower. They can't stop, so they need a story that lets them carry on. The story goes: "That's my private side. It has nothing to do with my marriage, my faith or the man I am at work. I keep it in its box." You may know the old story of Dr. Jekyll, the respectable doctor who drinks a potion and turns into the brutal Mr. Hyde at night. Dr. Jekyll coaches the kids' team on Saturday morning. Mr. Hyde has the phone at midnight. The two never meet.
 
-It's a neat picture, and it is false from start to finish. In Robert Louis Stevenson's book, Hyde doesn't stay in his room. He gets stronger every time he's let out, and by the end he's turning up without being called. Your squatter is no different. You have watched him move down the hall, from room to room. There's only one man in that story, and there's only one of you.
+It's a neat picture, and it is false from start to finish. In Robert Louis Stevenson's book, Hyde doesn't stay in his room. He gets stronger every time he's let out, and by the end he's turning up without being called. Your unwanted tenant is no different. You have watched him move down the hall, from room to room. There's only one man in that story, and there's only one of you.
 
 ## What you're rehearsing {-}
 

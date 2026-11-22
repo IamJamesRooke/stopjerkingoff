@@ -54,7 +54,7 @@ So read on with your mind open. Question everything, this book included. If you 
 
 **YOU HAVE NOTHING TO LOSE.** If you reach the last page and decide you'd rather carry on, nothing stops you.
 
-The fear may even grow for a chapter or two. Some men put the book down halfway, because they sense that if they keep going they'll actually have to stop. Don't be one of them. That flutter is only the squatter. He has noticed what you're reading.
+The fear may even grow for a chapter or two. Some men put the book down halfway, because they sense that if they keep going they'll actually have to stop. Don't be one of them. That flutter is only the freeloader in the back room. He has noticed what you're reading.
 
 Jesus told a story about a son who took his inheritance early, left home and wasted every coin of it. People call him the prodigal son. He ended up feeding pigs, and he was starving. In that pigsty he came to himself. He got up and walked home, and he found his father running down the road to meet him. That is how it feels to walk out of this trap. Before this book is finished, that will be you.
 

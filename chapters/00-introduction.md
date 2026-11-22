@@ -12,7 +12,7 @@ He is no weakling. He has given up harder things than this. Against this one thi
 
 There is no dragon.
 
-There is a small, smelly squatter living in his back room. The squatter has never paid a day's rent. He has no strength of his own. He lives on the meals the man carries up to him. When he gets hungry, he bangs on the floor.
+There is a small, smelly squatter living in his back room. He has never paid a day's rent. He has no strength of his own. He lives on the meals the man carries up to him. When he gets hungry, he bangs on the floor.
 
 That is the picture this book is built on, and the rest of it is the proof. The thing that has beaten you for years isn't strong. It is small, and you have been feeding it yourself.
 
@@ -20,7 +20,7 @@ Small is not the same as harmless. He has cost you plenty, and this book will co
 
 But this book will not ask you to try harder. You have tried harder. Every other method hands you a sword and points you at the dragon. No man wins a fight against something he still half wants.
 
-This book does one thing instead. It shows you, lie by lie, that the squatter has nothing you want. A man who sees that needs no willpower. He just stops carrying dinner up the stairs.
+This book does one thing instead. It shows you, lie by lie, that this freeloader has nothing you want. A man who sees that needs no willpower. He just stops carrying dinner up the stairs.
 
 Here is what happens. You stop watching porn, and you stop masturbating. This book calls those two together *the habit*. Then the book goes after *lust* itself, the appetite behind the habit, wherever else it feeds. You stop making bad decisions with women because you're thinking with the wrong head. You stop for good, and you aren't miserable doing it.
 

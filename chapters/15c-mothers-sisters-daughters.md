@@ -20,7 +20,7 @@ A free man can.
 
 A man on the NoFap forum, a hundred days out, noticed that the women around him had changed. It was his eyes that had changed. He had stopped scanning their bodies, he wrote, and "started noticing much more interesting things about them. Smiles, gestures". He was seeing people again.
 
-So far the squatter has mostly watched. Now he does something new. He borrows your feet, and walks out into company. "I'm only being friendly."
+So far your uninvited guest has mostly watched. Now he does something new. He borrows your feet, and walks out into company. "I'm only being friendly."
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 15-fantasy-and-the-thought-life.Rmd; the source notes for everything here are in that file. -->
 

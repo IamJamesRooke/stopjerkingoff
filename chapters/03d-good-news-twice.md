@@ -24,7 +24,7 @@ Grass grows back.
 
 Once you stop walking the path, the Little Monster starves, and he starves fast.
 
-It's never too late. One man who wrote about it got free in his forty-third year. If you've been at this for decades, or several times a day, take heart. It's just as easy for you as for the man who does it once a month, and in one way it's better. The further down it has taken you, the bigger the relief. Many men go from daily to nothing in one step. The so-called withdrawal is a few restless evenings, and a man can even enjoy them, because he knows what he is hearing. It is the squatter's stomach, rumbling.
+It's never too late. One man who wrote about it got free in his forty-third year. If you've been at this for decades, or several times a day, take heart. It's just as easy for you as for the man who does it once a month, and in one way it's better. The further down it has taken you, the bigger the relief. Many men go from daily to nothing in one step. The so-called withdrawal is a few restless evenings, and a man can even enjoy them, because he knows what he is hearing. It is the freeloader's stomach, rumbling.
 
 Go back to Paul's words: "the flesh lusts against the Spirit, and the Spirit against the flesh". Paul never says the flesh is beaten by more flesh, by a harder jaw and a tighter fist. The sentence just before it, Galatians 5:16, reads: "But I say, walk by the Spirit, and you won't fulfill the lust of the flesh." He puts the weight on what to walk toward.
 

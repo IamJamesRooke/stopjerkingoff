@@ -38,7 +38,7 @@ So look once more at the man who quit porn and kept the feed. He is still standi
 
 AND HE CALLS IT BEING FREE!
 
-Take the phone away and the squatter only shrugs. He has a film of his own. "Fine. No scroll. But what goes on in my own head is nobody's business. A thought isn't cheating."
+Take the phone away and the pest only shrugs. He has a film of his own. "Fine. No scroll. But what goes on in my own head is nobody's business. A thought isn't cheating."
 
 <!-- SOURCES (Chapter 15): every quote below is from the research files; check each against its page before publishing.
 - "sends the man back into the prison of himself, there to keep a harem of imaginary brides." / "this harem, once admitted, works against his ever getting out and really uniting with a real woman." / "The danger is that of coming to love the prison." — C.S. Lewis, letter to Keith Masson, 1956 (Collected Letters, vol. 3), fragments as quoted at https://www.pintswithjack.com/?p=341 and https://www.catholiceducation.org/en/marriage-and-family/sexuality/c-s-lewis-on-lust-women-and-masturbation.html (in copyright: three short fragments, do not extend; the first was also used in Chapter 5; the sentences between them are paraphrase from research/more-sources.md; the full letter was not read)

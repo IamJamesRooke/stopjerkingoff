@@ -26,7 +26,7 @@ He gets scared. So one night he decides to check, just to be sure everything sti
 
 Look at who gains. For years the old voice told you that you wanted it too much to stop. Now it tells you that you don't want it enough, and had better do something about it. The complaint has turned right around. The cure hasn't changed at all.
 
-The check can't even tell you anything. If your body answers, the voice says, "Good. And now that you've started." If it doesn't, you panic and go looking for something stronger. The squatter wins either way. That isn't a check. It's the habit with an excuse.
+The check can't even tell you anything. If your body answers, the voice says, "Good. And now that you've started." If it doesn't, you panic and go looking for something stronger. The freeloader wins either way. That isn't a check. It's the habit with an excuse.
 
 So what is really happening? No study has measured the flat spell. All I can give you is what thousands of men report, and the likeliest reason for it. For years your body was flooded with more stimulation than any man was built for. It coped by turning its own sensitivity down. Take the flood away, and for a while ordinary life isn't loud enough to register. Then the dial comes back up.
 

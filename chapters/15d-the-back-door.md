@@ -32,7 +32,7 @@ Here is a test to carry through the rooms that are left. Ask one question of any
 
 So the hand is not the harmless one. It holds the door open for all the rest.
 
-And now the squatter picks up his blanket and moves down the hall. "Fine. But a scroll isn't porn. I'm only looking."
+And now the uninvited guest picks up his blanket and moves down the hall. "Fine. But a scroll isn't porn. I'm only looking."
 
 <!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md): NEW CHAPTER for the third head, Touch. Built from the Ladder's "man who quit porn and kept the hand" and the line that stood in the Introduction until today ("One man quit porn twice and went back twice. Both times, he said, masturbation was what led him back": the YBOP quote sourced in the Introduction's comments). No new quotations. Epigraph: 1 Corinthians 6:12, second sentence (WEB, checked 2026-11-20). -->
 

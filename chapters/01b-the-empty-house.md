@@ -12,7 +12,7 @@ You swore off porn, and for three weeks you were clean. Then you noticed you wer
 
 No wonder it feels unbeatable. No wonder you decided the fault was in you.
 
-It can feel like being possessed. Something is running you that you never invited, and you want it out. That is an honest way to say how it feels, and there is no shame in saying it. But keep two things straight. He has never once made you do it. Every time, he asked, and you were the one who answered. And he is not ten feet tall. He is a pipsqueak, squatting in a back room.
+It can feel like being possessed. Something is running you that you never invited, and you want it out. That is an honest way to say how it feels, and there is no shame in saying it. But keep two things straight. He has never once made you do it. Every time, he asked, and you were the one who answered. And he is not ten feet tall. He is a pipsqueak, squatting in a back room. He has no reach at all. You could punt him halfway down a football field.
 
 Now look at the one detail in the story that explains everything. Why could it come back? Because the house was empty.
 
@@ -22,7 +22,7 @@ That is what quitting by force is. A man stops the act and goes on believing tha
 
 This book works the other way around. Before anybody is put out, we look at what this tenant has really done for you all these years. What rent has he paid? What has he ever mended? You will find that he has paid nothing and broken a great deal, and that the room was never short of him. It was never his room. You have been treating him as a tenant, and a tenant who pays nothing is only a squatter.
 
-So why is he still there? A man keeps a squatter for one of two reasons. He believes the squatter gives him something. Or he has grown so used to him that he thinks he has a right to stay. This one has given you nothing, and he has no right. He is a freeloader, and it is your house. He leaves his dishes in your sink, and he smells. And look who has been paying his bills and carrying his meals up the stairs. You have. Nobody else can put him out for you. And you have never truly tried, because some part of you still thought he was worth keeping.
+So why is he still there? A man keeps a squatter for one of two reasons. He believes the freeloader gives him something. Or he has grown so used to him that he thinks he has a right to stay. This one has given you nothing, and he has no right. He is a freeloader, and it is your house. He leaves his dishes in your sink, and he smells. And look who has been paying his bills and carrying his meals up the stairs. You have. Nobody else can put him out for you. And you have never truly tried, because some part of you still thought he was worth keeping.
 
 Once a man has seen that, there is no vacancy. There is nothing for the tenant to come back to.
 
