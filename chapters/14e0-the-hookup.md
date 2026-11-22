@@ -20,15 +20,15 @@ The hookup has an "at least" of its own. "I'm not jerking off. At least I'm with
 
 She is real, and that is the trouble. The screen used a picture. The hand used a memory. This uses her. He hasn't stopped jerking off. He is doing it with her body, and she is a person.
 
-"But she wanted it too." Perhaps she did. Then ask where the two of you were going. If there was no future in it, neither of you gave anything. You were two addicts sharing a dose. Two people took a hit, and nobody was given a gift.
+"But she wanted it too." Perhaps she did. Then ask where the two of you were going. If there was no future in it, each of you gave one night and kept the rest back. You were two addicts sharing a dose. Two people took a hit, and nobody was given a gift.
 
-The same holds for the girlfriend of two years he has no plan to marry. It is one long night. A plan for someday changes nothing, because a plan is not a promise.
+The same holds for the girlfriend of two years he has no plan to marry. It is one long night. She is no stranger, and you stay. But ask her what she thinks the two years are for. If her answer isn't yours, one of you is being used. A plan for someday changes nothing, because a plan is not a promise.
 
 Perhaps one of them was different. You liked her. A minute later you were glad, and you stayed till morning. Grant all of it. Then ask what made that night good. It was not the few seconds. It was that she knew you, and that for a while you both acted as if you were staying. The good part was the part that looked like the promise. Now ask where she is. If you are reading this single, it ended like the others, only slower, and it cost you both more. Leaving the promise out added nothing to those nights. It only kept a door open, and one of you used it.
 
 So that night is no exception to this chapter. It is the strongest dose in the house. A stranger's bed is empty by morning, and a man leaves it. The warm bed is good enough to stay in, and never good enough to decide in. A man can spend two years there, and then two more with the next woman. It looks so much like the real thing that he stops looking for the real thing. Count the years the warm beds cost you. Then count what they cost her.
 
-"But there might be a future with this one." A maybe is not a promise. If there is a future, it will still be there when the promise is made. Sleeping with her first doesn't help you find out. A man can't judge a woman while he is using her. And she pays tonight for something you may never deliver.
+"But there might be a future with this one." A maybe is not a promise. If there is a future, it will still be there when the promise is made. Sleeping with her first doesn't help you find out. You will say a careful man tests before he signs. Ask what the bed has ever tested. It tells you she is warm. It can't tell you whether she keeps her word. And she pays tonight for something you may never deliver.
 
 ## Take the night apart {-}
 
@@ -62,7 +62,7 @@ Most men answer at once. "No. Not her." Then she was never someone you wanted. Y
 
 She has been lied to as well. She was told that sleeping with a man and expecting nothing from him is freedom. She was told that a pill makes it safe. She was told that if a child comes anyway, the child's life can be ended, as though that would cost her nothing. Often nobody told her the price, and nobody asked what she was worth. If you were part of a choice like that, there is forgiveness for it, the same as for everything else in this book. The grief is real, and there is help for it.
 
-You don't have to take that from a church. In 2022 a British journalist named Louise Perry wrote a book about it. She had worked at a rape crisis center. She argued that the sexual revolution mostly served men who want sex without ties. One of her chapters is called "Consent Is Not Enough". Studies are mixed, and many people say they felt fine at the time. But the regret shows when researchers ask. A 2012 study questioned Canadian students who'd had sex with no commitment. About three in four said they had regretted it at some time. That was true of the men as well as the women.
+You don't have to take that from a church. In 2022 a British journalist named Louise Perry wrote a book about it. She had worked at a rape crisis center. She argued that the sexual revolution mostly served men who want sex without ties. One of her chapters is called "Consent Is Not Enough". Studies are mixed, and many people say they felt fine at the time. But the regret shows when researchers ask. A 2012 study questioned Canadian students who'd had sex with no commitment. About three in four said they had regretted it at some time. That counts one regret in a lifetime, so it proves less than it sounds. That was true of the men as well as the women.
 
 So "she agreed" settles nothing. Men like to complain about women who have been with too many men. They never ask who those men were. If you slept with her and left, you were one of them.
 
@@ -89,3 +89,5 @@ Some men have gone further up this road than the rest.
 <!-- 2026-11-22 second whole-book test as James (he said No to everything except 'any bed outside marriage', because with a woman he liked he was glad afterward and stayed). New paragraph for the night that WAS good ('The good part was the part that looked like the promise'); the minute-after claim no longer says every night felt the same; two absolutes softened. -->
 
 <!-- 2026-11-22 third whole-book test as James (he now says the whole No, but holds back the warm bed with a woman he liked; 'I say the clause as a better policy, not as a man who sees nothing in the room'). Fixes from that test; see the commit of this date. -->
+
+<!-- 2026-11-22 SKEPTIC READ, stage 3 (an atheist who thinks marriage is rigged against men): the law's lever named; the two-year girlfriend argued and not just asserted; overclaims trimmed. -->
