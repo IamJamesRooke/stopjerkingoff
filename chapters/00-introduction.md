@@ -56,7 +56,7 @@ One caution. A book is not a doctor, and nobody has tested this method in a clin
 
 ## Two rules {-}
 
-The book takes about four hours, and nobody has to know you're reading it. Read it this week.
+The book takes about five hours, and nobody has to know you're reading it. It is long on purpose. There are a lot of lies, and each one gets taken apart. The length costs you nothing, because nobody asks you to stop until the last pages. Read it this week.
 
 **Rule one: DO NOT SKIP CHAPTERS.** They are short. Each one takes down one lie, and the last step only works if the others came first.
 
@@ -121,3 +121,5 @@ SOURCES (Introduction): every quote below is from the research files; check each
 <!-- 2026-11-22 hard pass (James: 'Intro is by far the most important part', '90 percent there', 'the little monster and the squatter, something doesn't gel'). One name for the creature (the Little Monster; 'squatter' is gone from the whole book). A cold editor read it three ways. Fixed: the house is now introduced; the banging is tied to the 2 a.m. scene; 'why does he keep him' is answered in full (he wants him out and fears the quiet will go too); the belief is called a lie ('The house was quiet before the monster moved in'); 'You don't have to believe that yet'; rules numbered for the ear; one exception, not two; the doctor note moved ahead of the rules; the welcome to women moved up; the fog quote cut (PARKING.md). -->
 
 <!-- 2026-11-22 research rebuild (James: 'something stopping it from being five star'; vague adjectives; no section headers; the monster could be read literally; 'maybe no big monster at all, just the lies'; 'show, don't tell'; Scott Adams's 'The Day You Became a Better Writer'). Built from research on how strong self-help and quit-addiction books open (Carr's own front matter, Clear, Grace, Goggins, an addiction memoir, Made to Stick, editors' guides, writing for audio). Changes: the scene is shown, not told; the craving is described as a plain feeling BEFORE it is named, with one guard line for the literal reader ('nothing is really living in you'); 'small' is now the size of a house cat, 'smells' is a gym bag left in a hot car; one creature only, with the lies in two piles (told to you, told by you) and no 'Big Monster' until The World's Lies; six section headers; housekeeping split under 'Before you start' and 'Two rules'. The previous Introduction is saved whole in editorial/PARKING.md. -->
+
+<!-- 2026-11-22 (James: 'Make the book as long as it's gotta be... we can say that if it's long you can keep your addiction because it will take longer to read. But we will destroy all the lies.'): 'four hours' is now 'five hours', with the three sentences on why it is long. -->
