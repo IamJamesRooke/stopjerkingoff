@@ -1218,3 +1218,10 @@ One thing can't wait for the last page. Is lust hurting someone else? An affair,
 And a book is not a doctor. This method has freed many men, but nobody has tested it in a clinic, and some men need a person as well as a book. Do you have thoughts of harming yourself? Did this begin after something was done to you as a child? Do your urges frighten you, or has what you look at moved toward children or anything against the law? Then see a doctor or a counselor now, and read the book alongside them. They have heard it before, and you are not beyond help. The Appendix at the back says more.
 
 Now go back to the man in the bed, and put one thing on his nightstand. A button.
+
+
+## 2026-11-22, chapter 2 (The Easy Method), second hard edit
+
+Cut from reason 1 (the quote told a non-believer the chapter was not for him, and 'many, many' reads badly aloud):
+
+> A counselor on a Christian recovery blog saw it clearly: "Shame is the problem for so many, many Christians."
