@@ -80,7 +80,7 @@ I had been fighting it for years. A free book called [*The Easy Peasy Way to Qui
 
 The group, though, fought the way everyone fights, with willpower. That seemed backward to me. If grace is real, freedom shouldn't be an arm-wrestle that lasts for life.
 
-That room changed how I saw something else too. The loud ideas of our time say the evil is out there. It is in the system, or in the other side. We are the good people, and they are the problem. Christianity teaches the opposite. It says no man is good by nature. Left to ourselves we rape, enslave and slaughter, and history is the record of it. The miracle is that we ever do anything else.
+That room changed how I saw something else too. Social justice ideology teaches a man that he is a victim. The evil is out there, in the system or in the other side, and he is the one it was done to. Christianity teaches the opposite. It says we are all sinners. Every one of us is the villain in somebody else's story. Left to ourselves we rape, enslave and slaughter, and history is the record of it. The miracle is that we ever do anything else.
 
 Aleksandr Solzhenitsyn was a Russian writer who spent eight years in the Soviet labor camps. He came out saying that the line between good and evil does not run between us and them. It runs through every human heart. Jordan Peterson, a Canadian psychologist, puts it more plainly: clean your own room before you try to fix the world.
 
