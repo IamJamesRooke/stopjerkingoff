@@ -14,7 +14,7 @@ That is the only reason any man carries on, three times a day or twice a month. 
 
 And the little one isn't picky. A video feeds him. A fantasy feeds him. A long look at a stranger feeds him. It's all one diet, and it all goes to one small belly.
 
-What a man calls the pleasure is only the pleasure of getting back to how he'd have felt anyway. He's trying to return to the peace and ease he had as a boy, before any of this started. And he keeps using the very thing that took it from him.
+Most of what a man calls the pleasure is the pleasure of getting back to how he'd have felt anyway. He's trying to return to the peace and ease he had as a boy, before any of this started. And he keeps using the very thing that took it from him.
 
 ## The annoying alarm {-}
 
@@ -54,9 +54,9 @@ In fact the two are opposites.
 
 > "I've come to realize that masturbation, any way you slice it, is a selfish act"
 
-And look where the excitement sits, such as it is. It isn't at the end. It's in the lead-up: the door clicking shut, the scroll, the search for the right video, the building of the scene. The end itself lasts seconds, and the flatness lands straight after. That's why so many men drag it out. A man will spend forty minutes choosing the video for an ending that takes six seconds. He has picked jobs with less care.
+One objection is still standing, and it is the honest one.
 
-And the lead-up has a problem. It never stays the same size.
+"But it feels good."
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 03-the-flesh.Rmd; the source notes for everything here are in that file. -->
 
@@ -67,3 +67,5 @@ And the lead-up has a problem. It never stays the same size.
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
 
 <!-- 2026-11-21 room-by-room reorder (James approved: nothing arrives before the reader needs it; the rooms come in the order a man retreats through them). Before and after: editorial/ROOM-ORDER-2026-11-21.md. -->
+
+<!-- 2026-11-22: the lead-up paragraphs moved to the new chapter But It Feels Good, which now follows; this chapter ends on that objection. 'What a man calls the pleasure is only...' is now 'Most of what a man calls the pleasure...' (James: the orgasm is real). -->
