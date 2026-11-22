@@ -11,9 +11,9 @@ Follow these instructions and you'll find stopping somewhere between easy and en
 1. **Decide that you are finished with lust, in all five ways. Never again.**
 2. **Don't mope about it. Rejoice.**
 
-The Bible has older names for both. The first is *repentance*. The word doesn't mean feeling terrible. It means a change of mind: you turn around and walk the other way. The second is *receiving grace*. You're forgiven, so you act like a forgiven man.
+The Bible has older names for both. The first is *repentance*. The word doesn't mean feeling terrible. It means a change of mind: you turn around and walk the other way. The second is *receiving grace*. The believer is forgiven, so he acts like a forgiven man.
 
-Decide and rejoice, or repent and receive. That's the whole method, and both halves are gifts. God gives the turning, and God gives the grace.
+Decide and rejoice, or repent and receive. That's the whole method. A Christian calls both halves gifts from God.
 
 This book has asked no vow of you while you read, and for good reason. The old vow was a promise to go without. This decision is only a refusal to go back for nothing. It comes at the end, when you no longer want what you're leaving, and that is why it holds.
 
@@ -35,7 +35,7 @@ Know it.
 
 ## Free from the first day {-}
 
-The moment you decide, you're already a man who doesn't do it. You don't become one after ninety days, or when the Little Monster dies. You become one in that moment. That isn't because your decision is strong. It is because of what Christ has already done. A recovery writer put the new identity in a single line: "Begin to say, I am a man (or woman) who does not use pornography, masturbate, or lust."
+The moment you decide, you're already a man who doesn't do it. You don't become one after ninety days, or when the Little Monster dies. You become one in that moment. A Christian will say that is because of what Christ has already done. A recovery writer put the new identity in a single line: "Begin to say, I am a man (or woman) who does not use pornography, masturbate, or lust."
 
 So don't wait for the itch to fade before you let yourself be happy. Get out and live.
 
@@ -98,3 +98,5 @@ So what will the first weeks actually feel like?
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
 
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
+
+<!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). The narrator no longer speaks as a Christian. -->

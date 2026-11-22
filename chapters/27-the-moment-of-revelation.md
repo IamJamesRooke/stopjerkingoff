@@ -28,7 +28,7 @@ For the man on the couch it comes like this. His wife reaches across and picks u
 
 ## Don't test it {-}
 
-One warning belongs here. A few weeks in, a man senses that the desire has gone, and he wants proof. "I'll just see. If it does nothing for me, I'll know I've beaten it." That test is the Little Monster's first meal in weeks, and it is how a great many willpower attempts end.
+One warning belongs here. A few weeks in, a man senses that the desire has gone, and he wants proof. "I'll just see. If it does nothing for me, I'll know I've beaten it." And it will feel good for a few seconds. That proves nothing. Sugar is still sweet to a man who has quit it. That test is the Little Monster's first meal in weeks, and it is how a great many willpower attempts end.
 
 You will never need to test your freedom. Every test of it is the habit under another name.
 
@@ -66,3 +66,5 @@ Before you decide, look past the door. What is all this freedom for?
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
 
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
+
+<!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). Warns that the 'test' will feel good and proves nothing. -->

@@ -2,7 +2,7 @@
 
 The first room has a screen in it, and most men know every corner of it.
 
-This is the strong dose. Porn, the hand and the orgasm, all three at once. Men on the recovery forums write it as three letters, PMO.
+This is the strong dose. Porn, the hand and the orgasm, all three at once.
 
 Why is it the strong one? The finish isn't better. It is over in the same few seconds as any other. The screen adds only one thing. It never runs out.
 
@@ -14,7 +14,7 @@ Ask of this room what you ask of every room. What has it ever given me?
 
 Watch a man's face while he is in it. The screen lights his face, and his face shows nothing. Nobody looks like that at a thing he enjoys.
 
-Then count what he carries out. The strong dose doesn't feed the Little Monster any better. He is the size of a cat, and a crumb does him. It only costs more. It takes more hours and needs rougher material every year. Afterward comes the same flat ten minutes, staring at the same ceiling.
+Then count what he carries out. The strong dose doesn't feed the Little Monster any better. He is the size of a cat, and a crumb does him. It only costs more hours. It needs rougher material every year. Afterward comes the same flat ten minutes, staring at the same ceiling.
 
 ## The woman who says his name {-}
 
@@ -49,3 +49,5 @@ Plenty of men shut this door and settled for that. Then they heard a knock from 
 <!-- 2026-11-22 AT LEAST (James: 'What I really want is for ME to be convinced and not even want these things... I'm jerking off but at least not watching porn / I'm not jerking off but at least I'm with a real woman / I'm jerking off but it's only thinking about other woman, not doing anything about it... I still feel myself believing the lies'; 'each door must be sequentially shut'). The door no longer praises the man for leaving porn; it says who gains (the people on the screen) and names the first bargain in his words. -->
 
 <!-- 2026-11-22 LEAKS closed after a test reader who bargains as James does. The door no longer says 'if you do go in' or 'the No that counts comes at the end' (read as: tonight is research, tonight doesn't count). A door shuts by being seen through. -->
+
+<!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). 'It only costs more' made the hand the cheap option; PMO is defined once, in the map just before. -->

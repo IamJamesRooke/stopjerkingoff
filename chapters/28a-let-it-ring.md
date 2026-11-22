@@ -22,7 +22,7 @@ Only two things can make this hard: doubting and waiting. So never doubt the dec
 
 Ask what you're actually trying to achieve. It isn't simply "never to do any of it again". Plenty of men manage that and feel robbed until they die. Think instead about the man who has never had the habit. He isn't different from you because he resists. He doesn't want it. He has no craving, and he spends no willpower.
 
-That's what you're after, and it's within reach. You don't have to wait to become that man. You started being him when you said your No, and God finishes what he starts.
+That's what you're after, and it's within reach. You don't have to wait to become that man. You started being him when you said your No.
 
 You are already a free man.
 
@@ -57,3 +57,5 @@ Which person? And who else needs to know?
 <!-- 2026-11-20 (James: keep everything from the Bible as much as possible): Hydra wording replaced by the empty house and the five mouths. -->
 
 <!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): method H3: the tenant no longer telephones for life; the Little Monster starves, and what is left is the memory of a call. -->
+
+<!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). The narrator no longer speaks as a Christian. -->

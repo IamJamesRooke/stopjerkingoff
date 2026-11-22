@@ -34,9 +34,7 @@ One more thing keeps the lies standing. We never question them. We believe what 
 
 The world says the man who stops is missing out. So be clear about who is missing out. It isn't the man who stopped. It's the man who carries on. He hands over his energy, his time, his confidence and his peace of mind. And what does he get for it?
 
-Nothing.
-
-Nothing but a few minutes of the calm that the free man has all day long.
+A few good seconds. Then a few minutes of the calm that the free man has all day long.
 
 The phrase "giving up" is the lie in two words. It smuggles in a sacrifice. But there's nothing to give up. You'll be evicting a freeloader and gaining a great deal. So we'll drop that phrase here and now. In this book you don't "give up" the habit. You stop. You quit. Best of all, **YOU ESCAPE.**
 
@@ -47,3 +45,5 @@ So let's go through your day and find them.
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 04-the-worlds-lies.Rmd; the source notes for everything here are in that file. -->
 
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
+
+<!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'). Pleasure admitted. -->

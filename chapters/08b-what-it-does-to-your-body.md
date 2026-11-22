@@ -24,7 +24,7 @@ Let's keep this honest. Death grip isn't an official diagnosis. A study publishe
 
 Even the specialists who call masturbation harmless start the cure in the same place. They usually ask a man to stop for a while, and then to change the way he does it. This book asks you to stop for good. That is my conviction, not their prescription. If a sex therapist gives you exercises, that is treatment. Tell the therapist your convictions at the start. A good one will work within them.
 
-And the medical student? A little over a month after he stopped: "I had an orgasm during sex, for the first time in my life." For other men it has taken many months. Nobody can promise you a date. But the men who stop report that the body often recovers.
+And the medical student? A little over a month after he stopped: "I had an orgasm during sex, for the first time in my life." Leave aside whose bed that was. The point here is only that the body mends. For other men it has taken many months. Nobody can promise you a date. But the men who stop report that the body often recovers.
 
 The body can mend. So why has a list like this never once made you stop?
 
@@ -38,3 +38,5 @@ The body can mend. So why has a list like this never once made you stop?
 
 
 <!-- 2026-11-21 five-star pass (editor H2): structural cuts, moves and repairs from the outside review and the cold-listener report. Cut text is kept in the pass's parked-H2 file; source notes above still stand for anything cut. -->
+
+<!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'). Closes the reading 'quit the hand, get better hookups'. -->

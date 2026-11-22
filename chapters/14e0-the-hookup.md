@@ -22,6 +22,8 @@ She is real, and that is the trouble. The screen used a picture. The hand used a
 
 "But she wanted it too." Perhaps she did. Then ask where the two of you were going. If there was no future in it, neither of you gave anything. You were two addicts sharing a dose. Two people took a hit, and nobody was given a gift.
 
+The same holds for the girlfriend of two years he has no plan to marry. It is one long night.
+
 "But there might be a future with this one." A maybe is not a promise. If there is a future, it will still be there when the promise is made. Sleeping with her first doesn't help you find out. A man can't judge a woman while he is using her. And she pays tonight for something you may never deliver.
 
 ## Would you have kept her? {-}
@@ -30,9 +32,7 @@ Now try something. Suppose every night like that came with what sex was built to
 
 Would you still have gone home with her?
 
-Most men answer at once. "No. Not her." Then she was never someone you wanted. She was a plate.
-
-One question for any man, believer or not. Suppose you had lived by that rule: sex only with the woman you have promised to keep. Would you have made better decisions, or worse?
+Most men answer at once. "No. Not her." Then she was never someone you wanted. You wanted the hit.
 
 ## The lies that go with it {-}
 
@@ -40,7 +40,7 @@ One question for any man, believer or not. Suppose you had lived by that rule: s
 
 **"It's only a little fun. She knew what it was."** Then why did you have to tell yourself so? Using a person is still using her when she agrees to it. Paul's rule, in his first letter to the Christians in Thessalonica, is short: "that no one should take advantage of and wrong a brother or sister in this matter". You already knew that. That is why it never felt like fun the next morning.
 
-She has been lied to as well. She was told that sleeping with a man and expecting nothing from him is freedom. She was told that a pill makes it safe. She was told that if a child comes anyway, the child's life can be ended, as though that would cost her nothing. Nobody told her the price, and nobody asked what she was worth. If you were part of a choice like that, it is forgiven the same way as everything else in this book. The grief is real, and there is help for it.
+She has been lied to as well. She was told that sleeping with a man and expecting nothing from him is freedom. She was told that a pill makes it safe. She was told that if a child comes anyway, the child's life can be ended, as though that would cost her nothing. Nobody told her the price, and nobody asked what she was worth. If you were part of a choice like that, there is forgiveness for it, the same as for everything else in this book. The grief is real, and there is help for it.
 
 You don't have to take that from a church. In 2022 a British journalist named Louise Perry wrote a book about it. She had worked at a rape crisis center. She argued that the sexual revolution mostly served men who want sex without ties. One of her chapters is called "Consent Is Not Enough". Studies are mixed, and many people say they felt fine at the time. But the regret shows when researchers ask. A 2012 study questioned Canadian students who'd had sex with no commitment. About three in four said they had regretted it at some time. That was true of the men as well as the women.
 
@@ -61,3 +61,5 @@ Two men have gone further up this road than the rest.
 <!-- 2026-11-22 AT LEAST (James: 'What I really want is for ME to be convinced and not even want these things... I'm jerking off but at least not watching porn / I'm not jerking off but at least I'm with a real woman / I'm jerking off but it's only thinking about other woman, not doing anything about it... I still feel myself believing the lies'; 'each door must be sequentially shut'). The second bargain is quoted in James's words, with 'He hasn't stopped jerking off. He is doing it with her body, and she is a person.' -->
 
 <!-- 2026-11-22 LEAKS closed after a test reader who bargains as James does. Closes the exit in 'If there was no future in it' (a maybe is not a promise); removes 'Most men stop at going home with someone now and then', which read as normal. -->
+
+<!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). Covers the steady girlfriend with no plan to marry; 'She was a plate' cut (it came before the buffet picture and read as contempt); the line is no longer stated early. -->

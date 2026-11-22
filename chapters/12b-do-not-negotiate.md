@@ -27,7 +27,7 @@ You have a stalker of your own. De Becker's clients were famous people, the kind
 
 **The Little Monster is the stalker.** He is the caller who can't take no for an answer, and every urge is one more message from him.
 
-Every "just once" is you calling him back. It makes no difference that you only meant to quiet him. He thinks exactly as the stalker thinks. He doesn't think, "This man is finished with me." He thinks, "If I nag long enough, I get fed." Hold out for ten days and then give in, and you have taught him the price: ten days of nagging. Next time he will nag for eleven, quite cheerfully.
+Every "just once" is you calling him back. It makes no difference that you only meant to quiet him. He learns exactly as the stalker learns. He doesn't learn, "This man is finished with me." He learns, "If I nag long enough, I get fed." Hold out for ten days and then give in, and you have taught him the price: ten days of nagging. Next time he will nag for eleven, quite cheerfully.
 
 Her four instructions are yours, word for word.
 
@@ -57,3 +57,5 @@ So how does a caller like that ever get through?
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
 
 <!-- 2026-11-21 five-star pass (editor H2): structural cuts, moves and repairs from the outside review and the cold-listener report. Cut text is kept in the pass's parked-H2 file; source notes above still stand for anything cut. -->
+
+<!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). The Little Monster learns; he doesn't think in sentences. -->

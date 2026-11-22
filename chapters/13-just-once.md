@@ -20,7 +20,7 @@ Men say afterward that the habit "came back". Nothing came back. He picked up.
 
 And what does a man get for picking up?
 
-If the Little Monster is still alive, the man gets a few minutes of quiet. He also teaches the caller how many times to ring. If the Little Monster is long dead, he gets nothing at all. A free man has no itch to relieve. He gets ten flat minutes and feels like a fool.
+If the Little Monster is still alive, the man gets a few minutes of quiet. He also teaches the caller how many times to ring. If the Little Monster is long dead, there is no itch to relieve. He gets a few seconds, then ten flat minutes, and feels like a fool.
 
 What follows is always the same. The flatness lands, and it's so grim that the man is certain nothing this miserable could ever hook him again.
 
@@ -84,7 +84,7 @@ And look at what is crouching there. It isn't a dragon. It is a pipsqueak with a
 
 Don't open the door. James, one of the first leaders of the church, put it as a promise: "Be subject therefore to God. Resist the devil, and he will flee from you." To resist him is simply not to answer. He has nothing else.
 
-He does have one small trick. He points at another man and whispers, "Look at him. He has it under control."
+The lie has one more trick. It points at another man and says, "Look at him. He has it under control."
 
 <!-- SOURCES (Chapter 13): every quote below is from the research files; check each against its page before publishing.
 - "Within seconds after cumming, the phase shift in mental acuity that I felt was simply astounding." — r/NoFap, "decided to relapse on purpose to see if my…", http://www.reddit.com/r/NoFap/comments/1d3k4w/decided_to_relapse_on_purpose_to_see_if_my/ (via YBOP, https://www.yourbrainonporn.com/rebooting-porn-use-faqs/what-is-the-chaser/; Reddit original not opened. The book reads the "phase shift" as a change for the worse and assumes "a long break"; check the thread.)
@@ -167,3 +167,5 @@ He does have one small trick. He points at another man and whispers, "Look at hi
 <!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): pastor: 'and what he did next'. (The method check asked to cut this paragraph; it stays because James asked for it on 2026-11-20.) -->
 
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
+
+<!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). Pleasure not denied; the Little Monster no longer whispers (the lie speaks). -->

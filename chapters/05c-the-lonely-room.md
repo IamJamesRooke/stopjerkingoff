@@ -26,7 +26,7 @@ Loneliness is a hunger for people, and the habit feeds it a photograph.
 
 ## It's the occasion, not the habit {-}
 
-So here's the list: the bad day, the good day, the empty hour, the stuck page, the quiet evening, the sleepless night, the bad date, the lonely room. In every one of them the habit claimed to help. In every one it did no more than quiet, for a few minutes, a restlessness it had caused. Then it handed back your trouble with interest.
+So here's the list: the bad day, the good day, the empty hour and the stuck page. Then the quiet evening, the sleepless night, the bad date and the lonely room. In every one of them the habit claimed to help. In every one it did no more than quiet, for a few minutes, a restlessness it had caused. Then it handed back your trouble with interest.
 
 It was never the habit that made those moments bearable. The evening off, the warm shower and the clean bed are good in themselves, and the habit was a tax on them. Take away the need for it, and the good times get better and the hard times get easier.
 
@@ -39,3 +39,5 @@ Come to me, Jesus says, and I will give you rest. That's better than relief, and
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
 
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
+
+<!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). Long sentence split. -->

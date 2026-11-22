@@ -10,7 +10,9 @@ It is not a final session. There is no "one last time" in this book. Nobody sins
 
 If you had already stopped before you got here, good. Stay stopped, and take this step all the same. It says out loud what you have been doing.
 
-The final step is a decision, spoken out loud. For a believer it is a prayer, and for a man who doesn't pray there is a version right after it. Before you take it, ask yourself one thing. Does some part of you still believe lust has something to give you? If so, don't take the step yet. Name the thing you still think it gives you, and read that chapter again. There's no hurry and no shame in it.
+The final step is a decision, spoken out loud. For a believer it is a prayer, and for a man who doesn't pray there is a version right after it. Before you take it, ask yourself one thing. Does some part of you still believe lust has something to give you? If so, don't take the step yet.
+
+One thing doesn't count against you. The orgasm feels good for a few seconds, and nobody here says otherwise. Sugar tastes sweet to the man it is ruining. The question is whether those seconds are a benefit. Name the thing you still think it gives you, and read that chapter again. There's no hurry and no shame in it.
 
 You don't have to feel brave, and you don't need a clean record behind you. A man who has failed fifty times takes this step exactly like a man who has never tried.
 
@@ -48,7 +50,7 @@ Here is how.
 >
 > It never gave me anything. I am not giving anything up. I am being set free.
 >
-> Today I am finished with it. I am done with masturbation. I am done with porn. I am done with using a woman, or letting lust decide what I do about one. I will not feed lust with my eyes or my imagination. My answer is No, and I give it gladly.
+> Today I am finished with it. I am done with masturbation. I am done with porn. I am done with using a woman, and with any bed outside marriage. I will not feed lust with my eyes, my imagination or the chase. My answer is No, and I give it gladly.
 >
 > I can't keep this by my own strength, and I'm not going to try. Keep me. Make me a man who can be trusted, and make me fit for whatever you made me for. Then show me the man I am to go back for.
 >
@@ -62,9 +64,9 @@ Here is how.
 >
 > Lust has been making my decisions. It has cost me time, sleep, money and self-respect. I kept it secret, told myself it was nothing, and hid it from the people who love me. Where I have used anyone, on a screen or off it, that was wrong, and I am sorry.
 >
-> Today I am finished with it. I am done with masturbation. I am done with porn. I am done with using anyone, and with letting lust decide what I do. I will not feed it with my eyes or my imagination. My answer is No, and I give it gladly.
+> Today I am finished with it. I am done with masturbation. I am done with porn. I am done with using anyone, and with any bed outside marriage. I will not feed it with my eyes, my imagination or the chase. My answer is No, and I give it gladly.
 >
-> I won't do this by gritting my teeth. I'll do it by remembering what I now know: it gave me nothing.
+> I won't do this by gritting my teeth. I'll do it by remembering what I now know: a few good seconds, and no benefit at all.
 >
 > I will be a man who can be trusted, and fit for the people and the work that are mine. And I will go back for one man who is still where I was.
 >
@@ -118,3 +120,5 @@ Do it now.
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
 
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
+
+<!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). The spoken No now names the bed and the chase; 'it feels good' no longer blocks an honest reader at the last check. -->

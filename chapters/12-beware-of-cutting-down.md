@@ -16,7 +16,7 @@ One man tried such a deal for Lent, the forty days before Easter when many Chris
 
 A limit sounds like the grown-up option. It keeps plenty of men caught for life. Four things happen to the man who sets one.
 
-1. **He gets the worst of both worlds.** He's still feeding the Little Monster, so the itch never dies. He also thinks about the habit more than he ever did, so the Big Monster gets bigger as well.
+1. **He gets the worst of both worlds.** He's still feeding the Little Monster, so the itch never dies. He also thinks about the habit more than he ever did, so the lies get more to work with.
 2. **He wishes his life away.** Monday to Friday become a corridor he has to walk down. He's a grown man counting sleeps until Saturday.
 3. **He carries the itch all week.** Before the limit, he gave in when the urge came, and the restlessness at least eased for a while. Now he drags it through six days out of seven. He gets short with his wife and kids and can't think why.
 4. **Every time becomes "special".** Before, most times were automatic. He barely noticed them, and he certainly didn't treasure them. Now that he has waited six days, Saturday night feels like Christmas.
@@ -25,7 +25,7 @@ Look hard at number four, because the whole trick is in it. The relief was never
 
 With a limit, the habit is always on offer, because Saturday is always coming. The Little Monster never hears that the kitchen has closed. He just learns the opening hours, and he sits by the door all week.
 
-The hard part of stopping was never the flesh. It's the lie that the habit is a comfort or a reward. Cutting down only feeds that lie. A man living by a limit ends up convinced that the most precious thing in his week is five minutes on a Saturday night. He set out to make the habit smaller, and he has made it the center of his calendar.
+The hard part of stopping was never the flesh. It's the lie that the habit is a comfort or a reward. Cutting down only props up that lie. A man living by a limit ends up convinced that the most precious thing in his week is five minutes on a Saturday night. He set out to make the habit smaller, and he has made it the center of his calendar.
 
 ## Less is not less {-}
 
@@ -99,3 +99,5 @@ That leaves the smallest request of all: just once. The answer to it comes from 
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
 
 <!-- 2026-11-21 five-star pass (editor H2): structural cuts, moves and repairs from the outside review and the cold-listener report. Cut text is kept in the pass's parked-H2 file; source notes above still stand for anything cut. -->
+
+<!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). The Big Monster is never fed and doesn't grow. -->

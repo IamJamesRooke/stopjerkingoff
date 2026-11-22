@@ -20,7 +20,7 @@ The Little Monster doesn't care where his food comes from. Scraps keep him alive
 
 And the feed learns. Pause on one photo for two seconds and it brings you ten more tomorrow. It's a machine for finding your red line and parking you next to it.
 
-The woman on the screen is beautiful. Nobody denies it. If she were your wife, and in the room, she'd be a gift. But she isn't in the room. She's light on a piece of glass. Run the test. Gift or hit? There is nobody at the other end, so it is a hit.
+The woman on the screen is beautiful. Nobody denies it. If she were your wife, and in the room, she'd be a gift. But she isn't in the room. She's light on a piece of glass. Run the test. Gift or hit? Nothing is given and nobody is kept, so it is a hit.
 
 A furnace has a pilot light, a tiny flame that burns all day and uses almost no gas. Its only job is to make sure the main burner can fire the instant it's asked. That's what the scroll and the daydream are. The urge never comes out of nowhere. The pilot light has been on since breakfast.
 
@@ -38,9 +38,9 @@ So look once more at the man who quit porn and kept the feed. He is still standi
 
 AND HE CALLS IT BEING FREE!
 
-No pressure at this door either. If the feed has started to look like a plate of crumbs, put it down. Nobody is making you, and nobody is counting.
+Ask of this room what you asked of the others. Has the feed ever given you anything but the itch for the next swipe? If it hasn't, there is nothing in this room, and the door is shut.
 
-Take the phone away and the pest only shrugs. He has a film of his own. "Fine. No scroll. But what goes on in my own head is nobody's business. A thought isn't cheating."
+Take the phone away and the excuse only changes. There is a film in a man's own head. "Fine. No scroll. But what goes on in my own head is nobody's business. A thought isn't cheating."
 
 <!-- SOURCES (Chapter 15): every quote below is from the research files; check each against its page before publishing.
 - "sends the man back into the prison of himself, there to keep a harem of imaginary brides." / "this harem, once admitted, works against his ever getting out and really uniting with a real woman." / "The danger is that of coming to love the prison." — C.S. Lewis, letter to Keith Masson, 1956 (Collected Letters, vol. 3), fragments as quoted at https://www.pintswithjack.com/?p=341 and https://www.catholiceducation.org/en/marriage-and-family/sexuality/c-s-lewis-on-lust-women-and-masturbation.html (in copyright: three short fragments, do not extend; the first was also used in Chapter 5; the sentences between them are paraphrase from research/more-sources.md; the full letter was not read)
@@ -84,3 +84,5 @@ Take the phone away and the pest only shrugs. He has a film of his own. "Fine. N
 <!-- 2026-11-21 five-star pass (H3; cold-listener joins 5 and 6): the chapter is now the feed and the look only; the film in the head has the next chapter. The 'kept the feed ... AND HE CALLS IT BEING FREE!' lines moved here from 'Mothers, Sisters, Daughters'. A new title is proposed in the H3 report (ruling 16); the title is unchanged here. -->
 
 <!-- 2026-11-22 LADDER (James: go after each behavior in turn; PMO is the enhanced version, MO the mild version, 'the O is only for one person'; no pressure; name fornication; PMO to MO is progress because porn hurts others). Added the no-pressure door before the closing hook. Plan: /mnt/project-files/easy-peasy/ladder-plan-2026-11-22.md -->
+
+<!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). The door is shut by seeing, not 'nobody is making you'; the gift test fixed; the Little Monster no longer shrugs or owns a film. -->

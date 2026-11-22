@@ -2,7 +2,7 @@
 
 Some men find all this alarming. "So I'm hooked. That makes it worse." No. It's the best news you've had in years, for two reasons.
 
-**First:** the hook is the only reason you do it. We carry on because we think there's something in it for us. We know the costs are bigger than the gains. But we believe in the gains, and we picture a gap in our lives if the habit went. There is no gap. All you ever got was the Little Monster going quiet. The habit gives you nothing. It takes.
+**First:** the hook is the only reason you do it. We carry on because we think there's something in it for us. We know the costs are bigger than the gains. But we believe in the gains, and we picture a gap in our lives if the habit went. There is no gap. All you ever got was a few good seconds and the Little Monster going quiet. The habit gives you nothing. It takes.
 
 **Second:** you are not badly hooked. You never were. The Little Monster is tiny. The urge, by itself, is so faint that you've mistaken it for boredom for half your life.
 
@@ -12,9 +12,9 @@ Then why do so many men find stopping so hard, suffer for months, and still long
 
 Think of the week you spent at your in-laws, sleeping in the guest room with the thin walls. Think of the camping trip with your friends. Think of the conference where you shared a hotel room with a coworker. Think of basic training, where a soldier doesn't get a minute to himself for a month. Did you suffer? You hardly thought about it. You went days, and it cost you nothing.
 
-Then you got home, shut the bedroom door, and the Little Monster was up and shouting before you'd unpacked.
+Then you got home, shut the bedroom door, and the Little Monster was up and banging before you'd unpacked.
 
-So what changed? Your body didn't. It was the same body in the tent as in the bedroom. The cue came back, and the expectation came with it. He keeps quiet when he knows nothing is coming, and he wakes up the second it might be. What you felt wasn't need. It was expectation.
+So what changed? Your body didn't. It was the same body in the tent as in the bedroom. The cue came back, and the expectation came with it. He stays quiet when no meal can come, and he bangs the second one might. What you felt wasn't need. It was expectation.
 
 That means the flesh's part in the habit is easy to live with, even now, while you're still in it. It's why some men do it once every two weeks all their lives, and are every bit as caught as the daily man. It's also why a man can go a year clean, have "just one", and be back on the old path within the week.
 
@@ -32,6 +32,12 @@ In his letter to the Romans he does say to put sin to death. But notice how he s
 
 Back in Galatians, a few verses on, he lists what grows in a man who walks by the Spirit. The last item on the list is self-control. He calls it a fruit, and fruit grows on a tree. Nobody ever got an apple by clenching his teeth.
 
+So the flesh is the small part. The big part is what you were told.
+
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 03-the-flesh.Rmd; the source notes for everything here are in that file. -->
 
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
+
+<!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'). Pleasure admitted; the Little Monster only bangs (he no longer shouts or knows). -->
+
+<!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). New last line pulls into the lies. -->

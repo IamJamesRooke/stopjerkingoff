@@ -36,7 +36,7 @@ Men say masturbation is "satisfying". But a man can't be satisfied unless he was
 
 ## A pleasure or a crutch? {-}
 
-Everything turns on one point. Men find it hard to stop because they believe they'd be giving up a real pleasure or a real support. You are giving up nothing at all.
+Everything turns on one point. Men find it hard to stop because they believe they'd be giving up a pleasure worth having or a real support. You are giving up nothing at all.
 
 The best way to see that is to compare the habit with eating, because eating is its disguise.
 
@@ -47,7 +47,7 @@ The habit looks just the same. There's an empty feeling, you act, and you get re
 In fact the two are opposites.
 
 - **Food feeds you. This drains you.** You get up from a meal with more than you sat down with. You get up from this with less.
-- **Food is good, and stays good.** You'll enjoy Sunday dinner at eighty. Whatever this once was, it stopped being a treat years ago. It's a chore you do with one eye on the door.
+- **Food is good, and stays good.** You'll enjoy Sunday dinner at eighty. The ending still feels good for a few seconds. Everything around it became a chore years ago.
 - **Eating doesn't create hunger. It ends it.** The habit creates its own itch. Far from ending it, each time guarantees the next.
 
 "But isn't sex a God-given appetite too?" It is. And that is the point. Sex with your wife is the meal. The habit is licking the photograph on the menu. It was never what the hunger was for. Sex is the one appetite a man was given in order to give it away. The habit turns it into something he keeps for himself. A husband who'd carried the hand into his marriage came to see it plainly:
@@ -69,3 +69,5 @@ One objection is still standing, and it is the honest one.
 <!-- 2026-11-21 room-by-room reorder (James approved: nothing arrives before the reader needs it; the rooms come in the order a man retreats through them). Before and after: editorial/ROOM-ORDER-2026-11-21.md. -->
 
 <!-- 2026-11-22: the lead-up paragraphs moved to the new chapter But It Feels Good, which now follows; this chapter ends on that objection. 'What a man calls the pleasure is only...' is now 'Most of what a man calls the pleasure...' (James: the orgasm is real). -->
+
+<!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'). Two sentences no longer deny that it feels good. -->

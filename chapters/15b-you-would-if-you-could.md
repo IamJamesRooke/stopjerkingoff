@@ -86,7 +86,7 @@ That doesn't mean "try not to think about it". You've tried that, and you know i
 
 The bird is the first thought. It comes by itself, and it is no sin and no failure. The nest is what a man builds out of it afterward.
 
-Watch a nest being built. A man is at the gym, and a woman walks past. He thinks, "She's attractive." That is the bird, and so far nothing has happened. Then he plays it forward in his head. Then he tells himself, "Nobody's hurt. It's only a thought." And tonight, when he is alone, he will feel that he is making a choice. He isn't. The choice was made at the gym, when he let the bird stay.
+Watch a nest being built. A man is at the gym, and a woman walks past. He thinks, "She's attractive." That is the bird, and so far nothing has happened. Then he plays it forward in his head. Then he tells himself, "Nobody's hurt. It's only a thought." And tonight, when he is alone, the choice will feel sudden. It isn't. He made most of it at the gym, when he let the bird stay.
 
 So the place to act is the beginning, where it costs almost nothing. One man who had broken the habit wrote, "The easiest thought for me to say, 'No' to, is the first one. And if I don't entertain the thought, I'm not going to do it." He isn't fighting the thought. He simply doesn't invite it in.
 
@@ -109,3 +109,5 @@ That deals with the women who aren't there. The next excuse is about the ones wh
 <!-- 2026-11-22 AT LEAST (James: 'What I really want is for ME to be convinced and not even want these things... I'm jerking off but at least not watching porn / I'm not jerking off but at least I'm with a real woman / I'm jerking off but it's only thinking about other woman, not doing anything about it... I still feel myself believing the lies'; 'each door must be sequentially shut'). The third bargain is quoted in James's words at the top of the chapter, with its answer. -->
 
 <!-- 2026-11-22 LEAKS closed after a test reader who bargains as James does. The chapter's blows all needed a wife or girlfriend; the single man now gets his own paragraphs. -->
+
+<!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). 'He isn't making a choice' read as 'tonight isn't my choice'. -->

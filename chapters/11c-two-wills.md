@@ -18,7 +18,7 @@ If you're not a believer, part of this holds without the theology. The war betwe
 
 ## Enjoyment never came into it {-}
 
-Enjoyment has nothing to do with the habit, and it never did. We only assume we enjoy it because the alternative is too insulting to consider. The alternative is twenty years spent on something that gives us nothing. That's why most of it happens half-asleep, on autopilot, in the dark. A man at this habit is only content while he isn't thinking about what he's doing.
+The few seconds at the end feel good, and they are not why a man keeps the habit. He keeps it to stop the banging. We call the whole thing enjoyment because the alternative is too insulting to consider. The alternative is twenty years spent on something that gives us nothing. That's why most of it happens half-asleep, on autopilot, in the dark. A man at this habit is only content while he isn't thinking about what he's doing.
 
 The Willpower Method gets self-control wrong. It thinks self-control means holding a door shut for life, with something heavy leaning on the other side. That isn't self-control. It's a siege, and sooner or later the man inside gets tired. A soldier who spends every watch wrestling the bottle isn't fit for duty.
 
@@ -37,3 +37,5 @@ Some men hear all this and choose what sounds like the sensible middle road. It 
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
 
 <!-- 2026-11-21 five-star pass (editor H2): structural cuts, moves and repairs from the outside review and the cold-listener report. Cut text is kept in the pass's parked-H2 file; source notes above still stand for anything cut. -->
+
+<!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). No longer denies the pleasure. -->

@@ -44,7 +44,7 @@ None of this is said to shame you. It is what the habit has been taking, a littl
 
 ### Your focus {-}
 
-C.S. Lewis put it in three words: "indulgence brings fog". Part of the fog is simple tiredness. A bigger part is that the habit takes up room in your head. A corner of your mind is always either planning the next time or regretting the last. You have already heard one man call getting free "coming out from a fog". He hadn't known he was in it until it lifted. Nobody does.
+C.S. Lewis put it in three words: "indulgence brings fog". Part of the fog is simple tiredness. A bigger part is that the habit takes up room in your head. A corner of your mind is always either planning the next time or regretting the last. One man who stopped wrote, "I feel like coming out from a fog that has been around me all this time." He hadn't known he was in it until it lifted. Nobody does.
 
 ### Your confidence {-}
 
@@ -74,9 +74,9 @@ You skip the prayer because of what you did an hour ago. You sit at the back and
 
 ### Your marriage {-}
 
-This means the marriage you have, or the one you hope to have.
+This means the marriage you have, or the one you hope to have. If you expect neither, read it anyway. It shows what the habit does to a man's power to love anyone.
 
-Desire is meant to drive a man out of himself and toward a real woman. She has her own mind and her right to say no. The habit turns him around and hands him women in his head. They never have a headache, never need listening to and never ask anything of him. And a man can come to prefer it that way.
+Desire is meant to drive a man out of himself and toward one woman. She has her own mind and her right to say no. The habit turns him around and hands him women in his head. They never have a headache, never need listening to and never ask anything of him. And a man can come to prefer it that way.
 
 So the husband lies a foot from his wife and a hundred miles away. She can't name what's wrong, but she can feel that some part of him is being spent elsewhere. Sometimes his body gives him away. "I knew there was a serious problem", wrote a man on a sobriety forum, "when I was losing my erection sometimes when I was with my wife". And he can't tell her, so there's now a locked room in the marriage.
 
@@ -149,3 +149,7 @@ And then there is the body. Men whisper about this part, and almost nobody tells
 
 
 <!-- 2026-11-21 five-star pass (editor H2): structural cuts, moves and repairs from the outside review and the cold-listener report. Cut text is kept in the pass's parked-H2 file; source notes above still stand for anything cut. -->
+
+<!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'). 'A real woman' is now 'one woman'; a line for the man who may never marry. -->
+
+<!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). The quote is no longer in the Introduction, so it is given in full here (same source as before). -->

@@ -16,7 +16,7 @@ Think about how people talk about things they really enjoy. A serious fisherman 
 
 Suppose a friend said to you, "I can go two whole weeks without toast, and it doesn't bother me in the slightest." You'd wonder what was wrong with him. If he likes toast, why go without? If he doesn't, why mention it? A man only makes a speech like that about something that has a hold on him. What the two-week man is really telling you is, "I survived two weeks." And if two weeks was a feat of survival, imagine how precious the next time must have been.
 
-That's why the man who masturbates rarely is, in one way, more firmly caught than the man who does it daily. The illusion of pleasure is bigger for him, because he's always coming off a long wait. He also has less reason to get out. It costs him less time, and the damage is harder to see. Things do go wrong: a flat mood, a wandering mind in bed with his wife, a coldness when he tries to pray. He blames them on work or tiredness or his age.
+That's why the man who masturbates rarely is, in one way, more firmly caught than the man who does it daily. The relief looks bigger to him, because he's always coming off a long wait. He also has less reason to get out. It costs him less time, and the damage is harder to see. Things do go wrong: a flat mood, a wandering mind in bed with his wife, a coldness when he tries to pray. He blames them on work or tiredness or his age.
 
 So a man in the trap makes two mistakes about other men. He envies the one who seems to do it less, and he looks down on the one who does more. "At least I'm not him." Both mistakes rest on one belief, that these are different kinds of men. They aren't.
 
@@ -70,7 +70,7 @@ Every one of these men is feeding the same small monster. And every "at least" i
 
 Remember the warning about the Little Monster. Shut one room on him and he doesn't leave. He moves down the hall. So follow him, one door at a time.
 
-The rooms come in order of strength. First is porn, the hand and the orgasm together. Men on the recovery forums write it as three letters, PMO. That is the strong dose. Next is the hand and the orgasm with no screen, which they write MO. That is the weaker dose, and it holds a man just as well. After that comes the wanting of the orgasm itself. It goes looking in a feed, in a daydream, and at last in a woman's bed.
+The rooms come in order of strength. First is porn, the hand and the orgasm together. Men on the recovery forums write it as three letters, PMO. That is the strong dose. Next is the hand and the orgasm with no screen, which they write MO. Men call that the weaker dose. It holds a man just as well. After that comes the wanting of the orgasm itself. It goes looking in a feed, in a daydream, and at last in a woman's bed.
 
 It is one hit at three strengths. Where the orgasm does belong is the last question on the walk.
 
@@ -127,3 +127,5 @@ Start with the strong dose.
 <!-- 2026-11-22 AT LEAST (James: 'What I really want is for ME to be convinced and not even want these things... I'm jerking off but at least not watching porn / I'm not jerking off but at least I'm with a real woman / I'm jerking off but it's only thinking about other woman, not doing anything about it... I still feel myself believing the lies'; 'each door must be sequentially shut'). The map now says the doors shut in order, and that a door shuts by being seen through. -->
 
 <!-- 2026-11-22 LEAKS closed after a test reader who bargains as James does. 'Mild dose' was usable as permission. -->
+
+<!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). 'Illusion of pleasure' is now 'relief'; 'weaker' is what men call it. -->

@@ -8,13 +8,13 @@ There's a man you may recognize. He is not a collector, and he has never paid fo
 
 One afternoon she sends him a photograph meant for his eyes alone. He does with it what he has done with a thousand other pictures. Afterward he asks himself an honest question. Was that lust? She's the woman I am going to spend my life with.
 
-His "at least" is the best one in this book. At least it's her.
+His "at least" is the best one in this book. At least I love her.
 
 So take it seriously, and look at what happened. She sent him something of herself. He took it into a room alone, used it for ten minutes, and felt flat afterward. It was the old habit with her face on it. For those ten minutes the woman he loves was material.
 
 That is the trouble with lust. It doesn't care who she is. It will use a stranger or your future wife, and it uses them the same way.
 
-The photograph is half of it. The other half is the bed. The old word for sex outside marriage is fornication, and the word doesn't ask whether he loves her. It asks whether he has married her. "We're as good as married", he says. Listen to the words. Everything that makes a marriage is in the part he hasn't done yet. That part is the promise, said aloud in front of witnesses, with the door closed behind him. If they truly are as good as married, the wedding is good news, and it can be small and soon. And if there is a reason he can't marry her yet, he already knows the two are not the same.
+The photograph is half of it. The other half is the bed. You know the old word, fornication. It doesn't ask whether he loves her. It asks whether he has married her. "We're as good as married", he says. Listen to the words. Everything that makes a marriage is in the part he hasn't done yet. That part is the promise, said aloud in front of witnesses, with the door closed behind him. If they truly are as good as married, the wedding is good news, and it can be small and soon. And if there is a reason he can't marry her yet, he already knows the two are not the same.
 
 Perhaps you say the promise is already made, in private, and a wedding adds nothing. Then ask what the private promise leaves open. It leaves a way out that costs you nothing and needs nobody's leave. She knows that door is there, and so do you. A promise said in front of witnesses shuts it. If you would shut it gladly, shut it. If you wouldn't, you have your answer.
 
@@ -40,7 +40,7 @@ But you can't settle this one alone in your head, because she is in it. So talk 
 
 After that, the two of you have real choices. You can bring the wedding forward. Plenty of couples have married within a month, with ten guests. Or you can keep the bed for the wedding from here on. That isn't simple under one roof, so some men move out for the months between. If she doesn't share your conviction, listen to her. Don't preach, and don't make her the problem. The line doesn't move. How the two of you get behind it is yours to work out together.
 
-Only one choice is closed. Don't tell yourself you'll sort it out later and go on as before. "Later" is the Little Monster's favorite word.
+Only one choice is closed. Don't tell yourself you'll sort it out later and go on as before. "Later" is the oldest lie in the house.
 
 That is every room in the house. One more thing has kept the Little Monster alive in all of them for years, and it isn't desire. It is a locked door.
 
@@ -59,3 +59,5 @@ That is every room in the house. One more thing has kept the Little Monster aliv
 <!-- 2026-11-22 LADDER (James: go after each behavior in turn; PMO is the enhanced version, MO the mild version, 'the O is only for one person'; no pressure; name fornication; PMO to MO is progress because porn hurts others). Fornication is named once, in the bed paragraph. No 'no pressure' door here: another person is involved, and the chapter already sets out the choices. Plan: /mnt/project-files/easy-peasy/ladder-plan-2026-11-22.md -->
 
 <!-- 2026-11-22 LEAKS closed after a test reader who bargains as James does. Closes 'a committed couple with a private promise passes every test; why witnesses?' and 'people divorce anyway'. -->
+
+<!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). The Little Monster has no words; the excuse matches Where the Line Is; fornication is not defined twice. -->

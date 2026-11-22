@@ -38,7 +38,7 @@ The people who defend masturbation have two fair points, and I'll grant them bot
 
 First, the Bible never mentions masturbation by name. If you were hoping for a verse that says "you shall not", there isn't one, and this book won't pretend there is. But Jesus didn't need to name the act, because he went behind it. In Matthew 5:28 he put the sin in the look and in the heart, and that is where masturbation lives. Ask yourself how often it has happened without lust, and you have your answer. The Catholic Church goes further. It teaches that the act is wrong in itself, because sex was made to join a husband and wife. Many Protestant pastors reach the same place through Jesus's words about the look.
 
-Second, the numbers, and here I have to borrow from porn, because porn is what gets studied. In one 2017 study of adults who watch porn, nearly nine in ten were not compulsive in the sense a clinic uses. About one in eight used porn little and still felt great distress over it. If that is you, your trouble may be the war more than the habit, and this book means to end the war. So this book doesn't call every man with the habit a clinical addict. Its judgment is moral and spiritual, not medical, and most doctors would not make it. It rests on what Jesus said about lust, and on what men say the habit has cost them. Besides, you didn't pick up a book with this title because you were fine.
+Second, the numbers, and here I have to borrow from porn, because porn is what gets studied. In one 2017 study of adults who watch porn, nearly nine in ten were not compulsive in the sense a clinic uses. About one in eight used porn little and still felt great distress over it. If that is you, the war has hurt you as much as the habit. This book means to end both. So this book doesn't call every man with the habit a clinical addict. Its judgment is moral and spiritual, not medical, and most doctors would not make it. It rests on what Jesus said about lust, and on what men say the habit has cost them. Besides, you didn't pick up a book with this title because you were fine.
 
 Those are the lies about the hand. The lies about porn are worse, because somebody else pays for them.
 
@@ -89,3 +89,5 @@ Those are the lies about the hand. The lies about porn are worse, because somebo
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Some sections of this chapter moved to the chapters that follow it; their source notes stay listed here. -->
 
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
+
+<!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'). Closed the reading 'my habit is fine, only my guilt is the problem'. -->

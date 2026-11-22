@@ -52,7 +52,7 @@ Then ask which part of you is speaking. A twinge is not a wish. The Little Monst
 
 Why? Nobody asked you to. The faint itch in the background is nothing new. You've had it for years, every hour you weren't feeding it. You had it at work, at your mother's table and all night while you slept, and it never spoiled a meal. If you hadn't stopped, you'd have carried it to the grave.
 
-The habit never added to a single occasion. It took from them. So go to the party and the wedding and the beach. Stay late and enjoy your dinner. Don't envy the smooth talker across the room with his three phone numbers. If he goes home alone to what you've left behind, he'd change places with you. You're not the one going without.
+The habit never added to a single occasion. It took from them. So go to the party and the wedding and the beach. Stay late and enjoy your dinner. Don't envy the smooth talker across the room with his three phone numbers. Whether he goes home alone or with one of them, he is still feeding what you put out. You're not the one going without.
 
 **"I'm miserable and irritable."**
 
@@ -70,7 +70,7 @@ If you're not a believer, the test in your pocket gives the same answer. A gift,
 
 **"I'm single."**
 
-Then keep it for marriage. What you keep isn't lost. It is saved for her. Don't go looking for somebody to use in place of your hand. That is the same lust with another person in it.
+Then keep it for marriage. What you keep isn't lost. It is saved for her. And if she never comes, you have gone without nothing but an itch. The man who never does it isn't starving. Don't go looking for somebody to use in place of your hand. That is the same lust with another person in it.
 
 **"I've already lived the other way."**
 
@@ -119,3 +119,5 @@ That leaves the question nobody likes to ask out loud. What if you fall?
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
 
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
+
+<!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). No longer makes the man who goes home with a woman the winner; answers 'I may never marry'. -->

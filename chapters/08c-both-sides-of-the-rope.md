@@ -4,7 +4,7 @@ Why has no list of costs ever made you stop? Because we picture the wrong fight.
 
 We picture a tug-of-war. One team is fear: "It's a sin, it's draining me, I hate the secrecy." The other team, we think, is pleasure: "It's my comfort and my release, the one thing that's mine."
 
-Look at that second team again. It is fear too. You don't enjoy the habit so much as feel uneasy without it. The man who never started feels no such unease, any more than you miss a drug you've never taken. The habit doesn't soothe that unease. It manufactures it.
+Look at that second team again. A few seconds of it is pleasure. The rest is fear too. You don't enjoy the habit so much as feel uneasy without it. The man who never started feels no such unease, any more than you miss a drug you've never taken. The habit doesn't soothe that unease. It manufactures it.
 
 That is why the list never worked. It frightens you. A frightened man reaches for his comfort, and you know what yours is. So instead of stopping, men build excuses. Here are the two favorites.
 
@@ -39,3 +39,5 @@ So much for how the habit makes you feel. There is also what it makes you worth 
 <!-- 2026-11-21 room-by-room reorder (James approved: nothing arrives before the reader needs it; the rooms come in the order a man retreats through them). Before and after: editorial/ROOM-ORDER-2026-11-21.md. -->
 
 <!-- 2026-11-21 five-star pass (editor H2): structural cuts, moves and repairs from the outside review and the cold-listener report. Cut text is kept in the pass's parked-H2 file; source notes above still stand for anything cut. -->
+
+<!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'). Pleasure admitted. -->

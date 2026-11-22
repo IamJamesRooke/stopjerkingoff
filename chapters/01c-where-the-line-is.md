@@ -46,6 +46,8 @@ Look at what each of them does. It shuts some rooms and keeps one ready. You kno
 
 Only one line keeps no room for the hit. That isn't a religious claim. Count the rooms.
 
+One question for any man, believer or not. Suppose you had lived by that rule: sex only with the woman you have promised to keep. Would you have made better decisions, or worse?
+
 Marriage is not one more room, with a license on the door. Inside the promise the same test still runs. Sex there is a gift, or it is the old using, and a ring doesn't change which.
 
 Then test the lines the way you would test a bridge. Put weight on them.
@@ -58,7 +60,7 @@ Then test the lines the way you would test a bridge. Put weight on them.
 
 **Where does the desire go?** On every easier line it is spent, on a screen or a tissue or a stranger. Inside the promise the same force builds a bond, a home and perhaps children. One line burns it. The other puts it to work.
 
-You may be single, past forty, and unsure you will ever marry. Then the line seems to offer you nothing but going without. Look at what you would be going without. It is relief from an itch that the last time made. Nothing was ever owed to you nightly. The man who never does it isn't starving. He feels all day what you feel for ten minutes.
+You may be single, past forty, and unsure you will ever marry. Then the line seems to offer you nothing but going without. Look at what you would be going without. With the hand, it is a few seconds and relief from an itch the last time made. With a woman you won't keep, it is the same hit, and she pays for it too. Neither one was company. Neither one stayed. Nothing was ever owed to you nightly. The man who never does it isn't starving. He feels all day what you feel for ten minutes.
 
 And ask what the habit did with your desire all those years. That force is meant to send a man out looking for a wife. Yours was paid off every night, at home, for nothing. Left unpaid, it goes back to its work.
 
@@ -70,7 +72,7 @@ So the old line is not the strict one among many good ones. It is the only one t
 
 If you have spent years on the wrong side of the line, so has nearly every man who ever lived. That includes the one writing this. This chapter isn't a verdict on you. It's a map, and you can't leave a place until you know where its edge is.
 
-And don't try to drag yourself across the line tonight by force. That is sweeping the house again. A man crosses it when nothing on the wrong side is worth having. The one exception is another person. If someone else is in it, you are making a choice about her, and you can stop making it today.
+And don't try to drag yourself across the line tonight by force. That is sweeping the house again. Nobody is telling you to sin. If you have already stopped, stay stopped. A man crosses it when nothing on the wrong side is worth having. The one exception is another person. If someone else is in it, you are making a choice about her, and you can stop making it today.
 
 So that is the line. The last room is the hardest in the house. The man in it isn't using a stranger. He has found the right woman, and he means to keep her. The best excuse in the house has been saved for him.
 
@@ -92,3 +94,5 @@ SOURCES: Epigraph and body quotation: Proverbs 5:15 (WEB, checked 2026-11-20). "
 <!-- 2026-11-22 AT LEAST (James: 'What I really want is for ME to be convinced and not even want these things... I'm jerking off but at least not watching porn / I'm not jerking off but at least I'm with a real woman / I'm jerking off but it's only thinking about other woman, not doing anything about it... I still feel myself believing the lies'; 'each door must be sequentially shut'). New section 'Why not an easier line?': the case for the biblical line on its merits for any reader (every easier line keeps a room ready; four tests: who gets used, what has to be hidden, would you hand it on, where does the desire go). The narrator says he is not speaking from a pulpit. -->
 
 <!-- 2026-11-22 LEAKS closed after a test reader who bargains as James does. Closes: 'count the rooms proves abstinence, not marriage' and 'nobody is used' overclaim (marriage is not a licensed room; the test still runs); the single man past forty who may never marry; 'three thousand years is age, not argument'; 'for now it's enough to know' (read as permission). 'Desire was God's idea' no longer asserts God to an unconvinced reader. -->
+
+<!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). The single man's answer now covers the bed as well as the hand; the 'one question for any man' paragraph moved here from The Hookup, where it stated the line early. -->

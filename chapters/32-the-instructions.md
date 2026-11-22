@@ -5,11 +5,11 @@ Here is the whole method, to carry with you. It fits in two words: decide and re
 1. Be glad. You've been let out, so don't mope.
 2. Ignore advice to count days, cut down or "moderate". Never ignore your doctor, your counselor or your pastor.
 3. Refuse every stopgap and every substitute.
-4. Get it straight: lust gives you no pleasure and no support. You are giving up nothing.
+4. Get it straight: the few seconds feel good, and you pay for them before and after. Lust has no benefits at all. You are giving up nothing.
 5. Don't wait for a better day. You stopped at the final step. Stay stopped.
 6. You said your plain No, once and outright. Give no reason, don't soften it, and never answer again.
 7. "Just once" does not exist.
-8. Never go back. Not to the porn, the fantasy or the hand, and not to the chase or any bed outside marriage.
+8. Never go back. Not to the porn, the hand, the feed or the fantasy, and not to the chase or any bed outside marriage.
 9. Stay close to God. Pray, read the Bible, and find a church. You aren't guarding a door. You're getting to know the one who opened it. If you're not a believer, stay close to the people who make you want to be this man.
 10. You are fit for service now. Go back for one man, and hand him this book.
 
@@ -50,3 +50,5 @@ Those are the rules. All that's left is to send you off.
 <!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): pastor M5. -->
 
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
+
+<!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). The rule no longer denies the pleasure; every room is named. -->

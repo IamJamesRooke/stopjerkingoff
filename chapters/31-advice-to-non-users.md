@@ -4,7 +4,7 @@
 >
 > — Ecclesiastes 4:9-10
 
-The book is finished. The man it was written for has his blessing and is on his way. These pages are not for him. They are for the people standing beside him: his wife, his parents, his pastor, his friends. If that's you, and you've come straight here, welcome. Wives come first.
+The book is finished. The man it was written for has his blessing and is on his way. These pages are not for him. They are for the people standing beside him: his wife or the woman he is seeing, his parents, his pastor, his friends. If that's you, and you've come straight here, welcome. Wives come first.
 
 If you are the man himself, you may read over their shoulders. It shows you how the habit looks from the outside.
 
@@ -38,7 +38,7 @@ He knows.
 
 He has known for years, and he has preached himself that sermon more harshly than you ever could.
 
-One thing is hard to grasp from outside. He doesn't keep doing it because he likes it, whatever he says. He does it because he believes he can't manage without it. He thinks it calms him down, sends him to sleep and gets him through bad days. Underneath sits a deeper dread: that life without it would be gray.
+One thing is hard to grasp from outside. He doesn't keep doing it for the few seconds that feel good, whatever he says. He does it because he believes he can't manage without it. He thinks it calms him down, sends him to sleep and gets him through bad days. Underneath sits a deeper dread: that life without it would be gray.
 
 Corner him and you get a cornered animal. Demand that he stop and he'll want it more. He'll also hide it better, and a hidden habit grows more precious.
 
@@ -126,3 +126,5 @@ Now and then you'll get a blank look or a laugh. More often than you'd think, yo
 <!-- 2026-11-20 review batch (James: 'Okay, do it'; editorial/METHOD-CHECK-2.md, PASTOR-REVIEW-2.md, READER-REPORT-3.md): pastor M3: 'never a debt' contradicted 1 Corinthians 7:3. -->
 
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
+
+<!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). Girlfriend named; pleasure not denied. -->

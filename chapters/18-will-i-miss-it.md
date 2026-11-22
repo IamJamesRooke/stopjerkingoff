@@ -4,6 +4,8 @@ No.
 
 The Little Monster starves, and the path the habit wore across your evenings grows over. The last scraps of the old lies go with them. You'll handle a hard day better than you do now. And the good days will be properly good, because you'll be there for the whole of them, with nothing to hide when you get home.
 
+Be straight about the one thing you might miss. The orgasm feels good. For a few seconds it is real pleasure. But most of that good feeling is the banging stopping, and the habit made the banging. The rest is sugar. It is sweet for a moment, and you pay before and after. A man who quits sugar doesn't miss the crash.
+
 Paul once put a question to the Christians in Rome about their old life: "What fruit then did you have at that time in the things of which you are now ashamed?" He didn't ask what they'd lost. He asked what they ever got. Go on, answer it. What fruit?
 
 ## The sell looks cheap {-}
@@ -18,7 +20,7 @@ The world never stops telling a free man that he's the odd one. Sitcoms treat th
 
 It is a strange thought. Every man who never picked the habit up is glad he didn't. Every man who still has it wishes he'd never begun, and he'll tell you so after a couple of honest questions. Not one of them recommends it to his son. So who exactly are you envying?
 
-It makes no difference which room you look in. The man with the porn, the man with the hand and the man with a new woman every month are the same man, and he isn't satisfied.
+It makes no difference which room you look in. The man with the porn, the man with the hand and the man with a new woman every month are one man. He isn't satisfied.
 
 He doesn't approve of himself either. If he knew you'd walked out, HE WOULD ENVY YOU.
 
@@ -58,3 +60,5 @@ One idea still lets a man stay where he is. It says he can keep the Little Monst
 <!-- 2026-11-20 whole-book pass (James: humor that shows how ridiculous the thing is; trim about 5%, cutting redundancy and keeping intended repetition). -->
 
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
+
+<!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). Answers 'but it feels good' where the reader asks whether he will miss it. -->

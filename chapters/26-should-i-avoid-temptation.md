@@ -12,7 +12,7 @@ First, the thing behind the question. What keeps a man in the trap is fear of li
 
 This is the panic. It comes when the evening stretches ahead with nobody in it. It is not a withdrawal pang. It's strongest just before you stop, when your body is asking for nothing at all. It is plain fear of the unknown, the same thing a boy feels on his first diving board.
 
-The board is two feet above the water, and from up there it looks like twenty. The pool is ten feet deep and looks like a puddle. Every instinct tells him he's about to crack his skull. Stepping off takes real nerve. The rest is easy, and he comes up laughing.
+The board is two feet above the water, and from up there it looks like twenty. The pool is ten feet deep and looks like a puddle. Every instinct tells him he's about to crack his skull. Stepping off takes one second. The rest is easy, and he comes up laughing.
 
 Paul says the spirit God gives is not one of fear. Believer or not, the water's deep enough, and plenty of men have jumped before you.
 
@@ -49,7 +49,7 @@ There are two opposite mistakes.
 
 Common sense says to avoid unnecessary stimulation. The word to notice is *unnecessary*. Christians have an old phrase for this: avoid the near occasion of sin. It means don't stand where you know you'll fall. That's not fear. It's sense.
 
-None of this is a gimmick or a vow, and none of it has to wait for the last page. It is only the stupid thing avoided. Charge the phone in the kitchen. You're not in danger. Bed is just a stupid place for a phone at midnight, whatever you look at. Unfollow the accounts you followed for one reason. Cancel the subscriptions. Delete the folder.
+None of this is a gimmick or a vow, and none of it has to wait for the last page. It is only the stupid thing avoided. Charge the phone in the kitchen. You're not in danger. Bed is just a stupid place for a phone at midnight, whatever you look at. Unfollow the accounts you followed for one reason. Cancel the subscriptions. Delete the folder. Delete the numbers you kept for one reason.
 
 One man who was bound by the habit for years goes further, if your circumstances need it: "If it means you got to get a roommate, get a roommate." If you're married and your wife asks for an open phone or a filter, give it gladly. That is honesty, not a fortress. Beyond that, you don't need to rearrange your life.
 
@@ -91,3 +91,5 @@ And one day you will simply know that he is.
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
 
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
+
+<!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). Every room named; no longer says it takes nerve. -->

@@ -22,7 +22,7 @@ A man on the NoFap forum, a hundred days out, noticed that the women around him 
 
 The same terms hold at this door. Nobody can vow his way out of a thought, and nobody is asking you to. Let the bird fly over, and see how the day goes.
 
-So far your uninvited guest has mostly watched. Now he does something new. He borrows your feet, and walks out into company. "I'm only being friendly."
+So far the wanting has mostly watched. Now it does something new. It borrows your feet, and walks out into company. "At least I'm talking to real women."
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 15-fantasy-and-the-thought-life.Rmd; the source notes for everything here are in that file. -->
 
@@ -39,3 +39,5 @@ So far your uninvited guest has mostly watched. Now he does something new. He bo
 <!-- 2026-11-21 five-star pass (H3; review item B4, cold-listener joins 1 and 6): chapter tightened to its title idea plus 'Seeing people again'. 'The app' (now 'The man who swipes') and 'The one girl' moved to 14b-the-man-led-by-a-woman.md; 'The pictures' moved, shortened, to 14f-but-im-going-to-marry-her.md; the 'kept the feed ... AND HE CALLS IT BEING FREE!' lines moved to the end of 15-fantasy-and-the-thought-life.md. Source notes for all of it stay in 15-fantasy-and-the-thought-life.md. Cut text is in the scratchpad file parked-H3.md. -->
 
 <!-- 2026-11-22 LADDER (James: go after each behavior in turn; PMO is the enhanced version, MO the mild version, 'the O is only for one person'; no pressure; name fornication; PMO to MO is progress because porn hurts others). Added the no-pressure door before the closing hook. Plan: /mnt/project-files/easy-peasy/ladder-plan-2026-11-22.md -->
+
+<!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). The Little Monster can't leave his room; the wanting borrows the feet. The excuse is in 'at least' form. -->

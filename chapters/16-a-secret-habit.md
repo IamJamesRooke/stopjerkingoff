@@ -46,7 +46,7 @@ One man lives that first lie harder than anyone. He serves on the welcome team, 
 
 On Sunday he's at the front with his hands raised. On Saturday night he was where he always is. He has confessed it so many times, in the same words, that he's embarrassed to bring it up with God again. So he has stopped bringing it up, and after a while he has stopped bringing up much else.
 
-Peter once asked Jesus how many times he had to forgive his brother. Seven times? Jesus said seventy times seven. God doesn't hold himself to a lower standard than the one he gave Peter.
+Peter once asked Jesus how many times he had to forgive his brother. Seven times? Jesus said seventy times seven. On that teaching, God holds himself to no lower standard than the one he gave Peter.
 
 The secret leaks into everything he might have done. He turns down the mission trip, lets someone else lead, and never says why. He is enlisted, and he keeps reporting sick.
 
@@ -74,7 +74,7 @@ Paul drew the line in a letter to the church at Corinth: "godly sorrow produces 
 
 There is an order to it.
 
-Start today with the two who already know. Stop hiding it from yourself, and stop hiding it from God. He has seen every time, and he hasn't left. If you're not a believer, say the plain facts aloud in an empty room, and notice how much smaller they sound.
+Start today with the two who already know. Stop hiding it from yourself, and stop hiding it from God. If you believe, he has seen every time, and he hasn't left. If you're not a believer, say the plain facts aloud in an empty room, and notice how much smaller they sound.
 
 The third person comes after you have stopped, and not before. He hears it from a free man who is finished with a secret, not from a man asking for a guard.
 
@@ -106,3 +106,5 @@ Men walk out into the light every day. The door was only ever locked from the in
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
 
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
+
+<!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). The narrator no longer speaks as a believer. -->

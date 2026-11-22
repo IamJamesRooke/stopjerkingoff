@@ -12,7 +12,7 @@ But the rule is strict, and the grace is real. A soldier who trips on the march 
 
 No. There's no counter in this book, so there's no zero to go back to. Your freedom was never a number. A man in a recovery group pictured it as a row of hurdles. You cleared ten cleanly and stumbled on the eleventh. That doesn't mean you have to go back and start the race again.
 
-But don't shrug it off. Something real happened. You fed the Little Monster and your conscience knows it. It makes no difference whether it was porn, the hand or a message to a woman you had sworn off. Do three things, in this order.
+But don't shrug it off. Something real happened. You fed the Little Monster and your conscience knows it. It makes no difference whether it was porn, the hand, a message to a woman you had sworn off, or a bed. Do three things, in this order.
 
 *Confess it today.* Don't wait until you've punished yourself for a week. If you're Catholic, that means Confession, and don't put it off. "If we confess our sins, he is faithful". That promise wasn't only for the first time. The proverb says, "a righteous man falls seven times and rises up again". It doesn't say he never falls. It says he gets up. If you're married, don't start a new secret. Agree with your wife what she wants to be told, and tell the man you told. And remember the two words spoken to the son who still smelled of yesterday: just come.
 
@@ -29,7 +29,7 @@ The forums call it a "relapse" and reset the counter. The word does damage of it
 - **"I'll never be free."** One slip has become a life sentence. Would you say that to a friend?
 - **"From now on I must be perfect: up at five, cold shower, an hour of prayer, no sugar."** That is guilt posing as discipline. You'll keep it up for four days, collapse, and reach for comfort.
 - **"Other men are on day two hundred and I can't manage twenty. I must be a hopeless case."** You're comparing yourself with a number on a stranger's screen. You don't know how he's doing, and it doesn't matter.
-- **"I shouldn't even feel desire."** Yes, you should. Desire is God's idea. You're a man and not a statue. Noticing that a woman is beautiful is not a fall. The sin was never the noticing. It was the second look, the one you take on purpose.
+- **"I shouldn't even feel desire."** Yes, you should. If you believe in God, desire was his idea. You're a man and not a statue. Noticing that a woman is beautiful is not a fall. The sin was never the noticing. It was the second look, the one you take on purpose.
 
 Every one of those thoughts feels like repentance, and none of them is. Repentance is quick and it faces forward.
 
@@ -65,6 +65,8 @@ And the last has just reset his counter:
 
 Guillaco adds that he isn't mocking anyone's feelings. He wants you to see "how ridiculously easy it is (and always will be)" to be free. Then he asks: "How often do you allow yourself to drink a glass of bleach? Never? Why? Because it's a horrible thing, that's why!"
 
+Bleach doesn't taste good, and the orgasm does feel good for a few seconds. So stir sugar into the glass. It is still bleach.
+
 You're smiling because you can see what the Bleachstronauts can't. Nobody needs courage, a counter or a monthly challenge to keep from drinking bleach. All a man needs is to see what's in the glass. After that, not drinking it isn't an achievement. It's an ordinary day.
 
 If you slipped, the lesson is not "try harder". Somewhere you started believing again that the glass had something to offer. The world repeats its lies daily, so it does no harm to hear the truth twice.
@@ -92,3 +94,5 @@ That is everything you need for yourself. The last job is for somebody else.
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
 
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
+
+<!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). The bleach story answers 'bleach doesn't feel good; this does'; every room named; the narrator doesn't assert God. -->

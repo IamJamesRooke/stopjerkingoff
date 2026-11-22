@@ -47,7 +47,7 @@ Here the two methods part. The willpower man believes he's made a sacrifice, so 
 
 ## On the worst night {-}
 
-Picture a man who has been free for years. His father dies. Some fool tells him, "Go on, just tonight, it'll help you through." Suppose he does. The habit can't calm him, because he has no itch for it to relieve. At best he's distracted for five minutes, which a walk or a bad movie would have done as well. Then the grief is still there, and he's added shame to it and woken the Little Monster. Tomorrow night he has a choice he didn't have before: put up with the itch or feed it. Many a free man has gone back in through that door.
+Picture a man who has been free for years. His father dies. Some fool tells him, "Go on, just tonight, it'll help you through." Suppose he does. The habit can't calm him, because he has no itch for it to relieve. At best he gets a few seconds that feel good and five minutes of distraction, which a walk or a bad movie would have done as well. Then the grief is still there, and he's added shame to it and let the Little Monster back in. Tomorrow night he has a choice he didn't have before: put up with the itch or feed it. Many a free man has gone back in through that door.
 
 So settle it now. You don't need the habit on the good nights or on the worst night of your life. It was never a crutch.
 
@@ -69,7 +69,7 @@ If you're a Christian, take one more thing to heart. It is not a sin to be tempt
 
 You had strong reasons for stopping, and now is the time to take them down off the shelf. Remember the years, the fog, the secrecy and the distance from God. A voice will tell you they weren't so bad.
 
-You know that voice very well. It is your own.
+You know that voice very well. It sounds like your own.
 
 <!-- SOURCES (Chapter 22): every quote below is from the research files; check each against its page before publishing.
 - "Whose voice is that?" (the old lie says "I"; say No and it switches to "you"; the hand test): from the essay in EasyPeasy's appendix, which borrows Jack Trimpey's Addictive Voice Recognition Technique. The body no longer names either (2026-11-18, names kept out of the body); the credit stays here and on the Attribution page.
@@ -116,3 +116,5 @@ You know that voice very well. It is your own.
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
 
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
+
+<!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). Matches the next chapter (the voice only sounds like his); the Little Monster was gone, not asleep; pleasure not denied. -->

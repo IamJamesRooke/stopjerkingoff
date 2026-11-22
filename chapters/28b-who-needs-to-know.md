@@ -4,7 +4,7 @@
 >
 > — James 5:16
 
-Should you tell your wife? Your pastor? A friend? The habit lived on secrecy, so the question deserves a straight answer. You've already told God, and that matters most. If you're Catholic, that means Confession too. As for people, here's what I'd do.
+Should you tell your wife? Your pastor? A friend? The habit lived on secrecy, so the question deserves a straight answer. If you prayed, you've already told God. If you're Catholic, that means Confession too. As for people, here's what I'd do.
 
 ## Tell one man {-}
 
@@ -26,6 +26,10 @@ Ask her what she needs, and mean it. If she wants a counselor, a pastor or a fri
 
 She doesn't owe you praise for stopping. You owe her a husband who is all there.
 
+## The woman you are seeing {-}
+
+If you share a bed with a woman you have not married, tell her, and soon. Your No changes her life as well as yours. Tell her what you decided and why. Tell her it is not a No to her. Don't ask her to agree that night. She may be hurt, or glad, or she may leave. That is hers to choose, and none of it reopens the door.
+
 ## Nobody else {-}
 
 Nobody else needs to know. Don't post "Day 1" anywhere. You don't need an audience.
@@ -35,3 +39,5 @@ That is the method, start to finish. When it goes wrong, it goes wrong in only f
 <!-- 2026-11-20 structure pass (James: right sections in the right chapters, right sizes, one flow): NEW CHAPTER, moved whole out of 'Questions Men Ask', where it was a 600-word answer inside a list. It follows 'The Final Step', which asks the man to tell one person. Wording unchanged apart from headings, the opening line and James 5:16 quoted in place (WEB, first sentence; checked 2026-11-20). James approved the wife section in the pastor review (2026-11-19). -->
 
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
+
+<!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). New short section for the man with a girlfriend; the narrator no longer assumes the reader prayed. -->

@@ -30,6 +30,8 @@ One more hard-looking case is boredom mixed with stress. Think of the student in
 
 With the right frame of mind those same hours are no trouble. Don't worry that being alone keeps reminding you that you've stopped. Let it. Every reminder is a reminder that you are getting out.
 
+The single man has one more thought. The married man keeps a bed, and he keeps none. But he is not giving up a bed. He is giving up an itch. And the push the habit paid off every night is free to look for a wife.
+
 ## So, will it be harder? {-}
 
 No.
@@ -72,3 +74,5 @@ And on a bad day you will be tempted to reach for something else in the habit's 
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
 
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
+
+<!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). The single man's real 'harder for me'. -->

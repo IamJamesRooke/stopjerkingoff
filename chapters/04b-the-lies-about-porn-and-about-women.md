@@ -8,7 +8,7 @@ Take one case out of many. A company in California promised young women that the
 
 Ordinary men watched those videos. Not one of them thought he was watching a crime. And the man who watches is not a bystander. He is the customer. The video was made for him, and his visit pays for the next one. Nobody told him. He was sold it as harmless entertainment, and so were you. It never was.
 
-Whoever she is, she is somebody's daughter. And when it is her own choice, she has been told a lie of her own: that her worth is her body, and that men's hunger is a way to make a living. What ruins the man who watches ruins the woman who is watched.
+Whoever she is, she is somebody's daughter. And when it is her own choice, she has been told a lie of her own. It says her worth is her body, and men's hunger is a way to make a living. What ruins the man who watches ruins the woman who is watched.
 
 **"At least I've never paid for sex."** You have, though nobody told you so. In porn a woman is paid to have sex so that a man can have his release. That is prostitution, with a camera between her and you. The man at the brothel door hands her the money. The man at the screen pays through the site, with a card or with his eyes, because the site sells his attention. Porn is the brothel made cheap, open all night, and sold in every pocket.
 
@@ -25,3 +25,5 @@ The best liar hasn't spoken yet. You have known him all your life.
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
 
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
+
+<!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'). Long sentence split. -->

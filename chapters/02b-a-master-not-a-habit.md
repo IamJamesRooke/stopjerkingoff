@@ -18,7 +18,7 @@ And the joke of it is his size. For years you have been taking orders from a pip
 
 The men who have gotten out reach for the same word without being told. One of them, eight months clean, looked back and counted. He wrote that he had been a slave to it since he was twelve years old. He was thirty.
 
-That is why it seems so hard to "give up". The slave has come to believe his master is also his comforter. He thinks he gets a real pleasure or a real crutch out of it. He thinks life without it would have a hole in the middle.
+That is why it seems so hard to "give up". The slave has come to believe his master is also his comforter. He thinks the pleasure is worth its price, and that the crutch holds him up. He thinks life without it would have a hole in the middle.
 
 Now the good news. Once you see how the master holds you, and why you really reach for the habit, you'll stop. Just like that. Before long only two mysteries will be left. One is how it ever had a grip on you. The other is why you can't get your friends to see what you see.
 
@@ -64,3 +64,5 @@ Take the flesh first. It is the smaller of the two, and it is not what you think
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
 
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
+
+<!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'). Pleasure is not denied; its price is. -->

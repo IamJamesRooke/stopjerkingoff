@@ -1,6 +1,6 @@
 # Crossing the Red Line {#crossing-the-red-line}
 
-Whatever you repeat goes stale. The memory that worked last month doesn't work this month. The video that shocked you last year bores you now. The Little Monster wants a bit more, or something new.
+Whatever you repeat goes stale. The memory that worked last month doesn't work this month. The video that shocked you last year bores you now. The same meal quiets him for a shorter time. So you go looking for a bit more, or something new.
 
 Porn is built on this. It never runs out of new, so a man can chase "a bit more" for hours, tab after tab, and finish emptier than he started. Lewis has Screwtape, his senior devil, state the recipe: "An ever increasing craving for an ever diminishing pleasure is the formula."
 
@@ -28,3 +28,5 @@ Are you thinking of retreating to a "milder" version? Imagination only, weekends
 So you are hooked. Is that bad news?
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 03-the-flesh.Rmd; the source notes for everything here are in that file. -->
+
+<!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'). The Little Monster doesn't want or plot; he is quieted for a shorter time. -->

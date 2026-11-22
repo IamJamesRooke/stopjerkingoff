@@ -10,7 +10,7 @@ He almost never mentions the plain slavery of it. Men have bled to end slavery w
 
 One cost of that slavery needs no doctor, no pastor and no argument about whether it's a sin. All it needs is a clock.
 
-This chapter and the few after it count what the habit costs. None of it is here to scare you into stopping. Fear never worked. It is here because a thing that gives nothing and costs this much takes no willpower to leave.
+The next pages count what the habit costs. None of it is here to scare you into stopping. Fear never worked. It is here because a thing that gives nothing and costs this much takes no willpower to leave.
 
 ## Do the math {-}
 
@@ -77,3 +77,5 @@ Time is the cost you can count. The others are harder to see, because you have t
 
 
 <!-- 2026-11-21 five-star pass (editor H2): structural cuts, moves and repairs from the outside review and the cold-listener report. Cut text is kept in the pass's parked-H2 file; source notes above still stand for anything cut. -->
+
+<!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'). Pointer to chapters removed. -->

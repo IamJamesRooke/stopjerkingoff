@@ -18,7 +18,7 @@ Lust is what happens when the flesh gets hold of desire. Desire says, "She is lo
 
 There is an old word for a thing set apart for a high use. The word is holy. Your body is in that class, and so is the drive God put in it. Paul asks his readers, "don't you know that your body is a temple of the Holy Spirit who is in you". He isn't saying your body is dirty. He is saying it is too good for this. If you're not a believer, think of something you would never use carelessly, like your grandfather's watch. Lust picks up the watch and hammers a nail with it.
 
-Lust feeds in more ways than one. Masturbation is the plainest case, so we'll use it to show how lust works. A drive that was built to end in another person is made to end in a tissue. It's a hijacking, and the plane lands nowhere.
+Lust feeds in more ways than one. Masturbation is the plainest case, so we'll use it to show how lust works. A drive that was built to bind a man to one woman is made to end in a tissue. It's a hijacking, and the plane lands nowhere.
 
 ## How the loop works {-}
 
@@ -76,3 +76,5 @@ That restless feeling is the Little Monster. It is time to meet him properly.
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
 
 <!-- 2026-11-21 room-by-room reorder (James approved: nothing arrives before the reader needs it; the rooms come in the order a man retreats through them). Before and after: editorial/ROOM-ORDER-2026-11-21.md. -->
+
+<!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'). 'Another person' fed the bargain 'at least she's a real woman'. -->
