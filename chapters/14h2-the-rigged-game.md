@@ -30,19 +30,25 @@ None of that is in your head. A man who has watched it happen is right to be car
 
 ## The man telling you this {-}
 
-I lost that bet once. I told you early that the habit cost me a marriage. Here is the rest.
+I lost that bet once. The habit cost me a marriage. Here is the rest.
 
-The divorce made me hate women. I went looking for an explanation, and the internet had one ready. Women, it said, are amoral in the state of nature. They trade a man up the instant he is no longer useful. I believed it for years.
+The divorce made me hate women.
 
-I had a picture for it. I have fed my stomach every day of my life, and it doesn't care. It only asks when I fed it lately. I decided women were the same.
+I went red pill. I saw women in the state of nature as amoral, and ready to trade up. The instant I was no longer useful, I was gone.
 
-Some of that is true of some women. It is true of some men too, and I was one of them. As a law about women it was a lie, and a handy one. A man who believes it owes a woman nothing. He can use her and call it realism.
+I saw women like my stomach. I have fed it every day of my life. It doesn't care. It asks what I fed it lately.
 
-Here is what I think now. A vow said to one person is too easy to walk back. "Till death do us part" needs a church and a community behind it, where there is no leaving, ever. Even that is no guarantee. Plenty of Christian wives have found that the Holy Spirit wanted them divorced and happy.
+I can't tell you that was all wrong. A lot of it is still true. Being with modern women has been a nightmare. I lived it.
 
-And the women who hold to a vow like that want a believing man. I am not one yet. That is mine to settle honestly, and I won't fake it to get a wife.
+But hating them fixed nothing. And I was no prize. I used women for years, and this book is the record.
 
-I am making the same bet again, knowing all of this.
+So what holds a vow? Two people alone don't. "Till death do us part" needs a church and a community behind it. No leaving. Ever.
+
+Even then there is a risk. Plenty of Christian wives find that the Holy Spirit wants them divorced and happy.
+
+And the good ones want a believing man. I'm not one yet. I won't fake it to get a wife.
+
+I haven't figured it all out. I am making the same bet again, knowing all of this.
 
 ## What is exaggerated {-}
 
@@ -69,3 +75,5 @@ That is the last easier line in the house, and it has a price list of its own.
 <!-- 2026-11-22 Additions after the skeptic's second look: removal orders (the mechanism only: courts can issue temporary protective orders before the other side is heard; NOT in the dossier, CHECK before print); high-school men 48.7% (Bureau of Labor Statistics, as above); no-fault raised divorce 'for about a decade' (Wolfers, NBER working paper 10014, 2003, seen in fragments, CHECK). -->
 
 <!-- 2026-11-22 THE MAN TELLING YOU THIS (the skeptic reader asked what the narrator's own divorce cost him and whether he would bet again; James: 'The divorce made me hate women. I was red pilled seeing women in the state of nature as amoral and hypergamous willing to trade me up the instant I was no longer useful. Like my stomach, I've fed it every day for all my life but it doesn't care because it asks when did you feed me lately. Women are the same way. You actually do need a church and a community to say till death do us part. There is no leaving. Ever. Even then there is a risk because like many christian women the holy spirit conveniently tells them to divorce in order to be happy. But to attract the good ones you need to be a believing man. I am making the same bet again knowing all of this.'). His words are kept as close as the sentence rules allow. THE AUTHOR'S OWN ADDITION, for James to confirm or strike: the paragraph 'Some of that is true of some women... call it realism', which shows the hatred as where he was and not where the book lands. 'I am not one yet' keeps the faith stance (the narrator is not a Christian). -->
+
+<!-- 2026-11-22 passage rewritten on James's notes ('Sometimes the sentences are too long... "I saw women like my stomach..."'; 'a lot of these things ARE still true, not saying I believed it and don't believe it now... can't deny it, being with modern women is a nightmare, i lived it, but still gotta figure it out'). Short sentences, present tense; the earlier paragraph that called the view 'a lie, and a handy one' is cut. THE AUTHOR'S ADDITION, for James to confirm or strike: 'But hating them fixed nothing. And I was no prize. I used women for years, and this book is the record.' (the tone rule: men take responsibility, women aren't angels). NOT USED: a chart James found on X (one user's own tabulation of the General Social Survey 1988-2024, ever-divorced by group). It can't be checked without rerunning the survey data, so no figure from it is printed; the published studies already cited in The Test Drive, The Rigged Game and The Safe Road point the same way. -->
