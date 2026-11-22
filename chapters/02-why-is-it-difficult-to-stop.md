@@ -30,7 +30,7 @@ So the puzzle was never how stopping could be easy. The puzzle is why it seems h
 
 ## Nobody sold it to you {-}
 
-Think about how you started. Nobody sold it to you or talked you into it. Your own body turned up one day with a new trick. The jokes at school said every boy did it, so you thought no more about it. Porn arrived just as quietly: a pop-up, a friend's phone, a link somebody sent as a joke.
+Think about how you started. Nobody sat you down and sold it to you. Your own body turned up one day with a new trick. The jokes at school said every boy did it, so you thought no more about it. Porn arrived just as quietly: a pop-up, a friend's phone, a link somebody sent as a joke.
 
 Then you spent ten, twenty or thirty years wishing you could leave it alone. You never told a soul. You assumed you were the only man you knew who couldn't stop. And it doesn't take thirty years to feel like a lifetime. One young man wrote:
 
@@ -56,7 +56,7 @@ Nothing. That's the going rate.
 
 Why? What exactly makes it hard? Men give three answers.
 
-**"The urges are unbearable."** They aren't. I know it hasn't felt mild. Some nights it has felt like a hand on the back of your neck. That weight is fear, and fear can be taken away. Take it away, and what is left? A creature the size of a cat, banging on a floor. You've sat through worse in a dentist's waiting room. Plenty of men have carried this habit to the grave and never once suspected they were hooked. That is how faint the pull is.
+**"The urges are unbearable."** They aren't. I know it hasn't felt mild. Some nights it has felt like a hand on the back of your neck. That weight is fear, and fear can be taken away. Take it away, and what is left? A creature the size of a cat, banging on a floor. You've sat through worse in a dentist's waiting room.
 
 **"A man's body needs it."** Pressure builds, they say, and it has to go somewhere. But your body handled that on its own before you ever lent a hand. It still knows how. You've gone days without, on trips and in busy weeks, and nothing burst.
 

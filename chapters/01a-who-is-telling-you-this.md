@@ -94,7 +94,7 @@ And if you are a Christian, hear one verse early. Romans 8:1 says, "There is the
 
 Paul, the apostle who wrote much of the New Testament, told the Christians in Rome to "be transformed by the renewing of your mind". He didn't say to try harder. "Be transformed" is something done to you, as your mind is made new. A believer will say God does it. If you're not one, call it changing your mind. Either way, it starts with seeing clearly.
 
-So start with the Little Monster. You have thrown him out before. If he does nothing for you, why does he keep coming back? The best answer anyone has given is two thousand years old. It is a story about a house.
+So start with the Little Monster. If he does nothing for you, why has every attempt to be rid of him failed? The best answer anyone has given is two thousand years old. It is a story about a house.
 
 <!-- 2026-11-22: new chapter, split out of 'The Easy Method' at James's word. The narrator's story is built from his own outline and corrections. He is not a Christian yet, so it never says he is. STILL UNCONFIRMED by James: 'cheaper, and it took less time'; 'I was some version of that man' (the evening of drink, burger and fries, cookies, a game, scrolling); 'Start there.' as the eleventh-hour thought; 'I gave the habit every chance to pay me back, and it never did'; whether 'three relationships, an engagement and a marriage' is five things or three. STILL MISSING: where he stands now and whether he kept her; the story must not claim either until he says so. Scripture (World English Bible): Romans 8:1 (first half), Romans 12:2 (first half). -->
 

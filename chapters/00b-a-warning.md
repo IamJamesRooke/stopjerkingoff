@@ -24,7 +24,7 @@ So why does he do it?
 
 Here is something nobody told you. Stopping was never your problem.
 
-You stop every time you finish. You wipe your hand, turn the phone face down and stare at the ceiling. For that minute you are the most committed quitter on earth. "Never again." You mean it.
+You stop every time you finish. You turn the phone face down and stare at the ceiling. For that minute you are the most committed quitter on earth. "Never again." You mean it.
 
 If stopping were the hard part, you would be done. You have stopped a thousand times.
 
@@ -62,7 +62,7 @@ It won't sell you superpowers either. No deeper voice, no glowing skin, no women
 
 ## Nothing to lose {-}
 
-So read on, and question everything, this book included. If it's just a habit, why can you drop other habits in a week? If you enjoy it, why does your stomach tighten at the words "never again"?
+So read on, and question everything, this book included. If you enjoy it, why does your stomach tighten at the words "never again"?
 
 **YOU HAVE NOTHING TO LOSE.** If you reach the last page and would rather carry on, nothing stops you.
 

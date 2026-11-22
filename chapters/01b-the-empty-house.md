@@ -22,7 +22,7 @@ It can feel like being possessed. Something is running you that you never invite
 
 But keep two things straight. He has never once made you do it. Every time, he banged on the floor, and you were the one who climbed the stairs. And he is not ten feet tall. He is a pipsqueak, squatting in a back room. He has no reach at all. You could punt him halfway down a football field.
 
-He can't leave that room. Out in the world he has no body of his own. He can't look at anything, or touch anything, or go anywhere. Everything he gets, he gets with what you lend him: your eyes, your mind and your hand. From some men he has borrowed more than that.
+He can't leave that room. Out in the world he has no body of his own. He can't look at anything, or touch anything, or go anywhere. Everything he gets, he gets with what you lend him: your eyes, your mind and your hand.
 
 ## Why he could come back {-}
 
@@ -30,7 +30,7 @@ Now look at the one detail in the story that explains everything. Why could the 
 
 The man did all the right things, as far as he knew. He put it out. He swept. And he left the room standing ready, with the bed made and the door open.
 
-That is what quitting by force is. A man stops the act and goes on believing it gave him something. It relaxed him. It helped him sleep. It made him feel wanted. So there is a gap in his life where it used to be, and a gap gets filled.
+That is what quitting by force is. A man stops the act and goes on believing it gave him something. So there is a gap in his life where it used to be, and a gap gets filled.
 
 ## What rent did he ever pay? {-}
 
