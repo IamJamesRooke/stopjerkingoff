@@ -5,13 +5,13 @@
 | File | words | lust | porn | women/woman | masturbat/MO | habit | soldier/duty/fit | Little Monster | Big Monster | wrong head | thread (can't be trusted) |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | Intro | 967 | 2 | 1 | 2 | 1 | 3 | 0 | 3 | 0 | 1 | 0 |
-| b | 975 | 0 | 2 | 1 | 1 | 4 | 0 | 1 | 0 | 0 | 0 |
+| b | 855 | 0 | 2 | 1 | 1 | 3 | 0 | 0 | 0 | 0 | 0 |
 | c | 311 | 2 | 0 | 1 | 0 | 0 | 5 | 1 | 0 | 0 | 1 |
-| 1 | 1046 | 0 | 4 | 1 | 3 | 5 | 0 | 1 | 0 | 0 | 0 |
-| 1a | 1430 | 3 | 7 | 8 | 2 | 5 | 0 | 1 | 0 | 0 | 0 |
-| 1b | 1102 | 0 | 1 | 2 | 0 | 0 | 0 | 3 | 0 | 0 | 0 |
+| 1 | 1013 | 1 | 5 | 0 | 2 | 5 | 0 | 1 | 0 | 0 | 0 |
+| 1a | 1424 | 3 | 7 | 8 | 2 | 5 | 0 | 1 | 0 | 0 | 0 |
+| 1b | 1121 | 0 | 1 | 2 | 0 | 0 | 0 | 2 | 0 | 0 | 0 |
 | 1c | 716 | 3 | 0 | 5 | 0 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 2 | 764 | 1 | 2 | 0 | 1 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 2 | 726 | 1 | 1 | 0 | 0 | 3 | 0 | 0 | 0 | 0 | 0 |
 | 2b | 1052 | 1 | 0 | 1 | 0 | 13 | 0 | 0 | 0 | 0 | 0 |
 | 3 | 655 | 6 | 0 | 2 | 0 | 2 | 0 | 1 | 0 | 0 | 0 |
 | 3b | 929 | 0 | 0 | 0 | 1 | 9 | 0 | 4 | 0 | 0 | 0 |
@@ -74,33 +74,33 @@
 | faq | 1792 | 10 | 10 | 7 | 6 | 6 | 5 | 3 | 1 | 1 | 0 |
 | why-this-book | 1014 | 8 | 6 | 5 | 2 | 2 | 4 | 0 | 0 | 1 | 0 |
 
-## Overused words and phrases (book total 60197 words)
+## Overused words and phrases (book total 60019 words)
 
 | Word | Count | Per 1000 words | In how many files |
 |---|---|---|---|
-| nothing | 162 | 2.69 | 56 |
-| trap | 76 | 1.26 | 32 |
+| nothing | 161 | 2.68 | 56 |
+| trap | 73 | 1.22 | 32 |
 | a man who | 69 | 1.15 | 38 |
-| itch | 55 | 0.91 | 23 |
+| itch | 54 | 0.9 | 22 |
 | sin | 48 | 0.8 | 28 |
-| exactly | 25 | 0.42 | 16 |
-| relief | 25 | 0.42 | 13 |
-| really | 22 | 0.37 | 19 |
+| exactly | 26 | 0.43 | 17 |
+| relief | 26 | 0.43 | 13 |
 | free man | 22 | 0.37 | 17 |
+| really | 20 | 0.33 | 17 |
 | plain | 19 | 0.32 | 17 |
 | willpower method | 19 | 0.32 | 13 |
-| simply | 18 | 0.3 | 17 |
-| comfort | 16 | 0.27 | 11 |
+| simply | 17 | 0.28 | 16 |
+| comfort | 17 | 0.28 | 11 |
 | the truth | 15 | 0.25 | 12 |
-| actually | 13 | 0.22 | 11 |
 | plainly | 12 | 0.2 | 10 |
+| actually | 12 | 0.2 | 10 |
 | perhaps | 12 | 0.2 | 10 |
 | grace | 11 | 0.18 | 9 |
 | moping | 10 | 0.17 | 5 |
 | quite | 9 | 0.15 | 7 |
 | envy | 8 | 0.13 | 4 |
-| of course | 7 | 0.12 | 6 |
 | pipsqueak | 7 | 0.12 | 7 |
+| of course | 6 | 0.1 | 5 |
 | mope | 5 | 0.08 | 5 |
 | honestly | 3 | 0.05 | 3 |
 | chain | 3 | 0.05 | 1 |
@@ -116,12 +116,11 @@
 
 ## Five-word phrases used 4+ times in 3+ files
 
-- "every man in the trap" x9 in 12, 14, 29, b
-- "quote quote quote quote quote" x7 in 14, 22a, 4c, b
+- "every man in the trap" x7 in 12, 14, 29
 - "easy way to stop smoking" x6 in 1a, 34, attribution, faq, why-this-book
+- "quote quote quote quote quote" x6 in 14, 22a, 4c
 - "a doctor or a counselor" x4 in 14d, 15, 34, Intro
 - "a man ruled by lust" x4 in 15c, 27b, faq, why-this-book
-- "for the rest of your" x4 in 1a, 33, 7, b
 - "has nothing to do with" x4 in 11c, 24, 8
 - "have already stopped stay stopped" x4 in 1, 17, 21, Intro
 - "if you have already stopped" x4 in 1, 17, 21, Intro

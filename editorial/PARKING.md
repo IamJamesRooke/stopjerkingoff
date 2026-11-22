@@ -1295,3 +1295,257 @@ If you slip back into the habit while you read, don't despair. Keep reading.
 Now go back to the man in the bed. It is still two in the morning. Put one thing on his nightstand.
 
 A button.
+
+
+## 2026-11-22, 02-why-is-it-difficult-to-stop.md before the chapters 1 to 5 rebuild (whole text)
+
+# Why Is It Difficult to Stop?
+
+> "Most certainly I tell you, everyone who commits sin is the bondservant of sin."
+>
+> — John 8:34
+
+So far you have seen the trap from the outside. Now we open it up and see how it holds a man. The subject, for now, is the habit: porn and masturbation, together or one at a time.
+
+Sooner or later, every man with the habit gets the creepy feeling that he isn't the one in charge.
+
+It doesn't begin that way. In the early years the line is casual: "I'll stop. Just not tonight." Augustine became one of the great teachers of the early church. But first he spent years ruled by lust, and he prayed much the same prayer: "Give me chastity and continency, only not yet." Sixteen centuries later we're all still praying it.
+
+Then the line changes. After enough failed attempts you decide the fault must be in you. "I just don't have the willpower." Or you decide the fault is in nature: "Men are built this way. There must be something in it that I can't live without."
+
+Nobody in the trap can explain it. He only knows where he keeps ending up.
+
+## One question {-}
+
+Find any man with the habit and ask him: "Suppose you could go back to the week before you first did it, knowing everything you know today. Would you start?"
+
+"Not a chance."
+
+Isn't that strange? Millions of men do this, many of them daily, and not one would choose it again.
+
+So the puzzle was never how stopping could be easy. The puzzle is why stopping seems hard. Under that sits a bigger one: why does anybody do it at all?
+
+Think about how you started. Nobody sold it to you. Nobody talked you into it. Your own body turned up one day with a new trick. The jokes at school told you that every boy did it, so you thought no more about it. Porn arrived just as quietly: a pop-up, a friend's phone, a link somebody sent as a joke.
+
+Then you spent the next ten, twenty or thirty years wishing you could leave it alone. You never mentioned it to a soul. You assumed you were the only man you knew who couldn't stop. It doesn't even take thirty years to feel like a lifetime. One young man wrote:
+
+> "I've been struggling with lust for 14 years. Worst part? I'm only 23."
+
+You're not unique. You're standard issue.
+
+What does the habit give you in return? What kind of pleasure do you regret before you've caught your breath, and plan again by the next evening? You wish you weren't doing it while you do it. You're restless for it when you don't.
+
+And the regret piles up. A man despises himself a little every time he promises "never again" one night and breaks it the next. He despises himself when his wife is asleep in the next room. He despises himself when he's too drained to get out of bed and do the thing he'd planned. He may be a sensible, capable man who runs every other part of his life well. He still carries this small contempt for himself everywhere, like a stone in his pocket.
+
+What does he get for carrying it? One man who looked back over half his life gave the honest answer:
+
+> "I wasted 20 years using porn and masturbating. It got me nothing but further away from God."
+
+Nothing. That's the going rate.
+
+## The usual explanations {-}
+
+"Fine," you say. "I know all that. But once you're in, it's very hard to get out."
+
+Why, though? What exactly makes it hard?
+
+**Some say the urges are unbearable.** They aren't. I know it hasn't felt mild. Some nights it has felt like a hand on the back of your neck. That weight is fear, and fear can be taken away. The urge on its own is a mild, restless itch. You've sat through worse in a dentist's waiting room. Plenty of men have carried this habit to the grave without once suspecting they were hooked on anything. That tells you how gentle the pull really is.
+
+**Some say a man's body needs it.** Pressure builds, they tell you, and it has to go somewhere. But your body was dealing with all of that on its own before you ever lent a hand, and it still knows how. You've also gone days without, on trips and in busy weeks, and nothing burst.
+
+**Some say they simply enjoy it.** A man can enjoy a good steak. He doesn't need one every night behind a locked door, and he doesn't panic at the thought of a week without one. We enjoy the things we truly like while they last, and we don't sit around feeling robbed in between.
+
+That leaves one explanation. It is the most comfortable of them all, and it is wrong.
+
+
+## 2026-11-22, 00b-a-warning.md before the chapters 1 to 5 rebuild (whole text)
+
+# The Button {#a-warning}
+
+There is a button on the man's nightstand. If he presses it, he wakes up tomorrow as a man who simply never picked up the habit. No porn, no hand, no urges and no pull.
+
+Would he press it? He would press it hard enough to break the nightstand. So would you. Every man reading this would.
+
+Now ask why. Nobody would press a button to be rid of fishing. Nobody would press one to be rid of Sunday dinner. No man wishes he had never met the things he truly enjoys.
+
+Keep the button in mind. This book can't press it for you. But it can show you that the button is real, and that it's closer than you think.
+
+## You never chose this {-}
+
+Yes, you choose each time. You lock the door, you pick up the phone, you start. But did you ever sit down as a boy and sign up for fifteen years of this, every night, whether you wanted to or not? Of course you didn't. Curiosity and puberty started it. Then it quietly took the wheel, and for most of us porn stepped on the gas.
+
+You walked into a trap. It is one of the neatest traps there is, because the bait is your own body. And you can tell it's a trap by one fact. No man caught in it wants his son caught in it. Every man in the trap wishes he'd never started, and yet every man in the trap carries on. Nobody forces him.
+
+So why does he do it?
+
+## You already know how to stop {-}
+
+Start with something you have never been told. Stopping was never your problem.
+
+You stop every single time you finish. In that flat, gray minute afterward, you are the most committed quitter on earth. "Never again. I mean it this time." Every man says it, and every man means it. If stopping were the hard part, you would have managed it by now. You have managed it a thousand times.
+
+The problem is not that minute. The problem is day three, or day thirty, or day three hundred, when you're tired or lonely and a quiet voice says "just this once". One becomes two, and you're back where you started, minus a little more self-respect. For some men it doesn't even take until day three. A nineteen-year-old, raised in a strict Christian home, wrote about his first time: "I vowed never to do that again, only to find myself searching for a secret place after a couple of hours."
+
+So "How do I stop?" was the wrong question all along. You are a champion at stopping. The real question is why you start again.
+
+## What brings you back {-}
+
+It isn't desire. It's **FEAR**.
+
+You fear that life without the habit means a long, gray stretch of frustration, craving and restless nights. That fear is built on things you were told along the way:
+
+- "A man needs a release."
+- "It's healthy. Everybody says so."
+- "I'll go crazy if I don't."
+- "It's the only thing that helps me sleep."
+- "Everyone does it, and anyone who says he doesn't is lying."
+
+Look at who gains from every line on that list. It isn't you. It is the Little Monster. Every line on that list is a lie, and every line gets him fed.
+
+Believe those lines for long enough and the fear grows. You fear the nights alone, and the hard days without your little reward. Most of all, you fear that this is just how men are. Even if you stop, you think, you'll be fighting it for the rest of your life. If you've tried and failed many times, as most of us have, you'll be sure of it. One man wrote that he had failed so often he sometimes wondered whether God's grace for him had run out.
+
+It hasn't. And you are not a hopeless case. You've only been using a method that can't work.
+
+That is why this book will not try to frighten you. You'll find no horror stories here about your hormones or your hairline. If fear worked, you'd have stopped years ago. Doctors say masturbation doesn't damage your body, and I'm not going to argue with them. This book isn't about your body. It's about your mind, your drive, your word and your soul, and there you are the best witness. You know how you feel ten minutes afterward.
+
+It won't sell you superpowers either: no deeper voice, no glowing skin, no women turning their heads. What you get is better. You get yourself back.
+
+## Nothing to lose {-}
+
+So read on with your mind open. Question everything, this book included. If you think it's just a habit, ask why you can drop other habits in a week but not this one. If you think you enjoy it, ask why a small panic rises at the words "never again".
+
+**YOU HAVE NOTHING TO LOSE.** If you reach the last page and decide you'd rather carry on, nothing stops you.
+
+The fear may even grow for a chapter or two. Some men put the book down halfway, because they sense that if they keep going they'll actually have to stop. Don't be one of them. That flutter is only the old lies. A lie gets nervous when somebody starts checking it.
+
+Jesus told a story about a son who took his inheritance early, left home and wasted every coin of it. People call him the prodigal son. He ended up feeding pigs, and he was starving. In that pigsty he came to himself. He got up and walked home, and he found his father running down the road to meet him. That is how it feels to walk out of this trap. Before this book is finished, that will be you.
+
+So how do you get out? It begins with the strangest promise anyone has made you about this.
+
+It will be easy.
+
+
+## 2026-11-22, 01-the-easy-method.md before the chapters 1 to 5 rebuild (whole text)
+
+# The Easy Method
+
+The normal way of quitting begins at the foot of a mountain. You stare up at it and take a deep breath. Then you spend weeks dragging yourself uphill, craving and feeling robbed.
+
+This way starts somewhere else. It starts with relief, like a man walking out of the doctor's office with the all-clear. And the feeling doesn't fade. Years from now you'll look back at this stretch of your life and scratch your head over why you ever did it. When you meet men who are still stuck, you'll feel sorry for them. You won't envy them for a second.
+
+How? The method has one aim: to change the way you think about the habit.
+
+That's all. It won't make you stronger or more disciplined. It will change what you see when you look at porn, at masturbation, and later at the pull women have on you. Once you see it clearly, stopping is easy.
+
+## Why the normal way is so hard {-}
+
+The normal way of quitting goes like this. You write down everything the habit costs you: the guilt, the tiredness, the lost time, the distance from God. Then you tell yourself:
+
+"If I can just hold out long enough, the urge will finally die, and then I'll be happy."
+
+It sounds sensible. A few men do get free this way. But it is the hard road, and most men who take it end up where one man on a Christian forum did. He wrote that everything that depended on his own effort failed him sooner or later.
+
+Why is it so hard? There are two reasons.
+
+**1. Guilt and fear make you reach for it.** What does a man do when he feels ashamed, anxious and worthless? He looks for comfort. And what has he trained himself to use for comfort? Tell a man the habit is ruining him and you've just handed him one more reason to escape into it tonight.
+
+This is why the scare videos and the thundering sermons have never freed you. They load the gun. Desperation is the very thing that drives a man back. That is true of porn, and just as true of the hand.
+
+**2. Every reason to stop makes stopping harder.** That sounds crazy, so take it slowly. First, your reasons tell you that you *ought* to give something up. So part of you goes on believing there is something to give up: a comfort, a treat, an old friend. You feel like a man being marched away from his only pleasure.
+
+Second, your reasons point your eyes at the wrong question. You don't do it because of the reasons you should stop. Nobody opens the site or shuts the bathroom door *because* it leaves him flat and guilty. The real question is the other one: why do you want to do it at all?
+
+The man from the Christian forum, the one whose own effort failed him, spotted the trap inside all that effort. The harder he tried to stop thinking about porn, the more it became the center of his thoughts. Swap in "masturbation" and nothing changes.
+
+## Three questions {-}
+
+So for now we're going to put your reasons for stopping on a shelf. All of them, including the good ones, including the godly ones. We'll take them down again later, when they can no longer be used as a stick to beat you with.
+
+In their place, look straight at what you do and ask:
+
+1. **What is it actually doing for me?**
+2. **Do I actually enjoy it?**
+3. **Why am I doing this to myself?**
+
+The rest of the book exists to prove one thing to you: the habit does nothing for you. Nothing at all. The porn doesn't. The hand doesn't.
+
+Be clear about what that means. This is not the old claim that the costs are bigger than the benefits. Every man already knows that, and it has never helped him. There are no benefits.
+
+Not one.
+
+The relaxation, the sleep, the stress relief, the "release", the thrill of something new, the feeling of being wanted: each of them is an illusion. We'll take them apart one at a time. But you shouldn't have to take that on trust, so here is one of them now.
+
+## A sample: "It helps me sleep" {-}
+
+It does seem to. You masturbate, and you drop off. Case closed?
+
+Ask who was keeping you awake. You slept like a stone when you were nine. The man who never started this is asleep ten minutes after his head touches the pillow, and he needed no help. Only you lie there restless, and only you have a Little Monster banging on the floor.
+
+So the habit didn't give you sleep. It took your sleep, and every night it sells a little of it back to you. Then you thank it.
+
+A man who wears tight shoes all day for the pleasure of taking them off isn't enjoying a benefit. Every "benefit" on that list works the same way, and each one gets its turn.
+
+## What to do tonight {-}
+
+Tonight, do three things. None of them is "try harder".
+
+1. **Call off the war.** No vow, no streak, no cutting down. You may also stop hating yourself this evening. It never helped once.
+2. **Watch.** Nobody is telling you to sin, and if you have already stopped, stay stopped. But if you fall, keep your eyes open. Notice how it starts, how long the good part lasts, and how the ten minutes afterward feel. Those are the first two questions, answered by your own eyes.
+3. **Keep reading, in order.** A chapter or two a night is plenty.
+
+If something loosened in your chest at "call off the war", that is the first of the relief. As you read, the wish to do it will shrink without any effort from you. Let it.
+
+This book ends with a plain No, and you'll be glad to say it. It is not the old vow. The old vow was a promise made in your own strength, before you understood the trap, and you know how long those lasted. This one you'll say with your eyes open, and if you pray, you'll say it leaning on God.
+
+One more thing before the method goes any further. "No benefits at all" is a big claim. You have every right to ask how the man making it knows.
+
+
+## 2026-11-22, 01b-the-empty-house.md before the chapters 1 to 5 rebuild (whole text)
+
+# The Empty House {#the-empty-house}
+
+Jesus once told a story about a house that was cleaned out and then left empty.
+
+An unclean spirit goes out of a man. It wanders about, finds nowhere to rest, and says, "I will return into my house from which I came out". It comes back and finds the house "empty, swept, and put in order". So it goes and fetches seven other spirits, each one worse than itself, and they all move in. Jesus finishes the story in one sentence: "The last state of that man becomes worse than the first."
+
+You don't have to believe in spirits to know that house, and the story isn't here to tell you that you have one. It is here because nobody has ever described quitting by force more exactly.
+
+The house is you, and you have swept it many times.
+
+You swore off porn, and for three weeks you were clean. Then you noticed you were spending an hour a night scrolling past women in swimsuits and calling it nothing. Or you deleted every app and blocked every site, and the reel in your memory started up in their place. Or you stopped the whole business by force, and poured the same hunger into chasing a woman who didn't want you. You threw one thing out, and it came back with company. That is how it goes with the Little Monster. Keep his room ready, and he brings his friends. They are as small as he is, and they smell just as bad.
+
+No wonder it feels unbeatable. No wonder you decided the fault was in you.
+
+It can feel like being possessed. Something is running you that you never invited, and you want it out. That is an honest way to say how it feels, and there is no shame in saying it. But keep two things straight. He has never once made you do it. Every time, he asked, and you were the one who answered. And he is not ten feet tall. He is a pipsqueak, squatting in a back room. He has no reach at all. You could punt him halfway down a football field.
+
+Now look at the one detail in the story that explains everything. Why could it come back? Because the house was empty.
+
+The man did all the right things, as far as he knew. He put the tenant out. He swept. He tidied. And he left the room standing ready, with the tenant's name still on the door.
+
+That is what quitting by force is. A man stops the act and goes on believing that it gave him something. It relaxed him. It helped him sleep. It made him feel wanted. So there is a gap in his life where it used to be, and a gap gets filled.
+
+This book works the other way around. Before anybody is put out, we look at what this tenant has really done for you all these years. What rent has he paid? What has he ever mended?
+
+You will say he has paid something. He settles you. He gets you to sleep. He takes the edge off a bad day. Look closer at that payment. He bangs on the floor until you bring his dinner up. Then he stops banging. That quiet is the only rent he has ever paid, and it was your quiet to begin with.
+
+So he is no tenant. He is a freeloader. He leaves his dishes in your sink, and he smells. And look who has been paying his bills and carrying his meals up the stairs. You have.
+
+Then why is he still there? Nobody wants a freeloader in his house. You kept him because you believed he was paying.
+
+That belief is a lie, and it doesn't live in the back room. It lives in your head. Some of it you were told: a man needs it, it's healthy, everybody does it. Some of it you told yourself: it relaxes me, it helps me sleep, I'd be lost without it. The Little Monster is the easy one. Stop feeding him and he goes quiet in days. In a few weeks he is gone. The lies are what have held you for years, and this book takes them down one at a time.
+
+Nobody else can put him out for you. And you have never truly tried, because some part of you still thought he was worth keeping.
+
+Once a man has seen that, there is no vacancy. There is nothing for him to come back to.
+
+Jesus gave the order of things in one line: "You will know the truth, and the truth will make you free." He was speaking of his own teaching, and a Christian will take it that way. But notice the order, because it holds for any man. Knowing comes first, and freedom follows. He didn't say that effort will make you free.
+
+A Christian will say more. Jesus's story is about a house left empty, and a house isn't meant to stand empty. It has an owner, and he means to live in it. He doesn't come to fill a gap. He was the owner all along.
+
+Now look at how the Little Monster lives. He has no body of his own. He can't look at anything, or touch anything, or go anywhere. Everything he gets, he gets with what you lend him: your eyes, your mind and your hand. From some men he has borrowed more than that.
+
+One warning about him. He never leaves when you shut a room. He moves down the hall. You will hear it in your own voice: "Fine, not that. But surely this is all right." When you hear that sentence, smile. That is him, changing rooms. This book follows him room by room, and it goes further than you expect. You don't have to agree to anything in advance. Judge each room when we get there.
+
+That is why this book asks you not to throw anything out yet. The day will come, near the end, when you show him the door. You'll do it once, and it will be easy, because by then you will know that he has nothing you want. You won't have to drag anyone out. Nobody gets rid of him by sweeping. You stop believing he pays, and you stop carrying up his dinner. He leaves, and his friends leave with him.
+
+That leaves the question you have asked yourself a hundred times. You aren't stupid. You have wanted him out for years. So why does it feel so hard?

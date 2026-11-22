@@ -4,39 +4,47 @@
 >
 > — John 8:34
 
-So far you have seen the trap from the outside. Now we open it up and see how it holds a man. The subject, for now, is the habit: porn and masturbation, together or one at a time.
+Ask a man why it's so hard to stop, and he'll give you a reason. Ask him next year, and he'll give you a different one.
 
-Sooner or later, every man with the habit gets the creepy feeling that he isn't the one in charge.
+## The answer keeps changing {-}
 
-It doesn't begin that way. In the early years the line is casual: "I'll stop. Just not tonight." Augustine became one of the great teachers of the early church. But first he spent years ruled by lust, and he prayed much the same prayer: "Give me chastity and continency, only not yet." Sixteen centuries later we're all still praying it.
+In the early years the reason is casual. "I'll stop. Just not tonight."
 
-Then the line changes. After enough failed attempts you decide the fault must be in you. "I just don't have the willpower." Or you decide the fault is in nature: "Men are built this way. There must be something in it that I can't live without."
+Augustine became one of the great teachers of the early church. First he spent years ruled by lust, and he prayed much the same prayer: "Give me chastity and continency, only not yet." Sixteen centuries later, men still pray it.
+
+Then comes a night that changes the answer. A man says no, out loud, and watches his own thumb unlock the phone.
+
+After enough nights like that, you decide the fault is in you. "I just don't have the willpower." Or you decide the fault is in nature. "Men are built this way. There must be something in it I can't live without."
 
 Nobody in the trap can explain it. He only knows where he keeps ending up.
 
 ## One question {-}
 
-Find any man with the habit and ask him: "Suppose you could go back to the week before you first did it, knowing everything you know today. Would you start?"
+Find any man with the habit and ask him one thing. "Suppose you could go back to the week before your first time, knowing what you know now. Would you start?"
 
 "Not a chance."
 
 Isn't that strange? Millions of men do this, many of them daily, and not one would choose it again.
 
-So the puzzle was never how stopping could be easy. The puzzle is why stopping seems hard. Under that sits a bigger one: why does anybody do it at all?
+So the puzzle was never how stopping could be easy. The puzzle is why it seems hard. Under that sits a bigger one. Why does anybody do it at all?
 
-Think about how you started. Nobody sold it to you. Nobody talked you into it. Your own body turned up one day with a new trick. The jokes at school told you that every boy did it, so you thought no more about it. Porn arrived just as quietly: a pop-up, a friend's phone, a link somebody sent as a joke.
+## Nobody sold it to you {-}
 
-Then you spent the next ten, twenty or thirty years wishing you could leave it alone. You never mentioned it to a soul. You assumed you were the only man you knew who couldn't stop. It doesn't even take thirty years to feel like a lifetime. One young man wrote:
+Think about how you started. Nobody sold it to you or talked you into it. Your own body turned up one day with a new trick. The jokes at school said every boy did it, so you thought no more about it. Porn arrived just as quietly: a pop-up, a friend's phone, a link somebody sent as a joke.
+
+Then you spent ten, twenty or thirty years wishing you could leave it alone. You never told a soul. You assumed you were the only man you knew who couldn't stop. And it doesn't take thirty years to feel like a lifetime. One young man wrote:
 
 > "I've been struggling with lust for 14 years. Worst part? I'm only 23."
 
 You're not unique. You're standard issue.
 
+## What you get for it {-}
+
 What does the habit give you in return? What kind of pleasure do you regret before you've caught your breath, and plan again by the next evening? You wish you weren't doing it while you do it. You're restless for it when you don't.
 
-And the regret piles up. A man despises himself a little every time he promises "never again" one night and breaks it the next. He despises himself when his wife is asleep in the next room. He despises himself when he's too drained to get out of bed and do the thing he'd planned. He may be a sensible, capable man who runs every other part of his life well. He still carries this small contempt for himself everywhere, like a stone in his pocket.
+Then comes the bill. A man says "never again" on Monday night and breaks it on Tuesday. He clears the history while his wife sleeps in the next room. He lies in bed on Saturday morning, too drained to get up for the thing he planned. Each time, he thinks a little less of himself. He may run every other part of his life well. He still carries that around all day, like a stone in his pocket.
 
-What does he get for carrying it? One man who looked back over half his life gave the honest answer:
+What does he get for carrying it? One man looked back over twenty years and gave the honest answer:
 
 > "I wasted 20 years using porn and masturbating. It got me nothing but further away from God."
 
@@ -44,17 +52,19 @@ Nothing. That's the going rate.
 
 ## The usual explanations {-}
 
-"Fine," you say. "I know all that. But once you're in, it's very hard to get out."
+"Fine," you say. "I know all that. But once you're in, it's hard to get out."
 
-Why, though? What exactly makes it hard?
+Why? What exactly makes it hard? Men give three answers.
 
-**Some say the urges are unbearable.** They aren't. I know it hasn't felt mild. Some nights it has felt like a hand on the back of your neck. That weight is fear, and fear can be taken away. The urge on its own is a mild, restless itch. You've sat through worse in a dentist's waiting room. Plenty of men have carried this habit to the grave without once suspecting they were hooked on anything. That tells you how gentle the pull really is.
+**"The urges are unbearable."** They aren't. I know it hasn't felt mild. Some nights it has felt like a hand on the back of your neck. That weight is fear, and fear can be taken away. Take it away, and what is left? A creature the size of a cat, banging on a floor. You've sat through worse in a dentist's waiting room. Plenty of men have carried this habit to the grave and never once suspected they were hooked. That is how faint the pull is.
 
-**Some say a man's body needs it.** Pressure builds, they tell you, and it has to go somewhere. But your body was dealing with all of that on its own before you ever lent a hand, and it still knows how. You've also gone days without, on trips and in busy weeks, and nothing burst.
+**"A man's body needs it."** Pressure builds, they say, and it has to go somewhere. But your body handled that on its own before you ever lent a hand. It still knows how. You've gone days without, on trips and in busy weeks, and nothing burst.
 
-**Some say they simply enjoy it.** A man can enjoy a good steak. He doesn't need one every night behind a locked door, and he doesn't panic at the thought of a week without one. We enjoy the things we truly like while they last, and we don't sit around feeling robbed in between.
+**"I simply enjoy it."** A man can enjoy a good steak. He doesn't need one every night behind a locked door. He doesn't panic at the thought of a week without one. We enjoy what we like while it lasts. We don't sit around feeling robbed in between.
 
-That leaves one explanation. It is the most comfortable of them all, and it is wrong.
+That leaves one explanation. It is the most comfortable of them all, and almost every man settles on it.
+
+It is wrong.
 
 <!-- SOURCES (Chapter 2): every quote below is from the research files; check each against its page before publishing.
 - "I keep seeing myself it again even after saying it's over." — Romanus, Covenant Eyes comments, 20 Jul 2020, https://www.covenanteyes.com/blog/three-steps-to-kick-the-habit-of-masturbation/comment-page-10
@@ -77,3 +87,5 @@ That leaves one explanation. It is the most comfortable of them all, and it is w
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
 
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
+
+<!-- 2026-11-22 chapters 1 to 5 rebuild (James: 'the same level of attention to detail' as the Introduction; show, don't tell; concrete details; simple sentences; section headers). Opening now answers the question chapter 4 ends on; feelings shown (the thumb unlocking the phone, clearing the history, the stone in his pocket); five section headers; the three explanations given in the man's own words; 'we're all still praying it' became 'men still pray it' so the narrator is not counted among them. New shown moments are illustrations, not real people. The previous text is saved whole in editorial/PARKING.md. -->
