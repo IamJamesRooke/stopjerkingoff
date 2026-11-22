@@ -49,7 +49,7 @@ Guilt loads the gun. The man who decides and then spends three weeks feeling fil
 
 Dr. Kanojia, the psychiatrist, has noticed what frightens his patients about stopping: "if I stop, I have to face the guilt of having screwed up the last 10 years of my life." That fear has an answer. The ten years are confessed and forgiven. You don't have to carry them, and you don't have to keep the habit going to avoid looking at them.
 
-If you're not a believer, the same advice holds: drop the self-hatred. It never helped you once. Decide, and be glad.
+If you're not a believer, the same advice holds: drop the self-hatred. It never helped you once. The years are spent either way, and hating yourself buys none of them back. What is still yours is the next ten. Decide, and be glad.
 
 ## A man who can be trusted {-}
 
@@ -100,3 +100,5 @@ So what will the first weeks actually feel like?
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
 
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). The narrator no longer speaks as a Christian. -->
+
+<!-- 2026-11-22 SKEPTIC READ, stage 5 (an atheist who thought marriage a scam; at the final No he said every clause, and 'any bed outside marriage' only as a policy for a woman he loves). The book now admits that this one clause asks for waiting and costs something. -->

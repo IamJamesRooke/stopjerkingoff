@@ -36,7 +36,7 @@ One thing comes before the prayer. Make sure that nothing you are doing breaks t
 
 The No you are about to say covers any bed outside marriage. Don't take that as a rule somebody handed you. Check it one last time against your own years. Name the women you liked and stayed with. Where is each of them now, and which of you used the open door? Then ask the old question. Suppose you had kept sex for the woman you promised to keep. Would your decisions have been better, or worse?
 
-If a woman you love is in that bed, this is not a No to her. It is a No to the bed until the promise is made. The best thing you can bring her is a man who doesn't need to take.
+If a woman you love is in that bed, this is not a No to her. It is a No to the bed until the promise is made. This clause is not like the others. Wanting her is not the itch, and waiting will cost you something. You are not quitting her. You are keeping the bed for the promise. The best thing you can bring her is a man who doesn't need to take.
 
 ## The prayer {-}
 
@@ -132,3 +132,5 @@ Do it now.
 <!-- 2026-11-22 second whole-book test as James (he said No to everything except 'any bed outside marriage', because with a woman he liked he was glad afterward and stayed). 'Change the words until they are true of you' let a reader cut 'any bed outside marriage'. -->
 
 <!-- 2026-11-22 third whole-book test as James (he now says the whole No, but holds back the warm bed with a woman he liked; 'I say the clause as a better policy, not as a man who sees nothing in the room'). Fixes from that test; see the commit of this date. -->
+
+<!-- 2026-11-22 SKEPTIC READ, stage 5 (an atheist who thought marriage a scam; at the final No he said every clause, and 'any bed outside marriage' only as a policy for a woman he loves). The book now admits that this one clause asks for waiting and costs something. -->

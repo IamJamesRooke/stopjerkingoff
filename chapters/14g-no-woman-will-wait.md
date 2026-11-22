@@ -24,7 +24,7 @@ And don't hide behind the line. A man who has stopped using women still has to c
 
 Does the line shrink the field? It does. It shrinks it to the women who want what you want. That was always the only field you had.
 
-Be honest about the size of that field. It may be small. Many of the women in it will be believers, and they will ask where you stand. Tell them the truth. Some will say no to that, and some won't. Either way, you both know early. But compare the two fields fairly. The wide one has had you for decades, and you have searched it. It gave you nights and no wife. And waiting is not stalling. A man who has watched a woman with clear eyes doesn't need five years to know his mind.
+Be honest about the size of that field. It may be small. Many of the women in it will be believers, and they will ask where you stand. Tell them the truth. Some will say no to that, and some won't. Either way, you both know early. And the field is wider than the women who already hold this line. It includes any woman who hears your reasons and says yes. Some have had enough of the other road themselves. But compare the two fields fairly. The wide one has had you for decades, and you have searched it. It gave you nights and no wife. And waiting is not stalling. A man who has watched a woman with clear eyes doesn't need five years to know his mind.
 
 That leaves the second man in the hall. He isn't dating, and he has stopped expecting to.
 
@@ -33,3 +33,5 @@ That leaves the second man in the hall. He isn't dating, and he has stopped expe
 <!-- 2026-11-22 second whole-book test as James (he said No to everything except 'any bed outside marriage', because with a woman he liked he was glad afterward and stayed). Admits the field may be small and who is in it; two overclaims fixed. -->
 
 <!-- 2026-11-22 third whole-book test as James (he now says the whole No, but holds back the warm bed with a woman he liked; 'I say the clause as a better policy, not as a man who sees nothing in the room'). Fixes from that test; see the commit of this date. -->
+
+<!-- 2026-11-22 SKEPTIC READ, stage 5 (an atheist who thought marriage a scam; at the final No he said every clause, and 'any bed outside marriage' only as a policy for a woman he loves). The book now admits that this one clause asks for waiting and costs something. -->
