@@ -12,6 +12,8 @@ Whoever she is, she is somebody's daughter. And when it is her own choice, she h
 
 **"At least I've never paid for sex."** You have, though nobody told you so. In porn a woman is paid to have sex so that a man can have his release. That is prostitution, with a camera between her and you. The man at the brothel door hands her the money. The man at the screen pays through the site, with a card or with his eyes, because the site sells his attention. Porn is the brothel made cheap, open all night, and sold in every pocket.
 
+**"It does a marriage no harm."** One American study followed about two thousand married people between 2006 and 2014. Some of them began watching porn between one interview and the next. By the next interview, about eleven in a hundred of those were divorced. Among the rest it was six. The authors are careful. They can't rule out that some of those marriages were failing first.
+
 **"It isn't a real woman, so nobody is hurt."** This lie arrived in the 2020s, when computers learned to make pictures and to talk. The picture was drawn, or a computer made it, or the girlfriend is a program. First, somebody often is hurt. Computers were soon putting real women's faces into videos they never made. One 2023 study counted nearly a hundred thousand of these fake videos online. Almost all of them were porn, and almost all the faces belonged to real women who never agreed to it. Second, even when no woman exists at all, you do. The thing being trained is your own heart, and it learns the same lesson from a drawing as from a photograph.
 
 None of this is here to add to your guilt. It is here to take away the last excuse. You were lied to, and so was the woman on the screen. It was never harmless.
@@ -29,3 +31,5 @@ Those are the lies. Now look at some of the men who believed them.
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'). Long sentence split. -->
 
 <!-- 2026-11-22: the closing hook now leads into two new chapters (The Men Who Believed It, The World It Made); the old hook ('The best liar hasn't spoken yet') closes the second of them. -->
+
+<!-- 2026-11-22 from a research report James sent (twenty posts found on X; only items checked against their original source are used, and never the post). 'It does a marriage no harm': Perry and Schleifer, 'Till Porn Do Us Part? A Longitudinal Examination of Pornography Use and Divorce', Journal of Sex Research, 2018 (General Social Survey panels 2006-2014, about 2,120 married respondents; predicted probability about 11% against 6%, odds ratio 2.19; the measure is any X-rated video in the past year; reverse causation not ruled out). Read in the author manuscript and the 2016 conference press release, not on the publisher's page: CHECK BEFORE PRINT. -->

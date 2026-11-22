@@ -56,7 +56,7 @@ Some of what men tell each other is wrong, and you should know which parts.
 
 **"Alimony for life."** It is rare. The counts are rough, and they find a few hundred thousand people receiving it in the whole country. Florida ended permanent alimony in 2023. Where it is paid, it is nearly always a man who pays it.
 
-**"She walks away rich."** Mostly she doesn't. About a quarter of mothers with custody live in poverty, though many of those never married. Fewer than half of the parents who are owed support get all of it.
+**"She walks away rich."** Mostly she doesn't. About a quarter of mothers with custody live in poverty, though many of those never married. Fewer than half of the parents who are owed support get all of it. That goes for fathers with custody too. In 2022 they were owed $4.8 billion, and they received $3.0 billion.
 
 **"No-fault divorce did this."** Wives were already filing about six divorces in ten in the nineteenth century. The best study of the new laws found that they raised divorce for about ten years. Then the effect faded.
 
@@ -77,3 +77,5 @@ That is the last easier line in the house, and it has a price list of its own.
 <!-- 2026-11-22 James's own line replaces the author's paragraph: 'but hating them fixes nothing, and I ain't no angel'. -->
 
 <!-- 2026-11-22 (James: 'THIS BOOK IS NOT ABOUT ME. If we can cut stuff about me, BETTER'): the divorce passage is now an anonymous man in the third person; the lines about the narrator's own faith ('I'm not one yet') are cut. The first-person version is in editorial/PARKING.md. -->
+
+<!-- 2026-11-22 from James's research report, checked against the original: Census P60-285, 'Custodial Parents and Their Child Support: 2022' (August 2025): custodial fathers due $4.8 billion, received $3.0 billion; 49.5% of parents owed support received all of it; fathers 21.8% of custodial parents. The chapter's 2018 custody figures are from the earlier edition, P60-269. -->

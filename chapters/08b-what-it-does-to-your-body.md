@@ -4,7 +4,7 @@ The doctors say masturbation itself does no physical harm, and I won't argue. Bu
 
 The plainest is sleep. The habit lives late at night. It takes the hour, and then it takes the sleep after the hour. A man who drags himself out of bed every morning is paying a physical price, whatever the textbooks say about the act.
 
-The second is trouble in bed with a real woman. Some men who lean heavily on porn find that they can't get ready with her, or can't stay ready. Be careful with this one. The research is mixed, and nobody has proved that porn is the cause. Doctors say that in a young man the usual cause is worry, and a man carrying a secret has plenty of that. Drink, medicines and illness can do it too. If it has gone on for weeks, see a doctor.
+The second is trouble in bed with a real woman. Some men who lean heavily on porn find that they can't get ready with her, or can't stay ready. Be careful with this one. The research is mixed, and nobody has proved that porn is the cause. In a 2021 survey of young men, about one in five of the sexually active had some erection trouble. It went with how compulsive his porn use was, and not with the hours. An earlier study in three countries found little link at all. Doctors say that in a young man the usual cause is worry, and a man carrying a secret has plenty of that. Drink, medicines and illness can do it too. If it has gone on for weeks, see a doctor.
 
 The third has a name of its own.
 
@@ -40,3 +40,5 @@ The body can mend. So why has a list like this never once made you stop?
 <!-- 2026-11-21 five-star pass (editor H2): structural cuts, moves and repairs from the outside review and the cold-listener report. Cut text is kept in the pass's parked-H2 file; source notes above still stand for anything cut. -->
 
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'). Closes the reading 'quit the hand, get better hookups'. -->
+
+<!-- 2026-11-22 from James's research report, checked against the original: Jacobs and others, JMIR Public Health and Surveillance, 2021 (3,419 men aged 18-35 analysed; 21.48% of the 2,067 sexually active had some erectile dysfunction, mostly mild; linked to the problematic-use score, not viewing time; self-selected web sample), https://publichealth.jmir.org/2021/10/e32542/ . The other side: Landripet and Stulhofer, Journal of Sexual Medicine, 2015 (Croatia, Norway, Portugal). -->

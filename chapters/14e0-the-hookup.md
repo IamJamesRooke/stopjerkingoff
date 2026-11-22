@@ -38,7 +38,7 @@ So that night is no exception to this chapter. It is the strongest dose in the h
 
 **During.** Be honest about where your head was. Half the time you were watching yourself. Was it going well? Was she comparing? You were with a stranger, and you were performing for her.
 
-**The minute after.** This is the test of any pleasure. A husband who has made love to a wife he loves is glad a minute later. He stays where he is. Most nights you wanted her gone, or you wanted to be gone. She reached for you, and being held was the part you couldn't stand. Count the nights you stayed and were glad. Then count the others. Then count how many of those women are still in your life. Remember the saying of the men who pay for it. You don't pay her for the sex. You pay her to leave.
+**The minute after.** This is the test of any pleasure. A husband who has made love to a wife he loves is glad a minute later. He stays where he is. Most nights you wanted her gone, or you wanted to be gone. She reached for you, and being held was the part you couldn't stand. Count the nights you stayed and were glad. Then count the others. Then count how many of those women are still in your life. Two psychologists put the question to students in 2001. Men with many past partners said a woman looked less attractive to them after the first time. Men with few partners didn't. Remember the saying of the men who pay for it. You don't pay her for the sex. You pay her to leave.
 
 **The morning.** One of you is looking for shoes. Nobody mentions next week. Then comes the drive home and the flat feeling. The phone is out again before lunch.
 
@@ -91,3 +91,5 @@ Some men have gone further up this road than the rest.
 <!-- 2026-11-22 third whole-book test as James (he now says the whole No, but holds back the warm bed with a woman he liked; 'I say the clause as a better policy, not as a man who sees nothing in the room'). Fixes from that test; see the commit of this date. -->
 
 <!-- 2026-11-22 SKEPTIC READ, stage 3 (an atheist who thinks marriage is rigged against men): the law's lever named; the two-year girlfriend argued and not just asserted; overclaims trimmed. -->
+
+<!-- 2026-11-22 from James's research report, checked against the original: Haselton and Buss, 'The affective shift hypothesis', Personal Relationships, 2001 (two small studies of Texas undergraduates; retrospective self-report; the drop was in attractiveness only), https://labs.la.utexas.edu/buss/files/2015/09/Affective-Shift-Hypothesis-2001.pdf . -->
