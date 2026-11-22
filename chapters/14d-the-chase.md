@@ -34,6 +34,22 @@ That is the same itch in better clothes. The swipe is the scroll, with a chance 
 
 So the test is simple. Are you looking for a wife, or looking for a hit? If it's a wife, you won't need fifty at a time. If it's a hit, you know what to call it.
 
+## The man who wins {-}
+
+So far the men in this chapter lose. One man doesn't. He matches, he meets her, and he takes her home. He will tell you this is when he feels most alive. Without it, he says, life would go flat.
+
+Take the thrill apart. It has a before and an after.
+
+Before, a question hangs over him. Does she want me? He checks his phone forty times a day for the answer. That isn't excitement. That is a man waiting for a test result.
+
+Then she says yes, and the question goes quiet. The joy he feels is an alarm shutting off. It lasts about as long as the walk to her door.
+
+And the question comes back. It always does, because her yes settled nothing about him. So he needs another woman to ask. What did the fortieth yes tell him that the fourth did not?
+
+A man who knows he is worth having doesn't need a vote every weekend. The winner of the chase is the most anxious man in the bar.
+
+Life without it doesn't go flat. Flat is what he feels now, between women.
+
 ## The one girl {-}
 
 The app is fifty faces. The opposite case is one.
@@ -67,3 +83,5 @@ Five men, then. One at the party, one who waits, one who swipes, one texting a p
 <!-- SOURCES (The Chase). New chapter 2026-11-21 (five-star pass): the first half of 'The Man Led by a Woman' split off so that both stay bite-sized. Holds: the opening; 'Thinking with the wrong head' (moved from 03c-crossing-the-red-line.md, heading dropped, last clause cut); the party man, 'The man who waits', 'The man who swipes', 'The one girl' (source notes in 14b-the-man-led-by-a-woman.md and 15-fantasy-and-the-thought-life.md); 'If you find yourself obsessed with a woman' (moved from 12b-do-not-negotiate.md, now 'If she has said no', with a one-sentence callback to de Becker's four instructions; its comment history is in 13-just-once.md). This file used to hold 'The King Who Turned His Face to the Wall', which was merged into 14b. -->
 
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). Long sentence split. -->
+
+<!-- 2026-11-22 whole-book test as James (he said the No to the screen, the hand, the feed and the film, and stopped at 'any bed outside marriage'). New section 'The man who wins': the chapter covered only men who lose, and the lie 'without the chase, life is flat' had no answer. -->

@@ -12,7 +12,7 @@ If you had already stopped before you got here, good. Stay stopped, and take thi
 
 The final step is a decision, spoken out loud. For a believer it is a prayer, and for a man who doesn't pray there is a version right after it. Before you take it, ask yourself one thing. Does some part of you still believe lust has something to give you? If so, don't take the step yet.
 
-One thing doesn't count against you. The orgasm feels good for a few seconds, and nobody here says otherwise. Sugar tastes sweet to the man it is ruining. The question is whether those seconds are a benefit. Name the thing you still think it gives you, and read that chapter again. There's no hurry and no shame in it.
+One thing doesn't count against you. The orgasm feels good for a few seconds, and nobody here says otherwise. Sugar tastes sweet to the man it is ruining. The question is whether those seconds are a benefit. Name the one thing you still think it gives you. Go back to that one room and look again. Then come straight back here. Reading the whole book again is one more way of saying later.
 
 You don't have to feel brave, and you don't need a clean record behind you. A man who has failed fifty times takes this step exactly like a man who has never tried.
 
@@ -32,7 +32,7 @@ Jesus asked for plain speech: "But let your 'Yes' be 'Yes' and your 'No' be 'No.
 
 ## If there is another person {-}
 
-One thing comes before the prayer. The decision you're about to make is yours, and so is what you do about it afterward. This book won't write that part for you. It asks only this. Make sure that nothing you are doing breaks the law, and that nothing you are doing is harming another person. If something is, you already know what it is. Don't carry it past today. And remember where the line is. Sex belongs inside marriage, so the No you're about to say covers any bed outside it. If a woman you love is in that bed, this is not a No to her. It is a No to using her. The best thing you can bring her is a man who doesn't need to take.
+One thing comes before the prayer. The decision you're about to make is yours, and so is what you do about it afterward. This book won't write that part for you. It asks only this. Make sure that nothing you are doing breaks the law, and that nothing you are doing is harming another person. If something is, you already know what it is. Don't carry it past today. And remember where the line is. Sex belongs inside marriage, so the No you're about to say covers any bed outside it. If a woman you love is in that bed, this is not a No to her. It is a No to the bed until the promise is made. The best thing you can bring her is a man who doesn't need to take.
 
 ## The prayer {-}
 
@@ -122,3 +122,5 @@ Do it now.
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
 
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). The spoken No now names the bed and the chase; 'it feels good' no longer blocks an honest reader at the last check. -->
+
+<!-- 2026-11-22 whole-book test as James (he said the No to the screen, the hand, the feed and the film, and stopped at 'any bed outside marriage'). The last check no longer offers a loop ('read again, no hurry'); the No to the bed is plain. -->

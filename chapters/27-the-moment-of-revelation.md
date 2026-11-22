@@ -28,7 +28,7 @@ For the man on the couch it comes like this. His wife reaches across and picks u
 
 ## Don't test it {-}
 
-One warning belongs here. A few weeks in, a man senses that the desire has gone, and he wants proof. "I'll just see. If it does nothing for me, I'll know I've beaten it." And it will feel good for a few seconds. That proves nothing. Sugar is still sweet to a man who has quit it. That test is the Little Monster's first meal in weeks, and it is how a great many willpower attempts end.
+One warning belongs here. A few weeks in, a man senses that the desire has gone, and he wants proof. "I'll just see. If it does nothing for me, I'll know I've beaten it." That test is the Little Monster's first meal in weeks, and it is how a great many willpower attempts end.
 
 You will never need to test your freedom. Every test of it is the habit under another name.
 

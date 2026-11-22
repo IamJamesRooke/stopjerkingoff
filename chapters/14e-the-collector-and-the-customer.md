@@ -18,7 +18,7 @@ A man who pays a monthly fee for a woman's private pictures is already a custome
 
 He buys it in person, and his "at least" is that it's honest. For him it may be an escort, a back room, or a cheap flight to a place where nobody knows him. He pays a fair price, he says, and they are two adults. But he can't know whether she chose this. In every country police keep finding women in this trade who are held there. A debt holds them, or a threat, or a passport locked in someone else's drawer. And he can't know her age.
 
-And for all that, he buys the same ten minutes and the same flat feeling, at a higher price. It is the porn habit with the screen taken away. The man who watches porn is already a customer. This man has only walked up to the counter.
+And for all that, he buys the same ten minutes and the same flat feeling, at a higher price. Ask him about the minute after. He has paid a stranger, and what he wants most is for her to go. It is the porn habit with the screen taken away. The man who watches porn is already a customer. This man has only walked up to the counter.
 
 ## The married man who strays {-}
 
@@ -45,3 +45,5 @@ The Little Monster has one room left to retreat to. Before it, one question has 
 <!-- 2026-11-21 five-star pass (H3; review items B4 and B8, cold-listener 2.8 and join 8): 'The customer' now opens with the man who pays online, moved from the dissolved 'The Ladder' with its two facts unchanged (2024 fan payments of more than seven billion dollars; the Reuters report on chatters, July 2024; sources in 14-types-of-user.md). 'The married man who strays' given a real paragraph with a way out; 'body count' and 'the Christian rules' reworded; the squatter's double hand-off cut. A placeholder marks where the casual-sex material from 04b fits. -->
 
 <!-- 2026-11-22 LADDER (James: go after each behavior in turn; PMO is the enhanced version, MO the mild version, 'the O is only for one person'; no pressure; name fornication; PMO to MO is progress because porn hurts others). SPLIT. The ordinary man's night, the 'would you have kept her' test, the lies and the regret study moved to the new chapter The Hookup, which now comes first. The subscription-site customer moved to the new chapter The Screen. This chapter keeps the collector, the man who pays in person, and the married man who strays. Plan: /mnt/project-files/easy-peasy/ladder-plan-2026-11-22.md -->
+
+<!-- 2026-11-22 whole-book test as James (he said the No to the screen, the hand, the feed and the film, and stopped at 'any bed outside marriage'). The next-minute test for the man who pays. -->

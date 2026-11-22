@@ -26,6 +26,22 @@ The same holds for the girlfriend of two years he has no plan to marry. It is on
 
 "But there might be a future with this one." A maybe is not a promise. If there is a future, it will still be there when the promise is made. Sleeping with her first doesn't help you find out. A man can't judge a woman while he is using her. And she pays tonight for something you may never deliver.
 
+## Take the night apart {-}
+
+"The same hit" is easy to say. A woman in your bed feels like far more than a banging on the floor. So take the night apart, hour by hour.
+
+**Before.** The match, the messages, the drinks. Most of what you feel is one question. Does she want me? When the answer is yes, an alarm shuts off. That is the high point of the evening, and it comes before anyone has touched anyone.
+
+**During.** Be honest about where your head was. Half the time you were watching yourself. Was it going well? Was she comparing? You were with a stranger, and you were performing for her.
+
+**The minute after.** This is the test of any pleasure. A husband who has made love to a wife he loves is glad a minute later. He stays where he is. You know what you felt a minute later. You wanted her gone, or you wanted to be gone. She reached for you, and being held was the one part you couldn't stand. Men who pay for sex have a saying. You don't pay her for the sex. You pay her to leave.
+
+**The morning.** One of you is looking for shoes. Nobody mentions next week. Then comes the drive home and the flat feeling. The phone is out again before lunch.
+
+Now add it up. You were told this is the best thing in a man's life. For one night you had a woman's body and nothing else of her, and she had yours. Within days you wanted the next one. That is no meal. It is the hit, with a witness.
+
+"But she was warm, and I wasn't alone." You were never more alone than in that minute after. A man can be lonelier beside a stranger than by himself.
+
 ## Would you have kept her? {-}
 
 Now try something. Suppose every night like that came with what sex was built to carry. If you sleep with her, you stay with her. You marry her. If a child comes, that child is a human life, and yours to raise. And count the years. You'll spend far more of them talking with her, eating with her and sitting through her bad days than in bed with her.
@@ -63,3 +79,5 @@ Two men have gone further up this road than the rest.
 <!-- 2026-11-22 LEAKS closed after a test reader who bargains as James does. Closes the exit in 'If there was no future in it' (a maybe is not a promise); removes 'Most men stop at going home with someone now and then', which read as normal. -->
 
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). Covers the steady girlfriend with no plan to marry; 'She was a plate' cut (it came before the buffet picture and read as contempt); the line is no longer stated early. -->
+
+<!-- 2026-11-22 whole-book test as James (he said the No to the screen, the hand, the feed and the film, and stopped at 'any bed outside marriage'). New section 'Take the night apart': the book had only asserted that the hookup is 'the same hit'. It now runs the next-minute test on the bed (before, during, the minute after, the morning). -->

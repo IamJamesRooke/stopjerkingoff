@@ -58,6 +58,8 @@ Then test the lines the way you would test a bridge. Put weight on them.
 
 **Would you hand it on?** Would you teach your easier line to your son? Would you accept it from the man who dates your daughter? "At least she's a real woman" sounds different when the woman is her. For her you want the man who waits and then stays. Some other father wants that man for his daughter.
 
+**Does it let you find out who she is?** The fair-sounding line is this. Sleep with a woman you like, be honest with her, and see where it goes. Check that against your own record. How often did you sleep with her early and then lose interest? The wanting was doing your choosing, and once it was paid, it left. That line doesn't help a man find a wife. It stops him finding out whether he wants her. A man who waits has to like her with his clothes on.
+
 **Where does the desire go?** On every easier line it is spent, on a screen or a tissue or a stranger. Inside the promise the same force builds a bond, a home and perhaps children. One line burns it. The other puts it to work.
 
 You may be single, past forty, and unsure you will ever marry. Then the line seems to offer you nothing but going without. Look at what you would be going without. With the hand, it is a few seconds and relief from an itch the last time made. With a woman you won't keep, it is the same hit, and she pays for it too. Neither one was company. Neither one stayed. Nothing was ever owed to you nightly. The man who never does it isn't starving. He feels all day what you feel for ten minutes.
@@ -96,3 +98,5 @@ SOURCES: Epigraph and body quotation: Proverbs 5:15 (WEB, checked 2026-11-20). "
 <!-- 2026-11-22 LEAKS closed after a test reader who bargains as James does. Closes: 'count the rooms proves abstinence, not marriage' and 'nobody is used' overclaim (marriage is not a licensed room; the test still runs); the single man past forty who may never marry; 'three thousand years is age, not argument'; 'for now it's enough to know' (read as permission). 'Desire was God's idea' no longer asserts God to an unconvinced reader. -->
 
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). The single man's answer now covers the bed as well as the hand; the 'one question for any man' paragraph moved here from The Hookup, where it stated the line early. -->
+
+<!-- 2026-11-22 whole-book test as James (he said the No to the screen, the hand, the feed and the film, and stopped at 'any bed outside marriage'). New test under 'Why not an easier line?': the honest-relationship line fails on the reader's own record. -->

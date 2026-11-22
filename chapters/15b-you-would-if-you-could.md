@@ -42,7 +42,7 @@ She deserves better than a man whose loyalty depends on his luck. She deserves a
 
 That man isn't gritting his teeth. He has stopped wanting it, so there is nothing left to offer him.
 
-The single man thinks none of this touches him. He has nobody to betray. But look at what he is practicing. Each night he takes a woman who has no say, no needs and no name tomorrow. If he wants a wife one day, he is training to be a man she can't trust. If he never marries, he still has to live in that head.
+The single man thinks none of this touches him. He has nobody to betray. But look at what he is practicing. Each night he takes a woman who has no say, no needs and no name tomorrow. If he wants a wife one day, he is training to be a man she can't trust. If he never marries, he still has to live in that head. And the film is part of why he has nobody. A woman made of memory never says no, so real ones start to feel like hard work.
 
 And try one test. The woman from work is in his film tonight. Could he describe it to her at lunch tomorrow? If the film were harmless, he could.
 
@@ -113,3 +113,5 @@ That deals with the women who aren't there. The next excuse is about the ones wh
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). 'He isn't making a choice' read as 'tonight isn't my choice'. -->
 
 <!-- 2026-11-22 (James: 'some chapters won't apply to everybody... maybe you're not on subscription sites but keep reading because you will see how this is destroying other men's lives as well... Maybe you don't have an AI gf, but this is what lust leads to'). 'Keep reading' line before the computer girlfriend. -->
+
+<!-- 2026-11-22 whole-book test as James (he said the No to the screen, the hand, the feed and the film, and stopped at 'any bed outside marriage'). The single man: the film is part of why he is single. -->

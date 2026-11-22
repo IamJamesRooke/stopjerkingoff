@@ -42,7 +42,7 @@ After that, the two of you have real choices. You can bring the wedding forward.
 
 Only one choice is closed. Don't tell yourself you'll sort it out later and go on as before. "Later" is the oldest lie in the house.
 
-That is every room in the house. One more thing has kept the Little Monster alive in all of them for years, and it isn't desire. It is a locked door.
+That is every room in the house. Two men are still standing in the hall, and neither has a fiancée. The first is dating.
 
 <!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md): NEW CHAPTER, the hardest case under the fifth head, Take. The man is an anonymous archetype (STYLE.md, archetypal stories), written at James's direction: keep the biblical view as the ideal. No quotations and no statistics. -->
 
@@ -61,3 +61,5 @@ That is every room in the house. One more thing has kept the Little Monster aliv
 <!-- 2026-11-22 LEAKS closed after a test reader who bargains as James does. Closes 'a committed couple with a private promise passes every test; why witnesses?' and 'people divorce anyway'. -->
 
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). The Little Monster has no words; the excuse matches Where the Line Is; fornication is not defined twice. -->
+
+<!-- 2026-11-22 whole-book test as James (he said the No to the screen, the hand, the feed and the film, and stopped at 'any bed outside marriage'). New closing hook into the two new chapters for the dating man and the man who may never marry. -->

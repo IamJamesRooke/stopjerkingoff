@@ -20,8 +20,6 @@ But don't shrug it off. Something real happened. You fed the Little Monster and 
 
 *Find the lie that crept back.* A fall usually means an old lie got back in. You doubted, or you waited, or you kept a substitute, or you "tested" yourself, or you'd kept a way back. Nothing you learned in this book has been unlearned. Find the gap, read that part again if it helps, take the final step again and be glad again.
 
-You fell forward.
-
 ## The lies that follow a slip {-}
 
 The forums call it a "relapse" and reset the counter. The word does damage of its own. It turns one stupid act into an identity: *I'm a relapser.* What happened is smaller. You slipped, you fed the Little Monster, and now the Big Monster is telling you lies. Learn to recognize them.
@@ -41,31 +39,9 @@ A man follows this method and finds stopping easy. Then he feels guilty that it 
 
 See that for what it is: the old lie dressed up as holiness. Brooding and self-punishment aren't humility. If you're a Christian you know perfectly well who paid, and it wasn't you. Christ paid the debt in full. If you're Catholic and your priest gives you a penance, that is a different thing. It's medicine for the soul. It doesn't pay for your forgiveness. Christ did that. You don't owe misery on top. Take the freedom and be glad of it.
 
-## The hard journey of not drinking bleach {-}
+## Remember the bleach {-}
 
-If a slip has left you taking the whole business very solemnly, here is the cure. It comes from a writer who goes by Guillaco, in a short work called *Meditations of a Porn Addict*, which EasyPeasy quotes. He reasoned that the habit offers no benefit and only hurts you, so wanting it is about as sensible as wanting to drink bleach. Then he imagined the support forum. Here it is, lightly edited.
-
-"Hi! We are NoBleach, and we host challenges in which participants, called Bleachstronauts, abstain from drinking bleach for a period of time. Whether you want a monthly challenge as a test of self-control, or whether excessive bleach drinking has become a problem in your life and you want to quit for longer, you will find a supportive community and plenty of resources here."
-
-Then come the members. The first writes:
-
-"Sometimes I allow myself a glass of bleach or two. I know that 'just one drop' is a lie, but I don't think a single glass will hurt. One glass can't destroy all the hours I've gone without."
-
-A second:
-
-"I don't have a problem stopping. But sometimes I go down the street and see someone drinking water, you know, from a glass, and I imagine the glass has bleach in it. Then I get a craving. After debating with myself all day, I finally give in at night and drink a glass."
-
-A third has given up hope:
-
-"Stopping drinking bleach is impossible. I mean, I always have a mouth, you know? How am I supposed to stop when I always have a throat reminding me that I could swallow bleach?"
-
-And the last has just reset his counter:
-
-"Oh man, it was going so well. Nineteen whole days without doing it. The important thing is to learn from failure! Now I know what to avoid: looking at cleaning products in the supermarket. I'll try to make it to a month. I'm resetting my counter. Wish me luck!"
-
-Guillaco adds that he isn't mocking anyone's feelings. He wants you to see "how ridiculously easy it is (and always will be)" to be free. Then he asks: "How often do you allow yourself to drink a glass of bleach? Never? Why? Because it's a horrible thing, that's why!"
-
-Bleach doesn't taste good, and the orgasm does feel good for a few seconds. So stir sugar into the glass. It is still bleach.
+If a slip has left you taking the whole business very solemnly, remember the men on the forum who were trying not to drink bleach.
 
 You're smiling because you can see what the Bleachstronauts can't. Nobody needs courage, a counter or a monthly challenge to keep from drinking bleach. All a man needs is to see what's in the glass. After that, not drinking it isn't an achievement. It's an ordinary day.
 
@@ -96,3 +72,5 @@ That is everything you need for yourself. The last job is for somebody else.
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
 
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). The bleach story answers 'bleach doesn't feel good; this does'; every room named; the narrator doesn't assert God. -->
+
+<!-- 2026-11-22: the bleach forum moved to its own chapter before the Final Step; a short callback stays here. 'You fell forward.' cut (it called a fall progress). -->

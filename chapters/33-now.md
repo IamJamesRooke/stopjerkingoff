@@ -58,6 +58,8 @@ Look back at the house for a moment. The Little Monster had no body of his own. 
 
 And the man on the couch? His phone is lying face up on the cushion tonight, and he hasn't given it a thought.
 
+And the man in the bed at two in the morning? He is asleep. His phone is charging in the kitchen.
+
 And the button on the nightstand, the one you'd have broken the furniture to press? It was real. You pressed it.
 
 ## A blessing {-}
@@ -99,3 +101,5 @@ You're free, and you're fit for service. Go in peace.
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
 
 <!-- 2026-11-21 five-star pass (H5): reordered so the three payoffs (the house, the man on the couch, the button) come last before the blessing, under 'One last look'; 'Pass it on' cut to three short paragraphs (the cut text is in the rooms parking file parked-H5.md); 'play along one last time' reworded. -->
+
+<!-- 2026-11-22 whole-book test as James (he said the No to the screen, the hand, the feed and the film, and stopped at 'any bed outside marriage'). The single man from the Introduction's first scene now walks out of the book too. -->
