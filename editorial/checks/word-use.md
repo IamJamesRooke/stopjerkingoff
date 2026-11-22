@@ -4,12 +4,12 @@
 
 | File | words | lust | porn | women/woman | masturbat/MO | habit | soldier/duty/fit | Little Monster | Big Monster | wrong head | thread (can't be trusted) |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| Intro | 967 | 2 | 1 | 3 | 1 | 4 | 0 | 2 | 3 | 1 | 0 |
-| b | 978 | 0 | 2 | 1 | 1 | 4 | 0 | 1 | 2 | 0 | 0 |
+| Intro | 962 | 2 | 1 | 2 | 1 | 3 | 0 | 2 | 0 | 1 | 0 |
+| b | 975 | 0 | 2 | 1 | 1 | 4 | 0 | 1 | 0 | 0 | 0 |
 | c | 311 | 2 | 0 | 1 | 0 | 0 | 5 | 1 | 0 | 0 | 1 |
 | 1 | 1046 | 0 | 4 | 1 | 3 | 5 | 0 | 1 | 0 | 0 | 0 |
 | 1a | 1430 | 3 | 7 | 8 | 2 | 5 | 0 | 1 | 0 | 0 | 0 |
-| 1b | 1090 | 0 | 1 | 2 | 0 | 0 | 0 | 3 | 2 | 0 | 0 |
+| 1b | 1102 | 0 | 1 | 2 | 0 | 0 | 0 | 3 | 0 | 0 | 0 |
 | 1c | 716 | 3 | 0 | 5 | 0 | 0 | 0 | 1 | 0 | 0 | 0 |
 | 2 | 764 | 1 | 2 | 0 | 1 | 5 | 0 | 0 | 0 | 0 | 0 |
 | 2b | 1052 | 1 | 0 | 1 | 0 | 13 | 0 | 0 | 0 | 0 | 0 |
@@ -17,7 +17,7 @@
 | 3b | 929 | 0 | 0 | 0 | 1 | 9 | 0 | 4 | 0 | 0 | 0 |
 | 3c | 437 | 1 | 3 | 3 | 1 | 1 | 0 | 3 | 0 | 0 | 0 |
 | 3d | 715 | 2 | 0 | 0 | 0 | 3 | 1 | 5 | 0 | 0 | 0 |
-| 4 | 847 | 2 | 7 | 0 | 6 | 4 | 0 | 1 | 1 | 0 | 0 |
+| 4 | 864 | 2 | 7 | 0 | 6 | 4 | 0 | 1 | 1 | 0 | 0 |
 | 4b | 508 | 0 | 5 | 9 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 4c | 535 | 0 | 0 | 0 | 0 | 5 | 0 | 1 | 1 | 0 | 0 |
 | 5 | 779 | 3 | 2 | 0 | 2 | 8 | 0 | 3 | 1 | 0 | 0 |
@@ -74,19 +74,19 @@
 | faq | 1792 | 10 | 10 | 7 | 6 | 6 | 5 | 3 | 1 | 1 | 0 |
 | why-this-book | 1014 | 8 | 6 | 5 | 2 | 2 | 4 | 0 | 0 | 1 | 0 |
 
-## Overused words and phrases (book total 60171 words)
+## Overused words and phrases (book total 60192 words)
 
 | Word | Count | Per 1000 words | In how many files |
 |---|---|---|---|
-| nothing | 160 | 2.66 | 56 |
+| nothing | 162 | 2.69 | 56 |
 | trap | 76 | 1.26 | 32 |
 | a man who | 69 | 1.15 | 38 |
-| itch | 54 | 0.9 | 23 |
+| itch | 55 | 0.91 | 23 |
 | sin | 48 | 0.8 | 28 |
 | exactly | 25 | 0.42 | 16 |
 | relief | 25 | 0.42 | 13 |
+| really | 22 | 0.37 | 19 |
 | free man | 22 | 0.37 | 17 |
-| really | 21 | 0.35 | 18 |
 | plain | 19 | 0.32 | 17 |
 | willpower method | 19 | 0.32 | 13 |
 | simply | 18 | 0.3 | 17 |
@@ -100,7 +100,7 @@
 | quite | 9 | 0.15 | 7 |
 | envy | 8 | 0.13 | 4 |
 | of course | 7 | 0.12 | 6 |
-| pipsqueak | 6 | 0.1 | 6 |
+| pipsqueak | 7 | 0.12 | 7 |
 | mope | 5 | 0.08 | 5 |
 | honestly | 3 | 0.05 | 3 |
 | chain | 3 | 0.05 | 1 |
@@ -127,8 +127,8 @@
 - "if you have already stopped" x4 in 1, 17, 21, Intro
 - "quit porn and kept the" x4 in 14, 15, 4
 - "the easy way to stop" x4 in 1a, 34, attribution, faq
-- "the little monster is the" x4 in 12b, 1b, 31, Intro
 - "the man on the couch" x4 in 21, 22, 27, 33
 - "the man who never started" x4 in 1, 14, 3c, 8c
+- "thinking with the wrong head" x4 in 14d, Intro, faq, why-this-book
 - "who quit porn and kept" x4 in 14, 15, 4
 - "you have already stopped stay" x4 in 1, 17, 21, Intro

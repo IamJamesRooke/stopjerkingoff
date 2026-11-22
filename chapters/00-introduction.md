@@ -1,56 +1,72 @@
 It is two in the morning, and a man is lying in bed with his phone, breaking a promise he made an hour ago.
 
-He isn't enjoying himself. He hasn't for years. He has work at seven. In a few minutes it will be over, and he will lie in the dark feeling flat and a little stupid. Then he will say the two words he has said a thousand times. Never again.
+The screen lights his face, and his face shows nothing. His alarm is set for six. In a few minutes it will be over. He will wipe his hand, turn the phone face down, and stare at the ceiling. Then he will say the two words he has said a thousand times. Never again.
 
 He means it. He always means it.
 
-Everybody tells him it's normal. Nobody tells him why it feels like this afterward.
+Everybody tells him it's normal. Nobody tells him why he ends up staring at the ceiling.
 
 You know this man. Most men do. I was him for decades.
 
-He is no weakling. He has done harder things than this. Against this one thing he has tried everything: vows, prayers, blocked sites, cold showers, streaks. None of it lasted. So he has come to believe he is fighting a dragon.
+He is no weakling. He keeps his word to everyone but himself. Against this one thing he has tried vows, prayers, blocked sites, cold showers and streaks. Not one of them lasted. So he believes he is fighting a dragon.
 
 There is no dragon.
 
-Picture it this way instead. The man is a house, and in the back room upstairs lives a little monster. The monster is the craving, that small restless itch that says "go on". He is small, and he smells. He has no strength of his own. He lives on the meals the man carries up to him, and every time the man gives in, that is a meal. When the monster gets hungry, he bangs on the floor. That banging is the urge. It is what put the phone in the man's hand tonight.
+## What he is really fighting {-}
 
-So why does the man keep feeding him? Because when he is fed, the banging stops. The quiet feels so good that the man thinks the little monster gave it to him. He says it helps him sleep. He says it takes the edge off. He wants the monster out, and he is afraid the quiet will go with him.
+A while after the last time, a feeling shows up. It isn't pain. It is a faint, fidgety itch, like a phone buzzing in another room. That itch is the craving, and it is all there is to fight.
 
-So there are two monsters, and this book has a name for each. The Little Monster is the craving. The Big Monster is no creature at all. It is the belief that the craving is worth feeding, that the habit does something for him. One is an itch. The other is an idea in the man's head, and it is the only thing holding him.
+This book gives the craving a name and a face. It calls him the Little Monster. He is not a demon, and nothing is really living in you. He is a picture of that itch.
 
-And it is a lie. The house was quiet before the monster moved in. The man slept fine as a boy. The rest of this book is the proof.
+Here is the picture. Your life is a house. In the back room upstairs lives a creature the size of a house cat. He smells like a gym bag left in a hot car. He can't open a door or get down the stairs. He eats only what you carry up to him, and every time you give in, that is a meal. When he gets hungry, he bangs on the floor. That banging is the urge. It put the phone in the man's hand tonight.
 
-If you are that man, nothing strong ever beat you. Something small fooled you, and you have been feeding him yourself.
+A dragon would at least be an honor. This is a pipsqueak. You could carry him out in one hand.
 
-Small is not the same as harmless. He has cost you plenty, and we will add it up.
+## Why you keep feeding him {-}
 
-But this book will not ask you to try harder. You have tried harder. Most methods hand you a sword and point you at the dragon. No man wins a fight against something he still believes is doing him good.
+So why does a grown man keep carrying meals up to a thing like that?
 
-This book does one thing instead. It takes the Big Monster apart, lie by lie, until you see that the little one has nothing you want. A man who sees that needs no willpower. He just stops carrying dinner up the stairs.
+Because when he is fed, the banging stops. The house goes quiet, and the quiet feels like a gift. You think he gave it to you.
 
-Here is what you get. You stop watching porn, and you stop masturbating. This book calls those two together *the habit*. Then the book goes after *lust* itself, the appetite behind the habit. You stop letting the wrong head make your decisions about women. You stop for good, and you don't miss it. You don't have to believe that yet.
+The rest is lies. Some were told to you. "A man needs it." "It's healthy." "Everybody does it." Some you tell yourself. "It helps me sleep." "It takes the edge off." "I've earned it."
 
-Nobody here will shame you or try to scare you. Shame and fear are what sent you back to the phone.
+Every one says he pays his way. He doesn't. The house was quiet before he moved in. You slept fine when you were nine. The habit gives you nothing. It only stops, for a while, a noise it made itself.
 
-Save your grit for something that deserves it. There are mountains to climb and children to raise. Don't let this be the battle that defines you. The Little Monster is a pest. Put him out, and get on with your life.
+A creature the size of a cat can't hold a grown man. The lies hold him.
+
+## What this book does {-}
+
+So this book will not ask you to try harder. You have tried harder. Most methods hand you a sword and point you at the dragon. No man wins a fight against something he still thinks is doing him good.
+
+This book does one thing. It takes the lies apart, one at a time, until you see the Little Monster has nothing you want. A man who sees that needs no willpower. He stops carrying dinner up the stairs.
+
+Here is what you get. You stop watching porn, and you stop masturbating. This book calls those two together *the habit*. Then it goes after *lust*, the wider appetite behind the habit, the one that has you thinking with the wrong head. You stop once, at the end of the book, for good. You don't miss it. You don't have to believe that yet.
+
+Nobody here will shame you or scare you. Shame and fear are what sent you back to the phone.
+
+Save your grit for something that deserves it. There are mountains to climb and children to raise. This is a pest in a back room. Put him out, and get on with your life.
+
+## Before you start {-}
 
 This book quotes the Bible and takes God seriously. If you believe, you'll find this way leans on grace, not grit. If you don't, the way out is the same, and it is open to you.
 
-If you are a woman, you are welcome here. The book says "he" throughout, but the Big Monster tells you the same lie, and it comes apart the same way.
+If you are a woman, you are welcome here. The book says "he" throughout, but you were told the same lies, and they come apart the same way.
 
-One caution. A book is not a doctor. Nobody has tested this method in a clinic. If you have thoughts of harming yourself, see a doctor or a counselor now. Do the same if this began with something done to you as a child. Do the same if your urges frighten you, or pull you toward anything illegal. Read this book with their help. You are not beyond help, and the Appendix says more.
+One caution. A book is not a doctor, and nobody has tested this method in a clinic. If you have thoughts of harming yourself, see a doctor or a counselor now. Do the same if this began with something done to you as a child. Do the same if your urges frighten you, or pull you toward anything illegal. Read this book with their help. You are not beyond help, and the Appendix says more.
 
-The book takes about four hours, and nobody has to know you're reading it. Read it this week. There are two rules.
+## Two rules {-}
+
+The book takes about four hours, and nobody has to know you're reading it. Read it this week.
 
 **Rule one: DO NOT SKIP CHAPTERS.** They are short. Each one takes down one lie, and the last step only works if the others came first.
 
-**Rule two: Don't try to quit while you read.** Make no vows, start no streaks, and don't cut down. Everything you have been told says to try harder and reset the counter. Has any of it worked?
+**Rule two: Don't try to quit while you read.** Make no vows, start no streaks, and don't cut down. You have done all three before. Where are they now?
 
-Nobody is telling you to sin. If you have already stopped, stay stopped.
+Nobody is telling you to sin. If you have already stopped, stay stopped. If you slip while you read, keep reading.
 
-Rule two has one exception, and it can't wait for the end of the book. If your lust is hurting someone else, stop that today. That means an affair, paying for sex, pressing a woman who has said no, or anything against the law. Someone else is getting hurt.
+Rule two has one exception. If your lust is hurting someone else, stop that today. That means an affair, paying for sex, pressing a woman who has said no, or anything against the law. That can't wait for the last page.
 
-If you slip back into the habit while you read, don't despair. Keep reading.
+## Two in the morning {-}
 
 Now go back to the man in the bed. It is still two in the morning. Put one thing on his nightstand.
 
@@ -103,3 +119,5 @@ SOURCES (Introduction): every quote below is from the research files; check each
 <!-- 2026-11-21 Introduction rebuilt (James: 'The intro is the most important part of the book. REALLY think about how to improve it.'). Four versions were tested on seven cold readers in two rounds (two non-religious skeptics, two long-time Christian strugglers, two men of 19 and 20, an audio editor); record in editorial/INTRO-REBUILD-2026-11-21.md. New first sentence (also the homepage line) adds 'breaking a promise he made an hour ago'. Added: the 'normal / afterward' line, 'I was him for years', the argument for why other methods fail, 'Small is not the same as harmless', a plain line that the book quotes the Bible and takes God seriously (James, same day: he is not a confirmed Christian yet, so the book must not say a Christian wrote it), 'nobody has to know you're reading it', 'Read it this week'. Cut and parked: the headings, the four-word glossary (the habit and lust are now named inside the promise), the second testimony, the note to helpers, 'teeth, bone, sinew and will'. Both safety notes kept in substance. -->
 
 <!-- 2026-11-22 hard pass (James: 'Intro is by far the most important part', '90 percent there', 'the little monster and the squatter, something doesn't gel'). One name for the creature (the Little Monster; 'squatter' is gone from the whole book). A cold editor read it three ways. Fixed: the house is now introduced; the banging is tied to the 2 a.m. scene; 'why does he keep him' is answered in full (he wants him out and fears the quiet will go too); the belief is called a lie ('The house was quiet before the monster moved in'); 'You don't have to believe that yet'; rules numbered for the ear; one exception, not two; the doctor note moved ahead of the rules; the welcome to women moved up; the fog quote cut (PARKING.md). -->
+
+<!-- 2026-11-22 research rebuild (James: 'something stopping it from being five star'; vague adjectives; no section headers; the monster could be read literally; 'maybe no big monster at all, just the lies'; 'show, don't tell'; Scott Adams's 'The Day You Became a Better Writer'). Built from research on how strong self-help and quit-addiction books open (Carr's own front matter, Clear, Grace, Goggins, an addiction memoir, Made to Stick, editors' guides, writing for audio). Changes: the scene is shown, not told; the craving is described as a plain feeling BEFORE it is named, with one guard line for the literal reader ('nothing is really living in you'); 'small' is now the size of a house cat, 'smells' is a gym bag left in a hot car; one creature only, with the lies in two piles (told to you, told by you) and no 'Big Monster' until The World's Lies; six section headers; housekeeping split under 'Before you start' and 'Two rules'. The previous Introduction is saved whole in editorial/PARKING.md. -->
