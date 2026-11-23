@@ -36,6 +36,12 @@ And look who the machine pays. In 2022 the Pew Research Center asked Americans w
 
 Same app, two different evenings. Three in ten of those men said casual sex was a major reason they were on it. Among the women it was about one in eight. So most men on the thing are fishing for something most of the women aren't offering. They sit waiting for a buzz that doesn't come. A slot machine at least takes your money fast. This one takes your evenings, and pays in maybes.
 
+Now ask how the app makes its money. You pay by the month for more swipes and better odds. A man who finds his wife cancels. A man who almost finds her pays again. Nobody has to cheat you for that to matter. The app's best customer is the man who never quite gets there.
+
+In 2024 six users took the owner of two of the biggest apps to court in San Francisco. Their complaint said the apps were built like games, to lock users into paying, and that users "will chase the elusive high of matching". The company called the suit ridiculous. Leave that to the lawyers. You don't need a verdict to know how a slot machine works. It pays a little, now and then, on no schedule you can learn. That's what keeps a man in the chair.
+
+A match is the same little jolt. It lands just often enough to keep your thumb moving.
+
 So the test is simple. Are you looking for a wife, or looking for a hit? If it's a wife, you won't need fifty at a time. If it's a hit, you know what to call it.
 
 ## The man who wins {-}
@@ -103,3 +109,5 @@ Six men, then. One at the party, one who waits, one who swipes and one who wins.
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
 
 <!-- 2026-11-23 (James sent X posts on dating apps; posts are leads only). Kernel kept: the apps pay out unevenly and eat the average man's evenings. Figures from Pew Research Center, 'Key findings about online dating in the U.S.' (2 Feb 2023; survey 5-17 July 2022, 6,034 U.S. adults): past-year users, overwhelmed by messages 54% women vs 25% men; insecure from lack of messages 64% men vs 40% women; casual sex a major reason 31% men vs 13% women. Not used: the jabs at women ('cat lady', 'simps'); the book mocks the habit, not people. -->
+
+<!-- 2026-11-23 (James: explain how the apps are built to keep you hooked and paying; a matched man quits and they lose money). Incentive stated as logic, not as proven intent. Lawsuit: proposed class action against Match Group (Tinder, Hinge), filed 14 Feb 2024, U.S. District Court N.D. California, six plaintiffs; quotes and Match's 'ridiculous and has zero merit' as reported by NPR, 14 Feb 2024. Outcome not stated in the book because not verified. -->
