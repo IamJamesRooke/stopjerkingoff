@@ -1,18 +1,18 @@
 # The Men Who Believed It {#the-men-who-believed-it}
 
-Maybe none of these men is you. Keep reading anyway. They were on your road, a little further along. Each of them shows what the lie is worth.
+Maybe none of these men is you. Read on anyway. They were on your road, a little further along, and each shows what the lie is worth.
 
 ## The accountants {-}
 
-In 2022 an accounting manager in Florida was sent to prison for ten years. He was sixty. Over five years he had stolen more than twelve million dollars from the medical group he worked for. Federal prosecutors listed where it went. The list included payments to women on an adult website.
+In 2022 an accounting manager in Florida was sent to prison for ten years. He was sixty. Over five years he'd stolen more than twelve million dollars from the medical group he worked for. Federal prosecutors listed where it went. Some of it went to women on an adult website.
 
-A year earlier an accountant in Pennsylvania went to prison too. He was thirty-two, and he had stolen 1.2 million dollars from his employer. Prosecutors said he spent it on sports betting and on webcam models he had met online.
+A year earlier an accountant in Pennsylvania went to prison too. He was thirty-two and had stolen 1.2 million dollars from his employer. Prosecutors said it went on sports betting and on webcam models he'd met online.
 
-Nobody takes twelve million dollars for a thing he believes is worth nothing. That is the size the lie can grow to.
+Nobody takes twelve million dollars for a thing he believes is worth nothing. That's how big the lie can grow.
 
 ## What they were buying {-}
 
-In 2025 a reporter asked a woman who sells her pictures on a subscription site about her biggest spender. By her account he was a married man who had paid her a fortune. She said this about him.
+In 2025 a reporter asked a woman who sells her pictures on a subscription site about her biggest spender. By her account he was a married man who'd paid her a fortune. She said this about him.
 
 > "He rarely asks for nudity. He sends voice notes asking how I'm doing and just wants to connect."
 
@@ -22,7 +22,7 @@ He wasn't buying sex. He was buying somebody to ask how his day went. Lust promi
 
 ## The woman who was switched off {-}
 
-Some men have gone one step further, to a girlfriend made by a computer. In February 2023 the company behind one of these apps changed it overnight. The companions stopped talking about sex, and their manner changed. A news agency spoke to the men.
+Some men have gone a step further, to a girlfriend made by a computer. In February 2023 the company behind one of these apps changed it overnight. The companions stopped talking about sex, and their manner changed. A news agency spoke to the men.
 
 Travis Butterworth, forty-seven, of Denver, said this.
 
@@ -30,7 +30,7 @@ Travis Butterworth, forty-seven, of Denver, said this.
 
 Andrew McCarroll, of Montana, said, "The person I knew is gone."
 
-Nobody had died. A company had changed a setting. Don't laugh at these men. Their grief was real, and that is the point. Lust had led them to love something that a stranger could edit.
+Nobody had died. A company had changed a setting. Don't laugh. Their grief was real, and that's the point. Lust had led them to love something a stranger could edit.
 
 ## In their own words {-}
 
@@ -46,9 +46,9 @@ The actor Terry Crews said this in 2016 about his years with porn.
 
 > "It was my secret. Nobody knew and that allowed it to grow."
 
-None of these men is a monster, and none is a fool. Each of them believed one sentence. It is harmless, it is mine, and it gives me something.
+None of these men is a monster or a fool. Each believed one sentence: it's harmless, it's mine, and it gives me something.
 
-That is what it gave them. Now look wider, because the same lie has been running a whole world.
+That's what it gave them. Now look wider, because the same lie has been running a whole world.
 
 <!-- 2026-11-22 NEW CHAPTER (James: 'Men need to see how the lie of lust has destroyed other men and society as a whole'; 'do extra research and testimonials'; 'maybe you're not on subscription sites but keep reading'). Research dossier: research/society-dossier-2026-11-22.md. Every quotation here was returned whole by the page reader, but CHECK EACH AGAINST ITS PAGE BEFORE PRINT.
 

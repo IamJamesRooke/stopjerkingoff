@@ -4,49 +4,49 @@
 >
 > — Galatians 5:17
 
-First, get one thing straight. There is nothing wrong with your sex drive.
+First, get one thing straight. There's nothing wrong with your sex drive.
 
 A Christian will tell you God made it, and made it strong on purpose. Desire for a woman is the reason any of us are here. It's meant to pull a man out of himself and toward a wife, a home and children.
 
 If you don't believe, the point still stands. That drive gets a man out of his room and toward a woman he can build a home with. No child was ever made behind a locked door.
 
-C.S. Lewis, the author of the Narnia stories, also wrote a book called *The Screwtape Letters*. In it a senior devil named Screwtape writes to a junior devil, coaching him on how to tempt one ordinary man. At one point Screwtape complains about God: "He made the pleasures: all our research so far has not enabled us to produce one." The other side can't make a pleasure. It can only bend one.
+C.S. Lewis, the author of the Narnia stories, also wrote a book called *The Screwtape Letters*. In it a senior devil named Screwtape writes to a junior devil, coaching him on how to tempt one ordinary man. At one point Screwtape grumbles about God: "He made the pleasures: all our research so far has not enabled us to produce one." Hell can't make a pleasure. It can only bend one.
 
-A preacher who was bound by this habit for years puts the whole matter in a line. The trouble, he says, is "the wrong use of the right thing. Pleasure is not bad."
+A preacher who was bound by this habit for years sums it up in a line. The trouble, he says, is "the wrong use of the right thing. Pleasure is not bad."
 
-The wrong use comes from what Paul calls "the flesh". He doesn't mean your skin. He means the part of a man that wants what it wants, now, for itself, and doesn't care what it costs. If you're not a believer, call it appetite. Whatever you call it, you've met it.
+The wrong use comes from what Paul calls "the flesh". He doesn't mean your skin. He means the part of a man that wants what it wants, now, for itself, whatever it costs. If you're not a believer, call it appetite. Whatever you call it, you've met it.
 
 Lust is what happens when the flesh gets hold of desire. Desire says, "She is lovely." Lust says, "I want that, for me, now." Desire sees a person. Lust sees something to use.
 
-There is an old word for a thing set apart for a high use. The word is holy. Your body is in that class, and so is the drive God put in it. Paul asks his readers, "don't you know that your body is a temple of the Holy Spirit who is in you". He isn't saying your body is dirty. He is saying it is too good for this. If you're not a believer, think of something you would never use carelessly, like your grandfather's watch. Lust picks up the watch and hammers a nail with it.
+There's an old word for a thing set apart for a high use: holy. Your body is in that class, and so is the drive God put in it. Paul asks his readers, "don't you know that your body is a temple of the Holy Spirit who is in you". He isn't saying your body is dirty. He's saying it's too good for this. If you're not a believer, think of something you'd never use carelessly, like your grandfather's watch. Lust picks up the watch and hammers a nail with it.
 
 ![](images/illustrations/flesh-watch-as-a-hammer.png){.illustration width=80%}
 
 
-Lust feeds in more ways than one. Masturbation is the plainest case, so we'll use it to show how lust works. A drive that was built to bind a man to one woman is made to end in a tissue. It's a hijacking, and the plane lands nowhere.
+Lust feeds in more ways than one. Masturbation is the plainest case, so we'll use it to show how lust works. A drive built to bind a man to one woman is made to end in a tissue. It's a hijacking, and the plane lands nowhere.
 
 ## How the loop works {-}
 
-You'll find plenty of videos that explain this habit with brain chemistry, complete with diagrams. We'll skip all of it. Some of it is shaky, and you don't need any of it. You don't have to understand an engine to notice that the car keeps pulling left.
+You'll find plenty of videos that explain this habit with brain chemistry and diagrams. Skip them. Some of it is shaky, and you don't need any of it. You don't have to understand an engine to notice the car keeps pulling left.
 
-What happens is simple, and you can check every step against your own experience.
+It's simple, and you can check every step against your own life.
 
 1. **A cue.** You get into bed. You step into the shower. The house goes quiet. You're bored, or wound up, or lonely, or you saw something on your phone.
 2. **An urge.** A small, restless "go on".
 3. **Relief.** You do it, or you open the site. The restlessness stops.
 
-That's the loop: cue, urge, relief. Every time you go around it, you teach yourself that this cue leads to that relief. Do it a few hundred times and the lesson is learned by heart. The cue alone will now produce the urge. It doesn't matter whether you're aroused, in the mood, or even paying attention.
+That's the loop: cue, urge, relief. Every trip around it teaches you that this cue leads to that relief. Do it a few hundred times and you know the lesson by heart. The cue alone now produces the urge. You don't have to be aroused, or in the mood, or even paying attention.
 
-It's like a shortcut across a lawn. The first time, you barely leave a mark. Walk the same line every night for ten years and there's a bare strip of earth, and your feet take it without asking you.
+It's a shortcut across a lawn. The first time, you barely leave a mark. Walk the same line every night for ten years and there's a bare strip of dirt, and your feet take it without asking.
 
 ![](images/illustrations/flesh-path-across-the-lawn.png){.illustration width=80%}
 
 
-That's the whole mechanism. It doesn't mean you have a broken brain, an unusually high drive or a weak character. You have a path worn in the grass.
+That's the whole mechanism. You don't have a broken brain, an unusually high drive or a weak character. You have a path worn in the grass.
 
 One more thing. The urge isn't really desire for a woman. It's the wish to end a restless feeling. Hold on to that, because everything hangs on it.
 
-That restless feeling is the Little Monster. It is time to meet him properly.
+That restless feeling is the Little Monster. Time to meet him properly.
 
 <!-- SOURCES (Chapter 3): every quote below is from the research files; check each against its page before publishing.
 - "I hate it, but I continually feed it." — cha, Covenant Eyes comments, 8 Nov 2016, https://www.covenanteyes.com/blog/three-steps-to-kick-the-habit-of-masturbation/comment-page-6/ (also used in the Introduction; the book counts "seven words")

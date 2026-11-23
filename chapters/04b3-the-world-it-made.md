@@ -15,17 +15,17 @@ The rules came off. Every man now carries more naked women in his pocket than a 
 
 ## What this does not prove {-}
 
-Be careful with those numbers. The researchers behind them do not blame porn. They point to money, to later marriage, and to screens of every kind. One of these studies found that men who watch porn were more likely to be having sex, and not less. Some men would add the divorce courts, and they have a case. A man who watched a friend lose his house and his children is no fool. That argument gets its turn before the book is done.
+Be careful with those numbers. The researchers behind them don't blame porn. They point to money, later marriage, and screens of every kind. One study even found that men who watch porn were more likely to be having sex, not less. Some men would add the divorce courts, and they have a case. A man who watched a friend lose his house and his children is no fool. That argument gets its turn before the book is done.
 
-So this book won't tell you that porn emptied the bedrooms. It can't prove that, and neither can anyone else.
+So this book won't tell you porn emptied the bedrooms. It can't prove that, and neither can anyone else.
 
-It says something smaller, and harder to argue with. Lust promised a feast. For two generations it has had every tool and no rules. And the men it made the promise to are more alone than their grandfathers were.
+It says something smaller, and harder to argue with. Lust promised a feast. For two generations it's had every tool and no rules. And the men it made the promise to are more alone than their grandfathers were.
 
-The promise was not kept.
+The promise wasn't kept.
 
 ## Who paid {-}
 
-Remember the California company whose owner got twenty-seven years. By 2026 every person charged in that case had been sentenced, seven in all. The women spoke in court. One said this.
+Remember the California company whose owner got twenty-seven years? By 2026 everyone charged in that case had been sentenced, seven in all. The women spoke in court. One said this.
 
 > "The life I was meant to have, died in that hotel room."
 
@@ -37,9 +37,9 @@ In 2023 the company that owns the biggest porn site admitted to receiving procee
 
 In 1934 a scholar named J. D. Unwin published a long study with Oxford University Press. He compared more than eighty societies. He concluded that those which kept sex inside strict marriage had the most energy. He also concluded that they lost it within a few generations of loosening the rule. He wrote that he began with no thesis to prove.
 
-His methods are ninety years old, and nobody has repeated the work with modern ones. So take it as one man's finding and no more. But a scholar asked the question, and that was the answer he got.
+His methods are ninety years old, and nobody has repeated the work with modern ones. Take it as one man's finding and no more. Still, a scholar asked the question, and that was the answer he got.
 
-That is what the world's lies delivered, to other men and to the world. One liar is left, and he is the most persuasive of all. You have known him all your life.
+That's what the world's lies delivered, to other men and to the world. One liar is left, and he's the most persuasive of all. You've known him all your life.
 
 <!-- 2026-11-22 NEW CHAPTER (James: 'Men need to see how the lie of lust has destroyed other men and society as a whole'). Research dossier: research/society-dossier-2026-11-22.md. The chapter states plainly that the researchers do not blame porn; it argues only that lust's promise was not kept. CHECK EACH QUOTATION AND FIGURE AGAINST ITS PAGE BEFORE PRINT.
 

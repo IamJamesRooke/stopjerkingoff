@@ -6,39 +6,39 @@
 
 The flesh supplies the itch. The world supplies the reasons to scratch it.
 
-Two things keep a man in this trap. The first is the flesh, with its small, restless itch: the Little Monster. The second is the lies, and they are much the bigger of the two. So they get a name as well. Call the whole pile the Big Monster. It is every lie you were told about the habit, and every lie you told yourself. It is no creature. It lives in your head, and it does all the little one's talking.
+Two things keep a man in this trap. One is the flesh, with its small, restless itch: the Little Monster. The other is the lies, and they're far bigger, so they get a name too: the Big Monster. It's every lie you were told about the habit, and every lie you told yourself. It's no creature. It lives in your head, and it does all the talking.
 
-Start with masturbation, because the loudest lies are about that. Your grandfather was told that it would make him go blind, grow hair on his palms and land him in an asylum. That was nonsense, and it deserved to be laughed out of the room. But when the scare stories went, the truth went out with them. Now a boy hears the opposite sermon, preached just as confidently. It has five points.
+Start with the loudest lies, the ones about masturbation. Your grandfather was told it would make him go blind, grow hair on his palms and land him in an asylum. Nonsense, and it got laughed out of the room. But when the scare stories went, the truth went with them. Now a boy hears the opposite sermon, just as confident. It has five points.
 
-**"Everyone does it."** Nearly true. But a crowded trap is still a trap. Since when did you take directions from a crowd that's lost?
+**"Everyone does it."** Nearly true. But a crowded trap is still a trap. Since when do you take directions from a crowd that's lost?
 
-**"It's healthy. It's harmless. Doctors say so."** Medicine says it doesn't hurt your body. But the doctor is answering a question you never asked. You didn't ask whether it would damage your prostate. You asked why you can't stop, and why you feel like a smaller man afterward. A Christian writer made the distinction neatly: "But just because something isn't harmful physically doesn't mean it's not harmful spiritually."
+**"It's healthy. It's harmless. Doctors say so."** Medicine says it doesn't hurt your body. Fine, but the doctor is answering a question you never asked. You didn't ask about your prostate. You asked why you can't stop, and why you feel like a smaller man afterward. A Christian writer put the distinction neatly: "But just because something isn't harmful physically doesn't mean it's not harmful spiritually."
 
-**"It's natural."** So is a great deal that you wouldn't copy. One preacher, who was bound by masturbation for years himself, answers in nine words: "We also see in nature where pigs eat trash." Natural is not the same as good.
+**"It's natural."** So is plenty you wouldn't copy. One preacher, who was bound by masturbation for years himself, answers in nine words: "We also see in nature where pigs eat trash." Natural isn't the same as good.
 
-**"A man needs the release."** You need air, water and food. Go without those and you die. No man has ever been carried out of a tent after a week's camping because he couldn't get a minute alone.
+**"A man needs the release."** You need air, water and food. Skip those and you die. No man has ever been carried out of a tent after a week of camping because he couldn't get a minute alone.
 
-**"It keeps you out of worse trouble."** It doesn't even work. Ask the men who quit porn and kept the hand. The hand let the porn back in. And nowhere does the Bible tell a man to commit one sin in order to avoid another.
+**"It keeps you out of worse trouble."** It doesn't even work. Ask the men who quit porn and kept the hand. The hand let the porn back in. And nowhere does the Bible tell a man to commit one sin to avoid another.
 
 ## The opposite lie {-}
 
-There is hype in the other direction too. Stop, whole corners of the internet promise, and you'll get powers. The biggest forum of them all started with a thread about a study claiming a testosterone spike after seven days. That study was retracted in 2021.
+The hype runs the other way too. Stop, whole corners of the internet promise, and you'll get powers. The biggest forum of them all started with a thread about a study claiming a testosterone spike after seven days. The study was retracted in 2021.
 
-All that hype ought to get men out. It helps to keep them in. It turns stopping into a feat. You count days, you take vows and you call yourself a warrior. That is a lot of armor for evicting a pipsqueak. Then day thirty comes, the prize hasn't arrived, and back you go.
+All that hype ought to get men out. Instead it keeps them in, because it turns stopping into a feat. You count days, take vows, call yourself a warrior. That's a lot of armor for evicting a pipsqueak. Then day thirty comes, the prize hasn't shown up, and back you go.
 
-Both sermons, "it's good for you" and "quitting gives you powers", agree on one thing. Both say that stopping is a big deal. It isn't.
+Both sermons, "it's good for you" and "quitting gives you powers", agree on one thing: stopping is a big deal. It isn't.
 
 ## The quiet pulpit {-}
 
-You'd expect the church to push back. Mostly it says nothing. A man can sit in a pew for thirty years and never hear masturbation named once. A boy hears jokes about it at school and silence about it in church. He concludes that it doesn't matter, or that he is the only one. Some kind and respected Christian teachers even said it was fine, to spare teenagers from crushing guilt.
+You'd expect the church to push back. Mostly it says nothing. A man can sit in a pew for thirty years and never hear masturbation named once. A boy hears jokes about it at school and silence in church. He decides it doesn't matter, or that he's the only one. Some kind and respected Christian teachers even said it was fine, to spare teenagers crushing guilt.
 
 ## Two things to be fair about {-}
 
-The people who defend masturbation have two fair points, and I'll grant them both.
+Its defenders have two fair points, and I'll grant both.
 
-First, the Bible never mentions masturbation by name. If you were hoping for a verse that says "you shall not", there isn't one, and this book won't pretend there is. But Jesus didn't need to name the act, because he went behind it. In Matthew 5:28 he put the sin in the look and in the heart, and that is where masturbation lives. Ask yourself how often it has happened without lust, and you have your answer. The Catholic Church goes further. It teaches that the act is wrong in itself, because sex was made to join a husband and wife. Many Protestant pastors reach the same place through Jesus's words about the look.
+First, the Bible never mentions masturbation by name. If you were hoping for a verse that says "you shall not", there isn't one, and this book won't pretend there is. But Jesus didn't need to name the act. He went behind it. In Matthew 5:28 he put the sin in the look and in the heart, and that's where masturbation lives. Ask yourself how often it's happened without lust, and you have your answer. The Catholic Church goes further. It teaches that the act is wrong in itself, because sex was made to join a husband and wife. Many Protestant pastors get to the same place through Jesus's words about the look.
 
-Second, the numbers, and here I have to borrow from porn, because porn is what gets studied. In one 2017 study of adults who watch porn, nearly nine in ten were not compulsive in the sense a clinic uses. About one in eight used porn little and still felt great distress over it. If that is you, the war has hurt you as much as the habit. This book means to end both. It doesn't call every man with the habit a clinical addict. Its judgment is moral and spiritual, not medical, and most doctors would not make it. It rests on what Jesus said about lust, and on what men say the habit has cost them. Besides, you didn't pick up a book with this title because you were fine.
+Second, the numbers. I have to borrow from porn here, because porn is what gets studied. In one 2017 study of adults who watch porn, nearly nine in ten weren't compulsive in the sense a clinic uses. About one in eight used porn little and still felt great distress over it. If that's you, the war has hurt you as much as the habit. This book means to end both. It doesn't call every man with the habit a clinical addict. Its judgment is moral and spiritual, not medical, and most doctors wouldn't make it. It rests on what Jesus said about lust, and on what men say the habit has cost them. Besides, you didn't pick up a book with this title because you were fine.
 
 Those are the lies about the hand. Porn has its own set, and somebody else pays for those too.
 

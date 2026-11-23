@@ -4,53 +4,53 @@
 >
 > — Ephesians 5:15–16
 
-Ask a man why he wants to stop and he'll usually give you one of three answers: his conscience, his energy, or his wife.
+Ask a man why he wants to stop and he'll give you one of three answers: his conscience, his energy, or his wife.
 
-He almost never mentions the plain slavery of it. Men have bled to end slavery wherever they've found it. Yet here is a man who puts the collar on himself every night and calls it his private business. The strangest part is something he never notices. On the nights when nothing stops him, he does it and wishes he were a man who didn't. The only time the habit looks precious is when he's trying to cut down, or when something rules it out.
+He almost never mentions the plain slavery of it. Men have bled to end slavery wherever they've found it. Yet here's a man who puts the collar on himself every night and calls it his private business. And on the nights when nothing stops him, he does it and wishes he were a man who didn't. The habit only looks precious when he's trying to cut down, or when something rules it out.
 
-The next pages count what that slavery costs. None of it is here to scare you into stopping. Fear never worked. It is here because a thing that gives nothing and costs this much takes no willpower to leave. These are not your reasons to stop. Leave those on the shelf.
+Let's count what that slavery costs. Not to scare you into stopping. Fear never worked. A thing that gives nothing and costs this much takes no willpower to leave. These aren't your reasons to stop. Leave those on the shelf.
 
 The first cost needs no doctor, no pastor and no argument about whether it's a sin. All it needs is a clock.
 
 ## Do the math {-}
 
-Most men call it ten minutes. Is it? Count the scrolling beforehand and the slump afterward. Call it thirty minutes a day, and you know that's on the low side. That is a full working day every two weeks. It comes to about a hundred and eighty hours a year, which is roughly a month of working days. Keep it up for forty years and you've spent three and a half working years of your life on it. What did you make in that time? Who did you get to know? The woman in your head doesn't know you exist.
+Most men call it ten minutes. Is it? Count the scrolling beforehand and the slump afterward. Call it thirty minutes a day, and you know that's low. That's a full working day every two weeks. About a hundred and eighty hours a year, a month of working days. Keep it up for forty years and you've spent three and a half working years of your life on it. What did you make in that time? Who did you get to know? The woman in your head doesn't know you exist.
 
-Now and then a man works out what a week costs him, and that's unpleasant enough. He never does the math for a lifetime.
+A man might work out what one week costs him, and that's bad enough. He never does the math for a lifetime.
 
 ## It was never ten minutes {-}
 
-Be honest about where the time goes. The act is the smallest part of it.
+The act is the smallest part of it.
 
-**The hunt.** If porn is still in the picture, you know about the hunt. Some men end the night with a hundred tabs open, still searching for the one video that will do. If porn is gone, the hunt has only moved. Now it's a scroll through a feed that was supposed to be innocent. Or it's a slow search through your own memory for a scene that still works.
+**The hunt.** If porn's still in the picture, you know the hunt. A hundred tabs open at midnight, still searching for the one video that will do. If porn's gone, the hunt has only moved: a scroll through a feed that was supposed to be innocent, or a slow dig through your own memory for a scene that still works.
 
-**The slump.** You know the half hour afterward, when you lie there like a dropped coat. Sometimes it's the whole flat evening. Do that daily and it adds up to lost days.
+**The slump.** The half hour afterward, when you lie there like a dropped coat. Sometimes the whole flat evening. Do that daily and you've lost whole days.
 
 ![](images/illustrations/time-the-dropped-coat.png){.illustration width=80%}
 
 **The night and the morning.** Midnight becomes one o'clock, and the next morning is gone before it starts.
 
-**The hours in your head.** These don't show on any clock. They're the minutes at your desk, at dinner and on the train when part of you is already planning tonight.
+**The hours in your head.** No clock catches these: the minutes at your desk, at dinner and on the train when part of you is already planning tonight.
 
-Then add the biggest cost: the things that never happened. The book you didn't write. The business you talked about for five years. The language, the instrument, the friend you never called back. One coach says the habit leaves you "a man with a bunch of ideas, but zero execution". Every man with a drawer full of half-started projects knows what he means.
+Then add the biggest cost: the things that never happened. The book you didn't write. The business you've talked about for five years. The language, the instrument, the friend you never called back. One coach says the habit leaves you "a man with a bunch of ideas, but zero execution". Every man with a drawer full of half-started projects knows what he means.
 
 ## The job offer {-}
 
-Suppose I offered you a job tomorrow. Same work, same pay, same boss, but with one difference: an extra month off every year, fully paid, for the rest of your career.
+Suppose I offered you a job tomorrow. Same work, same pay, same boss, plus an extra month off every year, fully paid, for the rest of your career.
 
-You'd sign before I'd finished the sentence. Your only problem would be deciding where to go. Yet a man in the trap turns that same offer down every year. Why?
+You'd sign before I finished the sentence. Your only problem would be where to go. Yet a man in the trap turns that same offer down every year. Why?
 
-Every other decision in your life gets weighed. You look at what you'd gain and what it would cost, and you choose. You may choose badly, but you do choose. Whenever a man weighs this habit honestly, the scales crash down on one side, and the verdict comes back as a shout: "STOP. YOU'RE BEING ROBBED." So he doesn't weigh it. He hasn't decided to carry on. He carries on because he believes he can't stop. And he keeps his eyes off the scales so that he can live with himself.
+Every other decision in your life gets weighed. You look at what you'd gain and what it costs, and you choose. Maybe badly, but you choose. Weigh this habit honestly and the scales crash down on one side, and the verdict comes back as a shout: "STOP. YOU'RE BEING ROBBED." So he doesn't weigh it. He hasn't decided to carry on. He carries on because he believes he can't stop, and he keeps his eyes off the scales so he can live with himself.
 
 A young man who fought this for nineteen years said: "I can't tell you how many years I've wasted battling with the lust". Nobody can hand those years back. But he has decades still to come, and so do you.
 
-Men who've stopped report one surprise: how much room there suddenly is. One says, "I'm actually reading books again for the first time in a decade". Another took up the piano in the space the habit left behind. Put that room to one practical use. Pick one goal you could reach in three or four months, and pour the hours into that.
+Men who've stopped report one surprise: how much room there suddenly is. One says, "I'm actually reading books again for the first time in a decade". Another took up the piano in the space the habit left. Put that room to work. Pick one goal you could reach in three or four months, and pour the hours into it.
 
-At the end of this book you'll make your decision. Staying free after that takes one thing: you don't do it, and you don't fall for "just this once". If you're ever tempted by that phrase, remember what it costs. It doesn't cost you ten minutes. It costs you the years.
+At the end of this book you'll make your decision. Staying free after that takes one thing: you don't do it, and you don't fall for "just this once". If that phrase ever tempts you, remember what it costs. Not ten minutes. The years.
 
-Paul has a phrase for what you're about to do: "redeeming the time". To redeem a thing is to buy it back, the way a man buys back the watch he pawned. Those hours were always yours. You're about to walk in and take them back, and it won't cost you anything.
+Paul has a phrase for what you're about to do: "redeeming the time". To redeem a thing is to buy it back, like a man buying back the watch he pawned. Those hours were always yours. You're about to walk in and take them back, and it won't cost you a dime.
 
-Time is the cost you can count. The others are harder to see, because you have trained yourself not to look.
+Time is the cost you can count. The others are harder to see, because you've trained yourself not to look.
 
 <!-- SOURCES (Chapter 7): every quote below is from the research files; check each against its page before publishing.
 - "you got 258 tabs pulled just to find a video that you like" — FitXFearless, "What Happens When You QUIT Masturbating?", https://www.youtube.com/watch?v=pde9YeZbCtM (auto-captions, unpunctuated; research/transcripts/fitxfearless-pde9YeZbCtM.md)

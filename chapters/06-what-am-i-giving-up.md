@@ -4,29 +4,29 @@ Nothing. Not one thing.
 
 That's the whole chapter. But you don't believe it yet, so let's go slowly.
 
-Stopping looks hard for one reason: fear. You're afraid a pleasure is about to be taken from you, or a comfort you lean on. You're afraid that the quiet evening alone, the long shower and the warm bed will never feel quite as good again. You're afraid that the next rotten day will arrive and you'll have nothing to get you through it.
+Stopping looks hard for one reason: fear. You're afraid they're taking a pleasure away, a comfort you lean on. You're afraid the quiet evening alone, the long shower and the warm bed will never feel as good again. You're afraid the next rotten day will come and you'll have nothing to get you through it.
 
-Underneath those sits a bigger fear, and it's the world's favorite lie: that an orgasm on demand is something a man can't do without. That if you stop, you'll be denying your own nature. That you'll walk around with a hole in your life where the habit used to be.
+Underneath sits a bigger fear, the world's favorite lie: that a man can't do without an orgasm on demand. That stopping means denying your own nature. That you'll walk around with a hole in your life where the habit used to be.
 
 Get this straight in your head:
 
 **THE HABIT DOESN'T FILL A HOLE. IT DIGS ONE.**
 
-You have the proof in your own years. Every year you get less out of the habit and want it more.
+You've got the proof in your own years. Every year you get less out of it and want it more.
 
 ## There's nothing to give up {-}
 
-Once the Little Monster has starved and the Big Monster has been cleared out of your head, you won't want to masturbate. You won't want the porn either. You won't be resisting them. You simply won't want them, the way you don't want to chew your pen.
+Once the Little Monster has starved and the Big Monster has been cleared out of your head, you won't want to masturbate. You won't want the porn either. You won't be resisting. You just won't want them, any more than you want to chew your pen.
 
-Where does the habit leave a man? On the nights he does it, he's miserable afterward: flat, guilty and a bit disgusted. On the nights he tries not to, he's miserable too, because he feels robbed. He has only two kinds of evening and both are bad.
+Where does the habit leave a man? Nights he does it, he's flat, guilty and a bit disgusted. Nights he doesn't, he's miserable because he feels robbed. Two kinds of evening, both bad.
 
-Think of yourself at a family gathering, slipping off upstairs with your phone. If anyone had known, he wouldn't have thought, "Lucky man, off to enjoy himself." He'd have thought, "Poor man, he can't sit through dinner." You weren't up there for fun. You went because you were uncomfortable without it. No free man behaves like that.
+Picture yourself at a family gathering, slipping upstairs with your phone. If anyone had known, he wouldn't have thought, "Lucky man, off to enjoy himself." He'd have thought, "Poor guy, he can't sit through dinner." You weren't up there for fun. You couldn't stand being without it. No free man does that.
 
-**"But I'd be giving up sex."** No. If you're married, you're about to get it back. The habit has been quietly spending, alone, what belongs to the two of you. Lewis drew a sharp line between wanting a woman and wanting a sensation. The man after the sensation, he said, "wants a pleasure for which a woman happens to be the necessary piece of apparatus." Masturbation cuts out even the apparatus. Ask the men who've stopped what happened to the real thing. One wrote that he'd gained a "stronger real sex drive without wanting an easy release like porn".
+**"But I'd be giving up sex."** No. If you're married, you're about to get it back. The habit has been quietly spending, alone, what belongs to the two of you. Lewis drew a sharp line between wanting a woman and wanting a sensation. The man after the sensation, he said, "wants a pleasure for which a woman happens to be the necessary piece of apparatus." Masturbation cuts out even the apparatus. Ask the men who've stopped. One wrote that he'd gained a "stronger real sex drive without wanting an easy release like porn".
 
-**"But I'm single. It's all I've got."** Then all you've got is a rehearsal for being alone. Look at what it has done about that. Every night it takes the edge off the loneliness that would have sent you looking for a wife. That is why all you've got has stayed all you've got.
+**"But I'm single. It's all I've got."** Then all you've got is a rehearsal for being alone. And look what it does about that. Every night it takes the edge off the loneliness that would have sent you looking for a wife. No wonder all you've got stays all you've got.
 
-So there's nothing to give up. And there's a great deal to gain. When men think about stopping, they tend to think first about energy or sleep, or about their conscience. Those are good reasons. But I believe the biggest gains are these:
+So there's nothing to give up, and a great deal to gain. Men think first of energy, sleep or conscience. Good reasons. But I believe the biggest gains are these:
 
 - Your confidence and your courage come back.
 - You stop being a slave.
@@ -34,31 +34,31 @@ So there's nothing to give up. And there's a great deal to gain. When men think 
 
 ## The itch and the cream {-}
 
-Imagine you get an itchy patch on the back of your hand. It's nothing much. A friend hands you a little tube of cream and says, "Try this." You rub some in and the itch stops at once. Marvelous.
+Say you get an itchy patch on the back of your hand. A friend hands you a little tube of cream and says, "Try this." You rub some in and the itch stops at once. Marvelous.
 
-A few days later the itch is back, and a bit bigger. You use the cream again, and it goes again. Each time the patch comes back it has spread a little further, and the gaps get shorter. After a few years it covers both arms and wakes you most nights. You keep a tube in every coat, and you get nervous when one is nearly empty.
+A few days later it's back, a bit bigger. You use the cream again, and it goes again. Each time, the patch comes back a little bigger, and the gaps get shorter. After a few years it covers both arms and wakes you most nights. You keep a tube in every coat and panic when one's nearly empty.
 
 ![](images/illustrations/giving-up-cream-and-rash.png){.illustration width=80%}
 
-Then one day you read that thousands of people have this same rash, and the cause has finally been found. The cream doesn't cure the itch. It pushes it under the skin for a few hours, and feeds it while it's down there. The cream is the reason the rash has been spreading. Stop using the cream and the rash dies off by itself, quite quickly.
+Then one day you read that thousands of people have this same rash, and the cause has finally been found. The cream doesn't cure the itch. It pushes it under the skin for a few hours and feeds it while it's down there. The cream is why the rash keeps spreading. Stop using it and the rash dies off by itself, and fast.
 
 Would you use the cream again?
 
-Would you need willpower to leave the tube in the drawer? Would you count the days, or call yourself a warrior? You might be uneasy for the first week, in case what you'd read was wrong. But as soon as you saw the patch shrinking, the wish for the cream would go. You wouldn't mope. You'd look at your arms every morning and grin.
+Would you need willpower to leave the tube in the drawer? Would you count the days, or call yourself a warrior? You might be nervous the first week, in case the article was wrong. Then you'd see the patch shrinking, and the wish for the cream would be gone. You wouldn't mope. You'd check your arms every morning and grin.
 
-That is exactly what it's like to walk away from the habit.
+That's exactly what it's like to walk away from the habit.
 
-The rash isn't the guilt, the tired mornings, the wasted evenings, the distance from your wife or the silence between you and God. All of those are extra. The rash is that edgy, hollow, slightly panicky feeling of *I need it*. Men who don't have the habit never get that feeling. You didn't have it at nine years old. It arrived with the first time, and every time since has fed it.
+The rash isn't the guilt, the tired mornings, the wasted evenings, the distance from your wife or the silence between you and God. Those are extras. The rash is that edgy, hollow, slightly panicky feeling of *I need it*. Men without the habit never get it. You didn't have it at nine years old. It arrived with the first time, and every time since has fed it.
 
 The feeling you keep reaching to relieve is the hole, and the cream dug it. When you stop, the hole doesn't yawn open in front of you. It closes.
 
-A skeptic on a recovery forum raised a fair objection. He was halfway through EasyPeasy. If you lost nothing, he said, then nothing would change and you wouldn't notice anything. Of course something changes. The man with the rash loses his cream, and he notices. He also loses the itch, the scratching, the tube in every coat and the dread of running out. When this book says you give up nothing, it means nothing good. You lose a problem and the false cure for it, and you lose them together.
+A skeptic on a recovery forum, halfway through EasyPeasy, raised a fair objection. If you lost nothing, he said, nothing would change and you wouldn't notice anything. Of course something changes. The man with the rash loses his cream, and he notices. He also loses the itch, the scratching, the tube in every coat and the dread of running out. When this book says you give up nothing, it means nothing good. You lose a problem and its false cure, both at once.
 
-Paul said the same of his own life, in his letter to the Philippians: "I consider those things that were gain to me as a loss for Christ." Paul had a list of things he'd once counted as profit. He didn't give them up with gritted teeth. He looked at them beside what he'd found, which was Christ himself, and moved all of it to the other side of the ledger. In the next verse he called them "refuse", which is a polite translation. He isn't boasting about a sacrifice. He has seen what the stuff was worth.
+Paul said the same of his own life, in his letter to the Philippians: "I consider those things that were gain to me as a loss for Christ." Paul had a list of things he'd once counted as profit. He didn't give them up through gritted teeth. He set them beside what he'd found, Christ himself, and moved all of it to the other side of the ledger. In the next verse he called them "refuse", which is a polite translation. No boasting about a sacrifice. He'd seen what the stuff was worth.
 
 That's where you're headed. You won't be a man bravely doing without. You'll look at the tube of cream and wonder how you ever thought it was medicine.
 
-It is a fine thing to be free!
+It's a fine thing to be free!
 
 And one thing you get back can be counted on a clock.
 
