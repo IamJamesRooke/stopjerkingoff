@@ -8,7 +8,7 @@ Everybody tells him it's normal. Nobody tells him why he ends up staring at the 
 
 You know this man. Most men do. I've been him for decades.
 
-Maybe your night looks different. A dating app at midnight. A page with your card on file. A wife asleep down the hall. Maybe you're a woman, and this book says "he". Same ceiling.
+Maybe your night looks different. A dating app at midnight. A page with your card on file. A wife asleep down the hall. Same ceiling.
 
 This man isn't weak. He's competent, and he keeps his word to everybody he meets. Everybody except himself. Again and again he vows, prays, blocks sites, takes cold showers and counts streaks. And every time, he breaks.
 
@@ -149,3 +149,5 @@ SOURCES (Introduction): every quote below is from the research files; check each
 <!-- 2026-11-23 FLOW PASS (James: the two housekeeping paragraphs in the middle of 'Put down the sword' don't make sense; 'it kind of meanders like that and confuses the reader'; 'So this book => This book'). Rule from now on: every paragraph follows from the one before, each section makes one move, housekeeping is woven in where it is first needed and never dropped into an argument, and no 'So' or 'And' opener that isn't a real link. -->
 
 <!-- 2026-11-23 VOICE PASS (James sent his own draft of the weak-man paragraph and 'What you are fighting', with five rules: contractions; write how we speak; intentional repetition; hyperbole; economy, 'this isn't an academic piece'). The Introduction's monster section is rebuilt from his draft and keeps his lines (doesn't pay rent, bangs and bangs and bangs, the 'pleasure' is the silence, fatter and wants MORE, throw his ass out, the lie that he belongs there). Kept from the book's fixed picture: the back room upstairs (not attic), cat-sized. His f-word is 'pest' here; his call. Rules for the rest of the book are in editorial/VOICE.md. -->
+
+<!-- 2026-11-23 James: the line to women readers is cut ('this is a book for men, if women find it useful, great -- but that sentence is just awful'). No apology for 'he' anywhere. This supersedes the old rule that kept a note to women in the Introduction. -->
