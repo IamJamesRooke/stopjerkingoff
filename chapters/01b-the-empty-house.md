@@ -12,7 +12,7 @@ The house is you, and you've swept it many times.
 
 You swore off porn, and for three weeks you were clean. Then you were losing an hour a night to a feed where every third square is a girl arching her back on a beach towel. You called it nothing. Or you deleted every app and blocked every site, and your memory started playing reruns in their place. Or you stopped the whole business by force, and poured the same hunger into texting a woman who'd stopped answering.
 
-You threw one thing out, and it came back with company. That's the Little Monster for you. Keep his room ready, and he brings his friends. Each one is the size of a cat. Each one smells like the same rotten cheese. It's the same hunger, eating off a different plate.
+You threw one thing out, and it came back with company. That's the Little Monster for you. Keep his room ready, and he's back with friends. They aren't new enemies. Each one is the same cat-sized pest, reeking of the same rotten cheese. It's the same hunger, eating off a different plate.
 
 No wonder it feels unbeatable. No wonder you decided the fault was in you.
 
@@ -25,7 +25,7 @@ But keep two things straight. He has never once made you do it. He banged on the
 ![](images/illustrations/empty-house-punt.png){.illustration width=80%}
 
 
-Out in the world he has no body of his own. He can't look, or touch, or go anywhere. Everything he gets, he gets with what you lend him: your eyes, your mind and your hand.
+And he can't leave that room. He can't look, or touch, or go anywhere. Everything he gets, he gets with what you lend him: your eyes, your mind and your hand.
 
 ## Why he could come back {-}
 
@@ -33,7 +33,7 @@ One detail in the story explains everything. Why could the spirit come back? Bec
 
 The man did everything right, as far as he knew. He put it out. He swept. And he left the room standing ready, bed made, door open.
 
-That's quitting by force. A man stops the act and goes on believing it gave him something. So there's a gap in his life where it used to be, and a gap gets filled. The gap is the belief. Lose the belief, and there's no gap.
+That's quitting by force. A man stops the act and goes on believing it gave him something. So there's a gap in his life where it used to be, and a gap gets filled. The gap isn't real. It's only the belief that he gave you something. Lose the belief, and there's no gap.
 
 ## What rent did he ever pay? {-}
 
@@ -56,7 +56,7 @@ That belief is a lie, and it lives in your head, not the back room. He can't say
 
 You've met a few of them already.
 
-The Little Monster's the easy one. Stop feeding him and he goes quiet in days. In a few weeks he's gone. The lies are what have held you for years, and this book takes them down one at a time.
+Between him and the lies, he's the easy one. Stop feeding him and he goes quiet in days. In a few weeks he's gone. The lies are what have held you for years, and this book takes them down one at a time.
 
 Nobody else can put him out for you. And you've never put him out for good, because part of you still thought he was worth keeping.
 
@@ -78,7 +78,7 @@ This book follows him room by room, and it goes further than you'd expect. You d
 
 ## Don't throw anything out yet {-}
 
-Judge first. This book asks you not to throw anything out yet.
+So don't throw anything out yet. Look first.
 
 Until then, if he throws a tantrum, feed him. Just notice which of you is fetching and which of you is being served.
 
@@ -114,3 +114,5 @@ SOURCES: Matthew 12:43-45 (WEB, checked 2026-11-20). Quoted verbatim: "I will re
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
 
 <!-- 2026-11-23: Author's pass: evergreen fixes ('Explore page', 'left you on read'). -->
+
+<!-- 2026-11-23: cold readers: 'no body' / 'out in the world', the friends, 'the gap is the belief', 'the easy one' and 'Judge first' each tripped two or three; made plain. -->

@@ -14,7 +14,7 @@ It cost me three relationships, an engagement and a marriage.
 
 ## Thirteen ways to be anxious {-}
 
-Then I went the other way. I chased woman after woman, just to run up the count. I spent my nights in bed with the phone, swiping and sexting. When I liked one, I checked for her texts all day. To calm my nerves, I kept twelve others talking as backups. That's not a man with options. That's a man with thirteen ways to be anxious.
+Then I went the other way. I chased woman after woman, just to raise my number. I spent my nights in bed with the phone, swiping and sexting. When I liked one, I checked for her texts all day. To calm my nerves, I kept twelve others talking as backups. That's not a man with options. That's a man with thirteen ways to be anxious.
 
 ![](images/illustrations/who-thirteen-ways-to-be-anxious.png){.illustration width=80%}
 
@@ -36,9 +36,7 @@ A man comes home tired and pours a drink to take the edge off. Dinner's a burger
 
 Another man's evening comes with a weed pen, or a betting app and fifty bucks on a game he doesn't even care about. The drug changes. The job's the same. Every one of them is sold as taking the edge off. What it takes off is *his* edge, the part of a man that gets things done. None of it's a crime. All of it's a sedative.
 
-Social media does something extra. It leaves him with a knot in his stomach, and he can't say why. It leaves him half sure nothing matters anyway. Then he checks the news and the price of a house, and decides the game is rigged.
-
-He's not entirely wrong. But a sedated man can't fix a rigged game.
+And a sedated man fixes nothing. Not his job, not his marriage, not a world he's sure is rigged against him.
 
 ## One drug {-}
 
@@ -83,3 +81,5 @@ So start with the Little Monster. If he does nothing for you, why has every atte
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
 
 <!-- 2026-11-23: cold readers: bridge into 'Men are sedated'; twelve plus one makes the thirteen. -->
+
+<!-- 2026-11-23: cold readers (3 of 3): the social media / rigged game paragraph drifted from the confession; folded into one line, original in editorial/PARKING.md. 'run up the count' made plain. -->

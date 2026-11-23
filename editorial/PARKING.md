@@ -1982,3 +1982,11 @@ Paragraphs that only moved are not listed. Each chapter's last comment line says
 - chapters/33-now.md:
   - The Attribution page has the details.
   - It came the same way, from Allen Carr through the people behind EasyPeasy.
+
+## 2026-11-23, from Who Is Telling You This (Men are sedated): social media and the rigged game
+
+Three of three cold readers said this paragraph drifted from the confession. Folded into one line in the chapter. Original:
+
+Social media does something extra. It leaves him with a knot in his stomach, and he can't say why. It leaves him half sure nothing matters anyway. Then he checks the news and the price of a house, and decides the game is rigged.
+
+He's not entirely wrong. But a sedated man can't fix a rigged game.
