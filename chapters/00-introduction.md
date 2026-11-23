@@ -90,9 +90,11 @@ Two rules while you read.
 
 **Don't try to quit.** Not yet. Make no vows. Start no streaks. Don't cut down. You've done all three before, and where are they now? You stop once, at the end of the book. Until then, call off the war.
 
+So feed him as much as you like. Give in to every tantrum. Bang, bang, bang, and up the stairs you go with his plate. Just watch yourself do it. You're waiting on a dirty, sulking little freeloader, and he's treating you like his slave.
+
 **Don't skip chapters.** Read them in order. Each one takes down a lie, and the last step only works if the others came first.
 
-That isn't permission. Nobody's telling you to sin. If you've already stopped, stay stopped. And if your lust is hurting someone else, that stops today. An affair, paying for sex, pressing a woman who's said no, anything against the law. That can't wait for the last page.
+That's not an order. Nobody's telling you to sin. If you've already stopped, stay stopped. And if your lust is hurting someone else, that stops today. An affair, paying for sex, pressing a woman who's said no, anything against the law. That can't wait for the last page.
 
 ## Two in the morning {-}
 
@@ -167,3 +169,5 @@ SOURCES (Introduction): every quote below is from the research files; check each
 <!-- 2026-11-23 COHERENCE REPAIR (James: 'so much was cut that now it seems incoherent -- get users to read it'). Eight cold readers flagged the missing steps; the links are put back in the spoken voice: the house frame, 'that banging is the urge', starving = no more dinners, man and monster kept apart by name, the dragon retired, and fear named as fear of life without it. -->
 
 <!-- 2026-11-23 James, reading night one: 'I'm not seeing anything about no willpower, no trying to cut down, where is that?' The two rules are back in the Introduction as one signposted section, 'While you read', so a reader who stops after chapter 1 has his instructions. The Easy Method restates them in a line and no longer carries the full block. -->
+
+<!-- 2026-11-23 PROOF LOOP (James, after using: 'I don't feel awesome. That little monster being fed sticks'; he asked that 'don't cut down' come with a reminder of what feeding him is: 'You can feed the little monster as much as you want. You can give into his tantrums. Bang bang bang. Treating you like a slave'). Added to 'While you read' in his words; 'freeloader' stands in for his 'squatter', which the book doesn't use. Short callbacks are in The Easy Method and The Empty House. -->

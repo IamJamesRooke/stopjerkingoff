@@ -80,6 +80,8 @@ This book follows him room by room, and it goes further than you'd expect. You d
 
 Judge first. This book asks you not to throw anything out yet.
 
+Until then, if he throws a tantrum, feed him. Just notice which of you is fetching and which of you is being served.
+
 The day will come, near the end, when you show him the door. You'll do it once, and it'll be easy. By then you'll know he has nothing you want. Nobody gets dragged out. Sweeping never got rid of him. You stop believing he pays, you stop carrying up his dinner, and he leaves. His friends leave with him.
 
 That leaves the question you've asked yourself a hundred times. You aren't stupid. You've wanted him out for years.
@@ -106,3 +108,5 @@ SOURCES: Matthew 12:43-45 (WEB, checked 2026-11-20). Quoted verbatim: "I will re
 <!-- 2026-11-23 Squared with the rebuilt Introduction: the smell is now James's rotten cheese (was the gym bag), and the list of lies the Introduction already gives is not repeated here. -->
 
 <!-- 2026-11-23 COHERENCE REPAIR after a cold-reader check of the first five chapters: missing links added, nothing cut. -->
+
+<!-- 2026-11-23 Callback to the Introduction's 'feed him as much as you like, just watch yourself do it' (James's request). -->

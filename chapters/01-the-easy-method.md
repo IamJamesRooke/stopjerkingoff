@@ -76,7 +76,7 @@ Each one is a tight shoe. The relief is only the pinch stopping. Each one gets i
 Tonight, do three things. None of them is "try harder".
 
 1. **Call off the war.** You have the rule already. No quitting while you read, no vows, no streaks, no cutting down. Add one thing tonight. Stop hating yourself. It never helped once.
-2. **Remember.** Think back to the last time. How did it start? How long did the good part last? How did you feel ten minutes later? That answers the first two questions from your own life.
+2. **Remember.** Think back to the last time. How did it start? How long did the good part last? How did you feel ten minutes later? That answers the first two questions from your own life. And if he bangs tonight and you go up, go up with your eyes open. Notice who's giving the orders.
 3. **Keep reading, in order.** The length costs you nothing, because nobody asks you to stop before the end. An hour a night finishes it in under a week, and nobody has to know.
 
 If you slip while you read, keep reading.
@@ -137,3 +137,5 @@ Before any of that, a fair question. "No benefits at all" is a big claim from a 
 <!-- 2026-11-23 COHERENCE REPAIR after a cold-reader check of the first five chapters: missing links added, nothing cut. -->
 
 <!-- 2026-11-23 The full rules block moved to the Introduction ('While you read'); here they are restated in one line. -->
+
+<!-- 2026-11-23 Callback to the Introduction's 'feed him as much as you like, just watch yourself do it' (James's request). -->
