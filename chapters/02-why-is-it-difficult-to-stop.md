@@ -32,9 +32,11 @@ So the puzzle was never how stopping could be easy. The puzzle is why it seems h
 
 Think about how you started. Nobody sat you down and sold it to you. Your own body turned up one day with a new trick. The jokes at school said every boy did it, so you thought no more about it. Porn arrived just as quietly: a pop-up, a friend's phone, a link somebody sent as a joke.
 
-Then you spent ten, twenty or thirty years wishing you could leave it alone. You never told a soul. You assumed you were the only man you knew who couldn't stop. And it doesn't take thirty years to feel like a lifetime. One young man wrote:
+Then you spent ten, twenty or thirty years wishing you could leave it alone. And it doesn't take thirty years to feel like a lifetime. One young man wrote:
 
 > "I've been struggling with lust for 14 years. Worst part? I'm only 23."
+
+You never told a soul. You assumed you were the only man you knew who couldn't stop.
 
 You're not unique. You're standard issue.
 
@@ -91,3 +93,5 @@ It is wrong.
 <!-- 2026-11-22 chapters 1 to 5 rebuild (James: 'the same level of attention to detail' as the Introduction; show, don't tell; concrete details; simple sentences; section headers). Opening now answers the question chapter 4 ends on; feelings shown (the thumb unlocking the phone, clearing the history, the stone in his pocket); five section headers; the three explanations given in the man's own words; 'we're all still praying it' became 'men still pray it' so the narrator is not counted among them. New shown moments are illustrations, not real people. The previous text is saved whole in editorial/PARKING.md. -->
 
 <!-- 2026-11-22 SKEPTIC READ (James: read 'as an atheist who reads despite the god talk and still thinks that marriage is a joke, it's a scam which is against men... Women have a legal incentive to divorce. The family courts are against men. This IS true. But try and get it so, by the end, he agrees'). Stage 1 fixes: a plain reason set beside each claim that stood on God alone; the divorce courts conceded early. -->
+
+<!-- 2026-11-23 FLOW PASS (book-wide): in 'Nobody sold it to you', 'You never told a soul. You assumed you were the only man...' moved below the quotation so that 'You're not unique' answers it directly; nothing cut. -->

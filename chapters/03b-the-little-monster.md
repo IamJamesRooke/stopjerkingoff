@@ -6,13 +6,13 @@ The first thing to know about him is how small he is. The urge doesn't hurt at a
 
 In the first months you don't notice him at all. The itch and its relief are so slight that you'd laugh at the idea you were hooked. Later, when you're doing it most days, you tell yourself you've come to enjoy it, or that you've "got into the habit". The truth is that the Little Monster has moved in. He pays no rent, and every so often you go around the loop to carry up his dinner.
 
+The little one isn't picky. A video feeds him. A fantasy feeds him. A long look at a stranger feeds him. It's all one diet, and it all goes to one small belly.
+
 One man in the trap put the entire thing in seven words:
 
 > "I hate it, but I continually feed it."
 
 That is the only reason any man carries on, three times a day or twice a month. He's feeding the Little Monster.
-
-And the little one isn't picky. A video feeds him. A fantasy feeds him. A long look at a stranger feeds him. It's all one diet, and it all goes to one small belly.
 
 Most of what a man calls the pleasure is the pleasure of getting back to how he'd have felt anyway. He's trying to return to the peace and ease he had as a boy, before any of this started. And he keeps using the very thing that took it from him.
 
@@ -74,3 +74,5 @@ One objection is still standing, and it is the honest one.
 <!-- 2026-11-22: the lead-up paragraphs moved to the new chapter But It Feels Good, which now follows; this chapter ends on that objection. 'What a man calls the pleasure is only...' is now 'Most of what a man calls the pleasure...' (James: the orgasm is real). -->
 
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'). Two sentences no longer deny that it feels good. -->
+
+<!-- 2026-11-23 FLOW PASS (book-wide): the 'isn't picky' paragraph moved up beside 'carry up his dinner', so 'He's feeding the Little Monster' now runs straight into what the pleasure is; its opening 'And' dropped. -->

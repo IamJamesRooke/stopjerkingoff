@@ -16,7 +16,7 @@ Hearing the voice doesn't mean you believe the lies again. A man hears "I want i
 
 ## Lines for a hard moment {-}
 
-These aren't spells, and they aren't answers to the voice. It gets none. Each one is a true sentence for you, to remind you of what you already know. Pick the two or three that fit you, and keep those.
+The lines that follow aren't spells, and they aren't answers to the voice. It gets none. Each one is a true sentence for you, to remind you of what you already know. Pick the two or three that fit you, and keep those.
 
 1. "A feeling is not an order. I can feel this and do nothing about it, and it'll go."
 2. "It never fixed a bad day. I got the same bad day back with shame added."
@@ -38,3 +38,5 @@ Your body, meanwhile, will do a few things nobody warned you about.
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
 
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->
+
+<!-- 2026-11-23 FLOW PASS (book-wide): one pointer fixed: 'These' at the top of 'Lines for a hard moment' pointed at nothing before it. Nothing moved or cut. -->

@@ -14,7 +14,7 @@ C.S. Lewis, the author of the Narnia stories, also wrote a book called *The Scre
 
 A preacher who was bound by this habit for years puts the whole matter in a line. The trouble, he says, is "the wrong use of the right thing. Pleasure is not bad."
 
-When Paul writes about "the flesh", he doesn't mean your skin. He means the part of a man that wants what it wants, now, for itself, and doesn't care what it costs. If you're not a believer, call it appetite. Whatever you call it, you've met it.
+The wrong use comes from what Paul calls "the flesh". He doesn't mean your skin. He means the part of a man that wants what it wants, now, for itself, and doesn't care what it costs. If you're not a believer, call it appetite. Whatever you call it, you've met it.
 
 Lust is what happens when the flesh gets hold of desire. Desire says, "She is lovely." Lust says, "I want that, for me, now." Desire sees a person. Lust sees something to use.
 
@@ -90,3 +90,5 @@ That restless feeling is the Little Monster. It is time to meet him properly.
 <!-- 2026-11-22 SKEPTIC READ (James: read 'as an atheist who reads despite the god talk and still thinks that marriage is a joke, it's a scam which is against men... Women have a legal incentive to divorce. The family courts are against men. This IS true. But try and get it so, by the end, he agrees'). Stage 1 fixes: a plain reason set beside each claim that stood on God alone; the divorce courts conceded early. -->
 
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->
+
+<!-- 2026-11-23 FLOW PASS (book-wide): the definition of 'the flesh' now opens by picking up the preacher's 'wrong use' in the line before it, so it no longer arrives unannounced. -->

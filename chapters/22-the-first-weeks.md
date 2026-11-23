@@ -47,7 +47,7 @@ Here the two methods part. The willpower man believes he's made a sacrifice, so 
 
 ## On the worst night {-}
 
-Picture a man who has been free for years. His father dies. Some fool tells him, "Go on, just tonight, it'll help you through." Suppose he does. The habit can't calm him, because he has no itch for it to relieve. At best he gets a few seconds that feel good and five minutes of distraction. A walk or a bad movie would have done as well. Then the grief is still there, and he's added shame to it and let the Little Monster back in. Tomorrow night he has a choice he didn't have before: put up with the itch or feed it. Many a free man has gone back in through that door.
+One bell is louder than all the others, and it may ring years from now. Picture a man who has been free for years. His father dies. Some fool tells him, "Go on, just tonight, it'll help you through." Suppose he does. The habit can't calm him, because he has no itch for it to relieve. At best he gets a few seconds that feel good and five minutes of distraction. A walk or a bad movie would have done as well. Then the grief is still there, and he's added shame to it and let the Little Monster back in. Tomorrow night he has a choice he didn't have before: put up with the itch or feed it. Many a free man has gone back in through that door.
 
 So settle it now. You don't need the habit on the good nights or on the worst night of your life. It was never a crutch.
 
@@ -120,3 +120,5 @@ You know that voice very well. It sounds like your own.
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). Matches the next chapter (the voice only sounds like his); the Little Monster was gone, not asleep; pleasure not denied. -->
 
 <!-- 2026-11-22 last book-wide pass: sentences over 25 words split. -->
+
+<!-- 2026-11-23 FLOW PASS (book-wide): 'On the worst night' followed from nothing; one linking sentence added at its head to tie it to the bell. Nothing moved or cut. -->

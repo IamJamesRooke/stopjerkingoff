@@ -2,6 +2,8 @@
 
 The most persuasive voice in all this is your own.
 
+Once you're in the trap, the lies get help from inside. Some part of you knows the Little Monster expects feeding, and it will defend his dinner against any argument. That's fear: the fear of that empty, fidgety feeling.
+
 Men in the trap aren't weak-willed. It takes real stamina to keep up a secret for twenty years. The trouble is where the strength goes. We pour it into defending the habit. Then, when we try to quit and fail, we turn it on ourselves. Failing at something is one thing. Hating yourself for it is another, and it leaks out into everything else. You stop going to the gym. The diet lasts until Thursday. Your children get the worst of your temper.
 
 Nobody argues with himself about whether to give up golf. About the habit we argue every night, and we think that's normal.
@@ -9,8 +11,6 @@ Nobody argues with himself about whether to give up golf. About the habit we arg
 So from now on, treat every word in favor of the habit like a pushy salesman. That includes your own words. Smile and nod, and don't sign. That goes for "you need it" and for "it's who you are". It also goes for the idea of a safe version. "Only in the shower", "only without a screen" and "only on weekends" are all the Big Monster, bargaining for the little one's dinner. Keep asking yourself two questions. "Why am I doing this? Do I actually need to?"
 
 Of course you don't.
-
-Once you're in the trap, the lies get help from inside. Some part of you knows the Little Monster expects feeding, and it will defend his dinner against any argument. That's fear: the fear of that empty, fidgety feeling.
 
 The trap closes slowly. Most men don't know they're in it until the day they try to leave, and even then plenty won't admit it. Anyone who has raised the subject with a young man knows how the conversation goes:
 
@@ -26,9 +26,9 @@ You ask him, "You know the only reason you keep doing it is that you can't stop?
 
 "There's no point," he says. "I told you, I like it."
 
-Don't take that dare yourself. You know how a month by force goes.
-
 He likes it so much that he won't risk finding out.
+
+Don't take that dare yourself. You know how a month by force goes.
 
 ## "Giving up" {-}
 
@@ -51,3 +51,5 @@ So let's go through your day and find them.
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'). Pleasure admitted. -->
 
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->
+
+<!-- 2026-11-23 FLOW PASS (book-wide): 'Once you're in the trap, the lies get help from inside' moved up to second paragraph, where it explains the opening line; the punchline of the dialogue now comes straight after it, with the caution about the dare after that. No words changed. -->

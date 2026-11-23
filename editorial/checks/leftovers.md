@@ -8,7 +8,7 @@
 - **'sequel' (allowed only as 'not an official sequel')**: 0 hit(s) 
 - **'play along' (allowed: Intro, Ch 32)**: 0 hit(s) 
 - **'atheist' (convention: say 'not a believer')**: 0 hit(s) 
-- **'jerking off' (use rarely, on purpose)**: 4 hit(s) 3c:15, 14a:43, 15b:7, 15d:11
+- **'jerking off' (use rarely, on purpose)**: 4 hit(s) 3c:15, 14a:41, 15b:7, 15d:11
 
 ## Files outside the chapters that name the repository owner
 

@@ -20,9 +20,9 @@ It is the swept and empty house. A man puts the Little Monster out and keeps his
 
 Some men are sorry to hear that it's easy. They wanted a war, with long nights, a clenched jaw and a medal at the far end. A pipsqueak gives no medals. And nobody wants it on his gravestone that he fought his own hand for fifty years.
 
-It usually takes years to realize you're hooked, because of one stubborn illusion. We assume men keep the habit because they enjoy it. So on the nights we plainly don't enjoy it, we conclude we could stop any time. "I don't even like it that much. I could drop it tomorrow." That's the confidence trap. Somehow tomorrow is never the day you want to.
-
 ## The first attempts {-}
+
+It usually takes years to realize you're hooked, because of one stubborn illusion. We assume men keep the habit because they enjoy it. So on the nights we plainly don't enjoy it, we conclude we could stop any time. "I don't even like it that much. I could drop it tomorrow." That's the confidence trap. Somehow tomorrow is never the day you want to.
 
 After a few failed attempts, a man falls back on hope. One morning, he tells himself, he'll just wake up and not want it anymore. Stories feed the hope. "My cousin just stopped. Got married and never thought about it again." Look into those stories and they're never that simple. Either the man had been working up to it for a year, or something had frightened him. No man has ever drifted out of this trap by accident. **It won't happen unless you make it happen.**
 
@@ -36,9 +36,9 @@ On top of that sit the lies he's soaked up from the world. On top of those sits 
 
 So he doesn't start out thinking, "Wonderful! Have you heard? I don't have to do this anymore!" He starts in dread, like a man looking up at a cliff he has to climb. He texts his accountability partner: "Pray for me. This month is going to be rough." Most attempts are beaten before they begin.
 
-And fighting wears a man down. Every night he holds out by force, he has a little less left to hold out with the next night.
-
 Suppose he gets through the first few days. He feels a bit brighter, with a little more spring in the mornings. And the reasons that made him stop are already fading.
+
+And fighting wears a man down. Every night he holds out by force, he has a little less left to hold out with the next night.
 
 Meanwhile the Little Monster hasn't been fed. His hunger doesn't hurt. If a head cold felt like that, you wouldn't even mention it. But the hunger is enough to start the Big Monster talking. Now watch something remarkable. Three days ago this man was listing every reason to stop. Now he hunts, just as earnestly, for a reason to start:
 
@@ -52,7 +52,7 @@ What follows is the strangest minute of all. He feels real relief, because the L
 
 It wasn't only weakness. He changed his mind. Look at what he believed at that moment. He was suffering, the habit would end the suffering, and there was something in it for him after all. Given all that, going back was a perfectly logical decision. His will was tired, yes. But he was also acting on false information, and that part this book can fix.
 
-"What's the point of a clean conscience if I'm miserable?" It's a fair question, and the answer is that you won't be. A life without the habit isn't gray and twitchy. The willpower man's misery doesn't come from the Little Monster, who is tiny. It comes from believing he's given something up. So he feels deprived, and feeling deprived is itself a strain. Under strain the old voice says "go on", and now he can't. So he feels more deprived still.
+Put his false information in one line. "What's the point of a clean conscience if I'm miserable?" It's a fair question, and the answer is that you won't be. A life without the habit isn't gray and twitchy. The willpower man's misery doesn't come from the Little Monster, who is tiny. It comes from believing he's given something up. So he feels deprived, and feeling deprived is itself a strain. Under strain the old voice says "go on", and now he can't. So he feels more deprived still.
 
 That is the method at its best. Now add a scoreboard.
 
@@ -94,3 +94,5 @@ That is the method at its best. Now add a scoreboard.
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
 
 <!-- 2026-11-21 five-star pass (editor H2): structural cuts, moves and repairs from the outside review and the cold-listener report. Cut text is kept in the pass's parked-H2 file; source notes above still stand for anything cut. -->
+
+<!-- 2026-11-23 FLOW PASS (book-wide): the 'confidence trap' paragraph moved from the opening into 'The first attempts'; 'fighting wears a man down' moved to after the first few days; one lead-in sentence added before the 'clean conscience' question; nothing cut. -->

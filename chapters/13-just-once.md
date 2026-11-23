@@ -20,7 +20,7 @@ Men say afterward that the habit "came back". Nothing came back. He picked up.
 
 And what does a man get for picking up?
 
-If the Little Monster is still alive, the man gets a few minutes of quiet. He also teaches the caller how many times to ring. If the Little Monster is long dead, there is no itch to relieve. He gets a few seconds, then ten flat minutes, and feels like a fool.
+If the Little Monster is still alive, the man gets a few minutes of quiet. He also teaches the caller how many times to ring. If the Little Monster is long dead, there is no itch to relieve. The man gets a few seconds, then ten flat minutes, and feels like a fool.
 
 What follows is always the same. The flatness lands, and it's so grim that the man is certain nothing this miserable could ever hook him again.
 
@@ -48,13 +48,13 @@ Sometimes the offer comes smaller still. Not once, only a look. A scroll past a 
 
 Often the little look is a letdown, and the man is delighted. "That did nothing for me. I must be losing interest." The opposite is true. The few seconds were never the reason. He did it to feed the Little Monster. Think how that scrap tasted to him after four days of starving. The man didn't notice. The Little Monster did.
 
-It is also the caller getting his answer. All the calls the man let ring taught the caller nothing. The one he picked up taught him to keep ringing.
+The little look is also the caller getting his answer. All the calls the man let ring taught the caller nothing. The one he picked up taught him to keep ringing.
 
 Job, the suffering man of the Old Testament, had the right idea. "I made a covenant with my eyes", he said; "how then should I look lustfully at a young woman?" He didn't promise to look a little. He made a covenant not to. King David took one long look from a rooftop, and you know what it cost him.
 
 ## How to leave it unanswered {-}
 
-So here is how a man lets it ring.
+Here is how a man lets it ring.
 
 Never picture the single, harmless time. It's a fantasy in every sense. When the thought of it comes, see the whole chain. See thousands of secret nights and thousands of flat ten minutes afterward. See a secret carried through every room you walk into, and the years of your strength poured down a drain. Why choose a lifetime of that, when you could be free?
 
@@ -175,3 +175,5 @@ There is a smaller "just once" than any of these, and it is the one that gets mo
 <!-- 2026-11-22 SKEPTIC READ, stage 2 (an atheist who thinks marriage is rigged against men): trust runs both ways; the single man gets an argument that needs no wife; plain legs beside the God-only cures. -->
 
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through: the marriage chapters reordered so that If You Never Marry comes last (after All In has shown the good thing), with the hall stitched to match; repeats cut; leaks closed. -->
+
+<!-- 2026-11-23 FLOW PASS (book-wide): two loose pronouns pinned to their nouns ('The man gets', 'The little look is'); empty 'So' dropped from 'Here is how a man lets it ring'. Nothing cut. -->

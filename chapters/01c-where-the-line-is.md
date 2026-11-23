@@ -24,7 +24,11 @@ Count the doses once more. Porn, the hand and the orgasm together were the stron
 
 But it was only ever a drug outside the promise. Inside the promise the same thing is a gift, and it is for one person.
 
-You may not accept that yet, and you don't have to accept it to keep reading. Just keep the test in your pocket, and try it on your own life.
+You may be single, past forty, and unsure you will ever marry. Then the line seems to offer you nothing but going without. That man gets a full answer before this walk is over.
+
+Or you may think marriage itself is a rigged deal for a man. That charge gets a full hearing too, with the numbers.
+
+You may not accept the line yet, and you don't have to accept it to keep reading. Just keep the test in your pocket, and try it on your own life.
 
 ## Who decides? {-}
 
@@ -46,9 +50,9 @@ Look at what each of them does. It shuts some rooms and keeps one ready. You kno
 
 Only one line keeps no room for the hit. That isn't a religious claim. Count the rooms.
 
-One question for any man, believer or not. Suppose you had lived by that rule: sex only with the woman you have promised to keep. Would you have made better decisions, or worse?
-
 Marriage is not one more room, with a license on the door. Inside the promise the same test still runs. Sex there is a gift, or it is the old using, and a ring doesn't change which.
+
+One question for any man, believer or not. Suppose you had lived by that rule: sex only with the woman you have promised to keep. Would you have made better decisions, or worse?
 
 Then test the lines the way you would test a bridge. Put weight on them.
 
@@ -61,10 +65,6 @@ Then test the lines the way you would test a bridge. Put weight on them.
 **Does it let you find out who she is?** The fair-sounding line is this. Sleep with a woman you like, be honest with her, and see where it goes. Check that against your own record. How often did you sleep with her early and then lose interest? The wanting was doing your choosing, and once it was paid, it left. That line doesn't help a man find a wife. It stops him finding out whether he wants her. A man who waits has to like her with his clothes on.
 
 **Where does the desire go?** On every easier line it is spent, on a screen or a tissue or a stranger. Inside the promise the same force builds a bond, a home and perhaps children. One line burns it. The other puts it to work.
-
-You may be single, past forty, and unsure you will ever marry. Then the line seems to offer you nothing but going without. That man gets a full answer before this walk is over.
-
-Or you may think marriage itself is a rigged deal for a man. That charge gets a full hearing too, with the numbers.
 
 I am not saying this from a pulpit. Check it against your own years. You drew every easier line to keep something. What did the thing you kept ever give you?
 
@@ -104,3 +104,5 @@ SOURCES: Epigraph and body quotation: Proverbs 5:15 (WEB, checked 2026-11-20). "
 <!-- 2026-11-22 second whole-book test as James (he said No to everything except 'any bed outside marriage', because with a woman he liked he was glad afterward and stayed). Overclaim fixed. -->
 
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through: the marriage chapters reordered so that If You Never Marry comes last (after All In has shown the good thing), with the hall stitched to match; repeats cut; leaks closed. -->
+
+<!-- 2026-11-23 FLOW PASS (book-wide): the two deferred objections (single past forty; marriage is rigged) moved out of the five tests to where the line is first stated; 'Marriage is not one more room' moved up beside 'Count the rooms'. -->

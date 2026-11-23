@@ -18,11 +18,13 @@ A marriage is better with no locked rooms in it, so yes. Tell her, and don't lea
 
 Be clear what this is to her. To you it has felt like a private habit. To her it may be a betrayal, and she is entitled to call it that. So tell her for her sake. If you only want to unload your guilt so that *you* feel lighter, you're using her again.
 
+There may have been an affair, or something against the law, or something that puts her health at risk. Then talk to a pastor or counselor first about how to tell her well. Do it soon.
+
 Tell her once, and tell her the truth: what it was, for how long, and whether there was porn or another woman. Don't bring it to her as good news. Say something like, "I've hidden this from you for years. I've stopped, and I'll tell you if that ever changes." Don't make her drag it out of you in pieces over six months. Half a confession now and the rest later does more harm than the whole truth told once. Spare her the details unless she asks, and answer what she asks.
 
 Then let her set the pace. She may be angry, or cold, or want to see your phone, or need time. None of that is a failure to forgive. Trust comes back slowly, and you don't get to say when. Don't ask her to keep score for you. But if she asks to look, show her.
 
-Ask her what she needs, and mean it. If she wants a counselor, a pastor or a friend of her own to talk to, help her get one. There may have been an affair, or something against the law, or something that puts her health at risk. Then talk to a pastor or counselor first about how to tell her well. Do it soon. If there was another person or paid sex, both of you should see a doctor and be tested before you are intimate again.
+Ask her what she needs, and mean it. If she wants a counselor, a pastor or a friend of her own to talk to, help her get one. If there was another person or paid sex, both of you should see a doctor and be tested before you are intimate again.
 
 She doesn't owe you praise for stopping. You owe her a husband who is all there.
 
@@ -43,3 +45,5 @@ That is the method, start to finish. When it goes wrong, it goes wrong in only f
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). New short section for the man with a girlfriend; the narrator no longer assumes the reader prayed. -->
 
 <!-- 2026-11-22 last book-wide pass: sentences over 25 words split. -->
+
+<!-- 2026-11-23 FLOW PASS (book-wide): in 'Your wife' the three sentences on getting advice first when there was an affair, a crime or a health risk moved up to stand before 'Tell her once' (they came after the telling). Wording unchanged, nothing cut. -->

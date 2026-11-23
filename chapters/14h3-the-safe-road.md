@@ -18,7 +18,7 @@ The state's paper is weak, and this book never meant the paper. It meant the pro
 
 No law can make either of you keep it. Only the two of you can. So the woman you say it to matters far more than anything a court does afterward.
 
-Then why sign the state's paper at all? Because a vow that costs nothing to break is the hand on the door again. Refusing the paper keeps the cheap exit, for you and for her. Signing it puts your name and your money where your vow is. You can only take your own hand off the door. Hers is hers, which is why you choose her with such care. It also says so in the one form that everybody else recognizes.
+Then why sign the state's paper at all? Because a vow that costs nothing to break is the hand on the door again. Refusing the paper keeps the cheap exit, for you and for her. Signing it puts your name and your money where your vow is. It also says so in the one form that everybody else recognizes. You can only take your own hand off the door. Hers is hers, which is why you choose her with such care.
 
 ## What the safe road keeps {-}
 
@@ -77,3 +77,5 @@ Every door on this walk so far has been one to shut. The next one opens.
 <!-- 2026-11-22 (James: 'for the divorces, it's conditional... if the woman is making more money and a career type boss babe, then the percentage skyrockets'). Checked: the evidence is mixed and does not support 'skyrockets'. Sources: Bertrand, Kamenica and Pan, Quarterly Journal of Economics, 2015 (National Survey of Families and Households, 1987-88 and 1992-94: divorce about 6 points higher on a 12% base when the wife earns more; read in the NBER working paper w19023); Schwartz and Gonalons-Pons, RSF, 2016 (hazard ratio 1.70 for 1968-79 marriages, 1.04 for the 1990s), https://pmc.ncbi.nlm.nih.gov/articles/PMC5021537/ ; Folke and Rickne, American Economic Journal: Applied Economics, 2020 (Sweden 1991-2012, mayors and members of parliament: about 7 points on a 6% base; concentrated where the husband was much older and the wife had taken nearly all the parental leave; no effect in more equal couples); Killewald 2016 (wives' earnings not associated with divorce; the earlier wording 'What she earned made no difference' is replaced). CHECK BEFORE PRINT. -->
 
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through: the marriage chapters reordered so that If You Never Marry comes last (after All In has shown the good thing), with the hall stitched to match; repeats cut; leaks closed. -->
+
+<!-- 2026-11-23 FLOW PASS (book-wide): in 'The paper and the promise', 'It also says so' moved up next to 'Signing it', which it refers to; nothing cut. -->

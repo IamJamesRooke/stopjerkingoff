@@ -47,11 +47,11 @@ An appetite that is fed, even a little, comes back asking for more. It never ask
 
 If you had that kind of willpower to spare, you'd have stopped years ago. Stopping completely is far easier, and it hurts far less.
 
+A limit is indulgence with a schedule.
+
 The same goes for every half-measure dressed up as progress. Edging is one. A man goes right up to the end and stops, and tells himself, "At least I didn't finish." He has kept the engine running for an hour. Looking without touching is another. So is touching without looking. So is "just checking". They're all ways of cutting down. One man who'd tried edging left this for the men coming after him:
 
 > "Don't edge. Really. Don't do it. It's the absolutely worst thing to do."
-
-A limit is indulgence with a schedule.
 
 Under one man's testimony, a commenter put this whole chapter in one sentence. God had told him, he wrote, that he couldn't kill something he continued to feed.
 
@@ -101,3 +101,5 @@ That leaves the smallest request of all: just once. The answer to it comes from 
 <!-- 2026-11-21 five-star pass (editor H2): structural cuts, moves and repairs from the outside review and the cold-listener report. Cut text is kept in the pass's parked-H2 file; source notes above still stand for anything cut. -->
 
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). The Big Monster is never fed and doesn't grow. -->
+
+<!-- 2026-11-23 FLOW PASS (book-wide): 'A limit is indulgence with a schedule' moved up from after the edging quote to just before 'The same goes for every half-measure'; nothing cut. -->

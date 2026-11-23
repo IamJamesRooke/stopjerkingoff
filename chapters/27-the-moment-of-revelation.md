@@ -34,7 +34,7 @@ You will never need to test your freedom. Every test of it is the habit under an
 
 ## Don't wait for it {-}
 
-So don't sit waiting for the moment. The habit is finished the minute you decide. The Little Monster's supply is cut off. Nothing on earth can stop you being free then, unless you sit moping or wait for a sign.
+Don't sit waiting for the moment. The habit is finished the minute you decide. The Little Monster's supply is cut off. Nothing on earth can stop you being free then, unless you sit moping or wait for a sign.
 
 If you're a Christian you have firmer ground than a feeling. Paul says that if anyone is in Christ, "he is a new creation. The old things have passed away." He wrote that as a fact about you, and the feeling will catch up with the fact.
 
@@ -68,3 +68,5 @@ Before you decide, look past the door. What is all this freedom for?
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
 
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). Warns that the 'test' will feel good and proves nothing. -->
+
+<!-- 2026-11-23 FLOW PASS (book-wide): empty 'So' dropped from the first line of 'Don't wait for it' (it did not follow from 'Don't test it'). Nothing moved or cut. -->

@@ -12,7 +12,7 @@ And who counts days? A man scratching lines on a cell wall. Prisoners count days
 
 Then there's the reset. One slip on day sixty-one and the screen says zero. All of it gone! So what does the man at zero do? More often than not he thinks, "Well, it's ruined now," and makes a weekend of it before starting the count again on Monday. The counter turned one bad night into three. A man who had quit for good and stumbled would pick himself up the same hour. The man with a counter has to start again from the bottom of the hill.
 
-So the man on the Willpower Method waits. And while he waits, the questions come:
+A man who counts is a man who waits. And while he waits, the questions come:
 
 - "How long is this going to last?"
 - "Will I ever enjoy a quiet evening again?"
@@ -40,3 +40,5 @@ The most honest account of all this was written two thousand years ago, by a tou
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
 
 <!-- 2026-11-21 five-star pass (editor H2): structural cuts, moves and repairs from the outside review and the cold-listener report. Cut text is kept in the pass's parked-H2 file; source notes above still stand for anything cut. -->
+
+<!-- 2026-11-23 FLOW PASS (book-wide): the empty 'So' before the list of questions replaced by a sentence that states the link from counting to waiting. -->

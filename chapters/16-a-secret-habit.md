@@ -42,7 +42,7 @@ A man with a secret can't be fully known. And he never feels fully loved, becaus
 
 ## The man at the front of the church {-}
 
-One man lives that first lie harder than anyone. He serves on the welcome team, leads a small group, perhaps plays in the band. He has masturbated since he was fourteen and has never said one word about it to a living soul.
+One man lives that harder than anyone. He serves on the welcome team, leads a small group, perhaps plays in the band. He has masturbated since he was fourteen and has never said one word about it to a living soul.
 
 On Sunday he's at the front with his hands raised. On Saturday night he was where he always is. He has confessed it so many times, in the same words, that he's embarrassed to bring it up with God again. So he has stopped bringing it up, and after a while he has stopped bringing up much else.
 
@@ -72,7 +72,7 @@ Paul drew the line in a letter to the church at Corinth: "godly sorrow produces 
 
 ## Whom to tell, and when {-}
 
-There is an order to it.
+There is an order to the telling.
 
 Start today with the two who already know. Stop hiding it from yourself, and stop hiding it from God. If you believe, he has seen every time, and he hasn't left. If you're not a believer, say the plain facts aloud in an empty room, and notice how much smaller they sound.
 
@@ -108,3 +108,5 @@ Men walk out into the light every day. The door was only ever locked from the in
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
 
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). The narrator no longer speaks as a believer. -->
+
+<!-- 2026-11-23 FLOW PASS (book-wide): two pointers fixed: 'that first lie' (four paragraphs back) is now 'that', pointing at the line before; 'an order to it' is now 'an order to the telling'. Nothing moved or cut. -->

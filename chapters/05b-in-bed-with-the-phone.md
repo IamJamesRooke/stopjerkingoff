@@ -4,7 +4,7 @@ If you're like most men, the phone is in your hand before your head has touched 
 
 "I do it when I'm bored." But boredom is a state of mind. Give a man something that absorbs him and he can go for days without a thought of it. Leave him lying on a bed with nothing to do and a screen full of half-dressed strangers. Now there's nothing between him and the Little Monster's tapping. He isn't bored and then tempted. He's itchy, and with nothing to distract him he notices it.
 
-The same psychiatrist says the number one cause of relapse is not strong emotion. It is boredom. His reason takes one line: "if you've got a gap in your day porn will fill it".
+The psychiatrist Alok Kanojia says the number one cause of relapse is not strong emotion. It is boredom. His reason takes one line: "if you've got a gap in your day porn will fill it".
 
 The most famous fall in the Bible began in an empty hour. David, Israel's greatest king, was alone on his roof on an idle evening, while his army was away at war. You know that hour.
 
@@ -40,7 +40,7 @@ You already know who keeps you awake. Here is how he does it. The bed is the cue
 
 It's a poor sedative in any case. The session runs late and the phone runs later. At seven the next morning a man drags himself out of bed and blames the mattress.
 
-When you stop, you may have a few nights when the old cue fires and you lie there for a while. Don't dread them. Lie there and smile, because you know what's dying. Most men then sleep the way they did as boys. If you still sleep badly a month from now, that is a different problem, and a doctor is the person to see. David wrote of it in Psalm 4: "In peace I will both lay myself down and sleep, for you, LORD alone, make me live in safety." He says he'll sleep in peace. He doesn't say he'll sleep worn out.
+When you stop, you may have a few nights when the old cue fires and you lie there for a while. Don't dread them. Lie there and smile, because you know what's dying. If you still sleep badly a month from now, that is a different problem, and a doctor is the person to see. But most men are soon sleeping the way they did as boys. David wrote of it in Psalm 4: "In peace I will both lay myself down and sleep, for you, LORD alone, make me live in safety." He says he'll sleep in peace. He doesn't say he'll sleep worn out.
 
 ## Energy {-}
 
@@ -50,7 +50,7 @@ The tiredness gets filed under "getting older". Your friends are tired too, so i
 
 Suppose I could lift you out of today and set you down a few weeks after stopping, just for one morning. You'd feel the difference all at once, and that alone would do it. You wouldn't say, "Is this how good it gets?" You'd say, "Had I really sunk that far?" I can't carry you there. You can walk.
 
-I can't prove this with a lab report. It is testimony, and the testimony is remarkably consistent. Men say the energy comes back, and many say it starts within days. There is one condition. If you stop by willpower, feeling deprived, the gloom will swallow every gain. Stop this book's way and you get to enjoy each gain as it comes.
+I can't prove that difference with a lab report. It is testimony, and the testimony is remarkably consistent. Men say the energy comes back, and many say it starts within days. There is one condition. If you stop by willpower, feeling deprived, the gloom will swallow every gain. Stop this book's way and you get to enjoy each gain as it comes.
 
 Underneath all of these occasions lies one more, and it is the saddest.
 
@@ -59,3 +59,5 @@ Underneath all of these occasions lies one more, and it is the saddest.
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
 
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
+
+<!-- 2026-11-23 FLOW PASS (book-wide): 'The same psychiatrist' is named (he was last named a chapter back); the see-a-doctor caution moved so it no longer sits between the good sleep and David's line about it; 'this' in the Energy section given something to point at. -->

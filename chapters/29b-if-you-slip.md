@@ -6,7 +6,7 @@
 
 I hope you never need this chapter. It gives no permission. The rule stands: not once, for any reason.
 
-But the rule is strict, and the grace is real. A soldier who trips on the march doesn't desert. He gets up and gets back in line. So here is what to do if you fall.
+The rule is strict, and the grace is real. A soldier who trips on the march doesn't desert. He gets up and gets back in line. So here is what to do if you fall.
 
 ## Am I back to zero? {-}
 
@@ -43,8 +43,6 @@ See that for what it is: the old lie dressed up as holiness. Brooding and self-p
 
 If a slip has left you taking the whole business very solemnly, remember the men on the forum who were trying not to drink bleach.
 
-
-
 If you slipped, the lesson is not "try harder". Somewhere you started believing again that the glass had something to offer. The world repeats its lies daily, so it does no harm to hear the truth twice.
 
 That is everything you need for yourself. The last job is for somebody else.
@@ -76,3 +74,5 @@ That is everything you need for yourself. The last job is for somebody else.
 <!-- 2026-11-22: the bleach forum moved to its own chapter before the Final Step; a short callback stays here. 'You fell forward.' cut (it called a fall progress). -->
 
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->
+
+<!-- 2026-11-23 FLOW PASS (book-wide): empty 'But' dropped from 'But the rule is strict, and the grace is real' (it claimed a contrast with 'The rule stands'). Nothing moved or cut. -->

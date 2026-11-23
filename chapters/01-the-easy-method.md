@@ -63,7 +63,7 @@ Not one.
 
 Yes, the finish feels good. That is real. It is the bait, and you'll see what is on the hook.
 
-The relaxation, the stress relief, the "release", the thrill of something new, the feeling of being wanted. Each one is a tight shoe, and each one gets its turn. The bargains get their turn too. So does lust, the wider appetite behind the habit.
+The relaxation, the stress relief, the "release", the thrill of something new, the feeling of being wanted. Each one is a tight shoe, and each one gets its turn. The bargains get their turn too. So does lust, the wider appetite behind the habit, the one that has you thinking with the wrong head.
 
 ## What to do tonight {-}
 

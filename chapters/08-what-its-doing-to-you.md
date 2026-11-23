@@ -32,7 +32,7 @@ There is no shock treatment here. Nothing that follows will be news to you. It's
 
 ### Your drive {-}
 
-The same coach masturbated daily for years himself, and he sums up what it does to men in three short sentences: "It kills their drive. It destroys their confidence and it numbs their hunger."
+One coach masturbated daily for years himself, and he sums up what it does to men in three short sentences: "It kills their drive. It destroys their confidence and it numbs their hunger."
 
 Why would it do that? Think about what a man's hunger is for. It's meant to get him up, send him out and make him build something, win someone and become someone. Then every night he tells that hunger it has already been fed. After enough years it stops asking.
 
@@ -155,3 +155,5 @@ And then there is the body. Men whisper about this part, and almost nobody tells
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). The quote is no longer in the Introduction, so it is given in full here (same source as before). -->
 
 <!-- 2026-11-22 SKEPTIC READ, stage 2 (an atheist who thinks marriage is rigged against men): trust runs both ways; the single man gets an argument that needs no wife; plain legs beside the God-only cures. -->
+
+<!-- 2026-11-23 FLOW PASS (book-wide): 'The same coach' (last met a chapter back) is now 'One coach'. Nothing else changed. -->

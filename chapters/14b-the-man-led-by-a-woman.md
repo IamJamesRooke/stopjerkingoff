@@ -60,9 +60,9 @@ That freedom matters most at home, with his wife.
 
 There is a husband who gives in on everything and never says a hard word. It looks like kindness. It is fear. He wants her, and he is afraid of what an honest sentence might cost him. Sometimes a wife knows that and uses it. Far more often she has no idea, and only wonders why he never tells her what he thinks. Either way, he can't change her. What he can change is whether the lever works.
 
-Now take the husband whose lust no longer runs him. He can say, quite calmly, "That isn't right, and I won't go along with it." He isn't being cold, and he isn't punishing her. He still loves her, and he still wants her. But he can't be bought with sex or starved by the lack of it, so he is free to tell her the truth.
+Sex is not the only lever in a marriage. The law hands a wife a second one, and many husbands keep quiet because of it. That lever is real, and it gets its turn.
 
-Sex is not the only lever in a marriage. The law hands a wife a second one, and many husbands keep quiet because of it. That lever is real, and it gets its turn. That is better for her as well. She can trust his yes, because he can say no.
+Now take the husband whose lust no longer runs him. He can say, quite calmly, "That isn't right, and I won't go along with it." He isn't being cold, and he isn't punishing her. He still loves her, and he still wants her. But he can't be bought with sex or starved by the lack of it, so he is free to tell her the truth. That is better for her as well. She can trust his yes, because he can say no.
 
 Samson was a strong man and Ahab was a king, and neither could say no. This man is neither. He is only free, and that turns out to be the one thing that matters. Nobody can lead him by what he wants, because it no longer leads him.
 
@@ -100,3 +100,5 @@ That is the chase. And the chase has only ever been going to one place.
 <!-- 2026-11-22 LADDER (James: go after each behavior in turn; PMO is the enhanced version, MO the mild version, 'the O is only for one person'; no pressure; name fornication; PMO to MO is progress because porn hurts others). Added the no-pressure door before the closing hook. Plan: /mnt/project-files/easy-peasy/ladder-plan-2026-11-22.md -->
 
 <!-- 2026-11-22 SKEPTIC READ, stage 3 (an atheist who thinks marriage is rigged against men): the law's lever named; the two-year girlfriend argued and not just asserted; overclaims trimmed. -->
+
+<!-- 2026-11-23 FLOW PASS (book-wide): in 'At home' the three sentences on the law's lever (a note on what comes later) had split 'free to tell her the truth' from 'That is better for her as well'; they now stand before 'Now take the husband'. Nothing cut. -->

@@ -18,11 +18,11 @@ Two things make the scroll worse than it looks. First, it props up the belief th
 
 The Little Monster doesn't care where his food comes from. Scraps keep him alive as well as a banquet. The soft stuff in your feed eases the itch for a moment, and a moment is all it needs to stay awake until next time.
 
+A furnace has a pilot light, a tiny flame that burns all day and uses almost no gas. Its only job is to make sure the main burner can fire the instant it's asked. That's what the scroll and the daydream are. The urge never comes out of nowhere. The pilot light has been on since breakfast.
+
 And the feed learns. Pause on one photo for two seconds and it brings you ten more tomorrow. It's a machine for finding your red line and parking you next to it.
 
 The woman on the screen is beautiful. Nobody denies it. If she were your wife, and in the room, she'd be a gift. But she isn't in the room. She's light on a piece of glass. Run the test. Gift or hit? Nothing is given and nobody is kept, so it is a hit.
-
-A furnace has a pilot light, a tiny flame that burns all day and uses almost no gas. Its only job is to make sure the main burner can fire the instant it's asked. That's what the scroll and the daydream are. The urge never comes out of nowhere. The pilot light has been on since breakfast.
 
 ## "Then I'll look and not touch" {-}
 
@@ -86,3 +86,5 @@ Take the phone away and the excuse only changes. There is a film in a man's own 
 <!-- 2026-11-22 LADDER (James: go after each behavior in turn; PMO is the enhanced version, MO the mild version, 'the O is only for one person'; no pressure; name fornication; PMO to MO is progress because porn hurts others). Added the no-pressure door before the closing hook. Plan: /mnt/project-files/easy-peasy/ladder-plan-2026-11-22.md -->
 
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). The door is shut by seeing, not 'nobody is making you'; the gift test fixed; the Little Monster no longer shrugs or owns a film. -->
+
+<!-- 2026-11-23 FLOW PASS (book-wide): in 'Crumbs are still a meal' the pilot-light paragraph moved up to follow the crumbs paragraph it explains; the section now ends on 'it is a hit', which the next heading answers. Nothing cut. -->

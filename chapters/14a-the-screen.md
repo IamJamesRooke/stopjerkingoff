@@ -18,7 +18,7 @@ Then count what he carries out. The strong dose doesn't feed the Little Monster 
 
 ## The woman who says his name {-}
 
-Some men have gone one step past the free sites. You may not be one of them. Keep reading anyway, because this is where the screen leads, and it takes down another lie. Such a man would never go to a prostitute. But he pays a monthly fee to see one woman's private pictures, and he tips her so that she will write back. Or he sends money to a woman who plays video games on a live stream, so that she will say his name.
+The screen leads one step past the free sites. You may not have taken that step, but some men have. Such a man would never go to a prostitute. But he pays a monthly fee to see one woman's private pictures, and he tips her so that she will write back. Or he sends money to a woman who plays video games on a live stream, so that she will say his name.
 
 It is a big business. In 2024, men spent more than seven billion dollars on the largest of these subscription sites. Here is what that money often buys. Reporters found that many of the women there never write the messages at all. Agencies hire workers to do it, called chatters. Many of them are men, sitting in offices on the other side of the world, paid to type like her and to keep him spending.
 
@@ -34,9 +34,7 @@ There is a woman on that screen. You can't know how she got there, or how old sh
 
 That is the first room, and you have looked inside it.
 
-Nobody is asking you for a vow, and no one is counting days. A door like this doesn't shut by force. It shuts when you have seen that there is nothing in the room you want. If you have seen it, the door is shut already.
-
-The one No at the end of the book covers the whole house. It will be easy, because by then every door is shut.
+Nobody is asking you for a vow, and no one is counting days. The one No at the end of the book covers the whole house. It will be easy, because by then every door is shut. A door like this doesn't shut by force. It shuts when you have seen that there is nothing in the room you want. If you have seen it, the door is shut already.
 
 A man who shuts this door has stopped paying that trade. Nobody on a screen is being used for him any longer. That is good for them. It has done nothing yet for him.
 
@@ -53,3 +51,5 @@ Plenty of men shut this door and settled for that. Then they heard a knock from 
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). 'It only costs more' made the hand the cheap option; PMO is defined once, in the map just before. -->
 
 <!-- 2026-11-22 (James: 'some chapters won't apply to everybody... maybe you're not on subscription sites but keep reading because you will see how this is destroying other men's lives as well... Maybe you don't have an AI gf, but this is what lust leads to'). 'Keep reading' line before the subscription sites. -->
+
+<!-- 2026-11-23 FLOW PASS (book-wide): in 'The woman who says his name' the 'keep reading anyway' aside is woven into the opening so 'Such a man' has its noun; in 'The door' the two sentences on the one No moved up beside 'no vow', so 'the door is shut already' runs straight into 'A man who shuts this door'. -->

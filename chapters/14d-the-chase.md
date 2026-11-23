@@ -1,6 +1,6 @@
 # The Chase {#the-chase}
 
-Here lust borrows a man's feet. This is the chase. Its excuse is that the women are real. Ask what he is talking to them for. If that has never been you, read this for the man you know who is living it.
+Here lust borrows a man's feet. This is the chase. If that has never been you, read this for the man you know who is living it. Its excuse is that the women are real. Ask what he is talking to them for.
 
 You text an old girlfriend at midnight. You stay in something you know is wrong, because leaving means going without. You'd tell a friend he was being a fool. The reasons you gave yourself were made up afterward. The decision had already been made, lower down. That is thinking with the wrong head.
 
@@ -93,3 +93,5 @@ Six men, then. One at the party, one who waits, one who swipes and one who wins.
 <!-- 2026-11-22 third whole-book test as James (he now says the whole No, but holds back the warm bed with a woman he liked; 'I say the clause as a better policy, not as a man who sees nothing in the room'). Fixes from that test; see the commit of this date. -->
 
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through: the marriage chapters reordered so that If You Never Marry comes last (after All In has shown the good thing), with the hall stitched to match; repeats cut; leaks closed. -->
+
+<!-- 2026-11-23 FLOW PASS (book-wide): in the opening the 'if that has never been you' sentence moved up beside 'This is the chase', so the excuse and the question run unbroken into the chapter. Nothing cut. -->

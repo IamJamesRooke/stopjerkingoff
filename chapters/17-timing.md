@@ -32,7 +32,7 @@ It won't be easier next year. It will be the same job with another year of rut w
 
 ## See the weeks coming {-}
 
-One piece of getting ready is worth doing now. Look at the three weeks after you expect to reach that step. Is there a trip away on your own? Is your wife visiting her mother? Are there finals, a deadline, a string of late nights in an empty house?
+One piece of getting ready is worth doing now. Look at the three weeks after you expect to reach the final step. Is there a trip away on your own? Is your wife visiting her mother? Are there finals, a deadline, a string of late nights in an empty house?
 
 None of these has to put you off. They only need to be seen coming. A man who expects the quiet hotel room, and knows he's missing nothing in it, walks straight through it.
 
@@ -55,3 +55,5 @@ That leaves the fear under all the others. Once the habit is gone, will you miss
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
 
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
+
+<!-- 2026-11-23 FLOW PASS (book-wide): one pointer fixed: 'that step' (named two sections earlier) is now 'the final step'. Nothing moved or cut. -->

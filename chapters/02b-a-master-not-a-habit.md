@@ -10,15 +10,15 @@ So why would this one be different? This habit leaves you restless when you skip
 
 Because it isn't a habit.
 
-Jesus had the right word for it. "Everyone who commits sin is the bondservant of sin," he said. A bondservant is a slave. Two thousand years before anyone studied addiction, he had already named it. A man with a habit is in charge of it. This thing is in charge of you. Call it sin, or addiction, or a trap. This book uses all three. It will go on saying "the habit" as well, because that is what men call it. But never forget what it is. IT'S A MASTER, NOT A HABIT.
-
-And there is only one of him. What sends you to the bathroom is what opens the site. They look like separate habits. One master is behind both.
-
-And the joke of it is his size. For years you have been jumping for a pipsqueak in your own back room. He can't make you do a thing. You obeyed because you thought he was paying.
+Jesus had the right word for it. "Everyone who commits sin is the bondservant of sin," he said. A bondservant is a slave. Two thousand years before anyone studied addiction, he had already named it. A man with a habit is in charge of it. This thing is in charge of you. Call it sin, or addiction, or a trap. Men call it the habit, and so will this book. But never forget what it is. IT'S A MASTER, NOT A HABIT.
 
 The men who have gotten out reach for the same word without being told. One of them, eight months clean, looked back and counted. He wrote that he had been a slave to it since he was twelve years old. He was thirty.
 
 That is why it seems so hard to "give up". The slave has come to believe his master is also his comforter. He thinks the pleasure is worth its price, and that the crutch holds him up. He thinks life without it would have a hole in the middle.
+
+And there is only one master. What sends you to the bathroom is what opens the site. They look like separate habits. One master is behind both.
+
+And the joke of it is his size. For years you have been jumping for a pipsqueak in your own back room. He can't make you do a thing. You obeyed because you thought he was paying.
 
 Now the good news. Once you see how the master holds you, and why you really reach for the habit, you'll stop. Just like that. Before long only two mysteries will be left. One is how it ever had a grip on you. The other is why you can't get your friends to see what you see.
 
@@ -68,3 +68,5 @@ Take the flesh first. It is the smaller of the two, and it is not what you think
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'). Pleasure is not denied; its price is. -->
 
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->
+
+<!-- 2026-11-23 FLOW PASS (book-wide): the freed man's 'slave' testimony and 'That is why it seems so hard' moved up to sit straight after the master paragraph ('the same word' had nothing near to point at); 'one of him' is now 'one master'; the note on the book's terms cut to one sentence. -->

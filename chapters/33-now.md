@@ -46,7 +46,7 @@ That is a bigger thing than quitting a habit. It is yours to grow into for the r
 
 ## Pass it on {-}
 
-This book is open. You may copy it, print it, translate it and hand it around without asking anyone. The Attribution page has the details. It came the same way, from Allen Carr through the people behind EasyPeasy. Jesus put the principle in one short sentence when he sent his disciples out: "Freely you received, so freely give."
+This book is open. You may copy it, print it, translate it and hand it around without asking anyone. It came the same way, from Allen Carr through the people behind EasyPeasy, and the Attribution page has the details. Jesus put the principle in one short sentence when he sent his disciples out: "Freely you received, so freely give."
 
 So tell one man. You already have his name. Send him the book with one line: "This worked for me." Don't preach it and don't argue it. The men who need it will read it at one in the morning, on their own, the way you probably did.
 
@@ -111,3 +111,5 @@ You're free, and you're fit for service. Go in peace.
 <!-- 2026-11-22 third whole-book test as James (he now says the whole No, but holds back the warm bed with a woman he liked; 'I say the clause as a better policy, not as a man who sees nothing in the room'). Fixes from that test; see the commit of this date. -->
 
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->
+
+<!-- 2026-11-23 FLOW PASS (book-wide): in "Pass it on", the Attribution pointer moved behind the sentence it cut off ("It came the same way" now points at the book again). -->

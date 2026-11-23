@@ -1899,3 +1899,86 @@ One thing first. "No benefits at all" is a big claim from a stranger. You have e
 - Introduction: "Some nights it comes with something real, a bad day or an empty house. The itch itself is still small."
 - The Button: "This book quotes the Bible like that, and it takes God seriously. If you believe, you'll find this way leans on grace, not grit. Whatever you believe, nobody here will ask you to pretend. The way out is the same."
 - The Easy Method: "And all that effort has a trap inside it. The same man on the forum spotted it. The harder he tried not to think about porn, the more porn became the center of his thoughts." (a third reason after "two reasons").
+
+## 2026-11-23 Book-wide flow pass: original wording of every sentence that was cut or reworded
+
+Paragraphs that only moved are not listed. Each chapter's last comment line says what moved.
+
+- chapters/01-the-easy-method.md:
+  - So does lust, the wider appetite behind the habit.
+- chapters/01b-the-empty-house.md:
+  - ## Don't throw anything out yet {-}  That is why this book asks you not to throw anything out yet.
+- chapters/01c-where-the-line-is.md:
+  - You may not accept that yet, and you don't have to accept it to keep reading.
+- chapters/02b-a-master-not-a-habit.md:
+  - This book uses all three.
+  - It will go on saying "the habit"
+  - as well, because that is what men call it.
+  - And there is only one of him.
+- chapters/03-the-flesh.md:
+  - When Paul writes about "the flesh", he doesn't mean your skin.
+- chapters/03b-the-little-monster.md:
+  - And the little one isn't picky.
+- chapters/04-the-worlds-lies.md:
+  - So this book doesn't call every man with the habit a clinical addict.
+- chapters/05b-in-bed-with-the-phone.md:
+  - The same psychiatrist says the number one cause of relapse is not strong emotion.
+  - Most men then sleep the way they did as boys.
+  - I can't prove this with a lab report.
+- chapters/07-getting-your-time-back.md:
+  - One cost of that slavery needs no doctor, no pastor and no argument about whether it's a sin.
+  - The next pages count what the habit costs.
+- chapters/08-what-its-doing-to-you.md:
+  - ### Your drive {-}  The same coach masturbated daily for years himself, and he sums up what it does to men in three short sentences: "It kills their drive.
+- chapters/08b-what-it-does-to-your-body.md:
+  - What is going on?
+- chapters/11-the-willpower-method.md:
+  - It usually takes years to realize you're hooked, because of one stubborn illusion.
+  - ## The first attempts {-}  After a few failed attempts, a man falls back on hope.
+- chapters/11b-the-counter.md:
+  - So the man on the Willpower Method waits.
+- chapters/13-just-once.md:
+  - He gets a few seconds, then ten flat minutes, and feels like a fool.
+  - It is also the caller getting his answer.
+  - ## How to leave it unanswered {-}  So here is how a man lets it ring.
+- chapters/14-types-of-user.md:
+  - So a man in the trap makes two mistakes about other men.
+- chapters/14a-the-screen.md:
+  - ## The woman who says his name {-}  Some men have gone one step past the free sites.
+  - You may not be one of them.
+  - Keep reading anyway, because this is where the screen leads, and it takes down another lie.
+- chapters/14e0-the-hookup.md:
+  - This chapter is for the man who has gone home with a woman he didn't mean to keep.
+  - If that has never been you, it is a short one, and you know a man it fits.
+- chapters/14f-but-im-going-to-marry-her.md:
+  - This chapter is for the man with a girlfriend or a fiancée.
+  - If that isn't you, read it for the friend it fits.
+- chapters/14f2-the-test-drive.md:
+  - It held for the men as much as for the women.
+- chapters/14i-all-in.md:
+  - ## What the bet buys {-}  It buys someone who knows the worst of you and stays.
+- chapters/15b-you-would-if-you-could.md:
+  - You may never have tried this.
+  - Keep reading, because it shows where the film in a man's head is going.
+- chapters/16-a-secret-habit.md:
+  - ## The man at the front of the church {-}  One man lives that first lie harder than anyone.
+  - ## Whom to tell, and when {-}  There is an order to it.
+- chapters/17-timing.md:
+  - Look at the three weeks after you expect to reach that step.
+- chapters/19-can-i-compartmentalise.md:
+  - ## One life {-}  The moment he is gone, there is no back room.
+- chapters/22-the-first-weeks.md:
+  - ## On the worst night {-}  Picture a man who has been free for years.
+- chapters/22a-whose-voice-is-that.md:
+  - ## Lines for a hard moment {-}  These aren't spells, and they aren't answers to the voice.
+- chapters/25-substitutes.md:
+  - ## Pursue {-}  Paul wrote this to Timothy, a young pastor he was training: "Flee from youthful lusts; but pursue righteousness, faith, love, and peace with those who call on the Lord out of a pure heart."
+- chapters/27-the-moment-of-revelation.md:
+  - ## Don't wait for it {-}  So don't sit waiting for the moment.
+- chapters/29b-if-you-slip.md:
+  - But the rule is strict, and the grace is real.
+- chapters/31-advice-to-non-users.md:
+  - If that's you, and you've come straight here, welcome.
+- chapters/33-now.md:
+  - The Attribution page has the details.
+  - It came the same way, from Allen Carr through the people behind EasyPeasy.

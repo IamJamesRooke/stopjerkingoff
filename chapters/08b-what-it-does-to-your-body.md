@@ -14,13 +14,13 @@ Death grip is men's own slang, and the name fits. A hand can squeeze far harder 
 
 Then a real woman arrives. She is warm and soft, and to a body trained on a fist she feels like almost nothing. Some men can't finish with her, however long it goes on. Some can't stay ready. A woman on a forum for men who are stopping wrote this about the man she had been with: "when he did have sex he felt nothing".
 
-Sex therapists and urologists see these men regularly, and they have their own drier names for it. In 2023 Dr. Kanojia, the psychiatrist, put it as bluntly as a doctor can. A tight, dry hand, he said, "feels different from a vagina". A man who knows nothing else has trained his body away from a real woman.
-
-What is going on? Most doctors describe it as training. Think of a man who salts his food a little more heavily every year. His tongue isn't ruined, but plain food now tastes of nothing. Some doctors go further, and say that years of dry friction may dull the skin and the nerves themselves. Nobody has proved that. The training explanation has the most behind it. It is also the hopeful one, because a body that learned one thing can learn another.
-
 A medical student told his story on NoFap. With his first girlfriend, "even after months, still no orgasm for me. I couldn't even get close." Then comes the sentence every man should hear: "She started to think it was her fault, but deep inside, I knew what the problem was."
 
+Sex therapists and urologists see these men regularly, and they have their own drier names for it. In 2023 Dr. Kanojia, the psychiatrist, put it as bluntly as a doctor can. A tight, dry hand, he said, "feels different from a vagina". A man who knows nothing else has trained his body away from a real woman.
+
 Let's keep this honest. Death grip isn't an official diagnosis. A study published in 2023 looked at several hundred young men. Those with erection trouble were about twice as likely to masturbate in these rough ways. That shows a link and no more. Some doctors doubt it's common. And if this is your trouble, see a doctor, because medicines and other conditions can do the same thing.
+
+When the hand is the cause, what is going on? Most doctors describe it as training. Think of a man who salts his food a little more heavily every year. His tongue isn't ruined, but plain food now tastes of nothing. Some doctors go further, and say that years of dry friction may dull the skin and the nerves themselves. Nobody has proved that. The training explanation has the most behind it. It is also the hopeful one, because a body that learned one thing can learn another.
 
 Even the specialists who call masturbation harmless start the cure in the same place. They usually ask a man to stop for a while. This book asks you to stop for good. That is my conviction, not their prescription. If a sex therapist gives you exercises, that is treatment. Tell the therapist your convictions at the start. A good one will work within them.
 
@@ -44,3 +44,5 @@ The body can mend. So why has a list like this never once made you stop?
 <!-- 2026-11-22 from James's research report, checked against the original: Jacobs and others, JMIR Public Health and Surveillance, 2021 (3,419 men aged 18-35 analysed; 21.48% of the 2,067 sexually active had some erectile dysfunction, mostly mild; linked to the problematic-use score, not viewing time; self-selected web sample), https://publichealth.jmir.org/2021/10/e32542/ . The other side: Landripet and Stulhofer, Journal of Sexual Medicine, 2015 (Croatia, Norway, Portugal). -->
 
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->
+
+<!-- 2026-11-23 FLOW PASS (book-wide): in 'Death grip' the medical student's story now follows the woman's line, and the 'keep this honest' caution sits with the doctors, so explanation, cure and recovery run unbroken; nothing cut. -->

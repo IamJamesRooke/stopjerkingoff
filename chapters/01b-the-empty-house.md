@@ -78,7 +78,7 @@ This book follows him room by room, and it goes further than you expect. You don
 
 ## Don't throw anything out yet {-}
 
-That is why this book asks you not to throw anything out yet.
+Judge first. This book asks you not to throw anything out yet.
 
 The day will come, near the end, when you show him the door. You'll do it once, and it will be easy. By then you will know he has nothing you want. You won't have to drag anyone out. Sweeping never got rid of him. You stop believing he pays, and you stop carrying up his dinner. He leaves, and his friends leave with him.
 
@@ -100,3 +100,5 @@ SOURCES: Matthew 12:43-45 (WEB, checked 2026-11-20). Quoted verbatim: "I will re
 <!-- 2026-11-22 chapters 1 to 5 rebuild (James: 'the same level of attention to detail' as the Introduction; show, don't tell; concrete details; simple sentences; section headers). Section headers added; 'tenant' appears only in the rent passage; he bangs and the man climbs the stairs (he no longer 'asks'); the two piles of lies match the Introduction word for word; 'leaves the plate on the floor' replaces dishes in the sink; 'with the bed made and the door open' is the editor's detail in the application, not in the quoted story; first line 'seven friends' is the editor's word. The previous text is saved whole in editorial/PARKING.md. -->
 
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->
+
+<!-- 2026-11-23 FLOW PASS (book-wide): 'That is why' at the head of the last section pointed at nothing in the hall warning before it; it is now 'Judge first.', which grows out of 'Judge each room when we get there'. -->

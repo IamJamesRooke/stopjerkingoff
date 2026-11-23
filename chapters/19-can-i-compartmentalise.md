@@ -26,7 +26,7 @@ Jesus said the same about money: no one can serve two masters. A man with a lock
 
 ## One life {-}
 
-The moment he is gone, there is no back room. That low, shifty, insecure feeling you've carried for years goes with him. You stop managing a double life, because there's only one life left to manage. A man who had been free for a hundred days said it with an exclamation mark: "I don't feel like a creep with a secret perverted second sex life anymore!" Your confidence comes back, and with it a self-respect you may not have felt since you were a boy.
+The moment the Little Monster is gone, there is no back room. That low, shifty, insecure feeling you've carried for years goes with him. You stop managing a double life, because there's only one life left to manage. A man who had been free for a hundred days said it with an exclamation mark: "I don't feel like a creep with a secret perverted second sex life anymore!" Your confidence comes back, and with it a self-respect you may not have felt since you were a boy.
 
 Being the same man in every room is a great deal less work.
 
@@ -49,3 +49,5 @@ The next trap catches the man who is eager to stop. It looks like motivation.
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
 
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
+
+<!-- 2026-11-23 FLOW PASS (book-wide): one pointer fixed: 'he' at the top of 'One life' read as the man in the line before, so it now names the Little Monster. Nothing moved or cut. -->

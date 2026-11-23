@@ -4,9 +4,9 @@
 >
 > — Ecclesiastes 4:9-10
 
-The book is finished. The man it was written for has his blessing and is on his way. These pages are not for him. They are for the people standing beside him: his wife or the woman he is seeing, his parents, his pastor, his friends. If that's you, and you've come straight here, welcome. Wives come first.
+The book is finished. The man it was written for has his blessing and is on his way. These pages are not for him. They are for the people standing beside him: his wife or the woman he is seeing, his parents, his pastor, his friends. If you are the man himself, you may read over their shoulders. It shows you how the habit looks from the outside.
 
-If you are the man himself, you may read over their shoulders. It shows you how the habit looks from the outside.
+If you are one of the people beside him, and you've come straight here, welcome. Wives come first.
 
 ## To wives {-}
 
@@ -128,3 +128,5 @@ Now and then you'll get a blank look or a laugh. More often than you'd think, yo
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
 
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). Girlfriend named; pleasure not denied. -->
+
+<!-- 2026-11-23 FLOW PASS (book-wide): opening reordered so the note to the man himself no longer sits between "Wives come first" and "To wives". -->

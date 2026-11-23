@@ -20,7 +20,7 @@ Nothing is missing. Lust made the void. It never filled it.
 
 ## Pursue {-}
 
-Paul wrote this to Timothy, a young pastor he was training: "Flee from youthful lusts; but pursue righteousness, faith, love, and peace with those who call on the Lord out of a pure heart." He gives two commands. The first is *flee*: don't negotiate with it or keep another version of it. The second is *pursue*: go after righteousness, faith, love and peace. And do it "with those who call on the Lord", which means in company.
+Paul wrote to Timothy, a young pastor he was training: "Flee from youthful lusts; but pursue righteousness, faith, love, and peace with those who call on the Lord out of a pure heart." He gives two commands. The first is *flee*: don't negotiate with it or keep another version of it. The second is *pursue*: go after righteousness, faith, love and peace. And do it "with those who call on the Lord", which means in company.
 
 That is not a substitute. A substitute is a thing you grab to plug a hole. Paul is describing a life you can now get on with. One pastor calls it "escaping into reality, into God Himself." You'll have evenings and energy to spare. Spend them on things that are good in themselves.
 
@@ -56,3 +56,5 @@ That leaves a practical question. If nothing goes in the gap, should you at leas
 <!-- 2026-11-22 SKEPTIC READ, final stage: 'nothing but an itch' no longer unsays what If You Never Marry concedes; the loved woman's bed is told apart from the rest without handing the room back. -->
 
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->
+
+<!-- 2026-11-23 FLOW PASS (book-wide): 'Paul wrote this to Timothy' became 'Paul wrote to Timothy' ('this' pointed at nothing in the line before). Nothing moved or cut. -->

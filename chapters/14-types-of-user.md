@@ -18,7 +18,7 @@ Suppose a friend said to you, "I can go two whole weeks without toast, and it do
 
 That's why the man who masturbates rarely is, in one way, more firmly caught than the man who does it daily. The relief looks bigger to him, because he's always coming off a long wait. He also has less reason to get out. It costs him less time, and the damage is harder to see. Things do go wrong: a flat mood, a wandering mind in bed with his wife, a coldness when he tries to pray. He blames them on work or tiredness or his age.
 
-So a man in the trap makes two mistakes about other men. He envies the one who seems to do it less, and he looks down on the one who does more. "At least I'm not him." Both mistakes rest on one belief, that these are different kinds of men. They aren't.
+A man in the trap makes two mistakes about other men. He envies the one who seems to do it less, and he looks down on the one who does more. "At least I'm not him." Both mistakes rest on one belief, that these are different kinds of men. They aren't.
 
 ## Why every man doesn't do it all day {-}
 
@@ -129,3 +129,5 @@ Start with the strong dose.
 <!-- 2026-11-22 LEAKS closed after a test reader who bargains as James does. 'Mild dose' was usable as permission. -->
 
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). 'Illusion of pleasure' is now 'relief'; 'weaker' is what men call it. -->
+
+<!-- 2026-11-23 FLOW PASS (book-wide): empty 'So' dropped from 'A man in the trap makes two mistakes'. Nothing cut. -->

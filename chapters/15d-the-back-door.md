@@ -28,6 +28,8 @@ Men have a name for the store of pictures a man keeps in his head for this. They
 
 But a memory wears thin. It does a little less each time. So the hand goes looking for a stronger film, and it knows exactly where that film is kept. The man bolted the front door and left the back door standing open. Then he was surprised to find the same old visitor in his kitchen.
 
+Suppose your hand never leads you back to the screen. The trade is the same without it. You ease an itch for ten minutes, and the easing sets it going again.
+
 So what has the hand really been paying you all these years?
 
 The finish feels good. Nobody denies it. But look at what the good feeling is made of. Most of it is the itch stopping, and the last time set the itch going. The rest is a few sweet seconds, like sugar, paid for before and after. For ten minutes a man feels the way the man who never does it feels all day. That is all it has ever paid.
@@ -37,8 +39,6 @@ Then there is what the hand teaches. A body learns that desire is something to b
 And if he never marries, he has still spent his best hours alone behind a locked door.
 
 "But it's only me now. Nobody else is hurt." Then look at the one man who is. He is the man this whole book is about. His evenings go to it. His word goes, each time he says "never again". The push that would have sent him across a room to speak to a woman goes down the drain instead. "Only me" is not a small thing to lose.
-
-Suppose your hand never leads you back to the screen. The trade is the same without it. You ease an itch for ten minutes, and the easing sets it going again.
 
 The world calls this self-love. It is a strange kind of love that needs the door locked and leaves you feeling worse than before.
 
@@ -75,3 +75,5 @@ The uninvited guest picks up his blanket and moves down the hall. "I'm looking, 
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). The finish is admitted to feel good; the wanting 'brings the hand back if it can' (the hand reappears in later rooms); the gift test no longer lets the hookup pass; the closing excuse is in 'at least' form. -->
 
 <!-- 2026-11-22 third whole-book test as James (he now says the whole No, but holds back the warm bed with a woman he liked; 'I say the clause as a better policy, not as a man who sees nothing in the room'). Fixes from that test; see the commit of this date. -->
+
+<!-- 2026-11-23 FLOW PASS (book-wide): the paragraph 'Suppose your hand never leads you back to the screen' moved up to follow the back-door paragraph it answers; 'only me' now runs straight into 'self-love'. Nothing cut. -->

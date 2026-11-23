@@ -16,7 +16,7 @@ New is the cheapest thing in the world. The screen taught you that. The forty-fi
 
 ## What the bet buys {-}
 
-It buys someone who knows the worst of you and stays.
+The bet buys someone who knows the worst of you and stays.
 
 It buys a bed with no performance in it, no clock running, and nobody looking for shoes.
 
@@ -65,3 +65,5 @@ One man in the hall has heard all of this and shaken his head. He doesn't expect
 <!-- 2026-11-22 Skeptic read: 'she is risking as much' was false by the book's own count and is changed; the cold bed is admitted. -->
 
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through: the marriage chapters reordered so that If You Never Marry comes last (after All In has shown the good thing), with the hall stitched to match; repeats cut; leaks closed. -->
+
+<!-- 2026-11-23 FLOW PASS (book-wide): one pronoun fixed ('It buys' became 'The bet buys' at the top of 'What the bet buys'); nothing moved or cut. -->

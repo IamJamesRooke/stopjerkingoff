@@ -8,9 +8,9 @@ Ask a man why he wants to stop and he'll usually give you one of three answers: 
 
 He almost never mentions the plain slavery of it. Men have bled to end slavery wherever they've found it. Yet here is a man who puts the collar on himself every night and calls it his private business. The strangest part is something he never notices. On the nights when nothing stops him, he does it and wishes he were a man who didn't. The only time the habit looks precious is when he's trying to cut down, or when something rules it out.
 
-One cost of that slavery needs no doctor, no pastor and no argument about whether it's a sin. All it needs is a clock.
+The next pages count what that slavery costs. None of it is here to scare you into stopping. Fear never worked. It is here because a thing that gives nothing and costs this much takes no willpower to leave. These are not your reasons to stop. Leave those on the shelf.
 
-The next pages count what the habit costs. None of it is here to scare you into stopping. Fear never worked. These are not your reasons to stop. Leave those on the shelf. It is here because a thing that gives nothing and costs this much takes no willpower to leave.
+The first cost needs no doctor, no pastor and no argument about whether it's a sin. All it needs is a clock.
 
 ## Do the math {-}
 
@@ -81,3 +81,5 @@ Time is the cost you can count. The others are harder to see, because you have t
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'). Pointer to chapters removed. -->
 
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->
+
+<!-- 2026-11-23 FLOW PASS (book-wide): the note on why the costs are counted moved ahead of the clock line, so the clock leads straight into 'Do the math'; 'It is here' moved next to the sentence it answers. -->

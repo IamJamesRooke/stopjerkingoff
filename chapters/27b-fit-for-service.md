@@ -28,11 +28,11 @@ But a man ruled by lust is still the soldier who shows up drunk for duty. He is 
 
 So get the order right. Men who have quit drinking have a saying that fits here: whatever you put ahead of staying sober, you will lose. Read "sober" as "free of lust". For a Christian, God comes first, and getting free is how a man gets back to putting him there. Putting it first doesn't mean building your life around it. It means settling it, so you can get on with everything else. A sober soldier doesn't spend the day thinking about drink. He does his job.
 
+If you're not a believer, keep the picture and change the flag. You still have people who depend on you and work that is yours to do. You have been showing up to both half-present. The order is the same for you.
+
 Here is the good news, and the reason this book exists. Lust is not hard to settle. Nobody is sending you on a ten-year campaign. You have read this far, and you know what lust is: a trick, an itch that feeds itself, a lie about comfort. It doesn't take courage to put down a thing you have seen through. Save your courage for the service. You will need it there. The first job will be small: one man who is still where you were.
 
 And being fit is not the price of being loved. It is what a loved man is for.
-
-If you're not a believer, keep the picture and change the flag. You still have people who depend on you and work that is yours to do. You have been showing up to both half-present. The order is the same for you.
 
 The prophet Isaiah once saw a vision of God on his throne. His first words were, "Woe is me!", because he knew what he was. Then an angel touched his lips with a coal from the altar and told him his sin was forgiven. And when God asked, "Whom shall I send, and who will go for us?", the forgiven man didn't hesitate. He said, "Here I am. Send me!"
 
@@ -68,3 +68,5 @@ SOURCES (Fit for Service, unnumbered chapter before Chapter 28; added 2026-11-15
 <!-- 2026-11-22 second whole-book test as James (he said No to everything except 'any bed outside marriage', because with a woman he liked he was glad afterward and stayed). No longer repeats the next chapter's first line. -->
 
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->
+
+<!-- 2026-11-23 FLOW PASS (book-wide): in 'Drunk on duty' the paragraph for the man who is not a believer ('The order is the same for you') moved up to follow the paragraph about the order; it had sat between 'what a loved man is for' and Isaiah. Wording unchanged, nothing cut. -->
