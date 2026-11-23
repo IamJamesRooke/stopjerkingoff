@@ -1,6 +1,6 @@
 It's two in the morning, and a man is lying in bed with his phone, breaking a promise he made an hour ago.
 
-The screen lights his face, and his face shows nothing. His alarm is set for six. In a few minutes it'll be over. He'll wipe his hand, turn the phone face down, and stare at the ceiling. Then he'll say the two words he's said a thousand times. Never again.
+The screen lights his face, and his face shows nothing. His alarm is set for six. In a few minutes it'll be over. He'll wipe his hand, turn the phone face down, and stare at the ceiling. Then he'll say the two words he said last week, and the week before. Never again.
 
 He means it. He always means it.
 
@@ -8,7 +8,7 @@ Everybody tells him it's normal. Nobody tells him why he ends up staring at the 
 
 You know this man. Most men do. I've been him for decades.
 
-Maybe your night looks different. A dating app at midnight. A page with your card on file. A wife asleep down the hall. Same ceiling.
+Maybe your night looks different. A dating app instead of a video. A page that knows your card number. A wife asleep down the hall. Same ceiling.
 
 This man isn't weak. He's competent, and he keeps his word to everybody he meets. Everybody except himself. Again and again he vows, prays, blocks sites, takes cold showers and counts streaks. And every time, he breaks.
 
@@ -30,16 +30,18 @@ When he's hungry he bangs and bangs and bangs on the floor. That banging is the 
 You know his menu.
 
 - Every time you masturbate to pixelated women.
-- Every "last one" video, and the nine that follow it.
-- Every thumb-scroll through bikinis you're "just looking" at.
-- Every wandering eye that trails the girl at the gym.
-- Every replay of that one memory you keep for when the door's locked.
-- Every late-night text to the woman you know damn well is no good for you.
-- Every midnight swipe on the app, with no plan to meet anybody.
-- Every dollar tipped to a woman on a screen who's never heard your name.
-- Every like and every "you look amazing", handing your power to somebody who only wants the attention.
-- Every drink you buy just to see how far it gets you.
-- Every woman you take home and can't wait to see leave.
+- Every "last one" in a private window, with eleven tabs still open.
+- Every sex scene you rewind in a show you swear you watch for the plot.
+- Every yoga account you follow, and you've never touched a mat.
+- Every pinch-zoom on a beach photo of a girl from high school.
+- Every wandering eye toward the girl at the gym, while you pretend to check your form in the mirror.
+- Every rerun of that night with your ex, screened in the shower.
+- Every "you up?" to the woman you know damn well is no good for you.
+- Every right swipe from the toilet seat, on women you'll never message.
+- Every ten bucks a month to a woman who calls three thousand other men "babe".
+- Every fire emoji under her selfie, handing your power to somebody who just wants the attention.
+- Every vodka soda you buy a stranger, just to see how far it gets you.
+- Every woman you bring home, then lie there faking sleep until she finds her shoes.
 
 That's his dinner. All of it.
 
@@ -65,7 +67,7 @@ He hasn't. It isn't.
 
 ## Why you keep feeding him {-}
 
-That lie has plenty of company.
+That lie didn't come alone.
 
 Some were told to you.
 
@@ -88,7 +90,7 @@ Every one of them says the same thing. He earns his keep. Even a bargain says it
 
 He hasn't earned a crumb.
 
-Take one. "It helps me sleep." You slept like a stone before any of this started. Who's been keeping you awake since? You feed him, the banging stops, and you drop off. He didn't give you sleep. He stole your sleep, and every night he sells you back a sliver.
+Take one. "It helps me sleep." As a boy you fell asleep in the back seat of a moving car. Who's been keeping you awake since? You feed him, the banging stops, and you drop off. He didn't give you sleep. He stole your sleep, and every night he sells you back a sliver.
 
 The house was quiet before he moved in.
 
@@ -193,3 +195,5 @@ SOURCES (Introduction): every quote below is from the research files; check each
 <!-- 2026-11-23 James drafted a more colorful 'that's his dinner' line ('masturbate to pixelated women', 'that late night text to that woman you know damn well is no good for you') and asked for a list like it. The menu is built from his two lines plus four more across looking, thinking, touching, chasing and paying. -->
 
 <!-- 2026-11-23 James: add the wandering eye at the gym and 'giving your power over to somebody who wants attention' (simping); make the menu complete 'so every guy is identified and knows we are talking about him'; 'better, more colorful diction' per Scott Adams. The menu now runs look, think, touch, chase, pay, take. Verbs sharpened through the Introduction (lurks, reeks, hammering, trudge, belches, stomping, stole, sliver, pin, shove, pries, trot). -->
+
+<!-- 2026-11-23: menu rebuilt after rereading Scott Adams (simple words, one concrete picture per line, no repeated time words); 'midnight' and 'late-night' removed; 'slept like a stone' and 'plenty of company' replaced. Previous menu is in git at e15ff7f. -->
