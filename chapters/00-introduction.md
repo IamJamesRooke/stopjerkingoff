@@ -25,9 +25,9 @@ That overwhelming urge when temptation hits? That faint, fidgety itch, that crav
 
 Think of your life as a house. Up in the back room lurks a little monster. A scrawny pipsqueak, the size of a house cat, who reeks like cheese left to rot in a car in midsummer. This pest has never paid a dime of rent. He doesn't even buy his own food, because you're the one who feeds him.
 
-When he's hungry he bangs and bangs and bangs on the floor. That banging is the urge. He keeps hammering until you trudge up the stairs with his dinner.
-
 ![](images/illustrations/intro-back-room.png){.illustration width=80%}
+
+When he's hungry he bangs and bangs and bangs on the floor. That banging is the urge. He keeps hammering until you trudge up the stairs with his dinner.
 
 You know his menu.
 
