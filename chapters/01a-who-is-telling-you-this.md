@@ -30,11 +30,11 @@ And none of it was ever enough.
 
 Lust wasn't my only sedative, and it probably isn't yours. Look at one ordinary evening.
 
-A man comes home tired and pours a drink to take the edge off. Dinner's a burger and fries out of a paper bag, then a whole sleeve of cookies. He games till midnight. He scrolls for an hour. He finishes on a porn site.
+A man comes home tired and pours a drink to take the edge off. Dinner's a burger and fries out of a paper bag, then a whole sleeve of cookies. He games till his eyes sting. He scrolls in bed for an hour. He finishes on a porn site.
 
 ![](images/illustrations/who-the-ordinary-evening.png){.illustration width=80%}
 
-Another man's evening has weed in it, or a betting app. The drug changes. The job's the same. Every one of them is sold as taking the edge off. What it takes off is *his* edge, the part of a man that gets things done. None of it's a crime. All of it's a sedative.
+Another man's evening comes with a weed pen, or a betting app and fifty bucks on a game he doesn't even care about. The drug changes. The job's the same. Every one of them is sold as taking the edge off. What it takes off is *his* edge, the part of a man that gets things done. None of it's a crime. All of it's a sedative.
 
 Social media does something extra. It leaves him with a knot in his stomach, and he can't say why. It leaves him half sure nothing matters anyway. Then he checks the news and the price of a house, and decides the game is rigged.
 
@@ -54,7 +54,7 @@ That's enough about me.
 
 ## Where the method comes from {-}
 
-I didn't invent this way of quitting. A man named Allen Carr did, for smokers. His book, *The Easy Way to Stop Smoking*, has helped a huge number of people put down cigarettes without a fight. The free book that helped me took Carr's method and turned it on porn. This book borrows from both and takes the method all the way to lust itself. The credit's theirs. Any mistakes are mine.
+I didn't invent this way of quitting. A man named Allen Carr did, for smokers. His book, *The Easy Way to Stop Smoking*, has helped a huge number of smokers stub out their last cigarette without a fight. The free book that helped me took Carr's method and turned it on porn. This book borrows from both and takes the method all the way to lust itself. The credit's theirs. Any mistakes are mine.
 
 ## If you believe, and if you don't {-}
 
@@ -79,3 +79,5 @@ So start with the Little Monster. If he does nothing for you, why has every atte
 <!-- 2026-11-22 CUT ABOUT THE AUTHOR (James: 'I don't think I really want to talk about myself all that much or talk about my faith or anything because THIS BOOK IS NOT ABOUT ME. If we can cut stuff about me, BETTER'). Moved to editorial/PARKING.md: the woman who loved him, the men's group in a church and his change of mind about Christianity, 'The villain in the story' (social justice, Solzhenitsyn), the praying, the eleventh hour and Jordan Peterson, and the full-court press for the church. Kept: the short record that earns 'no benefits at all' (the awkward boy; thirteen ways to be anxious; 'You pay her to leave', which The Hookup calls back to), 'Men are sedated' made impersonal, and why the book was made. -->
 
 <!-- 2026-11-23 COHERENCE REPAIR after a cold-reader check of the first five chapters: missing links added, nothing cut. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

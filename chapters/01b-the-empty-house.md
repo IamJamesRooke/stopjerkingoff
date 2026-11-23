@@ -10,7 +10,7 @@ You don't have to believe in spirits to know that house. The story isn't telling
 
 The house is you, and you've swept it many times.
 
-You swore off porn, and for three weeks you were clean. Then you were spending an hour a night scrolling past women in swimsuits and calling it nothing. Or you deleted every app and blocked every site, and the reel in your memory started up in their place. Or you stopped the whole business by force, and poured the same hunger into chasing a woman who didn't want you.
+You swore off porn, and for three weeks you were clean. Then you were losing an hour a night to the Explore page, where every third square is a girl arching her back on a beach towel. You called it nothing. Or you deleted every app and blocked every site, and your memory started playing reruns in their place. Or you stopped the whole business by force, and poured the same hunger into texting a woman who'd left you on read.
 
 You threw one thing out, and it came back with company. That's the Little Monster for you. Keep his room ready, and he brings his friends. Each one is the size of a cat. Each one smells like the same rotten cheese. It's the same hunger, eating off a different plate.
 
@@ -20,7 +20,7 @@ No wonder it feels unbeatable. No wonder you decided the fault was in you.
 
 It can feel like being possessed. Something's running you that you never invited, and you want it out. No shame in that.
 
-But keep two things straight. He has never once made you do it. He banged on the floor, and you climbed the stairs. And he isn't ten feet tall. He's a pipsqueak squatting in a back room with no reach at all. You could punt him halfway down a football field.
+But keep two things straight. He has never once made you do it. He banged on the floor, and you climbed the stairs. And he isn't ten feet tall. He's a pipsqueak sulking in a back room with no reach at all. You could punt him halfway down a football field.
 
 ![](images/illustrations/empty-house-punt.png){.illustration width=80%}
 
@@ -37,7 +37,7 @@ That's quitting by force. A man stops the act and goes on believing it gave him 
 
 ## What rent did he ever pay? {-}
 
-This book works the other way around. Before anybody gets put out, look at what he's done for you. Call him a tenant for one minute. What rent has he paid? What has he ever mended?
+This book works the other way around. Before anybody gets put out, look at what he's done for you. Call him a tenant for one minute. What rent has he paid? What has he ever fixed? Has he taken out the trash even once?
 
 You'll say he settles you. He gets you to sleep. He takes the edge off a bad day.
 
@@ -110,3 +110,5 @@ SOURCES: Matthew 12:43-45 (WEB, checked 2026-11-20). Quoted verbatim: "I will re
 <!-- 2026-11-23 COHERENCE REPAIR after a cold-reader check of the first five chapters: missing links added, nothing cut. -->
 
 <!-- 2026-11-23 Callback to the Introduction's 'feed him as much as you like, just watch yourself do it' (James's request). -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

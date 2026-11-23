@@ -1,28 +1,28 @@
 # The Easy Method
 
-Easy? You've quit before. You remember how it went. You gritted your teeth and counted the days, and one tired night the count went back to zero.
+Easy? You've quit before. You remember how it went. You clenched your jaw and crossed days off the calendar, and one bone-tired Tuesday the count went back to zero.
 
-That's the normal way. It starts you at the foot of a mountain and drags you uphill, craving the whole way and feeling robbed.
+That's the normal way. It drops you at the foot of a mountain and drags you up by the collar, starving the whole climb and sure you've been robbed.
 
 ![](images/illustrations/easy-method-foot-of-the-mountain.png){.illustration width=80%}
 
-This way starts with relief. Like a man walking out of the doctor's office with the all-clear.
+This way starts with relief. Like a man who walks out of the doctor's office with the all-clear and wants to hug the parking attendant.
 
-How? It won't make you stronger. It won't make you more disciplined. It changes one thing, and that's how you see the habit.
+How? It won't make you stronger. It won't make you more disciplined. It changes one thing: how you see the habit.
 
-Don't take my word for it. Take one lie and look.
+Don't take my word for it. Pick up one lie and turn it over.
 
 ## One look: "I've earned it" {-}
 
-It does feel like a reward. A hard day, a locked door, and the edge is gone. Case closed?
+It does feel like a reward. A rotten day, a locked door, and the knot in your shoulders lets go. Case closed?
 
-Ask what the edge was. Part of it was the day. Part of it was the Little Monster, banging on the floor since lunch.
+Ask what that knot was. Part of it was the day. Part of it was the Little Monster, banging on the floor since lunch.
 
-You fed him, and his noise stopped. That was the whole reward. The day is still there, and so is the email you didn't answer.
+You fed him, and the banging stopped. That was the whole reward. The day is still there, and so is the email you didn't answer.
 
-The man who never started has hard days too. He comes home with one weight on him. You come home with two, and you call it a treat when you put one down.
+The man who never started has hard days too. He walks in the door with one sack of rocks on his back. You walk in with two, and you call it a treat when you drop one.
 
-Picture a man who wears shoes two sizes too small, all day, for the joy of pulling them off at night. Would you call that a benefit of the shoes?
+Picture a man who wears shoes two sizes too small, all day, for the joy of yanking them off at night. Would you call that a benefit of the shoes?
 
 ![](images/illustrations/easy-method-tight-shoes.png){.illustration width=80%}
 
@@ -31,7 +31,7 @@ That's one lie, seen as it is. Did seeing it take any willpower?
 
 ## Why the normal way is so hard {-}
 
-The normal way never looks. It makes a list. You write down what the habit costs you. The guilt. The tired mornings. The lost hours. The distance from God. Then you make yourself a promise.
+The normal way never looks. It makes a list. You write down what the habit costs you. The guilt. The bleary mornings. The hours down the drain. The prayers that bounce off the ceiling. Then you make yourself a promise.
 
 "If I can just hold out long enough, the urge will die, and then I'll be happy."
 
@@ -39,19 +39,19 @@ It sounds sensible. A few men do get free this way. Most end up where one man on
 
 It fails for two reasons.
 
-**One. Guilt and fear send you back to it.** What does a man do when he feels ashamed and worthless? He looks for comfort. And what has he trained himself to use for comfort?
+**One. Guilt and fear send you back to it.** What does a man do when he feels ashamed and worthless? He looks for comfort. And where has he trained himself to find it?
 
-That's why the scare videos and the thundering sermons never freed you. They scared you, and a scared man reaches for his comfort. Tell a man the habit is ruining him, and you've handed him one more reason to use it tonight.
+That's why the scare videos and the sermons that rattled the windows never freed you. They scared you, and a scared man reaches for his comfort. Tell a man the habit is ruining him, and you've handed him one more reason to use it tonight.
 
 **Two. Every reason to stop makes stopping harder.** Tell a boy he can't have the cookie, and the cookie doubles in size.
 
 ![](images/illustrations/easy-method-the-cookie.png){.illustration width=80%}
 
-Your reasons say you *ought* to give something up. So part of you goes on believing there's something to give up. A comfort. A treat. An old friend. You feel like a man marched away from his only pleasure.
+Your reasons say you *ought* to give something up. So part of you goes on believing there's something to give up. A comfort. A treat. An old buddy. You feel like a kid dragged out of the candy store by his ear.
 
 ## Three questions {-}
 
-Put your reasons for stopping on a shelf. All of them, the good ones and the godly ones too. You'll take them down again later, when nobody can use them as a stick on you.
+Put your reasons for stopping on a shelf. All of them, the good ones and the godly ones too. You'll take them down again later, when nobody can beat you over the head with them.
 
 In their place, look straight at what you do and ask three questions.
 
@@ -145,3 +145,5 @@ Before any of that, a fair question. "No benefits at all" is a big claim from a 
 <!-- 2026-11-23 The full rules block moved to the Introduction ('While you read'); here they are restated in one line. -->
 
 <!-- 2026-11-23 Callback to the Introduction's 'feed him as much as you like, just watch yourself do it' (James's request). -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
