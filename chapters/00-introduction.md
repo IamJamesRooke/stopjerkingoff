@@ -1,67 +1,73 @@
-It is two in the morning, and a man is lying in bed with his phone, breaking a promise he made an hour ago.
+It's two in the morning, and a man is lying in bed with his phone, breaking a promise he made an hour ago.
 
-The screen lights his face, and his face shows nothing. His alarm is set for six. In a few minutes it will be over. He will wipe his hand, turn the phone face down, and stare at the ceiling. Then he will say the two words he has said a thousand times. Never again.
+The screen lights his face, and his face shows nothing. His alarm is set for six. In a few minutes it'll be over. He'll wipe his hand, turn the phone face down, and stare at the ceiling. Then he'll say the two words he's said a thousand times. Never again.
 
 He means it. He always means it.
 
 Everybody tells him it's normal. Nobody tells him why he ends up staring at the ceiling.
 
-You know this man. Most men do. I have been him for decades.
+You know this man. Most men do. I've been him for decades.
 
-Maybe your night looks different. A dating app at midnight. A page with your card on file. A wife asleep down the hall. Maybe you are a woman, and this book says "he". The ceiling is the same.
+Maybe your night looks different. A dating app at midnight. A page with your card on file. A wife asleep down the hall. Maybe you're a woman, and this book says "he". Same ceiling.
 
-The man in the bed is not a weak man. He keeps his word to everyone but himself. Against this one thing he has tried vows, prayers, blocked sites, cold showers and streaks. Not one of them lasted. So he believes he is fighting a dragon.
+This man isn't weak. He's competent, and he keeps his word to everybody he meets. Everybody except himself. Again and again he vows, prays, blocks sites, takes cold showers and counts streaks. And every time, he breaks.
+
+This one vice seems so unbeatable that he feels he's fighting a dragon.
 
 There is no dragon.
 
 ![](images/illustrations/intro-the-dragon-in-his-head.png){.illustration width=80%}
 
 
-## What you are really fighting {-}
+## What you're really fighting {-}
 
-A while after the last time, a feeling shows up. It is a faint, fidgety itch, like a phone buzzing in another room.
+That overwhelming urge when temptation hits? That faint, fidgety itch, that craving? It's no dragon.
 
-That itch is the craving. It is the whole dragon.
+It's a little monster living in the back room upstairs. A tiny pipsqueak, the size of a house cat, who smells like cheese left to rot in a car in midsummer. He doesn't pay rent. He doesn't even buy his own food, because you're the one who feeds him.
 
-Picture it this way. Your life is a house. In the back room upstairs lives a creature the size of a house cat. He smells like a gym bag left in a hot car. He can't get down the stairs. He eats only what you carry up to him. Every time you give in, to porn or to your own hand, that is a meal. When he gets hungry, he bangs on the floor. That banging is the urge. It put the phone in that man's hand tonight.
+When he's hungry he bangs and bangs and bangs on the floor until you carry his dinner up. Porn is a meal. Your hand is a meal. Then he's full, he settles down, and he leaves you alone.
 
 ![](images/illustrations/intro-back-room.png){.illustration width=80%}
 
 
-Call him the Little Monster. He is only a picture. He is not a demon, and nothing is really living in you.
+This book calls him the Little Monster. He's only a picture. Nothing is really living in you.
 
-A dragon would be something to brag about. This is a pipsqueak. You could carry him out in one hand.
+The "pleasure" you get is the silence. It's him shutting up.
+
+But he never leaves you alone for long. He got fed, so he got a little fatter, and now he wants MORE. He's up there jumping on the floor again.
+
+You know the solution. Starve the little pest, then throw his ass out!
 
 ![](images/illustrations/intro-carry-him-out.png){.illustration width=80%}
 
 
+But you don't. You don't because you think he's bigger and more dangerous than he is. And you don't because part of you believes the lie that he belongs there. That he's earned his room. That it's his right.
+
+He hasn't. It isn't.
+
 ## Why you keep feeding him {-}
 
-Why does a grown man keep carrying meals up to a thing like that?
+That lie has plenty of company. Some lies were told to you. "A man needs it." "It's healthy." "Everybody does it." Some you tell yourself. "It helps me sleep." "I've earned it." "It's not hurting anybody." Some are bargains. "At least it's not porn." "At least she's real."
 
-Because when the Little Monster is fed, the banging stops. The house goes quiet, and the quiet feels like a gift. You think he gave it to you.
+Every one of them says the same thing. He earns his keep. He doesn't.
 
-The lies do the rest. Some were told to you. "A man needs it." "It's healthy." "Everybody does it." Some you tell yourself. "It helps me sleep." "I've earned it." "It's not hurting anybody." Some are bargains. "At least it's not porn." "At least she's real."
+Take one. "It helps me sleep." You slept like a stone before any of this started. Who's been keeping you awake since? You feed him, the banging stops, and you drop off. He didn't give you sleep. He took your sleep, and every night he sells a little back.
 
-Each lie says the same thing. He earns his keep. He doesn't.
+The house was quiet before he moved in.
 
-Take one. "It helps me sleep." You slept like a stone before any of this started. Who has been keeping you awake since? You feed him, the banging stops, and you drop off. So feeding him didn't give you sleep. He took your sleep, and every night he sells a little back.
-
-The house was quiet before he moved in. Porn and the hand are one habit, and the habit gives you nothing. It only stops, for a while, a noise it made itself.
-
-A creature the size of a cat can't hold a grown man. The lies hold him.
+A pipsqueak can't hold a grown man. The lies hold him.
 
 ## Put down the sword {-}
 
-That is why trying harder never worked. Most methods hand you a sword and point you at the dragon. No man wins a fight against something he still thinks is doing him good.
+That's why trying harder never worked. Most methods hand you a sword and point you at the dragon. But no man wins a fight against something he still thinks is doing him good.
 
-This book hands you no sword. It takes the lies apart, one at a time, until you see the Little Monster has nothing you want. A man who sees that needs no willpower. He stops carrying dinner up the stairs.
+This book hands you no sword. It takes the lies apart, one at a time, until you see the Little Monster has nothing you want. A man who sees that doesn't need willpower. He just stops carrying dinner up the stairs.
 
-Save your grit for something that deserves it. There are mountains to climb and children to raise. This is a pest in a back room. Put him out, and get on with your life.
+Save your grit for something that deserves it. There are mountains to climb and children to raise. This is a pest in a back room. Throw him out, and get on with your life.
 
 ## Two in the morning {-}
 
-Now go back to the man in the bed. It is still two in the morning. Put one thing on his nightstand.
+Now go back to the man in the bed. It's still two in the morning. Put one thing on his nightstand.
 
 A button.
 
@@ -124,3 +130,5 @@ SOURCES (Introduction): every quote below is from the research files; check each
 <!-- 2026-11-22 AVATAR READ OF THE OPENING (James: 'something isn't hooking me in... have all of our user avatars... read a section then tell you what they think'). 28 simulated readers in four panels read section by section. All four found the same thing: the pictures hook (2 a.m., the button, the sleep sample) and the stretches where the book describes itself, promises or gives house rules do not. Changes are confined to the Introduction, The Button and The Easy Method; text removed is in editorial/PARKING.md. -->
 
 <!-- 2026-11-23 FLOW PASS (James: the two housekeeping paragraphs in the middle of 'Put down the sword' don't make sense; 'it kind of meanders like that and confuses the reader'; 'So this book => This book'). Rule from now on: every paragraph follows from the one before, each section makes one move, housekeeping is woven in where it is first needed and never dropped into an argument, and no 'So' or 'And' opener that isn't a real link. -->
+
+<!-- 2026-11-23 VOICE PASS (James sent his own draft of the weak-man paragraph and 'What you are fighting', with five rules: contractions; write how we speak; intentional repetition; hyperbole; economy, 'this isn't an academic piece'). The Introduction's monster section is rebuilt from his draft and keeps his lines (doesn't pay rent, bangs and bangs and bangs, the 'pleasure' is the silence, fatter and wants MORE, throw his ass out, the lie that he belongs there). Kept from the book's fixed picture: the back room upstairs (not attic), cat-sized. His f-word is 'pest' here; his call. Rules for the rest of the book are in editorial/VOICE.md. -->

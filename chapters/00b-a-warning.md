@@ -1,6 +1,6 @@
 # The Button {#a-warning}
 
-The button sits on the nightstand, an arm's length from the man with the phone. It is the size of a doorbell.
+The button sits on the nightstand, an arm's length from the man with the phone. It's the size of a doorbell.
 
 ![](images/illustrations/button-on-the-nightstand.png){.illustration width=80%}
 
@@ -9,9 +9,9 @@ It does one thing. If he presses it, he wakes up tomorrow as a man who never sta
 
 Would he press it? He would break the nightstand. So would you.
 
-Now ask why. No man would press a button to be rid of fishing. No man would press one to be rid of Sunday dinner. Nobody wishes he had never met a thing that is good for him.
+Now ask why. No man would press a button to be rid of fishing. No man would press one to be rid of Sunday dinner. Nobody wishes he had never met a thing that's good for him.
 
-There is no such button. But what it does can be done. It takes one decision, and you make it at the end of this book.
+There's no such button. But what it does can be done. It takes one decision, and you make it at the end of this book.
 
 ## You never signed up {-}
 
@@ -21,25 +21,25 @@ Yes, you choose each time. You lock the door. You pick up the phone. But you wal
 
 One fact gives the trap away. No man caught in it wants his son caught in it.
 
-Ask any man in it if he would start again. Tonight he carries on anyway. Nobody makes him. He will tell you he can't stop.
+Ask any man in it if he would start again. Tonight he carries on anyway. Nobody makes him. He'll tell you he can't stop.
 
 ## You already know how to stop {-}
 
-Here is something nobody told you. Stopping was never your problem.
+Here's something nobody told you. Stopping was never your problem.
 
-You stop every time you finish. For the next minute you are the most committed quitter on earth.
+You stop every time you finish. For the next minute you're the most committed quitter on earth.
 
-If stopping were the hard part, you would be done. You have stopped a thousand times.
+If stopping were the hard part, you would be done. You've stopped a thousand times.
 
-The trouble comes later. It is day three, or day thirty, or day three hundred. You are tired, or the house is empty, and your own voice says, "Just this once." Once becomes twice, and you are staring at the ceiling again.
+The trouble comes later. It's day three, or day thirty, or day three hundred. You're tired, or the house is empty, and your own voice says, "Just this once." Once becomes twice, and you're staring at the ceiling again.
 
 Some men don't last until day three. A nineteen-year-old from a strict Christian home wrote about his first time: "I vowed never to do that again, only to find myself searching for a secret place after a couple of hours."
 
-So "How do I stop?" was the wrong question. You are a champion at stopping. The real question is why you start again.
+So "How do I stop?" was the wrong question. You're a champion at stopping. The real question is why you start again.
 
 ## What brings you back {-}
 
-It isn't desire. It is fear.
+It isn't desire. It's fear.
 
 Picture your life without the habit. What do you see?
 
@@ -51,11 +51,11 @@ Look at what each line does. It sends you up the stairs with a plate.
 
 The picture is wrong. A creature that eats only what you carry up can't bang forever.
 
-If you have tried and failed many times, the picture looks proven. One man wrote that he had failed so often he sometimes wondered whether God's grace for him had run out.
+If you've tried and failed many times, the picture looks proven. One man wrote that he had failed so often he sometimes wondered whether God's grace for him had run out.
 
 It hasn't. Jesus told a story about that, and you don't have to believe to follow it. A son wasted every coin he had and ended up feeding pigs. In that pigsty he came to himself. He got up and walked home, and his father ran down the road to meet him.
 
-You are not a hopeless case. You used a method that can't work. A ninety-day streak proves you are strong. Losing it proves strength was never the problem.
+You're not a hopeless case. You used a method that can't work. A ninety-day streak proves you're strong. Losing it proves strength was never the problem.
 
 ## No scares, no superpowers {-}
 
@@ -63,13 +63,13 @@ Fear keeps you here, so this book won't add any. You'll find no horror stories a
 
 Nobody here will sell you superpowers either. No deeper voice, no glowing skin, no women turning their heads. You get something plainer. You get your evenings, your attention and your word back.
 
-One caution, and it is not a scare. A book is not a doctor, and nobody has tested this method in a clinic. If you have thoughts of harming yourself, see a doctor or a counselor now. Do the same if this began with something done to you as a child. Do the same if your urges frighten you, or pull you toward anything illegal. Read this book with their help. You are not beyond help, and the Appendix says more.
+One caution, and it's not a scare. A book isn't a doctor, and nobody has tested this method in a clinic. If you have thoughts of harming yourself, see a doctor or a counselor now. Do the same if this began with something done to you as a child. Do the same if your urges frighten you, or pull you toward anything illegal. Read this book with their help. You're not beyond help, and the Appendix says more.
 
 ## Nothing to lose {-}
 
 Read on, and question everything, this book included. Start with one question. If you enjoy the habit, why does your stomach tighten at the words "never again"?
 
-Here is the worst that can happen. You reach the last page, shrug, and pick up the phone. You are out five hours.
+Here's the worst that can happen. You reach the last page, shrug, and pick up the phone. You're out five hours.
 
 The fear may grow for a chapter or two. Some men put the book down halfway. They sense that if they keep reading, they will have to stop. Don't be one of them. That flutter is only the old lies. A lie gets nervous when somebody starts checking it.
 
@@ -92,3 +92,5 @@ It will be easy.
 <!-- 2026-11-22 AVATAR READ OF THE OPENING (James: 'something isn't hooking me in... have all of our user avatars... read a section then tell you what they think'). 28 simulated readers in four panels read section by section. All four found the same thing: the pictures hook (2 a.m., the button, the sleep sample) and the stretches where the book describes itself, promises or gives house rules do not. Changes are confined to the Introduction, The Button and The Easy Method; text removed is in editorial/PARKING.md. -->
 
 <!-- 2026-11-23 FLOW PASS (James: the two housekeeping paragraphs in the middle of 'Put down the sword' don't make sense; 'it kind of meanders like that and confuses the reader'; 'So this book => This book'). Rule from now on: every paragraph follows from the one before, each section makes one move, housekeeping is woven in where it is first needed and never dropped into an argument, and no 'So' or 'And' opener that isn't a real link. -->
+
+<!-- 2026-11-23 VOICE PASS (James sent his own draft of the weak-man paragraph and 'What you are fighting', with five rules: contractions; write how we speak; intentional repetition; hyperbole; economy, 'this isn't an academic piece'). The Introduction's monster section is rebuilt from his draft and keeps his lines (doesn't pay rent, bangs and bangs and bangs, the 'pleasure' is the silence, fatter and wants MORE, throw his ass out, the lie that he belongs there). Kept from the book's fixed picture: the back room upstairs (not attic), cat-sized. His f-word is 'pest' here; his call. Rules for the rest of the book are in editorial/VOICE.md. -->

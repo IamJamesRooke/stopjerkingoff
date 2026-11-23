@@ -1,14 +1,14 @@
 # The Easy Method
 
-Easy? You have quit before, and you remember how it went. You gritted your teeth and counted the days. Then one tired night the count went back to zero.
+Easy? You've quit before, and you remember how it went. You gritted your teeth and counted the days. Then one tired night the count went back to zero.
 
-That is the normal way. It starts at the foot of a mountain and drags you uphill, craving and feeling robbed.
+That's the normal way. It starts at the foot of a mountain and drags you uphill, craving and feeling robbed.
 
 This way starts somewhere else. It starts with relief, like a man walking out of the doctor's office with the all-clear.
 
 How? The method has one aim. It changes the way you see the habit. It won't make you stronger or more disciplined.
 
-Don't take that on trust. Here is one look.
+Don't take that on trust. Here's one look.
 
 ## One look: "I've earned it" {-}
 
@@ -25,7 +25,7 @@ Picture a man who wears shoes two sizes too small, all day, for the joy of pulli
 ![](images/illustrations/easy-method-tight-shoes.png){.illustration width=80%}
 
 
-That is one lie, seen as it is. Did seeing it take any willpower?
+That's one lie, seen as it is. Did seeing it take any willpower?
 
 ## Why the normal way is so hard {-}
 
@@ -39,7 +39,7 @@ It fails for two reasons.
 
 **One. Guilt and fear send you back to it.** What does a man do when he feels ashamed and worthless? He looks for comfort. And what has he trained himself to use for comfort?
 
-That is why the scare videos and the thundering sermons never freed you. They scared you, and a scared man reaches for his comfort. Tell a man the habit is ruining him, and you've handed him one more reason to use it tonight.
+That's why the scare videos and the thundering sermons never freed you. They scared you, and a scared man reaches for his comfort. Tell a man the habit is ruining him, and you've handed him one more reason to use it tonight.
 
 **Two. Every reason to stop makes stopping harder.** Tell a boy he can't have the cookie, and the cookie doubles in size.
 
@@ -51,17 +51,17 @@ Put your reasons for stopping on a shelf. All of them, the good ones and the god
 
 In their place, look straight at what you do and ask three questions.
 
-1. **What is it actually doing for me?**
+1. **What's it actually doing for me?**
 2. **Do I actually enjoy it?**
 3. **Why am I doing this to myself?**
 
-Start with the first, because it settles the other two. What is the habit doing for you? Nothing. The porn does nothing. The hand does nothing. The rest of this book proves it.
+Start with the first, because it settles the other two. What's the habit doing for you? Nothing. The porn does nothing. The hand does nothing. The rest of this book proves it.
 
-Get that exactly right. This is not the old line that the costs are bigger than the benefits. Every man knows that already, and it has never helped him. There are no benefits.
+Get that exactly right. This isn't the old line that the costs are bigger than the benefits. Every man knows that already, and it has never helped him. There are no benefits.
 
 Not one.
 
-Yes, the finish feels good. That is real. It is the bait, and you'll see what is on the hook.
+Yes, the finish feels good. That's real. It's the bait, and you'll see what is on the hook.
 
 The relaxation, the stress relief, the "release", the thrill of something new, the feeling of being wanted. Each one is a tight shoe, and each one gets its turn. The bargains get their turn too. So does lust, the wider appetite behind the habit, the one that has you thinking with the wrong head.
 
@@ -69,15 +69,15 @@ The relaxation, the stress relief, the "release", the thrill of something new, t
 
 Tonight, do three things. None of them is "try harder".
 
-1. **Call off the war.** Don't try to quit while you read. Make no vows, start no streaks, and don't cut down. You have done all three before. Where are they now? You can also stop hating yourself this evening. It never helped once.
+1. **Call off the war.** Don't try to quit while you read. Make no vows, start no streaks, and don't cut down. You've done all three before. Where are they now? You can also stop hating yourself this evening. It never helped once.
 2. **Remember.** Think back to the last time. How did it start? How long did the good part last? How did you feel ten minutes later? That answers the first two questions from your own life.
 3. **Keep reading, in order.** Don't skip chapters. Most are short and take down one lie, and the last step only works if the others came first. The length costs you nothing, because nobody asks you to stop before the end. An hour a night finishes it in under a week, and nobody has to know.
 
-Calling off the war is not permission. Nobody is telling you to sin. If you have already stopped, stay stopped. If you slip while you read, keep reading.
+Calling off the war isn't permission. Nobody is telling you to sin. If you've already stopped, stay stopped. If you slip while you read, keep reading.
 
 One thing can't wait for the last page. If your lust is hurting someone else, stop that today. That means an affair, paying for sex, pressing a woman who has said no, or anything against the law.
 
-The stopping comes once, at the end. This book ends with a plain No, and you'll be glad to say it. It is not the old vow. The old vow was a promise made on your own strength, before you understood the trap. This one you'll say with your eyes open. If you pray, you'll say it leaning on God.
+The stopping comes once, at the end. This book ends with a plain No, and you'll be glad to say it. It's not the old vow. The old vow was a promise made on your own strength, before you understood the trap. This one you'll say with your eyes open. If you pray, you'll say it leaning on God.
 
 Before any of that, a fair question. "No benefits at all" is a big claim from a stranger. You have every right to ask who he is, and how he knows.
 
@@ -125,3 +125,5 @@ Before any of that, a fair question. "No benefits at all" is a big claim from a 
 <!-- 2026-11-22 AVATAR READ OF THE OPENING (James: 'something isn't hooking me in... have all of our user avatars... read a section then tell you what they think'). 28 simulated readers in four panels read section by section. All four found the same thing: the pictures hook (2 a.m., the button, the sleep sample) and the stretches where the book describes itself, promises or gives house rules do not. Changes are confined to the Introduction, The Button and The Easy Method; text removed is in editorial/PARKING.md. -->
 
 <!-- 2026-11-23 FLOW PASS (James: the two housekeeping paragraphs in the middle of 'Put down the sword' don't make sense; 'it kind of meanders like that and confuses the reader'; 'So this book => This book'). Rule from now on: every paragraph follows from the one before, each section makes one move, housekeeping is woven in where it is first needed and never dropped into an argument, and no 'So' or 'And' opener that isn't a real link. -->
+
+<!-- 2026-11-23 VOICE PASS (James sent his own draft of the weak-man paragraph and 'What you are fighting', with five rules: contractions; write how we speak; intentional repetition; hyperbole; economy, 'this isn't an academic piece'). The Introduction's monster section is rebuilt from his draft and keeps his lines (doesn't pay rent, bangs and bangs and bangs, the 'pleasure' is the silence, fatter and wants MORE, throw his ass out, the lie that he belongs there). Kept from the book's fixed picture: the back room upstairs (not attic), cat-sized. His f-word is 'pest' here; his call. Rules for the rest of the book are in editorial/VOICE.md. -->
