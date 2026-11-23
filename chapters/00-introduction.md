@@ -23,25 +23,25 @@ There is no dragon.
 
 That overwhelming urge when temptation hits? That faint, fidgety itch, that craving? It's no dragon.
 
-It's a little monster living in the back room upstairs. A tiny pipsqueak, the size of a house cat, who smells like cheese left to rot in a car in midsummer. He doesn't pay rent. He doesn't even buy his own food, because you're the one who feeds him.
+Think of your life as a house. Up in the back room lives a little monster. A tiny pipsqueak, the size of a house cat, who smells like cheese left to rot in a car in midsummer. This pest doesn't pay rent. He doesn't even buy his own food, because you're the one who feeds him.
 
-When he's hungry he bangs and bangs and bangs on the floor until you carry his dinner up. Porn is a meal. Your hand is a meal. Then he's full, he settles down, and he leaves you alone.
+When he's hungry he bangs and bangs and bangs on the floor. That banging is the urge. It goes on until you carry his dinner up. Porn is his dinner. Your hand is his dinner. Then he's full, he settles down, and he leaves you alone for a while.
 
 ![](images/illustrations/intro-back-room.png){.illustration width=80%}
 
 
-This book calls him the Little Monster. He's only a picture. Nothing is really living in you.
+This book calls him the Little Monster. He's only a picture of the craving. Nothing is really living in you.
 
 The "pleasure" you get is the silence. It's him shutting up.
 
-But he never leaves you alone for long. He got fed, so he got a little fatter, and now he wants MORE. He's up there jumping on the floor again.
+But the silence never lasts. He got fed, so he got a little fatter, and now he wants MORE. He's up there jumping on the floor again.
 
-You know the solution. Starve the little pest, then throw his ass out!
+You know the solution. Stop carrying his dinner up. Starve the little pest, then throw his ass out!
 
 ![](images/illustrations/intro-carry-him-out.png){.illustration width=80%}
 
 
-But you don't. You don't because you think he's bigger and more dangerous than he is. And you don't because part of you believes the lie that he belongs there. That he's earned his room. That it's his right.
+But you don't. You don't because you think he's bigger and more dangerous than he is. You think he's the dragon. And you don't because part of you believes a lie. The lie says he belongs there. That he's earned his room. That it's his right.
 
 He hasn't. It isn't.
 
@@ -66,17 +66,19 @@ Some are bargains.
 - "At least it's not porn."
 - "At least she's real."
 
-Every one of them says the same thing. He earns his keep. He doesn't.
+Every one of them says the same thing. He earns his keep. Even a bargain says it. It just hands him a smaller plate.
+
+He doesn't earn a thing.
 
 Take one. "It helps me sleep." You slept like a stone before any of this started. Who's been keeping you awake since? You feed him, the banging stops, and you drop off. He didn't give you sleep. He took your sleep, and every night he sells a little back.
 
 The house was quiet before he moved in.
 
-A pipsqueak can't hold a grown man. The lies hold him.
+A pipsqueak can't keep a grown man in that bed. The lies keep him there.
 
 ## Put down the sword {-}
 
-That's why trying harder never worked. Most methods hand you a sword and point you at the dragon. But no man wins a fight against something he still thinks is doing him good.
+That's why trying harder never worked. Most methods take him for a dragon. They hand you a sword and tell you to fight. But no man wins a fight against something he still thinks is doing him good.
 
 This book hands you no sword. It takes the lies apart, one at a time, until you see the Little Monster has nothing you want. A man who sees that doesn't need willpower. He just stops carrying dinner up the stairs.
 
@@ -84,7 +86,7 @@ Save your grit for something that deserves it. There are mountains to climb and 
 
 ## Two in the morning {-}
 
-Now go back to the man in the bed. It's still two in the morning. Put one thing on his nightstand.
+Now go back to the man in the bed, the one staring at the ceiling. It's still two in the morning. Put one thing on his nightstand.
 
 A button.
 
@@ -151,3 +153,5 @@ SOURCES (Introduction): every quote below is from the research files; check each
 <!-- 2026-11-23 VOICE PASS (James sent his own draft of the weak-man paragraph and 'What you are fighting', with five rules: contractions; write how we speak; intentional repetition; hyperbole; economy, 'this isn't an academic piece'). The Introduction's monster section is rebuilt from his draft and keeps his lines (doesn't pay rent, bangs and bangs and bangs, the 'pleasure' is the silence, fatter and wants MORE, throw his ass out, the lie that he belongs there). Kept from the book's fixed picture: the back room upstairs (not attic), cat-sized. His f-word is 'pest' here; his call. Rules for the rest of the book are in editorial/VOICE.md. -->
 
 <!-- 2026-11-23 James: the line to women readers is cut ('this is a book for men, if women find it useful, great -- but that sentence is just awful'). No apology for 'he' anywhere. This supersedes the old rule that kept a note to women in the Introduction. -->
+
+<!-- 2026-11-23 COHERENCE REPAIR (James: 'so much was cut that now it seems incoherent -- get users to read it'). Eight cold readers flagged the missing steps; the links are put back in the spoken voice: the house frame, 'that banging is the urge', starving = no more dinners, man and monster kept apart by name, the dragon retired, and fear named as fear of life without it. -->
