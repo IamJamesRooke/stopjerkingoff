@@ -18,18 +18,18 @@ Say a friend tells you, "I can go two whole weeks without toast, and it doesn't 
 
 ![](images/illustrations/every-man-toast.png){.illustration width=80%}
 
-So the man who masturbates rarely is, in one way, more firmly caught than the man who does it daily. The relief looks bigger to him, because he's always coming off a long wait. He has less reason to get out, too. It costs him less time, and the damage is harder to see. Things do go wrong: a flat mood, a wandering mind in bed with his wife, a coldness when he tries to pray. He blames work, or tiredness, or his age.
+So the man who masturbates rarely is, in one way, more firmly caught than the man who does it daily. The relief looks bigger to him, the way water does after a long dry hike. He has less reason to get out, too. It eats less of his week, and the damage hides better. Things do go wrong: a gray mood, a mind that wanders in bed beside his wife, prayers that go nowhere. He blames his job, his sleep, his age.
 
 A man in the trap makes two mistakes about other men. He envies the one who does it less, and he looks down on the one who does it more. "At least I'm not him." Both mistakes rest on one belief, that these are different kinds of men. They aren't.
 
 ## Why every man doesn't do it all day {-}
 
-If the light man is caught as firmly as the heavy one, why do they look so different? It isn't strength. An itch that never quite goes gets scratched whenever it nags, and each scratch works a little less well than the last. So the drift is always toward more: more often, for longer, with stronger material. Then why isn't every man in the trap doing it five times a day? Four things hold him back.
+If the light man is caught as firmly as the heavy one, why do they look so different? It isn't strength. An itch that never quite goes gets scratched whenever it nags, and each scratch works a little less well than the last. So the drift is always toward more: more often, for longer, with rougher material. Then why isn't every man in the trap doing it five times a day? Four things hold him back.
 
-1. **Time.** He has a job, a family and a life, and most days are full.
+1. **Time.** He has a job, a family and a life, and most days are packed solid.
 2. **The body.** A man can only go so many rounds, and fewer as he gets older and more tired.
 3. **Privacy.** A wife in the bed, a roommate, children who don't knock, thin walls. For many men, all that stands between them and twice as often is a shortage of locked doors.
-4. **Conscience.** Every man in the trap is in a tug of war with himself. Some of it comes from how he was raised, some from a wife's opinion, and some from a plain dislike of what he's turning into.
+4. **Conscience.** Every man in the trap is in a tug of war with himself. Some of it comes from how he was raised, some from a wife's opinion, and some from a plain dislike of the man he sees when he shaves.
 
 The daily man thinks he's weak, and can't see how other men keep it to once a week. But the once-a-week man is usually no stronger. One of those four brakes is just on harder. He shares a small apartment, or he's fifty-five, or he works fourteen-hour days. Take the brake off, say with a week alone in a hotel, and watch what he does.
 
@@ -46,12 +46,12 @@ Start with the one man who isn't in the trap, the man who never started. He's ra
 - **The streak counter.** When he's doing it, he wishes he weren't. When he's stopped, he feels deprived and counts the days. He has the worst of both.
 - **The single man who'll stop when he's married.** "When I'm married" is the most comfortable way there is of saying "not yet".
 - **The married man.** He thought the wedding would end it. At least, he says, he's never cheated.
-- **The man on porn.** The screen never runs out, so he loses hours where another man loses minutes. He ends up watching things that would have sickened him at eighteen. He's no monster, and the way out is no harder for him.
+- **The man on porn.** The screen never runs out, so he loses hours where another man loses minutes. He ends up watching clips that would have turned his stomach at eighteen. He's no monster, and the way out is no steeper for him.
 - **The man who quit porn and kept the hand.** He tells himself the hand alone is a different thing.
 - **The man who keeps it all in his head.** No screen at all. At least, he says, he doesn't look at anything.
 - **The man who says no real woman is involved.** He reads sex stories, or looks at drawings. Or he talks every night to a girlfriend made by a computer. The lust is real, and it's his.
-- **The man led by women.** He follows, flatters, pays and waits. Or he swipes on the dating apps every night and meets nobody.
-- **The collector.** He goes from bed to bed and keeps count, and takes the number as proof he's somebody.
+- **The man led by women.** He follows, flatters, pays and waits. Or he swipes on dating apps every night and never meets a soul.
+- **The collector.** He hops from bed to bed, keeps count, and takes the number as proof he's somebody.
 - **The man who pays.** A monthly fee for one woman's private pictures, or a back room, or a trip abroad where nobody knows him. He tells himself it's at least honest.
 
 ## One trap {-}
@@ -139,3 +139,5 @@ Start with the strong dose.
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). 'Illusion of pleasure' is now 'relief'; 'weaker' is what men call it. -->
 
 <!-- 2026-11-23 FLOW PASS (book-wide): empty 'So' dropped from 'A man in the trap makes two mistakes'. Nothing cut. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

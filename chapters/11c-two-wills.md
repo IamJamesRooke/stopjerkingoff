@@ -20,9 +20,9 @@ If you're not a believer, part of this holds without the theology. The war betwe
 
 ## Why he really keeps it {-}
 
-The few seconds at the end feel good, and they're not why a man keeps the habit. He keeps it to stop the banging. We call the whole thing enjoyment because the alternative is too insulting to face: twenty years spent on something that gives us nothing. That's why most of it happens half-asleep, on autopilot, in the dark. A man at this habit is only content while he isn't thinking about what he's doing.
+The few seconds at the end feel good, and they're not why a man keeps the habit. He keeps it to stop the banging. We call the whole thing enjoyment because the alternative is too insulting to face: twenty years spent on something that gives us nothing. That's why most of it happens half-asleep, on autopilot, in the dark. A man at this habit is content only while his mind is somewhere else.
 
-The Willpower Method gets self-control wrong. It thinks self-control means holding a door shut for life, with something heavy leaning on the other side. That's not self-control. That's a siege, and sooner or later the man inside gets tired. A soldier who spends every watch wrestling the bottle isn't fit for duty.
+The Willpower Method gets self-control wrong. It thinks self-control means holding a door shut for life, with something heavy leaning on the other side. That's not self-control. That's a siege, and sooner or later the man's arms give out. A soldier who spends every watch wrestling the bottle isn't fit for duty.
 
 He's only dry.
 
@@ -43,3 +43,5 @@ Some men hear all this and choose what sounds like the sensible middle road. It'
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). No longer denies the pleasure. -->
 
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through: the marriage chapters reordered so that If You Never Marry comes last (after All In has shown the good thing), with the hall stitched to match; repeats cut; leaks closed. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

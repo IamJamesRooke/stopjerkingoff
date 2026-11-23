@@ -8,7 +8,7 @@ The king was David. His story is very old, and it's about you.
 
 Start with that proverb. It comes from King Solomon, David's son. In his day a city's wall was the city. Inside it were homes, markets, kids playing and a temple. Knock the wall down and you still have all of it, until the first raiding party shows up. A city without walls belongs to whoever arrives, however rich it is.
 
-Solomon says a man without self-control is that city. He doesn't call him wicked. He calls him defenseless. Whatever shows up walks in: a mood, an image, a bad day, a pretty face on a screen. That man doesn't get a vote on his own evening.
+Solomon says a man without self-control is that city. He doesn't call him wicked. He calls him defenseless. Whatever shows up walks in and puts its feet on the table: a mood, an image, a bad day, a pretty face on a screen. That man doesn't get a vote on his own evening.
 
 ## The king and his soldier {-}
 
@@ -50,9 +50,9 @@ Count your promises.
 
 You meant every one, maybe hundreds of times, and you broke every one. Each was a promise to yourself.
 
-Break your word to yourself often enough and you stop believing it. Then a man says "I'll start the business", or "I'll get fit", or "I'll be a better husband", and something inside quietly answers, "No, you won't. I know you." That's the deepest damage the habit does. It makes you a man whose word, in his own ears, is worth nothing.
+Break your word to yourself often enough and you stop believing it. Then a man says "I'll start the business", or "I'll get fit", or "I'll be a better husband", and something inside quietly answers, "No, you won't. I know you." That's the deepest damage the habit does. It makes you a man whose word, in his own ears, is a bounced check.
 
-David wasn't weak where the world could see. He had one gap in the wall. So do you.
+David wasn't weak where the world could see. He had one hole in the wall. So do you.
 
 Don't take that as a verdict. Walls can be rebuilt. A governor named Nehemiah found Jerusalem's walls in ruins and had them back up in fifty-two days. Yours will go up faster. For now, just look at the gap and admit it's there.
 
@@ -76,3 +76,5 @@ So far this has been one-sided. You've heard what the habit costs and what stopp
 
 
 <!-- 2026-11-21 five-star pass (editor H2): structural cuts, moves and repairs from the outside review and the cold-listener report. Cut text is kept in the pass's parked-H2 file; source notes above still stand for anything cut. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

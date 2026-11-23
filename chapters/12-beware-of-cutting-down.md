@@ -10,15 +10,15 @@ Sometimes he means it as a stepping stone: "I'll ease off gradually, and then I'
 
 "Never again is too much to ask. So from now on it's Saturdays only. Or only in the shower. Or only from my own head, with no screen. If I can hold it there, I'll trim it further, and one day it'll just fade out."
 
-You may be living on one of these deals already. "Only without porn" is a limit. So is "only the soft stuff", and so is "I'll look, but I won't touch".
+You may be living on one of these deals already. "Only without porn" is a limit. So is "only the tame videos", and so is "I'll look, but I won't touch".
 
 One man tried such a deal for Lent, the forty days before Easter when many Christians give something up. He dropped porn and kept masturbation. He found he couldn't do the one without thinking about the other. A smaller meal is still a meal, and the Little Monster is still being fed.
 
-A limit sounds like the grown-up option. It keeps plenty of men caught for life. Four things happen to the man who sets one.
+A limit sounds like the grown-up option. It keeps plenty of men chained for life. Four things happen to the man who sets one.
 
-1. **He gets the worst of both worlds.** He's still feeding the Little Monster, so the itch never dies. He also thinks about the habit more than he ever did, so the lies get more to work with.
+1. **He pays twice.** He's still feeding the Little Monster, so the itch never dies. He also thinks about the habit more than he ever did, so the lies get more to work with.
 2. **He wishes his life away.** Monday to Friday become a corridor he has to walk down. He's a grown man counting sleeps until Saturday.
-3. **He carries the itch all week.** Before the limit, he gave in when the urge came, and the restlessness at least eased for a while. Now he drags it through six days out of seven. He gets short with his wife and kids and can't think why.
+3. **He carries the itch all week.** Before the limit, he gave in when the urge came, and the restlessness at least eased for a while. Now he drags it behind him six days out of seven. He gets short with his wife and kids and can't think why.
 4. **Every time becomes "special".** Before, most times were automatic. He barely noticed them, and he certainly didn't treasure them. Now that he's waited six days, Saturday night feels like Christmas.
 
 Look hard at number four, because the whole trick is in it. The relief was never in the act. The relief is the itch ending. The longer the itch nags, the bigger the relief, and the surer he is that he's enjoying something. He's turned a dull routine into a treat by making himself suffer for it first.
@@ -49,7 +49,7 @@ If you had that kind of willpower to spare, you'd have stopped years ago. Stoppi
 
 A limit is indulgence with a schedule.
 
-The same goes for every half-measure dressed up as progress. Edging is one. A man goes right up to the end and stops, and tells himself, "At least I didn't finish." He's kept the engine running for an hour. Looking without touching is another. So is touching without looking. So is "just checking". They're all ways of cutting down. One man who'd tried edging left this for the men coming after him:
+The same goes for every half-measure dressed up as progress. Edging is one. A man goes right up to the end and stops, and tells himself, "At least I didn't finish." He's kept the engine revving for an hour. Looking without touching is another. So is touching without looking. So is "just checking". They're all ways of cutting down. One man who'd tried edging left this for the men coming after him:
 
 > "Don't edge. Really. Don't do it. It's the absolutely worst thing to do."
 
@@ -103,3 +103,5 @@ That leaves the smallest request of all: just once. The answer to it comes from 
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). The Big Monster is never fed and doesn't grow. -->
 
 <!-- 2026-11-23 FLOW PASS (book-wide): 'A limit is indulgence with a schedule' moved up from after the edging quote to just before 'The same goes for every half-measure'; nothing cut. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

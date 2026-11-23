@@ -10,11 +10,11 @@ You're not only being set free from something. You're being set free for somethi
 
 Ask one more question. Who gains from your habit?
 
-You don't. So who does? There are companies that earn more the longer you stay aroused, alone and tired. And behind the companies, something does better when men are numb and spent. A Christian has a name for that something, and Peter warned the people he loved about him: "Be sober and self-controlled. Be watchful. Your adversary, the devil, walks around like a roaring lion, seeking whom he may devour." If you don't believe in a devil, call it a business model. It's working on you either way.
+You don't. So who does? There are companies that earn more the longer you sit aroused, alone and slumped on the couch. And behind the companies, something thrives when men are numb and spent. A Christian has a name for that something, and Peter warned the people he loved about him: "Be sober and self-controlled. Be watchful. Your adversary, the devil, walks around like a roaring lion, seeking whom he may devour." If you don't believe in a devil, call it a business model. It's working on you either way.
 
-And it never has to fight you. Take a man with people to love and work to do. Maybe he has something to build that would do some good in the world. How do you stop him? Show him a little skin on a screen and he walks himself off the field. Twenty minutes later he's spent, and no use to anybody until tomorrow. Then you do it again tomorrow. It's the cheapest victory there is. The enemy of mankind has one trick, and it's the one that works on a boy of fourteen.
+And it never has to fight you. Take a man with people to love and work to do. Maybe he has a house to frame, a school to start, a song to finish. How do you stop him? Show him a little skin on a screen and he walks himself off the field. Twenty minutes later he's spent, slumped in the blue glow, and no use to anybody until morning. Then you do it again the next night. It's the cheapest victory there is. The enemy of mankind has one trick, and it's the one that works on a boy of fourteen.
 
-None of that is an excuse. The apostle James won't let a man say the devil made him do it: "each one is tempted when he is drawn away by his own lust and enticed." The bait is dangled, but the appetite is yours. That's good news, because it means the way out is yours as well.
+None of that is an excuse. The apostle James won't let a man say the devil made him do it: "each one is tempted when he is drawn away by his own lust and enticed." The bait dangles, but the appetite is yours. That's good news, because it means the way out is yours as well.
 
 Think what that says about you. Nobody bothers to distract a man who doesn't matter. You were worth taking out of the fight.
 
@@ -24,11 +24,11 @@ It worked on a king. David saw a woman from his roof, took her, and had her husb
 
 You may be a Christian, on God's side and loved by him. "There is therefore now no condemnation" is as true today as it ever was. And you were made on purpose. Paul says the work was planned as well as the man: "we are his workmanship, created in Christ Jesus for good works, which God prepared before that we would walk in them." There's something with your name on it that nobody else is going to do.
 
-But a man ruled by lust is still the soldier who shows up drunk for duty. He's loved, he's enlisted, and he's unfit for service. He can't fight at full strength, and the people counting on him get less than all of him. You know who they are. Paul puts being sober and being armed in one breath: "since we belong to the day, let's be sober, putting on the breastplate of faith and love, and for a helmet, the hope of salvation." Sober comes first, and then the armor.
+But a man ruled by lust is still the soldier who shows up drunk for duty. He's loved, he's enlisted, and he's unfit for service. He can't fight at full strength, and the people leaning on him get a fraction of him. You know who they are. Paul puts being sober and being armed in one breath: "since we belong to the day, let's be sober, putting on the breastplate of faith and love, and for a helmet, the hope of salvation." Sober comes first, and then the armor.
 
 So get the order right. Men who have quit drinking have a saying that fits here: whatever you put ahead of staying sober, you'll lose. Read "sober" as "free of lust". For a Christian, God comes first, and getting free is how a man gets back to putting him there. Putting it first doesn't mean building your life around it. It means settling it, so you can get on with everything else. A sober soldier doesn't spend the day thinking about drink. He does his job.
 
-If you're not a believer, keep the picture and change the flag. You still have people who depend on you and work that's yours to do. You've been showing up to both half-present. The order's the same for you.
+If you're not a believer, keep the picture and change the flag. You still have people who depend on you and work that's yours to do. You've been showing up to both with half your mind in the back room. The order's the same for you.
 
 Here's the good news, and the reason this book exists. Lust isn't hard to settle. Nobody's sending you on a ten-year campaign. You've read this far, and you know what lust is: a trick, an itch that feeds itself, a lie about comfort. Putting down a thing you've seen through takes no courage. Save yours for the service. You'll need it there. The first job will be small: one man who's still where you were.
 
@@ -70,3 +70,5 @@ SOURCES (Fit for Service, unnumbered chapter before Chapter 28; added 2026-11-15
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->
 
 <!-- 2026-11-23 FLOW PASS (book-wide): in 'Drunk on duty' the paragraph for the man who is not a believer ('The order is the same for you') moved up to follow the paragraph about the order; it had sat between 'what a loved man is for' and Isaiah. Wording unchanged, nothing cut. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

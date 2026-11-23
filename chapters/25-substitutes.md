@@ -8,11 +8,11 @@ When a man stops, he looks around for something to put in the gap. He finds two 
 
 You've met the other versions in every room of the house. The act stopped short. Porn without touching. The scroll. The dating app kept "just to look". The film in your head. The girlfriend's bed, kept because you love her. A woman to use in place of the hand, which is the cruelest trade, because now a second person is paying. None of these is a substitute. Each is the same thing in another glass. The bed of a woman you love is the best-looking glass on that shelf. What's good in it is real, and it belongs to the promise. Kept without the promise, it still keeps the room. That's cutting down, and cutting down never freed anyone.
 
-Food is the one real substitute, and it doesn't work either. The restless feeling is a lot like hunger, so some men try to feed it. But a stuffed man lies heavy and bored on the couch, and that's exactly where the old thought finds him.
+Food is the one real substitute, and it doesn't work either. The restless feeling is a lot like hunger, so some men try to feed it. But a stuffed man lies bloated and bored on the couch, and that's exactly where the old thought finds him.
 
 USE NONE OF THEM.
 
-A substitute doesn't make stopping easier. It makes it harder. Answer an urge with a substitute and you haven't ended the urge. You've stretched it out. And you've told yourself something fatal: "There's a hole here, and I need to stuff it with something." That's handing the screaming toddler the candy. Five minutes of quiet, and the same scene again tomorrow.
+A substitute doesn't make stopping easier. It makes it harder. Answer an urge with a substitute and you haven't ended the urge. You've fed it. And you've told yourself something fatal: "There's a hole here, and I need to stuff it with something." That's handing the screaming toddler the candy. Five minutes of quiet, and the same scene again tomorrow.
 
 Do you go looking for a substitute for the flu once it's cleared up? Say "I need something in its place" and you're saying "I've made a sacrifice". That one belief is what makes the Willpower Method so miserable.
 
@@ -22,7 +22,7 @@ Nothing is missing. Lust made the void. It never filled it.
 
 Paul wrote to Timothy, a young pastor he was training: "Flee from youthful lusts; but pursue righteousness, faith, love, and peace with those who call on the Lord out of a pure heart." Two commands. The first is *flee*: don't negotiate with it, and don't keep another version of it. The second is *pursue*: go after righteousness, faith, love and peace. And do it "with those who call on the Lord", which means in company.
 
-That's not a substitute. A substitute is a thing you grab to plug a hole. Paul is describing a life you can now get on with. One pastor calls it "escaping into reality, into God Himself." You'll have evenings and energy to spare. Spend them on things that are good in themselves.
+That's not a substitute. A substitute is a thing you grab to plug a hole. Paul is describing a life you can now get on with. One pastor calls it "escaping into reality, into God Himself." You'll have evenings and energy to spare. Spend them on a trail, a workbench, a long supper with friends. Things that are good in themselves.
 
 One man wrote that he quit at twenty-nine and replaced the habit with antique shopping. Good for him. But I don't believe old teapots held it off for thirty years. He stopped, and then he had his Saturdays back and spent them on something he liked.
 
@@ -58,3 +58,5 @@ That leaves a practical question. If nothing goes in the gap, should you at leas
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->
 
 <!-- 2026-11-23 FLOW PASS (book-wide): 'Paul wrote this to Timothy' became 'Paul wrote to Timothy' ('this' pointed at nothing in the line before). Nothing moved or cut. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

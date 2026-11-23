@@ -6,9 +6,9 @@ It's the most reasonable excuse in the house, so take it seriously.
 
 ## She is not a car {-}
 
-Start with the picture. A car is a thing. You try it, and if it disappoints, you hand back the keys. The car feels nothing.
+Start with the picture. A car is a thing. You kick the tires, and if it disappoints, you toss the keys back on the salesman's desk. The car feels nothing.
 
-Now notice who never gets tested in that picture. You. Turn it around. She took you out for a few months, then went with a newer model. Want to be the car?
+Now notice who never gets tested in that picture. You. Turn it around. She drove you around for a few months, then traded you in for a newer model. Want to be the car?
 
 ![](images/illustrations/test-drive-the-car.png){.illustration width=80%}
 
@@ -16,17 +16,17 @@ Now notice who never gets tested in that picture. You. Turn it around. She took 
 
 A car is the same on the first day as on the thousandth. That's why a test drive works. Sex isn't like that. Two people learn it together, over years. The first night tells you about a first night.
 
-Ask a couple who've been married twenty years whether their first night was the sample. They'll laugh in your face.
+Ask a couple who've been married twenty years whether their first night was the sample. They'll laugh in your face, and then they'll tell you what year it finally got good.
 
 ## What you compare her to {-}
 
 A test needs a standard, and you've got one. Every woman who came before her, and every video you ever watched. Each new test adds a name to the list she has to beat.
 
-So the man with the most test drives isn't the best judge of cars. He's the man who can't buy one.
+So the man with the most test drives isn't the best judge of cars. He's the man who can't buy one, because none of them ever matches the showroom in his head.
 
 ## The test spoils the result {-}
 
-Sex ties two people together. That's its job. Sleep with her, and you've fogged the windshield before you read the map.
+Sex ties two people together. That's its job. Sleep with her, and you've fogged the windshield before you've read the map.
 
 That's how a man stays two years with the wrong woman, because the bed was good. It's how he leaves the right one, because the first night was awkward. Either way, the test gave him the wrong answer.
 
@@ -46,7 +46,7 @@ Be fair to the numbers. They count what happened. Many of the people with no ear
 
 A man has to find out some things before he bets his life on a woman. Can he talk to her for three hours? Does she tell the truth when it costs her? How does she treat a waiter, her mother and his money? What does she do when he says no?
 
-Not one of those is learned in bed. Every one is learned with your clothes on.
+Not one of those is learned in bed. Every one is learned with your clothes on, over a cold dinner and a long drive.
 
 That goes for the bed itself. Talk about it before the wedding, plainly. How often, what each of you hopes for, whether you want children. A couple who can say those things out loud will learn the rest together.
 
@@ -65,3 +65,5 @@ Three men are still standing in the hall, and none has a fiancée. The first is 
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through: the marriage chapters reordered so that If You Never Marry comes last (after All In has shown the good thing), with the hall stitched to match; repeats cut; leaks closed. -->
 
 <!-- 2026-11-23 FLOW PASS (book-wide): one pronoun fixed ('It held' became 'The finding held'); nothing moved or cut. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

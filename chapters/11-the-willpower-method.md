@@ -30,17 +30,17 @@ After a few failed attempts, a man falls back on hope. One morning, he tells him
 
 Now watch the Willpower Method at work.
 
-For most of our lives we keep our heads in the sand: "I'll deal with it later." Then something jolts a man into an attempt. He knows he'd be better off without the habit. That was never in doubt. What trips him is the belief that he's making a sacrifice. He can't say what he's giving up. He just feels that, in good times and bad, the habit *helps*. It's an illusion, but a strong one.
+For most of our lives we shove it in a drawer: "I'll deal with it later." Then something jolts a man into an attempt. He knows he'd be better off without the habit. That was never in doubt. What trips him is the belief that he's making a sacrifice. He can't say what he's giving up. He just feels that, in good times and bad, the habit *helps*. It's an illusion, but a strong one.
 
 On top of that sit the lies he's soaked up from the world, and on top of those sits the heaviest lie of all: that quitting is terrible. He's heard about the man ninety days clean who still thinks about it every hour. He's heard about the man who says it's been a nightly war for fifty years. Most likely he's lived some of those stories himself.
 
-So he doesn't start out thinking, "Wonderful! I don't have to do this anymore!" He starts in dread, like a man looking up at a cliff he has to climb. He texts his accountability partner: "Pray for me. This month is going to be rough." Most attempts are beaten before they begin.
+So he doesn't start out thinking, "Wonderful! I don't have to do this anymore!" He starts in dread, like a man staring up at a cliff with no rope. He texts his accountability partner: "Pray for me. This month is going to be rough." Most attempts are beaten before they begin.
 
 Say he gets through the first few days. He feels brighter, with a little more spring in the mornings. And the reasons that made him stop are already fading.
 
-Fighting wears a man down, too. Every night he holds out by force, he has less left for the next.
+Fighting wears a man down, too. Every night he holds out by force, the tank runs lower for the next.
 
-Meanwhile the Little Monster hasn't been fed. His hunger doesn't hurt. A head cold that mild, you wouldn't mention. But that hunger's enough to set the Big Monster talking, and three days ago this man was listing every reason to stop. Now he hunts, just as earnestly, for a reason to start:
+Meanwhile the Little Monster hasn't been fed. His hunger doesn't hurt. A sniffle that mild, you wouldn't mention. But that hunger's enough to set the Big Monster talking, and three days ago this man was listing every reason to stop. Now he hunts, just as earnestly, for a reason to start:
 
 - "Life's short. There are worse sins."
 - "I can't think straight. I'm snapping at everyone. I can't do my job like this."
@@ -48,7 +48,7 @@ Meanwhile the Little Monster hasn't been fed. His hunger doesn't hurt. A head co
 
 And he gives in.
 
-Then comes the strangest minute of all. Real relief, because the Little Monster has been fed and stopped nagging. And in the same minute, the flatness, and the old question: *why did I do that?* He draws the obvious conclusion. He's weak. No willpower.
+Then comes the strangest minute of all. Real relief, because the Little Monster has been fed and stopped banging. And in the same minute, the flatness, and the old question: *why did I do that?* He draws the obvious conclusion. He's weak. No willpower.
 
 It wasn't only weakness. He changed his mind. At that moment he believed he was suffering, that the habit would end the suffering, and that there was something in it for him after all. Given that, going back was perfectly logical. His will was tired, yes. But he was also running on false information, and that part this book can fix.
 
@@ -96,3 +96,5 @@ That's the method at its best. Now add a scoreboard.
 <!-- 2026-11-21 five-star pass (editor H2): structural cuts, moves and repairs from the outside review and the cold-listener report. Cut text is kept in the pass's parked-H2 file; source notes above still stand for anything cut. -->
 
 <!-- 2026-11-23 FLOW PASS (book-wide): the 'confidence trap' paragraph moved from the opening into 'The first attempts'; 'fighting wears a man down' moved to after the first few days; one lead-in sentence added before the 'clean conscience' question; nothing cut. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

@@ -15,7 +15,7 @@ The rules came off. Every man now carries more naked women in his pocket than a 
 
 ## What this does not prove {-}
 
-Be careful with those numbers. The researchers behind them don't blame porn. They point to money, later marriage, and screens of every kind. One study even found that men who watch porn were more likely to be having sex, not less. Some men would add the divorce courts, and they have a case. A man who watched a friend lose his house and his children is no fool. That argument gets its turn before the book is done.
+Don't oversell those numbers. The researchers behind them don't blame porn. They point to money, later marriage, and screens of every kind. One study even found that men who watch porn were more likely to be having sex, not less. Some men would add the divorce courts, and they have a case. A man who watched a friend lose his house and his children is no fool. That argument gets its turn before the book is done.
 
 So this book won't tell you porn emptied the bedrooms. It can't prove that, and neither can anyone else.
 
@@ -58,3 +58,5 @@ SOURCES:
 <!-- 2026-11-22 SKEPTIC READ (James: read 'as an atheist who reads despite the god talk and still thinks that marriage is a joke, it's a scam which is against men... Women have a legal incentive to divorce. The family courts are against men. This IS true. But try and get it so, by the end, he agrees'). Stage 1 fixes: a plain reason set beside each claim that stood on God alone; the divorce courts conceded early. -->
 
 <!-- 2026-11-23 FLOW PASS (book-wide): in 'What this does not prove' the sentence on the study's own finding moved up beside the researchers, ahead of the aside on the divorce courts. No words changed. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

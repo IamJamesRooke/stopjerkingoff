@@ -14,7 +14,7 @@ This part is for you, and it's about you. It isn't about how to help him.
 
 **It is a betrayal, and you may call it that.** Whatever he calls it, he hid something from you, maybe for years. He gave to a screen, or to his own head, what he promised to you. You're allowed to be hurt, angry or numb, or all three in one afternoon. Calling it a trap explains how he got there. It doesn't excuse it or cancel what it cost you.
 
-**It was never about you.** He almost certainly brought it into the marriage from his teens, before he knew your name. It's no verdict on your looks, your body or how often you say yes. Men married to women they adore are caught in it. One pastor's wife, writing about her husband's pornography, put the first question in six words: "Am I not enough for him?" She went on, "I felt ugly and unwanted." You were never the measure. If he's seemed far away in the bedroom, that came from the habit too. It's not your fault.
+**It was never about you.** He almost certainly carried it into the marriage from his teens, like a suitcase he never unpacked, before he knew your name. It's no verdict on your looks, your body or how often you say yes. Men married to women they adore are caught in it. One pastor's wife, writing about her husband's pornography, put the first question in six words: "Am I not enough for him?" She went on, "I felt ugly and unwanted." You were never the measure. If he's seemed far away in the bedroom, that came from the habit too. It's not your fault.
 
 **You are owed the truth.** One full, honest account: what, for how long, and whether anyone else was involved. He gives it once and whole, not in pieces. You decide how much detail you want. You may ask questions later, and he answers them.
 
@@ -40,13 +40,13 @@ He's known for years, and he's preached himself that sermon harder than you ever
 
 Here's what's hard to see from outside. He doesn't keep doing it for the few seconds that feel good, whatever he says. He does it because he believes he can't manage without it. He thinks it calms him down, sends him to sleep and gets him through bad days. Underneath sits a bigger dread: that life without it would be gray.
 
-Corner him and you get a cornered animal. Demand that he stop and he'll want it more. He'll hide it better too, and a hidden habit grows more precious.
+Corner him and he'll bare his teeth. Demand that he stop and he'll want it more. He'll hide it better too, and a hidden habit grows more precious.
 
 So work the other way. Don't tell him how bad it is. Show him it can be left. If you're a man who's gotten out, say so. One sentence from someone he respects, "That had me for fifteen years and it's gone," does more than any lecture. If you're not, find him one: a testimony, or an older man with some sense. Be careful where you send him. Many forums run on streak counters and gritted teeth, which is the Willpower Method with a crowd watching.
 
 He'll be braced for two hundred pages of hellfire or hormone charts. Tell him there's neither, and that the book doesn't even ask him to stop until the end.
 
-No confrontations, no arguments. Win one and you've lost him. Mention the book once, kindly, and leave it where he can find it.
+No confrontations, no arguments. Win one and you've lost him. Mention the book once, kindly, and leave it where he'll see it.
 
 ## To parents {-}
 
@@ -62,7 +62,7 @@ So, fathers, a few suggestions.
 - **Tell him the truth about the trap.** Tell him desire is good and God-made. Tell him this habit hijacks it, promises relief and delivers an itch, and that nearly every man who starts wishes he hadn't. This book is the long version. Give him the ten-minute one.
 - **Tell him your own story,** as much of it as is fitting. Nothing takes the shame out of a boy faster than finding out his father's been there and gotten out.
 - **Never spy and then explode.** If you find something, wait a day. Then talk to him the way you wish someone had talked to you.
-- **Use ordinary sense about screens.** Fences don't free a man. But a twelve-year-old with a private screen in his bedroom at midnight isn't being trusted. He's been abandoned to it. Phones out of bedrooms at night is plain parenting, and a good rule for the adults too.
+- **Use ordinary sense about screens.** Fences don't free a man. But a twelve-year-old alone with a screen behind a shut bedroom door isn't being trusted. He's been abandoned to it. Phones out of bedrooms at night is plain parenting, and a good rule for the adults too.
 - **Warn him about the stranger who asks for a picture.** A stranger who looks like a pretty girl may write to your son and ask for a picture. If the boy sends one, the "girl" turns out to be a criminal who demands money and threatens to show the picture to everyone he knows. In the early 2020s the FBI counted more than twelve thousand victims of this in under two years. Most were boys of fourteen to seventeen, and at least twenty of them took their own lives. Tell your son before it happens. Tell him that if it ever does, he can come straight to you and he won't be shamed.
 - **When he's old enough, give him this book.** You're the judge of when.
 
@@ -74,9 +74,9 @@ And if your son's already grown and already caught, the advice on getting a man 
 
 You know better than I do how many men in your congregation this touches, and how rarely the word is said aloud in church. I'm asking you to say it.
 
-Say it calmly. Don't make it the worst sin in the catalog, and don't make it a nervous joke at the men's breakfast. Say something like, "Many of you are caught in this, here is why, and here is the door." Men have sat under you for years believing they were the only one. One sentence from you ends that.
+Say it calmly. Don't make it the worst sin in the catalog, and don't make it a nervous joke over the pancakes at the men's breakfast. Say something like, "Many of you are caught in this, here is why, and here is the door." Men have sat under you for years believing they were the only one. One sentence from you ends that.
 
-Lead with hope. Your men are already experts in guilt, and guilt is what sends them back. Be careful with the usual tools. Pledges, weekly check-ins and streak charts all assume the man wants it and must be stopped. Aim past behavior at belief. A man who no longer wants it doesn't need restraining.
+Lead with hope. Your men are already experts in guilt, and guilt is what sends them back up the stairs. Be careful with the usual tools. Pledges, weekly check-ins and streak charts all assume the man wants it and must be stopped. Aim past behavior at belief. A man who no longer wants it doesn't need restraining.
 
 If a man comes to you and confesses, remember what it cost him to knock on your door. Thank him first.
 
@@ -130,3 +130,5 @@ Now and then you'll get a blank look or a laugh. More often than you'd think, yo
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). Girlfriend named; pleasure not denied. -->
 
 <!-- 2026-11-23 FLOW PASS (book-wide): opening reordered so the note to the man himself no longer sits between "Wives come first" and "To wives". -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

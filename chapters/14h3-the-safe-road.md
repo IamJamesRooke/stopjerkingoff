@@ -8,13 +8,13 @@ Look at where the danger sits. Custody and child support don't follow the marria
 
 So skip the wedding, and you've skipped none of that. You've only made a child with a woman who promised you nothing.
 
-It doesn't keep her, either. In the study of who leaves, the gap showed up only among the married. Unmarried couples split at his wish about as often as at hers. Read that both ways. Marriage is where more women want out, and no arrangement stops a woman leaving. Living together doesn't stop the leaving. It makes leaving cheap, for both of you.
+It doesn't keep her, either. In the study of who leaves, the gap showed up only among the married. Unmarried couples split at his wish about as often as at hers. Read that both ways. Marriage is where more women want out, and no arrangement stops a woman leaving. Living together doesn't stop the leaving. It makes leaving cheap, for both of you, as easy as sliding a box into a car trunk.
 
-Then what does the paper add to your risk? Mostly property, and sometimes alimony. In most states a prenuptial agreement can cover both. It can't touch custody or child support. Signing one is no insult to her. Each of you hires a lawyer, and you sign it well before the wedding.
+Then what does the paper add to your risk? Mostly property, and sometimes alimony. In most states a prenuptial agreement can cover both. It can't touch custody or child support. Signing one is no insult to her. Each of you hires a lawyer, and you sign it months before the wedding, not on the morning of.
 
 ## The paper and the promise {-}
 
-The state's paper is weak, and this book never meant the paper. It meant the promise. That's what you say to her, out loud, in front of the people who'll hold you both to it.
+The state's paper is flimsy, and this book never meant the paper. It meant the promise. That's what you say to her, out loud, in front of the people who'll hold you both to it.
 
 No law can make either of you keep it. Only the two of you can. So the woman you say it to matters far more than anything a court does afterward.
 
@@ -24,7 +24,7 @@ Then why sign the state's paper at all? Because a vow that costs nothing to brea
 
 Now ask what "the woman without the paper" keeps for you. The exit. That's its whole purpose.
 
-A man with one hand on the door isn't all in, and she knows it. So she keeps a hand on her own door. Two people can live that way for years. Each holds something back, and each calls it being careful. Neither is ever fully known, because nobody shows everything to someone who may be leaving.
+A man with one hand on the door isn't all in, and she knows it. So she keeps a hand on her own door. Two people can live that way for years. Each keeps a packed bag in the closet, and each calls it being careful. Neither is ever fully known, because nobody shows everything to someone who may be leaving.
 
 You've met this before. It's a room kept ready. The habit kept every room for the same reason, so you'd never have to choose.
 
@@ -50,7 +50,7 @@ Some men had their first child well after the wedding. About three in four of th
 
 Men who moved in with a woman before they were engaged did worse than men who didn't.
 
-Steady work counts. A long study of American couples found that a husband without full-time work ran a higher risk of divorce each year. That sits badly beside "for richer, for poorer", and it's a fact all the same. So find out how she behaved the last time money was short.
+A steady paycheck counts. A long study of American couples found that a husband without full-time work ran a higher risk of divorce each year. That sits badly beside "for richer, for poorer", and it's a fact all the same. So find out how she acted the last time money ran short.
 
 And when she earns more than he does? Men say the risk skyrockets. The studies say it rises some, and mostly in one kind of couple.
 
@@ -62,7 +62,7 @@ Her record counts, the same as yours. Has she kept her word when it cost her? Do
 
 Now think again about the friends who were cleaned out, and ask how each of them chose. Some chose well and were wronged anyway. That happens, and it's a real injustice. How many chose with the bed? Beauty can blind a man, and a blind man signs anything.
 
-A careful man can't bring the risk to zero. He can do what he does with any large bet. He learns the odds, he picks the table, and he doesn't play drunk.
+A careful man can't bring the risk to zero. He can do what he does with any large bet. He learns the odds, he picks his table, and he doesn't play drunk.
 
 Lust is the drink.
 
@@ -79,3 +79,5 @@ Every door on this walk so far has been one to shut. The next one opens.
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through: the marriage chapters reordered so that If You Never Marry comes last (after All In has shown the good thing), with the hall stitched to match; repeats cut; leaks closed. -->
 
 <!-- 2026-11-23 FLOW PASS (book-wide): in 'The paper and the promise', 'It also says so' moved up next to 'Signing it', which it refers to; nothing cut. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

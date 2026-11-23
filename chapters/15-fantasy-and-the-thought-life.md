@@ -8,7 +8,7 @@ This room has no porn in it. It has a phone.
 
 Take a man who's quit porn, and means it. Hasn't opened one of those sites in months. He's drawn a red line and he stays on the right side of it.
 
-Trouble is, the right side of that line holds every feed a phone can show. The fitness models. The women trying on clothes for the camera. The beach photos of a girl he went to school with. Not one of them trips a filter.
+Trouble is, the right side of that line holds every feed a phone can show. The fitness models. The women trying on clothes for the camera. The pool-party photos of a woman who once sat behind him in math class. Not one of them trips a filter.
 
 Maybe you're that man. You know how the evening goes. Your wife is tired, or you have no wife, and you feel you're owed something. "I won't look at porn. I'll just scroll for a bit." Forty minutes later you're in the bathroom. Or you never finish, and you go to bed proud of yourself and wide awake.
 
@@ -88,3 +88,5 @@ Take the phone away and the excuse only changes. There's a film in a man's own h
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). The door is shut by seeing, not 'nobody is making you'; the gift test fixed; the Little Monster no longer shrugs or owns a film. -->
 
 <!-- 2026-11-23 FLOW PASS (book-wide): in 'Crumbs are still a meal' the pilot-light paragraph moved up to follow the crumbs paragraph it explains; the section now ends on 'it is a hit', which the next heading answers. Nothing cut. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

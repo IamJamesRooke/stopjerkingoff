@@ -4,7 +4,7 @@
 >
 > — Psalm 139:14
 
-A man who stops is often caught off guard by his own body. It keeps right on being a man's body. Some of what it does will look, to a nervous man, like something's gone wrong. Nothing has. Here's what to expect.
+A man who stops is often startled by his own body. It keeps right on being a man's body. Some of what it does will look, to a nervous man, like something's gone wrong. Nothing has. Here's what to expect.
 
 ## Four things that are not a slip {-}
 
@@ -12,7 +12,7 @@ A man who stops is often caught off guard by his own body. It keeps right on bei
 
 **Morning erections.** You'll wake up hard, same as before. It's not a temptation and it's not a sign of anything. It's plumbing. Doctors say a morning erection can occur at any age, and that it's tied to the cycles of sleep. Don't test it to check that your body works. An erection is not an instruction. Get up and it goes.
 
-**Wet dreams.** Sooner or later you'll probably have one. Doctors describe them as "orgasms during sleep that happen without conscious control". Sin needs a decision, and you weren't there to make one. It's not a sin, and it's not a slip. Nothing to confess, nothing to reset. Change the sheets and carry on. Just don't lie awake afterward replaying the dream. That part you *are* awake for.
+**Wet dreams.** Sooner or later you'll probably have one. Doctors describe them as "orgasms during sleep that happen without conscious control". Sin needs a decision, and you weren't there to make one. It's not a sin, and it's not a slip. Nothing to confess, nothing to reset. Strip the sheets and carry on. Just don't lie awake afterward replaying the dream. That part you *are* awake for.
 
 **A flat spell.** Some men find that desire switches off altogether for a while. The forums call it the flatline. It's not a slip, and nothing suggests it's damage. But there's a trap inside it, and the trap has sent a great many men back. So it gets a warning of its own.
 
@@ -26,7 +26,7 @@ He gets scared. One night he decides to check, just to be sure everything still 
 
 Look at who gains. For years the old voice told you that you wanted it too much to stop. Now it says you don't want it enough, and you'd better do something about it. The complaint has done a full U-turn. The cure hasn't changed at all.
 
-The check can't even tell you anything. If your body answers, the voice says, "Good. And now that you've started." If it doesn't, you panic and go hunting for something stronger. The Little Monster gets fed either way. That isn't a check. It's the habit with an excuse.
+The check can't even tell you anything. If your body answers, the voice says, "Good. And now that you've started." If it doesn't, you panic and go hunting for something stronger. The Little Monster gets fed either way. That isn't a check. It's the habit in a lab coat.
 
 So what's really happening? No study has measured the flat spell. All I can give you is what thousands of men report, and the likeliest reason. For years your body was flooded with more stimulation than any man was built for. It coped by turning its own sensitivity down. Take the flood away, and for a while ordinary life isn't loud enough to register. Then the dial comes back up.
 
@@ -40,7 +40,7 @@ So don't test. Not with a screen, not with your hand, not "just to check". Go ba
 
 ## When to see a doctor {-}
 
-One caution, and it matters. If low desire or erection trouble lasts more than a few weeks, or just worries you, see a doctor. That's a real check. The midnight kind isn't. Trouble that lasts can be an early warning about your heart or your blood sugar, especially after forty. And if you feel low most of the day for more than two weeks, or lose interest in things you used to enjoy, that's not the Little Monster. See a doctor about that too. It's very treatable. You don't have to feel glad for this book to work.
+One caution, and it matters. If low desire or erection trouble lasts more than a few weeks, or just worries you, see a doctor. That's a real check. Googling it at two in the morning isn't. Trouble that lasts can be an early warning about your heart or your blood sugar, especially after forty. And if you feel low most of the day for more than two weeks, or lose interest in things you used to enjoy, that's not the Little Monster. See a doctor about that too. It's very treatable. You don't have to feel glad for this book to work.
 
 ## If your body doesn't work with your wife {-}
 
@@ -50,7 +50,7 @@ So be patient with your body, and tell your wife what's going on, because the wo
 
 ## Nothing to store up {-}
 
-The forums call going without "semen retention", and they promise the moon for it. Your body doesn't soak semen back up as some kind of fuel. Nobody has shown that holding it raises your testosterone. And a wet dream doesn't "lose" you anything. If you feel better for stopping, as many men say they do, enjoy it as a bonus. You stopped to be free.
+The forums call going without "semen retention", and they promise you'll bench-press a truck. Your body doesn't soak semen back up as some kind of fuel. Nobody has shown that holding it raises your testosterone. And a wet dream doesn't "lose" you anything. If you feel better for stopping, as many men say they do, enjoy it as a bonus. You stopped to be free.
 
 One last word. If you're married, none of this means holding back from your wife. She isn't the habit.
 
@@ -63,3 +63,5 @@ Your body will look after itself. But perhaps you think your case isn't like oth
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
 
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

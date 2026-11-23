@@ -19,15 +19,15 @@ This book has asked no vow of you, and for good reason. The old vow was a promis
 
 "Then why all these chapters? Why didn't you say so on page one?"
 
-Because you've done the first half before. You decided, with tears, more times than you can count. Then you moped, the moping turned to craving, and one gray evening you un-decided. The decisions didn't stick because you still believed you were giving something up. That belief is the Big Monster, and it had to come down lie by lie before these two lines could work. Once you see how the trap is built, walking out is simple.
+Because you've done the first half before. You decided, with tears, more times than you can count. Then you moped, the moping turned to craving, and one gray Thursday you un-decided. The decisions didn't stick because you still believed you were giving something up. That belief is the Big Monster, and it had to come down lie by lie before these two lines could work. Once you see how the trap is built, walking out is simple.
 
 ## One man's last time {-}
 
-Remember the man on the couch, with his phone face down on the cushion? Here's how it ends for him. He's spent years on the other method: vows at retreats, on New Year's Day, on mornings when he couldn't look at himself. Then one day a new thought scares him for real. *What if I just do this for the rest of my life?* For once he stops vowing and starts watching. What is he actually getting? A few seconds of relief, then the same old flatness.
+Remember the man on the couch, with his phone face down on the cushion? Here's how it ends for him. He's spent years on the other method: vows at retreats, vows on New Year's Day, vows on mornings when he couldn't look in the mirror. Then one day a new thought scares him for real. *What if I just do this for the rest of my life?* For once he stops vowing and starts watching. What is he actually getting? A few seconds of relief, then the same old flatness.
 
 He talks to men who've quit, expecting to find them barely hanging on. Most of them laugh. "Miss it? You're joking." So he says to himself, out loud: "Like it or not, that was the last time." He braces for months of misery. What he gets is relief on day one, and it doesn't leave.
 
-Why so smooth? The terrible cravings he braced for don't exist. Doubt makes them. A man suffers only when he wants the habit and thinks he can't have it. Even in the trap you go whole days without it when you're busy or traveling, and you barely notice. The misery comes from wavering: the "maybe just tonight", the door left open a crack.
+Why so smooth? The terrible cravings he braced for don't exist. Doubt makes them. A man suffers only when he wants the habit and thinks he can't have it. Even in the trap you go whole days without it when you're slammed at work or stuck in an airport, and you barely notice. The misery comes from wavering: the "maybe just tonight", the door left open a crack.
 
 So when your turn comes, make the decision certain and final. Don't hope you've stopped.
 
@@ -37,7 +37,7 @@ Know it.
 
 The moment you decide, you're already a man who doesn't do it. Not after ninety days. Not when the Little Monster dies. In that moment. A Christian will say that's because of what Christ has already done. A recovery writer put the new identity in a single line: "Begin to say, I am a man (or woman) who does not use pornography, masturbate, or lust."
 
-Don't wait for the itch to fade before you let yourself be happy. Get out and live.
+Don't wait for the itch to fade before you let yourself be happy. Go outside. Eat a real dinner. Laugh at something.
 
 The Christian has something more, if he'll take it. The apostle John wrote, "If we confess our sins, he is faithful and righteous to forgive us the sins". Confess, and he is *faithful* to forgive. It doesn't say he might, or that he will once you've racked up a decent streak. And in Romans 8:1: "There is therefore now no condemnation to those who are in Christ Jesus." The word is *now*, on day one, with the Little Monster still grumbling.
 
@@ -55,7 +55,7 @@ If you're not a believer, the same advice holds: drop the self-hatred. It never 
 
 This book said one hard thing early on: **a man who can't control his lust can't be trusted.** Now the other half.
 
-You probably thought self-control meant gripping the rail, a strong man holding down a strong desire. That's a wrestling match, and you know who usually won.
+You probably thought self-control meant gripping the rail, a strong man holding down a strong desire. That's an arm-wrestling match, and you know who usually won.
 
 Real self-control is quieter. It belongs to a man whose mind is no longer divided. He isn't holding anything down, because nothing's pushing up. Thomas Chalmers, a Scottish preacher of two hundred years ago, explained how a desire leaves a heart: "the only way to dispossess it of an old affection is by the expulsive power of a new one." For Chalmers the new affection was love for God himself, and he held that nothing smaller is strong enough. If you're not a believer, take the half that holds for any man. A want is never pushed out by force. It goes when you see it never gave you anything.
 
@@ -104,3 +104,5 @@ So what will the first weeks actually feel like?
 <!-- 2026-11-22 SKEPTIC READ, stage 5 (an atheist who thought marriage a scam; at the final No he said every clause, and 'any bed outside marriage' only as a policy for a woman he loves). The book now admits that this one clause asks for waiting and costs something. -->
 
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

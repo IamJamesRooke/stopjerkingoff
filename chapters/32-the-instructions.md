@@ -1,6 +1,6 @@
 # The Rules in One Place {#the-instructions}
 
-Here's the whole method, to carry with you. Two words: decide and rejoice. These ten rules spell it out. They're for the man who's taken the final step. If you haven't yet, you have one instruction. Read the book in order.
+Here's the whole method, to carry in your pocket. Two words: decide and rejoice. These ten rules spell it out. They're for the man who's taken the final step. If you haven't yet, you have one instruction. Read the book in order.
 
 1. Be glad. You've been let out, so don't mope.
 2. Ignore advice to count days, cut down or "moderate". Never ignore your doctor, your counselor or your pastor.
@@ -15,7 +15,7 @@ Here's the whole method, to carry with you. Two words: decide and rejoice. These
 
 ## Verses for the moment {-}
 
-Four older lines to keep. Learn one or two by heart. They're not for shouting at the Little Monster, because he gets no answer. They're for you, on any ordinary day, to remember whose you are. If you're not a believer, borrow them anyway. They'll serve you better than a slogan.
+Four older lines to keep. Learn one or two by heart. They're not for shouting at the Little Monster, because he gets no answer. They're for you, on any ordinary day, at a red light or the sink, to remember whose you are. If you're not a believer, borrow them anyway. They'll serve you better than a slogan on a coffee mug.
 
 > "For sin will not have dominion over you, for you are not under law, but under grace."
 >
@@ -52,3 +52,5 @@ That's the list. Time to send you off.
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
 
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). The rule no longer denies the pleasure; every room is named. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

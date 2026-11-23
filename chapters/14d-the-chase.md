@@ -2,7 +2,7 @@
 
 Here lust borrows a man's feet. This is the chase. If that's never been you, read this for the man you know who's living it. Its excuse is that the women are real. Ask what he's talking to them for.
 
-You text an old girlfriend at midnight. You stay in something you know is wrong, because leaving means going without. You'd tell a friend he was being a fool. The reasons you gave yourself were made up afterward, because the decision was already made, lower down. That's thinking with the wrong head.
+You text an old girlfriend from the parking lot after work. You stay in something you know is wrong, because leaving means going without. You'd tell a friend he was being a fool. The reasons you gave yourself were made up afterward, because the decision was already made, lower down. That's thinking with the wrong head.
 
 It's the same loop as the screen: cue, urge, relief. A woman pays you attention, the itch stirs, and you do whatever makes it stop. That's not love and it's not courage. A man who loves a woman can think. A man led by the itch can't.
 
@@ -40,7 +40,7 @@ So far the men in this chapter lose. One man doesn't. He matches, he meets her, 
 
 Take the thrill apart. It has a before and an after.
 
-Before, a question hangs over him. Does she want me? He checks his phone forty times a day for the answer. That's not excitement. That's a man waiting for a test result.
+Before, a question hangs over him. Does she want me? He checks his phone every ten minutes for the answer. That's not excitement. That's a man waiting for a test result.
 
 Then she says yes, and the question goes quiet. The joy is an alarm shutting off. It lasts about as long as the walk to her door.
 
@@ -78,7 +78,7 @@ The best thing you can do is also the only thing. Respect her decision, and stop
 - **Expect nothing from it.** If she ever thinks differently, it'll be her doing and on her terms. It will never be because you pushed.
 - **You're thinking like a starving man.** She's not the only woman in the world. There are women who'd be glad of you, and you could be with one who wants you back.
 
-It'll be hard for a few days. That's the same itch in another coat, and it passes. If you find you can't stop, tell a doctor or a counselor today. In many places this is also a crime.
+It'll be hard for a few days. That's the Little Monster banging on the floor, and it passes. If you find you can't stop, tell a doctor or a counselor today. In many places this is also a crime.
 
 Six men, then. One at the party, one who waits, one who swipes and one who wins. One texting a picture in his head, and one who can't let go. Each of them thinks he's the hunter. Look again at who's doing the leading.
 
@@ -95,3 +95,5 @@ Six men, then. One at the party, one who waits, one who swipes and one who wins.
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through: the marriage chapters reordered so that If You Never Marry comes last (after All In has shown the good thing), with the hall stitched to match; repeats cut; leaks closed. -->
 
 <!-- 2026-11-23 FLOW PASS (book-wide): in the opening the 'if that has never been you' sentence moved up beside 'This is the chase', so the excuse and the question run unbroken into the chapter. Nothing cut. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

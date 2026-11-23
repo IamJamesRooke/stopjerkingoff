@@ -8,11 +8,11 @@ Here's the test. Don't argue and don't agree. Let the thought sit there, and lis
 
 You've caught it.
 
-Now treat that voice as the caller's messenger. Don't argue with it, and don't answer it.
+Now treat that voice as a telemarketer's recording. Don't argue with it, and don't answer it.
 
-Here's a second test. Hold up your hand and wiggle your fingers. Now ask the urge to do it. He can't. He has no hands, and he's never once done the deed himself. All he can do is nag until you lend him yours.
+Here's a second test. Hold up your hand and wiggle your fingers. Now ask the urge to do it. He can't. He has no hands, and he's never once done the deed himself. All he can do is pound on the floor until you lend him yours.
 
-Hearing the voice doesn't mean you believe the lies again. A man hears "I want it" in his own head and panics: "The book hasn't worked." Ask one question: *do I actually believe what that voice just said?* If the honest answer is no, your understanding is fine. You've only heard a noise. In Romans 7, Paul told the two voices apart in a single line: "So now it is no more I that do it, but sin which dwells in me." That doesn't make it someone else's fault. It means you don't have to obey it.
+Hearing the voice doesn't mean you believe the lies again. A man hears "I want it" in his own head and his stomach drops: "The book hasn't worked." Ask one question: *do I actually believe what that voice just said?* If the honest answer is no, your understanding is fine. You've only heard a car alarm. In Romans 7, Paul told the two voices apart in a single line: "So now it is no more I that do it, but sin which dwells in me." That doesn't make it someone else's fault. It means you don't have to obey it.
 
 ## Lines for a hard moment {-}
 
@@ -40,3 +40,5 @@ Your body, meanwhile, will do a few things nobody warned you about.
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->
 
 <!-- 2026-11-23 FLOW PASS (book-wide): one pointer fixed: 'These' at the top of 'Lines for a hard moment' pointed at nothing before it. Nothing moved or cut. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

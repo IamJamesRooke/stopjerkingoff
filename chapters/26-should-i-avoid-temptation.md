@@ -28,9 +28,9 @@ Now the practical question, which comes in three forms.
 
 ## "Should I keep a way back, just in case?" {-}
 
-Some men stop but keep an escape hatch: the saved folder, the account they still follow "for the workouts", or a private rule that says, "If it gets really bad I'm allowed one."
+Some men stop but keep an escape hatch: the saved folder labeled "taxes", the account they still follow "for the workouts", or a private rule that says, "If it gets really bad I'm allowed one."
 
-They think the hatch makes them braver. It does the reverse. A hatch is a door left open an inch, and the Little Monster keeps pushing on it. Men who keep a way back use it. When a bad moment comes, it costs nothing, because the excuse was written in advance. A man with no hatch has nothing to bargain with, and the urge passes.
+They think the hatch makes them braver. It does the reverse. A hatch is a door left open an inch, and the Little Monster keeps shoving at it. Men who keep a way back use it. When a bad moment comes, it costs nothing, because the excuse was written in advance. A man with no hatch has nothing to bargain with, and the urge passes.
 
 These men fail because they were never fully committed. Two things were missing:
 
@@ -47,11 +47,11 @@ There are two opposite mistakes.
 
 **The first is the fortress.** This man bans the internet, avoids the beach, and lives as if every woman were a danger. Every change tells him the same thing: "I'm in terrible danger and I've given up a great deal." That's the Willpower Method with a fence around it.
 
-**The second is the dare.** This man lies in bed at midnight with the phone on his chest to prove how strong he is. He looks like a man guarding a bomb he built himself. Nobody proves he has quit drinking by sleeping in a bar. Testing yourself adds nothing to your freedom.
+**The second is the dare.** This man props the phone on his chest in bed to prove how strong he is. He looks like a man guarding a bomb he built himself. Nobody proves he has quit drinking by sleeping in a bar. Testing yourself adds nothing to your freedom.
 
 Common sense says to avoid unnecessary stimulation. The word to notice is *unnecessary*. Christians have an old phrase for this: avoid the near occasion of sin. It means don't stand where you know you'll fall. That's not fear. It's sense.
 
-None of this is a gimmick or a vow, and none of it has to wait for the last page. It's only the stupid thing avoided. Charge the phone in the kitchen. You're not in danger. Bed is just a stupid place for a phone at midnight, whatever you look at. Unfollow the accounts you followed for one reason. Cancel the subscriptions. Delete the folder. Delete the numbers you kept for one reason.
+None of this is a gimmick or a vow, and none of it has to wait for the last page. It's only the stupid thing avoided. Charge the phone in the kitchen. You're not in danger. Bed is just a stupid place for a phone, whatever you look at. Unfollow the accounts you followed for one reason. Cancel the subscriptions. Delete the folder. Delete the numbers you kept for one reason.
 
 One man who was bound by the habit for years goes further, if your circumstances need it: "If it means you got to get a roommate, get a roommate." If you're married and your wife asks for an open phone or a filter, give it gladly. That's honesty, not a fortress. Beyond that, you don't need to rearrange your life.
 
@@ -95,3 +95,5 @@ And one day you'll simply know that he is.
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
 
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). Every room named; no longer says it takes nerve. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

@@ -8,7 +8,7 @@ You may have read the last few chapters as a list of things taken away. Look at 
 
 A man who's slept with forty women thinks he knows a great deal about women. He's read the first chapter of forty books.
 
-First chapters are all alike. The nerves, the best behavior, the performance. He's never read a chapter ten. He doesn't know what a woman is like when she trusts him, because none of them had a reason to.
+First chapters are all alike. The nerves, the pressed shirt, the performance. He's never read a chapter ten. He doesn't know what a woman is like when she trusts him, because none of them had a reason to.
 
 A man who's been married to one woman for thirty years has read the whole book. He's in it.
 
@@ -20,9 +20,9 @@ The bet buys someone who knows the worst of you and stays.
 
 It buys a bed with no performance in it, no clock running, and nobody looking for shoes.
 
-It buys a witness to your whole life, and a reason to get up in the morning that isn't you.
+It buys a witness to your whole life, and a reason to climb out of bed that isn't you.
 
-And it gives your desire somewhere to go. Everywhere else it went, it was spent. Here it builds something each time.
+And it gives your desire somewhere to go. Everywhere else it went, it was spent. Here it lays another brick each time.
 
 ## Two men who said so {-}
 
@@ -38,17 +38,17 @@ Be fair to that too. Happier men are more likely to marry, so the ring isn't the
 
 ## The bet {-}
 
-Marriage is an all-in bet, and nobody should tell you otherwise. You push everything to the middle of the table. Your money, your name, your future. You can't take it back without losing half of yourself.
+Marriage is an all-in bet, and nobody should tell you otherwise. You shove everything to the middle of the table. Your money, your name, your future. You can't take it back without losing half of yourself.
 
-It can go wrong, and you've seen the numbers. Men have been ruined by a bad marriage, and so have women. Some wives lie, and some leave, just as some husbands do.
+It can go wrong, and you've seen the numbers. Men have been ruined by a bad marriage, and so have women. Some wives lie, and some walk out, just as some husbands do.
 
-That's no argument against the bet. It's an argument for choosing with clear eyes. And the habit never let you choose that way. A man ruled by lust picks a wife with the one part of him that can't see character.
+That's no argument against the bet. It's an argument for choosing with clear eyes. And the habit never let you choose that way. A man ruled by lust picks a wife with the one part of him that can't read character.
 
 ## How a free man chooses {-}
 
 A free man has two advantages. He isn't hungry, so he can walk away from the wrong woman. And he isn't in a hurry, so he can watch.
 
-Watch for these. Does she tell the truth when it costs her? How does she speak about people who can do nothing for her? Does she want the same life you want, in children, in faith, in money, and in where to live? Can she say sorry? Can you? Do you like her at breakfast, with nothing to gain?
+Watch for these. Does she tell the truth when it costs her? How does she speak about people who can do nothing for her? Does she want the same life you want, in children, in faith, in money, and in where to live? Can she say sorry? Can you? Do you like her at breakfast, hair flat, eggs burnt, nothing to gain?
 
 She's choosing too. Her risks aren't the same as yours, and they're real. So be a man that such a woman would bet on.
 
@@ -67,3 +67,5 @@ One man in the hall has heard all of this and shaken his head. He doesn't expect
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through: the marriage chapters reordered so that If You Never Marry comes last (after All In has shown the good thing), with the hall stitched to match; repeats cut; leaks closed. -->
 
 <!-- 2026-11-23 FLOW PASS (book-wide): one pronoun fixed ('It buys' became 'The bet buys' at the top of 'What the bet buys'); nothing moved or cut. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

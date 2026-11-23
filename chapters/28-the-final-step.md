@@ -22,17 +22,17 @@ Nobody *decides* to fall into this trap. You wandered in as a boy. But the trap 
 
 Of course you have, and you broke it every time. Maybe you're afraid of breaking another.
 
-What were you promising then? You promised to go without something you still wanted. That was a vow against yourself, and half of you never signed it. Today's different. There's nothing left you want from lust. You're only putting into words what's already happened in your head.
+What were you promising then? You promised to go without something you still wanted. That was a vow against yourself, and half of you never signed it. This time is different. There's nothing left you want from lust. You're only putting into words what's already happened in your head.
 
 So don't think about failing. You're not climbing by willpower this time. You're walking out through an open door, and you can enjoy the walk. If you're a Christian, you also have something stronger than your own word to stand on. A Christian counselor wrote it about pornography, and it holds for every form lust takes: "Jesus' grace to change you is stronger than pornography's power to destroy you."
 
 Maybe you feel you've failed too often to come back again. Hear a man who felt exactly that. He pictures the prodigal son, the runaway in Jesus's story, halfway home. In his picture the son protests, "But God, I still smell like yesterday." And the Father answers with two words: "Just come." He adds, for every man reading: "You're not too dirty. You're not too far."
 
-Jesus asked for plain speech: "But let your 'Yes' be 'Yes' and your 'No' be 'No.'" That's all this step is: a plain No that you mean. You're showing the Little Monster the door, once, and you already know he has nothing you want. He may knock for a few days. Nobody's going to answer. Out there he starves, and in a few weeks he's gone.
+Jesus asked for plain speech: "But let your 'Yes' be 'Yes' and your 'No' be 'No.'" That's all this step is: a plain No that you mean. You're showing the Little Monster the door, once, and you already know he has nothing you want. He may bang on the floor for a few days. Nobody's going up. Out there he starves, and in a few weeks he's gone.
 
 ## If there is another person {-}
 
-One thing comes before the prayer. Make sure that nothing you are doing breaks the law, and that nothing you are doing is harming another person. If something is, you already know what it is. Don't carry it past today.
+One thing comes before the prayer. Make sure that nothing you are doing breaks the law, and that nothing you are doing is harming another person. If something is, you already know what it is. Don't carry it one more day.
 
 The No you are about to say covers any bed outside marriage. Don't take that as a rule somebody handed you. Check it one last time against your own years. Name the women you liked and stayed with. Where is each of them now, and which of you took the exit? Then ask one question again. Suppose you had kept sex for the woman you promised to keep. Would your decisions have been better, or worse?
 
@@ -42,7 +42,7 @@ If a woman you love is in that bed, this is not a No to her. It is a No to the b
 
 Here is how.
 
-**1. Go somewhere you can be alone and speak out loud.** Kneel if you're able. A man's body teaches his mind what's going on.
+**1. Go somewhere you can be alone and speak out loud.** Kneel if you're able. A man's knees teach his mind what's going on.
 
 **2. Pray this.** Use your own words if you prefer, but don't make it long or clever. Near the end you will ask to be shown a man to go back for. He is some man you know who is still where you were. A freed man goes back for one.
 
@@ -136,3 +136,5 @@ Do it now.
 <!-- 2026-11-22 SKEPTIC READ, stage 5 (an atheist who thought marriage a scam; at the final No he said every clause, and 'any bed outside marriage' only as a policy for a woman he loves). The book now admits that this one clause asks for waiting and costs something. -->
 
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

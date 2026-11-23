@@ -2,11 +2,11 @@
 
 A cue comes, and with it a small, restless urge. That urge is the Little Monster, banging on the floor.
 
-The first thing to know about him is how small he is. The urge doesn't hurt. It's a faint, empty, fidgety sense that something's missing. That's why men mistake it for sex drive, or hunger, or plain boredom. Left alone for a while, it turns into edginess and a short temper. It's a hunger for something that doesn't feed you.
+The first thing to know about him is how small he is. The urge doesn't hurt. It's a faint, empty, fidgety sense that something's missing. That's why men mistake it for sex drive, or hunger, or plain boredom. Left alone for a while, it sours into a short temper. It's a hunger for something that doesn't feed you.
 
-In the first months you don't notice him. The itch and its relief are so slight you'd laugh at the idea you were hooked. Later, when you're doing it most days, you tell yourself you've come to enjoy it, or that you've "got into the habit". Really, the Little Monster has moved in. He pays no rent, and every so often you go around the loop to carry up his dinner.
+In the first months you don't notice him. The itch and its relief are so slight you'd laugh at the idea you were hooked. Later, when you're doing it most days, you tell yourself you've come to enjoy it, or that you've "got into the habit". Really, the Little Monster has moved in. He pays no rent, and every so often you carry his dinner up the stairs.
 
-He isn't picky. A video feeds him. A fantasy feeds him. A long look at a stranger feeds him. It's all one diet, and it all goes to one small belly.
+He isn't picky. A video feeds him. A fantasy feeds him. A long look at a stranger on the train feeds him. It's all one diet, and it all goes to one small belly.
 
 One man in the trap put the entire thing in seven words:
 
@@ -76,3 +76,5 @@ One objection is still standing, and it's the honest one.
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'). Two sentences no longer deny that it feels good. -->
 
 <!-- 2026-11-23 FLOW PASS (book-wide): the 'isn't picky' paragraph moved up beside 'carry up his dinner', so 'He's feeding the Little Monster' now runs straight into what the pleasure is; its opening 'And' dropped. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

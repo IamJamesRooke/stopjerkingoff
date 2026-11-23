@@ -14,7 +14,7 @@ Failing is no disgrace. If the fear of failing creeps back after you've decided,
 
 Ask the cold question. What terrible thing happens if you never touch the habit again? Nothing. Every terrible thing lies the other way.
 
-The panic is part of what the habit did to you, and it passes. Breathe slowly. If people are grinding you down, step outside and stand in the parking lot for five minutes.
+The panic is part of what the habit did to you, and it passes. Breathe slowly. If the day is grinding you down, step outside and stand in the parking lot for five minutes.
 
 And if you feel like crying, cry. We teach boys to clench their jaws and swallow it, and it does them no good. King David wept. So did Jesus.
 
@@ -24,7 +24,7 @@ One more, said as gently as I know how. For some men this habit didn't begin wit
 
 ## 3. Not following the rules {-}
 
-A man says the method didn't work. Then he describes ignoring nearly all of it. He cut down, kept the folder, skipped the final step and counted days. The rules are gathered on one page near the end of this book, so nobody can say he wasn't told.
+A man says the method didn't work. Then he describes ignoring nearly every page. He cut down, kept the folder, skipped the final step and counted days. The rules are gathered on one page near the end of this book, so nobody can say he wasn't told.
 
 ## 4. Misunderstanding the rules {-}
 
@@ -32,7 +32,7 @@ These are the most common, in the words men use.
 
 **"When does the urge die?"**
 
-Nobody can give you a date, and you don't need one. The leftover itch is so faint you can't tell it from hunger, tiredness or a flat mood. That's why willpower quitters never know if they've made it. Months later they feel hungry or low, and their mind says, "That's it again. You're owed one."
+Nobody can give you a date, and you don't need one. The leftover itch is so faint you can't tell it from hunger, a yawn or a gray Monday. That's why willpower quitters never know if they've made it. Months later they feel hungry or low, and a voice says, "That's it again. You're owed one."
 
 So don't wait for the urge to die. A man who waits keeps asking, "Is it gone yet?" That question breeds the very fear he wanted gone.
 
@@ -40,11 +40,11 @@ If a twinge comes and you're a praying man, pray. One man wrote that whenever he
 
 **"I still want it."**
 
-Then ask who's talking. A twinge is not a wish. The Little Monster wants feeding, and you don't want what comes after. But if you really do believe there's still something in it for you, one of the old lies is still standing. No shame in that. Find which one, and read that chapter again.
+Then ask who's talking. A twinge is not a wish. The Little Monster is thumping for his dinner, and you don't want what comes after. But if you really do believe there's still something in it for you, one of the old lies is still standing. No shame in that. Find which one, and read that chapter again.
 
 **"I'm miserable and irritable."**
 
-Then something hasn't clicked yet. It happens. Some men believe every word of this book and still set off like a man walking to the gallows. Yet you're doing the thing you most wanted to do, the thing every man in the trap wishes he could do. Whatever method a man uses, the goal is the same. Every thought of the habit ends with "I'm free". If that's where you want to finish, why not begin there?
+Then something hasn't clicked yet. It happens. Some men believe every word of this book and still shuffle off like a man walking to the gallows. Yet you're doing the thing you most wanted to do, the thing every man in the trap wishes he could do. Whatever method a man uses, the goal is the same. Every thought of the habit ends with "I'm free". If that's where you want to finish, why not begin there?
 
 Hear this too. Say you've followed all of it, read the book twice, and you're still struggling after a couple of months. That doesn't mean you misunderstood. Some men need a counselor as well as a book. That's the next step, and no defeat. And if you've felt low most of every day for more than two weeks, see a doctor.
 
@@ -115,3 +115,5 @@ That leaves the question nobody likes to ask out loud. What if you fall?
 <!-- 2026-11-22 SKEPTIC READ, final stage: 'nothing but an itch' no longer unsays what If You Never Marry concedes; the loved woman's bed is told apart from the rest without handing the room back. -->
 
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

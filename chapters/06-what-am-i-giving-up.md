@@ -4,7 +4,7 @@ Nothing. Not one thing.
 
 That's the whole chapter. But you don't believe it yet, so let's go slowly.
 
-Stopping looks hard for one reason: fear. You're afraid they're taking a pleasure away, a comfort you lean on. You're afraid the quiet evening alone, the long shower and the warm bed will never feel as good again. You're afraid the next rotten day will come and you'll have nothing to get you through it.
+Stopping looks hard for one reason: fear. You're afraid they're taking a pleasure away, a comfort you lean on like a cane. You're afraid the quiet evening alone, the long shower and the warm bed will never feel as good again. You're afraid the next rotten day will come and you'll have nothing to get you through it.
 
 Underneath sits a bigger fear, the world's favorite lie: that a man can't do without an orgasm on demand. That stopping means denying your own nature. That you'll walk around with a hole in your life where the habit used to be.
 
@@ -44,17 +44,17 @@ Then one day you read that thousands of people have this same rash, and the caus
 
 Would you use the cream again?
 
-Would you need willpower to leave the tube in the drawer? Would you count the days, or call yourself a warrior? You might be nervous the first week, in case the article was wrong. Then you'd see the patch shrinking, and the wish for the cream would be gone. You wouldn't mope. You'd check your arms every morning and grin.
+Would you need willpower to leave the tube in the drawer? Would you count the days, or call yourself a warrior? You might be nervous the first week, in case the article was wrong. Then you'd see the patch shrinking, and the wish for the cream would be gone. You wouldn't mope. You'd check your arms every morning and grin at the mirror.
 
 That's exactly what it's like to walk away from the habit.
 
-The rash isn't the guilt, the tired mornings, the wasted evenings, the distance from your wife or the silence between you and God. Those are extras. The rash is that edgy, hollow, slightly panicky feeling of *I need it*. Men without the habit never get it. You didn't have it at nine years old. It arrived with the first time, and every time since has fed it.
+The rash isn't the guilt, the bleary mornings, the wasted evenings, the distance from your wife or the silence between you and God. Those are extras. The rash is that edgy, hollow, slightly panicky feeling of *I need it*. Men without the habit never get it. You didn't have it at nine years old. It arrived with the first time, and every time since has fed it.
 
 The feeling you keep reaching to relieve is the hole, and the cream dug it. When you stop, the hole doesn't yawn open in front of you. It closes.
 
 A skeptic on a recovery forum, halfway through EasyPeasy, raised a fair objection. If you lost nothing, he said, nothing would change and you wouldn't notice anything. Of course something changes. The man with the rash loses his cream, and he notices. He also loses the itch, the scratching, the tube in every coat and the dread of running out. When this book says you give up nothing, it means nothing good. You lose a problem and its false cure, both at once.
 
-Paul said the same of his own life, in his letter to the Philippians: "I consider those things that were gain to me as a loss for Christ." Paul had a list of things he'd once counted as profit. He didn't give them up through gritted teeth. He set them beside what he'd found, Christ himself, and moved all of it to the other side of the ledger. In the next verse he called them "refuse", which is a polite translation. No boasting about a sacrifice. He'd seen what the stuff was worth.
+Paul said the same of his own life, in his letter to the Philippians: "I consider those things that were gain to me as a loss for Christ." Paul had a list of credentials he'd once counted as profit. He didn't give them up through gritted teeth. He set them beside what he'd found, Christ himself, and moved all of it to the other side of the ledger. In the next verse he called them "refuse", which is a polite translation. No boasting about a sacrifice. He'd seen what that pile was worth.
 
 That's where you're headed. You won't be a man bravely doing without. You'll look at the tube of cream and wonder how you ever thought it was medicine.
 
@@ -86,3 +86,5 @@ And one thing you get back can be counted on a clock.
 <!-- 2026-11-22 SKEPTIC READ, stage 2 (an atheist who thinks marriage is rigged against men): trust runs both ways; the single man gets an argument that needs no wife; plain legs beside the God-only cures. -->
 
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

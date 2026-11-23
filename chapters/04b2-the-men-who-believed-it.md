@@ -38,7 +38,7 @@ A man named Dan Mahle wrote in 2014 about the year he stopped watching porn.
 
 > "But it got to a point where I felt physically ill watching the videos, and yet I kept watching."
 
-A writer named Martin Vidal looked back in 2024 on his years of going from bed to bed.
+A writer named Martin Vidal looked back in 2024 on his years of hopping from bed to bed.
 
 > "I've somehow hurt so many, and engaged in so many nights of empty lovemaking that it's left me feeling unclean."
 
@@ -61,3 +61,5 @@ SOURCES:
 - Martin Vidal, essay in Human Parts (Medium), 29 Oct 2024, https://humanparts.medium.com/the-sad-life-of-a-f-kboy-b62c35a56b23
 - Terry Crews, quoted by Good Morning America, 25 Feb 2016, https://www.goodmorningamerica.com/culture/story/terry-crews-porn-addiction-ruined-life-37186200 . The two sentences are printed there with 'Crews said' between them.
 None of the court cases claims the site caused the crime; prosecutors record where the money went. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

@@ -26,7 +26,7 @@ Nobody's born needing to do this to get to sleep. You weren't lying in your crib
 
 ## The student and the single man {-}
 
-One more hard-looking case is boredom plus stress. Think of the student in finals week, or the single man alone in an apartment. Long empty hours, nobody around. On the Willpower Method those hours are deadly, because he's got all evening to brood over what he's "lost".
+One more hard-looking case is boredom plus stress. Think of the student in finals week, or the single man alone with a microwave dinner. Long empty hours, nobody around. On the Willpower Method those hours are deadly, because he's got all evening to brood over what he's "lost".
 
 With the right frame of mind those same hours are no trouble. Don't worry that being alone keeps reminding you that you've stopped. Let it. Every reminder is a reminder that you're getting out.
 
@@ -46,7 +46,7 @@ One thing trips men in every one of these situations, and it's a bad day.
 
 Get this straight before you start: you'll have good days and bad days whether you go back to the habit or not. Ecclesiastes says God made the good day and the bad day side by side. They come to the free man and the man in the trap alike.
 
-The willpower man spends his bad day pining for his comfort, so now he's got two problems. The free man has one. He meets it with a clear head, and he isn't dragging a guilty secret through it.
+The willpower man spends his bad day pacing the kitchen, pining for his comfort, so now he's got two problems. The free man has one. He meets it with a clear head, and he isn't dragging a guilty secret through it.
 
 If a bad day lands on you in the first weeks, shrug and take the punch. You had bad days before, plenty of them, or you wouldn't be reading this book. Then say it plainly: "All right, today is rotten. Jerking off won't fix it. Nor will a video, or a message to a woman I shouldn't be writing to. Tomorrow will be better, and in the meantime I've got one enormous thing going for me. I'm free."
 
@@ -80,3 +80,5 @@ And on a bad day you'll be tempted to reach for something else in the habit's pl
 <!-- 2026-11-22 SKEPTIC READ, stage 5 (an atheist who thought marriage a scam; at the final No he said every clause, and 'any bed outside marriage' only as a policy for a woman he loves). The book now admits that this one clause asks for waiting and costs something. -->
 
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

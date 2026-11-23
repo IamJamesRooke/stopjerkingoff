@@ -25,9 +25,9 @@ De Becker himself reaches for the comparison this book needs. The pursuer, he sa
 
 You have a stalker of your own. De Becker's clients were famous people, the kind a stranger fixes on and won't leave alone. In this story you're the famous one, and you have a fan.
 
-**The Little Monster is the stalker.** Upstairs he bangs on the floor. Put him out, and he'll use the telephone. He's the caller who can't take no for an answer, and every urge is one more message from him.
+**The Little Monster is the stalker.** Upstairs he bangs on the floor. Put him out, and he'll use the telephone. He's the caller who can't take no for an answer, and every urge is one more voicemail from him.
 
-Every "just once" is you calling him back. It makes no difference that you only meant to quiet him. He learns just as the stalker learns, and all he learns is this: nagging gets fed. Hold out ten days and then give in, and you've taught him the price: ten days of nagging. Next time he'll nag for eleven, cheerfully.
+Every "just once" is you calling him back. It makes no difference that you only meant to quiet him. He learns just as the stalker learns, and all he learns is this: nagging gets fed. Hold out ten days and then give in, and you've taught him the price: ten days of nagging. Next time he'll nag for eleven, and whistle while he does it.
 
 Her four instructions are yours, word for word.
 
@@ -36,9 +36,9 @@ Her four instructions are yours, word for word.
 - **Don't let him down gently.** "Only this week" and "only on Saturdays" are a door left open an inch, and he hears them as hope.
 - **Then never answer again.** Arguing with him is contact. Bargaining with him is contact. Even telling him to go away is contact. When he calls, let it ring.
 
-There's one difference, and it's all in your favor. Her pursuer may be dangerous. Yours isn't. The Little Monster isn't ten feet tall. He's a pipsqueak. He has to stand on a chair to reach the telephone. His only weapon is to annoy you.
+There's one difference, and it's all in your favor. Her pursuer may be dangerous. Yours isn't. The Little Monster isn't ten feet tall. He's a pipsqueak. He has to stand on a chair to reach the telephone. His only weapon is a whine.
 
-He's an itch, about as strong as a tag scratching the back of your collar. He can't hurt you, and he can't make you do anything. Men have crossed oceans and built cities, and then taken orders from this.
+He's an itch, about as strong as a tag scratching the back of your neck. He can't hurt you, and he can't make you do anything. Men have crossed oceans and built cities, and then taken orders from this.
 
 If he's ever felt enormous, that was the fear of him, and fear can flatten a strong man.
 
@@ -61,3 +61,5 @@ So how does a caller like that ever get through?
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). The Little Monster learns; he doesn't think in sentences. -->
 
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through: the marriage chapters reordered so that If You Never Marry comes last (after All In has shown the good thing), with the hall stitched to match; repeats cut; leaks closed. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

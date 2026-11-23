@@ -8,15 +8,15 @@ That deserves a straight answer. Yes. If you never marry, it means that. This bo
 
 But be exact about what you're asked to put down. It isn't that good thing. You don't have it. Look at what's on your table tonight.
 
-The screen. The hand. The stranger from the app, gone by morning. The woman you pay to leave. The woman you like and won't promise, until she goes. You've had some of these for twenty or thirty years. If they fed a man, you'd be full by now. Are you?
+The screen. The hand. The stranger from the app, gone by morning. The woman you pay to leave. The woman you like and won't promise, until she gives up and goes. You've had some of these for twenty or thirty years. If they fed a man, you'd be full by now. Are you?
 
-They're not a smaller helping of what the husband has. They're a photograph of his dinner. A man can eat photographs for thirty years and starve.
+They're not a smaller helping of what the husband has. They're a photograph of his dinner. A man can chew photographs for thirty years and starve.
 
 ## Why you are single {-}
 
 Now a harder question, and no blaming yourself. Why are you single at forty-five?
 
-Nobody can answer that for you, and a hundred things go into it. But count what the habit took out, and check which of these is yours. Every night it paid off the push that sends a man across a room. It taught you to lose interest in a woman the day after you had her. It kept a dozen women on a phone, so you never had to choose one.
+Nobody can answer that for you, and a hundred things go into it. But count what the habit took out, and check which of these is yours. Every night it paid off the shove that sends a man across a room. It taught you to lose interest in a woman the day after you had her. It kept a dozen women on a phone, like coats on a rack, so you never had to choose one.
 
 A man can't train for twenty years in the opposite of marriage and then wonder why he isn't married.
 
@@ -30,9 +30,9 @@ The other road carries no promise. Nobody can tell you a wife is at the end of i
 
 And it's not an empty road.
 
-**Company.** You'll miss being touched. Say so plainly. It's no small thing, and it's not the itch. But the old nights never cured it. A hookup gave you skin, and you drove home lonelier than you came. What you were short of is people who know you. Those are made in daylight, with your clothes on. A brother, two old friends, a table where you eat every week. A team, a church or a club, and children who call you uncle. The habit ate the evenings those take.
+**Company.** You'll miss being touched. Say so plainly. It's no small thing, and it's not the itch. But the old nights never cured it. A hookup gave you skin, and you drove home lonelier than you came. What you were short of is people who know you. Those are made in daylight, with your clothes on. A brother, two old friends, a table where you eat every Thursday. A softball team, a church or a club, and kids who call you uncle. The habit ate the evenings those take.
 
-**Use.** A man with no wife has something a husband lacks. His time and his strength belong to nobody yet. Paul, the apostle who wrote much of the New Testament, was unmarried. He wrote that an unmarried man is free to give his whole mind to his work for God. Believer or not, the point holds. That strength was built to be spent on something.
+**Use.** A man with no wife has something a husband lacks. His time and his strength belong to nobody yet. Paul, the apostle who wrote much of the New Testament, was unmarried. He wrote that an unmarried man is free to give his whole mind to his work for God. Believer or not, the point holds. That strength was built to be spent on something, and a tissue isn't something.
 
 ## Thirty years {-}
 
@@ -51,3 +51,5 @@ That's every room in the house, and every man in the hall. One more thing has ke
 <!-- 2026-11-22 third whole-book test as James (he now says the whole No, but holds back the warm bed with a woman he liked; 'I say the clause as a better policy, not as a man who sees nothing in the room'). Fixes from that test; see the commit of this date. -->
 
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through: the marriage chapters reordered so that If You Never Marry comes last (after All In has shown the good thing), with the hall stitched to match; repeats cut; leaks closed. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
