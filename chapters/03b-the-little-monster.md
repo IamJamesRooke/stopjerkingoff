@@ -20,6 +20,9 @@ Most of what a man calls the pleasure is the pleasure of getting back to how he'
 
 Have you ever had a car alarm going in the street for half the afternoon? You stop hearing it after a while, but your shoulders don't. Then somebody finally shuts it off, and the quiet is wonderful.
 
+![](images/illustrations/little-monster-car-alarm.png){.illustration width=80%}
+
+
 But nothing wonderful has arrived. An irritation has ended.
 
 That's what the relief is. Before the habit, you were complete. You had no alarm. Each time you go around the loop you feel better for a moment, and you also set the alarm to go off again.

@@ -14,6 +14,9 @@ The man in the bed is not a weak man. He keeps his word to everyone but himself.
 
 There is no dragon.
 
+![](images/illustrations/intro-the-dragon-in-his-head.png){.illustration width=80%}
+
+
 ## What you are really fighting {-}
 
 A while after the last time, a feeling shows up. It is a faint, fidgety itch, like a phone buzzing in another room.
