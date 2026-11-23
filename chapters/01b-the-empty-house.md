@@ -12,7 +12,7 @@ The house is you, and you've swept it many times.
 
 You swore off porn, and for three weeks you were clean. Then you were spending an hour a night scrolling past women in swimsuits and calling it nothing. Or you deleted every app and blocked every site, and the reel in your memory started up in their place. Or you stopped the whole business by force, and poured the same hunger into chasing a woman who didn't want you.
 
-You threw one thing out, and it came back with company. That's the Little Monster for you. Keep his room ready, and he brings his friends. Each one is the size of a cat. Each one smells like the same gym bag.
+You threw one thing out, and it came back with company. That's the Little Monster for you. Keep his room ready, and he brings his friends. Each one is the size of a cat. Each one smells like the same rotten cheese.
 
 No wonder it feels unbeatable. No wonder you decided the fault was in you.
 
@@ -54,11 +54,7 @@ Then why is he still there? Nobody wants a freeloader. You kept him because you 
 
 That belief is a lie, and it lives in your head, not the back room. He can't say a word. The lies do the talking, in your own voice.
 
-You know them.
-
-- "A man needs it."
-- "It helps me sleep."
-- "I've earned it."
+You've met a few of them already.
 
 The Little Monster's the easy one. Stop feeding him and he goes quiet in days. In a few weeks he's gone. The lies are what have held you for years, and this book takes them down one at a time.
 
@@ -106,3 +102,5 @@ SOURCES: Matthew 12:43-45 (WEB, checked 2026-11-20). Quoted verbatim: "I will re
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->
 
 <!-- 2026-11-23 FLOW PASS (book-wide): 'That is why' at the head of the last section pointed at nothing in the hall warning before it; it is now 'Judge first.', which grows out of 'Judge each room when we get there'. -->
+
+<!-- 2026-11-23 Squared with the rebuilt Introduction: the smell is now James's rotten cheese (was the gym bag), and the list of lies the Introduction already gives is not repeated here. -->
