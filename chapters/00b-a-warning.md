@@ -11,7 +11,7 @@ Would the man press it? He'd break the nightstand. So would you.
 
 ![](images/illustrations/button-he-would-break-the-nightstand.png){.illustration width=80%}
 
-Now ask why. Nobody would press a button to get rid of fishing. Nobody would press one to get rid of Sunday dinner. You don't wish you'd never met a thing that's good for you. You'd only press it for something that's hurting you.
+Now ask why. Would you press a button to have never tasted steak? To have never learned to ride a bike? You don't wish you'd never met a thing that's good for you. You'd only press it for something that's hurting you.
 
 So part of you already knows. The pest doesn't belong up there.
 
@@ -107,3 +107,5 @@ It will be easy.
 <!-- 2026-11-23 COHERENCE REPAIR (James: 'so much was cut that now it seems incoherent -- get users to read it'). Eight cold readers flagged the missing steps; the links are put back in the spoken voice: the house frame, 'that banging is the urge', starving = no more dinners, man and monster kept apart by name, the dragon retired, and fear named as fear of life without it. -->
 
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
+
+<!-- 2026-11-23: cold readers: 'fishing / Sunday dinner' tripped three; replaced with two questions. -->

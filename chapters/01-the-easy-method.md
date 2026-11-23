@@ -47,7 +47,7 @@ That's why the scare videos and the sermons that rattled the windows never freed
 
 ![](images/illustrations/easy-method-the-cookie.png){.illustration width=80%}
 
-Your reasons say you *ought* to give something up. So part of you goes on believing there's something to give up. A comfort. A treat. An old buddy. You feel like a kid dragged out of the candy store by his ear.
+Your reasons work the same way. They say you *ought* to give something up. So part of you goes on believing there's something to give up. A comfort. A treat. An old buddy. You feel like a kid dragged out of the candy store by his ear.
 
 ## Three questions {-}
 
@@ -77,7 +77,7 @@ Then there's everything else it's supposed to give you.
 - The thrill of something new.
 - The feeling of being wanted.
 
-Each one is a tight shoe. The relief is only the pinch stopping. Each one gets its turn. The bargains get their turn too. So does lust, the wider appetite behind the habit, the one that has you thinking with the wrong head.
+Each one is a tight shoe. The relief is only the pinch stopping. Each one gets its turn. The bargains get their turn too, the "at least it's not porn" kind. So does lust, the wider appetite behind the habit, the one that has you thinking with the wrong head.
 
 ## What to do tonight {-}
 
@@ -151,3 +151,5 @@ Before any of that, a fair question. "No benefits at all" is a big claim from a 
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
 
 <!-- 2026-11-23: Author's pass: 'starving' kept for the monster only; list given a lead-in; bait/hook straightened; 'slip' cut (nobody is quitting yet). -->
+
+<!-- 2026-11-23: cold readers: 'bargains' recalled in place; cookie tied to the reasons. -->

@@ -14,7 +14,7 @@ It cost me three relationships, an engagement and a marriage.
 
 ## Thirteen ways to be anxious {-}
 
-Then I went the other way. I chased woman after woman, just to run up the count. I spent my nights in bed with the phone, swiping and sexting. When I liked one, I checked for her texts all day. To calm my nerves, I kept a dozen others talking as backups. That's not a man with options. That's a man with thirteen ways to be anxious.
+Then I went the other way. I chased woman after woman, just to run up the count. I spent my nights in bed with the phone, swiping and sexting. When I liked one, I checked for her texts all day. To calm my nerves, I kept twelve others talking as backups. That's not a man with options. That's a man with thirteen ways to be anxious.
 
 ![](images/illustrations/who-thirteen-ways-to-be-anxious.png){.illustration width=80%}
 
@@ -28,7 +28,7 @@ And none of it was ever enough.
 
 ## Men are sedated {-}
 
-Lust wasn't my only sedative, and it probably isn't yours. Look at one ordinary evening.
+What was I using it for? To go numb. Lust was my sedative. It wasn't my only one, and it probably isn't yours. Look at one ordinary evening.
 
 A man comes home tired and pours a drink to take the edge off. Dinner's a burger and fries out of a paper bag, then a whole sleeve of cookies. He games till his eyes sting. He scrolls in bed for an hour. He finishes on a porn site.
 
@@ -81,3 +81,5 @@ So start with the Little Monster. If he does nothing for you, why has every atte
 <!-- 2026-11-23 COHERENCE REPAIR after a cold-reader check of the first five chapters: missing links added, nothing cut. -->
 
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
+
+<!-- 2026-11-23: cold readers: bridge into 'Men are sedated'; twelve plus one makes the thirteen. -->
