@@ -8,6 +8,8 @@ He says it like this. "I'm jerking off, but I'm only thinking about other women.
 
 He's doing something about it. He's doing the only part he can reach.
 
+Notice when "it isn't cheating" sounds true. Only while he's worked up. Catch him ten minutes later, with his pulse back to normal, and nobody has to explain it to him. A calm man knows what he was just doing behind her back. The lie only works on a man with his blood up.
+
 What's the fantasy? A rehearsal. In his head he's already said yes. Let her walk into the room and make the offer for real. In the fantasy, he has never once said no.
 
 So what's keeping him faithful? Not his heart. Only that she isn't in the room.
@@ -119,3 +121,5 @@ That's the women who aren't there. The next excuse is about the ones who are. "F
 <!-- 2026-11-23 FLOW PASS (book-wide): in 'The harem in your head' the 'you may never have tried this, keep reading' aside is one sentence placed after the thing it refers to. -->
 
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
+
+<!-- 2026-11-23 PROOF LOOP (James: once his body calmed down he saw that thinking of other women that way IS cheating on his girlfriend). The chapter already answered 'a thought isn't cheating'; added the missing piece from his report: the lie only sounds true while a man is worked up, and a calm man doesn't need it explained. Reader-facing 'he', never 'I'. -->
