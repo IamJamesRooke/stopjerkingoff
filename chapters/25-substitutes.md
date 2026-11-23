@@ -6,23 +6,23 @@
 
 When a man stops, he looks around for something to put in the gap. He finds two kinds of thing: another version of what he left, and food.
 
-You have met the other versions in every room of the house. The act stopped short. Porn without touching. The scroll. The dating app kept "just to look". The film in your head. The girlfriend's bed, kept because you love her. A woman to use in place of the hand, which is the cruelest trade, because now a second person is paying. None of these is a substitute. Each is the same thing in another glass. The bed of a woman you love is the best-looking glass on that shelf. What is good in it is real, and it belongs to the promise. Kept without the promise, it still keeps the room. That is cutting down, and cutting down never freed anyone.
+You've met the other versions in every room of the house. The act stopped short. Porn without touching. The scroll. The dating app kept "just to look". The film in your head. The girlfriend's bed, kept because you love her. A woman to use in place of the hand, which is the cruelest trade, because now a second person is paying. None of these is a substitute. Each is the same thing in another glass. The bed of a woman you love is the best-looking glass on that shelf. What's good in it is real, and it belongs to the promise. Kept without the promise, it still keeps the room. That's cutting down, and cutting down never freed anyone.
 
-Food is the one real substitute, and it doesn't work either. The restless feeling is very like hunger, so some men try to feed it. But a stuffed man lies heavy and bored on the couch, and that is just where the old thought finds him.
+Food is the one real substitute, and it doesn't work either. The restless feeling is a lot like hunger, so some men try to feed it. But a stuffed man lies heavy and bored on the couch, and that's exactly where the old thought finds him.
 
 USE NONE OF THEM.
 
-A substitute doesn't make stopping easier. It makes it harder. Answer an urge with a substitute and you haven't ended the urge. You've stretched it out. And you've told yourself something fatal: "There's a hole here, and I need to stuff it with something." That's handing the screaming toddler the candy. You get five minutes of quiet and the same scene again tomorrow.
+A substitute doesn't make stopping easier. It makes it harder. Answer an urge with a substitute and you haven't ended the urge. You've stretched it out. And you've told yourself something fatal: "There's a hole here, and I need to stuff it with something." That's handing the screaming toddler the candy. Five minutes of quiet, and the same scene again tomorrow.
 
-Do you look for a substitute for the flu once it's cleared up? Say "I need something in its place" and you're saying "I've made a sacrifice". That one belief is what makes the Willpower Method so miserable.
+Do you go looking for a substitute for the flu once it's cleared up? Say "I need something in its place" and you're saying "I've made a sacrifice". That one belief is what makes the Willpower Method so miserable.
 
 Nothing is missing. Lust made the void. It never filled it.
 
 ## Pursue {-}
 
-Paul wrote to Timothy, a young pastor he was training: "Flee from youthful lusts; but pursue righteousness, faith, love, and peace with those who call on the Lord out of a pure heart." He gives two commands. The first is *flee*: don't negotiate with it or keep another version of it. The second is *pursue*: go after righteousness, faith, love and peace. And do it "with those who call on the Lord", which means in company.
+Paul wrote to Timothy, a young pastor he was training: "Flee from youthful lusts; but pursue righteousness, faith, love, and peace with those who call on the Lord out of a pure heart." Two commands. The first is *flee*: don't negotiate with it, and don't keep another version of it. The second is *pursue*: go after righteousness, faith, love and peace. And do it "with those who call on the Lord", which means in company.
 
-That is not a substitute. A substitute is a thing you grab to plug a hole. Paul is describing a life you can now get on with. One pastor calls it "escaping into reality, into God Himself." You'll have evenings and energy to spare. Spend them on things that are good in themselves.
+That's not a substitute. A substitute is a thing you grab to plug a hole. Paul is describing a life you can now get on with. One pastor calls it "escaping into reality, into God Himself." You'll have evenings and energy to spare. Spend them on things that are good in themselves.
 
 One man wrote that he quit at twenty-nine and replaced the habit with antique shopping. Good for him. But I don't believe old teapots held it off for thirty years. He stopped, and then he had his Saturdays back and spent them on something he liked.
 

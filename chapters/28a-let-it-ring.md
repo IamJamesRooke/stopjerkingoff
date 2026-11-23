@@ -1,46 +1,46 @@
 # Let It Ring {#let-it-ring}
 
-You have said your No. Everything from here on is about living as a free man. The telephone will still ring now and then. Here is what you do about it.
+You've said your No. Now you live as a free man. The telephone will still ring now and then. Here's what to do about it.
 
-You already know the caller, and you know that answering is what taught him to keep calling. Maxwell Maltz, a surgeon turned writer, adds an armchair to the picture.
+You know the caller, and you know answering is what taught him to keep calling. Maxwell Maltz, a surgeon turned writer, adds an armchair.
 
-Imagine you're sitting in it and the telephone rings. It is the same telephone the caller has been using. All your life you've jumped up to answer it. Today you stay in the chair. You can hear it perfectly well. You're not pretending it isn't ringing, and you're not gripping the armrests. You just don't get up.
+You're sitting in it and the telephone rings. Same telephone the caller always uses. All your life you've jumped up and answered it. Today you stay put. You hear it fine. You're not pretending it isn't ringing, and you're not white-knuckling the armrests. You just don't get up.
 
 ![](images/illustrations/let-it-ring-armchair.png){.illustration width=80%}
 
-Notice two things. First, the ringing has no power of its own. A bell is a noise in the air and can't lift a man out of a chair. It only moved you because you had the habit of obeying it. Second, not answering takes no effort. You aren't wrestling the phone. You're doing nothing at all, and doing it comfortably.
+Notice two things. First, the ringing has no power. A bell is a noise in the air, and a noise can't lift a man out of a chair. It only moved you because you'd gotten in the habit of obeying it. Second, not answering takes no effort. You're not wrestling the phone. You're doing nothing, and doing it comfortably.
 
-Every cue you'll meet is that telephone. It may be the empty house, the photo in the feed, the bed at midnight or the bad day. It may be a message from a woman you had sworn off. Let it ring. It will stop.
+Every cue you'll meet is that telephone. The empty house. The photo in the feed. The bed at midnight. The bad day. A message from a woman you'd sworn off. Let it ring. It will stop.
 
-The caller gets four answers, and you have just given the first: you said it once, and you said it outright. The other three keep it said. Give no reason. Don't let him down gently. Never answer again.
+The caller gets four answers, and you've given the first: you said it once, and you said it outright. The other three keep it said. Give no reason. Don't let him down gently. Never answer again.
 
 You know your hour: the shower, the empty house, midnight. Expect it. A bell you saw coming is only a bell.
 
-And if you lie awake the first night or two, lie there and be glad. You know what is dying.
+Lie awake the first night or two? Lie there and be glad. You know what's dying.
 
 ## You are already free {-}
 
-Only two things can make this hard: doubting and waiting. So never doubt the decision. You know it's right. Start to question it and you can't win. You'll be miserable if you hold out, and worse if you give in.
+Only two things can make this hard: doubting and waiting. So don't doubt the decision. You know it's right. Start questioning it and you can't win. You'll be miserable if you hold out and worse if you give in.
 
-Ask what you're actually trying to achieve. It isn't simply "never to do any of it again". Plenty of men manage that and feel robbed until they die. Think instead about the man who has never had the habit. He isn't different from you because he resists. He doesn't want it. He has no craving, and he spends no willpower.
+What are you really after? Not just "never doing it again". Plenty of men manage that and feel robbed until they die. Think about the man who never had the habit. He's not different because he resists. He doesn't want it. No craving, no willpower spent.
 
-That's what you're after, and it's within reach. You don't have to wait to become that man. You started being him when you said your No.
+That's within reach. You don't have to wait to become that man. You started being him when you said your No.
 
 You are already a free man.
 
-On good days and bad, don't build your life around having stopped. If you do, you'll turn something that cost you nothing into a real sacrifice. You haven't given up living. You've been let out. The habit was a pest in the back room. It was never meant to be the story of your life. The weeks will go by, and your energy and your conscience will recover. Your good days will be better and your bad days milder than they ever were.
+Don't build your life around having stopped. Do that and you'll turn something that cost you nothing into a sacrifice. You haven't given up living. You've been let out. The habit was a pest in the back room, never the story of your life. The weeks will go by, and your energy and your conscience will recover. Your good days will be better and your bad days milder than they ever were.
 
 And whenever the thought of it crosses your mind, tomorrow or in forty years, be glad. You're free.
 
 ## A final warning {-}
 
-Men who have walked out and lived happily for years do go back in. People assume such a man was still hooked. Rarely. Stopping was so easy that he lost his respect for the trap. He thought, "I could allow myself one now and then. If things go badly, I know how to get out again."
+Men who've walked out and lived happily for years do go back in. People assume he was still hooked. Rarely. Stopping was so easy that he lost his respect for the trap. He thought, "I could allow myself one now and then. If things go badly, I know how to get out again."
 
 It doesn't work like that. Stopping the habit is easy. Controlling it is impossible. An easy door swings both ways.
 
 **Don't fall for that.**
 
-However long you've been free, and however sure you are that nothing could catch you again, keep one rule for life. Not once, for any reason. Not on a lonely anniversary, not "to help me sleep", and not "just to see". The Little Monster starves and stops calling. But years from now, on some odd evening, an old thought may drift past. It is like reaching for the light switch in a house you moved out of long ago. Nothing is behind it. It is only the memory of a call. Notice it, smile, and don't pick up. "Just once" is the one thing that could put the Little Monster back in the room.
+However long you've been free, and however sure you are that nothing can catch you again, keep one rule for life. Not once, for any reason. Not on a lonely anniversary, not "to help me sleep", not "just to see". The Little Monster starves and stops calling. Years from now, on some odd evening, an old thought may drift past. It's like reaching for the light switch in a house you moved out of long ago. Nothing's behind it. It's only the memory of a call. Notice it, smile, and don't pick up. "Just once" is the one thing that could put the Little Monster back in the room.
 
 The rule is strict, and the grace is real. A man who falls confesses it that day, refuses the second one, and gets up. Don't plan on needing that.
 

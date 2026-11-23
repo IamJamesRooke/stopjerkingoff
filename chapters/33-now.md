@@ -8,11 +8,11 @@ You've reached the end of the book. Congratulations. You were caught in a trap t
 
 ## Today is the only day you've got {-}
 
-One idea before you go. It will serve you long after you've forgotten the rest.
+One idea before you go, and it'll outlast the rest.
 
-The habit lived in two places, and neither was real. It lived in the past: the shame of last night, the tally of broken promises. And it lived in the future: "How will I manage a whole lifetime without it?" Nobody can manage a lifetime. A lifetime doesn't arrive in one piece. It comes one ordinary day at a time, and no man has ever had to stay free on any day except this one.
+The habit lived in two places, and neither was real. It lived in the past: the shame of last night, the tally of broken promises. And it lived in the future: "How will I manage a whole lifetime without it?" Nobody can manage a lifetime. A lifetime doesn't arrive in one piece. It comes one ordinary day at a time, and no man has ever had to stay free on any day but this one.
 
-Jesus told his friends the same thing. Leave tomorrow alone, because it has worries enough of its own.
+Jesus told his friends the same thing. Leave tomorrow alone. It has worries enough of its own.
 
 Yesterday is confessed and finished.
 
@@ -20,45 +20,45 @@ Tomorrow isn't yours yet.
 
 What you've been given is today.
 
-So practice one thing. Soon, perhaps this week, a thought will float up: "I could, just now." A second later you'll catch it and think, "That's not me. It's the leftover noise of a thing I've finished with." Then you'll feel a small burst of gladness. The thought no longer gives you orders. That's another moment of knowing you're free, and you can have it as often as you like.
+So practice one thing. Maybe this week, a thought will float up: "I could, just now." A second later you'll catch it and think, "That's not me. That's leftover noise from a thing I'm done with." Then comes a small burst of gladness. The thought doesn't give orders anymore. That's another moment of knowing you're free, and you can have it as often as you like.
 
-If you're a Christian, there is a second half to this. You don't just watch your thoughts go by. You hand them over. If you're not a believer, the watching half is still yours: notice the thought, name it, let it pass. It works all the same.
+If you're a Christian, there's a second half. You don't just watch your thoughts go by. You hand them over. If you're not a believer, the watching half is still yours: notice the thought, name it, let it pass. It works all the same.
 
-Right now, as you read, nothing is wrong. You're free, you're forgiven, and you're breathing. Start from there, and start from there again tomorrow.
+Right now, nothing's wrong. You're free, you're forgiven, and you're breathing. Start from there, and start again from there tomorrow.
 
 ## What goes in the space {-}
 
-You have your space back: the hours, the energy and the attention the habit used to eat. The room was never his, and it isn't empty. It's yours, and if you're a Christian, you share it with its owner. Spend those hours well.
+You've got your space back: the hours, the energy and the attention the habit used to eat. The room was never his, and it isn't empty. It's yours, and if you're a Christian, you share it with its owner. Spend those hours well.
 
-For a Christian that means God first: not as a guard posted at the door, but as the one you were made to enjoy. Pray like a man with nothing to hide, because you have nothing to hide. Open the Bible because you want to. Sit in church without the old feeling of being a fraud in a pew.
+For a Christian that means God first. Not as a guard posted at the door, but as the one you were made to enjoy. Pray like a man with nothing to hide, because you've got nothing to hide. Open the Bible because you want to. Sit in church without feeling like a fraud in a pew.
 
-For any man it means the people in front of you. Your wife, who is owed the whole of you now, and who may need time. Your children, who get a father who isn't half elsewhere. Your friends and your work, and the thing you always meant to build. If you have no wife and no children, the list is no shorter. It starts with the friends you let drift.
+For any man it means the people in front of you. Your wife, who's owed the whole of you now, and who may need time. Your children, who get a father who isn't half elsewhere. Your friends, your work, and the thing you always meant to build. No wife, no children? The list isn't any shorter. It starts with the friends you let drift.
 
-If you're not a believer, here is one honest suggestion, and then I'll leave it alone. This book has leaned on an old book from start to finish, and you may have noticed how often it got your life right. If it did, ask where those ideas came from. Read the Gospel of Mark. It's the shortest of the four accounts of Jesus's life, and you can read it in an evening. Or pray once, even if you aren't sure anyone is listening: "God, if you're there, show me." You've got nothing to lose. You've just learned that about lust.
+If you're not a believer, here's one honest suggestion, and then I'll leave it alone. This book has leaned on an old book from start to finish, and it keeps getting your life right. Ask where those ideas came from. Read the Gospel of Mark. It's the shortest of the four accounts of Jesus's life, and you can read it in an evening. Or pray once, even if you aren't sure anyone's listening: "God, if you're there, show me." You've got nothing to lose. You've just learned that about lust.
 
 ## What it was for {-}
 
 Stopping was never the whole point. A man can stop and still be small.
 
-The point was to become a man whose desires are in their right order. A man who has command of himself. A man who can love a woman without using her, and look at any woman without taking. A man with his strength back, who spends it on something greater than himself. That is what your grit was for.
+The point was to become a man whose desires are in their right order. A man in command of himself. A man who can love a woman without using her, and look at any woman without taking. A man with his strength back, spending it on something greater than himself. That's what your grit was for.
 
-That is a bigger thing than quitting a habit. It is yours to grow into for the rest of your life.
+That's bigger than quitting a habit. You'll be growing into it for the rest of your life.
 
 ## Pass it on {-}
 
 This book is open. You may copy it, print it, translate it and hand it around without asking anyone. It came the same way, from Allen Carr through the people behind EasyPeasy, and the Attribution page has the details. Jesus put the principle in one short sentence when he sent his disciples out: "Freely you received, so freely give."
 
-So tell one man. You already have his name. Send him the book with one line: "This worked for me." Don't preach it and don't argue it. The men who need it will read it at one in the morning, on their own, the way you probably did.
+So tell one man. You already have his name. Send him the book with one line: "This worked for me." Don't preach it and don't argue it. The men who need it will read it at one in the morning, alone, the way you probably did.
 
-Lust has been made normal, and the whole machine runs on one fuel: men who can't look away. Every man who walks out stops paying for it. It ends one free man at a time, and you are one of them now.
+Lust has been made normal, and the whole machine runs on one fuel: men who can't look away. Every man who walks out stops paying for it. It ends one free man at a time, and you're one of them now.
 
 ## One last look {-}
 
-Look back at the house for a moment. The Little Monster had no body of his own. He lived on what you lent him: your eyes, your mind, your hand, your feet and your bed. You didn't get rid of him by sweeping harder. You saw that he had never paid a day's rent, and you showed him the door. The lies came down one at a time. Open the windows. The smell will be gone in a day or two. If an old thought ever drifts past, you know what it is. Let it go by.
+Look back at the house for a moment. The Little Monster had no body of his own. He lived on what you lent him: your eyes, your mind, your hand, your feet and your bed. You didn't get rid of him by sweeping harder. You saw that he'd never paid a day's rent, and you showed him the door. The lies came down one at a time. Open the windows. The smell will be gone in a day or two. If an old thought ever drifts past, you know what it is. Let it go by.
 
-And the man on the couch? His phone is lying face up on the cushion tonight, and he hasn't given it a thought.
+And the man on the couch? His phone's lying face up on the cushion tonight, and he hasn't given it a thought.
 
-And the man in the bed at two in the morning? He is asleep. His phone is charging in the kitchen.
+And the man in the bed at two in the morning? He's asleep. His phone is charging in the kitchen.
 
 And the single man? He had dinner with friends on Friday, and on Saturday morning nobody was looking for shoes.
 

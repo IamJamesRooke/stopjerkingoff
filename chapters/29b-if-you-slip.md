@@ -6,28 +6,28 @@
 
 I hope you never need this chapter. It gives no permission. The rule stands: not once, for any reason.
 
-The rule is strict, and the grace is real. A soldier who trips on the march doesn't desert. He gets up and gets back in line. So here is what to do if you fall.
+The rule is strict, and the grace is real. A soldier who trips on the march doesn't desert. He gets up and gets back in line. Here's how.
 
 ## Am I back to zero? {-}
 
-No. There's no counter in this book, so there's no zero to go back to. Your freedom was never a number. A man in a recovery group pictured it as a row of hurdles. You cleared ten cleanly and stumbled on the eleventh. That doesn't mean you have to go back and start the race again.
+No. There's no counter in this book, so there's no zero to go back to. Your freedom was never a number. A man in a recovery group pictured a row of hurdles. You cleared ten and clipped the eleventh. You don't start the race over.
 
-But don't shrug it off. Something real happened. You fed the Little Monster and your conscience knows it. It makes no difference whether it was porn, the hand, a message to a woman you had sworn off, or a bed. Do three things, in this order.
+Don't shrug it off, though. You fed the Little Monster and your conscience knows it. Porn, the hand, a message to a woman you'd sworn off, a bed: same thing. Do three things, in this order.
 
 *Confess it today.* Don't wait until you've punished yourself for a week. If you're Catholic, that means Confession, and don't put it off. "If we confess our sins, he is faithful". That promise wasn't only for the first time. The proverb says, "a righteous man falls seven times and rises up again". It doesn't say he never falls. It says he gets up. If you're married, don't start a new secret. Agree with your wife what she wants to be told, and tell the man you told. And remember the two words spoken to the son who still smelled of yesterday: just come.
 
-*Refuse the second one.* The real danger was never the fall. It's the thought that arrives an hour later: "Well, I've ruined it now, so I may as well." That's the streak counter talking. One fall is a fall. A week of "may as well" is the trap. What you feel after a fall is mostly fear. A man who decides he's "hooked for life" after one slip has scared himself back inside.
+*Refuse the second one.* The real danger was never the fall. It's the thought that shows up an hour later: "Well, I've ruined it now, so I may as well." That's the streak counter talking. One fall is a fall. A week of "may as well" is the trap. After a fall, what you mostly feel is fear, and a man who decides he's "hooked for life" after one slip has scared himself right back inside.
 
-*Find the lie that crept back.* A fall usually means an old lie got back in. You doubted, or you waited, or you kept a substitute, or you "tested" yourself, or you'd kept a way back. Nothing you learned in this book has been unlearned. Find the gap, read that part again if it helps, take the final step again and be glad again.
+*Find the lie that crept back.* A fall usually means an old lie got back in. You doubted, or you waited, or you kept a substitute, or you "tested" yourself, or you kept a way back. Nothing you learned in this book has been unlearned. Find the gap, read that part again if it helps, take the final step again and be glad again.
 
 ## The lies that follow a slip {-}
 
-The forums call it a "relapse" and reset the counter. The word does damage of its own. It turns one stupid act into an identity: *I'm a relapser.* What happened is smaller. You slipped, you fed the Little Monster, and now the Big Monster is telling you lies. Learn to recognize them.
+The forums call it a "relapse" and reset the counter. The word does damage of its own. It turns one stupid act into an identity: *I'm a relapser.* What happened is smaller. You slipped, you fed the Little Monster, and now the Big Monster is lying to you. Learn to spot the lies.
 
 - **"I'll never be free."** One slip has become a life sentence. Would you say that to a friend?
-- **"From now on I must be perfect: up at five, cold shower, an hour of prayer, no sugar."** That is guilt posing as discipline. You'll keep it up for four days, collapse, and reach for comfort.
+- **"From now on I must be perfect: up at five, cold shower, an hour of prayer, no sugar."** That's guilt posing as discipline. You'll keep it up for four days, collapse, and reach for comfort.
 - **"Other men are on day two hundred and I can't manage twenty. I must be a hopeless case."** You're comparing yourself with a number on a stranger's screen. You don't know how he's doing, and it doesn't matter.
-- **"I shouldn't even feel desire."** Yes, you should. If you believe in God, desire was his idea. You're a man and not a statue. Noticing that a woman is beautiful is not a fall. The sin was never the noticing. It was the second look, the one you take on purpose.
+- **"I shouldn't even feel desire."** Yes, you should. If you believe in God, desire was his idea. You're a man, not a statue. Noticing that a woman is beautiful is not a fall. The sin was never the noticing. It was the second look, the one you take on purpose.
 
 Every one of those thoughts feels like repentance, and none of them is. Repentance is quick and it faces forward.
 
@@ -35,15 +35,15 @@ Every one of those thoughts feels like repentance, and none of them is. Repentan
 
 Religious men get one snare all to themselves.
 
-A man follows this method and finds stopping easy. Then he feels guilty that it was easy. Surely, after all those years, it ought to cost something. Surely he should suffer a little, as payment. So some part of him sets about making it hard. He broods and punishes himself. He even half welcomes a fall, so that he can feel truly wretched afterward.
+A man follows this method and finds stopping easy. Then he feels guilty that it was easy. After all those years, surely it ought to cost something. Surely he should suffer a little, as payment. So he sets about making it hard. He broods. He punishes himself. He even half welcomes a fall, so he can feel truly wretched afterward.
 
-See that for what it is: the old lie dressed up as holiness. Brooding and self-punishment aren't humility. If you're a Christian you know perfectly well who paid, and it wasn't you. Christ paid the debt in full. If you're Catholic and your priest gives you a penance, that is a different thing. It's medicine for the soul. It doesn't pay for your forgiveness. Christ did that. You don't owe misery on top. Take the freedom and be glad of it.
+See that for what it is: the old lie in a holy costume. Brooding and self-punishment aren't humility. If you're a Christian you know perfectly well who paid, and it wasn't you. Christ paid the debt in full. If you're Catholic and your priest gives you a penance, that's a different thing. It's medicine for the soul. It doesn't pay for your forgiveness. Christ did that. You don't owe misery on top. Take the freedom and be glad of it.
 
 ## Remember the bleach {-}
 
-If a slip has left you taking the whole business very solemnly, remember the men on the forum who were trying not to drink bleach.
+If a slip has you taking the whole business very solemnly, remember the men on the forum who were trying not to drink bleach.
 
-If you slipped, the lesson is not "try harder". Somewhere you started believing again that the glass had something to offer. The world repeats its lies daily, so it does no harm to hear the truth twice.
+If you slipped, the lesson is not "try harder". Somewhere you started believing again that the glass had something to offer. The world repeats its lies daily, so hearing the truth twice does no harm.
 
 That is everything you need for yourself. The last job is for somebody else.
 

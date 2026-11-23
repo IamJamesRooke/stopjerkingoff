@@ -4,31 +4,31 @@
 >
 > — Galatians 5:1
 
-You know what lust is, and you know what you are for. You are ready for the final step.
+You know what lust is, and you know what you're for. You're ready for the final step.
 
-It is not a final session. There is no "one last time" in this book. Nobody sins once more for old times' sake on his way out of a sin. And you don't need to. Whenever your last time was, it's behind you now. You didn't mark it with a ceremony, and that's the right send-off for a thing that was never worth anything.
+It's not a final session. There's no "one last time" in this book. Nobody sins once more for old times' sake on his way out of a sin, and you don't need to. Whenever your last time was, it's behind you now. You didn't hold a ceremony for it, and that's the right send-off for a thing that was never worth anything.
 
-If you had already stopped before you got here, good. Stay stopped, and take this step all the same. It says out loud what you have been doing.
+Already stopped before you got here? Good. Stay stopped, and take this step anyway. It says out loud what you've been doing.
 
-The final step is a decision, spoken out loud. For a believer it is a prayer, and for a man who doesn't pray there is a version right after it. Before you take it, ask yourself one thing. Does some part of you still believe lust has something to give you? If so, don't take the step yet.
+The final step is a decision, spoken out loud. For a believer it's a prayer, and for a man who doesn't pray there's a version right after it. Before you take it, ask yourself one thing. Does some part of you still believe lust has something to give you? If so, don't take the step yet.
 
-One thing doesn't count against you. The orgasm feels good for a few seconds, and nobody here says otherwise. Sugar tastes sweet to the man it is ruining. The question is whether those seconds are a benefit. Name the one thing you still think it gives you. Go back to that one room and look again. Then come straight back here. Reading the whole book again is one more way of saying later.
+One thing doesn't count against you. The orgasm feels good for a few seconds, and nobody here says otherwise. Sugar tastes sweet to the man it's ruining. The question is whether those seconds are a benefit. Name the one thing you still think it gives you. Go back to that one room and look again, then come straight back here. Reading the whole book again is just one more way of saying later.
 
-You don't have to feel brave, and you don't need a clean record behind you. A man who has failed fifty times takes this step exactly like a man who has never tried.
+You don't have to feel brave, and you don't need a clean record. A man who's failed fifty times takes this step exactly like a man who's never tried.
 
 Nobody *decides* to fall into this trap. You wandered in as a boy. But the trap is built to hold you for life, and nobody wanders out of it. Getting out takes one clear, positive decision, and you're about to make it.
 
 ## "But I've promised this before" {-}
 
-Of course you have, and you broke it every time. You may be afraid of breaking another.
+Of course you have, and you broke it every time. Maybe you're afraid of breaking another.
 
-What were you promising then? You promised to go without something you still wanted. That was a vow against yourself, and half of you never signed it. Today is different, because there's nothing left that you want from lust. You're only putting into words what has already happened in your head.
+What were you promising then? You promised to go without something you still wanted. That was a vow against yourself, and half of you never signed it. Today's different. There's nothing left you want from lust. You're only putting into words what's already happened in your head.
 
-So don't think about failing. This time you aren't climbing by willpower. You're walking out through an open door, and you can enjoy the walk. If you're a Christian, you also have something stronger than your own word to stand on. A Christian counselor wrote it about pornography, and it holds for every form lust takes: "Jesus' grace to change you is stronger than pornography's power to destroy you."
+So don't think about failing. You're not climbing by willpower this time. You're walking out through an open door, and you can enjoy the walk. If you're a Christian, you also have something stronger than your own word to stand on. A Christian counselor wrote it about pornography, and it holds for every form lust takes: "Jesus' grace to change you is stronger than pornography's power to destroy you."
 
 Maybe you feel you've failed too often to come back again. Hear a man who felt exactly that. He pictures the prodigal son, the runaway in Jesus's story, halfway home. In his picture the son protests, "But God, I still smell like yesterday." And the Father answers with two words: "Just come." He adds, for every man reading: "You're not too dirty. You're not too far."
 
-Jesus asked for plain speech: "But let your 'Yes' be 'Yes' and your 'No' be 'No.'" That is all this step is: a plain No that you mean. You are showing the Little Monster the door, once, and you already know that he has nothing you want. He may knock for a few days. Nobody is going to answer. Out there he starves, and in a few weeks he is gone.
+Jesus asked for plain speech: "But let your 'Yes' be 'Yes' and your 'No' be 'No.'" That's all this step is: a plain No that you mean. You're showing the Little Monster the door, once, and you already know he has nothing you want. He may knock for a few days. Nobody's going to answer. Out there he starves, and in a few weeks he's gone.
 
 ## If there is another person {-}
 
@@ -78,9 +78,9 @@ Here is how.
 
 Add what it cost you, in your own words. Don't cut anything from the No.
 
-That is the decision, and it counts in full. A decision you've only thought is easy to un-think. One you've spoken has been heard, if only by you. If one day you want to pray the other version, it will still be here.
+That's the decision, and it counts in full. A decision you've only thought is easy to un-think. One you've spoken has been heard, if only by you. If one day you want to pray the other version, it will still be here.
 
-If you're Catholic, take this to Confession as well, and soon. The Church asks Catholics to bring sins like this to a priest. Many men say that was the moment the weight came off. Your priest has heard it all before, and he is bound never to repeat a word of it.
+If you're Catholic, take this to Confession as well, and soon. The Church asks Catholics to bring sins like this to a priest. Many men say that was the moment the weight came off. Your priest has heard it all before, and he's bound never to repeat a word of it.
 
 **4. Then stand up and say it:**
 

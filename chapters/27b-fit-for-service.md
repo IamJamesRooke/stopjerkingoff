@@ -4,39 +4,39 @@
 >
 > — 2 Timothy 2:4
 
-You are not only being set free from something. You are being set free for something.
+You're not only being set free from something. You're being set free for something.
 
 ## Who gains? {-}
 
 Ask one more question. Who gains from your habit?
 
-You don't. So who does? There are companies that earn more the longer you stay aroused, alone and tired. And behind the companies, something does better when men are numb and spent. A Christian has a name for that something, and Peter warned the people he loved about him: "Be sober and self-controlled. Be watchful. Your adversary, the devil, walks around like a roaring lion, seeking whom he may devour." If you don't believe in a devil, call it a business model. It is working on you either way.
+You don't. So who does? There are companies that earn more the longer you stay aroused, alone and tired. And behind the companies, something does better when men are numb and spent. A Christian has a name for that something, and Peter warned the people he loved about him: "Be sober and self-controlled. Be watchful. Your adversary, the devil, walks around like a roaring lion, seeking whom he may devour." If you don't believe in a devil, call it a business model. It's working on you either way.
 
-And it never has to fight you. Take a man with people to love and work to do. Perhaps he has something to build that would do some good in the world. How do you stop him? Show him a little skin on a screen and he takes himself off the field. Twenty minutes later he is spent, and no use to anybody until tomorrow. Tomorrow you can do it again. It's the cheapest victory there is. The enemy of mankind has one trick, and it is the one that works on a boy of fourteen.
+And it never has to fight you. Take a man with people to love and work to do. Maybe he has something to build that would do some good in the world. How do you stop him? Show him a little skin on a screen and he walks himself off the field. Twenty minutes later he's spent, and no use to anybody until tomorrow. Then you do it again tomorrow. It's the cheapest victory there is. The enemy of mankind has one trick, and it's the one that works on a boy of fourteen.
 
-None of that is an excuse. The apostle James won't let a man say the devil made him do it: "each one is tempted when he is drawn away by his own lust and enticed." The bait is dangled, but the appetite is yours. That is good news, because it means the way out is yours as well.
+None of that is an excuse. The apostle James won't let a man say the devil made him do it: "each one is tempted when he is drawn away by his own lust and enticed." The bait is dangled, but the appetite is yours. That's good news, because it means the way out is yours as well.
 
-Now think what all this says about you. Nobody bothers to distract a man who doesn't matter. You were worth taking out of the fight.
+Think what that says about you. Nobody bothers to distract a man who doesn't matter. You were worth taking out of the fight.
 
 It worked on a king. David saw a woman from his roof, took her, and had her husband Uriah killed to hide it. Uriah slept at the palace door, drunk, and was still fit for service. David, sober, was no use to anybody.
 
 ## Drunk on duty {-}
 
-You may be a Christian, on God's side and loved by him. "There is therefore now no condemnation" is as true today as it ever was. And you were made on purpose. Paul says the work was planned as well as the man: "we are his workmanship, created in Christ Jesus for good works, which God prepared before that we would walk in them." There is something with your name on it that nobody else is going to do.
+You may be a Christian, on God's side and loved by him. "There is therefore now no condemnation" is as true today as it ever was. And you were made on purpose. Paul says the work was planned as well as the man: "we are his workmanship, created in Christ Jesus for good works, which God prepared before that we would walk in them." There's something with your name on it that nobody else is going to do.
 
-But a man ruled by lust is still the soldier who shows up drunk for duty. He is loved, he is enlisted, and he is unfit for service. He can't fight at full strength, and the people counting on him get less than the whole of him. You know who they are. Paul puts being sober and being armed in one breath: "since we belong to the day, let's be sober, putting on the breastplate of faith and love, and for a helmet, the hope of salvation." Sober comes first, and then the armor.
+But a man ruled by lust is still the soldier who shows up drunk for duty. He's loved, he's enlisted, and he's unfit for service. He can't fight at full strength, and the people counting on him get less than all of him. You know who they are. Paul puts being sober and being armed in one breath: "since we belong to the day, let's be sober, putting on the breastplate of faith and love, and for a helmet, the hope of salvation." Sober comes first, and then the armor.
 
-So get the order right. Men who have quit drinking have a saying that fits here: whatever you put ahead of staying sober, you will lose. Read "sober" as "free of lust". For a Christian, God comes first, and getting free is how a man gets back to putting him there. Putting it first doesn't mean building your life around it. It means settling it, so you can get on with everything else. A sober soldier doesn't spend the day thinking about drink. He does his job.
+So get the order right. Men who have quit drinking have a saying that fits here: whatever you put ahead of staying sober, you'll lose. Read "sober" as "free of lust". For a Christian, God comes first, and getting free is how a man gets back to putting him there. Putting it first doesn't mean building your life around it. It means settling it, so you can get on with everything else. A sober soldier doesn't spend the day thinking about drink. He does his job.
 
-If you're not a believer, keep the picture and change the flag. You still have people who depend on you and work that is yours to do. You have been showing up to both half-present. The order is the same for you.
+If you're not a believer, keep the picture and change the flag. You still have people who depend on you and work that's yours to do. You've been showing up to both half-present. The order's the same for you.
 
-Here is the good news, and the reason this book exists. Lust is not hard to settle. Nobody is sending you on a ten-year campaign. You have read this far, and you know what lust is: a trick, an itch that feeds itself, a lie about comfort. It doesn't take courage to put down a thing you have seen through. Save your courage for the service. You will need it there. The first job will be small: one man who is still where you were.
+Here's the good news, and the reason this book exists. Lust isn't hard to settle. Nobody's sending you on a ten-year campaign. You've read this far, and you know what lust is: a trick, an itch that feeds itself, a lie about comfort. Putting down a thing you've seen through takes no courage. Save yours for the service. You'll need it there. The first job will be small: one man who's still where you were.
 
-And being fit is not the price of being loved. It is what a loved man is for.
+And being fit isn't the price of being loved. It's what a loved man is for.
 
 The prophet Isaiah once saw a vision of God on his throne. His first words were, "Woe is me!", because he knew what he was. Then an angel touched his lips with a coal from the altar and told him his sin was forgiven. And when God asked, "Whom shall I send, and who will go for us?", the forgiven man didn't hesitate. He said, "Here I am. Send me!"
 
-You are about to say it. But laugh first.
+You're about to say it. But laugh first.
 
 <!-- REWRITTEN 2026-11-17 after the reader report: the chapter is shorter, the David section names Bathsheba and Uriah as people who were harmed, and the Ai passage, the Lewis, Nehemiah, Psalm 139, Titus, 2 Timothy 2:21 and Hebrews 12 quotations and two pastors' lines were cut. Source lines below for cut quotations are kept for the record. Bathsheba is named in 2 Samuel 11:3; David "sent messengers, and took her" (11:4); the letter is 11:14-15; the child dies in 12:18. These are retold, not quoted.
 SOURCES (Fit for Service, unnumbered chapter before Chapter 28; added 2026-11-15): the framing is James's own (a soldier showing up drunk for duty; loved but unfit for service; fire support; "if you aren't putting your recovery first you are putting everything else last"). Research: research/round4/findings.md and research/round5/findings.md.

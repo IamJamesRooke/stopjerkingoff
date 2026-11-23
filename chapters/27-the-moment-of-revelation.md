@@ -6,37 +6,37 @@
 
 Some time after he stops, many a man has a moment when he simply knows he's free.
 
-It's hard to describe and impossible to mistake. The day looks brighter. Up to then you've been *telling* yourself that you don't need the habit. In this moment you find you no longer have to tell yourself anything. The last thread has gone. You know you're done with it, and you don't want it back. From then on you look at men who are still in the trap and feel only pity.
+It's hard to describe and impossible to mistake. The day looks brighter. Up to then you've been *telling* yourself you don't need the habit. Now you don't have to tell yourself anything. The last thread has gone. You're done with it, and you don't want it back. From then on you look at men still in the trap and feel only pity.
 
 One of the Psalms has a picture of it. "Our soul has escaped like a bird out of the fowler's snare." A fowler is a man who traps birds. The bird is out, and the snare lies broken on the ground behind it. The next line says who broke it: "Our help is in the LORD's name, who made heaven and earth."
 
 ![](images/illustrations/moment-the-broken-snare.png){.illustration width=80%}
 
-Men who stop by willpower rarely get this moment. They're glad they've stopped, but they go through life believing they gave something up. For them the weight never comes off.
+Men who stop by willpower rarely get this moment. They're glad they've stopped, but they go through life believing they gave something up. The weight never comes off.
 
 The deeper in you were, the better the moment is, and it doesn't wear off. Most joys fade. You remember that your wedding day or your first paycheck was wonderful, but you can't call the feeling back. This one you can. On a gray afternoon years from now you'll be able to stop and think, "I don't do that anymore," and feel glad again.
 
 ## When does it come? {-}
 
-Nobody has measured this, so take it as testimony and not as a schedule. Men who report a moment usually put it in the first week or two. Plenty never get one. They just notice one day that it has been quiet for a while.
+Nobody has measured this, so take it as testimony and not as a schedule. Men who report a moment usually put it in the first week or two. Plenty never get one. They just notice one day that it's been quiet for a while.
 
-For some men it comes on the first day. With some readers it happens before the book is finished. Somewhere in the middle chapters they put it down and say, "That's enough. I can see the whole thing. I'm done." One reader of EasyPeasy, twelve days out, had already stopped thinking of himself as a man holding on: "I just refer to myself as 'nonuser'", he wrote, and "I feel much happier as nonuser."
+For some men it comes on the first day. For some readers it comes before the book is finished. Somewhere in the middle chapters they put it down and say, "That's enough. I can see the whole thing. I'm done." One reader of EasyPeasy, twelve days out, had already stopped thinking of himself as a man holding on: "I just refer to myself as 'nonuser'", he wrote, and "I feel much happier as nonuser."
 
 For others it comes on like a dawn. One young man, telling how God freed him, was careful to say so: "this wasn't something that happened overnight". The slow kind is no less free. If yours comes by degrees, or you can never name the day, you haven't done it wrong.
 
-When it does come as a moment, it usually comes in one of the old danger spots. The empty house, the sleepless night, the evening after a fight. You get to the far side and realize that you coped perfectly well, or even enjoyed yourself. The thought of the habit never crossed your mind.
+When it does come as a moment, it usually comes in one of the old danger spots. The empty house, the sleepless night, the evening after a fight. You get to the far side and realize you coped perfectly well, or even enjoyed yourself. The thought of the habit never crossed your mind.
 
 For the man on the couch it comes like this. His wife reaches across and picks up his phone to check the time, and nothing in his chest jumps. Only afterward does he notice that the phone was lying face up.
 
 ## Don't test it {-}
 
-One warning belongs here. A few weeks in, a man senses that the desire has gone, and he wants proof. "I'll just see. If it does nothing for me, I'll know I've beaten it." That test is the Little Monster's first meal in weeks, and it is how a great many willpower attempts end.
+A few weeks in, a man senses that the desire has gone, and he wants proof. "I'll just see. If it does nothing for me, I'll know I've beaten it." That test is the Little Monster's first meal in weeks, and it's how a great many willpower attempts end.
 
-You will never need to test your freedom. Every test of it is the habit under another name.
+You'll never need to test your freedom. Every test of it is the habit under another name.
 
 ## Don't wait for it {-}
 
-Don't sit waiting for the moment. The habit is finished the minute you decide. The Little Monster's supply is cut off. Nothing on earth can stop you being free then, unless you sit moping or wait for a sign.
+Don't sit waiting for the moment. The habit is finished the minute you decide. The Little Monster's supply is cut off. Nothing can stop you being free then, unless you sit moping and wait for a sign.
 
 If you're a Christian you have firmer ground than a feeling. Paul says that if anyone is in Christ, "he is a new creation. The old things have passed away." He wrote that as a fact about you, and the feeling will catch up with the fact.
 

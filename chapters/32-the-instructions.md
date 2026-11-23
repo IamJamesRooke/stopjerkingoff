@@ -1,21 +1,21 @@
 # The Rules in One Place {#the-instructions}
 
-Here is the whole method, to carry with you. It fits in two words: decide and rejoice. These ten rules spell it out. They are for the man who has taken the final step. If you haven't yet, you have one instruction only: read the book in order.
+Here's the whole method, to carry with you. Two words: decide and rejoice. These ten rules spell it out. They're for the man who's taken the final step. If you haven't yet, you have one instruction. Read the book in order.
 
 1. Be glad. You've been let out, so don't mope.
 2. Ignore advice to count days, cut down or "moderate". Never ignore your doctor, your counselor or your pastor.
 3. Refuse every stopgap and every substitute.
-4. Get it straight: the few seconds feel good, and you pay for them before and after. Lust has no benefits at all. You are giving up nothing.
+4. Get it straight: the few seconds feel good, and you pay for them before and after. Lust has no benefits at all. You're giving up nothing.
 5. Don't wait for a better day. You stopped at the final step. Stay stopped.
 6. You said your plain No, once and outright. Give no reason, don't soften it, and never answer again.
 7. "Just once" does not exist.
 8. Never go back. Not to the porn, the hand, the feed or the fantasy, and not to the chase or any bed outside marriage.
 9. Stay close to God. Pray, read the Bible, and find a church. You aren't guarding a door. You're getting to know the one who opened it. If you're not a believer, stay close to the people who make you want to be this man.
-10. You are fit for service now. Go back for one man, and hand him this book.
+10. You're fit for service now. Go back for one man, and hand him this book.
 
 ## Verses for the moment {-}
 
-Here are four older lines to keep. Learn one or two by heart. They aren't for shouting back at the Little Monster, because he gets no answer. They are for you, on any ordinary day, to remember whose you are. If you're not a believer, borrow them anyway. They will serve you better than a slogan.
+Four older lines to keep. Learn one or two by heart. They're not for shouting at the Little Monster, because he gets no answer. They're for you, on any ordinary day, to remember whose you are. If you're not a believer, borrow them anyway. They'll serve you better than a slogan.
 
 > "For sin will not have dominion over you, for you are not under law, but under grace."
 >
@@ -33,7 +33,7 @@ Here are four older lines to keep. Learn one or two by heart. They aren't for sh
 >
 > — John 8:36
 
-Those are the rules. All that's left is to send you off.
+That's the list. Time to send you off.
 
 <!-- SOURCES (Chapter 32): no quotations other than Scripture.
 - The first ten instructions follow EasyPeasy's list in order, reworded for this book. The eleventh (go back for one man) is ours, added in the 2026-11-17 editorial pass. Instruction 8 swaps the bare decision in EasyPeasy's eighth instruction for the prayer and vow of Chapter 28.

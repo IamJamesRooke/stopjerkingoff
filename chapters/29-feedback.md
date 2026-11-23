@@ -4,27 +4,27 @@
 >
 > — Proverbs 24:16
 
-This book has no quarrel with the man in the trap. Its quarrel is with the trap. When the method goes wrong for a man, the cause is one of four things. Two are fears that come back and make him doubt, and two are mistakes in carrying it out.
+This book has no quarrel with the man in the trap. Its quarrel is with the trap. When the method goes wrong, it's one of four things. Two are fears that creep back and make him doubt. Two are mistakes in carrying it out.
 
 ## 1. Fear of failure {-}
 
-Failing is no disgrace. If the fear of failing comes back after you have decided, ask what it is protecting. Nothing. A man who falls has fed the Little Monster once more, and he gets up the same day.
+Failing is no disgrace. If the fear of failing creeps back after you've decided, ask what it's protecting. Nothing. A man who falls has fed the Little Monster once more, and he gets up the same day.
 
 ## 2. Fear of being miserable {-}
 
-Ask the cold question. What terrible thing will happen to you if you never touch the habit again? Nothing. All the terrible things lie the other way.
+Ask the cold question. What terrible thing happens if you never touch the habit again? Nothing. Every terrible thing lies the other way.
 
-The panic itself is part of what the habit did to you, and it passes. If it rises, breathe slowly. If people are grinding you down, step outside. Stand in the parking lot for five minutes.
+The panic is part of what the habit did to you, and it passes. Breathe slowly. If people are grinding you down, step outside and stand in the parking lot for five minutes.
 
-And if you feel like crying, cry. We teach boys to clench their jaws and swallow it, and it does them no good. King David wept, and so did Jesus.
+And if you feel like crying, cry. We teach boys to clench their jaws and swallow it, and it does them no good. King David wept. So did Jesus.
 
 One serious word. What you feel may be darker than a bad day. If you find yourself thinking about harming yourself, put this book down and talk to someone today: a doctor, a pastor, a crisis line. That isn't the Little Monster, and no book is the right tool for it.
 
-And one more, said as gently as I know how. For some men this habit didn't begin with curiosity. It began after something was done to them as children. One therapist was abused himself. He says that most of the men who come to him were too, and that most have never told a soul. If that is part of your story, hear two things. What was done to you was not your sin. And telling someone who knows how to help, a counselor trained in trauma, is part of getting free. This book can clear away the lies about the habit, but it can't do that work for you. The Appendix says where to start.
+One more, said as gently as I know how. For some men this habit didn't begin with curiosity. It began with something done to them as children. One therapist was abused himself. He says most of the men who come to him were too, and most have never told a soul. If that's your story, hear two things. What was done to you was not your sin. And telling someone trained in trauma is part of getting free. This book can clear away the lies about the habit, but it can't do that work for you. The Appendix says where to start.
 
 ## 3. Not following the rules {-}
 
-A man says the method didn't work for him. Then he describes how he ignored nearly all of it. He cut down, kept the folder, skipped the final step and counted days. The rules are gathered on one page near the end of this book, so that nobody can say he wasn't told.
+A man says the method didn't work. Then he describes ignoring nearly all of it. He cut down, kept the folder, skipped the final step and counted days. The rules are gathered on one page near the end of this book, so nobody can say he wasn't told.
 
 ## 4. Misunderstanding the rules {-}
 
@@ -32,37 +32,37 @@ These are the most common, in the words men use.
 
 **"When does the urge die?"**
 
-Nobody can give you a date, and you don't need one. The leftover itch is so faint that you can't tell it from hunger, tiredness or a flat mood. That's why willpower quitters never know whether they've made it. Months later they feel hungry or low, and their mind says, "That's it again. You're owed one."
+Nobody can give you a date, and you don't need one. The leftover itch is so faint you can't tell it from hunger, tiredness or a flat mood. That's why willpower quitters never know if they've made it. Months later they feel hungry or low, and their mind says, "That's it again. You're owed one."
 
-So don't wait for the urge to die. A man who waits keeps asking, "Is it gone yet?" That question breeds the very fear he hoped would go. 
+So don't wait for the urge to die. A man who waits keeps asking, "Is it gone yet?" That question breeds the very fear he wanted gone.
 
 If a twinge comes and you're a praying man, pray. One man wrote that whenever he does, he feels completely normal again. If you don't pray, say "I'm free" and get on with your day.
 
 **"I still want it."**
 
-Then ask which part of you is speaking. A twinge is not a wish. The Little Monster wants feeding, and you don't want what comes after. But if you really do believe there is still something in it for you, one of the old lies is still standing. There's no shame in that. Find which one, and read that chapter again.
+Then ask who's talking. A twinge is not a wish. The Little Monster wants feeding, and you don't want what comes after. But if you really do believe there's still something in it for you, one of the old lies is still standing. No shame in that. Find which one, and read that chapter again.
 
 **"I'm miserable and irritable."**
 
-Then something hasn't clicked yet. It happens. Some men understand every word of this book and believe it, and still set off like a man walking to the gallows. But you're doing the thing you most wanted to do, the thing every man in the trap wishes he could do. Whatever method a man uses, the goal is the same. Every thought of the habit ends with "I'm free". If that's where you want to finish, why not begin there?
+Then something hasn't clicked yet. It happens. Some men believe every word of this book and still set off like a man walking to the gallows. Yet you're doing the thing you most wanted to do, the thing every man in the trap wishes he could do. Whatever method a man uses, the goal is the same. Every thought of the habit ends with "I'm free". If that's where you want to finish, why not begin there?
 
-But hear this as well. If you have followed all of it, read the book twice, and are still struggling after a couple of months, that doesn't mean you misunderstood. Some men need a counselor as well as a book. That is the next step, and no defeat. And if you have felt low most of every day for more than two weeks, see a doctor.
+Hear this too. Say you've followed all of it, read the book twice, and you're still struggling after a couple of months. That doesn't mean you misunderstood. Some men need a counselor as well as a book. That's the next step, and no defeat. And if you've felt low most of every day for more than two weeks, see a doctor.
 
 ## And what about sex? {-}
 
 This book has nothing against sex. It's against the counterfeit.
 
-You already know where the line is. Sex belongs inside marriage. The letter to the Hebrews, in the New Testament, says, "Let marriage be held in honor among all, and let the bed be undefiled". That isn't because sex is dirty. It's because sex is strong. It ties two people together, and lust wants the tie without the promise. Within marriage, sex is a gift, and a married man who has stopped the habit shouldn't hold back from his wife.
+You already know where the line is. Sex belongs inside marriage. The letter to the Hebrews, in the New Testament, says, "Let marriage be held in honor among all, and let the bed be undefiled". That isn't because sex is dirty. It's because sex is strong. It ties two people together, and lust wants the tie without the promise. Within marriage, sex is a gift, and a married man who's stopped the habit shouldn't hold back from his wife.
 
 If you're not a believer, the test in your pocket gives the same answer. A gift, inside a promise already made? Or a hit?
 
 **"I'm single."**
 
-Then keep it for marriage. What you keep isn't lost. It is saved for her. And if she never comes, you have gone without a good thing, and that is a real cost. But it was never on your table. What you put down was an itch. The man who never does it isn't starving. Don't go looking for somebody to use in place of your hand. That is the same lust with another person in it.
+Then keep it for marriage. What you keep isn't lost. It's saved for her. And if she never comes, you've gone without a good thing, and that's a real cost. But it was never on your table. What you put down was an itch. The man who never does it isn't starving. Don't go hunting for somebody to use in place of your hand. That's the same lust with another person in it.
 
 **"I've already lived the other way."**
 
-Nobody here is piling on guilt. Christians say they aren't the people who got it right. They're the people who admitted they couldn't, and asked for help. Your past is forgiven the same way as everything else in this book. You confess it, and you start again.
+Nobody here is piling on guilt. Christians will tell you they aren't the people who got it right. They're the people who admitted they couldn't, and asked for help. Your past is forgiven the same way as everything else in this book. You confess it, and you start again.
 
 That leaves the question nobody likes to ask out loud. What if you fall?
 

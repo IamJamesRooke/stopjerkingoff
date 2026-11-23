@@ -11,23 +11,23 @@ This comes first, ahead of the book list, because it matters most.
 Are you thinking about ending your life or harming yourself? Is the darkness you're in deeper than a bad week? Then please stop reading and get help now.
 
 - **If you're in immediate danger, call your local emergency number.**
-- **Contact a crisis line in your country.** They are free, and the people who answer are trained for exactly this. A search will find one in a minute, and so will any doctor.
+- **Contact a crisis line in your country.** They're free, and the people who answer are trained for exactly this. A search will find one in a minute, and so will any doctor.
 - **Talk to someone today.** It could be a friend, a family member, a pastor or a doctor. Do it today, and say the true thing out loud to a human being.
 
-**If your own urges frighten you,** or what you look at has moved toward children, get help now. See a doctor or a counselor. There are also confidential services for exactly this, where trained people will help you without asking your name. You are not beyond help.
+**If your own urges frighten you,** or what you look at has moved toward children, get help now. See a doctor or a counselor. There are also confidential services for exactly this, where trained people will help you without asking your name. You're not beyond help.
 
-Suppose thoughts like that horrify you, arrive uninvited, and you would never act on them. That is often a treatable anxiety problem, and no sign that you are dangerous. Tell a doctor exactly that.
+Suppose thoughts like that horrify you, arrive uninvited, and you'd never act on them. That's often a treatable anxiety problem, not a sign that you're dangerous. Tell a doctor exactly that.
 
-What you're feeling is not the Little Monster, and it isn't a verdict on you. This habit loads a man with shame, and shame lies about how things will turn out. You're worth more than the worst thing you've done. No book can do the job of a person, though, so please go and find one.
+What you're feeling isn't the Little Monster, and it isn't a verdict on you. This habit loads a man with shame, and shame lies about how things will turn out. You're worth more than the worst thing you've done. No book can do the job of a person, though, so please go and find one.
 
 ## If it began with something done to you {-}
 
 For some men this habit started after they were abused as children, and most of them have never told anyone. If that's you, this section is yours.
 
-What was done to you was not your sin, and it wasn't your fault. The habit that grew up afterward is the kind this book can help with. The wound under it needs a person.
+What was done to you wasn't your sin, and it wasn't your fault. The habit that grew up afterward is the kind this book can help with. The wound under it needs a person.
 
 - **Tell one safe person.** A counselor trained in trauma is the best choice. Ask for exactly that, in those words: "trauma-informed". A good doctor can refer you.
-- **Use a sexual-abuse helpline.** They are free and confidential, and nobody there will be shocked. Search for one in your country, or ask a doctor.
+- **Use a sexual-abuse helpline.** They're free and confidential, and nobody there will be shocked. Search for one in your country, or ask a doctor.
 - **If the person who hurt you was in the church,** you may not want to begin with a pastor. Begin with a counselor or a helpline. God isn't offended.
 
 You don't have to tell the whole story on the first day. Saying one sentence to one person is enough to begin.
@@ -38,7 +38,7 @@ Most readers will never need more than this book and a friend. If you do, there'
 
 - **Your pastor, priest or an elder.** Tell him plainly, once, as a man giving news.
 - **A Christian counselor.** See one if the habit is tangled up with something older and heavier, such as grief, abuse or a marriage in trouble. If you're not a believer, any good counselor who takes the problem seriously will do.
-- **Your doctor.** See a doctor about sleep that doesn't improve, or a low mood that lasts more than two weeks. Do the same for low desire or erection trouble that lasts more than a few weeks. Erection trouble can be an early warning about the heart or the blood sugar. A doctor's instructions come before anything in this book. This is not a medical book. A doctor is the person to ask.
+- **Your doctor.** See a doctor about sleep that doesn't improve, or a low mood that lasts more than two weeks. Do the same for low desire or erection trouble that lasts more than a few weeks. Erection trouble can be an early warning about the heart or the blood sugar. A doctor's instructions come before anything in this book. This isn't a medical book. A doctor is the person to ask.
 - **One honest friend.** He's the cheapest help on this list and often the best.
 - **For wives.** You need someone of your own to talk to. That might be a wise older woman, a pastor or a counselor. Some counselors specialize in helping wives after a discovery like this. Ask for one who works with betrayal trauma.
 
@@ -46,15 +46,15 @@ I haven't listed organizations, phone numbers or programs by name. I don't know 
 
 ## Further reading {-}
 
-A short list. Everything on it was drawn on in writing this book.
+A short list. Everything on it helped in writing this book.
 
 - **[*EasyPeasy*](https://easypeasymethod.org/).** The online book that inspired this one. It deals with porn alone.
 - **Allen Carr, *The Easy Way to Stop Smoking*.** The method comes from here.
-- **Augustine, *Confessions*, Book 8.** The best account of a divided will that I know.
+- **Augustine, *Confessions*, Book 8.** The best account of a divided will I know.
 - **C.S. Lewis, *Mere Christianity*,** the chapter on sexual morality, and ***The Screwtape Letters*.**
-- **Heath Lambert, *Finally Free*.** It is about pornography, and grace is its subject from start to finish.
+- **Heath Lambert, *Finally Free*.** It's about pornography, and grace is its subject from start to finish.
 - **Thomas Chalmers, "The Expulsive Power of a New Affection".** One sermon on how a greater love pushes out a lesser one.
-- **The Catechism of the Catholic Church, paragraphs 2331 to 2400.** The Catholic Church's teaching on chastity. It is short, and you can read it online.
+- **The Catechism of the Catholic Church, paragraphs 2331 to 2400.** The Catholic Church's teaching on chastity. It's short, and you can read it online.
 - **Maxwell Maltz, *Psycho-Cybernetics*.** The ringing telephone in this book is his.
 
 The Attribution page names the other writers and speakers quoted in this book. A caution about forums: you'll find real honesty there, and you'll also find day counters, miracle claims and men on their fortieth reset. Read the testimonies if they help you. Leave the counters where they are.

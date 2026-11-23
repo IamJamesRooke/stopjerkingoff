@@ -4,37 +4,37 @@
 >
 > — Galatians 6:1
 
-Here is one last picture. Think of the trap as a ship, sitting low in the water. You're off it. Before you walk up the beach, turn around and look at who's still aboard.
+One last picture. The trap is a ship, sitting low in the water, and you're off it. Before you walk up the beach, turn around and look at who's still aboard.
 
 ![](images/illustrations/ship-men-still-aboard.png){.illustration width=80%}
 
-Your brother is on it. So are half the men you work with, most of the men at your gym, and quite possibly your son. From the shore you can see what none of them can: it is going down.
+Your brother's on it. So are half the men you work with, most of the guys at your gym, and quite possibly your son. From the shore you can see what none of them can. It's going down.
 
-Nothing keeps men aboard like the willpower quitter. He's on day nineteen of his streak, gray in the face, snapping at his wife and telling everyone who'll listen how hard it is. The men on the ship look at him and think, "If that's freedom, pass me my phone." His misery is the best advertisement the habit has.
+Nothing keeps men aboard like the willpower quitter. He's on day nineteen of his streak, gray in the face, snapping at his wife, telling anyone who'll listen how hard it is. The men on the ship take one look and think, "If that's freedom, pass me my phone." His misery is the best advertising the habit ever had.
 
-You can be a better advertisement for the shore.
+You can be better advertising for the shore.
 
 ## How to help {-}
 
-Remember what kept you aboard. You didn't stay because you loved it. You stayed because you were afraid: of the long nights, of going without, of failing yet again. Fear keeps a man on a sinking ship, and shouting from the beach only adds to it.
+Remember what kept you aboard. Not love. Fear. Fear of the long nights, of going without, of failing yet again. Fear keeps a man on a sinking ship, and shouting from the beach only adds to it.
 
 So don't shout. Take away the fear.
 
-Tell him what it's like on shore. Tell him how good it is to wake up with a clear head and a clean conscience. Tell him you sleep. Tell him you can look a woman in the face and have nothing to hide from her. If you pray, tell him you can do it without first clearing your throat. Tell him the shadow has lifted, and you miss nothing.
+Tell him what it's like on shore. Tell him how good it is to wake up with a clear head and a clean conscience. Tell him you sleep. Tell him you can look a woman in the face with nothing to hide. If you pray, tell him you can do it without clearing your throat first. Tell him the shadow has lifted, and you miss nothing.
 
-Tell him one more thing, because he's sure of the opposite: he is not alone. Every man on the ship thinks he's the only one aboard. It helps to hear otherwise from a man he respects.
+Then tell him the one thing he's sure is false. He's not alone. Every man on the ship thinks he's the only one aboard, and it helps to hear otherwise from a man he respects.
 
-Best of all, get him to read this book. One link is all it takes: [stopjerkingoff.com](https://stopjerkingoff.com/). Think of his name now, before you go on. He may be the man you asked to be shown.
+Best of all, get him to read this book. One link's all it takes: [stopjerkingoff.com](https://stopjerkingoff.com/). Think of his name now, before you go on. He may be the man you asked to be shown.
 
 ## Don't kick a man who's drowning {-}
 
 Whatever you do, don't look down on him.
 
-People say nobody is harder on a sinner than a reformed one. The cause is nearly always the Willpower Method. The man who stopped by gritting his teeth still half believes he gave up a treasure. That leaves him shaky, and a shaky man defends himself by attacking. So he lectures, sighs and posts sermons at his friends. The man on the receiving end feels more wretched than before, and heads for the one comfort he knows.
+They say nobody's harder on a sinner than a reformed one. Nearly always, the Willpower Method is to blame. The man who quit by gritting his teeth still half believes he gave up a treasure. That makes him shaky, and a shaky man defends himself by attacking. He lectures, sighs and posts sermons at his friends. They feel worse than before and head for the one comfort they know.
 
-You don't need to do that, because you're not shaky. You gave up nothing and you know it.
+You don't need that. You're not shaky. You gave up nothing and you know it.
 
-Paul told one of his churches what to do with a man caught in some fault. Those who are spiritual, he said, "must restore such a one in a spirit of gentleness". Restore him, and do it gently. Then comes the warning: "looking to yourself so that you also aren't tempted." The helper is never so far above the helped that he can't end up beside him.
+Paul told one of his churches what to do with a man caught in some fault. Those who are spiritual, he said, "must restore such a one in a spirit of gentleness". Restore him, and gently. Then comes the warning: "looking to yourself so that you also aren't tempted." The helper is never so far above the helped that he can't end up beside him.
 
 So never tell a married man he's as good as cheating. Never tell a teenager he's filthy. Both already say worse to themselves, every single time.
 
@@ -44,15 +44,15 @@ Some well-meant help makes things worse.
 
 A father finds out and takes the phone away for a month. A youth leader gets thirty boys to sign a pledge card. A man goes on a mission trip, shares a room with five others, and comes home proud of two clean weeks.
 
-All three stop the hand and leave the wanting where it was.
+All three stop the hand. All three leave the wanting right where it was.
 
-Ask the man back from the mission trip how the first night alone in his own house went. Being kept from the habit didn't shrink the desire. It taught him two things. The habit must be precious, since everyone works so hard to keep it from him. And he must be helpless, since he can't be trusted alone.
+Ask the man back from the mission trip how his first night alone went. Being kept from the habit didn't shrink the desire. It taught him two things. The habit must be precious, since everyone works so hard to keep it from him. And he must be helpless, since he can't be trusted alone.
 
-A son is the same. He doesn't need a fence. He needs what you now have: an explanation. He needs a father who can say, "I was caught in that for years. Here is how it works. Here is the way out."
+A son's the same. He doesn't need a fence. He needs what you've got now, an explanation. He needs a father who can say, "I was caught in that for years. Here's how it works. Here's the way out."
 
-One thing here is not a fence. A wife who asks to see her husband's phone is rebuilding trust, and that is hers to ask.
+One thing here isn't a fence. A wife who asks to see her husband's phone is rebuilding trust, and that's hers to ask.
 
-On the night Jesus was arrested, Peter said three times that he didn't know him. Jesus saw it coming, and he told Peter beforehand what to do afterward: "You, when once you have turned again, establish your brothers." Believer or not, it's still the best use anyone has found for a rescued man.
+On the night Jesus was arrested, Peter said three times that he didn't know him. Jesus saw it coming, and told Peter beforehand what to do afterward: "You, when once you have turned again, establish your brothers." Believer or not, nobody's found a better use for a rescued man.
 
 You've turned again. Now go back for your brothers.
 

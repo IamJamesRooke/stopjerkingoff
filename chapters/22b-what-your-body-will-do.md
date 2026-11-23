@@ -4,57 +4,57 @@
 >
 > — Psalm 139:14
 
-A man who stops is often caught off guard by his own body. It goes on being a man's body. Some of what it does will look, to a nervous man, like a sign that something has gone wrong. Nothing has. Here is what to expect.
+A man who stops is often caught off guard by his own body. It keeps right on being a man's body. Some of what it does will look, to a nervous man, like something's gone wrong. Nothing has. Here's what to expect.
 
 ## Four things that are not a slip {-}
 
 **Ordinary desire.** You're a man, and that isn't going to stop. You'll still notice a beautiful woman, and your body will still stir. What goes is the *need*, the nagging sense that something must be done about it. One man, seventy-six days in, described what's left: "I get urges. But wave them away like annoying flies."
 
-**Morning erections.** You'll wake up hard, as you did before. It isn't a temptation or a sign of anything. It's plumbing. Doctors say a morning erection can occur at any age, and that it is tied to the cycles of sleep. Don't test it to check that your body works. An erection is not an instruction. Get up and it goes.
+**Morning erections.** You'll wake up hard, same as before. It's not a temptation and it's not a sign of anything. It's plumbing. Doctors say a morning erection can occur at any age, and that it's tied to the cycles of sleep. Don't test it to check that your body works. An erection is not an instruction. Get up and it goes.
 
-**Wet dreams.** Sooner or later you'll probably have one. Doctors describe them as "orgasms during sleep that happen without conscious control". Sin needs a decision, and you weren't there to make one. It is not a sin, and it is not a slip. You have nothing to confess and nothing to reset. Change the sheets and carry on. But don't lie awake afterward replaying the dream. That part you *are* awake for.
+**Wet dreams.** Sooner or later you'll probably have one. Doctors describe them as "orgasms during sleep that happen without conscious control". Sin needs a decision, and you weren't there to make one. It's not a sin, and it's not a slip. Nothing to confess, nothing to reset. Change the sheets and carry on. Just don't lie awake afterward replaying the dream. That part you *are* awake for.
 
-**A flat spell.** Some men find that desire switches off altogether for a while. The forums call it the flatline. It is not a slip, and nothing suggests it is damage. But there is a trap inside it, and the trap has sent a great many men back. So it gets a warning of its own.
+**A flat spell.** Some men find that desire switches off altogether for a while. The forums call it the flatline. It's not a slip, and nothing suggests it's damage. But there's a trap inside it, and the trap has sent a great many men back. So it gets a warning of its own.
 
 ## The trap in the flat spell {-}
 
-It goes like this. A man stops, and for the first days his desire is loud. Then, somewhere in the first couple of months, it goes quiet. He stops waking up hard. A beautiful woman walks past and nothing stirs, and he feels unplugged below the waist. One man wrote that his body "literally 'died' on me. I lost my libido completely and felt depressed."
+Here's how it goes. A man stops, and for the first days his desire is loud. Then, somewhere in the first couple of months, it goes quiet. He stops waking up hard. A beautiful woman walks past and nothing stirs, and he feels unplugged below the waist. One man wrote that his body "literally 'died' on me. I lost my libido completely and felt depressed."
 
 Nobody warned him, so he draws the obvious conclusion. Stopping has broken him.
 
-He gets scared. So one night he decides to check, just to be sure everything still works. It works. And that ends his freedom for a long time, because he comes away sure of one thing: stopping is dangerous. It is false, and it keeps him in the trap.
+He gets scared. One night he decides to check, just to be sure everything still works. It works. And that ends his freedom for a long time, because he comes away sure of one thing: stopping is dangerous. It's false, and it keeps him in the trap.
 
-Look at who gains. For years the old voice told you that you wanted it too much to stop. Now it tells you that you don't want it enough, and had better do something about it. The complaint has turned right around. The cure hasn't changed at all.
+Look at who gains. For years the old voice told you that you wanted it too much to stop. Now it says you don't want it enough, and you'd better do something about it. The complaint has done a full U-turn. The cure hasn't changed at all.
 
-The check can't even tell you anything. If your body answers, the voice says, "Good. And now that you've started." If it doesn't, you panic and go looking for something stronger. The Little Monster gets fed either way. That isn't a check. It's the habit with an excuse.
+The check can't even tell you anything. If your body answers, the voice says, "Good. And now that you've started." If it doesn't, you panic and go hunting for something stronger. The Little Monster gets fed either way. That isn't a check. It's the habit with an excuse.
 
-So what is really happening? No study has measured the flat spell. All I can give you is what thousands of men report, and the likeliest reason for it. For years your body was flooded with more stimulation than any man was built for. It coped by turning its own sensitivity down. Take the flood away, and for a while ordinary life isn't loud enough to register. Then the dial comes back up.
+So what's really happening? No study has measured the flat spell. All I can give you is what thousands of men report, and the likeliest reason. For years your body was flooded with more stimulation than any man was built for. It coped by turning its own sensitivity down. Take the flood away, and for a while ordinary life isn't loud enough to register. Then the dial comes back up.
 
 So the flat spell is most likely repair, not damage. A man in bed with the flu doesn't run a marathon to prove his legs still work. He rests, and he gets well.
 
-How long does it last? Some men never get one at all. Most who do say a week or two. For a few it runs much longer. There is no timetable, so don't measure yourself against one. Dr. Kanojia tells his patients the flat feeling is generally temporary. And one man, who went through a long one, reported from the far end: "the other side is beautiful".
+How long does it last? Some men never get one. Most who do say a week or two. For a few it runs much longer. There's no timetable, so don't measure yourself against one. Dr. Kanojia tells his patients the flat feeling is generally temporary. And one man, who went through a long one, reported from the far end: "the other side is beautiful".
 
-See the flat spell for what it is. The caller has stopped calling, and you are worried about the silence. The old lie has no desire left to use on you, so it uses fear. Enjoy the quiet. It is the easiest stretch you will get.
+See the flat spell for what it is. The caller has stopped calling, and you're worried about the silence. The old lie has no desire left to use on you, so it uses fear. Enjoy the quiet. It's the easiest stretch you'll get.
 
-So don't test. Not with a screen, not with your hand, not "just to check". A man who goes back only has to walk through the same quiet stretch again the next time he stops. Leave your body alone and it will announce its own return, often on some ordinary morning, with no help from you.
+So don't test. Not with a screen, not with your hand, not "just to check". Go back, and you'll only have to walk the same quiet stretch again the next time you stop. Leave your body alone and it'll announce its own return, often on some ordinary morning, with no help from you.
 
 ## When to see a doctor {-}
 
-One caution, and it matters. If low desire or erection trouble lasts more than a few weeks, or simply worries you, see a doctor. That is a real check. The midnight kind is not. Trouble that lasts can be an early warning about your heart or your blood sugar, especially after forty. And suppose you feel low most of the day for more than two weeks, or lose interest in things you used to enjoy. That is not the Little Monster. See a doctor about that too. It is very treatable. You don't have to feel glad for this book to work.
+One caution, and it matters. If low desire or erection trouble lasts more than a few weeks, or just worries you, see a doctor. That's a real check. The midnight kind isn't. Trouble that lasts can be an early warning about your heart or your blood sugar, especially after forty. And if you feel low most of the day for more than two weeks, or lose interest in things you used to enjoy, that's not the Little Monster. See a doctor about that too. It's very treatable. You don't have to feel glad for this book to work.
 
 ## If your body doesn't work with your wife {-}
 
-Some men find, after years of the habit, that their body doesn't answer properly when they are with their wife. How long until it does? Nobody can give you a date. The medical student whose girlfriend blamed herself was well in a little over a month. One recovery coach went through it himself. He says it was about two and a half months before things worked at all, and another six of gradual progress after that. A few men report longer. A sex therapist who has written a great deal about it asks his patients to pause for a time, and then retrains them. He keeps reminding them that the restraint is "only temporary". If you are under a therapist's care for this, follow the treatment, and tell the therapist what you believe.
+Some men find, after years of the habit, that their body doesn't answer properly when they're with their wife. How long until it does? Nobody can give you a date. The medical student whose girlfriend blamed herself was well in a little over a month. One recovery coach went through it himself. He says it was about two and a half months before things worked at all, and another six of gradual progress after that. A few men report longer. A sex therapist who has written a great deal about it asks his patients to pause for a time, and then retrains them. He keeps reminding them that the restraint is "only temporary". If you're under a therapist's care for this, follow the treatment, and tell the therapist what you believe.
 
-So be patient with your body, and tell your wife what is going on, because the worst part for her is thinking it's her fault. See a doctor too, since medicines and other conditions can cause the same trouble. And don't "test" things on your own in the meantime. You know what that is.
+So be patient with your body, and tell your wife what's going on, because the worst part for her is thinking it's her fault. See a doctor too, since medicines and other conditions can cause the same trouble. And don't "test" things on your own in the meantime. You know what that is.
 
 ## Nothing to store up {-}
 
-The forums call going without "semen retention", and they promise a great deal for it. Your body doesn't soak semen back up as some kind of fuel. Nobody has shown that holding it raises your testosterone. And a wet dream doesn't "lose" you anything. If you feel better for stopping, as many men say they do, enjoy it as a bonus. You stopped to be free.
+The forums call going without "semen retention", and they promise the moon for it. Your body doesn't soak semen back up as some kind of fuel. Nobody has shown that holding it raises your testosterone. And a wet dream doesn't "lose" you anything. If you feel better for stopping, as many men say they do, enjoy it as a bonus. You stopped to be free.
 
 One last word. If you're married, none of this means holding back from your wife. She isn't the habit.
 
-Your body will look after itself. But perhaps you think your case is not like other men's.
+Your body will look after itself. But perhaps you think your case isn't like other men's.
 
 <!-- 2026-11-20 structure pass (James: right sections in the right chapters, right sizes, one flow): NEW CHAPTER, split out of 'The First Weeks' so that chapter is about urges and this one is about the body. Also holds the question about erection trouble with a wife, moved from 'Questions Men Ask' and turned from a Q&A into prose. 'Relapse' in the heading became 'slip' (the book's own word). Epigraph Psalm 139:14 (WEB, first sentence; checked 2026-11-20). All quotations are unchanged; their sources are listed in the comments of 22-the-first-weeks.Rmd and 29-feedback.Rmd. -->
 
