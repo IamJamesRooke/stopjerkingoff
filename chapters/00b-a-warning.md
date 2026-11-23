@@ -58,7 +58,7 @@ And the picture's wrong. He eats only what you carry up. Stop carrying, and the 
 
 If you've tried and failed a hundred times, the picture looks proven. One man wrote that he had failed so often he sometimes wondered whether God's grace for him had run out.
 
-It hasn't. Jesus told a story about a man who failed that badly, and you don't have to believe to follow it. A son blew his whole inheritance and ended up feeding pigs, so hungry he eyed their slop. In that pigsty he came to himself. He got up and walked home, and his father ran down the road to meet him.
+It hasn't. Jesus told a story about a man who failed that badly. It's the one people call the prodigal son, and you don't have to believe to follow it. A son blew his whole inheritance and ended up feeding pigs, so hungry he eyed their slop. In that pigsty he came to himself. He got up and walked home, and his father ran down the road to meet him.
 
 You're not a hopeless case. You were handed a method that can't work, and that method was the sword. A ninety-day streak proves you're strong. Losing it proves strength was never the problem. The lies were.
 
