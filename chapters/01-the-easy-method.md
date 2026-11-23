@@ -75,13 +75,11 @@ Each one is a tight shoe. The relief is only the pinch stopping. Each one gets i
 
 Tonight, do three things. None of them is "try harder".
 
-1. **Call off the war.** Don't try to quit while you read. Make no vows, start no streaks, and don't cut down. You've done all three before. Where are they now? You can also stop hating yourself this evening. It never helped once.
+1. **Call off the war.** You have the rule already. No quitting while you read, no vows, no streaks, no cutting down. Add one thing tonight. Stop hating yourself. It never helped once.
 2. **Remember.** Think back to the last time. How did it start? How long did the good part last? How did you feel ten minutes later? That answers the first two questions from your own life.
-3. **Keep reading, in order.** Don't skip chapters. Most are short and take down one lie, and the last step only works if the others came first. The length costs you nothing, because nobody asks you to stop before the end. An hour a night finishes it in under a week, and nobody has to know.
+3. **Keep reading, in order.** The length costs you nothing, because nobody asks you to stop before the end. An hour a night finishes it in under a week, and nobody has to know.
 
-Calling off the war isn't permission. Nobody is telling you to sin. If you've already stopped, stay stopped. If you slip while you read, keep reading.
-
-One thing can't wait for the last page. If your lust is hurting someone else, stop that today. That means an affair, paying for sex, pressing a woman who has said no, or anything against the law.
+If you slip while you read, keep reading.
 
 The stopping comes once, at the end. This book ends with a plain No, and you'll be glad to say it. It's not the old vow. The old vow was a promise made on your own strength, before you understood the trap. This one you'll say with your eyes open. If you pray, you'll say it leaning on God.
 
@@ -137,3 +135,5 @@ Before any of that, a fair question. "No benefits at all" is a big claim from a 
 <!-- 2026-11-23 Voice touch-up ahead of James's read (he reads two chapters a day as a reader): opening and two lists made spoken; nothing else changed. -->
 
 <!-- 2026-11-23 COHERENCE REPAIR after a cold-reader check of the first five chapters: missing links added, nothing cut. -->
+
+<!-- 2026-11-23 The full rules block moved to the Introduction ('While you read'); here they are restated in one line. -->

@@ -84,6 +84,16 @@ This book hands you no sword. It takes the lies apart, one at a time, until you 
 
 Save your grit for something that deserves it. There are mountains to climb and children to raise. This is a pest in a back room. Throw him out, and get on with your life.
 
+## While you read {-}
+
+Two rules while you read.
+
+**Don't try to quit.** Not yet. Make no vows. Start no streaks. Don't cut down. You've done all three before, and where are they now? You stop once, at the end of the book. Until then, call off the war.
+
+**Don't skip chapters.** Read them in order. Each one takes down a lie, and the last step only works if the others came first.
+
+That isn't permission. Nobody's telling you to sin. If you've already stopped, stay stopped. And if your lust is hurting someone else, that stops today. An affair, paying for sex, pressing a woman who's said no, anything against the law. That can't wait for the last page.
+
 ## Two in the morning {-}
 
 Now go back to the man in the bed, the one staring at the ceiling. It's still two in the morning. Put one thing on his nightstand.
@@ -155,3 +165,5 @@ SOURCES (Introduction): every quote below is from the research files; check each
 <!-- 2026-11-23 James: the line to women readers is cut ('this is a book for men, if women find it useful, great -- but that sentence is just awful'). No apology for 'he' anywhere. This supersedes the old rule that kept a note to women in the Introduction. -->
 
 <!-- 2026-11-23 COHERENCE REPAIR (James: 'so much was cut that now it seems incoherent -- get users to read it'). Eight cold readers flagged the missing steps; the links are put back in the spoken voice: the house frame, 'that banging is the urge', starving = no more dinners, man and monster kept apart by name, the dragon retired, and fear named as fear of life without it. -->
+
+<!-- 2026-11-23 James, reading night one: 'I'm not seeing anything about no willpower, no trying to cut down, where is that?' The two rules are back in the Introduction as one signposted section, 'While you read', so a reader who stops after chapter 1 has his instructions. The Easy Method restates them in a line and no longer carries the full block. -->
