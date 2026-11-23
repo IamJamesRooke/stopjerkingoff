@@ -22,6 +22,9 @@ It can feel like being possessed. Something is running you that you never invite
 
 But keep two things straight. He has never once made you do it. Every time, he banged on the floor, and you were the one who climbed the stairs. And he is not ten feet tall. He is a pipsqueak, squatting in a back room. He has no reach at all. You could punt him halfway down a football field.
 
+![](images/illustrations/empty-house-punt.png){.illustration width=80%}
+
+
 Out in the world he has no body of his own. He can't look at anything, or touch anything, or go anywhere. Everything he gets, he gets with what you lend him: your eyes, your mind and your hand.
 
 ## Why he could come back {-}
@@ -41,6 +44,9 @@ You will say he has paid something. He settles you. He gets you to sleep. He tak
 Look closer at that payment. He bangs on the floor until you bring his dinner up. Then he stops banging. The house goes quiet, and you take the quiet for a gift. That quiet is the only rent he has ever paid, and it was your quiet to begin with.
 
 So he is no tenant. He is a freeloader. He eats your food and leaves the plate on the floor. And who pays his bills and carries his meals up the stairs? You do.
+
+![](images/illustrations/empty-house-dinner-upstairs.png){.illustration width=80%}
+
 
 ## What keeps him there {-}
 

@@ -32,15 +32,20 @@ def monster(tx,ty,pose,sc=1.0,stink=True):
         o+=f'<circle cx="-44" cy="-6" r="7" fill="{LIME}"/><circle cx="44" cy="-6" r="7" fill="{LIME}"/>'
     o+=f'<path d="M-30,-8 C-34,-38 -19,-56 0,-56 C19,-56 34,-38 30,-8 C27,2 -27,2 -30,-8 Z" fill="{LIME}"/>'
     o+='<path d="M-4,-55 q1,-12 6,-3 q3,-11 7,1" stroke-width="4"/>'
-    o+='<circle cx="-10" cy="-35" r="9" fill="#fff"/><circle cx="10" cy="-35" r="9" fill="#fff"/>'
+    if pose=='dangle':
+        o+='<circle cx="-10" cy="-35" r="9" fill="#fff"/><circle cx="10" cy="-35" r="9" fill="#fff"/>'
     if pose=="dangle":
         o+=dot(-8,-33)+dot(12,-33)
-        o+='<path d="M-19,-46 L-4,-41"/><path d="M19,-46 L4,-41"/><path d="M-6,-21 q6,-5 12,0" stroke-width="4"/>'
+        o+='<path d="M-19,-46 L-4,-41"/><path d="M19,-46 L4,-41"/><path d="M-7,-18 q7,-8 14,0" stroke-width="4"/><path d="M-4,-17 q4,4 8,0" fill="#FF8FA3" stroke-width="2.5"/>'
+        o+='<path d="M-16,-27 q-3,6 0,9 q3,-3 0,-9 Z" fill="#4FB3FF" stroke-width="2"/>'
         o+='<path d="M-22,-12 Q0,-2 16,-9"/><path d="M22,-12 Q0,-2 -16,-9"/>'
         o+=f'<ellipse cx="-11" cy="6" rx="6" ry="8" fill="{LIME}"/><ellipse cx="11" cy="6" rx="6" ry="8" fill="{LIME}"/>'
     else:
-        o+=dot(-8,-36)+dot(8,-36)
-        o+='<path d="M-20,-48 L-4,-41"/><path d="M20,-48 L4,-41"/><path d="M-9,-17 q9,-9 18,0" stroke-width="4"/>'
+        # tantrum: eyes screwed shut, mouth wide open, tears flying
+        o+='<path d="M-17,-40 l8,4 l-8,4" stroke-width="3.5"/><path d="M17,-40 l-8,4 l8,4" stroke-width="3.5"/>'
+        o+='<ellipse cx="0" cy="-17" rx="10" ry="8" fill="#5a1414"/><path d="M-5,-12 q5,-4 10,0" stroke="#FF8FA3" stroke-width="3"/>'
+        o+='<path d="M-20,-34 q-12,4 -18,16" stroke="#4FB3FF" stroke-width="3.5"/><path d="M20,-34 q12,4 18,16" stroke="#4FB3FF" stroke-width="3.5"/>'
+        o+='<circle cx="-40" cy="-14" r="3" fill="#4FB3FF" stroke="none"/><circle cx="40" cy="-14" r="3" fill="#4FB3FF" stroke="none"/>'
         o+=f'<ellipse cx="-13" cy="0" rx="9" ry="5" fill="{LIME}"/><ellipse cx="13" cy="0" rx="9" ry="5" fill="{LIME}"/>'
     return o+'</g>'
 
@@ -125,3 +130,155 @@ for (x1,y1,x2,y2) in [(430,196,424,180),(458,250,472,262),(410,262,398,276),(380
 # other tiny shoe on floor
 s+=f'<path d="M420,404 L448,402 C456,402 458,412 450,412 L420,413 Z" fill="{RED}"/>'
 s+=TAIL; open(OUT+"easy-method-tight-shoes.svg","w").write(s)
+
+# ---- Second batch (chapters after The Easy Method) ----
+def man(x,y,face="flat",shirt=SHIRT):
+    """Head centered at (x,y); returns head + torso. Torso runs to y+150; hips at (x-4,y+150)/(x+14,y+150)."""
+    o=f'<path d="M{x-16},{y+38} C{x-32},{y+64} {x-32},{y+124} {x-18},{y+152} L{x+20},{y+152} C{x+30},{y+124} {x+28},{y+64} {x+14},{y+38} Z" fill="{shirt}"/>'
+    o+=f'<circle cx="{x}" cy="{y}" r="34" fill="#fff"/>'
+    if face=="flat":
+        o+=dot(x-6,y-6)+dot(x+10,y-6)+f'<line x1="{x-4}" y1="{y+14}" x2="{x+10}" y2="{y+14}" stroke-width="3.5"/>'
+    elif face=="happy":
+        o+=f'<path d="M{x-12},{y-6} q5,-6 10,0" stroke-width="3.5"/><path d="M{x+6},{y-6} q5,-6 10,0" stroke-width="3.5"/><path d="M{x-6},{y+10} q8,9 16,0" stroke-width="3.5"/>'
+    elif face=="squeeze":
+        o+=f'<path d="M{x-12},{y-10} l9,4 l-9,4" stroke-width="3.5"/><path d="M{x+18},{y-10} l-9,4 l9,4" stroke-width="3.5"/><path d="M{x-6},{y+14} l4,-3 l4,3 l4,-3 l4,3" stroke-width="3"/>'
+    elif face=="blank":
+        o+=dot(x-4,y-8)+dot(x+12,y-8)+f'<path d="M{x},{y+12} q5,2 10,0" stroke-width="3.5"/>'
+    return o
+
+def batch2(OUT):
+    # E. The punt (The Empty House)
+    s=head(680,440,"#2FB36A")
+    for x in (120,260,400,540):
+        s+=f'<line x1="{x}" y1="20" x2="{x}" y2="420" stroke="#fff" stroke-width="4" opacity="0.55"/>'
+    s+='<line x1="30" y1="410" x2="650" y2="410" stroke="#fff"/>'
+    s+=man(170,170,"happy")
+    s+='<path d="M166,322 L150,408"/><path d="M184,320 L240,300 L262,268"/>'
+    s+='<path d="M156,215 L110,250"/><path d="M184,215 L232,236"/>'
+    s+=f'<path d="M270,262 Q380,120 486,110" stroke="#fff" stroke-width="4" stroke-dasharray="4 14"/>'
+    s+=f'<g transform="rotate(25 520 120)">{monster(520,150,"dangle",0.95,stink=False)}</g>'
+    for (x1,y1,x2,y2) in [(470,70,450,60),(468,100,446,98),(476,130,456,138)]:
+        s+=f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="{YEL}" stroke-width="5"/>'
+    s+=TAIL; open(OUT+"empty-house-punt.svg","w").write(s)
+
+    # F. Carrying his dinner up (The Empty House)
+    s=head(680,460,"#FF8C42")
+    s+='<line x1="30" y1="420" x2="650" y2="420"/>'
+    steps="M90,420"
+    x,y=90,420
+    for i in range(8):
+        x+=0; y-=34; steps+=f" L{x},{y}"; x+=46; steps+=f" L{x},{y}"
+    s+=f'<path d="{steps} L{x},420 Z" fill="#FFF6E5"/>'
+    # door at top with the monster
+    s+=f'<rect x="470" y="40" width="110" height="108" fill="#5A3E9B"/><rect x="470" y="40" width="110" height="108"/>'
+    s+=monster(522,146,"bang",0.7)
+    # man on the stairs with a plate
+    s+=man(300,150,"flat")
+    s+='<path d="M296,302 L280,352 L276,386"/><path d="M314,302 L346,318 L350,352"/>'
+    s+='<path d="M290,196 L338,212 L370,196"/><path d="M308,200 L346,206 L370,196"/>'
+    s+='<ellipse cx="392" cy="192" rx="38" ry="10" fill="#fff"/>'
+    s+=f'<path d="M370,188 q22,-24 44,0 Z" fill="{RED}"/>'
+    for dx in (378,394,410):
+        s+=f'<path d="M{dx},166 c-5,-6 5,-10 0,-16" stroke="#fff" stroke-width="3"/>'
+    s+=TAIL; open(OUT+"empty-house-dinner-upstairs.svg","w").write(s)
+
+    # G. The path across the lawn (The Flesh)
+    s=head(680,420,"#7FD3FF")
+    s+='<path d="M0,170 L680,150 L680,392 Q680,420 652,420 L28,420 Q0,420 0,392 Z" fill="#43B85C" stroke="none"/>'
+    s+='<path d="M0,170 L680,150"/>'
+    s+='<path d="M60,410 C200,360 300,300 420,230 C480,196 560,172 640,160" stroke="#9C6B3C" stroke-width="34" opacity="0.95"/>'
+    s+='<path d="M60,410 C200,360 300,300 420,230 C480,196 560,172 640,160" stroke="#C8925A" stroke-width="22"/>'
+    s+='<rect x="540" y="70" width="90" height="84" fill="#FFF6E5"/><path d="M528,74 L585,32 L642,74 Z" fill="#FF5A5F"/><rect x="574" y="112" width="20" height="42" fill="#5A3E9B"/>'
+    for (x,y) in [(110,300),(150,260),(500,300),(560,350),(260,390),(620,260)]:
+        s+=f'<path d="M{x},{y} l4,-12 M{x+8},{y} l0,-14 M{x+16},{y} l-4,-12" stroke="#1E7A36" stroke-width="3.5"/>'
+    s+=man(300,198,"flat")
+    s+='<path d="M296,350 L280,376"/><path d="M314,350 L336,372"/><path d="M284,236 L262,286"/><path d="M314,236 L340,284"/>'
+    s=s.replace(man(300,198,"flat"), f'<g transform="translate(300,300) scale(0.5) translate(-300,-300)">{man(300,198,"flat")}<path d="M296,350 L270,430"/><path d="M314,350 L350,428"/><path d="M286,236 L250,300"/><path d="M314,236 L350,296"/></g>')
+    s=s.replace('<path d="M296,350 L280,376"/><path d="M314,350 L336,372"/><path d="M284,236 L262,286"/><path d="M314,236 L340,284"/>','')
+    s+=TAIL; open(OUT+"flesh-path-across-the-lawn.svg","w").write(s)
+
+    # H. Grandfather's watch as a hammer (The Flesh)
+    s=head(680,440,"#FFD23F")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="470" y="60" width="60" height="350" fill="#C8925A"/><line x1="485" y1="80" x2="485" y2="390" stroke-width="2.5"/><line x1="512" y1="120" x2="512" y2="370" stroke-width="2.5"/>'
+    s+='<line x1="430" y1="232" x2="470" y2="232" stroke-width="6"/><line x1="430" y1="222" x2="430" y2="242" stroke-width="6"/>'
+    s+=man(220,170,"blank")
+    s+='<path d="M216,322 L196,408"/><path d="M234,322 L262,408"/>'
+    s+='<path d="M206,214 L186,262 L180,300"/><path d="M234,214 L300,236 L352,222"/>'
+    # watch with chain in hand
+    s+='<path d="M352,222 L380,226" stroke-width="3" stroke-dasharray="2 5"/>'
+    s+=f'<circle cx="404" cy="230" r="24" fill="#F4C542"/><circle cx="404" cy="230" r="17" fill="#fff" stroke-width="3"/>'
+    s+='<line x1="404" y1="230" x2="404" y2="218" stroke-width="3"/><line x1="404" y1="230" x2="413" y2="234" stroke-width="3"/>'
+    s+='<path d="M396,216 L404,226 L398,238 L408,246" stroke="#141414" stroke-width="2"/>'
+    for (x1,y1,x2,y2) in [(432,196,444,180),(440,262,454,276),(420,190,420,172)]:
+        s+=f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="{RED}" stroke-width="5"/>'
+    s+='<path d="M370,170 q16,-22 36,-14" stroke-width="3"/><path d="M402,152 l6,4 l-7,3" stroke-width="3"/>'
+    s+=TAIL; open(OUT+"flesh-watch-as-a-hammer.svg","w").write(s)
+
+    # I. The car alarm (The Little Monster)
+    s=head(680,420,"#FF5A5F")
+    s+='<line x1="30" y1="380" x2="650" y2="380"/>'
+    s+=f'<path d="M330,330 L330,290 Q332,270 356,266 L400,232 Q410,224 430,224 L520,224 Q540,224 552,236 L586,266 Q620,270 624,292 L624,330 Z" fill="#2F6BFF"/>'
+    s+='<path d="M410,262 L432,238 L470,238 L470,262 Z" fill="#BFE3FF"/><path d="M486,262 L486,238 L530,238 L556,262 Z" fill="#BFE3FF"/>'
+    s+='<circle cx="380" cy="332" r="26" fill="#333"/><circle cx="380" cy="332" r="10" fill="#ddd"/><circle cx="572" cy="332" r="26" fill="#333"/><circle cx="572" cy="332" r="10" fill="#ddd"/>'
+    s+=f'<circle cx="610" cy="284" r="8" fill="{YEL}"/><circle cx="342" cy="284" r="8" fill="{YEL}"/>'
+    for r in (0,1,2):
+        s+=f'<path d="M{470-r*0},{196-r*22} q20,-12 40,0" stroke="#fff" stroke-width="5"/>'
+    s+=f'<path d="M640,250 q12,30 0,60" stroke="#fff" stroke-width="5"/><path d="M314,250 q-12,30 0,60" stroke="#fff" stroke-width="5"/>'
+    s+=man(170,160,"squeeze")
+    s+='<path d="M166,312 L150,378"/><path d="M184,312 L206,378"/>'
+    s+='<path d="M152,206 L136,170 L146,140"/><path d="M188,206 L206,170 L196,140"/>'
+    s+=TAIL; open(OUT+"little-monster-car-alarm.svg","w").write(s)
+
+def batch3(OUT):
+    # J. The dragon in his head (Introduction, after "It is the whole dragon")
+    s=head(720,520,"#FFB13B")
+    s+='<line x1="30" y1="480" x2="690" y2="480"/>'
+    s+=('<path d="M260,250 C206,250 196,190 242,176 C232,120 296,96 326,124 C346,70 426,64 452,110 '
+        'C486,60 576,76 578,130 C646,128 670,200 624,226 C656,270 596,310 554,290 C526,330 446,330 426,296 '
+        'C386,322 306,316 298,280 C274,290 246,276 260,250 Z" fill="#fff"/>')
+    s+='<circle cx="236" cy="296" r="14" fill="#fff"/><circle cx="216" cy="328" r="9" fill="#fff"/>'
+    D="#7B4FD6"
+    s+=f'<path d="M332,250 C300,246 280,236 266,216 L254,228 L258,204 L280,212 C292,226 310,234 336,236" fill="{D}"/>'
+    s+=f'<path d="M392,214 L344,118 L374,140 L392,104 L416,140 L438,120 L448,210 Z" fill="#5A3E9B"/>'
+    s+=f'<ellipse cx="400" cy="246" rx="72" ry="38" fill="{D}"/>'
+    s+=f'<path d="M444,228 C468,204 488,176 512,156 L540,176 C514,196 494,226 468,256 Z" fill="{D}"/>'
+    s+=f'<path d="M508,150 C520,132 560,128 578,142 L594,152 L572,158 L594,168 L570,176 C552,184 522,180 508,168 Z" fill="{D}"/>'
+    s+='<path d="M576,152 l-6,8 l-4,-8 M584,158 l-4,8 l-5,-7" stroke="#fff" stroke-width="2.5"/>'
+    s+=f'<path d="M520,136 L512,110 L534,130 M540,132 L540,104 L556,130" fill="#5A3E9B"/>'
+    s+=dot(548,146,4.5)+'<path d="M536,136 l20,4" stroke-width="4"/>'
+    s+=f'<path d="M598,160 C614,146 626,150 640,140 C632,156 640,164 628,176 C620,170 608,172 598,166 Z" fill="{RED}" stroke="{RED}"/>'
+    s+=f'<path d="M604,160 C614,154 620,156 628,152 C624,160 626,164 620,170 Z" fill="{YEL}" stroke="none"/>'
+    s+='<path d="M360,280 l-4,22 l-8,2 M392,284 l0,22 l-8,2 M430,282 l4,22 l-6,2 M456,274 l8,20 l-6,4" stroke-width="5"/>'
+    # the man, sword up, sweating
+    s+=man(170,320,"blank")
+    s+='<path d="M166,472 L150,478"/>'
+    s+='<path d="M166,472 L156,478"/>'
+    s=s.replace('<path d="M166,472 L150,478"/><path d="M166,472 L156,478"/>','<path d="M166,472 L150,478"/><path d="M184,472 L200,478"/>')
+    s+='<path d="M156,366 L132,330"/><path d="M184,366 L214,348 L232,330"/>'
+    s+='<line x1="232" y1="330" x2="268" y2="250" stroke="#B9C2CC" stroke-width="8"/><line x1="222" y1="324" x2="244" y2="336" stroke-width="6"/>'
+    s+='<path d="M204,296 q6,10 0,14 q-6,-4 0,-14 Z" fill="#7FD3FF" stroke-width="2.5"/>'
+    # the real thing, at his feet
+    s+=monster(300,478,"bang",0.75,stink=True)
+    s+=TAIL; open(OUT+"intro-the-dragon-in-his-head.svg","w").write(s)
+
+    # K. Press it and he was never there (The Button)
+    s=head(720,480,"#1B2459")
+    s+=moon(640,70,18)+stars([(80,60),(170,110),(500,50),(690,160),(330,40)])
+    s+='<line x1="30" y1="440" x2="690" y2="440" stroke="#fff"/>'
+    s+='<rect x="90" y="290" width="230" height="150" fill="#FFF6E5"/><line x1="90" y1="358" x2="320" y2="358"/>'+dot(205,324,5)
+    s+=clock(104,250)
+    s+='<rect x="210" y="272" width="80" height="18" fill="#D9D9D9"/><ellipse cx="250" cy="272" rx="40" ry="9" fill="#D9D9D9"/>'
+    s+=f'<path d="M220,272 C220,250 280,250 280,272 Z" fill="{RED}"/>'
+    # finger pressing
+    s+='<path d="M250,252 L250,200 Q250,180 270,176 L330,166" fill="none"/>'
+    s+='<ellipse cx="250" cy="250" rx="9" ry="6" fill="#fff"/>'
+    for (x1,y1,x2,y2) in [(206,250,190,236),(294,250,310,236),(250,226,250,226)]:
+        s+=f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="{YEL}" stroke-width="6"/>'
+    # the back room upstairs: empty, a puff where he was
+    s+='<rect x="400" y="120" width="260" height="190" fill="#FFF6E5"/><line x1="400" y1="310" x2="660" y2="310" stroke-width="7"/>'
+    s+=('<path d="M480,290 C460,290 456,266 474,260 C470,236 500,226 512,240 C520,218 556,218 562,240 '
+        'C580,230 604,246 594,266 C612,272 606,294 586,292 Z" fill="#fff" stroke-dasharray="10 8"/>')
+    for (x1,y1,x2,y2) in [(470,220,458,204),(540,206,540,186),(610,222,624,206),(450,276,432,280),(620,282,640,284)]:
+        s+=f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="{YEL}" stroke-width="6"/>'
+    s+=TAIL; open(OUT+"button-press-it.svg","w").write(s)

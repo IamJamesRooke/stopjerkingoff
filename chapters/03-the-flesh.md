@@ -20,6 +20,9 @@ Lust is what happens when the flesh gets hold of desire. Desire says, "She is lo
 
 There is an old word for a thing set apart for a high use. The word is holy. Your body is in that class, and so is the drive God put in it. Paul asks his readers, "don't you know that your body is a temple of the Holy Spirit who is in you". He isn't saying your body is dirty. He is saying it is too good for this. If you're not a believer, think of something you would never use carelessly, like your grandfather's watch. Lust picks up the watch and hammers a nail with it.
 
+![](images/illustrations/flesh-watch-as-a-hammer.png){.illustration width=80%}
+
+
 Lust feeds in more ways than one. Masturbation is the plainest case, so we'll use it to show how lust works. A drive that was built to bind a man to one woman is made to end in a tissue. It's a hijacking, and the plane lands nowhere.
 
 ## How the loop works {-}
@@ -35,6 +38,9 @@ What happens is simple, and you can check every step against your own experience
 That's the loop: cue, urge, relief. Every time you go around it, you teach yourself that this cue leads to that relief. Do it a few hundred times and the lesson is learned by heart. The cue alone will now produce the urge. It doesn't matter whether you're aroused, in the mood, or even paying attention.
 
 It's like a shortcut across a lawn. The first time, you barely leave a mark. Walk the same line every night for ten years and there's a bare strip of earth, and your feet take it without asking you.
+
+![](images/illustrations/flesh-path-across-the-lawn.png){.illustration width=80%}
+
 
 That's the whole mechanism. It doesn't mean you have a broken brain, an unusually high drive or a weak character. You have a path worn in the grass.
 
