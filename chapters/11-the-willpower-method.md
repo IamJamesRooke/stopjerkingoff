@@ -4,43 +4,43 @@
 >
 > — Romans 7:15
 
-You have seen how the trap is built and what it charges. Now for the way most men try to climb out of it.
+You've seen how the trap is built and what it charges. Now for the way most men try to climb out of it.
 
-Everybody knows that stopping is hard. The forums say so. The apps say so. The men who have tried say so, and add that it will be misery for life. Nearly every book on the subject opens by warning you of the brutal road ahead.
+Everybody knows stopping is hard. The forums say so. The apps say so. The men who've tried say so, and add that it's misery for life. Every book opens with a warning about the brutal road ahead.
 
 Your own attempts were every bit as hard as you remember. But the hardness came from the method.
 
 Stopping is absurdly easy.
 
-I know how that sounds. If I told you to run a marathon in under three hours, that would be hard. You'd need years of training, and you still might not have the legs. But stopping the habit doesn't ask you to *do* anything. You only have to not do something. Nobody is holding you down. Your body doesn't need it the way it needs bread and water. So if you want to stop, where exactly is the difficulty?
+I know how that sounds. A three-hour marathon is hard. You'd need years of training, and you still might not have the legs. Stopping doesn't ask you to *do* anything. You just don't do something. Nobody's holding you down. Your body doesn't need it the way it needs bread and water. So where exactly is the difficulty?
 
-There isn't one. Men create the difficulty themselves, by using the Willpower Method. I mean any way of quitting that leaves a man feeling he has sacrificed something. He blocks the sites, and a week later he unblocks them.
+There isn't one. Men build it themselves, with the Willpower Method. That's any way of quitting that leaves a man feeling he's sacrificed something. He blocks the sites, and a week later he unblocks them.
 
-It is the swept and empty house. A man puts the Little Monster out and keeps his room ready, and he comes back with company.
+It's the swept and empty house. A man puts the Little Monster out and keeps his room ready, and he comes back with company.
 
-Some men are sorry to hear that it's easy. They wanted a war, with long nights, a clenched jaw and a medal at the far end. A pipsqueak gives no medals. And nobody wants it on his gravestone that he fought his own hand for fifty years.
+Some men are sorry to hear it's easy. They wanted a war, with long nights, a clenched jaw and a medal at the far end. A pipsqueak gives no medals. And nobody wants it on his gravestone that he fought his own hand for fifty years.
 
 ## The first attempts {-}
 
-It usually takes years to realize you're hooked, because of one stubborn illusion. We assume men keep the habit because they enjoy it. So on the nights we plainly don't enjoy it, we conclude we could stop any time. "I don't even like it that much. I could drop it tomorrow." That's the confidence trap. Somehow tomorrow is never the day you want to.
+It takes years to realize you're hooked, thanks to one stubborn illusion. We assume men keep the habit because they enjoy it. So on the nights we plainly don't, we figure we could quit any time. "I don't even like it that much. I could drop it tomorrow." That's the confidence trap. Somehow tomorrow is never the day you want to.
 
-After a few failed attempts, a man falls back on hope. One morning, he tells himself, he'll just wake up and not want it anymore. Stories feed the hope. "My cousin just stopped. Got married and never thought about it again." Look into those stories and they're never that simple. Either the man had been working up to it for a year, or something had frightened him. No man has ever drifted out of this trap by accident. **It won't happen unless you make it happen.**
+After a few failed attempts, a man falls back on hope. One morning, he tells himself, he'll just wake up and not want it anymore. Stories feed the hope. "My cousin just stopped. Got married and never thought about it again." Look into those stories and they're never that simple. Either he'd been working up to it for a year, or something scared him. Nobody drifts out of this trap by accident. **It won't happen unless you make it happen.**
 
 ## Why willpower is so hard {-}
 
 Now watch the Willpower Method at work.
 
-For most of our lives we keep our heads in the sand: "I'll deal with it later." Then something jolts a man into an attempt. He knows he'd be better off without the habit. That was never in doubt. What trips him is the belief that he's making a sacrifice. He can't say what he's sacrificing. He only has a feeling that, in good times and bad, the habit *helps*. It's an illusion, but a strong one.
+For most of our lives we keep our heads in the sand: "I'll deal with it later." Then something jolts a man into an attempt. He knows he'd be better off without the habit. That was never in doubt. What trips him is the belief that he's making a sacrifice. He can't say what he's giving up. He just feels that, in good times and bad, the habit *helps*. It's an illusion, but a strong one.
 
-On top of that sit the lies he's soaked up from the world. On top of those sits the heaviest lie of all: that quitting is terrible. He's heard about the man ninety days clean who still thinks about it every hour. He's heard about the man who says it has been a nightly war for fifty years. Most likely he's lived some of those stories himself.
+On top of that sit the lies he's soaked up from the world, and on top of those sits the heaviest lie of all: that quitting is terrible. He's heard about the man ninety days clean who still thinks about it every hour. He's heard about the man who says it's been a nightly war for fifty years. Most likely he's lived some of those stories himself.
 
-So he doesn't start out thinking, "Wonderful! Have you heard? I don't have to do this anymore!" He starts in dread, like a man looking up at a cliff he has to climb. He texts his accountability partner: "Pray for me. This month is going to be rough." Most attempts are beaten before they begin.
+So he doesn't start out thinking, "Wonderful! I don't have to do this anymore!" He starts in dread, like a man looking up at a cliff he has to climb. He texts his accountability partner: "Pray for me. This month is going to be rough." Most attempts are beaten before they begin.
 
-Suppose he gets through the first few days. He feels a bit brighter, with a little more spring in the mornings. And the reasons that made him stop are already fading.
+Say he gets through the first few days. He feels brighter, with a little more spring in the mornings. And the reasons that made him stop are already fading.
 
-And fighting wears a man down. Every night he holds out by force, he has a little less left to hold out with the next night.
+Fighting wears a man down, too. Every night he holds out by force, he has less left for the next.
 
-Meanwhile the Little Monster hasn't been fed. His hunger doesn't hurt. If a head cold felt like that, you wouldn't even mention it. But the hunger is enough to start the Big Monster talking. Now watch something remarkable. Three days ago this man was listing every reason to stop. Now he hunts, just as earnestly, for a reason to start:
+Meanwhile the Little Monster hasn't been fed. His hunger doesn't hurt. A head cold that mild, you wouldn't mention. But that hunger's enough to set the Big Monster talking, and three days ago this man was listing every reason to stop. Now he hunts, just as earnestly, for a reason to start:
 
 - "Life's short. There are worse sins."
 - "I can't think straight. I'm snapping at everyone. I can't do my job like this."
@@ -48,13 +48,13 @@ Meanwhile the Little Monster hasn't been fed. His hunger doesn't hurt. If a head
 
 And he gives in.
 
-What follows is the strangest minute of all. He feels real relief, because the Little Monster has been fed and has stopped nagging. In the same minute there's the flatness, and the old question: *why did I do that?* He draws the obvious conclusion. He's weak, and he has no willpower.
+Then comes the strangest minute of all. Real relief, because the Little Monster has been fed and stopped nagging. And in the same minute, the flatness, and the old question: *why did I do that?* He draws the obvious conclusion. He's weak. No willpower.
 
-It wasn't only weakness. He changed his mind. Look at what he believed at that moment. He was suffering, the habit would end the suffering, and there was something in it for him after all. Given all that, going back was a perfectly logical decision. His will was tired, yes. But he was also acting on false information, and that part this book can fix.
+It wasn't only weakness. He changed his mind. At that moment he believed he was suffering, that the habit would end the suffering, and that there was something in it for him after all. Given that, going back was perfectly logical. His will was tired, yes. But he was also running on false information, and that part this book can fix.
 
-Put his false information in one line. "What's the point of a clean conscience if I'm miserable?" It's a fair question, and the answer is that you won't be. A life without the habit isn't gray and twitchy. The willpower man's misery doesn't come from the Little Monster, who is tiny. It comes from believing he's given something up. So he feels deprived, and feeling deprived is itself a strain. Under strain the old voice says "go on", and now he can't. So he feels more deprived still.
+Here's the false information in one line. "What's the point of a clean conscience if I'm miserable?" Fair question, and the answer is that you won't be. A life without the habit isn't gray and twitchy. The willpower man's misery doesn't come from the Little Monster, who's tiny. It comes from believing he's given something up. So he feels deprived, and feeling deprived is a strain all by itself. Under strain the old voice says "go on", and now he can't. So he feels more deprived still.
 
-That is the method at its best. Now add a scoreboard.
+That's the method at its best. Now add a scoreboard.
 
 <!-- SOURCES (Chapter 11): every quote below is from the research files; check each against its page before publishing.
 - "only not yet." (Book 8, ch. 7, §17; the full prayer is quoted in Chapter 2) / "tomorrow, and tomorrow?" (ch. 12, §28; spelling as in the Project Gutenberg text) / "Thus did my two wills, one new, and the other old, one carnal, the other spiritual, struggle within me; and by their discord, undid my soul." (ch. 5, §10) — Augustine, Confessions, tr. E.B. Pusey (public domain), https://faculty.georgetown.edu/jod/augustine/Pusey/book08. The chain and the "iron will" are quoted in Chapter 2 and only referred to here.

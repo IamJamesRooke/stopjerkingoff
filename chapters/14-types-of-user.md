@@ -4,55 +4,55 @@
 >
 > — a Pharisee at prayer, Luke 18:11
 
-Men who masturbate every day tend to envy the man who doesn't. We've all met him, or read his posts. "Honestly, I can go a couple of weeks and not even think about it." We wish we were built like that.
+Men who masturbate every day envy the man who doesn't. We've all met him, or read his posts. "Honestly, I can go a couple of weeks and not even think about it." We wish we were built like that.
 
-Don't. No man in the trap enjoys being in it, however lightly he seems to wear it. Keep three things in view:
+Don't. No man in the trap enjoys it, however lightly he wears it. Keep three things in view:
 
 - No man ever decided to get hooked, lightly or heavily.
 - So every man in the trap feels like a fool.
 - So every man in the trap has to lie, to himself and to everyone else, to make it look like a choice.
 
-Think about how people talk about things they really enjoy. A serious fisherman tells you how often he gets out on the water, and wishes it were more. So why does a man boast about how *little* he does it? If going without is the thing to be proud of, the trophy belongs to the man who never does it at all.
+Listen to how people talk about what they really enjoy. A serious fisherman tells you how often he gets out on the water, and wishes it were more. So why does a man boast about how *little* he does it? If going without is the thing to be proud of, the trophy belongs to the man who never does it at all.
 
-Suppose a friend said to you, "I can go two whole weeks without toast, and it doesn't bother me in the slightest." You'd wonder what was wrong with him. If he likes toast, why go without? If he doesn't, why mention it? A man only makes a speech like that about something that has a hold on him. What the two-week man is really telling you is, "I survived two weeks." And if two weeks was a feat of survival, imagine how precious the next time must have been.
+Say a friend tells you, "I can go two whole weeks without toast, and it doesn't bother me in the slightest." You'd wonder what was wrong with him. If he likes toast, why go without? If he doesn't, why bring it up? A man only makes that speech about something that has a hold on him. What the two-week man is really saying is, "I survived two weeks." And if two weeks took survival, imagine how sweet the next time felt.
 
 ![](images/illustrations/every-man-toast.png){.illustration width=80%}
 
-That's why the man who masturbates rarely is, in one way, more firmly caught than the man who does it daily. The relief looks bigger to him, because he's always coming off a long wait. He also has less reason to get out. It costs him less time, and the damage is harder to see. Things do go wrong: a flat mood, a wandering mind in bed with his wife, a coldness when he tries to pray. He blames them on work or tiredness or his age.
+So the man who masturbates rarely is, in one way, more firmly caught than the man who does it daily. The relief looks bigger to him, because he's always coming off a long wait. He has less reason to get out, too. It costs him less time, and the damage is harder to see. Things do go wrong: a flat mood, a wandering mind in bed with his wife, a coldness when he tries to pray. He blames work, or tiredness, or his age.
 
-A man in the trap makes two mistakes about other men. He envies the one who seems to do it less, and he looks down on the one who does more. "At least I'm not him." Both mistakes rest on one belief, that these are different kinds of men. They aren't.
+A man in the trap makes two mistakes about other men. He envies the one who does it less, and he looks down on the one who does it more. "At least I'm not him." Both mistakes rest on one belief, that these are different kinds of men. They aren't.
 
 ## Why every man doesn't do it all day {-}
 
-If the light man is caught as firmly as the heavy one, why do they look so different? It isn't strength. An itch that never quite goes gets scratched whenever it nags, and each scratch works a little less well than the one before. So the natural drift is always toward more: more often, for longer, with stronger material. Then why isn't every man in the trap doing it five times a day? Four things hold him back.
+If the light man is caught as firmly as the heavy one, why do they look so different? It isn't strength. An itch that never quite goes gets scratched whenever it nags, and each scratch works a little less well than the last. So the drift is always toward more: more often, for longer, with stronger material. Then why isn't every man in the trap doing it five times a day? Four things hold him back.
 
 1. **Time.** He has a job, a family and a life, and most days are full.
 2. **The body.** A man can only go so many rounds, and fewer as he gets older and more tired.
 3. **Privacy.** A wife in the bed, a roommate, children who don't knock, thin walls. For many men, all that stands between them and twice as often is a shortage of locked doors.
 4. **Conscience.** Every man in the trap is in a tug of war with himself. Some of it comes from how he was raised, some from a wife's opinion, and some from a plain dislike of what he's turning into.
 
-Men who do it daily tend to think of themselves as weak, and can't see how other men keep it to once a week. But the once-a-week man is usually no stronger. One of those four brakes is simply on harder. He shares a small apartment, or he's fifty-five, or he works fourteen-hour days. Take the brake off, say with a week alone in a hotel, and watch what he does.
+The daily man thinks he's weak, and can't see how other men keep it to once a week. But the once-a-week man is usually no stronger. One of those four brakes is just on harder. He shares a small apartment, or he's fifty-five, or he works fourteen-hour days. Take the brake off, say with a week alone in a hotel, and watch what he does.
 
-So the men in the trap differ in their brakes, and in where their lust goes, and in nothing else. Line them up, from the shallow end to the deep, and you will find yourself among them.
+So the men in the trap differ in their brakes, and in where their lust goes, and in nothing else. Line them up, shallow end to deep, and you'll find yourself among them.
 
 ## The line-up {-}
 
-You may be in it more than once. And notice, as you go, that nearly every man in it has a reason why he is not as bad as the next one.
+You may be in it more than once. Notice, as you go, that nearly every man in it has a reason he's not as bad as the next one.
 
-Start with the one man who isn't in the trap, the man who never started. He's rare, and he shouldn't be smug about it. He's outside by upbringing, luck or the grace of God. Every man inside was once sure he'd never be caught.
+Start with the one man who isn't in the trap, the man who never started. He's rare, and he shouldn't be smug. He's outside by upbringing, luck or the grace of God. Every man inside was once sure he'd never be caught.
 
 - **The beginner.** Usually a boy of twelve or thirteen. Don't envy him. He's a fly strolling about on the rim of the jar.
-- **The nightly man.** Once a day, in bed, lights off. He calls it his sleeping pill. He eases his itch for ten minutes in every twenty-four hours and carries it for the rest.
+- **The nightly man.** Once a day, in bed, lights off. He calls it his sleeping pill. He eases his itch for ten minutes out of every twenty-four hours and carries it the other twenty-three hours and fifty.
 - **The streak counter.** When he's doing it, he wishes he weren't. When he's stopped, he feels deprived and counts the days. He has the worst of both.
 - **The single man who'll stop when he's married.** "When I'm married" is the most comfortable way there is of saying "not yet".
-- **The married man.** He thought the wedding would end it. At least, he says, he has never cheated.
-- **The man on porn.** The screen never runs out, so he loses hours where another man loses minutes. He ends up watching things that would have sickened him at eighteen. He isn't a monster, and the way out is no harder for him.
+- **The married man.** He thought the wedding would end it. At least, he says, he's never cheated.
+- **The man on porn.** The screen never runs out, so he loses hours where another man loses minutes. He ends up watching things that would have sickened him at eighteen. He's no monster, and the way out is no harder for him.
 - **The man who quit porn and kept the hand.** He tells himself the hand alone is a different thing.
 - **The man who keeps it all in his head.** No screen at all. At least, he says, he doesn't look at anything.
-- **The man who says no real woman is involved.** He reads sex stories, or looks at drawings. Or he talks every night to a girlfriend made by a computer. The lust is real, and it is his.
+- **The man who says no real woman is involved.** He reads sex stories, or looks at drawings. Or he talks every night to a girlfriend made by a computer. The lust is real, and it's his.
 - **The man led by women.** He follows, flatters, pays and waits. Or he swipes on the dating apps every night and meets nobody.
-- **The collector.** He goes from bed to bed and keeps count, and he takes the number as proof that he is somebody.
-- **The man who pays.** A monthly fee for one woman's private pictures, or a back room, or a trip abroad where nobody knows him. He tells himself it is at least honest.
+- **The collector.** He goes from bed to bed and keeps count, and takes the number as proof he's somebody.
+- **The man who pays.** A monthly fee for one woman's private pictures, or a back room, or a trip abroad where nobody knows him. He tells himself it's at least honest.
 
 ## One trap {-}
 
@@ -70,15 +70,15 @@ Every one of these men is feeding the same small monster. And every "at least" i
 
 ## One hit, three strengths {-}
 
-Remember the warning about the Little Monster. Shut one room on him and he doesn't leave. He moves down the hall. So follow him, one door at a time.
+Shut one room on the Little Monster and he doesn't leave. He moves down the hall. So follow him, one door at a time.
 
-The rooms come in order of strength. First is porn, the hand and the orgasm together. Men on the recovery forums write it as three letters, PMO. That is the strong dose. Next is the hand and the orgasm with no screen, which they write MO. Men call that the weaker dose. It holds a man just as well. After that comes the wanting of the orgasm itself. It goes looking in a feed, in a daydream, and at last in a woman's bed.
+The rooms come in order of strength. First is porn, the hand and the orgasm together. Men on the recovery forums write it as three letters, PMO. That's the strong dose. Next is the hand and the orgasm with no screen, which they write MO. Men call that the weaker dose. It holds a man just as well. After that comes the wanting of the orgasm itself. It goes looking in a feed, in a daydream, and at last in a woman's bed.
 
-It is one hit at three strengths. Where the orgasm does belong is the last question on the walk.
+It's one hit at three strengths. Where the orgasm does belong is the last question on the walk.
 
-The doors shut in order, because each excuse leans on the one before it. And a door shuts in only one way. You look inside, and you see there is nothing in the room you want.
+The doors shut in order, because each excuse leans on the one before it. And a door shuts only one way. You look inside, and you see there's nothing in the room you want.
 
-So there is no pressure on this walk. Nobody will ask you to give up a room before you have looked inside it. At each door, ask one thing. What has this ever given me?
+So there's no pressure on this walk. Nobody asks you to give up a room before you've looked inside it. At each door, ask one thing. What has this ever given me?
 
 Start with the strong dose.
 

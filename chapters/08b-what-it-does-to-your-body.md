@@ -1,30 +1,30 @@
 # What It Does to Your Body {#what-it-does-to-your-body}
 
-The doctors say masturbation itself does no physical harm, and I won't argue. But the habit pulls the body in at three places, and you should hear them straight.
+The doctors say masturbation itself does no physical harm, and I won't argue. But the habit hits the body in three places, and you should hear them straight.
 
-The plainest is sleep. The habit lives late at night. It takes the hour, and then it takes the sleep after the hour. A man who drags himself out of bed every morning is paying a physical price, whatever the textbooks say about the act.
+The plainest is sleep. The habit lives late at night. It takes the hour, then the sleep after the hour. A man who drags himself out of bed every morning is paying a physical price, whatever the textbooks say.
 
-The second is trouble in bed with a real woman. Some men who lean heavily on porn find that they can't get ready with her, or can't stay ready. Be careful with this one. The research is mixed, and nobody has proved that porn is the cause. In a 2021 survey of young men, about one in five of the sexually active had some erection trouble. It went with how compulsive his porn use was, and not with the hours. An earlier study in three countries found little link at all. Doctors say that in a young man the usual cause is worry, and a man carrying a secret has plenty of that. Drink, medicines and illness can do it too. If it has gone on for weeks, see a doctor.
+The second is trouble in bed with a real woman. Some men who lean heavily on porn can't get ready with her, or can't stay ready. Careful here. The research is mixed, and nobody has proved porn is the cause. In a 2021 survey of young men, about one in five of the sexually active had some erection trouble. It tracked how compulsive his porn use was, not the hours. An earlier study in three countries found little link at all. Doctors say a young man's usual cause is worry, and a man carrying a secret has plenty. Drink, medicines and illness can do it too. If it's gone on for weeks, see a doctor.
 
 The third has a name of its own.
 
 ## Death grip {-}
 
-Death grip is men's own slang, and the name fits. A hand can squeeze far harder than a woman's body ever will, and move far faster. Add years of it, hard, hurried and usually dry, always done the same way. The body learns. It comes to answer to one thing only: its owner's hand.
+Death grip is men's own slang, and the name fits. A hand squeezes far harder than a woman's body ever will, and moves far faster. Add years of it, hard, hurried, usually dry, always the same way. The body learns. It answers to one thing only: its owner's hand.
 
-Then a real woman arrives. She is warm and soft, and to a body trained on a fist she feels like almost nothing. Some men can't finish with her, however long it goes on. Some can't stay ready. A woman on a forum for men who are stopping wrote this about the man she had been with: "when he did have sex he felt nothing".
+Then a real woman arrives, warm and soft, and to a body trained on a fist she feels like almost nothing. Some men can't finish with her, however long it goes on. Some can't stay ready. A woman on a forum for men who are stopping wrote this about the man she had been with: "when he did have sex he felt nothing".
 
-A medical student told his story on NoFap. With his first girlfriend, "even after months, still no orgasm for me. I couldn't even get close." Then comes the sentence every man should hear: "She started to think it was her fault, but deep inside, I knew what the problem was."
+A medical student told his story on NoFap. With his first girlfriend, "even after months, still no orgasm for me. I couldn't even get close." Then comes the line every man should hear: "She started to think it was her fault, but deep inside, I knew what the problem was."
 
-Sex therapists and urologists see these men regularly, and they have their own drier names for it. In 2023 Dr. Kanojia, the psychiatrist, put it as bluntly as a doctor can. A tight, dry hand, he said, "feels different from a vagina". A man who knows nothing else has trained his body away from a real woman.
+Sex therapists and urologists see these men regularly, and they have drier names for it. In 2023 Dr. Kanojia, the psychiatrist, put it as bluntly as a doctor can. A tight, dry hand, he said, "feels different from a vagina". A man who knows nothing else has trained his body away from a real woman.
 
-Let's keep this honest. Death grip isn't an official diagnosis. A study published in 2023 looked at several hundred young men. Those with erection trouble were about twice as likely to masturbate in these rough ways. That shows a link and no more. Some doctors doubt it's common. And if this is your trouble, see a doctor, because medicines and other conditions can do the same thing.
+Let's stay honest. Death grip isn't an official diagnosis. A 2023 study of several hundred young men found that those with erection trouble were about twice as likely to masturbate in these rough ways. That shows a link and no more. Some doctors doubt it's common. And if this is your trouble, see a doctor, because medicines and other conditions can do the same thing.
 
-When the hand is the cause, what is going on? Most doctors describe it as training. Think of a man who salts his food a little more heavily every year. His tongue isn't ruined, but plain food now tastes of nothing. Some doctors go further, and say that years of dry friction may dull the skin and the nerves themselves. Nobody has proved that. The training explanation has the most behind it. It is also the hopeful one, because a body that learned one thing can learn another.
+When the hand is the cause, most doctors call it training. Picture a man who salts his food a little heavier every year. His tongue isn't ruined, but plain food tastes of nothing. Some doctors go further and say years of dry friction may dull the skin and nerves themselves. Nobody has proved that. Training has the most behind it, and it's the hopeful explanation, because a body that learned one thing can learn another.
 
-Even the specialists who call masturbation harmless start the cure in the same place. They usually ask a man to stop for a while. This book asks you to stop for good. That is my conviction, not their prescription. If a sex therapist gives you exercises, that is treatment. Tell the therapist your convictions at the start. A good one will work within them.
+Even the specialists who call masturbation harmless start the cure in the same place: they ask a man to stop for a while. This book asks you to stop for good. That's my conviction, not their prescription. If a sex therapist gives you exercises, that's treatment. Tell the therapist your convictions up front. A good one will work with them.
 
-And the medical student? A little over a month after he stopped: "I had an orgasm during sex, for the first time in my life." Leave aside whose bed that was. The point here is only that the body mends. For other men it has taken many months. Nobody can promise you a date. But the men who stop report that the body often recovers.
+And the medical student? A little over a month after he stopped: "I had an orgasm during sex, for the first time in my life." Leave aside whose bed it was. The point is that the body mends. For other men it's taken many months, and nobody can promise you a date. But men who stop report that the body often recovers.
 
 The body can mend. So why has a list like this never once made you stop?
 

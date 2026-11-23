@@ -1,28 +1,28 @@
 # Mothers, Sisters, Daughters {#mothers-sisters-daughters}
 
-The feed and the reel are made of women who aren't there. The same eye works on the ones who are. It is the second look in the next aisle, and the conversation at work that runs longer than it needs to.
+The feed and the reel are made of women who aren't there. The same eye works on the ones who are. It's the second look in the next aisle, and the chat at work that runs longer than it needs to.
 
-Nobody is asking you to walk around with your eyes shut. Paul gave a young pastor a better rule, and it is hard to improve on. Treat "the elder women as mothers; the younger as sisters, in all purity."
+Nobody's asking you to walk around with your eyes shut. Paul gave a young pastor a better rule, and it's hard to improve on. Treat "the elder women as mothers; the younger as sisters, in all purity."
 
-Carry it one step further, and it covers every woman you will ever meet. The older ones are mothers. The ones your own age are sisters. The young ones are daughters.
+Stretch it a little and it covers every woman you'll ever meet. The older ones are mothers. The ones your age are sisters. The young ones are daughters.
 
-A man doesn't size up his sister, or perform for her, or keep a door open with her. He doesn't flatter his mother to get something. He would walk through fire for his daughter, and he wants nothing from her at all. He's simply glad they are there.
+A man doesn't size up his sister, or perform for her, or keep a door open with her. He doesn't flatter his mother to get something. He'd walk through fire for his daughter and wants nothing from her at all. He's just glad they're there.
 
-Imagine living like that for one week, in every shop, office and street. Think how much quieter your head would be.
+Try it for one week, in every shop, office and street. Think how quiet your head would get.
 
-Women can tell the difference at once. Most of them have been looked over by men since they were girls, and they know that look from across a room. A man who talks to them the way he talks to anyone stands out, because he is rare. Don't do it for that. A man who does it to be noticed is back to performing.
+Women can tell the difference at once. Most of them have been looked over by men since they were girls, and they know that look from across a room. A man who talks to them the way he talks to anyone stands out, because he's rare. Don't do it for that. A man who does it to be noticed is back to performing.
 
-It changes how you see the woman you're dating as well. Nothing is wrong with wanting a beautiful wife. But beauty can blind a man, and a blind man signs anything. So take her face out of the question for a minute, and ask two plain things. Do I really like being with her? Can I build a life with her? A man ruled by lust can't answer those. He has never been calm enough near her to find out.
+It changes how you see the woman you're dating, too. Nothing's wrong with wanting a beautiful wife. But beauty can blind a man, and a blind man signs anything. So take her face out of the question for a minute and ask two plain things. Do I really like being with her? Can I build a life with her? A man ruled by lust can't answer those. He's never been calm enough near her to find out.
 
 A free man can.
 
 ## Seeing people again {-}
 
-A man on the NoFap forum, a hundred days out, noticed that the women around him had changed. It was his eyes that had changed. He had stopped scanning their bodies, he wrote, and "started noticing much more interesting things about them. Smiles, gestures". He was seeing people again.
+A man on the NoFap forum, a hundred days out, noticed that the women around him had changed. It was his eyes that had changed. He'd stopped scanning their bodies, he wrote, and "started noticing much more interesting things about them. Smiles, gestures". He was seeing people again.
 
-The same terms hold at this door. Nobody can vow his way out of a thought, and nobody is asking you to. Let the bird fly over, and see how the day goes.
+The same terms hold at this door. Nobody can vow his way out of a thought, and nobody's asking you to. Let the bird fly over, and see how the day goes.
 
-So far the wanting has mostly watched. Now it does something new. It borrows your feet, and walks out into company. "At least I'm talking to real women."
+So far the wanting has mostly watched. Now it does something new. It borrows your feet and walks out into company. "At least I'm talking to real women."
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 15-fantasy-and-the-thought-life.Rmd; the source notes for everything here are in that file. -->
 

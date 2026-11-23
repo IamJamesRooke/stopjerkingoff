@@ -1,22 +1,20 @@
 # Can You Be Trusted? {#can-you-be-trusted}
 
-A Benedictine monk once gave this advice to women who want to marry: "Marry a man who can fast." He meant a man who has learned to say no to himself.
+A Benedictine monk once gave this advice to women who want to marry: "Marry a man who can fast." He meant a man who's learned to say no to himself.
 
-The test runs both ways. A man choosing a wife should ask it of her. Can she say no to herself, and keep her word when it costs her?
+It cuts both ways. A man picking a wife should ask the same of her. Can she say no to herself, and keep her word when it costs her?
 
-Picture a soldier who shows up for duty drunk. He may be on the right side. He may even be loved. He is still unfit for service, and the men who were counting on him are on their own.
+Picture a soldier who shows up for duty drunk. Maybe he's on the right side. Maybe everybody loves him. He's still unfit, and the men counting on him are on their own.
 
-Self-control is the theme under this whole book, and it comes down to one hard sentence. **A man who can't control his lust can't be trusted.** His wife can't fully trust him. Worst of all, he can't trust himself, because he has broken his own word too many times.
+Self-control is the theme under this whole book, and it comes down to one hard sentence. **A man who can't control his lust can't be trusted.** His wife can't fully trust him. Worst of all, he can't trust himself, because he's broken his own word too many times.
 
-You don't need that proved to you. Ask the man who said "never again" last night.
+You don't need that proved. Ask the man who said "never again" last night. It's no accusation. It's true of half the respectable men you'll meet today.
 
-That is not an accusation. It is true of half the respectable men you will meet today.
+And look who did this to us. Not a dragon. A grown man, trusted with a job and a family, can't keep his word against a Little Monster the size of a house cat. If that annoys you, good. Be annoyed at the right party.
 
-And look at who has done it to us. It wasn't a dragon. A grown man, trusted with a job and a family, can't keep his word against a Little Monster the size of a house cat. If that annoys you, good. Be annoyed at the right party.
+The reverse is true too. A man who can say no has a yes that's worth something. His wife can rest her weight on it. So can his children, and the men beside him. So can he.
 
-The reverse is also true. A man who can say no has a yes that is worth something. His wife can rest her weight on it. So can his children, and the men beside him. So can he.
-
-Don't hear a clenched jaw in that. A no costs nothing when you want nothing on the other side of it.
+Don't hear a clenched jaw in that. A no costs nothing when you want nothing on the other side.
 
 You were made for something, and this book is about getting you fit for it.
 

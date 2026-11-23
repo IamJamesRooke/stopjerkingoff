@@ -6,87 +6,87 @@
 
 This is where the lies are thickest.
 
-Most men, especially young and single ones, think they've already counted the cost of this habit and found it small. "It doesn't hurt anybody. The doctors say so." The doctors are talking about your body, and on your body I take their word. **Most of this book isn't about your body.**
+Most men, especially young single ones, figure they've counted the cost of this habit and found it small. "It doesn't hurt anybody. The doctors say so." The doctors are talking about your body, and on your body I take their word. **Most of this book isn't about your body.**
 
-A doctor can check your blood pressure. But who checks your drive, or your nerve? Who checks whether you can hold a woman's gaze, keep a promise to yourself, or pray without flinching? No clinic runs those tests. You're the only one who can read the results, and you've been reading them for years.
+A doctor can check your blood pressure. Who checks your drive, or your nerve? Who checks whether you can hold a woman's gaze, keep a promise to yourself, or pray without flinching? No clinic runs those tests. You're the only one who can read the results, and you've been reading them for years.
 
-So almost nothing here is a medical finding, and where the doctors do come into it I'll say so. Check every line against your own life. If one doesn't fit, drop it. I don't think you'll drop many.
+Almost nothing here is a medical finding, and where the doctors come in I'll say so. Check every line against your own life. If one doesn't fit, drop it. I don't think you'll drop many.
 
-A young man rarely notices the cost. At twenty he has energy to burn, nobody depending on him, and no wife beside him to feel his absence. He can fund the habit out of the surplus. The bill arrives later, when life starts asking for everything he has. Then he finds he's been spending a tenth of it in the dark for fifteen years.
+A young man rarely notices the cost. At twenty he's got energy to burn, nobody depending on him, and no wife beside him to feel his absence. He pays out of the surplus. The bill comes later, when life starts asking for everything he's got, and he finds he's been burning a tenth of it in the dark for fifteen years.
 
 ## It isn't a landmine {-}
 
-Some men do worry about the cost. But listen to how they picture it. They picture a landmine. It's buried somewhere in the field ahead of them, and one day they might step on it. The wife finds out. The job is lost. The body fails. Or they might walk the whole field and never touch it. Plenty of men seem to. So each morning a man checks himself over, finds that nothing has blown up, and says, "So far, so good."
+Some men do worry about the cost. But listen to how they picture it. A landmine, buried somewhere ahead. One day they might step on it: the wife finds out, the job goes, the body fails. Or they might cross the whole field and never touch it. Plenty seem to. So each morning a man checks himself over, finds nothing's blown up, and says, "So far, so good."
 
-It's the wrong picture, and it's the one that keeps you walking.
+Wrong picture, and it's the one that keeps you walking.
 
-A truer picture is a bank account that somebody dips into every day. He takes a few coins at a time, never enough to notice. You would spot a robbery. You don't spot this. Then years later you add it up, and a fortune is gone.
+A truer picture is a bank account somebody dips into every day. A few coins at a time, never enough to notice. You'd spot a robbery. You don't spot this. Years later you add it up, and a fortune is gone.
 
 ![](images/illustrations/costs-the-bank-account.png){.illustration width=80%}
 
-That is how this habit charges you. The cost isn't buried up ahead. **IT'S ALREADY BEING PAID.** You paid some last night, in the hour you spent and the sleep you lost after it. You paid some this morning, when you got up a little flat and a little ashamed. You'll pay some this afternoon, when your mind slides off the work in front of you. And you'll pay some tonight, when you're a little less present with the people in the room. None of it is big enough to call a disaster, and that's why you never see the total.
+That's how this habit charges you. The cost isn't buried up ahead. **IT'S ALREADY BEING PAID.** You paid some last night, in the hour you spent and the sleep you lost. You paid some this morning, getting up a little flat and a little ashamed. You'll pay some this afternoon, when your mind slides off your work, and some tonight, when you're a little less present with the people in the room. None of it's big enough to call a disaster. That's why you never see the total.
 
-So don't ask whether the mine will ever go off. Ask what has been going out of the account.
+So don't ask whether the mine will ever go off. Ask what's been going out of the account.
 
 ## What it has been taking {-}
 
-There is no shock treatment here. Nothing that follows will be news to you. It's a list of things you already know and have trained yourself not to look at.
+No shock treatment here. Nothing that follows will be news. It's a list of things you already know and have trained yourself not to look at.
 
 ### Your drive {-}
 
 One coach masturbated daily for years himself, and he sums up what it does to men in three short sentences: "It kills their drive. It destroys their confidence and it numbs their hunger."
 
-Why would it do that? Think about what a man's hunger is for. It's meant to get him up, send him out and make him build something, win someone and become someone. Then every night he tells that hunger it has already been fed. After enough years it stops asking.
+Why would it? Think what a man's hunger is for. It's meant to get him up, send him out, make him build something, win someone, become someone. Then every night he tells that hunger it's already been fed. After enough years it stops asking.
 
-That is the flat feeling. It isn't sadness, exactly. The morning after, you've got your coffee, your list and your good intentions, and there's nothing behind them. One man on NoFap, the biggest of the quit-porn forums, remembered at ninety days out where he had been: "My drive for life was almost at zero."
+That's the flat feeling. You've got your coffee, your list and your good intentions, and nothing behind them. One man on NoFap, the biggest of the quit-porn forums, remembered at ninety days out where he had been: "My drive for life was almost at zero."
 
-A married pastor says the same from the other end. God put the drive in a husband, he says, partly so that he would pursue his wife: date her, listen to her, win her again. That is no begging. A beggar asks out of need, and this man gives out of strength. Take that drive somewhere else and it's spent. "I don't have it anymore", he says. The husband ends up with a book on one side of the room while his wife gets on with her evening on the other.
+A married pastor says the same from the other end. God put the drive in a husband, he says, partly so he'd pursue his wife: date her, listen to her, win her again. That's no begging. A beggar asks out of need, and this man gives out of strength. Take the drive somewhere else and it's spent. "I don't have it anymore", he says. The husband ends up with a book on one side of the room while his wife gets on with her evening on the other.
 
-None of this is said to shame you. It is what the habit has been taking, a little more each year, and you are about to stop paying.
+None of this is to shame you. It's what the habit has taken, a little more each year, and you're about to stop paying.
 
 ### Your focus {-}
 
-C.S. Lewis put it in three words: "indulgence brings fog". Part of the fog is simple tiredness. A bigger part is that the habit takes up room in your head. A corner of your mind is always either planning the next time or regretting the last. One man who stopped wrote, "I feel like coming out from a fog that has been around me all this time." He hadn't known he was in it until it lifted. Nobody does.
+C.S. Lewis put it in three words: "indulgence brings fog". Part of the fog is plain tiredness. A bigger part is that the habit takes up room in your head, with a corner of your mind always planning the next time or regretting the last. One man who stopped wrote, "I feel like coming out from a fog that has been around me all this time." He hadn't known he was in it until it lifted. Nobody does.
 
 ### Your confidence {-}
 
-This is the one men find hardest to believe and easiest to recognize. Why would something done alone, behind a locked door, change how you stand in a room?
+Men find this one hardest to believe and easiest to recognize. How does something done alone, behind a locked door, change how you stand in a room?
 
-Because you bring it with you. You walk in knowing what you did at midnight, and you assume it shows. The morning after, you can hardly look people in the eye.
+You bring it with you. You walk in knowing what you did at midnight, and you assume it shows. You can hardly look people in the eye.
 
-It's worst around women. A man who spent last night using women in his head finds it hard to face the next real one this morning. He's either sizing her up or looking at his shoes.
+It's worst around women. A man who spent last night using them in his head can't face a real one this morning. He's either sizing her up or studying his shoes.
 
 ### The way you see women {-}
 
-Porn trains the eye. Watch enough of it and you start sorting every woman you meet, in half a second, by one measure. You do it to the cashier, to your coworker and to your friend's wife. You don't decide to. It has become how you look.
+Porn trains the eye. Watch enough and you start sorting every woman you meet, in half a second, by one measure. The cashier, your coworker, your friend's wife. You don't decide to. It's just how you look now.
 
-The women notice, even when you think they don't. And you lose something you may not have known you had. You lose the ability to simply like a woman, enjoy her company and want nothing from her. Lust takes half the human race and turns it into a menu.
+They notice, even when you think they don't. And you lose something you may not have known you had: the ability to simply like a woman, enjoy her company and want nothing from her. Lust takes half the human race and turns it into a menu.
 
 ### Your standing before God {-}
 
 If you're a believer, you'll know this one best. If you're not, read it as "your conscience".
 
-One of the Bible's first stories tells it. After Adam, the first man, ate the fruit God had forbidden, he covered himself, and then he hid. God came walking in the garden in the cool of the day, and Adam was crouching among the trees. Nobody had told him to hide. Shame did it without being asked.
+One of the Bible's first stories tells it. After Adam, the first man, ate the fruit God had forbidden, he covered himself, and then he hid. God came walking in the garden in the cool of the day, and there was Adam, crouching among the trees. Nobody told him to hide. Shame did it unasked.
 
-That's the real cost of this habit to a Christian man, and it has nothing to do with lightning bolts.
+That's the real cost to a Christian man, and it has nothing to do with lightning bolts.
 
 God doesn't leave. You do.
 
-You skip the prayer because of what you did an hour ago. You sit at the back and keep quiet in the small group. You feel like a fraud with a Bible in your hand. And you start to believe you're not the sort of man who gets to answer a calling.
+You skip the prayer because of what you did an hour ago. You sit at the back and keep quiet in the small group. You feel like a fraud with a Bible in your hand. You start to believe you're not the sort of man who gets to answer a calling.
 
 ### Your marriage {-}
 
-This means the marriage you have, or the one you hope to have. If you expect neither, read it anyway. It shows what the habit does to a man's power to love anyone.
+This means the marriage you have, or hope to have. If you expect neither, read it anyway. It shows what the habit does to a man's power to love anyone.
 
-Desire is meant to drive a man out of himself and toward one woman. She has her own mind and her right to say no. The habit turns him around and hands him women in his head. They never have a headache, never need listening to and never ask anything of him. And a man can come to prefer it that way.
+Desire is meant to drive a man out of himself and toward one woman, who has her own mind and her right to say no. The habit turns him around and hands him women in his head. They never have a headache, never need listening to, never ask anything of him. A man can come to prefer that.
 
-So the husband lies a foot from his wife and a hundred miles away. She can't name what's wrong, but she can feel that some part of him is being spent elsewhere. Sometimes his body gives him away. "I knew there was a serious problem", wrote a man on a sobriety forum, "when I was losing my erection sometimes when I was with my wife". And he can't tell her, so there's now a locked room in the marriage.
+So the husband lies a foot from his wife and a hundred miles away. She can't name what's wrong, but she can feel that part of him is being spent elsewhere. Sometimes his body gives him away. "I knew there was a serious problem", wrote a man on a sobriety forum, "when I was losing my erection sometimes when I was with my wife". And he can't tell her, so now there's a locked room in the marriage.
 
-If she finds out for herself, it lands as a betrayal. It doesn't feel to her like a private habit. She wonders what else she doesn't know, and whether she was ever enough. None of that is her fault.
+If she finds out on her own, it lands as betrayal, not a private habit. She wonders what else she doesn't know, and whether she was ever enough. None of that is her fault.
 
-A single man shouldn't imagine that a wedding ring will fix it. Ask any married man in the trap. He took the habit on his honeymoon.
+A single man shouldn't imagine a wedding ring will fix it. Ask any married man in the trap. He took the habit on his honeymoon.
 
-And then there is the body. Men whisper about this part, and almost nobody tells them straight.
+And then there's the body. Men whisper about this part, and almost nobody tells them straight.
 
 <!-- 2026-11-19: James split this chapter. The stories (the city without walls, David and Uriah, Samson, Ahab) are now Chapter 9, "A City Without Walls", and their source notes moved with them. The epigraph here changed from Proverbs 25:28 to Galatians 6:7 (WEB, verbatim), because the proverb now opens Chapter 9. Source lines below that belong to the moved sections are kept for the record.
 -->

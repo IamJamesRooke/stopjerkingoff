@@ -8,7 +8,7 @@ Sooner or later almost every man in the trap tries setting himself a limit.
 
 Sometimes he means it as a stepping stone: "I'll ease off gradually, and then I'll stop." Sometimes he means it as a truce with the Little Monster: "I'll never be rid of you, so let's agree on terms." It nearly always follows a failed attempt to stop outright. A few days in, the man cracks, and the next morning he says something like this:
 
-"Never again is too much to ask. So from now on it's Saturdays only. Or only in the shower. Or only from my own head, with no screen. If I can hold it there, I'll trim it further, and one day it will just fade out."
+"Never again is too much to ask. So from now on it's Saturdays only. Or only in the shower. Or only from my own head, with no screen. If I can hold it there, I'll trim it further, and one day it'll just fade out."
 
 You may be living on one of these deals already. "Only without porn" is a limit. So is "only the soft stuff", and so is "I'll look, but I won't touch".
 
@@ -19,29 +19,29 @@ A limit sounds like the grown-up option. It keeps plenty of men caught for life.
 1. **He gets the worst of both worlds.** He's still feeding the Little Monster, so the itch never dies. He also thinks about the habit more than he ever did, so the lies get more to work with.
 2. **He wishes his life away.** Monday to Friday become a corridor he has to walk down. He's a grown man counting sleeps until Saturday.
 3. **He carries the itch all week.** Before the limit, he gave in when the urge came, and the restlessness at least eased for a while. Now he drags it through six days out of seven. He gets short with his wife and kids and can't think why.
-4. **Every time becomes "special".** Before, most times were automatic. He barely noticed them, and he certainly didn't treasure them. Now that he has waited six days, Saturday night feels like Christmas.
+4. **Every time becomes "special".** Before, most times were automatic. He barely noticed them, and he certainly didn't treasure them. Now that he's waited six days, Saturday night feels like Christmas.
 
-Look hard at number four, because the whole trick is in it. The relief was never in the act. The relief is the itch ending. So the longer the itch nags, the bigger the relief seems, and the surer he is that he's enjoying something. He has turned a dull routine into a treat by making himself suffer for it first.
+Look hard at number four, because the whole trick is in it. The relief was never in the act. The relief is the itch ending. The longer the itch nags, the bigger the relief, and the surer he is that he's enjoying something. He's turned a dull routine into a treat by making himself suffer for it first.
 
-With a limit, the habit is always on offer, because Saturday is always coming. The Little Monster never hears that the kitchen has closed. He just learns the opening hours, and he sits by the door all week.
+With a limit, the habit's always on offer, because Saturday's always coming. The Little Monster never hears that the kitchen has closed. He just learns the opening hours, and he sits by the door all week.
 
-The hard part of stopping was never the flesh. It's the lie that the habit is a comfort or a reward. Cutting down only props up that lie. A man living by a limit ends up convinced that the most precious thing in his week is five minutes on a Saturday night. He set out to make the habit smaller, and he has made it the center of his calendar.
+The hard part of stopping was never the flesh. It's the lie that the habit is a comfort or a reward, and cutting down props that lie up. A man living by a limit ends up convinced the most precious thing in his week is five minutes on a Saturday night. He set out to shrink the habit, and he's made it the center of his calendar.
 
 ## Less is not less {-}
 
-Many a man believes that the less he does it, the less he'll want it.
+Many men believe that the less they do it, the less they'll want it.
 
-The reverse is true. The wait makes it sweeter, and soon the old favorites aren't enough. He "needs" something a little stronger to make the long wait worth it. That is how a man who swore he'd only ever use his imagination ends up back on his phone.
+The reverse is true. The wait makes it sweeter, and soon the old favorites aren't enough. He "needs" something a little stronger to make the long wait worth it. That's how a man who swore he'd only ever use his imagination ends up back on his phone.
 
-You can test this without changing anything. Just think back. Take the days you did it twice. How was the second time? Flat and pointless, more than likely. Now think of a time you'd gone ten days without and then gave in. Fireworks.
+You can test this without changing anything. Think back to the days you did it twice. How was the second time? Flat and pointless, more than likely. Now think of a time you'd gone ten days without and then gave in. Fireworks.
 
-The act was the same. Your hand was the same. The only thing that changed was how long you'd been kept waiting. If a thing were truly good, it would still be good the second time. A second helping of mashed potatoes is still mashed potatoes.
+Same act. Same hand. The only thing that changed was how long you'd been kept waiting. If a thing were truly good, it'd still be good the second time. A second helping of mashed potatoes is still mashed potatoes.
 
-Is the Saturdays-only man in control of anything? He spends six days out of seven in a quiet fight, and the seventh losing it by appointment. And his logic doesn't hold. Either there's something real in the habit or there isn't. If there is, why wait a week for it? If there isn't, why do it at all?
+Is the Saturdays-only man in control of anything? He spends six days out of seven in a quiet fight, and the seventh losing it by appointment. His logic doesn't hold, either. Either there's something real in the habit or there isn't. If there is, why wait a week for it? If there isn't, why do it at all?
 
 ## Willpower for life {-}
 
-An appetite that is fed, even a little, comes back asking for more. It never asks for less. So to hold the line at once a week, a man has to push back against the pull every day until he dies.
+An appetite that's fed, even a little, comes back asking for more. It never asks for less. So to hold the line at once a week, a man has to push back against the pull every day until he dies.
 
 **Cutting down means willpower for life.**
 
@@ -49,7 +49,7 @@ If you had that kind of willpower to spare, you'd have stopped years ago. Stoppi
 
 A limit is indulgence with a schedule.
 
-The same goes for every half-measure dressed up as progress. Edging is one. A man goes right up to the end and stops, and tells himself, "At least I didn't finish." He has kept the engine running for an hour. Looking without touching is another. So is touching without looking. So is "just checking". They're all ways of cutting down. One man who'd tried edging left this for the men coming after him:
+The same goes for every half-measure dressed up as progress. Edging is one. A man goes right up to the end and stops, and tells himself, "At least I didn't finish." He's kept the engine running for an hour. Looking without touching is another. So is touching without looking. So is "just checking". They're all ways of cutting down. One man who'd tried edging left this for the men coming after him:
 
 > "Don't edge. Really. Don't do it. It's the absolutely worst thing to do."
 

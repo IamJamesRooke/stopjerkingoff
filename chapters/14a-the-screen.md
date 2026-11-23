@@ -4,39 +4,39 @@ The first room has a screen in it, and most men know every corner of it.
 
 This is the strong dose. Porn, the hand and the orgasm, all three at once.
 
-Why is it the strong one? The finish isn't better. It is over in the same few seconds as any other. The screen adds only one thing. It never runs out.
+Why is it the strong one? Not because the finish is better. It's over in the same few seconds as any other. The screen adds one thing. It never runs out.
 
-A magazine had a last page. The screen has none. There is always another woman one thumb away, and she is always new. So a man who came for ten minutes is still there at two in the morning. He isn't enjoying two hours. He is hunting for the one clip that will do it, and closing forty that didn't.
+A magazine had a last page. The screen has none. There's always another woman one thumb away, and she's always new. So the man who came for ten minutes is still there at two in the morning. He isn't enjoying two hours. He's hunting for the one clip that will do it, and closing forty that didn't.
 
 ## What the strong dose pays {-}
 
 Ask of this room what you ask of every room. What has it ever given me?
 
-Watch a man's face while he is in it. The screen lights his face, and his face shows nothing. Nobody looks like that at a thing he enjoys.
+Watch a man's face while he's in it. The screen lights his face, and his face shows nothing. Nobody looks like that at a thing he enjoys.
 
-Then count what he carries out. The strong dose doesn't feed the Little Monster any better. He is the size of a cat, and a crumb does him. It only costs more hours. It needs rougher material every year. Afterward comes the same flat ten minutes, staring at the same ceiling.
+Then count what he carries out. The strong dose doesn't feed the Little Monster any better. He's the size of a cat, and a crumb does him. It just costs more hours, and rougher material every year. Afterward comes the same flat ten minutes, staring at the same ceiling.
 
 ## The woman who says his name {-}
 
-The screen leads one step past the free sites. You may not have taken that step, but some men have. Such a man would never go to a prostitute. But he pays a monthly fee to see one woman's private pictures, and he tips her so that she will write back. Or he sends money to a woman who plays video games on a live stream, so that she will say his name.
+The screen leads one step past the free sites. You may not have taken it, but some men have. Such a man would never go to a prostitute. But he pays a monthly fee to see one woman's private pictures, and he tips her so she'll write back. Or he sends money to a woman who plays video games on a live stream, so she'll say his name.
 
-It is a big business. In 2024, men spent more than seven billion dollars on the largest of these subscription sites. Here is what that money often buys. Reporters found that many of the women there never write the messages at all. Agencies hire workers to do it, called chatters. Many of them are men, sitting in offices on the other side of the world, paid to type like her and to keep him spending.
+It's big business. In 2024, men spent more than seven billion dollars on the largest of these subscription sites. And here's what the money often buys. Reporters found that many of the women there never write the messages at all. Agencies hire workers to do it, called chatters. Many are men, sitting in offices on the other side of the world, paid to type like her and keep him spending.
 
-He thinks he has a girlfriend. He is a customer, and even when she is kind to him, it is her job. If this is you, add up what you have paid this year and look at the number. Then ask what it bought you.
+He thinks he has a girlfriend. He's a customer, and even when she's kind to him, it's her job. If this is you, add up what you've paid this year. Then ask what it bought you.
 
 ## Who else is in the room {-}
 
-One thing sets this room apart from the next one down the hall. You are not alone in it.
+One thing sets this room apart from the next one down the hall. You're not alone in it.
 
-There is a woman on that screen. You can't know how she got there, or how old she was, or whether she wanted to stay. Behind her is a trade, and every visit pays it, even the free ones. In this room a man hurts other people as well as himself.
+There's a woman on that screen. You can't know how she got there, or how old she was, or whether she wanted to stay. Behind her is a trade, and every visit pays it, even the free ones. In this room a man hurts other people as well as himself.
 
 ## The door {-}
 
-That is the first room, and you have looked inside it.
+That's the first room, and you've looked inside it.
 
-Nobody is asking you for a vow, and no one is counting days. The one No at the end of the book covers the whole house. It will be easy, because by then every door is shut. A door like this doesn't shut by force. It shuts when you have seen that there is nothing in the room you want. If you have seen it, the door is shut already.
+Nobody's asking you for a vow, and no one is counting days. The one No at the end of the book covers the whole house. It'll be easy, because by then every door is shut. A door like this doesn't shut by force. It shuts when you've seen there's nothing in the room you want. If you've seen it, it's shut already.
 
-A man who shuts this door has stopped paying that trade. Nobody on a screen is being used for him any longer. That is good for them. It has done nothing yet for him.
+A man who shuts this door has stopped paying that trade. Nobody on a screen is being used for him any longer. That's good for them. It's done nothing yet for him.
 
 The first bargain is waiting just outside, and it sounds like a virtue. "I'm jerking off, but at least I'm not watching porn."
 

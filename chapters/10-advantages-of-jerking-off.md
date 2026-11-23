@@ -18,7 +18,7 @@
 
 &nbsp;
 
-*If you said "it feels good", you are right. It does, for a few seconds. So does sugar. You have seen what those seconds cost.*
+*If you said "it feels good", you're right. It does, for a few seconds. So does sugar. You've seen what those seconds cost.*
 
 <!-- SOURCES (Chapter 10): none. The joke is EasyPeasy's (and Allen Carr's before it); the wording is ours. -->
 

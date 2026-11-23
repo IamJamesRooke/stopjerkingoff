@@ -6,85 +6,85 @@
 
 ## Three times a man picks up {-}
 
-The Little Monster is a caller who won't stop ringing, and a caller who is never answered gives up. So he gets through one way only. A man picks up, just once. That is all "just once" has ever been, and it comes at three points in a man's life.
+The Little Monster is a caller who won't stop ringing, and a caller nobody answers gives up. So he gets through one way only. A man picks up, just once. That's all "just once" has ever been. It turns up three times in a man's life.
 
-The first is the very first time. No boy ever decided on a habit of twenty years. He decided on once, and the caller has had his number ever since.
+The first is the very first time. No boy ever signed up for twenty years. He signed up for once, and the caller's had his number ever since.
 
-The second comes in the middle of an attempt to stop. A man is four days in and doing well. Then comes a rough week, or a special occasion, and he picks up once to get through it. That attempt is over. Look back at your own. Most of them were not beaten by a hundred nights. They were beaten by one.
+The second comes mid-attempt. A man is four days in and doing great. Then a rough week hits, or a special occasion, and he picks up once to get through it. That attempt is over. Look back at your own. A hundred nights didn't beat most of them. One did.
 
-The third is the cruelest. It comes to a man who has been free for months, or years. The calls stopped long ago. He picks up once to prove he doesn't need the habit anymore, or simply to see. It proves the opposite.
+The third is the cruelest. A man's been free for months, or years. The calls stopped long ago. He picks up once to prove he doesn't need the habit anymore, or just to see. It proves the opposite.
 
 Men say afterward that the habit "came back". Nothing came back. He picked up.
 
 ## What answering buys {-}
 
-And what does a man get for picking up?
+So what does a man get for picking up?
 
-If the Little Monster is still alive, the man gets a few minutes of quiet. He also teaches the caller how many times to ring. If the Little Monster is long dead, there is no itch to relieve. The man gets a few seconds, then ten flat minutes, and feels like a fool.
+If the Little Monster's still alive, a few minutes of quiet, and a lesson for the caller in how many times to ring. If he's long dead, there's no itch to relieve. The man gets a few seconds, then ten flat minutes, and feels like a fool.
 
-What follows is always the same. The flatness lands, and it's so grim that the man is certain nothing this miserable could ever hook him again.
+Then the flatness lands. It's so grim he's dead sure nothing this miserable could ever hook him again.
 
-But it already has.
+It already has.
 
-Within a day or two the pull for another one arrives. That is the chaser. The caller got through, and now he is ringing again.
+Within a day or two the pull for another one arrives. That's the chaser. The caller got through, and now he's ringing again.
 
-John Owen, an English pastor, wrote in 1656 that sin "aims always at the utmost". The caller never wants one. He asks for one in order to get the rest.
+John Owen, an English pastor, wrote in 1656 that sin "aims always at the utmost". The caller never wants one. He asks for one to get the rest.
 
 ## What the message says {-}
 
-If answering buys so little, why does anyone answer? Because of what the message says. The caller himself can't speak. He is only an itch. The old lie does his talking for him.
+If answering buys so little, why does anyone answer? Because of the message. The caller can't speak. He's only an itch. The old lie does his talking.
 
-You know the voice. It says it's just one more time, just one more video, and you can get back to your purpose after. It always sounds that reasonable.
+You know the voice. Just one more time. Just one more video, and then you can get back to your purpose. It always sounds so reasonable.
 
 The message is always about one special time. The one after a week away on business. The one after the fight. The one on the night your wife turns over and says she's tired. The one video. The one you've "earned".
 
-Notice what the message never offers. It never says, "Go back to doing this every night for another twenty years." No man would take that offer. So it offers one, because one is the only size it can sell.
+Notice what it never says. "Go back to doing this every night for another twenty years." No man would take that deal. So it offers one, because one is the only size it can sell.
 
-Get this fixed in your mind: JUST ONCE DOES NOT EXIST. It's a chain, and each link is forged by the one before. The myth of the rare special occasion is also what keeps men moping after they've quit. They are like a man who has moved to a new house and keeps driving past the old one.
+Get this fixed in your mind: JUST ONCE DOES NOT EXIST. It's a chain, and each link is forged by the one before. The myth of the rare special occasion also keeps men moping after they've quit, like a man who's moved to a new house and keeps driving past the old one.
 
 ## One little look {-}
 
-Sometimes the offer comes smaller still. Not once, only a look. A scroll past a certain account, a quick search, a minute of "just touching, not finishing". This is what finishes off most men on the Willpower Method, three or four days in.
+Sometimes the offer comes smaller still. Not once, only a look. A scroll past a certain account, a quick search, a minute of "just touching, not finishing". This finishes off most men on the Willpower Method, three or four days in.
 
-Often the little look is a letdown, and the man is delighted. "That did nothing for me. I must be losing interest." The opposite is true. The few seconds were never the reason. He did it to feed the Little Monster. Think how that scrap tasted to him after four days of starving. The man didn't notice. The Little Monster did.
+Often the little look is a letdown, and the man is delighted. "That did nothing for me. I must be losing interest." Wrong. The few seconds were never the point. He did it to feed the Little Monster, and that scrap tasted like a steak after four days of starving. The man didn't notice. The Little Monster did.
 
-The little look is also the caller getting his answer. All the calls the man let ring taught the caller nothing. The one he picked up taught him to keep ringing.
+The little look is also the caller getting his answer. Every call the man let ring taught the caller nothing. The one he picked up taught him to keep ringing.
 
 Job, the suffering man of the Old Testament, had the right idea. "I made a covenant with my eyes", he said; "how then should I look lustfully at a young woman?" He didn't promise to look a little. He made a covenant not to. King David took one long look from a rooftop, and you know what it cost him.
 
 ## How to leave it unanswered {-}
 
-Here is how a man lets it ring.
+Here's how a man lets it ring.
 
-Never picture the single, harmless time. It's a fantasy in every sense. When the thought of it comes, see the whole chain. See thousands of secret nights and thousands of flat ten minutes afterward. See a secret carried through every room you walk into, and the years of your strength poured down a drain. Why choose a lifetime of that, when you could be free?
+Never picture the single, harmless time. It's a fantasy in every sense. See the whole chain instead. Thousands of secret nights. Thousands of flat ten minutes afterward. A secret carried into every room you walk into, and the years of your strength poured down a drain. Why choose that, when you could be free?
 
-And when the voice comes, remember the four instructions. The first is said only once, at the end of this book, and then it is said for good. The other three are how it stays said. Give no reason. Don't let him down gently. Never answer again. You don't have to win the argument, because there isn't one. A man who is debating whether tonight is an exception has already picked up the phone.
+And when the voice comes, remember the four instructions. The first is said only once, at the end of this book, and then it's said for good. The other three are how it stays said. Give no reason. Don't let him down gently. Never answer again. You don't have to win the argument, because there isn't one. A man who's debating whether tonight is an exception has already picked up the phone.
 
-A man who got out called the whole business "just a poisoned cookie." That's the difference between the two methods. The willpower man stands in front of the cookie, telling himself not to take it. You've seen that it's poisoned. You don't have to resist it. You just don't eat it.
+A man who got out called the whole business "just a poisoned cookie." That's the difference between the two methods. The willpower man stands in front of the cookie, telling himself not to take it. You've seen it's poisoned. You don't have to resist it. You just don't eat it.
 
 Don't let any of this frighten you. Any man can do it. It's absurdly easy, so long as you have three things straight:
 
-1. There is nothing to give up. There is only a great deal to gain.
-2. There is no harmless one. There is only the whole chain or none of it.
+1. There's nothing to give up. There's only a great deal to gain.
+2. There's no harmless one. There's only the whole chain or none of it.
 3. When you give your answer, you give it once. After that, you don't reopen the question.
 
 ## At the door {-}
 
-None of this is new. The oldest warning about this caller stands near the very front of the Bible, in the story of the first two brothers.
+None of this is new. The oldest warning about this caller is near the front of the Bible, in the story of the first two brothers.
 
-Cain and Abel were the sons of Adam and Eve. Each of them brought an offering to God. God accepted Abel's offering and did not accept Cain's, and Cain was furious. He had not done anything yet. He was only angry, and turning over what he might do. That is the moment God chose to speak to him. He told Cain that if he did well he would be accepted, and then he gave him this warning: "sin crouches at the door. Its desire is for you, but you are to rule over it."
+Cain and Abel were sons of Adam and Eve. Each brought an offering to God. God accepted Abel's and not Cain's, and Cain was furious. He hadn't done anything yet. He was only angry, and turning over what he might do. That's the moment God spoke to him. He told Cain that if he did well he would be accepted, and then gave him this warning: "sin crouches at the door. Its desire is for you, but you are to rule over it."
 
 Cain didn't listen. He took his brother out into the field and killed him.
 
-It is de Becker's picture, thousands of years before there was a telephone. Something is crouching at your door. It wants you. It will not go away because you ask it nicely. And Cain only had to open the door once.
+It's de Becker's picture, thousands of years before there was a telephone. Something is crouching at your door. It wants you. It won't go away because you ask it nicely. And Cain only had to open the door once.
 
-You are to rule over it. Ruling doesn't mean wrestling him on the doorstep, or leaning on the door all night. Nothing is pushing from the other side. It means you don't open it, and once you've seen what is outside, you have no wish to.
+You are to rule over it. That doesn't mean wrestling him on the doorstep, or leaning on the door all night. Nothing is pushing from the other side. It means you don't open it, and once you've seen what's outside, you don't want to.
 
-And look at what is crouching there. It isn't a dragon. It is a pipsqueak with a telephone. Martin Luther was the monk who started the Protestant Reformation. He said that if the devil won't leave any other way, you should jeer at him, because he can't bear scorn. So laugh at the caller as much as you like. Only don't fight him, and don't answer him.
+And look at what's crouching there. It isn't a dragon. It's a pipsqueak with a telephone. Martin Luther was the monk who started the Protestant Reformation. He said that if the devil won't leave any other way, you should jeer at him, because he can't bear scorn. So laugh at the caller all you like. Just don't fight him, and don't answer him.
 
-Don't open the door. James, one of the first leaders of the church, put it as a promise: "Be subject therefore to God. Resist the devil, and he will flee from you." That is no call to wrestle. To resist him is simply not to answer. He has nothing else.
+Don't open the door. James, one of the first leaders of the church, put it as a promise: "Be subject therefore to God. Resist the devil, and he will flee from you." That's no call to wrestle. To resist him is simply not to answer. He has nothing else.
 
-There is a smaller "just once" than any of these, and it is the one that gets most men. It takes two seconds.
+There's a smaller "just once" than any of these, and it's the one that gets most men. It takes two seconds.
 
 <!-- SOURCES (Chapter 13): every quote below is from the research files; check each against its page before publishing.
 - "Within seconds after cumming, the phase shift in mental acuity that I felt was simply astounding." — r/NoFap, "decided to relapse on purpose to see if my…", http://www.reddit.com/r/NoFap/comments/1d3k4w/decided_to_relapse_on_purpose_to_see_if_my/ (via YBOP, https://www.yourbrainonporn.com/rebooting-porn-use-faqs/what-is-the-chaser/; Reddit original not opened. The book reads the "phase shift" as a change for the worse and assumes "a long break"; check the thread.)
