@@ -12,6 +12,8 @@ The rule is strict, and the grace is real. A soldier who trips on the march does
 
 No. There's no counter in this book, so there's no zero to go back to. Your freedom was never a number. A man in a recovery group pictured a row of hurdles. You cleared ten and clipped the eleventh. You don't start the race over.
 
+![](images/illustrations/slip-hurdles-clipped-the-eleventh.png){.illustration width=80%}
+
 Don't shrug it off, though. You fed the Little Monster and your conscience knows it. Porn, the hand, a message to a woman you'd sworn off, a bed: same thing. Do three things, in this order.
 
 *Confess it today.* Don't wait until you've punished yourself for a week. If you're Catholic, that means Confession, and don't put it off. "If we confess our sins, he is faithful". That promise wasn't only for the first time. The proverb says, "a righteous man falls seven times and rises up again". It doesn't say he never falls. It says he gets up. If you're married, don't start a new secret. Agree with your wife what she wants to be told, and tell the man you told. And remember the two words spoken to the son who still smelled of yesterday: just come.

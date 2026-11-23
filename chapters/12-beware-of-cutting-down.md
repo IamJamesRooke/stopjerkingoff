@@ -14,6 +14,8 @@ You may be living on one of these deals already. "Only without porn" is a limit.
 
 One man tried such a deal for Lent, the forty days before Easter when many Christians give something up. He dropped porn and kept masturbation. He found he couldn't do the one without thinking about the other. A smaller meal is still a meal, and the Little Monster is still being fed.
 
+![](images/illustrations/cutting-down-one-crumb.png){.illustration width=80%}
+
 A limit sounds like the grown-up option. It keeps plenty of men caught for life. Four things happen to the man who sets one.
 
 1. **He gets the worst of both worlds.** He's still feeding the Little Monster, so the itch never dies. He also thinks about the habit more than he ever did, so the lies get more to work with.

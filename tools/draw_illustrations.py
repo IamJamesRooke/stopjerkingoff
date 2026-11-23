@@ -435,3 +435,123 @@ def batch4(OUT):
     s+=man(540,250,"flat")+'<path d="M536,402 L520,430"/><path d="M554,402 L572,430"/>'
     s+='<path d="M526,296 L504,336"/><path d="M554,296 L590,250 L600,226"/>'
     s+=TAIL; open(OUT+"ship-men-still-aboard.svg","w").write(s)
+
+# ---- Fifth batch (later chapters). Run with:  python3 tools/draw_illustrations.py images/illustrations/ ----
+def sofa(W=None):
+    o=f'<rect x="120" y="226" width="440" height="80" rx="24" fill="#5A3E9B"/>'
+    return o
+def batch5(OUT):
+    W,H=680,440
+    HAIR="#9C6B3C"; SKIN="#FFE3C7"
+    def phone(x,y,up):
+        if up:
+            return f'<rect x="{x}" y="{y}" width="26" height="46" rx="5" fill="{INK}"/><rect x="{x+4}" y="{y+5}" width="18" height="36" rx="2" fill="{GLOW}" stroke="none"/>'
+        return f'<rect x="{x}" y="{y}" width="26" height="46" rx="5" fill="#3b3b3b"/><circle cx="{x+8}" cy="{y+8}" r="3" fill="{INK}" stroke-width="2"/>'
+    def couch_scene(bg,up):
+        s=head(W,H,bg)
+        s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+        s+='<rect x="130" y="210" width="420" height="110" rx="30" fill="#5A3E9B"/>'
+        s+=man(250,150,"happy" if up else "flat")
+        # wife: hair behind head, yellow top
+        s+=f'<path d="M{430-38},150 C{430-40},100 {430+40},100 {430+36},150 L{430+36},180 L{430-38},180 Z" fill="{HAIR}"/>'
+        s+=man(430,150,"flat",YEL)
+        s+=f'<path d="M{430-36},138 C{430-30},108 {430+30},108 {430+34},140 C{430+10},126 {430-16},128 {430-36},138 Z" fill="{HAIR}"/>'
+        s+='<rect x="130" y="296" width="420" height="80" rx="22" fill="#7B4FD6"/>'
+        s+='<rect x="100" y="250" width="44" height="126" rx="18" fill="#5A3E9B"/><rect x="536" y="250" width="44" height="126" rx="18" fill="#5A3E9B"/>'
+        s+=phone(325,282,up).replace('y="282"','y="282"')
+        s+='<path d="M238,356 L226,408"/><path d="M262,356 L282,408"/><path d="M418,356 L408,408"/><path d="M442,356 L460,408"/>'
+        if up:
+            s+='<path d="M406,206 L362,262 L346,284"/>'  # her hand resting, relaxed, not reaching
+        else:
+            s+='<path d="M406,206 L366,252 L350,280"/>'
+            for (x1,y1,x2,y2) in [(258,206,244,190),(276,218,278,194),(292,236,312,222)]:
+                s+=f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="{YEL}" stroke-width="6"/>'
+        return s+TAIL
+    # 1. The Locked Door: phone face down, his chest jumps
+    open(OUT+"locked-door-phone-face-down.svg","w").write(couch_scene("#FF8C42",False))
+    # 2. Now: the same couch, phone face up, he hasn't given it a thought
+    open(OUT+"now-phone-face-up.svg","w").write(couch_scene("#33C3D6",True))
+
+    # 3. Beware of Cutting Down: a smaller meal is still a meal
+    s=head(W,H,"#2EC4B6")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="60" y="330" width="560" height="22" rx="8" fill="#9C6B3C"/><line x1="110" y1="352" x2="110" y2="408"/><line x1="570" y1="352" x2="570" y2="408"/>'
+    s+=monster(340,330,"dangle",1.5,stink=False)
+    s+='<ellipse cx="340" cy="332" rx="190" ry="34" fill="#fff"/><ellipse cx="340" cy="332" rx="140" ry="22" fill="#FFF6E5" stroke-width="3.5"/>'
+    s+=f'<ellipse cx="344" cy="330" rx="9" ry="6" fill="#D9A55B" stroke-width="3.5"/>'
+    s+=TAIL; open(OUT+"cutting-down-one-crumb.svg","w").write(s)
+
+    # 4. The First Weeks: the old bell rings and he lets it
+    s=head(W,H,"#3A2A7A")
+    s+=moon(600,70,18)+stars([(70,60),(160,110),(430,50),(650,170),(300,40)])
+    s+='<line x1="30" y1="410" x2="650" y2="410" stroke="#fff"/>'
+    s+='<rect x="60" y="320" width="380" height="60" rx="10" fill="#FFF6E5"/><line x1="80" y1="380" x2="80" y2="408"/><line x1="420" y1="380" x2="420" y2="408"/>'
+    s+=f'<rect x="76" y="270" width="110" height="54" rx="18" fill="{YEL}"/>'
+    s+='<circle cx="130" cy="268" r="34" fill="#fff"/>'+dot(122,262)+dot(140,262)+'<line x1="122" y1="282" x2="138" y2="282" stroke-width="3.5"/>'
+    s+=f'<path d="M170,300 C170,276 200,276 230,282 L430,282 C440,282 440,334 430,334 L170,334 Z" fill="{SHIRT}"/>'
+    s+='<rect x="470" y="330" width="130" height="78" rx="8" fill="#FFF6E5"/><line x1="488" y1="408" x2="488" y2="408"/>'
+    s+=f'<path d="M505,330 C505,276 565,276 565,330 Z" fill="{YEL}"/><circle cx="535" cy="272" r="7" fill="{YEL}"/><circle cx="535" cy="338" r="7" fill="{YEL}"/>'
+    for (x1,y1,x2,y2) in [(494,290,476,278),(488,312,466,312),(576,290,594,278),(582,312,604,312)]:
+        s+=f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="#fff" stroke-width="5"/>'
+    s+=TAIL; open(OUT+"first-weeks-the-bell.svg","w").write(s)
+
+    # 5. If You Slip: clipped the eleventh, kept running
+    s=head(W,H,"#6BCB77")
+    s+='<line x1="30" y1="412" x2="650" y2="412"/><line x1="30" y1="428" x2="650" y2="428" stroke="#fff" stroke-width="3"/>'
+    def hurdle(x): return f'<path d="M{x},412 L{x},340 M{x+70},412 L{x+70},340"/><rect x="{x-6}" y="326" width="82" height="16" rx="4" fill="#fff"/>'
+    for x in (70,180): s+=hurdle(x)
+    s+=f'<rect x="300" y="396" width="84" height="16" rx="4" fill="#fff" transform="rotate(-8 340 404)"/><path d="M384,408 L412,396 M300,404 L286,388"/>'
+    s+=man(500,110,"flat")
+    s+='<path d="M486,262 L450,330 L468,404"/><path d="M506,262 L560,310 L600,396"/>'
+    s+='<path d="M486,170 L462,206 L478,236"/><path d="M510,170 L540,200 L526,232"/>'
+    s+='<path d="M440,200 l-26,0 M436,230 l-34,0 M440,260 l-26,0" stroke="#fff" stroke-width="4"/>'
+    s+=TAIL; open(OUT+"slip-hurdles-clipped-the-eleventh.svg","w").write(s)
+
+    # 6. Do Not Negotiate: how many times he has to knock
+    s=head(W,H,"#00A6A6")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=f'<rect x="400" y="100" width="170" height="310" rx="8" fill="{YEL}"/><rect x="420" y="130" width="130" height="110" rx="6" stroke-width="3.5"/><rect x="420" y="262" width="130" height="120" rx="6" stroke-width="3.5"/>'
+    s+='<circle cx="414" cy="270" r="9" fill="#fff"/>'
+    s+=man(220,150,"flat")+legs(220,302,20)
+    s+='<path d="M206,196 L186,250 L170,290"/><path d="M234,196 L330,210 L392,196"/>'
+    s+=f'<circle cx="396" cy="194" r="11" fill="{SKIN}"/>'
+    s+='<path d="M418,170 l12,-10 M420,200 l16,0 M418,230 l12,10" stroke="#fff" stroke-width="5"/>'
+    for i in range(6):
+        x=432+i*18
+        s+=f'<line x1="{x}" y1="296" x2="{x}" y2="350" stroke="#fff" stroke-width="3.5"/>'
+    s+='<line x1="426" y1="342" x2="534" y2="304" stroke="#fff" stroke-width="3.5"/>'
+    s+=TAIL; open(OUT+"negotiate-knocking-on-the-door.svg","w").write(s)
+
+    # 7. Can I Compartmentalize?: he won't stay in his room
+    s=head(W,H,"#FF9F1C")
+    s+='<rect x="20" y="110" width="640" height="280" fill="#FFF6E5" stroke="none"/><line x1="20" y1="390" x2="660" y2="390"/><line x1="20" y1="110" x2="660" y2="110"/>'
+    for x in (350,490):
+        s+=f'<rect x="{x}" y="180" width="90" height="210" rx="4" fill="#9C6B3C"/><circle cx="{x+72}" cy="290" r="5" fill="{YEL}"/>'
+    s+=f'<rect x="60" y="180" width="110" height="210" rx="4" fill="{INK}"/><path d="M60,180 L22,196 L22,392 L60,390 Z" fill="#9C6B3C"/><circle cx="34" cy="290" r="4" fill="{YEL}"/>'
+    for (x,y) in [(196,380),(232,372),(268,380)]:
+        s+=f'<ellipse cx="{x}" cy="{y}" rx="11" ry="5" fill="{LIME}"/>'
+    s+=monster(310,384,"dangle",1.05,stink=False)
+    s+=TAIL; open(OUT+"compartment-down-the-hall.svg","w").write(s)
+
+    # 8. The Man Led by a Woman: the lever sticking out of him
+    s=head(W,H,"#FF6B6B")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=man(330,140,"flat",SHIRT)+'<path d="M322,292 L296,340 L270,406"/><path d="M342,292 L384,330 L420,402"/>'
+    s+='<path d="M318,190 L292,224 L306,252"/><path d="M344,190 L370,228 L356,256"/>'
+    s+=f'<path d="M306,226 L190,120" stroke-width="12"/><path d="M306,226 L190,120" stroke="{YEL}" stroke-width="5"/><circle cx="186" cy="116" r="14" fill="{RED}"/>'
+    s+=f'<path d="M0,20 L90,70 L150,104 L136,126 L70,100 L0,70 Z" fill="#3b3b3b"/><circle cx="168" cy="102" r="16" fill="{SKIN}"/>'
+    s+='<path d="M472,200 l36,0 M476,240 l44,0 M472,280 l36,0" stroke="#fff" stroke-width="4"/>'
+    s+=TAIL; open(OUT+"led-by-woman-the-lever.svg","w").write(s)
+
+    # 9. The Back Door: fruit juice and cola, same sugar
+    s=head(W,H,"#FFE066")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=f'<path d="M140,190 L260,190 L248,408 L152,408 Z" fill="#fff"/><path d="M144,230 L256,230 L248,408 L152,408 Z" fill="#FFA630"/>'
+    s+=f'<path d="M410,170 Q410,160 430,160 L500,160 Q520,160 520,170 L520,408 L410,408 Z" fill="{RED}"/><rect x="410" y="250" width="110" height="60" fill="#fff" stroke-width="3.5"/><ellipse cx="465" cy="162" rx="55" ry="9" fill="#D9D9D9"/>'
+    for (x,y) in [(170,376),(204,376),(187,344)]+[(60+0,0)][:0]:
+        pass
+    def cubes(x):
+        return "".join(f'<rect x="{cx}" y="{cy}" width="30" height="30" rx="4" fill="#fff" stroke-width="4" transform="rotate({r} {cx+15} {cy+15})"/>' for (cx,cy,r) in [(x,376,-4),(x+34,376,5),(x+17,344,-6)])
+    s+=cubes(266)+cubes(536)
+    s+=TAIL; open(OUT+"back-door-juice-and-cola.svg","w").write(s)
+batch5(OUT)

@@ -10,6 +10,8 @@ A man on the chase thinks he's doing the leading. He's got it backward. It fits 
 
 Think of his wanting as a lever sticking out of him. Anyone who grabs it can steer him.
 
+![](images/illustrations/led-by-woman-the-lever.png){.illustration width=80%}
+
 ## Whoever knows what he wants {-}
 
 The lever doesn't care whose hand is on it. Anyone who knows what he wants can pull it.

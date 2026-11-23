@@ -58,6 +58,8 @@ Look back at the house for a moment. The Little Monster had no body of his own. 
 
 And the man on the couch? His phone's lying face up on the cushion tonight, and he hasn't given it a thought.
 
+![](images/illustrations/now-phone-face-up.png){.illustration width=80%}
+
 And the man in the bed at two in the morning? He's asleep. His phone is charging in the kitchen.
 
 And the single man? He had dinner with friends on Friday, and on Saturday morning nobody was looking for shoes.
