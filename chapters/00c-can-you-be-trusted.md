@@ -6,11 +6,15 @@ It cuts both ways. A man picking a wife should ask the same of her. Can she say 
 
 Picture a soldier who shows up for duty drunk. Maybe he's on the right side. Maybe everybody loves him. He's still unfit, and the men counting on him are on their own.
 
+![](images/illustrations/trusted-soldier-on-duty-drunk.png){.illustration width=80%}
+
 Self-control is the theme under this whole book, and it comes down to one hard sentence. **A man who can't control his lust can't be trusted.** His wife can't fully trust him. Worst of all, he can't trust himself, because he's broken his own word too many times.
 
 You don't need that proved. Ask the man who said "never again" last night. It's no accusation. It's true of half the respectable men you'll meet today.
 
 And look who did this to us. Not a dragon. A grown man, trusted with a job and a family, can't keep his word against a Little Monster the size of a house cat. If that annoys you, good. Be annoyed at the right party.
+
+![](images/illustrations/trusted-cat-sized-monster.png){.illustration width=80%}
 
 The reverse is true too. A man who can say no has a yes that's worth something. His wife can rest her weight on it. So can his children, and the men beside him. So can he.
 

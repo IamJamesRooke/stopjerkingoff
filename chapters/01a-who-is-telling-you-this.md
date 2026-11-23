@@ -16,6 +16,8 @@ It cost me three relationships, an engagement and a marriage.
 
 Then I went the other way. I chased woman after woman, just to run up the count. I spent my nights in bed with the phone, swiping and sexting. When I liked one, I checked for her texts all day. To calm my nerves, I kept a dozen others talking as backups. That's not a man with options. That's a man with thirteen ways to be anxious.
 
+![](images/illustrations/who-thirteen-ways-to-be-anxious.png){.illustration width=80%}
+
 Then I started paying for it. I'd love to tell you I was lonely. I wasn't. Getting dates wasn't the problem. I wanted one thing, and once I got it, I lost interest in the woman. Paying seemed more honest. It was cheaper, too, and faster.
 
 Men like me have a saying. You don't pay her for the sex. You pay her to leave.
@@ -29,6 +31,8 @@ And none of it was ever enough.
 Lust wasn't my only sedative, and it probably isn't yours. Look at one ordinary evening.
 
 A man comes home tired and pours a drink to take the edge off. Dinner's a burger and fries out of a paper bag, then a whole sleeve of cookies. He games till midnight. He scrolls for an hour. He finishes on a porn site.
+
+![](images/illustrations/who-the-ordinary-evening.png){.illustration width=80%}
 
 Another man's evening has weed in it, or a betting app. The drug changes. The job's the same. Every one of them is sold as taking the edge off. What it takes off is *his* edge, the part of a man that gets things done. None of it's a crime. All of it's a sedative.
 

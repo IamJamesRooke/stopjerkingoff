@@ -27,6 +27,8 @@ Think of your life as a house. Up in the back room lurks a little monster. A scr
 
 When he's hungry he bangs and bangs and bangs on the floor. That banging is the urge. He keeps hammering until you trudge up the stairs with his dinner.
 
+![](images/illustrations/intro-back-room.png){.illustration width=80%}
+
 You know his menu.
 
 - Every time you masturbate to pixelated women.
@@ -46,8 +48,6 @@ You know his menu.
 That's his dinner. All of it.
 
 Then he belches, curls up, and leaves you alone for a while.
-
-![](images/illustrations/intro-back-room.png){.illustration width=80%}
 
 
 This book calls him the Little Monster. He's only a picture of the craving. Nothing is really living in you.
