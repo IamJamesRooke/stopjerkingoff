@@ -15,6 +15,8 @@ Take the man on the couch, the week after his last time.
 
 Monday he gets into bed and the old cue goes off on schedule, like a bell. He lies there. It's a little like wanting to sneeze. He doesn't argue with it and he doesn't feed it. Twenty minutes later he's asleep.
 
+![](images/illustrations/first-weeks-the-bell.png){.illustration width=80%}
+
 Tuesday is nothing at all. He's almost offended.
 
 Wednesday he wakes up hard, and the old thought arrives with the alarm. He gets up and puts the kettle on. By the time it boils, the thought's gone.

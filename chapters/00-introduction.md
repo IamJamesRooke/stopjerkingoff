@@ -25,6 +25,8 @@ That overwhelming urge when temptation hits? That faint, fidgety itch, that crav
 
 Think of your life as a house. He lurks up in the back room. A scrawny pipsqueak, the size of a house cat, who reeks like cheese left to rot in a car in midsummer. This pest has never paid a dime of rent. He doesn't even buy his own food, because you're the one who feeds him.
 
+![](images/illustrations/intro-back-room.png){.illustration width=80%}
+
 When he's hungry he bangs and bangs and bangs on the floor. That banging is the urge. He keeps hammering until you trudge up the stairs with his dinner.
 
 You know his menu.
@@ -46,8 +48,6 @@ You know his menu.
 That's his dinner. All of it.
 
 Then he belches, curls up, and leaves you alone for a while.
-
-![](images/illustrations/intro-back-room.png){.illustration width=80%}
 
 
 This book calls him the Little Monster. He isn't real. He's a picture of the craving.

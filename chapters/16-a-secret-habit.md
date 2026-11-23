@@ -20,6 +20,8 @@ Here's what the locked door costs a grown man on an ordinary evening.
 
 He's on the couch beside his wife, and his phone lies face down on the cushion. It's always face down. She reaches across and picks it up to check the time, and something in his chest jumps before he can stop it.
 
+![](images/illustrations/locked-door-phone-face-down.png){.illustration width=80%}
+
 There's nothing on the screen. He cleared it an hour ago, as he clears it every night. He runs the checklist in his head anyway. The history. The other tab. The folder with the dull name.
 
 She hands the phone back and says it's nearly ten. He says he might stay up a while.

@@ -26,6 +26,8 @@ Not hard to see how. The hand never works alone. Something's always playing whil
 
 Men have a name for the pictures stored in the head for this. The spank bank. A man who draws on it is still watching porn. He's just moved the screen inside his skull. It's weaker there, the way fruit juice is weaker than a can of cola. Same sugar, same job.
 
+![](images/illustrations/back-door-juice-and-cola.png){.illustration width=80%}
+
 And a memory wears thin. So the hand goes shopping for a stronger film, and it knows exactly where that film is kept. The man bolted the front door and left the back door wide open. Now he's shocked to find the same old visitor in his kitchen.
 
 Even if your hand never leads you back to the screen, the trade is the same. You ease an itch for ten minutes, and the easing sets it going again.

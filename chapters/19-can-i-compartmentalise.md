@@ -10,6 +10,8 @@ Men trying to stop by willpower spread it. They can't stop, so they need a story
 
 Neat picture. Rotten from start to finish. In Robert Louis Stevenson's book, Hyde doesn't stay in his room. He gets stronger every time he's let out, and by the end he's turning up uninvited. Yours doesn't get stronger, but he won't stay in his room either. You've watched him move down the hall, room by room. There's only one man in that story, and there's only one of you.
 
+![](images/illustrations/compartment-down-the-hall.png){.illustration width=80%}
+
 ## What you're rehearsing {-}
 
 Every session is a rehearsal, and a man turns into what he rehearses. He practices being a spectator. He practices getting his own way, at his own speed, with a cast he can swap the second his interest dips.

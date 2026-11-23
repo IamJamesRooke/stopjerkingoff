@@ -4,6 +4,8 @@ Easy? You've quit before. You remember how it went. You clenched your jaw and cr
 
 That's the normal way. It drops you at the foot of a mountain and drags you up by the collar, starving the whole climb and sure you've been robbed.
 
+![](images/illustrations/easy-method-foot-of-the-mountain.png){.illustration width=80%}
+
 This way starts with relief. Like a man who walks out of the doctor's office with the all-clear and wants to hug the parking attendant.
 
 How? It won't make you stronger. It won't make you more disciplined. It changes one thing: how you see the habit.
@@ -43,6 +45,8 @@ That's why the scare videos and the sermons that rattled the windows never freed
 
 **Two. Every reason to stop makes stopping harder.** Tell a boy he can't have the cookie, and the cookie doubles in size.
 
+![](images/illustrations/easy-method-the-cookie.png){.illustration width=80%}
+
 Your reasons say you *ought* to give something up. So part of you goes on believing there's something to give up. A comfort. A treat. An old buddy. You feel like a kid dragged out of the candy store by his ear.
 
 ## Three questions {-}
@@ -62,6 +66,8 @@ Get that exactly right. This isn't the old line that the costs are bigger than t
 Not one.
 
 Yes, the finish feels good. That's real. It's the bait, and you'll see what's on the hook.
+
+![](images/illustrations/easy-method-bait-and-hook.png){.illustration width=80%}
 
 - The relaxation.
 - The stress relief.

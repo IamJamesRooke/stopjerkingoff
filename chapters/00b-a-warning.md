@@ -9,6 +9,8 @@ Press it, and the man wakes up tomorrow as someone who never started. No porn. N
 
 Would the man press it? He'd break the nightstand. So would you.
 
+![](images/illustrations/button-he-would-break-the-nightstand.png){.illustration width=80%}
+
 Now ask why. Nobody would press a button to get rid of fishing. Nobody would press one to get rid of Sunday dinner. You don't wish you'd never met a thing that's good for you. You'd only press it for something that's hurting you.
 
 So part of you already knows. The pest doesn't belong up there.

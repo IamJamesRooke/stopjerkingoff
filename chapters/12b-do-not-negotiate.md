@@ -8,6 +8,8 @@ He doesn't hear her words. He doesn't think, "She isn't interested in me." He th
 
 It makes no difference what she said, or how angrily. She answered, and to him an answer is a prize. She meant to shut the door. She's shown him exactly how many times he has to knock.
 
+![](images/illustrations/negotiate-knocking-on-the-door.png){.illustration width=80%}
+
 That picture comes from Gavin de Becker, an American security specialist who spent his career guarding public figures from stalkers. He put it in a book called *The Gift of Fear*, in 1997. He has one rule for every kind of unwanted pursuit, and it's three words long.
 
 **Do not negotiate.**

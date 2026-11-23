@@ -435,3 +435,243 @@ def batch4(OUT):
     s+=man(540,250,"flat")+'<path d="M536,402 L520,430"/><path d="M554,402 L572,430"/>'
     s+='<path d="M526,296 L504,336"/><path d="M554,296 L590,250 L600,226"/>'
     s+=TAIL; open(OUT+"ship-men-still-aboard.svg","w").write(s)
+
+# ---- Fifth batch (later chapters). Run with:  python3 tools/draw_illustrations.py images/illustrations/ ----
+def sofa(W=None):
+    o=f'<rect x="120" y="226" width="440" height="80" rx="24" fill="#5A3E9B"/>'
+    return o
+def batch5(OUT):
+    W,H=680,440
+    HAIR="#9C6B3C"; SKIN="#FFE3C7"
+    def phone(x,y,up):
+        if up:
+            return f'<rect x="{x}" y="{y}" width="26" height="46" rx="5" fill="{INK}"/><rect x="{x+4}" y="{y+5}" width="18" height="36" rx="2" fill="{GLOW}" stroke="none"/>'
+        return f'<rect x="{x}" y="{y}" width="26" height="46" rx="5" fill="#3b3b3b"/><circle cx="{x+8}" cy="{y+8}" r="3" fill="{INK}" stroke-width="2"/>'
+    def couch_scene(bg,up):
+        s=head(W,H,bg)
+        s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+        s+='<rect x="130" y="210" width="420" height="110" rx="30" fill="#5A3E9B"/>'
+        s+=man(250,150,"happy" if up else "flat")
+        # wife: hair behind head, yellow top
+        s+=f'<path d="M{430-38},150 C{430-40},100 {430+40},100 {430+36},150 L{430+36},180 L{430-38},180 Z" fill="{HAIR}"/>'
+        s+=man(430,150,"flat",YEL)
+        s+=f'<path d="M{430-36},138 C{430-30},108 {430+30},108 {430+34},140 C{430+10},126 {430-16},128 {430-36},138 Z" fill="{HAIR}"/>'
+        s+='<rect x="130" y="296" width="420" height="80" rx="22" fill="#7B4FD6"/>'
+        s+='<rect x="100" y="250" width="44" height="126" rx="18" fill="#5A3E9B"/><rect x="536" y="250" width="44" height="126" rx="18" fill="#5A3E9B"/>'
+        s+=phone(325,282,up).replace('y="282"','y="282"')
+        s+='<path d="M238,356 L226,408"/><path d="M262,356 L282,408"/><path d="M418,356 L408,408"/><path d="M442,356 L460,408"/>'
+        if up:
+            s+='<path d="M406,206 L362,262 L346,284"/>'  # her hand resting, relaxed, not reaching
+        else:
+            s+='<path d="M406,206 L366,252 L350,280"/>'
+            for (x1,y1,x2,y2) in [(258,206,244,190),(276,218,278,194),(292,236,312,222)]:
+                s+=f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="{YEL}" stroke-width="6"/>'
+        return s+TAIL
+    # 1. The Locked Door: phone face down, his chest jumps
+    open(OUT+"locked-door-phone-face-down.svg","w").write(couch_scene("#FF8C42",False))
+    # 2. Now: the same couch, phone face up, he hasn't given it a thought
+    open(OUT+"now-phone-face-up.svg","w").write(couch_scene("#33C3D6",True))
+
+    # 3. Beware of Cutting Down: a smaller meal is still a meal
+    s=head(W,H,"#2EC4B6")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="60" y="330" width="560" height="22" rx="8" fill="#9C6B3C"/><line x1="110" y1="352" x2="110" y2="408"/><line x1="570" y1="352" x2="570" y2="408"/>'
+    s+=monster(340,330,"dangle",1.5,stink=False)
+    s+='<ellipse cx="340" cy="332" rx="190" ry="34" fill="#fff"/><ellipse cx="340" cy="332" rx="140" ry="22" fill="#FFF6E5" stroke-width="3.5"/>'
+    s+=f'<ellipse cx="344" cy="330" rx="9" ry="6" fill="#D9A55B" stroke-width="3.5"/>'
+    s+=TAIL; open(OUT+"cutting-down-one-crumb.svg","w").write(s)
+
+    # 4. The First Weeks: the old bell rings and he lets it
+    s=head(W,H,"#3A2A7A")
+    s+=moon(600,70,18)+stars([(70,60),(160,110),(430,50),(650,170),(300,40)])
+    s+='<line x1="30" y1="410" x2="650" y2="410" stroke="#fff"/>'
+    s+='<rect x="60" y="320" width="380" height="60" rx="10" fill="#FFF6E5"/><line x1="80" y1="380" x2="80" y2="408"/><line x1="420" y1="380" x2="420" y2="408"/>'
+    s+=f'<rect x="76" y="270" width="110" height="54" rx="18" fill="{YEL}"/>'
+    s+='<circle cx="130" cy="268" r="34" fill="#fff"/>'+dot(122,262)+dot(140,262)+'<line x1="122" y1="282" x2="138" y2="282" stroke-width="3.5"/>'
+    s+=f'<path d="M170,300 C170,276 200,276 230,282 L430,282 C440,282 440,334 430,334 L170,334 Z" fill="{SHIRT}"/>'
+    s+='<rect x="470" y="330" width="130" height="78" rx="8" fill="#FFF6E5"/><line x1="488" y1="408" x2="488" y2="408"/>'
+    s+=f'<path d="M505,330 C505,276 565,276 565,330 Z" fill="{YEL}"/><circle cx="535" cy="272" r="7" fill="{YEL}"/><circle cx="535" cy="338" r="7" fill="{YEL}"/>'
+    for (x1,y1,x2,y2) in [(494,290,476,278),(488,312,466,312),(576,290,594,278),(582,312,604,312)]:
+        s+=f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="#fff" stroke-width="5"/>'
+    s+=TAIL; open(OUT+"first-weeks-the-bell.svg","w").write(s)
+
+    # 5. If You Slip: clipped the eleventh, kept running
+    s=head(W,H,"#6BCB77")
+    s+='<line x1="30" y1="412" x2="650" y2="412"/><line x1="30" y1="428" x2="650" y2="428" stroke="#fff" stroke-width="3"/>'
+    def hurdle(x): return f'<path d="M{x},412 L{x},340 M{x+70},412 L{x+70},340"/><rect x="{x-6}" y="326" width="82" height="16" rx="4" fill="#fff"/>'
+    for x in (70,180): s+=hurdle(x)
+    s+=f'<rect x="300" y="396" width="84" height="16" rx="4" fill="#fff" transform="rotate(-8 340 404)"/><path d="M384,408 L412,396 M300,404 L286,388"/>'
+    s+=man(500,110,"flat")
+    s+='<path d="M486,262 L450,330 L468,404"/><path d="M506,262 L560,310 L600,396"/>'
+    s+='<path d="M486,170 L462,206 L478,236"/><path d="M510,170 L540,200 L526,232"/>'
+    s+='<path d="M440,200 l-26,0 M436,230 l-34,0 M440,260 l-26,0" stroke="#fff" stroke-width="4"/>'
+    s+=TAIL; open(OUT+"slip-hurdles-clipped-the-eleventh.svg","w").write(s)
+
+    # 6. Do Not Negotiate: how many times he has to knock
+    s=head(W,H,"#00A6A6")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=f'<rect x="400" y="100" width="170" height="310" rx="8" fill="{YEL}"/><rect x="420" y="130" width="130" height="110" rx="6" stroke-width="3.5"/><rect x="420" y="262" width="130" height="120" rx="6" stroke-width="3.5"/>'
+    s+='<circle cx="414" cy="270" r="9" fill="#fff"/>'
+    s+=man(220,150,"flat")+legs(220,302,20)
+    s+='<path d="M206,196 L186,250 L170,290"/><path d="M234,196 L330,210 L392,196"/>'
+    s+=f'<circle cx="396" cy="194" r="11" fill="{SKIN}"/>'
+    s+='<path d="M418,170 l12,-10 M420,200 l16,0 M418,230 l12,10" stroke="#fff" stroke-width="5"/>'
+    for i in range(6):
+        x=432+i*18
+        s+=f'<line x1="{x}" y1="296" x2="{x}" y2="350" stroke="#fff" stroke-width="3.5"/>'
+    s+='<line x1="426" y1="342" x2="534" y2="304" stroke="#fff" stroke-width="3.5"/>'
+    s+=TAIL; open(OUT+"negotiate-knocking-on-the-door.svg","w").write(s)
+
+    # 7. Can I Compartmentalize?: he won't stay in his room
+    s=head(W,H,"#FF9F1C")
+    s+='<rect x="20" y="110" width="640" height="280" fill="#FFF6E5" stroke="none"/><line x1="20" y1="390" x2="660" y2="390"/><line x1="20" y1="110" x2="660" y2="110"/>'
+    for x in (350,490):
+        s+=f'<rect x="{x}" y="180" width="90" height="210" rx="4" fill="#9C6B3C"/><circle cx="{x+72}" cy="290" r="5" fill="{YEL}"/>'
+    s+=f'<rect x="60" y="180" width="110" height="210" rx="4" fill="{INK}"/><path d="M60,180 L22,196 L22,392 L60,390 Z" fill="#9C6B3C"/><circle cx="34" cy="290" r="4" fill="{YEL}"/>'
+    for (x,y) in [(196,380),(232,372),(268,380)]:
+        s+=f'<ellipse cx="{x}" cy="{y}" rx="11" ry="5" fill="{LIME}"/>'
+    s+=monster(310,384,"dangle",1.05,stink=False)
+    s+=TAIL; open(OUT+"compartment-down-the-hall.svg","w").write(s)
+
+    # 8. The Man Led by a Woman: the lever sticking out of him
+    s=head(W,H,"#FF6B6B")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=man(330,140,"flat",SHIRT)+'<path d="M322,292 L296,340 L270,406"/><path d="M342,292 L384,330 L420,402"/>'
+    s+='<path d="M318,190 L292,224 L306,252"/><path d="M344,190 L370,228 L356,256"/>'
+    s+=f'<path d="M306,226 L190,120" stroke-width="12"/><path d="M306,226 L190,120" stroke="{YEL}" stroke-width="5"/><circle cx="186" cy="116" r="14" fill="{RED}"/>'
+    s+=f'<path d="M0,20 L90,70 L150,104 L136,126 L70,100 L0,70 Z" fill="#3b3b3b"/><circle cx="168" cy="102" r="16" fill="{SKIN}"/>'
+    s+='<path d="M472,200 l36,0 M476,240 l44,0 M472,280 l36,0" stroke="#fff" stroke-width="4"/>'
+    s+=TAIL; open(OUT+"led-by-woman-the-lever.svg","w").write(s)
+
+    # 9. The Back Door: fruit juice and cola, same sugar
+    s=head(W,H,"#FFE066")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=f'<path d="M140,190 L260,190 L248,408 L152,408 Z" fill="#fff"/><path d="M144,230 L256,230 L248,408 L152,408 Z" fill="#FFA630"/>'
+    s+=f'<path d="M410,170 Q410,160 430,160 L500,160 Q520,160 520,170 L520,408 L410,408 Z" fill="{RED}"/><rect x="410" y="250" width="110" height="60" fill="#fff" stroke-width="3.5"/><ellipse cx="465" cy="162" rx="55" ry="9" fill="#D9D9D9"/>'
+    for (x,y) in [(170,376),(204,376),(187,344)]+[(60+0,0)][:0]:
+        pass
+    def cubes(x):
+        return "".join(f'<rect x="{cx}" y="{cy}" width="30" height="30" rx="4" fill="#fff" stroke-width="4" transform="rotate({r} {cx+15} {cy+15})"/>' for (cx,cy,r) in [(x,376,-4),(x+34,376,5),(x+17,344,-6)])
+    s+=cubes(266)+cubes(536)
+    s+=TAIL; open(OUT+"back-door-juice-and-cola.svg","w").write(s)
+
+# ---- Sixth batch (Introduction to chapter 4). ----
+def batch6(OUT):
+    W,H=680,440
+    SKIN="#FFE3C7"; HAIR="#9C6B3C"
+    # 1. Can You Be Trusted?: the soldier who shows up drunk
+    s=head(W,H,"#5C7AEA")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=f'<rect x="470" y="170" width="120" height="240" fill="#fff"/><path d="M470,170 L530,110 L590,170 Z" fill="{RED}"/>'
+    s+=f'<rect x="470" y="250" width="120" height="40" fill="{RED}" stroke="none"/><rect x="470" y="170" width="120" height="240" fill="none"/>'
+    s+='<rect x="500" y="300" width="60" height="110" fill="#3b3b3b"/>'
+    # drunk soldier, leaning
+    s+='<g transform="rotate(-12 260 400)">'
+    s+=man(260,150,"blank","#4E7A12")
+    s+=f'<path d="M224,138 C224,100 296,100 296,138 Z" fill="#4E7A12"/><rect x="220" y="134" width="80" height="8" rx="3" fill="#4E7A12"/>'
+    s+='<path d="M246,302 L222,408"/><path d="M270,302 L306,404"/>'
+    s+='<path d="M246,196 L216,240 L234,270"/><path d="M276,196 L318,230 L338,206"/>'
+    s+=f'<rect x="330" y="180" width="26" height="46" rx="6" fill="#7A3E12" transform="rotate(25 343 203)"/><rect x="338" y="160" width="10" height="26" rx="3" fill="#7A3E12" transform="rotate(25 343 203)"/>'
+    s+='</g>'
+    s+=f'<circle cx="190" cy="100" r="7" fill="{YEL}" stroke="none"/><circle cx="330" cy="86" r="7" fill="{YEL}" stroke="none"/><circle cx="262" cy="64" r="7" fill="{YEL}" stroke="none"/>'
+    # two worried small soldiers far right-back
+    for x in (610,):
+        pass
+    s+=TAIL; open(OUT+"trusted-soldier-on-duty-drunk.svg","w").write(s)
+
+    # 2. Can You Be Trusted?: a grown man, a Little Monster the size of a house cat
+    s=head(W,H,"#FF8FB1")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=f'<path d="M80,410 L80,270 Q80,230 120,230 L220,230 Q260,230 260,270 L260,410 Z" fill="#7B4FD6"/>'
+    s+=man(150,190,"squeeze","#6B7A8F")
+    s+=f'<path d="M110,290 L100,360 M190,290 L200,360" />'
+    s+=f'<path d="M126,236 L108,214 L126,226 M180,236 L198,214 L178,228"/>'
+    s+=monster(430,400,"tantrum",1.5,stink=False)
+    # cat for size
+    s+=f'<ellipse cx="560" cy="380" rx="42" ry="24" fill="#FFA630"/><circle cx="598" cy="356" r="19" fill="#FFA630"/><path d="M586,342 L588,322 L600,338 M606,340 L616,324 L614,346" fill="#FFA630"/>'
+    s+=dot(592,354,3)+dot(606,354,3)+'<path d="M522,372 q-30,-30 -8,-52" stroke-width="7" stroke="#FFA630"/><path d="M522,372 q-30,-30 -8,-52" stroke-width="3"/>'
+    s+=TAIL; open(OUT+"trusted-cat-sized-monster.svg","w").write(s)
+
+    # 3. The Easy Method: the foot of the mountain
+    s=head(W,H,"#9AD0FF")
+    s+=f'<path d="M20,410 L330,60 L640,410 Z" fill="#8F7BD6"/><path d="M330,60 L290,110 L320,104 L338,124 L360,100 L388,112 Z" fill="#fff"/>'
+    s+='<path d="M150,396 L470,350 L190,306 L440,266 L240,230 L400,196 L300,150" stroke="#F6D89A" stroke-width="7"/>'
+    s+='<line x1="30" y1="412" x2="650" y2="412"/>'
+    s+=man(110,230,"squeeze")+legs(110,382,16).replace('M','M',1)
+    s+=f'<rect x="118" y="256" width="46" height="60" rx="10" fill="{RED}"/>'
+    s+='<path d="M96,276 L122,350"/><path d="M122,278 L170,320"/>'
+    s+=f'<path d="M84,214 q-12,10 -4,24 q8,-6 4,-24 Z" fill="#4FB3FF" stroke-width="2"/>'
+    s+=TAIL; open(OUT+"easy-method-foot-of-the-mountain.svg","w").write(s)
+
+    # 4. The Easy Method: tell a boy he can't have the cookie
+    s=head(W,H,"#7FD3FF")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="330" y="150" width="300" height="16" rx="5" fill="#9C6B3C"/><line x1="360" y1="166" x2="360" y2="210"/><line x1="600" y1="166" x2="600" y2="210"/>'
+    s+=f'<circle cx="480" cy="86" r="62" fill="#D9A55B"/>'
+    for (x,y) in [(450,64),(500,52),(520,96),(468,110),(430,100),(496,128)]:
+        s+=f'<circle cx="{x}" cy="{y}" r="8" fill="#5A3E1A"/>'
+    s+=man(200,230,"squeeze")
+    s+=f'<path d="M184,368 L172,408"/><path d="M206,368 L224,408"/>'
+    s+='<path d="M186,270 L240,210 L300,150"/><path d="M210,270 L274,222 L330,166"/>'
+    s+=f'<rect x="196" y="300" width="14" height="60" fill="none" stroke="none"/>'
+    s+=TAIL; open(OUT+"easy-method-the-cookie.svg","w").write(s)
+
+    # 5. The Easy Method: the bait and what's on the hook
+    s=head(W,H,"#1FA2D8")
+    s+='<path d="M0,70 Q85,50 170,70 T340,70 T510,70 T680,70 L680,60 L0,60 Z" fill="#fff" stroke="none"/>'
+    s+='<line x1="460" y1="0" x2="460" y2="250" stroke="#fff" stroke-width="4"/>'
+    s+=f'<path d="M460,250 L460,300 Q460,332 430,332 Q408,332 408,308" stroke-width="7"/><path d="M408,308 L398,290" stroke-width="7"/>'
+    s+=f'<path d="M452,262 q18,10 4,22 q-14,12 4,24" stroke="#FF8FA3" stroke-width="12"/><path d="M452,262 q18,10 4,22 q-14,12 4,24" stroke="{INK}" stroke-width="2"/>'
+    s+=f'<ellipse cx="200" cy="300" rx="80" ry="46" fill="#FFA630"/><path d="M120,300 L80,262 L80,338 Z" fill="#FFA630"/><path d="M200,256 L220,226 L246,262 Z" fill="#FFA630"/>'
+    s+=f'<path d="M262,284 Q290,300 262,320 Z" fill="#fff" stroke-width="4"/>'+dot(244,288,5)
+    s+='<path d="M170,270 q-14,30 0,60 M200,262 q-14,38 0,76" stroke-width="3.5"/>'
+    s+='<path d="M60,160 q10,-10 20,0 M110,380 q8,-8 16,0" stroke="#fff" stroke-width="4"/>'
+    s+=TAIL; open(OUT+"easy-method-bait-and-hook.svg","w").write(s)
+
+    # 6. Who Is Telling You This: the ordinary evening
+    s=head(W,H,"#FF8C42")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="90" y="220" width="300" height="100" rx="30" fill="#5A3E9B"/>'
+    s+=man(240,150,"blank")
+    s+='<rect x="90" y="296" width="300" height="80" rx="22" fill="#7B4FD6"/><rect x="66" y="250" width="40" height="126" rx="16" fill="#5A3E9B"/><rect x="374" y="250" width="40" height="126" rx="16" fill="#5A3E9B"/>'
+    s+='<path d="M226,356 L216,408"/><path d="M254,356 L274,408"/>'
+    s+='<path d="M230,196 L210,250 L246,262"/><path d="M256,196 L290,240 L262,262"/>'
+    s+=f'<rect x="232" y="252" width="42" height="22" rx="8" fill="{INK}"/>'
+    s+='<rect x="430" y="330" width="210" height="16" rx="5" fill="#9C6B3C"/><line x1="450" y1="346" x2="450" y2="408"/><line x1="620" y1="346" x2="620" y2="408"/>'
+    s+='<path d="M446,262 L458,330 L492,330 L504,262 Z" fill="#FFA630" fill-opacity="0.85"/><rect x="446" y="256" width="58" height="10" rx="4" fill="#fff" fill-opacity="0.8"/>'
+    s+='<path d="M520,330 L526,284 L580,284 L586,330 Z" fill="#D9A55B"/><path d="M528,286 l6,-20 l8,14 l6,-18 l8,18 l6,-14 l6,18 l8,-16 l4,18" fill="#FFD23F"/>'
+    s+=f'<path d="M594,330 C594,290 640,290 640,330 Z" fill="#E2A24E"/><rect x="594" y="318" width="46" height="12" fill="#6BCB77"/><path d="M594,330 L640,330 L640,336 L594,336 Z" fill="#E2A24E"/>'
+    s+=f'<rect x="530" y="230" width="36" height="52" rx="4" fill="#fff"/><circle cx="548" cy="248" r="8" fill="#9C6B3C"/><circle cx="548" cy="266" r="8" fill="#9C6B3C"/>'.replace('<rect x="530" y="230" width="36" height="52" rx="4" fill="#fff"/>','')
+    s+=TAIL; open(OUT+"who-the-ordinary-evening.svg","w").write(s)
+
+    # 7. Who Is Telling You This: thirteen ways to be anxious
+    s=head(W,H,"#B388EB")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=man(340,200,"squeeze")+legs(340,352,16)
+    s+=f'<path d="M326,246 L296,300 L328,320"/><path d="M352,246 L384,300 L350,320"/>'
+    s+=f'<rect x="326" y="296" width="30" height="46" rx="5" fill="{INK}"/><rect x="330" y="301" width="22" height="36" rx="2" fill="{GLOW}" stroke="none"/>'
+    s+=f'<path d="M300,174 q-14,10 -6,26 q10,-8 6,-26 Z" fill="#4FB3FF" stroke-width="2"/><path d="M384,170 q14,10 6,26 q-10,-8 -6,-26 Z" fill="#4FB3FF" stroke-width="2"/>'
+    import math
+    pts=[(90,70),(190,48),(300,40),(410,40),(520,52),(600,90),(60,170),(630,180),(72,270),(618,276),(130,340),(560,350),(240,360)]
+    for (x,y) in pts[:13]:
+        s+=f'<ellipse cx="{x}" cy="{y}" rx="36" ry="22" fill="#fff"/><path d="M{x-8},{y+18} l{-6 if x>340 else 6},14 l{14 if x>340 else -14},-12" fill="#fff"/>'
+        s+=f'<circle cx="{x-12}" cy="{y}" r="3" fill="{INK}" stroke="none"/><circle cx="{x}" cy="{y}" r="3" fill="{INK}" stroke="none"/><circle cx="{x+12}" cy="{y}" r="3" fill="{INK}" stroke="none"/>'
+    s+=TAIL; open(OUT+"who-thirteen-ways-to-be-anxious.svg","w").write(s)
+
+    # 8. The Button: he'd break the nightstand
+    s=head(W,H,"#1B2459")
+    s+=moon(600,70,18)+stars([(80,60),(160,110),(470,50),(640,150),(300,40)])
+    s+='<line x1="30" y1="410" x2="650" y2="410" stroke="#fff"/>'
+    s+=man(130,150,"squeeze")+legs(130,302,18)
+    s+='<path d="M118,196 L106,250 L90,290"/><path d="M144,196 L240,170 L320,214"/>'
+    s+=f'<circle cx="324" cy="218" r="11" fill="{SKIN}"/>'
+    s+='<rect x="280" y="290" width="260" height="22" rx="6" fill="#FFF6E5" transform="rotate(4 410 300)"/>'
+    s+='<path d="M300,314 L296,408 M520,318 L534,404" stroke-width="7"/><rect x="340" y="320" width="130" height="50" rx="6" fill="#FFF6E5" transform="rotate(2 400 340)"/>'
+    s+=f'<path d="M310,290 C310,256 350,256 350,290 Z" fill="{RED}" transform="translate(-4,10)"/>'
+    s+=f'<rect x="440" y="206" width="70" height="44" rx="7" fill="{INK}" stroke="#fff" transform="rotate(-18 475 228)"/>'
+    s+=f'<path d="M560,230 L540,280 L580,262 Z" fill="{YEL}" transform="rotate(30 560 250)"/>'
+    for (x1,y1,x2,y2) in [(260,300,238,284),(262,326,236,336),(380,276,392,250),(430,284,452,262)]:
+        s+=f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="{YEL}" stroke-width="6"/>'
+    s+=TAIL; open(OUT+"button-he-would-break-the-nightstand.svg","w").write(s)
+batch5(OUT)
+batch6(OUT)
