@@ -1,6 +1,6 @@
 It's two in the morning, and a man is lying in bed with his phone, breaking a promise he made an hour ago.
 
-The screen lights his face, and his face shows nothing. His alarm is set for six. In a few minutes it'll be over. He'll wipe his hand, turn the phone face down, and stare at the ceiling. Then he'll say the two words he said last week, and the week before. Never again.
+The screen lights his face, and his face shows nothing. His alarm is set for six. In a few minutes it'll be over. He'll wipe his hand, flip the phone over, and stare at the ceiling. Then he'll say the two words he said last week, and the week before. Never again.
 
 He means it. He always means it.
 
@@ -50,7 +50,7 @@ Then he belches, curls up, and leaves you alone for a while.
 ![](images/illustrations/intro-back-room.png){.illustration width=80%}
 
 
-This book calls him the Little Monster. He's only a picture of the craving. Nothing is really living in you.
+This book calls him the Little Monster. He's only a picture of the craving. Nobody needs an exorcist.
 
 The "pleasure" you get is the silence. It's him shutting up.
 
@@ -69,24 +69,24 @@ He hasn't. It isn't.
 
 That lie didn't come alone.
 
-Some were told to you.
+The world sold you some.
 
 - "A man needs it."
 - "It's healthy."
 - "Everybody does it."
 
-Some you tell yourself.
+You wrote some yourself.
 
 - "It helps me sleep."
 - "I've earned it."
 - "It's not hurting anybody."
 
-Some are bargains.
+And some are bargains.
 
 - "At least it's not porn."
 - "At least she's real."
 
-Every one of them says the same thing. He earns his keep. Even a bargain says it. It just hands him a smaller plate.
+Every one of them says the same thing. He earns his keep. Even a bargain says it. It just serves him a smaller plate.
 
 He hasn't earned a crumb.
 
@@ -98,23 +98,23 @@ A pipsqueak can't pin a grown man to that bed. The lies pin him there.
 
 ## Put down the sword {-}
 
-That's why trying harder never worked. Most methods take him for a dragon. They hand you a sword and shove you at him. But no man wins a fight against something he still thinks is doing him good.
+That's why trying harder never worked. Most methods take him for a dragon. They hand you a sword and shove you at him. But no man fights hard against a thing he still thinks he needs.
 
 This book hands you no sword. It pries the lies loose, one at a time, until you see the Little Monster has nothing you want. A man who sees that doesn't need willpower. He just stops carrying dinner up the stairs.
 
-Save your grit for something that deserves it. There are mountains to climb and children to raise. This is a pest in a back room. Throw him out, and get on with your life.
+Save your grit for something that deserves it. There are mountains to climb and children to raise. This is a pest in a back room. Throw him out, and go climb something.
 
 ## While you read {-}
 
 Two rules while you read.
 
-**Don't try to quit.** Not yet. Make no vows. Start no streaks. Don't cut down. You've done all three before, and where are they now? You stop once, at the end of the book. Until then, call off the war.
+**Don't try to quit.** Not yet. Make no vows. Start no streaks. Don't cut down. You've done all three before, and here you are. You stop once, at the end of the book. Until then, call off the war.
 
 So feed him as much as you like. Give in to every tantrum. Bang, bang, bang, and up the stairs you trot with his plate. Just watch yourself do it. You're waiting on a dirty, sulking little freeloader, and he's treating you like his slave.
 
-**Don't skip chapters.** Read them in order. Each one takes down a lie, and the last step only works if the others came first.
-
 That's not an order. Nobody's telling you to sin. If you've already stopped, stay stopped. And if your lust is hurting someone else, that stops today. An affair, paying for sex, pressing a woman who's said no, anything against the law. That can't wait for the last page.
+
+**Don't skip chapters.** Read them in order. Each one knocks down a lie, and the last step only works once they're all down.
 
 ## Two in the morning {-}
 
@@ -197,3 +197,5 @@ SOURCES (Introduction): every quote below is from the research files; check each
 <!-- 2026-11-23 James: add the wandering eye at the gym and 'giving your power over to somebody who wants attention' (simping); make the menu complete 'so every guy is identified and knows we are talking about him'; 'better, more colorful diction' per Scott Adams. The menu now runs look, think, touch, chase, pay, take. Verbs sharpened through the Introduction (lurks, reeks, hammering, trudge, belches, stomping, stole, sliver, pin, shove, pries, trot). -->
 
 <!-- 2026-11-23: menu rebuilt after rereading Scott Adams (simple words, one concrete picture per line, no repeated time words); 'midnight' and 'late-night' removed; 'slept like a stone' and 'plenty of company' replaced. Previous menu is in git at e15ff7f. -->
+
+<!-- 2026-11-23: whole-Intro wording pass (stock phrases, passive openers, repeated 'hand'); the 'not an order' caution moved up to sit right after the feeding paragraph it answers. -->
