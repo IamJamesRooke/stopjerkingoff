@@ -55,7 +55,7 @@ In their place, look straight at what you do and ask three questions.
 2. **Do I actually enjoy it?**
 3. **Why am I doing this to myself?**
 
-Start with the first, because it settles the other two. What's the habit doing for you? Nothing. The porn does nothing. The hand does nothing. The rest of this book proves it.
+Start with the first, because it settles the other two. What's the habit doing for you? Nothing. The porn does nothing. The hand does nothing. The rest of this book proves it. And once the first answer is nothing, the other two answer themselves.
 
 Get that exactly right. This isn't the old line that the costs are bigger than the benefits. Every man knows that already, and it has never helped him. There are no benefits.
 
@@ -69,7 +69,7 @@ Yes, the finish feels good. That's real. It's the bait, and you'll see what's on
 - The thrill of something new.
 - The feeling of being wanted.
 
-Each one is a tight shoe, and each one gets its turn. The bargains get their turn too. So does lust, the wider appetite behind the habit, the one that has you thinking with the wrong head.
+Each one is a tight shoe. The relief is only the pinch stopping. Each one gets its turn. The bargains get their turn too. So does lust, the wider appetite behind the habit, the one that has you thinking with the wrong head.
 
 ## What to do tonight {-}
 
@@ -135,3 +135,5 @@ Before any of that, a fair question. "No benefits at all" is a big claim from a 
 <!-- 2026-11-23 VOICE PASS (James sent his own draft of the weak-man paragraph and 'What you are fighting', with five rules: contractions; write how we speak; intentional repetition; hyperbole; economy, 'this isn't an academic piece'). The Introduction's monster section is rebuilt from his draft and keeps his lines (doesn't pay rent, bangs and bangs and bangs, the 'pleasure' is the silence, fatter and wants MORE, throw his ass out, the lie that he belongs there). Kept from the book's fixed picture: the back room upstairs (not attic), cat-sized. His f-word is 'pest' here; his call. Rules for the rest of the book are in editorial/VOICE.md. -->
 
 <!-- 2026-11-23 Voice touch-up ahead of James's read (he reads two chapters a day as a reader): opening and two lists made spoken; nothing else changed. -->
+
+<!-- 2026-11-23 COHERENCE REPAIR after a cold-reader check of the first five chapters: missing links added, nothing cut. -->
