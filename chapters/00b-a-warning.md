@@ -35,7 +35,7 @@ You stop every time you finish. For the next sixty seconds you're the most commi
 
 If stopping were the hard part, you'd be done. You've stopped a thousand times.
 
-The trouble comes later. Day three. Day thirty. Day three hundred. You're tired, or the house is empty, and upstairs the banging starts. Then a lie speaks up in your own voice. "Just this once." Once becomes twice, and you're staring at the ceiling again.
+The trouble comes later. Day three. Day thirty. Day three hundred. You're dead on your feet, or the house is empty for the weekend, and upstairs the banging starts. Then a lie speaks up in your own voice. "Just this once." Once becomes twice, and you're staring at the ceiling again.
 
 Some men don't make it to day three. A nineteen-year-old from a strict Christian home wrote about his first time: "I vowed never to do that again, only to find myself searching for a secret place after a couple of hours."
 
@@ -47,7 +47,7 @@ It isn't desire. It's fear. You're afraid of what life would be like without it.
 
 Picture that life. What do you see?
 
-Most men see the same thing. They see themselves awake at one, at two, at three, with the banging going on and on overhead. They see a hard day with no treat at the end of it. They see a Friday night alone with nothing to reach for. And they see that going on until they're eighty.
+Most men see the same thing. They see themselves awake at one, at two, at three, with the banging going on and on overhead. They see a brutal day with nothing waiting at the end of it. They see a Friday night alone on the couch, with nothing to reach for. And they see that going on until they're eighty.
 
 That picture was painted for you, one lie at a time.
 
@@ -60,7 +60,7 @@ And the picture's wrong. He eats only what you carry up. Stop carrying, and the 
 
 If you've tried and failed a hundred times, the picture looks proven. One man wrote that he had failed so often he sometimes wondered whether God's grace for him had run out.
 
-It hasn't. Jesus told a story about a man who failed that badly, and you don't have to believe to follow it. A son wasted every coin he had and ended up feeding pigs. In that pigsty he came to himself. He got up and walked home, and his father ran down the road to meet him.
+It hasn't. Jesus told a story about a man who failed that badly. It's the one people call the prodigal son, and you don't have to believe to follow it. A son blew his whole inheritance and ended up feeding pigs, so hungry he eyed their slop. In that pigsty he came to himself. He got up and walked home, and his father ran down the road to meet him.
 
 You're not a hopeless case. You were handed a method that can't work, and that method was the sword. A ninety-day streak proves you're strong. Losing it proves strength was never the problem. The lies were.
 
@@ -78,7 +78,7 @@ So read on, and question everything, this book included. Start with one question
 
 Here's the worst that can happen. You reach the last page, shrug, and pick up the phone. You're out five hours.
 
-The fear may grow for a chapter or two. Some men put the book down halfway, because they sense that if they keep reading, they'll have to stop. Don't be one of them. That flutter is only the old lies. A lie gets nervous when somebody starts checking it.
+The fear may grow for a chapter or two. Some men put the book down halfway, because they sense that if they keep reading, they'll have to stop. Don't be one of them. That flutter is only the old lies. A liar starts sweating when somebody checks his story.
 
 So how do you throw him out? It starts with the strangest promise anyone has made you about this.
 
@@ -105,3 +105,5 @@ It will be easy.
 <!-- 2026-11-23 REWRITTEN to follow the new Introduction (James: 'reading chapter 1, it doesn't feel it flows from the intro'). The button now removes the pipsqueak the Introduction just showed; 'part of you already knows he doesn't belong up there' answers the Introduction's 'the lie that he belongs there'; the chapter ends on 'how do you throw him out?'. Spoken voice per editorial/VOICE.md. Argument, quotes and the caution unchanged. -->
 
 <!-- 2026-11-23 COHERENCE REPAIR (James: 'so much was cut that now it seems incoherent -- get users to read it'). Eight cold readers flagged the missing steps; the links are put back in the spoken voice: the house frame, 'that banging is the urge', starving = no more dinners, man and monster kept apart by name, the dragon retired, and fear named as fear of life without it. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
