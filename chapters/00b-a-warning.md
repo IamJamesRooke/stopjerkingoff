@@ -2,6 +2,9 @@
 
 The button sits on the nightstand, an arm's length from the man with the phone. It is the size of a doorbell.
 
+![](images/illustrations/button-on-the-nightstand.png){.illustration width=80%}
+
+
 It does one thing. If he presses it, he wakes up tomorrow as a man who never started. No porn. No hand. No banging on the floor.
 
 Would he press it? He would break the nightstand. So would you.
