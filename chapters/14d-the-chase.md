@@ -32,6 +32,10 @@ One man had been on an app for eight years. Then he met a woman at a party, and 
 
 Same itch, better clothes. The swipe is the scroll, with a chance attached.
 
+And look who the machine pays. In 2022 the Pew Research Center asked Americans who'd used a dating app in the past year how it went. More than half the women said they'd felt swamped by messages. About two in three men said they'd felt insecure because so few came.
+
+Same app, two different evenings. Three in ten of those men said casual sex was a major reason they were on it. Among the women it was about one in eight. So most men on the thing are fishing for something most of the women aren't offering. They sit waiting for a buzz that doesn't come. A slot machine at least takes your money fast. This one takes your evenings, and pays in maybes.
+
 So the test is simple. Are you looking for a wife, or looking for a hit? If it's a wife, you won't need fifty at a time. If it's a hit, you know what to call it.
 
 ## The man who wins {-}
@@ -97,3 +101,5 @@ Six men, then. One at the party, one who waits, one who swipes and one who wins.
 <!-- 2026-11-23 FLOW PASS (book-wide): in the opening the 'if that has never been you' sentence moved up beside 'This is the chase', so the excuse and the question run unbroken into the chapter. Nothing cut. -->
 
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
+
+<!-- 2026-11-23 (James sent X posts on dating apps; posts are leads only). Kernel kept: the apps pay out unevenly and eat the average man's evenings. Figures from Pew Research Center, 'Key findings about online dating in the U.S.' (2 Feb 2023; survey 5-17 July 2022, 6,034 U.S. adults): past-year users, overwhelmed by messages 54% women vs 25% men; insecure from lack of messages 64% men vs 40% women; casual sex a major reason 31% men vs 13% women. Not used: the jabs at women ('cat lady', 'simps'); the book mocks the habit, not people. -->
