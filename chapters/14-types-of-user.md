@@ -16,6 +16,8 @@ Think about how people talk about things they really enjoy. A serious fisherman 
 
 Suppose a friend said to you, "I can go two whole weeks without toast, and it doesn't bother me in the slightest." You'd wonder what was wrong with him. If he likes toast, why go without? If he doesn't, why mention it? A man only makes a speech like that about something that has a hold on him. What the two-week man is really telling you is, "I survived two weeks." And if two weeks was a feat of survival, imagine how precious the next time must have been.
 
+![](images/illustrations/every-man-toast.png){.illustration width=80%}
+
 That's why the man who masturbates rarely is, in one way, more firmly caught than the man who does it daily. The relief looks bigger to him, because he's always coming off a long wait. He also has less reason to get out. It costs him less time, and the damage is harder to see. Things do go wrong: a flat mood, a wandering mind in bed with his wife, a coldness when he tries to pray. He blames them on work or tiredness or his age.
 
 A man in the trap makes two mistakes about other men. He envies the one who seems to do it less, and he looks down on the one who does more. "At least I'm not him." Both mistakes rest on one belief, that these are different kinds of men. They aren't.

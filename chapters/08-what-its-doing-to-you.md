@@ -22,6 +22,8 @@ It's the wrong picture, and it's the one that keeps you walking.
 
 A truer picture is a bank account that somebody dips into every day. He takes a few coins at a time, never enough to notice. You would spot a robbery. You don't spot this. Then years later you add it up, and a fortune is gone.
 
+![](images/illustrations/costs-the-bank-account.png){.illustration width=80%}
+
 That is how this habit charges you. The cost isn't buried up ahead. **IT'S ALREADY BEING PAID.** You paid some last night, in the hour you spent and the sleep you lost after it. You paid some this morning, when you got up a little flat and a little ashamed. You'll pay some this afternoon, when your mind slides off the work in front of you. And you'll pay some tonight, when you're a little less present with the people in the room. None of it is big enough to call a disaster, and that's why you never see the total.
 
 So don't ask whether the mine will ever go off. Ask what has been going out of the account.

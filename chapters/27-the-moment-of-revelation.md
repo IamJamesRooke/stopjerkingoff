@@ -10,6 +10,8 @@ It's hard to describe and impossible to mistake. The day looks brighter. Up to t
 
 One of the Psalms has a picture of it. "Our soul has escaped like a bird out of the fowler's snare." A fowler is a man who traps birds. The bird is out, and the snare lies broken on the ground behind it. The next line says who broke it: "Our help is in the LORD's name, who made heaven and earth."
 
+![](images/illustrations/moment-the-broken-snare.png){.illustration width=80%}
+
 Men who stop by willpower rarely get this moment. They're glad they've stopped, but they go through life believing they gave something up. For them the weight never comes off.
 
 The deeper in you were, the better the moment is, and it doesn't wear off. Most joys fade. You remember that your wedding day or your first paycheck was wonderful, but you can't call the feeling back. This one you can. On a gray afternoon years from now you'll be able to stop and think, "I don't do that anymore," and feel glad again.

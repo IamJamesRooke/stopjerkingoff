@@ -6,6 +6,8 @@ You already know the caller, and you know that answering is what taught him to k
 
 Imagine you're sitting in it and the telephone rings. It is the same telephone the caller has been using. All your life you've jumped up to answer it. Today you stay in the chair. You can hear it perfectly well. You're not pretending it isn't ringing, and you're not gripping the armrests. You just don't get up.
 
+![](images/illustrations/let-it-ring-armchair.png){.illustration width=80%}
+
 Notice two things. First, the ringing has no power of its own. A bell is a noise in the air and can't lift a man out of a chair. It only moved you because you had the habit of obeying it. Second, not answering takes no effort. You aren't wrestling the phone. You're doing nothing at all, and doing it comfortably.
 
 Every cue you'll meet is that telephone. It may be the empty house, the photo in the feed, the bed at midnight or the bad day. It may be a message from a woman you had sworn off. Let it ring. It will stop.

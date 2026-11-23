@@ -8,6 +8,8 @@ No man has written a more honest sentence about himself. And Paul was no weaklin
 
 There are two wills in you. One wants to be free, and the other wants one more night. The Willpower Method sets the first to overpower the second, every day, for good. But it's all one man. You're arm-wrestling yourself, and whichever arm wins, you're the one who's tired. One commenter wrote a line that thousands of other men liked: "Every time I think I've escaped this sin, it comes back at me like a bite of a snake."
 
+![](images/illustrations/two-wills-arm-wrestling.png){.illustration width=80%}
+
 These men aren't lazy and they aren't faithless. They tried as hard as anyone could, and trying harder was the one thing that couldn't work.
 
 Now look at how Paul ends the chapter. "What a wretched man I am! Who will deliver me out of the body of this death? I thank God through Jesus Christ, our Lord!"

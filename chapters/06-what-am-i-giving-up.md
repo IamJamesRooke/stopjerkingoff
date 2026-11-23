@@ -38,6 +38,8 @@ Imagine you get an itchy patch on the back of your hand. It's nothing much. A fr
 
 A few days later the itch is back, and a bit bigger. You use the cream again, and it goes again. Each time the patch comes back it has spread a little further, and the gaps get shorter. After a few years it covers both arms and wakes you most nights. You keep a tube in every coat, and you get nervous when one is nearly empty.
 
+![](images/illustrations/giving-up-cream-and-rash.png){.illustration width=80%}
+
 Then one day you read that thousands of people have this same rash, and the cause has finally been found. The cream doesn't cure the itch. It pushes it under the skin for a few hours, and feeds it while it's down there. The cream is the reason the rash has been spreading. Stop using the cream and the rash dies off by itself, quite quickly.
 
 Would you use the cream again?

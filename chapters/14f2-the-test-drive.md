@@ -10,6 +10,8 @@ Start with the picture. A car is a thing. You try it, and if it disappoints, you
 
 Now notice who is never tested in that picture. You are. Turn it around. She took him out for a few months, and then she went with a newer model. Would you want to be the car?
 
+![](images/illustrations/test-drive-the-car.png){.illustration width=80%}
+
 ## What the drive tests {-}
 
 A test drive works because a car is the same on the first day as on the thousandth. Sex is not like that. Two people learn it together, over years. The first night tells you about a first night.
