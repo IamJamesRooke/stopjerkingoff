@@ -1,6 +1,6 @@
 # The Button {#a-warning}
 
-It sits on the nightstand, an arm's length from the man with the phone. It's about the size of a doorbell.
+It sits on the nightstand, an arm's length from the man with the phone.
 
 ![](images/illustrations/button-on-the-nightstand.png){.illustration width=80%}
 
