@@ -1,10 +1,14 @@
 It's two in the morning, and a man is lying in bed with his phone, breaking a promise he made an hour ago.
 
-The screen lights his face, and his face shows nothing. His alarm is set for six. In a few minutes it'll be over. He'll wipe his hand, flip the phone over, and stare at the ceiling. Then he'll say the two words he said last week, and the week before. Never again.
+The brightness is turned all the way down. The sound is off. His thumb hunts from tab to tab, and his face is as blank as a man waiting for a bus. The alarm is set for six.
+
+In four minutes it'll be over. He'll wipe his hand on yesterday's T-shirt, clear his history, and drop the phone face down like it bit him. Then he'll stare at the ceiling and say the two words he said last week, and the week before.
+
+Never again.
 
 He means it. He always means it.
 
-Everybody tells him it's normal. Nobody tells him why he ends up staring at the ceiling.
+Everybody tells him it's normal. Nobody tells him why a normal thing leaves him staring at the ceiling.
 
 Maybe your night looks different. A dating app instead of a video. A site you pay by the month. A wife asleep down the hall. Same ceiling.
 
@@ -21,7 +25,7 @@ There is no dragon.
 
 ## What you're really fighting {-}
 
-That overwhelming urge when temptation hits? That faint, fidgety itch, that craving? It's no dragon. It's a little monster.
+That overwhelming urge when temptation hits? That faint, fidgety itch, that craving? It's no dragon. It's a little monster. He isn't real, of course. He's a picture of that craving, and this book calls him the Little Monster.
 
 Think of your life as a house. He lurks up in the back room. A scrawny pipsqueak, the size of a house cat, who reeks like cheese left to rot in a car in midsummer. This pest has never paid a dime of rent. He doesn't even buy his own food, because you're the one who feeds him.
 
@@ -50,9 +54,7 @@ That's his dinner. All of it.
 Then he belches, curls up, and leaves you alone for a while.
 
 
-This book calls him the Little Monster. He isn't real. He's a picture of the craving.
-
-The "pleasure" you get is the silence. It's him shutting up.
+The "pleasure" you get is the silence. It's him shutting up. It's a car alarm down the street, finally cutting off.
 
 But the silence never lasts. He got fed, so he got a little fatter, and now he wants MORE. He's up there stomping on the floor again.
 
@@ -67,7 +69,7 @@ He hasn't. It isn't.
 
 ## Why you keep feeding him {-}
 
-That lie didn't come alone.
+That lie didn't come alone. It brought the whole family.
 
 The world sold you some.
 
@@ -86,11 +88,13 @@ And some are bargains, deals you cut with yourself.
 - "At least it's not porn."
 - "At least she's real."
 
-Every one of them says the same thing. He earns his keep. Even a bargain says it. It just serves him a smaller plate.
+Every one of them says the same thing: he earns his keep. Even a bargain says it. It just serves him a smaller plate.
 
 He hasn't earned a crumb.
 
-Take one. "It helps me sleep." At ten years old you were out cold in minutes, with no help from anybody. Who's been keeping you awake since? You feed him, the banging stops, and you drop off. He didn't give you sleep. He stole your sleep, and every night he sells you back a sliver.
+Take one. "It helps me sleep." At ten years old you were out cold before your mother shut the door. Nobody helped. Who's been keeping you awake since? He bangs, you feed him, he quits banging, and you drop off. He didn't give you sleep. He stole your sleep, and every night he sells you back a sliver.
+
+That's a guy who slashes your tires, then offers you a ride.
 
 The house was quiet before he moved in.
 
@@ -98,9 +102,9 @@ A pipsqueak can't pin a grown man to that bed. The lies pin him there.
 
 ## Put down the sword {-}
 
-That's why trying harder never worked. Most methods take him for a dragon. They hand you a sword and shove you at him. But no man fights hard against a thing he still thinks he needs.
+That's why trying harder never worked. Most methods take him for a dragon. They hand you a sword and shove you up the stairs. The filter, the cold shower, the streak counter: all swords. So there you stand in the doorway, blade shaking, facing a thing you still half believe you need. No man swings hard at that.
 
-This book hands you no sword. It pries the lies loose, one at a time, until you see the Little Monster has nothing you want. A man who sees that doesn't need willpower. He just stops carrying dinner up the stairs.
+This book hands you no sword. It pries the lies loose, one at a time, like nails out of a board, until you see the Little Monster has nothing you want. A man who sees that doesn't need willpower. It takes no willpower to walk past a bowl of dog food. He just stops carrying dinner up the stairs.
 
 Save your grit for something that deserves it. There are mountains to climb and children to raise. This is a pest in a back room. Throw him out, and go climb something.
 
@@ -108,17 +112,17 @@ Save your grit for something that deserves it. There are mountains to climb and 
 
 But not tonight. He goes out when you finish the book. Until then, two rules.
 
-**Don't try to quit.** Not yet. Make no vows. Start no streaks. Don't cut down. You've done all three before, and here you are. You'll quit once, for good, on the last page. So call off the war.
+**Don't try to quit.** Not yet. Make no vows. Start no streaks. Delete no apps. Don't cut down. You've done it all before, and here you are. You'll quit once, for good, on the last page. So call off the war.
 
-Feed him as much as you like. Give in to every tantrum. Bang, bang, bang, and up the stairs you trot with his plate. Just watch yourself do it. You're waiting on a dirty, sulking little freeloader, and he's treating you like his slave.
+Feed him as much as you like. Give in to every tantrum. Bang, bang, bang, and up the stairs you trot with his plate, like a waiter working for no tips. Just watch yourself do it. You're waiting on a dirty, sulking little freeloader, and he's treating you like his slave.
 
 That's not an order. Nobody's telling you to sin. If you've already stopped, stay stopped. And if your lust is hurting someone else, that stops today. An affair, paying for sex, pushing a woman who's said no, anything against the law. That can't wait for the last page.
 
-**Don't skip chapters.** Read them in order. Each one knocks down a lie, and the last step only works once they're all down.
+**Don't skip chapters.** Read them in order. The lies are stacked like bricks, and each chapter pulls one out. Skip ahead, and the wall's still standing when you reach the end.
 
 ## Two in the morning {-}
 
-Now go back to the man in the bed, the one staring at the ceiling. It's still two in the morning. Put one thing on his nightstand.
+Now go back to the man in the bed. It's still two in the morning. The phone is face down, and he's staring at the ceiling. Put one thing on the nightstand, right beside the phone.
 
 A button.
 
@@ -203,3 +207,7 @@ SOURCES (Introduction): every quote below is from the research files; check each
 <!-- 2026-11-23: five cold readers (Sonnet). Fixed what two or more tripped on: sleep example, paid-site lines, 'exorcist', 'you stop once', the turn from 'throw him out' to 'don't quit', bargains defined, opening paragraph order. -->
 
 <!-- 2026-11-23: James: not clear the urge IS the little monster. The urge is now named as a little monster in the same breath ('It's no dragon. It's a little monster.'). -->
+
+<!-- 2026-11-23: opening scene rewritten harder (James: whole Intro perfect); the naming line moved up beside 'It's a little monster' so it no longer interrupts belch -> silence. Old opening is in git at eec4a5f. -->
+
+<!-- 2026-11-23: every section rewritten harder with concrete pictures (car alarm, slashed tires, sword in the doorway, dog food, waiter, bricks). James's lines, the monster passage and the menu untouched. -->
