@@ -14,7 +14,11 @@ Whoever she is, she's somebody's daughter. And when it's her own choice, she's b
 
 **"It isn't a real woman, so nobody is hurt."** This lie arrived in the 2020s, when computers learned to make pictures and to talk. The picture was drawn, or a computer made it, or the girlfriend is a program. Two answers. First, somebody often is hurt. Computers were soon putting real women's faces into videos they never made. One 2023 study counted nearly a hundred thousand of these fakes online. Almost all were porn, and almost all the faces belonged to real women who never agreed to it. Second, even when no woman exists at all, you do. The thing being trained is your own heart, and it learns the same lesson from a drawing as from a photograph.
 
-**"It isn't cheating."** If you have a wife or a girlfriend, try it the other way around. She's in the next room with a screen full of other men, or with her eyes shut and one of them in her head. Is she being faithful to you? Some couples have agreed to an open door, and that's theirs to answer for. If you haven't, the woman on the screen isn't her, and neither is the one in your head. You can't call that faithful.
+**"It isn't cheating."** If you have a wife or a girlfriend, try it the other way around. She's in the next room with a screen full of other men, or with her eyes shut and one of them in her head. Is she being faithful to you?
+
+Now try a second test. She walks in and finds you at it, and the woman on the screen is her coworker. Or the neighbor. Or her best friend. Would she call that cheating? You know she would. So what changes when the woman is a stranger? Nothing but the name.
+
+Some couples have agreed to an open door, and that's theirs to answer for. If you haven't, the woman on the screen isn't her, and neither is the one in your head. You can't call that faithful.
 
 **"It does a marriage no harm."** One American study followed about two thousand married people between 2006 and 2014. Some of them began watching porn between one interview and the next. By the next interview, about eleven in a hundred of those were divorced. Among the rest it was six. The authors are careful. They can't rule out that some of those marriages were failing first.
 
@@ -41,3 +45,5 @@ Those are the lies. Now look at some of the men who believed them.
 <!-- 2026-11-23 PROOF LOOP (James: 'Watching porn I was cheating. And masturbating I was cheating because I was thinking of others. Maybe others have an open relationship. But in my case I can't say I'm being faithful'). Added as the lie 'It isn't cheating', addressed to the reader's 'you', with the open-relationship case conceded. -->
 
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
+
+<!-- 2026-11-23 PROOF LOOP (James: if she found you at it to a video of her coworker, a neighbor or her friend she'd call it cheating; a stranger changes nothing). Added as a second test under 'It isn't cheating'. -->
