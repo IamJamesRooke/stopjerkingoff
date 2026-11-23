@@ -25,7 +25,20 @@ That overwhelming urge when temptation hits? That faint, fidgety itch, that crav
 
 Think of your life as a house. Up in the back room lives a little monster. A tiny pipsqueak, the size of a house cat, who smells like cheese left to rot in a car in midsummer. This pest doesn't pay rent. He doesn't even buy his own food, because you're the one who feeds him.
 
-When he's hungry he bangs and bangs and bangs on the floor. That banging is the urge. It goes on until you carry his dinner up. Porn is his dinner. Your hand is his dinner. Then he's full, he settles down, and he leaves you alone for a while.
+When he's hungry he bangs and bangs and bangs on the floor. That banging is the urge. It goes on until you carry his dinner up.
+
+You know his menu.
+
+- Every time you masturbate to pixelated women.
+- Every late-night text to the woman you know damn well is no good for you.
+- Every "just looking" scroll through girls in bikinis.
+- Every midnight swipe on the app, with no plan to meet anybody.
+- Every tip sent to a woman on a screen who's never heard your name.
+- Every replay of that one memory you save for when the door's locked.
+
+That's his dinner. All of it.
+
+Then he's full, he settles down, and he leaves you alone for a while.
 
 ![](images/illustrations/intro-back-room.png){.illustration width=80%}
 
@@ -171,3 +184,5 @@ SOURCES (Introduction): every quote below is from the research files; check each
 <!-- 2026-11-23 James, reading night one: 'I'm not seeing anything about no willpower, no trying to cut down, where is that?' The two rules are back in the Introduction as one signposted section, 'While you read', so a reader who stops after chapter 1 has his instructions. The Easy Method restates them in a line and no longer carries the full block. -->
 
 <!-- 2026-11-23 PROOF LOOP (James, after using: 'I don't feel awesome. That little monster being fed sticks'; he asked that 'don't cut down' come with a reminder of what feeding him is: 'You can feed the little monster as much as you want. You can give into his tantrums. Bang bang bang. Treating you like a slave'). Added to 'While you read' in his words; 'freeloader' stands in for his 'squatter', which the book doesn't use. Short callbacks are in The Easy Method and The Empty House. -->
+
+<!-- 2026-11-23 James drafted a more colorful 'that's his dinner' line ('masturbate to pixelated women', 'that late night text to that woman you know damn well is no good for you') and asked for a list like it. The menu is built from his two lines plus four more across looking, thinking, touching, chasing and paying. -->
