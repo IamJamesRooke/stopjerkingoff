@@ -8,23 +8,23 @@ Start with who leaves. Some women will. Tell a woman on the third date you're ke
 
 Now look at who stays. She's heard a man say he wants her and he can wait for her. Very few men have said both. It doesn't prove he'll stay. It shows her his wanting doesn't run him.
 
-And look at the way you're afraid to lose. What has it picked for you, year after year? Women who'd sleep with a man who'd promised nothing. And it picked you for them, a man who'd take that and go. You know how those ended. You've got the record.
+And look at the way you're afraid to lose. What has it picked for you, year after year? Women who'd sleep with a man who'd promised nothing. And it picked you for them, a man who'd take the night and be gone by breakfast. You know how those ended. You've got the record.
 
-The old way doesn't find a wife faster. It fills the years with nights, so a man never notices he isn't looking.
+The old way doesn't find a wife faster. It stuffs the years with nights, so a man never notices he isn't looking.
 
 ## How to say it {-}
 
-You may dread the sentence itself. Say it early and plainly, and don't preach. "I like you. I've decided to keep sex for marriage. That is about me. It is no verdict on you."
+You may dread the sentence itself. Say it early and plainly, over coffee, not in bed, and don't preach. "I like you. I've decided to keep sex for marriage. That is about me. It is no verdict on you."
 
 If she laughs, let her laugh. If she asks why, tell her the truth. You've seen what the other way did to you. If she asks about the women before her, tell her the truth about that too.
 
-And don't hide behind the line. A man who's stopped using women still has to cross the room, ask her to dinner, and risk a no. The line doesn't make that easier. It makes you a man who can hear the no and stay himself.
+And don't hide behind the line. A man who's stopped using women still has to cross the room, ask her to dinner, and risk a no. The line doesn't make that easier. It makes you a man who can hear the no and still stand up straight.
 
 ## A smaller field {-}
 
 Does the line shrink the field? It does. It shrinks it to the women who want what you want. That was always the only field you had.
 
-Be honest about the size of it. It may be small. Many of the women in it will be believers, and they'll ask where you stand. Tell them the truth. Some will say no to that, and some won't. Either way, you both know early. And the field is wider than the women who already hold this line. It includes any woman who hears your reasons and says yes. Some have had enough of the other road themselves. But compare the two fields fairly. The wide one has had you for decades, and you've searched it. It gave you nights and no wife. And waiting isn't stalling. A man who's watched a woman with clear eyes doesn't need five years to know his mind.
+Be honest about the size of it. It may be small. Many of the women in it will be believers, and they'll ask where you stand. Tell them the truth. Some will say no to that, and some won't. Either way, you both know early. And the field is wider than the women who already hold this line. It includes any woman who hears your reasons and says yes. Some have had enough of the other road themselves. But compare the two fields fairly. The wide one has had you for decades, and you've combed it. It gave you nights and no wife. And waiting isn't stalling. A man who's watched a woman with clear eyes doesn't need five years to know his mind.
 
 The second man in the hall has listened to all of this with his arms crossed.
 
@@ -37,3 +37,5 @@ The second man in the hall has listened to all of this with his arms crossed.
 <!-- 2026-11-22 SKEPTIC READ, stage 5 (an atheist who thought marriage a scam; at the final No he said every clause, and 'any bed outside marriage' only as a policy for a woman he loves). The book now admits that this one clause asks for waiting and costs something. -->
 
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through: the marriage chapters reordered so that If You Never Marry comes last (after All In has shown the good thing), with the hall stitched to match; repeats cut; leaks closed. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

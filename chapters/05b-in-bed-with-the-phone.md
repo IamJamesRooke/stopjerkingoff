@@ -2,7 +2,7 @@
 
 If you're like most men, the phone is in your hand before your head hits the pillow. No decision was made. It just starts. Try to remember each time you masturbated last week. You'll recall one or two, the latest or the one you'd waited for, and the rest have vanished. That's how little they meant.
 
-"I do it when I'm bored." But boredom is a state of mind. Give a man something that absorbs him and he can go for days without a thought of it. Now leave him on a bed with nothing to do and a screen full of half-dressed strangers. Nothing stands between him and the Little Monster's tapping. He isn't bored and then tempted. He's itchy, and with nothing to distract him, he notices.
+"I do it when I'm bored." But boredom is a state of mind. Give a man a dead engine to rebuild and he can go for days without a thought of it. Now leave him on a bed with nothing to do and a screen full of half-dressed strangers. Nothing stands between him and the Little Monster's tapping. He isn't bored and then tempted. He's itchy, and with nothing to distract him, he notices.
 
 The psychiatrist Alok Kanojia says the number one cause of relapse isn't strong emotion. It's boredom. His reason takes one line: "if you've got a gap in your day porn will fill it".
 
@@ -22,7 +22,7 @@ It removed a distraction it had planted, and sent you back with a duller head. T
 
 "It relaxes me."
 
-Does it? You've got a locked door and one ear on the stairs. You delete the history and cover your tracks. In the shower you watch the clock, because people are waiting for the bathroom. A relaxed man doesn't behave like that. A burglar does.
+Does it? You've got a locked door and one ear on the stairs. You clear the history and check the door twice. In the shower you watch the clock, because people are waiting for the bathroom. A relaxed man doesn't behave like that. A burglar does.
 
 Take the morning shower. It's the habit at its most mechanical: warm water, a locked door, five minutes, same as yesterday. Nothing in you asked for it. The shower asked for it.
 
@@ -38,7 +38,7 @@ For many men this is the last excuse to fall, because the fear feels so practica
 
 You already know who keeps you awake. The bed is the cue. Lights out is the cue. Every night the Little Monster wakes up just as you lie down, and you can't settle until he's been fed. Then you sleep, and you thank the habit.
 
-It's a poor sedative anyway. The session runs late and the phone runs later. At seven the next morning a man drags himself out of bed and blames the mattress.
+It's a poor sedative anyway. The session runs long and the scrolling runs longer. At seven the next morning a man drags himself out of bed and blames the mattress.
 
 When you stop, you may get a few nights when the old cue fires and you lie there awhile. Don't dread them. Lie there and smile. You know what's dying. If you still sleep badly a month from now, that's a different problem, and a doctor is the person to see. But most men are soon sleeping the way they did as boys. David wrote of it in Psalm 4: "In peace I will both lay myself down and sleep, for you, LORD alone, make me live in safety." He says he'll sleep in peace. He doesn't say he'll sleep worn out.
 
@@ -61,3 +61,5 @@ Underneath all of these lies one more.
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
 
 <!-- 2026-11-23 FLOW PASS (book-wide): 'The same psychiatrist' is named (he was last named a chapter back); the see-a-doctor caution moved so it no longer sits between the good sleep and David's line about it; 'this' in the Energy section given something to point at. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

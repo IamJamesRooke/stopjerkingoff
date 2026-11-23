@@ -8,7 +8,7 @@ The flesh supplies the itch. The world supplies the reasons to scratch it.
 
 Two things keep a man in this trap. One is the flesh, with its small, restless itch: the Little Monster. The other is the lies, and they're far bigger, so they get a name too: the Big Monster. It's every lie you were told about the habit, and every lie you told yourself. It's no creature. It lives in your head, and it does all the talking.
 
-Start with the loudest lies, the ones about masturbation. Your grandfather was told it would make him go blind, grow hair on his palms and land him in an asylum. Nonsense, and it got laughed out of the room. But when the scare stories went, the truth went with them. Now a boy hears the opposite sermon, just as confident. It has five points.
+Start with the loudest lies, the ones about masturbation. Your grandfather was told it would make him go blind, grow hair on his palms and land him in an asylum. Nonsense, and it got laughed out of the room. But when the scare stories went in the trash, the truth went with them. Now a boy hears the opposite sermon, just as confident. It has five points.
 
 **"Everyone does it."** Nearly true. But a crowded trap is still a trap. Since when do you take directions from a crowd that's lost?
 
@@ -24,7 +24,7 @@ Start with the loudest lies, the ones about masturbation. Your grandfather was t
 
 ## The opposite lie {-}
 
-The hype runs the other way too. Stop, whole corners of the internet promise, and you'll get powers. The biggest forum of them all started with a thread about a study claiming a testosterone spike after seven days. The study was retracted in 2021.
+The hype runs the other way too. Stop, whole corners of the internet promise, and you'll get superpowers. The biggest forum of them all started with a thread about a study claiming a testosterone spike after seven days. The study was retracted in 2021.
 
 All that hype ought to get men out. Instead it keeps them in, because it turns stopping into a feat. You count days, take vows, call yourself a warrior. That's a lot of armor for evicting a pipsqueak. Then day thirty comes, the prize hasn't shown up, and back you go.
 
@@ -32,7 +32,7 @@ Both sermons, "it's good for you" and "quitting gives you powers", agree on one 
 
 ## The quiet pulpit {-}
 
-You'd expect the church to push back. Mostly it says nothing. A man can sit in a pew for thirty years and never hear masturbation named once. A boy hears jokes about it at school and silence in church. He decides it doesn't matter, or that he's the only one. Some kind and respected Christian teachers even said it was fine, to spare teenagers crushing guilt.
+You'd expect the church to push back. Mostly it says nothing. A man can sit in a pew for thirty years and never hear masturbation named once. A boy hears jokes about it on the school bus and silence in church. He decides it doesn't matter, or that he's the only one. Some kind and respected Christian teachers even said it was fine, to spare teenagers sleepless nights of guilt.
 
 ## Two things to be fair about {-}
 
@@ -101,3 +101,5 @@ Those are the lies about the hand. Porn has its own set, and somebody else pays 
 <!-- 2026-11-23 FLOW PASS (book-wide): 'So this book doesn't call...' is now 'It doesn't call...'; the 'So' claimed a link the two sentences before it had broken. -->
 
 <!-- 2026-11-23 PROOF LOOP: added the lie 'I'm not doing anything wrong' (James's words), answered with a plain test: a thing that's fine can be said out loud. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

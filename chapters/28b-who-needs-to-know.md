@@ -4,7 +4,7 @@
 >
 > — James 5:16
 
-Should you tell your wife? Your pastor? A friend? The habit lived on secrecy, so you get a straight answer. If you prayed, you've told God already. If you're Catholic, that means Confession too. As for people, here's what I'd do.
+Should you tell your wife? Your pastor? A friend? The habit fed on secrecy, so you get a straight answer. If you prayed, you've told God already. If you're Catholic, that means Confession too. As for people, here's what I'd do.
 
 ## Tell one man {-}
 
@@ -16,13 +16,13 @@ Know what you're asking him for. You're not hiring a cop. A weekly "did you or d
 
 A marriage is better with no locked rooms, so yes. Tell her, and don't wait years. She may already know, or half know.
 
-Be clear what this is to her. To you it felt like a private habit. To her it may be a betrayal, and she's entitled to call it that. So tell her for her sake. If you just want to dump your guilt so *you* feel lighter, you're using her again.
+Be clear what this is to her. To you it felt like a private habit. To her it may be a betrayal, and she's entitled to call it that. So tell her for her sake. If you just want to dump your guilt in her lap so *you* feel lighter, you're using her again.
 
 Was there an affair, or something against the law, or something that puts her health at risk? Then talk to a pastor or counselor first about how to tell her well. Do it soon.
 
-Tell her once, and tell her the truth: what it was, for how long, and whether there was porn or another woman. Don't bring it to her as good news. Say something like, "I've hidden this from you for years. I've stopped, and I'll tell you if that ever changes." Don't make her drag it out of you in pieces over six months. Half a confession now and the rest later does more harm than the whole truth told once. Spare her the details unless she asks, and answer what she asks.
+Tell her once, and tell her the truth: what it was, for how long, and whether there was porn or another woman. Don't bring it to her as good news. Say something like, "I've hidden this from you for years. I've stopped, and I'll tell you if that ever changes." Don't make her pull it out of you like a splinter, a piece at a time, for six months. Half a confession now and the rest later does more harm than the whole truth told once. Spare her the details unless she asks, and answer what she asks.
 
-Then let her set the pace. She may be angry, or cold, or want to see your phone, or need time. None of that is failing to forgive. Trust comes back slowly, and you don't get to say when. Don't ask her to keep score for you. But if she asks to look, show her.
+Then let her set the pace. She may be angry, or cold, or want to see your phone, or need time. None of that is failing to forgive. Trust comes back an inch at a time, and you don't get to say when. Don't ask her to keep score for you. But if she asks to look, show her.
 
 Ask her what she needs, and mean it. If she wants a counselor, a pastor or a friend of her own, help her get one. If there was another person or paid sex, both of you should see a doctor and get tested before you're intimate again.
 
@@ -34,7 +34,7 @@ If you share a bed with a woman you haven't married, tell her, and soon. Your No
 
 ## Nobody else {-}
 
-Nobody else needs to know. Don't post "Day 1" anywhere. You don't need an audience.
+Nobody else needs to know. Don't post "Day 1" anywhere. You don't need a crowd clapping.
 
 That's the method, start to finish. When it goes wrong, it goes wrong in only four ways, and men ask about every one of them.
 
@@ -47,3 +47,5 @@ That's the method, start to finish. When it goes wrong, it goes wrong in only fo
 <!-- 2026-11-22 last book-wide pass: sentences over 25 words split. -->
 
 <!-- 2026-11-23 FLOW PASS (book-wide): in 'Your wife' the three sentences on getting advice first when there was an affair, a crime or a health risk moved up to stand before 'Tell her once' (they came after the telling). Wording unchanged, nothing cut. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

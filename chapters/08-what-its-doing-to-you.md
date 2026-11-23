@@ -20,7 +20,7 @@ Some men do worry about the cost. But listen to how they picture it. A landmine,
 
 Wrong picture, and it's the one that keeps you walking.
 
-A truer picture is a bank account somebody dips into every day. A few coins at a time, never enough to notice. You'd spot a robbery. You don't spot this. Years later you add it up, and a fortune is gone.
+A truer picture is a bank account somebody skims every day. A few coins at a time, never enough to miss. You'd spot a robbery. You don't spot this. Years later you add it up, and a fortune is gone.
 
 ![](images/illustrations/costs-the-bank-account.png){.illustration width=80%}
 
@@ -30,7 +30,7 @@ So don't ask whether the mine will ever go off. Ask what's been going out of the
 
 ## What it has been taking {-}
 
-No shock treatment here. Nothing that follows will be news. It's a list of things you already know and have trained yourself not to look at.
+No shock treatment here. Nothing that follows will be news. It's a list of what you already know and have trained yourself not to look at.
 
 ### Your drive {-}
 
@@ -52,7 +52,7 @@ C.S. Lewis put it in three words: "indulgence brings fog". Part of the fog is pl
 
 Men find this one hardest to believe and easiest to recognize. How does something done alone, behind a locked door, change how you stand in a room?
 
-You bring it with you. You walk in knowing what you did at midnight, and you assume it shows. You can hardly look people in the eye.
+You bring it with you. You walk in knowing what you did last night with the lights off, and you assume it shows. You can hardly look people in the eye.
 
 It's worst around women. A man who spent last night using them in his head can't face a real one this morning. He's either sizing her up or studying his shoes.
 
@@ -72,7 +72,7 @@ That's the real cost to a Christian man, and it has nothing to do with lightning
 
 God doesn't leave. You do.
 
-You skip the prayer because of what you did an hour ago. You sit at the back and keep quiet in the small group. You feel like a fraud with a Bible in your hand. You start to believe you're not the sort of man who gets to answer a calling.
+You skip the prayer because of what you did an hour ago. You sit in the back row and keep quiet in the small group. You feel like a fraud with a Bible in your hand. You start to believe you're not the sort of man who gets to answer a calling.
 
 ### Your marriage {-}
 
@@ -159,3 +159,5 @@ And then there's the body. Men whisper about this part, and almost nobody tells 
 <!-- 2026-11-22 SKEPTIC READ, stage 2 (an atheist who thinks marriage is rigged against men): trust runs both ways; the single man gets an argument that needs no wife; plain legs beside the God-only cures. -->
 
 <!-- 2026-11-23 FLOW PASS (book-wide): 'The same coach' (last met a chapter back) is now 'One coach'. Nothing else changed. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

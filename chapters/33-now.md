@@ -4,13 +4,13 @@
 >
 > — Matthew 6:34
 
-You've reached the end of the book. Congratulations. You were caught in a trap that holds most men for life, and you walked out. Over the coming months you'll find that life was better than you thought. The habit had been standing in front of it.
+You've reached the end of the book. Congratulations. You were caught in a trap that holds most men for life, and you walked out. Over the coming months you'll find that life was better than you thought. The habit had been standing in front of the window, blocking the view.
 
 ## Today is the only day you've got {-}
 
 One idea before you go, and it'll outlast the rest.
 
-The habit lived in two places, and neither was real. It lived in the past: the shame of last night, the tally of broken promises. And it lived in the future: "How will I manage a whole lifetime without it?" Nobody can manage a lifetime. A lifetime doesn't arrive in one piece. It comes one ordinary day at a time, and no man has ever had to stay free on any day but this one.
+The habit lived in two places, and neither was real. It lived in the past: the shame of last night, the tally of broken promises. And it lived in the future: "How will I manage a whole lifetime without it?" Nobody can manage a lifetime. A lifetime never arrives in one piece. It comes one ordinary day at a time, and no man has ever had to stay free on any day but this one.
 
 Jesus told his friends the same thing. Leave tomorrow alone. It has worries enough of its own.
 
@@ -20,7 +20,7 @@ Tomorrow isn't yours yet.
 
 What you've been given is today.
 
-So practice one thing. Maybe this week, a thought will float up: "I could, just now." A second later you'll catch it and think, "That's not me. That's leftover noise from a thing I'm done with." Then comes a small burst of gladness. The thought doesn't give orders anymore. That's another moment of knowing you're free, and you can have it as often as you like.
+So practice one thing. Maybe this week, a thought will bob up: "I could, just now." A second later you'll catch it and think, "That's not me. That's leftover noise from a thing I'm done with." Then comes a small burst of gladness. The thought doesn't give orders anymore. That's another moment of knowing you're free, and you can have it as often as you like.
 
 If you're a Christian, there's a second half. You don't just watch your thoughts go by. You hand them over. If you're not a believer, the watching half is still yours: notice the thought, name it, let it pass. It works all the same.
 
@@ -28,7 +28,7 @@ Right now, nothing's wrong. You're free, you're forgiven, and you're breathing. 
 
 ## What goes in the space {-}
 
-You've got your space back: the hours, the energy and the attention the habit used to eat. The room was never his, and it isn't empty. It's yours, and if you're a Christian, you share it with its owner. Spend those hours well.
+You've got your space back: the hours, the energy and the attention the habit used to swallow. The room was never his, and it isn't empty. It's yours, and if you're a Christian, you share it with its owner. Spend those hours well.
 
 For a Christian that means God first. Not as a guard posted at the door, but as the one you were made to enjoy. Pray like a man with nothing to hide, because you've got nothing to hide. Open the Bible because you want to. Sit in church without feeling like a fraud in a pew.
 
@@ -48,7 +48,7 @@ That's bigger than quitting a habit. You'll be growing into it for the rest of y
 
 This book is open. You may copy it, print it, translate it and hand it around without asking anyone. It came the same way, from Allen Carr through the people behind EasyPeasy, and the Attribution page has the details. Jesus put the principle in one short sentence when he sent his disciples out: "Freely you received, so freely give."
 
-So tell one man. You already have his name. Send him the book with one line: "This worked for me." Don't preach it and don't argue it. The men who need it will read it at one in the morning, alone, the way you probably did.
+So tell one man. You already have his name. Send him the book with one line: "This worked for me." Don't preach it and don't argue it. The men who need it will read it in the dark, alone, the way you probably did.
 
 Lust has been made normal, and the whole machine runs on one fuel: men who can't look away. Every man who walks out stops paying for it. It ends one free man at a time, and you're one of them now.
 
@@ -115,3 +115,5 @@ You're free, and you're fit for service. Go in peace.
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->
 
 <!-- 2026-11-23 FLOW PASS (book-wide): in "Pass it on", the Attribution pointer moved behind the sentence it cut off ("It came the same way" now points at the book again). -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

@@ -2,7 +2,7 @@
 
 Before the last step, one laugh.
 
-It comes from a writer who goes by Guillaco, in a short work called *Meditations of a Porn Addict*. His reasoning: the habit gives you nothing and only hurts you, so wanting it makes about as much sense as wanting to drink bleach. Then he pictured the support forum. Here it is, lightly edited.
+It comes from a writer who goes by Guillaco, in a short work called *Meditations of a Porn Addict*. His reasoning: the habit gives you nothing and only hurts you, so wanting it makes about as much sense as wanting to drink bleach. Then he pictured the support forum for it. Here it is, lightly edited.
 
 "Hi! We are NoBleach, and we host challenges in which participants, called Bleachstronauts, abstain from drinking bleach for a period of time. Whether you want a monthly challenge as a test of self-control, or whether excessive bleach drinking has become a problem in your life and you want to quit for longer, you will find a supportive community and plenty of resources here."
 
@@ -18,7 +18,7 @@ A third has given up hope:
 
 "Stopping drinking bleach is impossible. I mean, I always have a mouth, you know? How am I supposed to stop when I always have a throat reminding me that I could swallow bleach?"
 
-And the last has just reset his counter:
+And the last has just wiped his counter back to zero:
 
 "Oh man, it was going so well. Nineteen whole days without doing it. The important thing is to learn from failure! Now I know what to avoid: looking at cleaning products in the supermarket. I'll try to make it to a month. I'm resetting my counter. Wish me luck!"
 
@@ -38,10 +38,12 @@ Now say the old bargains in a Bleachstronaut's voice.
 
 "I may never get the good wine. So what else am I supposed to drink?"
 
-You're smiling because you can see what the Bleachstronauts can't. Nobody needs courage, a counter or a monthly challenge to keep from drinking bleach. He just needs to see what's in the glass. After that, not drinking it isn't an achievement. It's a Tuesday.
+You're smiling because you can see what the Bleachstronauts can't. Nobody needs courage, a counter or a monthly challenge to keep from drinking bleach. He only has to look at what's in the glass. After that, not drinking it isn't an achievement. It's a Tuesday.
 
 That's all the last step is.
 
 <!-- 2026-11-22 NEW CHAPTER PLACEMENT (James: by the end 'you actually find it gross and don't want it'; the whole-book test reader: the bleach forum was the only place he laughed at the habit, and it sat after the Final Step). The forum text is moved unchanged from If You Slip (Guillaco, Meditations of a Porn Addict, as quoted in EasyPeasy, CC BY-SA 4.0; lightly edited as before). New: the section 'Sugar in the glass' with the four bargains in a Bleachstronaut's voice. -->
 
 <!-- 2026-11-22 second whole-book test as James (he said No to everything except 'any bed outside marriage', because with a woman he liked he was glad afterward and stayed). The woman is not the bleach; the shared hit is. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

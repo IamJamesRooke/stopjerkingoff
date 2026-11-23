@@ -14,17 +14,17 @@ So where's the line? Here's the test in full. Is this a gift, given inside a pro
 
 A gift has a person at the other end and a promise underneath it. A hit has only you.
 
-Run the five through it once more. The screen is a hit. So is the hand, and so is the private film. The chase is a man working a woman for what he can get, which is the opposite of a gift.
+Run the five through it once more. The screen is a hit. So is the hand, and so is the private film. The chase is a man playing a woman for what he can get out of her, which is the opposite of a gift.
 
 That leaves the bed, and the test is hardest there. She's in it too, and she may want it as much as he does. So look at what sex is. It ties two people together. It can make a child. It's the most one body can say to another: all of me, to you. With no promise under it, his body says that and he doesn't mean it. No wonder it so often leaves a flat feeling, even when both were willing.
 
 The Bible drew the line in the same place three thousand years ago. Sex belongs inside marriage. The book of Proverbs says it the way a father would say it to his son: "Drink water out of your own cistern, running water out of your own well." Inside a marriage, sex is a gift. A husband and wife who give themselves to each other are on the right side of the line. The screen, the hand, the private film of another woman, the chase and any bed outside marriage are on the other side.
 
-Count the doses once more. Porn plus the hand plus the orgasm was the strong one. The hand and the orgasm were the same drug with the screen taken away, and the hold was no weaker. Take both away, and the wanting of the orgasm was still there, looking for a feed, a daydream or a bed. One drug all along.
+Count the doses once more. Porn plus the hand plus the orgasm was the strong one. The hand and the orgasm were the same drug with the screen taken away, and the hold was no weaker. Take both away, and the wanting of the orgasm was still there, banging for a feed, a daydream or a bed. One drug all along.
 
 But it was only ever a drug outside the promise. Inside the promise the same thing is a gift, and it's for one person.
 
-You may be single, past forty, and unsure you'll ever marry. Then the line seems to offer you nothing but going without. That man gets a full answer before this walk is over.
+You may be single, past forty, and unsure you'll ever marry. Then the line seems to offer you nothing but an empty plate. That man gets a full answer before this walk is over.
 
 Or you may think marriage itself is a rigged deal for a man. That charge gets a full hearing too, with the numbers.
 
@@ -36,7 +36,7 @@ You may be thinking a grown man ought to draw his own line. Fair enough. When di
 
 Nobody should write his grocery list while he's starving.
 
-So the line has to sit outside you, where your wanting can't reach over and nudge it. You've moved your own line a hundred times. It always moved the same direction.
+So the line has to sit outside you, where your wanting can't reach over and nudge it. You've moved your own line a hundred times. It always crept the same way.
 
 ## Why not an easier line? {-}
 
@@ -59,11 +59,11 @@ Then test the lines the way you'd test a bridge. Put weight on them.
 
 **Who gets used?** Behind every easier line, somebody is used. It's a woman on a screen, or a woman in your head who never agreed. It's a woman in a bed, or it's you. Inside the promise nobody has to be. Both of them gave everything first, and both have promised to stay.
 
-**What has to be hidden?** Every easier line needs a locked door, a cleared history, or a "Quiet" when she asks about your night. A husband and wife hide nothing about their bed.
+**What has to be hidden?** Every easier line needs a locked door, a wiped history, or a "Quiet" when she asks about your night. A husband and wife hide nothing about their bed.
 
 **Would you hand it on?** Would you teach your easier line to your son? Would you accept it from the man who dates your daughter? "At least she's a real woman" sounds different when the woman is her. For her you want the man who waits and then stays. Some other father wants that man for his daughter.
 
-**Does it let you find out who she is?** The fair-sounding line goes like this. Sleep with a woman you like, be honest with her, and see where it goes. Check that against your own record. How often did you sleep with her early and then lose interest? The wanting was doing your choosing, and once it got paid, it left. That line doesn't help a man find a wife. It stops him finding out whether he wants her. A man who waits has to like her with his clothes on.
+**Does it let you find out who she is?** The fair-sounding line goes like this. Sleep with a woman you like, be honest with her, and see where it goes. Check that against your own record. How often did you sleep with her early and then lose interest? The wanting was doing your choosing, and once it got paid, it packed up and left. That line doesn't help a man find a wife. It stops him finding out whether he wants her. A man who waits has to like her with his clothes on.
 
 **Where does the desire go?** On every easier line it's spent, on a screen or a tissue or a stranger. Inside the promise the same force builds a bond, a home and perhaps children. One line burns it. The other puts it to work.
 
@@ -107,3 +107,5 @@ SOURCES: Epigraph and body quotation: Proverbs 5:15 (WEB, checked 2026-11-20). "
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through: the marriage chapters reordered so that If You Never Marry comes last (after All In has shown the good thing), with the hall stitched to match; repeats cut; leaks closed. -->
 
 <!-- 2026-11-23 FLOW PASS (book-wide): the two deferred objections (single past forty; marriage is rigged) moved out of the five tests to where the line is first stated; 'Marriage is not one more room' moved up beside 'Count the rooms'. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

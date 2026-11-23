@@ -2,7 +2,7 @@
 
 No.
 
-The Little Monster starves, and the path the habit wore across your evenings grows over. The last scraps of the old lies go with them. You'll handle a hard day better than you do now. And the good days will be properly good, because you'll be there for every minute, with nothing to hide when you get home.
+The Little Monster starves, and the path the habit wore across your evenings grows over. The last scraps of the old lies go with them. You'll meet a hard day standing up. And the good days will be good all the way through, because you'll be there for every minute, with no browser history to wipe when you get home.
 
 Let's be straight about the one thing you might miss. The orgasm feels good. For a few seconds it's real pleasure. But most of that good feeling is the banging stopping, and the habit made the banging. The rest is sugar. Sweet for a moment, and you pay before and after. A man who quits sugar doesn't miss the crash.
 
@@ -10,13 +10,13 @@ Paul once put a question to the Christians in Rome about their old life: "What f
 
 ## The sell looks cheap {-}
 
-Nobody warns you about this one. The things that used to pull at you start to look cheap. The billboard, the song, the scene put into a film to sell tickets. They may hit you the way a fryer hits a man who's quit junk food. The women don't look cheap. The sell does. You see how hard somebody's working to use your appetite against you, and how little he thinks of you. You won't fight it. You'll turn the page, a little disgusted, and get on with your day.
+Nobody warns you about this one. The things that used to pull at you start to look cheap. The billboard, the song, the bedroom scene stuffed into a film to sell tickets. They may hit you the way a fryer hits a man who's quit junk food. The women don't look cheap. The sell does. You see how hard somebody's working to use your appetite against you, and how little he thinks of you. You won't fight it. You'll flip the page, a little disgusted, and get on with your day.
 
 ## The one danger left {-}
 
 There's only one real danger left, and it's other men.
 
-The world never stops telling a free man he's the odd one. Sitcoms treat the habit as a harmless joke and experts call it healthy. Then one night you're alone, a bit low, a bit lonely, and the thought arrives: *Everyone else gets to. Why not me?*
+The world never stops telling a free man he's the odd one. Sitcoms treat the habit as a harmless joke and experts call it healthy. Then one Sunday you're alone in a quiet apartment, a little low, and the thought arrives: *Everyone else gets to. Why not me?*
 
 Strange thought. Every man who never picked the habit up is glad he didn't. Every man who still has it wishes he'd never begun, and he'll tell you so after a couple of honest questions. Not one of them recommends it to his son. So who exactly are you envying?
 
@@ -44,7 +44,7 @@ If he isn't enjoying it this year, he'll enjoy it less next year.
 
 Pity him, pray for him, and when the chance comes, hand him this book.
 
-One idea still lets a man stay where he is. It says he can keep the Little Monster shut in the back room and live his life in the rest of the house.
+One idea still keeps a man planted where he is. It says he can keep the Little Monster shut in the back room and live his life in the rest of the house.
 
 <!-- SOURCES (Chapter 18): every quote below is from the research files; check each against its page before publishing.
 - "I've been freed now and it's nearly been 7 years." / "this truly sensational feeling of peace for the first time in my life" — Ambassador for Christ, TalkJesus forum, 13 Sep 2024, thread "[STRUGGLES] Help from brothers and sisters in Christ.", https://www.talkjesus.com/goto/post?id=472239 (research/more-sources.md; he says he was addicted to porn and masturbation from about 12 to 21; the peace followed a spiritual experience, receiving the Holy Ghost, and not quitting itself; the book now frames it that way)
@@ -62,3 +62,5 @@ One idea still lets a man stay where he is. It says he can keep the Little Monst
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
 
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). Answers 'but it feels good' where the reader asks whether he will miss it. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

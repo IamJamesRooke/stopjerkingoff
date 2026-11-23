@@ -2,7 +2,7 @@
 
 The doctors say masturbation itself does no physical harm, and I won't argue. But the habit hits the body in three places, and you should hear them straight.
 
-The plainest is sleep. The habit lives late at night. It takes the hour, then the sleep after the hour. A man who drags himself out of bed every morning is paying a physical price, whatever the textbooks say.
+The plainest is sleep. The habit lives after dark. It eats the hour, then the sleep after the hour. A man who rolls out of bed every morning like a sack of wet sand is paying a physical price, whatever the textbooks say.
 
 The second is trouble in bed with a real woman. Some men who lean heavily on porn can't get ready with her, or can't stay ready. Careful here. The research is mixed, and nobody has proved porn is the cause. In a 2021 survey of young men, about one in five of the sexually active had some erection trouble. It tracked how compulsive his porn use was, not the hours. An earlier study in three countries found little link at all. Doctors say a young man's usual cause is worry, and a man carrying a secret has plenty. Drink, medicines and illness can do it too. If it's gone on for weeks, see a doctor.
 
@@ -46,3 +46,5 @@ The body can mend. So why has a list like this never once made you stop?
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->
 
 <!-- 2026-11-23 FLOW PASS (book-wide): in 'Death grip' the medical student's story now follows the woman's line, and the 'keep this honest' caution sits with the doctors, so explanation, cure and recovery run unbroken; nothing cut. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

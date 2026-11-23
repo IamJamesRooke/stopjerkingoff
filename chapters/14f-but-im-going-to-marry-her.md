@@ -4,17 +4,17 @@
 
 There's a man you may recognize. Maybe he's you, maybe a friend. He's no collector, and he's never paid for anything. He's found the right woman, and he's thinking about a ring.
 
-One afternoon she sends him a photograph meant for his eyes alone. He does with it what he's done with a thousand other pictures. Afterward he asks himself an honest question. Was that lust? She's the woman I'm going to spend my life with.
+One afternoon she sends him a photograph meant for his eyes alone. He does with it what he's done with a thousand other pictures. Afterward, staring at the wall, he asks himself an honest question. Was that lust? She's the woman I'm going to spend my life with.
 
 His "at least" is the best one in this book. At least I love her.
 
 Take it seriously, and look at what happened. She sent him something of herself. He took it into a room alone, used it for ten minutes, and felt flat afterward. The old habit, with her face on it. For those ten minutes the woman he loves was material.
 
-That's lust. It doesn't care who she is. It'll use a stranger or your future wife, and it uses them the same way.
+That's lust. It doesn't care who she is. It'll chew up a stranger or your future wife, and it chews them the same way.
 
 One fair point. She sent the picture, and she isn't a child. Her part is real, and it's hers to answer for. But you're the one reading this book, so you move first.
 
-And if you were the one who asked for the picture, hear it plainly. That's making your own porn, with a woman you know. A picture, once sent, belongs to whoever holds the phone. A free man doesn't ask for it. If she offers, he says no, and she'll remember that he did.
+And if you were the one who asked for the picture, hear it plainly. That's making your own porn, with a woman you know. A picture, once sent, belongs to whoever's holding the phone. A free man doesn't ask for it. If she offers, he says no, and she'll remember that he did.
 
 The photograph is half of it. The other half is the bed. You know the old word, fornication. It doesn't ask whether he loves her. It asks whether he's married her. "We're as good as married", he says. Listen to the words. Everything that makes a marriage is in the part he hasn't done yet: the promise, said aloud in front of witnesses, with the door closed behind him. If they really are as good as married, the wedding is good news, and it can be small and soon. If there's a reason he can't marry her yet, he already knows the two aren't the same.
 
@@ -22,13 +22,13 @@ Maybe you say the promise is already made, in private, and a wedding adds nothin
 
 Yes, people break public promises too. That's a reason to keep a promise. It's no reason to avoid making one.
 
-You may be thinking this is a lot of fuss over a few months. Look at what the months are for.
+You may be thinking this is a lot of fuss over a few months. Look at what those months are for.
 
-She's about to trust one man with the rest of her life. There'll be a year when she's ill, or eight months pregnant, or three thousand miles away. That year she'll need a man whose desire for her doesn't turn into a demand. He can show her now that she's getting one. No ring says it half as well.
+She's about to trust one man with the rest of her life. There'll be a year when she's sick in bed, or eight months pregnant, or three thousand miles away. That year she'll need a man whose desire for her doesn't turn into a demand. He can show her now that she's getting one. No ring says it half as well.
 
 So he tells her. He doesn't make a speech about sin. He says something closer to this: "I want you more than I can say, and I'm glad to keep it for our wedding." She may laugh. She may be hurt, and hear it as a no to her. So he says the other half plainly: he doesn't want her less. She may need an evening to think. She'll remember it on her wedding day. Read this chapter with her, if you like. Waiting is something the two of you give each other, and she should have a say in how you keep it.
 
-If you're not a believer, use the plain test. Is this a gift given inside a promise already made? The gift is real. The promise isn't made yet. Make it, and the bed is yours to share. One caution. A ring doesn't turn using her into giving. The photograph, alone in a room, is still a hit after the wedding.
+If you're not a believer, use the plain test. Is this a gift given inside a promise already made? The gift is real. The promise isn't made yet. Make it, and the bed is yours to share. One caution. A ring doesn't turn using her into giving. The photograph, alone in a locked room, is still a hit after the wedding.
 
 ## If you already share a bed {-}
 
@@ -36,7 +36,7 @@ Maybe you're long past this line with the woman you love. Maybe you've lived tog
 
 But you can't settle this alone in your head, because she's in it. So talk to her, in daylight, not at bedtime. Tell her what you've seen about yourself. Tell her it's no judgment on her, and that you're not leaving. Then tell her what you want: to stop taking from her, and to make her a promise.
 
-After that, you two have real choices. You can bring the wedding forward. Plenty of couples have married within a month, with ten guests. Or you can keep the bed for the wedding from here on. That's not simple under one roof, so some men move out for the months between. If she doesn't share your conviction, listen to her. Don't preach, and don't make her the problem. The line doesn't move. How the two of you get behind it is yours to work out together. Working it out is no reason to keep the bed in the meantime.
+After that, you two have real choices. You can bring the wedding forward. Plenty of couples have married within a month, with ten guests and a sheet cake. Or you can keep the bed for the wedding from here on. That's not simple under one roof, so some men rent a spare room for the months between. If she doesn't share your conviction, listen to her. Don't preach, and don't make her the problem. The line doesn't move. How the two of you get behind it is yours to work out together. Working it out is no reason to keep the bed in the meantime.
 
 Only one choice is closed. Don't tell yourself you'll sort it out later and go on as before. "Later" is the oldest lie in the house.
 
@@ -67,3 +67,5 @@ That's every room in the house. One excuse is left over from this one, and it we
 <!-- 2026-11-22 Skeptic read: witnesses make the door cost something; they don't shut it. -->
 
 <!-- 2026-11-23 FLOW PASS (book-wide): cut the 'This chapter is for' note; the two paragraphs on who sent and who asked for the picture moved up to join the photograph, before the bed. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

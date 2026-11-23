@@ -18,7 +18,7 @@ There's one more cost, and it's the one you'll be gladdest to lose.
 
 Every man with this habit carries a shadow at the back of his mind. Most days he doesn't look at it. He jokes and works and plays with his kids. But it goes wherever he goes. He knows he's doing something he despises, and he's arranged his life so he doesn't have to think about it.
 
-It's the jolt when the talk turns to porn. The half-second of dread when someone borrows his phone. The vague unease late at night, which he's always blamed on the day.
+It's the jolt when the talk turns to porn. The half-second of dread when someone borrows his phone. The low hum of unease at bedtime, which he's always blamed on the day.
 
 The day didn't cause it. A man without the habit has bad days too, and no shadow like this. King David knew it well. He had a secret of his own once, and in Psalm 32 he wrote: "When I kept silence, my bones wasted away through my groaning all day long."
 
@@ -45,3 +45,5 @@ So much for how the habit makes you feel. There's also what it makes you worth t
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'). Pleasure admitted. -->
 
 <!-- 2026-11-22 SKEPTIC READ, stage 2 (an atheist who thinks marriage is rigged against men): trust runs both ways; the single man gets an argument that needs no wife; plain legs beside the God-only cures. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

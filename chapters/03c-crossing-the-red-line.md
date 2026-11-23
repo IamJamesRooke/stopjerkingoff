@@ -1,10 +1,10 @@
 # Crossing the Red Line {#crossing-the-red-line}
 
-Whatever you repeat goes stale. The memory that worked last month doesn't work this month. The video that shocked you last year bores you now. The same meal quiets him for a shorter time. So you go looking for a bit more, or something new.
+Whatever you repeat goes stale. The memory that worked last month doesn't work this month. The video that shocked you last year bores you now. The same meal keeps him quiet for less time. So you go looking for a bit more, or something new.
 
 Porn is built on this. It never runs out of new, so a man can chase "a bit more" for hours, tab after tab, and finish emptier than he started. Lewis has Screwtape, his senior devil, state the recipe: "An ever increasing craving for an ever diminishing pleasure is the formula."
 
-So the fantasy creeps. First it's nothing much. Then a memory. Then a woman you actually know: someone at work, a friend's wife, the woman at the gym. Then a little help from the phone: a photo, a feed, a "harmless" video. Then porn, and then harder porn.
+So the fantasy creeps. First it's a daydream you barely notice. Then a memory. Then a woman you actually know: someone at work, a friend's wife, the neighbor across the street. Then a little help from the phone: a photo, a feed, a "harmless" video. Then porn, and then harder porn.
 
 Every man has a red line.
 
@@ -18,7 +18,7 @@ So you cross the line, or you go right up to it, and afterward you feel better t
 
 And the line moves. A man will jerk off to anything: a stranger's vacation photos, a swimsuit ad, the woman on a box of hair dye.
 
-We do it when we're sick. We do it when we're exhausted, when we're sad and when we aren't remotely in the mood. Married men do it an hour after making love to their wives. Does that sound like enjoyment? It sounds like a man feeding something.
+We do it when we're sick. We do it when we're so tired we can't see straight, when we're sad and when we aren't remotely in the mood. Married men do it an hour after making love to their wives. Does that sound like enjoyment? It sounds like a man feeding something.
 
 The Little Monster wants feeding, and you pick the times. They come in two pairs of opposites:
 
@@ -34,3 +34,5 @@ So you're hooked. Is that bad news?
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 03-the-flesh.Rmd; the source notes for everything here are in that file. -->
 
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'). The Little Monster doesn't want or plot; he is quieted for a shorter time. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

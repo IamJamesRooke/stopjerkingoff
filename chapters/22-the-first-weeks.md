@@ -7,7 +7,7 @@
 For a few weeks after you stop, you may feel an occasional urge. Urges come in two kinds, and most of the misery of the Willpower Method comes from mixing them up.
 
 1. **The leftover itch.** This is the Little Monster going hungry: a faint, empty, restless feeling, a sense that there's something you ought to be doing.
-2. **The cue triggers.** These are the times and places you've wired to the habit. The bed, the shower, the empty house and the phone at midnight are on the list. So are the app you used to open and a message from a woman you shouldn't be writing to.
+2. **The cue triggers.** These are the times and places you've wired to the habit. The bed, the shower, the empty house and the phone in the dark are on the list. So are the app you used to open and a message from a woman you shouldn't be writing to.
 
 ## The man on the couch, week one {-}
 
@@ -21,7 +21,7 @@ Tuesday is nothing at all. He's almost offended.
 
 Wednesday he wakes up hard, and the old thought arrives with the alarm. He gets up and puts the kettle on. By the time it boils, the thought's gone.
 
-Thursday is a bad day at work, the kind he used to carry home and settle at midnight. He carries it home. At eleven it's still a bad day, and no worse than it would've been. He goes to bed annoyed and wakes up fine, with nothing to delete.
+Thursday is a bad day at work, the kind he used to carry home and settle behind a locked door. He carries it home. At eleven it's still a bad day, and no worse than it would've been. He goes to bed annoyed and wakes up fine, with nothing to delete.
 
 Friday his wife takes the children to her mother's, and the house goes quiet at eight. For fifteen years that quiet was a starting gun. He puts on a film. He notices the empty house at ten, when the film ends and he gets up to lock the door.
 
@@ -31,7 +31,7 @@ Nothing in that week took courage. A bell rang a few times and nobody got up. Yo
 
 ## The leftover itch {-}
 
-The leftover itch involves no pain at all. Think of skipping lunch. Your stomach grumbles and you get short with people, but nothing hurts. The itch is milder, and your body needs lunch but doesn't need this. In a man who isn't moping, the itch fades fast and is gone for good. The Little Monster has the staying power of a toddler at bedtime. He's loud, then quiet, then asleep.
+The leftover itch doesn't hurt at all. Think of skipping lunch. Your stomach growls and you snap at the guy in the next cubicle, but nothing hurts. The itch is milder, and your body needs lunch but doesn't need this. In a man who isn't moping, the itch fades fast and is gone for good. The Little Monster has the staying power of a toddler at bedtime. He's loud, then quiet, then asleep.
 
 Men on the Willpower Method get through this part too. The itch isn't what brings them down. The cues do.
 
@@ -63,17 +63,17 @@ Whichever kind of urge turns up, accept it. The feeling isn't bad. What hurts is
 
 "I know what this is. It's the Little Monster dying. Men in the trap live with this every day of their lives. Free men don't have it. ISN'T IT MARVELOUS that I'm nearly rid of it?"
 
-For a few weeks there'll be a small disturbance in you, and all through those weeks something wonderful is happening. You're starving the Little Monster, and the old lies will try every trick to get him fed. One will catch you off guard, when something flashes up on your feed and for a second you forget you've stopped. Each trick you see through leaves them weaker.
+For a few weeks there'll be a small rumble in you, and all through those weeks something wonderful is happening. You're starving the Little Monster, and the old lies will try every trick to get him fed. One will catch you off guard, when something flashes up on your feed and for a second you forget you've stopped. Each trick you see through leaves them weaker.
 
 Paul says two things about these moments. "No temptation has taken you except what is common to man", so you're not a special case. And "God is faithful", he says, and will "make the way of escape". So there's always a way out. Usually it's simply to let the moment pass.
 
 If you're a Christian, take one more thing to heart. It's not a sin to be tempted. Look at Jesus. The letter to the Hebrews says he was tempted in every way, as we are, and did not sin. An urge that turns up uninvited is weather. It says nothing about you.
 
-**Don't try not to think about it.** Willpower men spend their days trying to forget. That works about as well as trying to fall asleep by worrying about being awake. You can't forget in the first few days anyway. The Little Monster will remind you, and so will every billboard. And you don't need to, because nothing bad is happening. If it crosses your mind a hundred times a day, enjoy it a hundred times: *I'm free.* You'll be surprised how soon you stop thinking of it at all.
+**Don't try not to think about it.** Willpower men spend their days trying to forget. That works about as well as trying to fall asleep by staring at the clock. You can't forget in the first few days anyway. The Little Monster will remind you, and so will every bus-stop ad. And you don't need to, because nothing bad is happening. If it crosses your mind a hundred times a day, enjoy it a hundred times: *I'm free.* You'll be surprised how soon you stop thinking of it at all.
 
 **Don't doubt your decision.** Doubt comes first, then moping, then the slide. If you catch yourself feeling low, remember that the habit caused most of the lowness you knew. If you're still low weeks from now, that's a different problem, and a doctor is the person to see. If a friend sends you something, be glad to say, "I don't bother with that anymore."
 
-You had strong reasons for stopping, and now's the time to take them down off the shelf. Remember the years, the fog, the secrecy and the distance from God. A voice will tell you they weren't so bad.
+You had strong reasons for stopping, and now's the time to take them down off the shelf. Remember the lost years, the lost hours, the hiding and the distance from God. A voice will tell you they weren't so bad.
 
 You know that voice very well. It sounds like your own.
 
@@ -128,3 +128,5 @@ You know that voice very well. It sounds like your own.
 <!-- 2026-11-22 last book-wide pass: sentences over 25 words split. -->
 
 <!-- 2026-11-23 FLOW PASS (book-wide): 'On the worst night' followed from nothing; one linking sentence added at its head to tie it to the bell. Nothing moved or cut. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

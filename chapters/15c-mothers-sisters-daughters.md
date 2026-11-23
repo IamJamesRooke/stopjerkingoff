@@ -6,7 +6,7 @@ Nobody's asking you to walk around with your eyes shut. Paul gave a young pastor
 
 Stretch it a little and it covers every woman you'll ever meet. The older ones are mothers. The ones your age are sisters. The young ones are daughters.
 
-A man doesn't size up his sister, or perform for her, or keep a door open with her. He doesn't flatter his mother to get something. He'd walk through fire for his daughter and wants nothing from her at all. He's just glad they're there.
+A man doesn't size up his sister, or perform for her, or keep a door open with her. He doesn't flatter his mother to get something. He'd step in front of a bus for his daughter and wants nothing from her at all. He's just glad they're there.
 
 Try it for one week, in every shop, office and street. Think how quiet your head would get.
 
@@ -41,3 +41,5 @@ So far the wanting has mostly watched. Now it does something new. It borrows you
 <!-- 2026-11-22 LADDER (James: go after each behavior in turn; PMO is the enhanced version, MO the mild version, 'the O is only for one person'; no pressure; name fornication; PMO to MO is progress because porn hurts others). Added the no-pressure door before the closing hook. Plan: /mnt/project-files/easy-peasy/ladder-plan-2026-11-22.md -->
 
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). The Little Monster can't leave his room; the wanting borrows the feet. The excuse is in 'at least' form. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

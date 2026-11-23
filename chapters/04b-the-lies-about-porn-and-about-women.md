@@ -2,7 +2,7 @@
 
 The world has a second set of lies, for the screen.
 
-**"Porn is just entertainment. Nobody gets hurt."** Somebody always does. You can't know whether the woman on the screen wanted to be there. You can't check her age, and the sites haven't either. In 2020 a New York Times report found videos of rape and of underage girls on the biggest porn site in the world. The big card companies stopped handling its payments. Within days the site pulled nearly ten million videos. It had never checked who uploaded them.
+**"Porn is just entertainment. Nobody gets hurt."** Somebody always does. You can't know whether the woman on the screen wanted to be there. You can't check her age, and the sites haven't either. In 2020 a New York Times report found videos of rape and of underage girls on the biggest porn site in the world. The big card companies cut off its payments. Within days the site yanked nearly ten million videos. It had never checked who uploaded them.
 
 One case out of many: a California company promised young women their videos would never go online, then put them on the free sites, where they were watched millions of times. In 2025 its owner was sentenced to twenty-seven years in prison for sex trafficking.
 
@@ -39,3 +39,5 @@ Those are the lies. Now look at some of the men who believed them.
 <!-- 2026-11-23 FLOW PASS (book-wide): the 'It does a marriage no harm' paragraph moved below 'It isn't a real woman', so the lies about who gets hurt run together and the harm to you leads into the harm to your marriage. No words changed. -->
 
 <!-- 2026-11-23 PROOF LOOP (James: 'Watching porn I was cheating. And masturbating I was cheating because I was thinking of others. Maybe others have an open relationship. But in my case I can't say I'm being faithful'). Added as the lie 'It isn't cheating', addressed to the reader's 'you', with the open-relationship case conceded. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

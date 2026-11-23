@@ -22,7 +22,7 @@ Some men in the church at Corinth, a Greek city, had a slogan like that: "All th
 
 One man quit porn twice, and went back twice. Both times, he said, masturbation was what led him back.
 
-Not hard to see how. The hand never works alone. Something's always playing while it happens. A memory, a face from the feed, a woman from work. The hand is where the look and the thought turn into the act. For the man who quit porn, the film is usually porn.
+Not hard to see how. The hand never works alone. Something's always playing while it happens. A memory, a face from the feed, a woman from the elevator. The hand is where the look and the thought turn into the act. For the man who quit porn, the film is usually porn.
 
 Men have a name for the pictures stored in the head for this. The spank bank. A man who draws on it is still watching porn. He's just moved the screen inside his skull. It's weaker there, the way fruit juice is weaker than a can of cola. Same sugar, same job.
 
@@ -36,7 +36,7 @@ So what has the hand really been paying you all these years?
 
 The finish feels good. Nobody denies it. But look at what the good feeling is made of. Mostly it's the itch stopping, and the last time started that itch. The rest is a few sweet seconds, like sugar, paid for before and after. For ten minutes a man feels the way the man who never does it feels all day. That's the whole paycheck.
 
-Then there's what the hand teaches. A body learns that desire is something to handle fast, alone, with nobody to answer to. A man practices that for fifteen years. Then he marries, and the lesson comes along on the honeymoon.
+Then there's what the hand teaches. A body learns that desire is something to dump fast, alone, with nobody to answer to. A man practices that for fifteen years. Then he marries, and the lesson comes along on the honeymoon.
 
 And if he never marries, he's still spent his best hours alone behind a locked door.
 
@@ -79,3 +79,5 @@ The uninvited guest picks up his blanket and moves down the hall. "I'm looking, 
 <!-- 2026-11-22 third whole-book test as James (he now says the whole No, but holds back the warm bed with a woman he liked; 'I say the clause as a better policy, not as a man who sees nothing in the room'). Fixes from that test; see the commit of this date. -->
 
 <!-- 2026-11-23 FLOW PASS (book-wide): the paragraph 'Suppose your hand never leads you back to the screen' moved up to follow the back-door paragraph it answers; 'only me' now runs straight into 'self-love'. Nothing cut. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

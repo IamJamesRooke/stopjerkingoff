@@ -10,7 +10,7 @@ The Little Monster is a caller who won't stop ringing, and a caller nobody answe
 
 The first is the very first time. No boy ever signed up for twenty years. He signed up for once, and the caller's had his number ever since.
 
-The second comes mid-attempt. A man is four days in and doing great. Then a rough week hits, or a special occasion, and he picks up once to get through it. That attempt is over. Look back at your own. A hundred nights didn't beat most of them. One did.
+The second comes mid-attempt. A man is four days in and doing great. Then a rough week hits, or a funeral, or a layoff, and he picks up once to get through it. That attempt is over. Look back at your own. A hundred nights didn't beat most of them. One did.
 
 The third is the cruelest. A man's been free for months, or years. The calls stopped long ago. He picks up once to prove he doesn't need the habit anymore, or just to see. It proves the opposite.
 
@@ -44,7 +44,7 @@ Get this fixed in your mind: JUST ONCE DOES NOT EXIST. It's a chain, and each li
 
 ## One little look {-}
 
-Sometimes the offer comes smaller still. Not once, only a look. A scroll past a certain account, a quick search, a minute of "just touching, not finishing". This finishes off most men on the Willpower Method, three or four days in.
+Sometimes the offer comes smaller still. Not once, only a look. A scroll past one certain account, one quick search, a minute of "just touching, not finishing". This finishes off most men on the Willpower Method, three or four days in.
 
 Often the little look is a letdown, and the man is delighted. "That did nothing for me. I must be losing interest." Wrong. The few seconds were never the point. He did it to feed the Little Monster, and that scrap tasted like a steak after four days of starving. The man didn't notice. The Little Monster did.
 
@@ -177,3 +177,5 @@ There's a smaller "just once" than any of these, and it's the one that gets most
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through: the marriage chapters reordered so that If You Never Marry comes last (after All In has shown the good thing), with the hall stitched to match; repeats cut; leaks closed. -->
 
 <!-- 2026-11-23 FLOW PASS (book-wide): two loose pronouns pinned to their nouns ('The man gets', 'The little look is'); empty 'So' dropped from 'Here is how a man lets it ring'. Nothing cut. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

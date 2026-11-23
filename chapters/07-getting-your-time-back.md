@@ -22,13 +22,13 @@ A man might work out what one week costs him, and that's bad enough. He never do
 
 The act is the smallest part of it.
 
-**The hunt.** If porn's still in the picture, you know the hunt. A hundred tabs open at midnight, still searching for the one video that will do. If porn's gone, the hunt has only moved: a scroll through a feed that was supposed to be innocent, or a slow dig through your own memory for a scene that still works.
+**The hunt.** If porn's still in the picture, you know the hunt. Tab after tab after tab, still searching for the one video that will do. If porn's gone, the hunt has only moved: a scroll through a feed that was supposed to be innocent, or a slow dig through your own memory for a scene that still works.
 
-**The slump.** The half hour afterward, when you lie there like a dropped coat. Sometimes the whole flat evening. Do that daily and you've lost whole days.
+**The slump.** The half hour afterward, when you lie there like a dropped coat. Sometimes the whole gray evening. Do that daily and you've lost whole days.
 
 ![](images/illustrations/time-the-dropped-coat.png){.illustration width=80%}
 
-**The night and the morning.** Midnight becomes one o'clock, and the next morning is gone before it starts.
+**The night and the morning.** Eleven o'clock turns into one, and the next morning is gone before it starts.
 
 **The hours in your head.** No clock catches these: the minutes at your desk, at dinner and on the train when part of you is already planning tonight.
 
@@ -85,3 +85,5 @@ Time is the cost you can count. The others are harder to see, because you've tra
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->
 
 <!-- 2026-11-23 FLOW PASS (book-wide): the note on why the costs are counted moved ahead of the clock line, so the clock leads straight into 'Do the math'; 'It is here' moved next to the sentence it answers. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

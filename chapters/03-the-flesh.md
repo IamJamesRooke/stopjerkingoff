@@ -23,21 +23,21 @@ There's an old word for a thing set apart for a high use: holy. Your body is in 
 ![](images/illustrations/flesh-watch-as-a-hammer.png){.illustration width=80%}
 
 
-Lust feeds in more ways than one. Masturbation is the plainest case, so we'll use it to show how lust works. A drive built to bind a man to one woman is made to end in a tissue. It's a hijacking, and the plane lands nowhere.
+Lust feeds in more ways than one. Masturbation is the plainest case, so we'll use it to show how lust works. A drive built to bind a man to one woman ends in a wad of tissue. It's a hijacking, and the plane lands nowhere.
 
 ## How the loop works {-}
 
-You'll find plenty of videos that explain this habit with brain chemistry and diagrams. Skip them. Some of it is shaky, and you don't need any of it. You don't have to understand an engine to notice the car keeps pulling left.
+You'll find plenty of videos that explain this habit with brain chemistry and diagrams. Skip them. Some of it is shaky, and you don't need a drop of it. You don't have to understand an engine to notice the car keeps pulling left.
 
 It's simple, and you can check every step against your own life.
 
-1. **A cue.** You get into bed. You step into the shower. The house goes quiet. You're bored, or wound up, or lonely, or you saw something on your phone.
+1. **A cue.** You get into bed. You step into the shower. The house goes quiet. You're bored, or wound up, or lonely, or a photo on your phone caught your eye.
 2. **An urge.** A small, restless "go on".
-3. **Relief.** You do it, or you open the site. The restlessness stops.
+3. **Relief.** You do it, or you open the site. The fidgeting stops.
 
-That's the loop: cue, urge, relief. Every trip around it teaches you that this cue leads to that relief. Do it a few hundred times and you know the lesson by heart. The cue alone now produces the urge. You don't have to be aroused, or in the mood, or even paying attention.
+That's the loop: cue, urge, relief. Every lap around it teaches you that this cue leads to that relief. Do it a few hundred times and you know the lesson by heart. The cue alone now sets off the urge. You don't have to be aroused, or in the mood, or even paying attention.
 
-It's a shortcut across a lawn. The first time, you barely leave a mark. Walk the same line every night for ten years and there's a bare strip of dirt, and your feet take it without asking.
+It's a shortcut across a lawn. The first time, you barely leave a mark. Walk the same line every night for ten years and you've worn a bare strip of dirt, and your feet take it without asking.
 
 ![](images/illustrations/flesh-path-across-the-lawn.png){.illustration width=80%}
 
@@ -92,3 +92,5 @@ That restless feeling is the Little Monster. Time to meet him properly.
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->
 
 <!-- 2026-11-23 FLOW PASS (book-wide): the definition of 'the flesh' now opens by picking up the preacher's 'wrong use' in the line before it, so it no longer arrives unannounced. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

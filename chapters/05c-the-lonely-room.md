@@ -4,9 +4,9 @@ The last occasion is the night a man feels alone. It comes in a small size and a
 
 ## After the date {-}
 
-The date went badly, or nowhere. Or you had a fight with your wife and she's gone to bed with her back to you. You've got the particular ache of a man who's been turned down. Tonight of all nights, you tell yourself, you're owed something. You aren't. Her no is never your excuse.
+The date went badly, or nowhere. Or you had a fight with your wife and she's gone to bed with her back to you. You've got the sour ache of a man who's been turned down. Tonight of all nights, you tell yourself, you're owed something. You aren't. Her no is never your excuse.
 
-What the habit offers is company that can't say no, because nobody is there. And each night you take that offer makes a real woman a little harder to face.
+What the habit offers is company that can't say no, because nobody is there. And each night you take that offer makes a real woman a little harder to look in the eye.
 
 These are the nights you think you'd miss it most. The trick is the same. The habit quieted the Little Monster on a night when he was loud, which guaranteed he'd be loud on the next one.
 
@@ -14,7 +14,7 @@ These are the nights you think you'd miss it most. The trick is the same. The ha
 
 This is the large size, and it lies under most of the others.
 
-You're alone in an apartment or a hotel room, or lying beside a wife who feels a long way off. Nobody to touch, nobody who knows you. And the habit, at least, feels like closeness.
+You're alone in an apartment or a hotel room, or lying beside a wife who feels a long way off. Nobody to touch, nobody who knows you. And the habit, at least, feels like somebody holding you.
 
 The ache is real, and it's a good ache. You were made for company. "It is not good for the man to be alone" is almost the first thing God says about us in the Bible. A Catholic speaker says it in one sentence: "What you really long for is authentic love, but you settled for the counterfeit."
 
@@ -41,3 +41,5 @@ Come to me, Jesus says, and I will give you rest. That's better than relief, and
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
 
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). Long sentence split. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

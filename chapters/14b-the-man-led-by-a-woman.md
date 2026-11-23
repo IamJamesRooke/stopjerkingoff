@@ -16,7 +16,7 @@ Think of his wanting as a lever sticking out of him. Anyone who grabs it can ste
 
 The lever doesn't care whose hand is on it. Anyone who knows what he wants can pull it.
 
-The advertiser knows. That's why a pretty girl is leaning on the car. The stranger who writes to him out of nowhere knows. In her pictures she's young and lovely, and she thinks he's wonderful. After three weeks she has a trouble only his money can fix. Very often "she" is a man at a desk, reading from a script. Governments know it too. The cheapest way to get a secret has always been to send a pretty woman to the man who keeps it.
+The advertiser knows. That's why a pretty girl is leaning on the car. The stranger who writes to him out of nowhere knows. In her pictures she's young and lovely, and she thinks he's wonderful. After three weeks she has a sudden emergency that only his credit card can fix. Very often "she" is a man at a desk, reading from a script. Governments know it too. The cheapest way to get a secret has always been to send a pretty woman to the man who keeps it.
 
 None of them is stronger or smarter than he is. They just know where the lever is.
 
@@ -104,3 +104,5 @@ That's the chase. And the chase has only ever been going to one place.
 <!-- 2026-11-22 SKEPTIC READ, stage 3 (an atheist who thinks marriage is rigged against men): the law's lever named; the two-year girlfriend argued and not just asserted; overclaims trimmed. -->
 
 <!-- 2026-11-23 FLOW PASS (book-wide): in 'At home' the three sentences on the law's lever (a note on what comes later) had split 'free to tell her the truth' from 'That is better for her as well'; they now stand before 'Now take the husband'. Nothing cut. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

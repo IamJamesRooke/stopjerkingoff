@@ -26,7 +26,7 @@ Take a man with a girlfriend, and it's getting serious.
 
 One Friday he's out with friends, and a woman he half knows starts talking to him. She laughs at everything he says. She touches his arm. She's not really his type. But she's pretty enough for tonight, and he can tell that if he made a move, she'd say yes.
 
-He doesn't make one. He walks home feeling rather good about himself. "See? I'm a faithful man."
+He doesn't make one. He walks home with his chest out. "See? I'm a faithful man."
 
 But he knows why he left, and it wasn't his girlfriend. It was the work. The drinks to buy, the talk to keep going for another hour, then the morning, and her messages, and the lies to keep straight. He never wanted her. He wanted to use her, and using her was too much trouble.
 
@@ -86,7 +86,7 @@ That doesn't mean "try not to think about it". You've tried that. It turns the t
 
 The bird is the first thought. It comes by itself, and it's no sin and no failure. The nest is what a man builds out of it afterward.
 
-Watch a nest go up. A man's at the gym, and a woman walks past. He thinks, "She's attractive." That's the bird, and so far nothing has happened. Then he plays it forward in his head. Then he tells himself, "Nobody's hurt. It's only a thought." And tonight, alone, the choice feels sudden. It isn't. He made most of it at the gym, when he let the bird stay.
+Watch a nest go up. A man's stopped at a red light, and a woman crosses in front of his car. He thinks, "She's attractive." That's the bird, and so far nothing has happened. Then he plays it forward in his head. Then he tells himself, "Nobody's hurt. It's only a thought." And tonight, alone, the choice feels sudden. It isn't. He made most of it at the red light, when he let the bird stay.
 
 So act at the start, where it costs almost nothing. One man who had broken the habit wrote, "The easiest thought for me to say, 'No' to, is the first one. And if I don't entertain the thought, I'm not going to do it." He isn't fighting the thought. He just doesn't invite it in.
 
@@ -117,3 +117,5 @@ That's the women who aren't there. The next excuse is about the ones who are. "F
 <!-- 2026-11-22 whole-book test as James (he said the No to the screen, the hand, the feed and the film, and stopped at 'any bed outside marriage'). The single man: the film is part of why he is single. -->
 
 <!-- 2026-11-23 FLOW PASS (book-wide): in 'The harem in your head' the 'you may never have tried this, keep reading' aside is one sentence placed after the thing it refers to. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

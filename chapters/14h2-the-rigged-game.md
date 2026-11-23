@@ -1,6 +1,6 @@
 # The Rigged Game {#the-rigged-game}
 
-He's heard every word about the promise, and he has an answer.
+He's heard every word about the promise, and he has his answer loaded.
 
 "Marriage is a scam, and it's rigged against men. She can leave whenever she likes. She takes the children, the house and half my pay. I watched it happen to my friends."
 
@@ -24,9 +24,9 @@ He's no fool, and much of what he says is true. So take it one piece at a time, 
 
 **A man can be put out of his house on a sworn statement.** A court can order it before he's been heard. Most such orders protect someone who needs protecting. Nobody has an honest count of how often one is misused in a custody fight.
 
-**Divorce is hard on men.** One large study followed Americans through the 1980s. Divorced men were more than twice as likely as married men to die by suicide. And a 2011 report looked at fathers living apart from their children. About one in four hadn't seen them in a year.
+**Divorce hits men hard.** One large study followed Americans through the 1980s. Divorced men were more than twice as likely as married men to die by suicide. And a 2011 report looked at fathers living apart from their children. About one in four hadn't seen them in a year.
 
-None of that is in your head. A man who's watched it happen is right to be careful.
+None of that is in your head. A man who's watched it happen is right to check the ice before he steps on it.
 
 ## A man who lost the bet {-}
 
@@ -48,7 +48,7 @@ He hasn't figured it all out. He's making the same bet again, knowing all of thi
 
 ## What is exaggerated {-}
 
-Some of what men tell each other is wrong. You should know which parts.
+Some of what men tell each other over beers is wrong. You should know which parts.
 
 **"Half of all marriages fail."** That was close to true for couples who married in the 1970s. The divorce rate has fallen by about a third since 1980. Take male college graduates born around 1960. By age forty-six, fewer than one in four of their first marriages had ended in divorce. That's the best-placed group. For men who stopped at high school, it was nearly half.
 
@@ -81,3 +81,5 @@ That's the last easier line in the house, and it has a price list of its own.
 <!-- 2026-11-22 from James's research report, checked against the original: Census P60-285, 'Custodial Parents and Their Child Support: 2022' (August 2025): custodial fathers due $4.8 billion, received $3.0 billion; 49.5% of parents owed support received all of it; fathers 21.8% of custodial parents. The chapter's 2018 custody figures are from the earlier edition, P60-269. -->
 
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through: the marriage chapters reordered so that If You Never Marry comes last (after All In has shown the good thing), with the hall stitched to match; repeats cut; leaks closed. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

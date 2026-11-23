@@ -10,7 +10,7 @@ Think about what a counter measures: the distance from the last time you did it.
 
 And who counts days? A man scratching lines on a cell wall. Prisoners count days. Free men lose count. Ask a man who used to bite his nails how many days it's been. He couldn't tell you. Every number on that counter says "day forty of doing without", and a man doing without has already decided he's losing something.
 
-Then there's the reset. One slip on day sixty-one and the screen says zero. Sixty-one days, gone! So what does the man at zero do? Most often he thinks, "Well, it's ruined now," and makes a weekend of it, then starts counting again on Monday. The counter turned one bad night into three. A man who'd quit for good and stumbled would pick himself up the same hour. The man with a counter has to climb back up from the bottom of the hill.
+Then there's the reset. One slip on day sixty-one and the screen says zero. Sixty-one days, gone! So what does the man at zero do? Most often he thinks, "Well, it's ruined now," and burns the whole weekend, then starts counting again on Monday. The counter turned one bad night into three. A man who'd quit for good and stumbled would pick himself up the same hour. The man with a counter has to climb back up from the bottom of the hill.
 
 A man who counts is a man who waits. And while he waits, the questions come:
 
@@ -42,3 +42,5 @@ The most honest account of all this was written two thousand years ago, by a tou
 <!-- 2026-11-21 five-star pass (editor H2): structural cuts, moves and repairs from the outside review and the cold-listener report. Cut text is kept in the pass's parked-H2 file; source notes above still stand for anything cut. -->
 
 <!-- 2026-11-23 FLOW PASS (book-wide): the empty 'So' before the list of questions replaced by a sentence that states the link from counting to waiting. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

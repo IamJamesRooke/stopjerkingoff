@@ -6,7 +6,7 @@ This is the strong dose. Porn, the hand and the orgasm, all three at once.
 
 Why is it the strong one? Not because the finish is better. It's over in the same few seconds as any other. The screen adds one thing. It never runs out.
 
-A magazine had a last page. The screen has none. There's always another woman one thumb away, and she's always new. So the man who came for ten minutes is still there at two in the morning. He isn't enjoying two hours. He's hunting for the one clip that will do it, and closing forty that didn't.
+A magazine had a last page. The screen has none. There's always another woman one thumb away, and she's always new. So the man who came for ten minutes is still there when the neighbors' lights go out. He isn't enjoying two hours. He's hunting for the one clip that will do it, and closing forty that didn't.
 
 ## What the strong dose pays {-}
 
@@ -14,13 +14,13 @@ Ask of this room what you ask of every room. What has it ever given me?
 
 Watch a man's face while he's in it. The screen lights his face, and his face shows nothing. Nobody looks like that at a thing he enjoys.
 
-Then count what he carries out. The strong dose doesn't feed the Little Monster any better. He's the size of a cat, and a crumb does him. It just costs more hours, and rougher material every year. Afterward comes the same flat ten minutes, staring at the same ceiling.
+Then count what he carries out. The strong dose doesn't feed the Little Monster any better. He's the size of a cat, and a crumb does him. It just costs more hours, and rougher clips every year. Afterward come the same flat ten minutes, and the same ceiling.
 
 ## The woman who says his name {-}
 
 The screen leads one step past the free sites. You may not have taken it, but some men have. Such a man would never go to a prostitute. But he pays a monthly fee to see one woman's private pictures, and he tips her so she'll write back. Or he sends money to a woman who plays video games on a live stream, so she'll say his name.
 
-It's big business. In 2024, men spent more than seven billion dollars on the largest of these subscription sites. And here's what the money often buys. Reporters found that many of the women there never write the messages at all. Agencies hire workers to do it, called chatters. Many are men, sitting in offices on the other side of the world, paid to type like her and keep him spending.
+It's a river of cash. In 2024, men spent more than seven billion dollars on the largest of these subscription sites. And here's what the money often buys. Reporters found that many of the women there never write the messages at all. Agencies hire workers to do it, called chatters. Many are men, sitting in offices on the other side of the world, paid to type like her and keep him spending.
 
 He thinks he has a girlfriend. He's a customer, and even when she's kind to him, it's her job. If this is you, add up what you've paid this year. Then ask what it bought you.
 
@@ -53,3 +53,5 @@ Plenty of men shut this door and settled for that. Then they heard a knock from 
 <!-- 2026-11-22 (James: 'some chapters won't apply to everybody... maybe you're not on subscription sites but keep reading because you will see how this is destroying other men's lives as well... Maybe you don't have an AI gf, but this is what lust leads to'). 'Keep reading' line before the subscription sites. -->
 
 <!-- 2026-11-23 FLOW PASS (book-wide): in 'The woman who says his name' the 'keep reading anyway' aside is woven into the opening so 'Such a man' has its noun; in 'The door' the two sentences on the one No moved up beside 'no vow', so 'the door is shut already' runs straight into 'A man who shuts this door'. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

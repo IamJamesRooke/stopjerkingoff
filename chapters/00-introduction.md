@@ -21,9 +21,9 @@ There is no dragon.
 
 ## What you're really fighting {-}
 
-That overwhelming urge when temptation hits? That faint, fidgety itch, that craving? It's no dragon. It's something much smaller.
+That overwhelming urge when temptation hits? That faint, fidgety itch, that craving? It's no dragon. It's a little monster.
 
-Think of your life as a house. Up in the back room lurks a little monster. A scrawny pipsqueak, the size of a house cat, who reeks like cheese left to rot in a car in midsummer. This pest has never paid a dime of rent. He doesn't even buy his own food, because you're the one who feeds him.
+Think of your life as a house. He lurks up in the back room. A scrawny pipsqueak, the size of a house cat, who reeks like cheese left to rot in a car in midsummer. This pest has never paid a dime of rent. He doesn't even buy his own food, because you're the one who feeds him.
 
 ![](images/illustrations/intro-back-room.png){.illustration width=80%}
 
@@ -201,3 +201,5 @@ SOURCES (Introduction): every quote below is from the research files; check each
 <!-- 2026-11-23: whole-Intro wording pass (stock phrases, passive openers, repeated 'hand'); the 'not an order' caution moved up to sit right after the feeding paragraph it answers. -->
 
 <!-- 2026-11-23: five cold readers (Sonnet). Fixed what two or more tripped on: sleep example, paid-site lines, 'exorcist', 'you stop once', the turn from 'throw him out' to 'don't quit', bargains defined, opening paragraph order. -->
+
+<!-- 2026-11-23: James: not clear the urge IS the little monster. The urge is now named as a little monster in the same breath ('It's no dragon. It's a little monster.'). -->

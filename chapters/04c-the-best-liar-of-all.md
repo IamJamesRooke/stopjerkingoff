@@ -2,13 +2,13 @@
 
 The most persuasive voice in all this is your own.
 
-Once you're in the trap, the lies get help from inside. Some part of you knows the Little Monster expects feeding, and it will defend his dinner against any argument. That's fear: the fear of that empty, fidgety feeling.
+Once you're in the trap, the lies get help from inside. Some part of you knows the Little Monster expects feeding, and it will guard his dinner plate against any argument. That's fear: the fear of that empty, fidgety feeling.
 
-Men in the trap aren't weak-willed. It takes real stamina to keep a secret for twenty years. The trouble is where the strength goes. We pour it into defending the habit, and when we try to quit and fail, we turn it on ourselves. Failing is one thing. Hating yourself for it is another, and that leaks into everything. You skip the gym. The diet lasts until Thursday. Your kids get the worst of your temper.
+Men in the trap aren't weak-willed. It takes real stamina to keep a secret for twenty years. The trouble is where the strength goes. We pour it into defending the habit, and when we try to quit and fail, we turn it on ourselves. Failing is one thing. Hating yourself for it is another, and that seeps into everything. You skip the gym. The diet lasts until Thursday. Your kids get the worst of your temper.
 
 Nobody argues with himself about whether to give up golf. About the habit we argue every night, and we think that's normal.
 
-From now on, treat every word in favor of the habit like a pushy salesman, your own words included. Smile, nod, and don't sign. That goes for "you need it" and "it's who you are". It goes for the safe version too. "Only in the shower", "only without a screen" and "only on weekends" are all the Big Monster, bargaining for the little one's dinner. Keep asking yourself two questions. "Why am I doing this? Do I actually need to?"
+From now on, treat every word in favor of the habit like a salesman with his foot in your door, your own words included. Smile, nod, and don't sign. That goes for "you need it" and "it's who you are". It goes for the safe version too. "Only in the shower", "only without a screen" and "only on weekends" are all the Big Monster, bargaining for the little one's dinner. Keep asking yourself two questions. "Why am I doing this? Do I actually need to?"
 
 Of course you don't.
 
@@ -53,3 +53,5 @@ So let's go through your day and find them.
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->
 
 <!-- 2026-11-23 FLOW PASS (book-wide): 'Once you're in the trap, the lies get help from inside' moved up to second paragraph, where it explains the opening line; the punchline of the dialogue now comes straight after it, with the caution about the dare after that. No words changed. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

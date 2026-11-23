@@ -16,11 +16,11 @@ You can be better advertising for the shore.
 
 ## How to help {-}
 
-Remember what kept you aboard. Not love. Fear. Fear of the long nights, of going without, of failing yet again. Fear keeps a man on a sinking ship, and shouting from the beach only adds to it.
+Remember what kept you aboard. Not love. Fear. Fear of the long nights, of white-knuckled weekends, of failing yet again. Fear keeps a man on a sinking ship, and shouting from the beach only adds to it.
 
 So don't shout. Take away the fear.
 
-Tell him what it's like on shore. Tell him how good it is to wake up with a clear head and a clean conscience. Tell him you sleep. Tell him you can look a woman in the face with nothing to hide. If you pray, tell him you can do it without clearing your throat first. Tell him the shadow has lifted, and you miss nothing.
+Tell him what it's like on shore. Tell him how good it is to wake up with a clear head and no dread in your stomach. Tell him you sleep. Tell him you can look a woman in the face with nothing to hide. If you pray, tell him you can do it without clearing your throat first. Tell him the fog has lifted, and you miss nothing.
 
 Then tell him the one thing he's sure is false. He's not alone. Every man on the ship thinks he's the only one aboard, and it helps to hear otherwise from a man he respects.
 
@@ -30,17 +30,17 @@ Best of all, get him to read this book. One link's all it takes: [stopjerkingoff
 
 Whatever you do, don't look down on him.
 
-They say nobody's harder on a sinner than a reformed one. Nearly always, the Willpower Method is to blame. The man who quit by gritting his teeth still half believes he gave up a treasure. That makes him shaky, and a shaky man defends himself by attacking. He lectures, sighs and posts sermons at his friends. They feel worse than before and head for the one comfort they know.
+They say nobody's harder on a sinner than a reformed one. Nearly always, the Willpower Method is to blame. The man who quit by gritting his teeth still half believes he gave up a treasure. That makes him shaky, and a shaky man defends himself by attacking. He lectures, sighs and fires sermons at his friends. They feel worse than before and head for the one comfort they know.
 
 You don't need that. You're not shaky. You gave up nothing and you know it.
 
 Paul told one of his churches what to do with a man caught in some fault. Those who are spiritual, he said, "must restore such a one in a spirit of gentleness". Restore him, and gently. Then comes the warning: "looking to yourself so that you also aren't tempted." The helper is never so far above the helped that he can't end up beside him.
 
-So never tell a married man he's as good as cheating. Never tell a teenager he's filthy. Both already say worse to themselves, every single time.
+So never tell a married man he's as good as cheating. Never tell a teenager he's filthy. Both already say worse to themselves, every time the screen goes dark.
 
 ## Fences don't free anybody {-}
 
-Some well-meant help makes things worse.
+Some well-meant help drills another hole in the hull.
 
 A father finds out and takes the phone away for a month. A youth leader gets thirty boys to sign a pledge card. A man goes on a mission trip, shares a room with five others, and comes home proud of two clean weeks.
 
@@ -83,3 +83,5 @@ Take the method with you when you go. It fits in ten lines.
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
 
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

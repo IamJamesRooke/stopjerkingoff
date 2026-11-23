@@ -8,13 +8,13 @@ When do you stop?
 
 The book's already set the day. You stop at the final step, near the end. Until then, no vow and no streak. If you've already stopped, stay stopped. You're not choosing a date. You're getting ready for one.
 
-You've carried this a long time, and probably told nobody. It deserves a proper ending, on a day you saw coming.
+You've hauled this a long time, and probably told nobody. It deserves a proper ending, on a day you saw coming.
 
 ## The week that never comes {-}
 
 **Whatever you do, don't tell yourself "not now, later" and put the book in a drawer.**
 
-The trap has one clever twist. When life is stressful, it's the wrong time to stop, because you think you need it. When life is calm, there's no urgency, because things aren't so bad. One or the other is always true, so the right time never comes. And it's never a bad week to carry on.
+The trap has one clever twist. When life is stressful, it's the wrong time to stop, because you think you need it. When life is calm, there's no hurry, because things aren't so bad. One or the other is always true, so the right time never comes. And it's never a bad week to carry on.
 
 That's why this book doesn't ask you to pick a good week. It asks you to read to the final step, then stop, whatever week it is.
 
@@ -26,15 +26,15 @@ The book of Ecclesiastes has a line for the man who waits for perfect weather: "
 2. Are you going to keep it up until you die? At sixty? At seventy-five, a grandfather waiting for the house to empty? Of course not.
 3. Then when will you stop?
 
-You've been asking that third question since the day you found you couldn't leave it alone. The answer was always some better week, and the better week never comes.
+You've been asking that third question since the day you found you couldn't leave it alone. The answer was always some better week, and the better week never shows up.
 
 It won't be easier next year. It'll be the same job with another year of rut worn in. Nobody wakes up one morning to find he's simply lost interest.
 
 ## See the weeks coming {-}
 
-One piece of getting ready is worth doing now. Look at the three weeks after you expect to reach the final step. A trip away on your own? Your wife visiting her mother? Finals, a deadline, a string of late nights in an empty house?
+One piece of getting ready is worth doing now. Look at the three weeks after you expect to reach the final step. A business trip alone? Your wife visiting her mother? Finals, a deadline, a week of takeout in an empty house?
 
-None of it has to put you off. You just need to see it coming. The man who expects the quiet hotel room, and knows he's missing nothing in it, walks straight through.
+None of it has to put you off. You just need to see it coming. The man who expects the quiet hotel room, and knows he's missing nothing in it, strolls straight through.
 
 So the time is the day you reach the final step, whatever kind of week that turns out to be. Paul wrote to the church at Corinth, "Behold, now is the acceptable time."
 
@@ -57,3 +57,5 @@ That leaves the fear under all the others. Once the habit's gone, will you miss 
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
 
 <!-- 2026-11-23 FLOW PASS (book-wide): one pointer fixed: 'that step' (named two sections earlier) is now 'the final step'. Nothing moved or cut. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

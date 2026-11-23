@@ -10,11 +10,11 @@ You're sitting in it and the telephone rings. Same telephone the caller always u
 
 Notice two things. First, the ringing has no power. A bell is a noise in the air, and a noise can't lift a man out of a chair. It only moved you because you'd gotten in the habit of obeying it. Second, not answering takes no effort. You're not wrestling the phone. You're doing nothing, and doing it comfortably.
 
-Every cue you'll meet is that telephone. The empty house. The photo in the feed. The bed at midnight. The bad day. A message from a woman you'd sworn off. Let it ring. It will stop.
+Every cue you'll meet is that telephone. The empty house. The photo in the feed. The hotel room on a work trip. The bad day. A message from a woman you'd sworn off. Let it ring. It will stop.
 
 The caller gets four answers, and you've given the first: you said it once, and you said it outright. The other three keep it said. Give no reason. Don't let him down gently. Never answer again.
 
-You know your hour: the shower, the empty house, midnight. Expect it. A bell you saw coming is only a bell.
+You know your hour: the shower, the parked car, a Sunday afternoon with nothing planned. Expect it. A bell you saw coming is only a bell.
 
 Lie awake the first night or two? Lie there and be glad. You know what's dying.
 
@@ -28,7 +28,7 @@ That's within reach. You don't have to wait to become that man. You started bein
 
 You are already a free man.
 
-Don't build your life around having stopped. Do that and you'll turn something that cost you nothing into a sacrifice. You haven't given up living. You've been let out. The habit was a pest in the back room, never the story of your life. The weeks will go by, and your energy and your conscience will recover. Your good days will be better and your bad days milder than they ever were.
+Don't build your life around having stopped. Do that and you'll turn something that cost you nothing into a sacrifice. You haven't given up living. You've been let out. The habit was a pest in the back room, never the story of your life. The weeks will pass, and your energy and your conscience will come back. Your good days will run brighter and your bad days softer than they ever did.
 
 And whenever the thought of it crosses your mind, tomorrow or in forty years, be glad. You're free.
 
@@ -40,7 +40,7 @@ It doesn't work like that. Stopping the habit is easy. Controlling it is impossi
 
 **Don't fall for that.**
 
-However long you've been free, and however sure you are that nothing can catch you again, keep one rule for life. Not once, for any reason. Not on a lonely anniversary, not "to help me sleep", not "just to see". The Little Monster starves and stops calling. Years from now, on some odd evening, an old thought may drift past. It's like reaching for the light switch in a house you moved out of long ago. Nothing's behind it. It's only the memory of a call. Notice it, smile, and don't pick up. "Just once" is the one thing that could put the Little Monster back in the room.
+However long you've been free, and however sure you are that nothing can catch you again, keep one rule for life. Not once, for any reason. Not on a lonely anniversary, not "to help me sleep", not "just to see". The Little Monster starves and stops calling. Years from now, on some quiet evening, drying a dish, an old thought may drift past. It's like reaching for the light switch in a house you moved out of long ago. Nothing's behind it. It's only the memory of a call. Notice it, smile, and don't pick up. "Just once" is the one thing that could put the Little Monster back in the room.
 
 The rule is strict, and the grace is real. A man who falls confesses it that day, refuses the second one, and gets up. Don't plan on needing that.
 
@@ -63,3 +63,5 @@ Which person? And who else needs to know?
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). The narrator no longer speaks as a Christian. -->
 
 <!-- 2026-11-22 last book-wide pass: sentences over 25 words split. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

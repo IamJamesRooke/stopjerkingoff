@@ -10,7 +10,7 @@ Picture a soldier who shows up for duty drunk. Maybe he's on the right side. May
 
 Self-control is the theme under this whole book, and it comes down to one hard sentence. **A man who can't control his lust can't be trusted.** His wife can't fully trust him. Worst of all, he can't trust himself, because he's broken his own word too many times.
 
-You don't need that proved. Ask the man who said "never again" last night. It's no accusation. It's true of half the respectable men you'll meet today.
+You don't need that proved. Ask the man who said "never again" last night. It's no accusation. It's true of half the respectable men in any pew or boardroom.
 
 And look who did this to us. Not a dragon. A grown man, trusted with a job and a family, can't keep his word against a Little Monster the size of a house cat. If that annoys you, good. Be annoyed at the right party.
 
@@ -18,7 +18,7 @@ And look who did this to us. Not a dragon. A grown man, trusted with a job and a
 
 The reverse is true too. A man who can say no has a yes that's worth something. His wife can rest her weight on it. So can his children, and the men beside him. So can he.
 
-Don't hear a clenched jaw in that. A no costs nothing when you want nothing on the other side.
+Don't hear a clenched jaw in that. A no costs nothing when there's nothing you want on the other side.
 
 You were made for something, and this book is about getting you fit for it.
 
@@ -49,3 +49,5 @@ None of this is new. Three thousand years ago, lust brought down a king no army 
 <!-- 2026-11-22 SKEPTIC READ, stage 2 (an atheist who thinks marriage is rigged against men): trust runs both ways; the single man gets an argument that needs no wife; plain legs beside the God-only cures. -->
 
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

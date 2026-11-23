@@ -24,10 +24,10 @@ Don't shrug it off, though. You fed the Little Monster and your conscience knows
 
 ## The lies that follow a slip {-}
 
-The forums call it a "relapse" and reset the counter. The word does damage of its own. It turns one stupid act into an identity: *I'm a relapser.* What happened is smaller. You slipped, you fed the Little Monster, and now the Big Monster is lying to you. Learn to spot the lies.
+The forums call it a "relapse" and reset the counter. The word sticks like a brand. It turns one stupid act into an identity: *I'm a relapser.* What happened is smaller. You slipped, you fed the Little Monster, and now the Big Monster is lying to you. Learn to spot the lies.
 
 - **"I'll never be free."** One slip has become a life sentence. Would you say that to a friend?
-- **"From now on I must be perfect: up at five, cold shower, an hour of prayer, no sugar."** That's guilt posing as discipline. You'll keep it up for four days, collapse, and reach for comfort.
+- **"From now on I must be perfect: up at five, a ten-mile run, an hour of prayer, no sugar."** That's guilt posing as discipline. You'll keep it up for four days, collapse, and reach for the phone.
 - **"Other men are on day two hundred and I can't manage twenty. I must be a hopeless case."** You're comparing yourself with a number on a stranger's screen. You don't know how he's doing, and it doesn't matter.
 - **"I shouldn't even feel desire."** Yes, you should. If you believe in God, desire was his idea. You're a man, not a statue. Noticing that a woman is beautiful is not a fall. The sin was never the noticing. It was the second look, the one you take on purpose.
 
@@ -37,13 +37,13 @@ Every one of those thoughts feels like repentance, and none of them is. Repentan
 
 Religious men get one snare all to themselves.
 
-A man follows this method and finds stopping easy. Then he feels guilty that it was easy. After all those years, surely it ought to cost something. Surely he should suffer a little, as payment. So he sets about making it hard. He broods. He punishes himself. He even half welcomes a fall, so he can feel truly wretched afterward.
+A man follows this method and finds stopping easy. Then he feels guilty that it was easy. After all those years, surely it ought to cost something. Surely he should suffer a little, as payment. So he sets about making it hard. He sulks. He punishes himself. He even half welcomes a fall, so he can feel truly wretched afterward.
 
 See that for what it is: the old lie in a holy costume. Brooding and self-punishment aren't humility. If you're a Christian you know perfectly well who paid, and it wasn't you. Christ paid the debt in full. If you're Catholic and your priest gives you a penance, that's a different thing. It's medicine for the soul. It doesn't pay for your forgiveness. Christ did that. You don't owe misery on top. Take the freedom and be glad of it.
 
 ## Remember the bleach {-}
 
-If a slip has you taking the whole business very solemnly, remember the men on the forum who were trying not to drink bleach.
+If a slip has you shuffling around like a mourner at a funeral, remember the men on the forum who were trying not to drink bleach.
 
 If you slipped, the lesson is not "try harder". Somewhere you started believing again that the glass had something to offer. The world repeats its lies daily, so hearing the truth twice does no harm.
 
@@ -78,3 +78,5 @@ That is everything you need for yourself. The last job is for somebody else.
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->
 
 <!-- 2026-11-23 FLOW PASS (book-wide): empty 'But' dropped from 'But the rule is strict, and the grace is real' (it claimed a contrast with 'The rule stands'). Nothing moved or cut. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

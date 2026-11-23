@@ -14,7 +14,7 @@ The internet has built grander prizes than sneakers. Here are the three you'll m
 
 Spend an evening on the NoFap forums. You'll be promised a deeper voice, clear skin, an "aura", and women drawn across the room by forces unknown.
 
-None of it's proven, and the hype does its damage right here. You stop. Day twelve arrives. You check the mirror and it's the same face. The barista hasn't noticed a thing. Then comes the whisper: "It isn't working. You gave it up for nothing." You were promised wages, the wages didn't come, and you go back to the old job.
+None of it's proven, and the hype sets its trap right here. You stop. Day twelve arrives. You squint into the bathroom mirror and it's the same face. The barista hasn't noticed a thing. Then comes the whisper: "It isn't working. You gave it up for nothing." You were promised wages, the wages didn't come, and you go back to the old job.
 
 One man, ninety days free, said the wisest thing on the subject. The so-called superpowers, he wrote, are just the qualities a man would have if he weren't hooked. It's what a man is like when nothing's draining him.
 
@@ -22,7 +22,7 @@ One man, ninety days free, said the wisest thing on the subject. The so-called s
 
 A close cousin. The pitch is that the energy you save becomes the fuel that gets you the girl. In one fitness coach's words, that energy "is what's going to drive you to get the woman you want".
 
-This doesn't evict the Little Monster. It moves him down the hall, from the look to the chase. Jesus didn't say to harness the look. He said the look was already the sin. You're still treating women as the prize and your own desire as the boss. And the trap catches you win or lose. Don't get the girl, and you're miserable, quitting has "failed", and you know where you go for comfort. Get her, and the incentive's been paid out and nothing's left holding you.
+This doesn't evict the Little Monster. It moves him down the hall, from the look to the chase. Jesus didn't say to harness the look. He said the look was already the sin. You're still treating women as the prize and your own desire as the boss. And the trap catches you win or lose. Don't get the girl, and you sulk, quitting has "failed", and you know where you go for comfort. Get her, and the incentive's been paid out and nothing's left holding you.
 
 Either way you're back.
 
@@ -32,13 +32,13 @@ The Christian version is a bargain with God: "Lord, I'll give this up, and You'l
 
 The badge is the day counter with a finish line. On day ninety-one the badge is won, the reason has expired, and the Big Monster hasn't been touched. Do you want to stop for ninety days, or do you want to be free?
 
-The group version is the pact: six men in a chat, all starting on Monday. When one falls, the rest have the excuse they were hoping for.
+The group version is the pact: six men in a chat, all starting on Monday. When one slips, the rest grab the excuse they were hoping for.
 
 ## Why none of them work {-}
 
 Every one of these makes the same mistake. It ties stopping to a payment. No payment, you feel cheated. Payment arrives, the novelty wears off and you feel deprived. Either way you start asking, "Is this really making my life better? Did I do it wrong?" Doubt like that is what urges are made of.
 
-The real costs are already enormous: years of evenings, a foggy head, a conscience you can't look at, a word you can't keep. If those haven't stopped you, a badge and a pair of sneakers won't. A phony prize only makes the sacrifice look bigger.
+The real costs are already enormous: years of evenings gone, a head full of cotton, a conscience you can't look in the eye, a word you can't keep. If those haven't stopped you, a badge and a pair of sneakers won't. A phony prize only makes the sacrifice look bigger.
 
 So ask the plain questions about the habit itself. What is it doing for me? Nothing. Why do I need it? I don't. I'm only punishing myself.
 
@@ -77,3 +77,5 @@ No prize, no badge, no bargain. What's left is the easy way, and it has two inst
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
 
 <!-- 2026-11-22 last book-wide pass: sentences over 25 words split. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

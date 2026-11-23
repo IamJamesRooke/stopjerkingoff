@@ -26,7 +26,7 @@ There's nothing on the screen. He cleared it an hour ago, as he clears it every 
 
 She hands the phone back and says it's nearly ten. He says he might stay up a while.
 
-Nothing happened, and nobody was caught. But for one minute he was a guard standing watch in his own house. He pulls that shift twenty times a day, and he's done it for fifteen years. He no longer notices it's work.
+Nothing happened, and nobody was caught. But for one minute he was a sentry on watch in his own house. He pulls that shift twenty times a day, and he's pulled it for fifteen years. He no longer notices it's work.
 
 ## What the secret does {-}
 
@@ -36,21 +36,21 @@ That's one evening. Over the years the secret does four things.
 
 **It protects the lies.** A lie kept in your head never has to face a question. Said aloud, it sounds as thin as it is. Try telling another grown man, with a straight face, "I need this in order to sleep."
 
-**It splits you in two.** There's the man people meet, and there's the man behind the door. The first spends his energy making sure nobody meets the second. The wall doesn't hold. What a man does in private comes out in public. C.S. Lewis wrote that "almost the main work of life is to come out of our selves, out of the little dark prison we are all born in." A secret is that prison with the bolt on the inside.
+**It splits you in two.** There's the man people meet, and there's the man behind the door. The first spends his energy making sure nobody meets the second. The wall leaks. What a man does in private seeps out in public. C.S. Lewis wrote that "almost the main work of life is to come out of our selves, out of the little dark prison we are all born in." A secret is that prison with the bolt on the inside.
 
-**It sets you against your own side.** A secret has to be guarded against somebody. This one is guarded against the people who are for you: your wife, your friends, your children. That's a small disloyalty, repeated every day. The free man is done with it. He's on the same side as the people who love him.
+**It sets you against your own side.** A secret has to be guarded against somebody. This one is guarded against the people who are for you: your wife, your friends, your children. That's a small betrayal, repeated every day. The free man is done with it. He's on the same side as the people who love him.
 
 A man with a secret can't be fully known. And he never feels fully loved, because he's always thinking, "You wouldn't say that if you knew."
 
 ## The man at the front of the church {-}
 
-One man feels that harder than anyone. He serves on the welcome team, leads a small group, perhaps plays in the band. He's masturbated since he was fourteen and has never said one word about it to a living soul.
+One man feels that harder than anyone. He hands out bulletins at the door, leads a small group, perhaps plays in the band. He's masturbated since he was fourteen and has never said one word about it to a living soul.
 
 On Sunday he's at the front with his hands raised. On Saturday night he was where he always is. He's confessed it so many times, in the same words, that he's embarrassed to bring it up with God again. So he's stopped bringing it up, and after a while, much else too.
 
 Peter once asked Jesus how many times he had to forgive his brother. Seven times? Jesus said seventy times seven. On that teaching, God holds himself to no lower standard than the one he gave Peter.
 
-The secret leaks into everything. He turns down the mission trip, lets someone else lead, and never says why. He's enlisted, and he keeps reporting sick.
+The secret leaks into everything. He turns down the mission trip, lets someone else lead, and never says why. He's enlisted, and he keeps calling in sick.
 
 ## Into the light {-}
 
@@ -58,7 +58,7 @@ Paul wrote to the Christians in the city of Ephesus, "Have no fellowship with th
 
 In the dark this habit looks big, and it looks like yours alone. In the light it's a small, dull thing that millions of men do, for no gain at all.
 
-You've been bringing it into the light since the first line of this book. Every chapter has taken one more piece of it out and looked at it. That's why it's shrinking.
+You've been bringing it into the light since the first line of this book. Every chapter has dragged one more piece of it out and held it up to the lamp. That's why it's shrinking.
 
 ## Say it aloud {-}
 
@@ -110,3 +110,5 @@ Men walk out into the light every day. The door was only ever locked from the in
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). The narrator no longer speaks as a believer. -->
 
 <!-- 2026-11-23 FLOW PASS (book-wide): two pointers fixed: 'that first lie' (four paragraphs back) is now 'that', pointing at the line before; 'an order to it' is now 'an order to the telling'. Nothing moved or cut. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

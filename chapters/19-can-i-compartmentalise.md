@@ -6,17 +6,17 @@
 
 This is the myth of the back room. The Little Monster stays in there, and the rest of the house is yours.
 
-Men trying to stop by willpower spread it. They can't stop, so they need a story that lets them carry on. "That's my private side. It has nothing to do with my marriage, my faith or the man I am at work. I keep it in its box." You may know the old story of Dr. Jekyll, the respectable doctor who drinks a potion and turns into the brutal Mr. Hyde at night. Dr. Jekyll coaches the kids' team on Saturday morning. Mr. Hyde has the phone at midnight. The two never meet.
+Men trying to stop by willpower spread it. They can't stop, so they need a story that lets them carry on. "That's my private side. It has nothing to do with my marriage, my faith or the man I am at work. I keep it in its box." You may know the old story of Dr. Jekyll, the respectable doctor who drinks a potion and turns into the brutal Mr. Hyde at night. Dr. Jekyll coaches the kids' team on Saturday morning. Mr. Hyde has the phone once the house goes dark. The two never meet.
 
-Neat picture. False from start to finish. In Robert Louis Stevenson's book, Hyde doesn't stay in his room. He gets stronger every time he's let out, and by the end he's turning up uninvited. Yours doesn't get stronger, but he won't stay in his room either. You've watched him move down the hall, room by room. There's only one man in that story, and there's only one of you.
+Neat picture. Rotten from start to finish. In Robert Louis Stevenson's book, Hyde doesn't stay in his room. He gets stronger every time he's let out, and by the end he's turning up uninvited. Yours doesn't get stronger, but he won't stay in his room either. You've watched him move down the hall, room by room. There's only one man in that story, and there's only one of you.
 
 ![](images/illustrations/compartment-down-the-hall.png){.illustration width=80%}
 
 ## What you're rehearsing {-}
 
-Every night with the habit is a rehearsal, and a man turns into what he rehearses. He practices being a spectator. He practices getting his own way, at his own speed, with a cast he can swap the second his interest dips.
+Every session is a rehearsal, and a man turns into what he rehearses. He practices being a spectator. He practices getting his own way, at his own speed, with a cast he can swap the second his interest dips.
 
-Then he sits down across the table from one real woman, who can't be swapped and has a bad day of her own. She's already been marked against the cast. Nobody decided that at the table. It came out of the box. A box that leaks into his marriage isn't a box.
+Then he sits down across the table from one real woman, who can't be swapped and has a bad day of her own. She's already been graded against the cast. Nobody decided that at the table. It seeped out of the box. A box that leaks into his marriage isn't a box.
 
 ## One man {-}
 
@@ -28,7 +28,7 @@ Jesus said the same about money: no one can serve two masters. A man with a lock
 
 ## One life {-}
 
-The moment the Little Monster is gone, there's no back room. That low, shifty, insecure feeling you've carried for years goes with him. No more double life to manage, because there's only one life left. A man who'd been free a hundred days said it with an exclamation mark: "I don't feel like a creep with a secret perverted second sex life anymore!" Your confidence comes back, and with it a self-respect you may not have felt since you were a boy.
+The moment the Little Monster is gone, there's no back room. That low, shifty feeling you've carried for years, like a man with a stolen wallet in his coat, goes with him. No more double life to manage, because there's only one life left. A man who'd been free a hundred days said it with an exclamation mark: "I don't feel like a creep with a secret perverted second sex life anymore!" Your confidence comes back, and with it a self-respect you may not have felt since you were a boy.
 
 Being the same man in every room is a lot less work.
 
@@ -53,3 +53,5 @@ The next trap catches the man who's eager to stop. It looks like motivation.
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
 
 <!-- 2026-11-23 FLOW PASS (book-wide): one pointer fixed: 'he' at the top of 'One life' read as the man in the line before, so it now names the Little Monster. Nothing moved or cut. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->

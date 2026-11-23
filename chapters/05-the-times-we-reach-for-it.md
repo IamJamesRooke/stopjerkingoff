@@ -14,7 +14,7 @@ A man who quits by willpower leaves that pile standing. He stops the habit but k
 
 ## What an urge really is {-}
 
-Start with the urge itself, because fear and the lies work as a team. What does a strong urge actually feel like? A tight chest, restless hands, a mind that won't settle, no sleep. Now think where else you've felt exactly that. Outside an exam room. Before a job interview. Walking over to speak to a girl you liked. It's anxiety.
+Start with the urge itself, because fear and the lies work as a team. What does a strong urge actually feel like? A tight chest, jittery hands, a mind that won't settle, no sleep. Now think where else you've felt exactly that. Outside an exam room. Before a job interview. Walking over to speak to a girl you liked. It's anxiety.
 
 Most of the urge is the fear of the urge.
 
@@ -24,13 +24,13 @@ That's how men can still be pining a year after they stopped. Nothing in the bod
 
 ## After a bad day {-}
 
-Stress comes first. Not life's disasters. The ordinary grind. The boss's email lands at ten to five. Then the bill you forgot, the argument in the kitchen, the kids screaming in the back of the car. Somewhere in the afternoon a thought slides in: *tonight, when everyone's in bed.* You haven't decided anything, and already you're leaning on it.
+Stress comes first. Not life's disasters. The ordinary grind. The boss's email lands at ten to five. Then the bill you forgot, the argument in the kitchen, the kids screaming in the back of the car. Somewhere in the afternoon a thought creeps in: *tonight, when everyone's in bed.* You haven't decided anything, and already you're leaning on it.
 
 One man caught himself reaching for porn and saw what he was really after. He wasn't aroused, he said. He was sad. Thousands of men agreed with his next sentence, and it explains half the habit: "I don't know how to handle being sad".
 
-Alok Kanojia, an American psychiatrist who treats porn addiction, says the same of the men who come to him: "people think that it's about sex. They think it's about lust. It's not. It's about emotional regulation." Don't hear that as an excuse. The lust is real, and Jesus named it. But often lust is just the shape the habit takes. The man is using it to change how he feels.
+Alok Kanojia, an American psychiatrist who treats porn addiction, says the same of the men who come to him: "people think that it's about sex. They think it's about lust. It's not. It's about emotional regulation." Don't hear that as an excuse. The lust is real, and Jesus named it. But often lust is just the shape the habit takes. The man is using it as a dial on his mood.
 
-You're carrying two loads. One is the day's real trouble. The other is the Little Monster's low grumble, which you're so used to you can't tell it from the first. When you masturbate, the second load lifts for a moment, the total drops, and you feel better. That lift is real. But the email, the bill and the argument are exactly where you left them. Now add the flatness, a late night and one more broken promise. You're tenser than if you'd never had the habit at all.
+You're carrying two loads. One is the day's real trouble. The other is the Little Monster's low grumble, which you're so used to you can't tell it from the first. When you masturbate, the second load lifts for a moment, the total drops, and you feel better. That lift is real. But the email, the bill and the argument are exactly where you left them. Now add the flatness, the short night and one more broken promise. You're tenser than if you'd never had the habit at all.
 
 The habit takes credit for easing a pressure it largely built.
 
@@ -84,3 +84,5 @@ Those are the big days. Most of the habit happens on the small ones, in the last
 <!-- 2026-11-21 editorial pass (James: free rein; make-it-a-5 list). Exact before/after for every change is in editorial/EDITORIAL-PASS-2026-11-21.md. -->
 
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
