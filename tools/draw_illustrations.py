@@ -282,3 +282,156 @@ def batch3(OUT):
     for (x1,y1,x2,y2) in [(470,220,458,204),(540,206,540,186),(610,222,624,206),(450,276,432,280),(620,282,640,284)]:
         s+=f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="{YEL}" stroke-width="6"/>'
     s+=TAIL; open(OUT+"button-press-it.svg","w").write(s)
+
+def legs(x,y,spread=18):
+    return f'<path d="M{x-4},{y} L{x-spread},{y+86}"/><path d="M{x+14},{y} L{x+14+spread},{y+86}"/>'
+
+def batch4(OUT):
+    W,H=680,440
+    # 1. The cream and the rash (What Am I Giving Up?)
+    s=head(W,H,"#FF8FB1")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=man(300,150,"squeeze")+legs(300,302)
+    s+=f'<path d="M286,196 L250,250 L262,270"/><path d="M316,196 L360,236 L330,262"/>'
+    for (x,y) in [(250,232),(258,250),(266,214),(354,230),(340,246),(276,208),(300,226),(286,262),(318,280),(296,300)]:
+        s+=f'<circle cx="{x}" cy="{y}" r="5" fill="{RED}" stroke="none"/>'
+    s+=f'<rect x="318" y="248" width="30" height="16" rx="4" fill="#fff" transform="rotate(-30 333 256)"/><rect x="314" y="262" width="8" height="10" fill="{SHIRT}" transform="rotate(-30 318 267)"/>'
+    for i,(x,y,r) in enumerate([(470,330,-10),(520,350,15),(560,320,-25),(500,390,5),(590,380,30),(440,385,-20)]):
+        s+=f'<g transform="rotate({r} {x} {y})"><rect x="{x-22}" y="{y-9}" width="44" height="18" rx="4" fill="#fff"/><rect x="{x+22}" y="{y-5}" width="9" height="10" fill="{SHIRT}"/></g>'
+    s+=f'<path d="M352,130 q6,10 0,14 q-6,-4 0,-14 Z" fill="#7FD3FF" stroke-width="2.5"/>'
+    s+=TAIL; open(OUT+"giving-up-cream-and-rash.svg","w").write(s)
+
+    # 2. The dropped coat (Getting Your Time Back)
+    s=head(W,H,"#9AA9C2")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="120" y="300" width="440" height="50" rx="10" fill="#FFF6E5"/><line x1="140" y1="350" x2="140" y2="408"/><line x1="540" y1="350" x2="540" y2="408"/>'
+    s+=f'<path d="M210,300 C230,278 300,282 360,290 C400,286 450,288 480,296 L470,302 L216,304 Z" fill="{SHIRT}"/>'
+    s+='<ellipse cx="180" cy="290" rx="34" ry="14" fill="#fff"/>'
+    s+='<path d="M166,286 l10,0 M184,286 l10,0" stroke-width="3"/><path d="M172,296 q6,2 12,0" stroke-width="3"/>'
+    s+='<path d="M480,298 L560,300 L590,330 M470,300 L540,306 L560,336"/><path d="M300,300 L280,344 M330,300 L340,346"/>'
+    for (x,y) in [(240,250),(270,236),(300,250)]:
+        s+=f'<text x="{x}" y="{y}" font-family="sans-serif" font-size="0">.</text>'
+    s+='<path d="M230,250 q10,-10 20,0 M262,232 q10,-10 20,0" stroke="#fff" stroke-width="3"/>'
+    s+=TAIL; open(OUT+"time-the-dropped-coat.svg","w").write(s)
+
+    # 3. The bank account somebody dips into (What It's Doing to You)
+    s=head(W,H,"#5FD08A")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<ellipse cx="360" cy="300" rx="120" ry="84" fill="#FF8FB1"/><ellipse cx="478" cy="292" rx="22" ry="26" fill="#FF8FB1"/>'
+    s+=dot(474,286,4)+dot(486,286,4)+'<path d="M320,222 L330,198 L350,218" fill="#FF8FB1"/><line x1="330" y1="222" x2="380" y2="222" stroke-width="7"/>'
+    s+='<path d="M290,380 L290,408 M420,380 L420,408 M260,370 L256,404 M450,370 L454,404" stroke-width="6"/>'
+    s+=dot(410,268,5)+'<path d="M402,252 l14,4" stroke-width="3.5"/>'
+    s+=f'<path d="M560,60 C520,90 470,150 372,216"/><path d="M372,216 l-12,-4 l2,14 Z" fill="#fff"/>'
+    s+=f'<circle cx="376" cy="200" r="10" fill="{YEL}"/><circle cx="350" cy="170" r="9" fill="{YEL}"/><circle cx="330" cy="140" r="8" fill="{YEL}"/>'
+    s+='<path d="M372,216 q-6,-10 6,-12" stroke-width="3"/>'
+    s+=TAIL; open(OUT+"costs-the-bank-account.svg","w").write(s)
+
+    # 4. Arm-wrestling yourself (Two Wills)
+    s=head(W,H,"#FFB13B")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="250" y="270" width="180" height="20" fill="#C8925A"/><line x1="270" y1="290" x2="270" y2="408"/><line x1="410" y1="290" x2="410" y2="408"/>'
+    s+=man(170,170,"squeeze")+legs(170,322)
+    s+=man(510,170,"squeeze")+legs(510,322)
+    s+='<path d="M186,226 L290,262 L330,220"/><path d="M494,226 L390,262 L350,220"/><circle cx="340" cy="216" r="12" fill="#fff"/>'
+    for (x1,y1,x2,y2) in [(320,186,312,170),(360,186,368,170),(340,180,340,162)]:
+        s+=f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="{RED}" stroke-width="5"/>'
+    s+=f'<path d="M206,128 q6,10 0,14 q-6,-4 0,-14 Z" fill="#7FD3FF" stroke-width="2.5"/><path d="M476,128 q6,10 0,14 q-6,-4 0,-14 Z" fill="#7FD3FF" stroke-width="2.5"/>'
+    s+=TAIL; open(OUT+"two-wills-arm-wrestling.svg","w").write(s)
+
+    # 5. Two weeks without toast (Every Man in the Trap)
+    s=head(W,H,"#7FD3FF")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="330" y="250" width="220" height="20" fill="#C8925A"/><line x1="350" y1="270" x2="350" y2="408"/><line x1="530" y1="270" x2="530" y2="408"/>'
+    s+='<ellipse cx="450" cy="246" rx="50" ry="10" fill="#fff"/>'
+    s+=f'<path d="M424,240 C420,214 436,206 450,212 C464,206 480,214 476,240 Z" fill="#E8B66B"/><path d="M432,236 C430,220 440,216 450,220 C460,216 470,220 468,236 Z" fill="#F6D89A" stroke-width="3"/>'
+    for dx in (436,452,468):
+        s+=f'<path d="M{dx},196 c-5,-6 5,-10 0,-16" stroke="#fff" stroke-width="3"/>'
+    s+=man(220,170,"squeeze")+legs(220,322)
+    s+='<path d="M206,216 L178,262 L190,300"/><path d="M236,216 L262,262 L248,300"/>'
+    s+=f'<path d="M256,128 q6,10 0,14 q-6,-4 0,-14 Z" fill="#fff" stroke-width="2.5"/><path d="M180,124 q6,10 0,14 q-6,-4 0,-14 Z" fill="#fff" stroke-width="2.5"/>'
+    s+='<path d="M268,150 L410,224" stroke-dasharray="6 10" stroke-width="3"/>'
+    s+=TAIL; open(OUT+"every-man-toast.svg","w").write(s)
+
+    # 6. The buffet (The Collector and the Customer)
+    s=head(W,H,"#FFD23F")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=man(190,190,"squeeze")+legs(190,342)
+    s+='<path d="M176,236 L196,296 L240,300"/><path d="M206,236 L240,280 L300,300"/>'
+    for i in range(7):
+        y=296-i*24; dx=(i%2)*8-4+70
+        s+=f'<ellipse cx="{200+dx}" cy="{y}" rx="44" ry="9" fill="#fff"/><path d="M{176+dx},{y-4} q24,-20 48,0" fill="{[RED,LIME,"#E8B66B",SHIRT,"#FF8C42",LIME,RED][i]}"/>'
+    s+=man(480,190,"happy",shirt="#5A3E9B")+legs(480,342)
+    s+='<path d="M466,236 L450,280 L486,292"/><path d="M496,236 L520,290"/>'
+    s+=f'<ellipse cx="490" cy="290" rx="34" ry="8" fill="#fff"/><path d="M474,287 q16,-14 32,0" fill="{LIME}"/>'
+    s+=TAIL; open(OUT+"collector-the-buffet.svg","w").write(s)
+
+    # 7. Would you want to be the car? (The Test Drive)
+    s=head(W,H,"#7B4FD6")
+    s+='<line x1="30" y1="380" x2="650" y2="380" stroke="#fff"/>'
+    s+=f'<path d="M150,330 L150,290 Q152,270 176,266 L220,232 Q230,224 250,224 L340,224 Q360,224 372,236 L406,266 Q440,270 444,292 L444,330 Z" fill="{RED}"/>'
+    s+='<path d="M232,262 L254,238 L290,238 L290,262 Z" fill="#fff"/><path d="M306,262 L306,238 L350,238 L376,262 Z" fill="#fff"/>'
+    s+=dot(272,252,5)+dot(330,252,5)+'<path d="M262,240 l16,6 M340,240 l-16,6" stroke-width="3"/>'
+    s+='<path d="M286,300 q14,-10 28,0" stroke-width="4"/>'
+    s+=f'<path d="M262,262 q-4,14 2,20" stroke="#7FD3FF" stroke-width="4"/>'
+    s+='<circle cx="200" cy="332" r="26" fill="#333"/><circle cx="200" cy="332" r="10" fill="#ddd"/><circle cx="392" cy="332" r="26" fill="#333"/><circle cx="392" cy="332" r="10" fill="#ddd"/>'
+    s+=man(560,170,"flat")+'<path d="M556,322 L540,378"/><path d="M574,322 L596,378"/>'
+    s+='<path d="M546,216 L510,250 L470,254"/><path d="M574,216 L600,260"/>'
+    s+=f'<circle cx="458" cy="256" r="9" fill="{YEL}"/><path d="M450,256 L430,256 M436,256 l0,6 M442,256 l0,6" stroke-width="4"/>'
+    s+=TAIL; open(OUT+"test-drive-the-car.svg","w").write(s)
+
+    # 8. The diving board (Should I Avoid Temptation?)
+    s=head(W,H,"#7FD3FF")
+    s+=f'<path d="M0,300 L680,300 L680,412 Q680,440 652,440 L28,440 Q0,440 0,412 Z" fill="#2F9BFF" stroke="none"/>'
+    s+='<path d="M0,300 L680,300" stroke="#fff"/>'
+    s+='<path d="M60,330 q20,-10 40,0 M300,350 q20,-10 40,0 M520,330 q20,-10 40,0" stroke="#fff" stroke-width="4"/>'
+    s+='<rect x="40" y="240" width="60" height="60" fill="#ddd"/><rect x="60" y="270" width="220" height="14" fill="#fff"/>'
+    s+=man(240,110,"squeeze")
+    s+='<path d="M236,262 L228,268 L236,270 M254,262 L262,268 L254,270"/>'
+    s+='<path d="M226,156 L196,190 L206,214"/><path d="M254,156 L284,190 L276,214"/>'
+    for (x1,y1,x2,y2) in [(216,262,206,256),(270,262,280,256),(200,232,190,226),(286,232,296,226)]:
+        s+=f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke-width="3"/>'
+    s+=f'<path d="M276,70 q6,10 0,14 q-6,-4 0,-14 Z" fill="#fff" stroke-width="2.5"/><path d="M200,66 q6,10 0,14 q-6,-4 0,-14 Z" fill="#fff" stroke-width="2.5"/>'
+    s+=TAIL; open(OUT+"temptation-diving-board.svg","w").write(s)
+
+    # 9. The bird out of the broken snare (The Moment You Know)
+    s=head(W,H,"#7FD3FF")
+    s+='<path d="M0,360 L680,360 L680,412 Q680,440 652,440 L28,440 Q0,440 0,412 Z" fill="#43B85C" stroke="none"/><path d="M0,360 L680,360"/>'
+    s+='<circle cx="560" cy="90" r="40" fill="#FFD23F" stroke="none"/>'
+    s+='<path d="M150,360 L190,330 L230,360 M170,346 L210,346 M180,330 L176,360" stroke="#9C6B3C" stroke-width="5"/><path d="M230,360 L270,344 M120,360 L150,348" stroke="#9C6B3C" stroke-width="5"/>'
+    s+='<path d="M196,326 l10,-10 M206,330 l14,-4" stroke="#9C6B3C" stroke-width="4"/>'
+    s+=f'<path d="M392,186 L360,176 L366,196 Z" fill="{RED}"/>'
+    s+=f'<ellipse cx="420" cy="180" rx="40" ry="24" fill="{RED}"/>'
+    s+=f'<circle cx="462" cy="160" r="18" fill="{RED}"/>'+dot(466,156,3.5)
+    s+=f'<path d="M478,158 l16,4 l-15,6 Z" fill="{YEL}"/>'
+    s+=f'<path d="M408,174 C400,130 430,110 452,118 C440,140 436,160 432,176 Z" fill="#FF8FB1"/>'
+    s+='<path d="M380,176 l-30,10 M376,190 l-34,4 M380,162 l-28,0" stroke="#fff" stroke-width="4"/>'
+    s+='<path d="M210,320 Q300,250 390,180" stroke="#fff" stroke-width="3" stroke-dasharray="4 12"/>'
+    s+=TAIL; open(OUT+"moment-the-broken-snare.svg","w").write(s)
+
+    # 10. Let it ring (Let It Ring)
+    s=head(W,H,"#FF8C42")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=f'<path d="M150,410 L150,250 Q150,200 200,200 L300,200 Q350,200 350,250 L350,410" fill="#5A3E9B"/><rect x="130" y="290" width="240" height="70" rx="20" fill="#7B4FD6"/>'
+    s+=man(250,190,"happy")
+    s+='<path d="M246,342 L330,350 L340,408 M264,342 L340,340 L360,404"/>'
+    s+='<path d="M236,236 L206,290 L240,300"/><path d="M266,236 L300,280 L290,300"/>'
+    s+=f'<rect x="200" y="290" width="70" height="20" rx="4" fill="{SHIRT}"/>'.replace(SHIRT,"#FFF6E5")
+    s+='<rect x="470" y="300" width="100" height="110" fill="#FFF6E5"/>'
+    s+=f'<path d="M480,300 L486,270 Q520,256 554,270 L560,300 Z" fill="{INK}"/><path d="M482,268 Q520,240 558,268" stroke-width="10" stroke="{INK}"/>'
+    for (d,r) in [(0,40),(0,60)]:
+        s+=f'<path d="M{520-r},{250-r*0.4} q{r},-{r*0.7} {2*r},0" stroke="#fff" stroke-width="5"/>'
+    s+='<path d="M456,240 l-12,-8 M584,240 l12,-8" stroke="#fff" stroke-width="5"/>'
+    s+=TAIL; open(OUT+"let-it-ring-armchair.svg","w").write(s)
+
+    # 11. The men still on the ship (The Men Still on the Ship)
+    s=head(W,H,"#7FD3FF")
+    s+='<path d="M0,250 L680,250 L680,330 L0,330 Z" fill="#2F9BFF" stroke="none"/>'
+    s+='<path d="M0,330 L680,330 L680,412 Q680,440 652,440 L28,440 Q0,440 0,412 Z" fill="#F6D89A" stroke="none"/><path d="M0,330 Q340,318 680,330"/>'
+    s+=f'<path d="M110,262 L430,262 L400,290 L140,290 Z" fill="#9C6B3C" transform="rotate(-6 270 276)"/>'
+    s+='<path d="M90,272 q40,-12 80,0 q40,12 80,0 q40,-12 80,0 q40,12 80,0 q40,-12 80,0" stroke="#fff" stroke-width="5"/>'
+    s+=f'<line x1="260" y1="262" x2="250" y2="150" stroke-width="6"/><path d="M252,160 L330,200 L256,236 Z" fill="#fff"/>'
+    for x in (170,210,320,360):
+        s+=f'<circle cx="{x}" cy="244" r="8" fill="#fff"/><line x1="{x}" y1="252" x2="{x}" y2="262" stroke-width="4"/>'
+    s+=man(540,250,"flat")+'<path d="M536,402 L520,430"/><path d="M554,402 L572,430"/>'
+    s+='<path d="M526,296 L504,336"/><path d="M554,296 L590,250 L600,226"/>'
+    s+=TAIL; open(OUT+"ship-men-still-aboard.svg","w").write(s)

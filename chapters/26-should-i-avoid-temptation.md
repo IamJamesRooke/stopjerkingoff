@@ -14,6 +14,8 @@ This is the panic. It comes when the evening stretches ahead with nobody in it. 
 
 The board is two feet above the water, and from up there it looks like twenty. The pool is ten feet deep and looks like a puddle. Every instinct tells him he's about to crack his skull. Stepping off takes one second. The rest is easy, and he comes up laughing.
 
+![](images/illustrations/temptation-diving-board.png){.illustration width=80%}
+
 Paul says the spirit God gives is not one of fear. Believer or not, the water's deep enough, and plenty of men have jumped before you.
 
 **When your day comes, don't panic. Step off the board.**

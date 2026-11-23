@@ -12,6 +12,8 @@ That isn't confidence. It's a man so unsure of his worth that he needs a new wom
 
 Picture a man at a buffet for the first time. He stacks plate after plate. He paid a lot to get in and he may never be back, so he takes everything. Now watch the wealthy man at the same buffet. He takes what he wants and leaves the rest. He isn't afraid it will run out. The man who takes every woman who offers is not the rich man in that room. He's the hungry one.
 
+![](images/illustrations/collector-the-buffet.png){.illustration width=80%}
+
 ## The customer {-}
 
 A man who pays a monthly fee for a woman's private pictures is already a customer. So is the man at the strip club. This man has gone one step further.

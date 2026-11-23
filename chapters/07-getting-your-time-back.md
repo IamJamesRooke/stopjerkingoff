@@ -26,6 +26,8 @@ Be honest about where the time goes. The act is the smallest part of it.
 
 **The slump.** You know the half hour afterward, when you lie there like a dropped coat. Sometimes it's the whole flat evening. Do that daily and it adds up to lost days.
 
+![](images/illustrations/time-the-dropped-coat.png){.illustration width=80%}
+
 **The night and the morning.** Midnight becomes one o'clock, and the next morning is gone before it starts.
 
 **The hours in your head.** These don't show on any clock. They're the minutes at your desk, at dinner and on the train when part of you is already planning tonight.

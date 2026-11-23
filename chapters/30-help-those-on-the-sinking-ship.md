@@ -6,6 +6,8 @@
 
 Here is one last picture. Think of the trap as a ship, sitting low in the water. You're off it. Before you walk up the beach, turn around and look at who's still aboard.
 
+![](images/illustrations/ship-men-still-aboard.png){.illustration width=80%}
+
 Your brother is on it. So are half the men you work with, most of the men at your gym, and quite possibly your son. From the shore you can see what none of them can: it is going down.
 
 Nothing keeps men aboard like the willpower quitter. He's on day nineteen of his streak, gray in the face, snapping at his wife and telling everyone who'll listen how hard it is. The men on the ship look at him and think, "If that's freedom, pass me my phone." His misery is the best advertisement the habit has.
