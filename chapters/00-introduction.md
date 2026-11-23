@@ -6,9 +6,9 @@ He means it. He always means it.
 
 Everybody tells him it's normal. Nobody tells him why he ends up staring at the ceiling.
 
-You know this man. Most men do. I've been him for decades.
+Maybe your night looks different. A dating app instead of a video. A site you pay by the month. A wife asleep down the hall. Same ceiling.
 
-Maybe your night looks different. A dating app instead of a video. A page that knows your card number. A wife asleep down the hall. Same ceiling.
+You know this man. Most men do. I've been him for decades.
 
 This man isn't weak. He's competent, and he keeps his word to everybody he meets. Everybody except himself. Again and again he vows, prays, blocks sites, takes cold showers and counts streaks. And every time, he breaks.
 
@@ -21,7 +21,7 @@ There is no dragon.
 
 ## What you're really fighting {-}
 
-That overwhelming urge when temptation hits? That faint, fidgety itch, that craving? It's no dragon.
+That overwhelming urge when temptation hits? That faint, fidgety itch, that craving? It's no dragon. It's something much smaller.
 
 Think of your life as a house. Up in the back room lurks a little monster. A scrawny pipsqueak, the size of a house cat, who reeks like cheese left to rot in a car in midsummer. This pest has never paid a dime of rent. He doesn't even buy his own food, because you're the one who feeds him.
 
@@ -32,13 +32,13 @@ You know his menu.
 - Every time you masturbate to pixelated women.
 - Every "last one" in a private window, with eleven tabs still open.
 - Every sex scene you rewind in a show you swear you watch for the plot.
-- Every yoga account you follow, and you've never touched a mat.
+- Every yoga instructor you follow online, and you've never touched a mat.
 - Every pinch-zoom on a beach photo of a girl from high school.
 - Every wandering eye toward the girl at the gym, while you pretend to check your form in the mirror.
 - Every rerun of that night with your ex, screened in the shower.
 - Every "you up?" to the woman you know damn well is no good for you.
 - Every right swipe from the toilet seat, on women you'll never message.
-- Every ten bucks a month to a woman who calls three thousand other men "babe".
+- Every ten bucks a month to a woman online who calls three thousand subscribers "babe".
 - Every fire emoji under her selfie, handing your power to somebody who just wants the attention.
 - Every vodka soda you buy a stranger, just to see how far it gets you.
 - Every woman you bring home, then lie there faking sleep until she finds her shoes.
@@ -50,7 +50,7 @@ Then he belches, curls up, and leaves you alone for a while.
 ![](images/illustrations/intro-back-room.png){.illustration width=80%}
 
 
-This book calls him the Little Monster. He's only a picture of the craving. Nobody needs an exorcist.
+This book calls him the Little Monster. He isn't real. He's a picture of the craving.
 
 The "pleasure" you get is the silence. It's him shutting up.
 
@@ -81,7 +81,7 @@ You wrote some yourself.
 - "I've earned it."
 - "It's not hurting anybody."
 
-And some are bargains.
+And some are bargains, deals you cut with yourself.
 
 - "At least it's not porn."
 - "At least she's real."
@@ -90,7 +90,7 @@ Every one of them says the same thing. He earns his keep. Even a bargain says it
 
 He hasn't earned a crumb.
 
-Take one. "It helps me sleep." As a boy you fell asleep in the back seat of a moving car. Who's been keeping you awake since? You feed him, the banging stops, and you drop off. He didn't give you sleep. He stole your sleep, and every night he sells you back a sliver.
+Take one. "It helps me sleep." At ten years old you were out cold in minutes, with no help from anybody. Who's been keeping you awake since? You feed him, the banging stops, and you drop off. He didn't give you sleep. He stole your sleep, and every night he sells you back a sliver.
 
 The house was quiet before he moved in.
 
@@ -106,13 +106,13 @@ Save your grit for something that deserves it. There are mountains to climb and 
 
 ## While you read {-}
 
-Two rules while you read.
+But not tonight. He goes out when you finish the book. Until then, two rules.
 
-**Don't try to quit.** Not yet. Make no vows. Start no streaks. Don't cut down. You've done all three before, and here you are. You stop once, at the end of the book. Until then, call off the war.
+**Don't try to quit.** Not yet. Make no vows. Start no streaks. Don't cut down. You've done all three before, and here you are. You'll quit once, for good, on the last page. So call off the war.
 
-So feed him as much as you like. Give in to every tantrum. Bang, bang, bang, and up the stairs you trot with his plate. Just watch yourself do it. You're waiting on a dirty, sulking little freeloader, and he's treating you like his slave.
+Feed him as much as you like. Give in to every tantrum. Bang, bang, bang, and up the stairs you trot with his plate. Just watch yourself do it. You're waiting on a dirty, sulking little freeloader, and he's treating you like his slave.
 
-That's not an order. Nobody's telling you to sin. If you've already stopped, stay stopped. And if your lust is hurting someone else, that stops today. An affair, paying for sex, pressing a woman who's said no, anything against the law. That can't wait for the last page.
+That's not an order. Nobody's telling you to sin. If you've already stopped, stay stopped. And if your lust is hurting someone else, that stops today. An affair, paying for sex, pushing a woman who's said no, anything against the law. That can't wait for the last page.
 
 **Don't skip chapters.** Read them in order. Each one knocks down a lie, and the last step only works once they're all down.
 
@@ -199,3 +199,5 @@ SOURCES (Introduction): every quote below is from the research files; check each
 <!-- 2026-11-23: menu rebuilt after rereading Scott Adams (simple words, one concrete picture per line, no repeated time words); 'midnight' and 'late-night' removed; 'slept like a stone' and 'plenty of company' replaced. Previous menu is in git at e15ff7f. -->
 
 <!-- 2026-11-23: whole-Intro wording pass (stock phrases, passive openers, repeated 'hand'); the 'not an order' caution moved up to sit right after the feeding paragraph it answers. -->
+
+<!-- 2026-11-23: five cold readers (Sonnet). Fixed what two or more tripped on: sleep example, paid-site lines, 'exorcist', 'you stop once', the turn from 'throw him out' to 'don't quit', bargains defined, opening paragraph order. -->
