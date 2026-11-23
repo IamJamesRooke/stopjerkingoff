@@ -4,10 +4,10 @@
 
 | File | words | lust | porn | women/woman | masturbat/MO | habit | soldier/duty/fit | Little Monster | Big Monster | wrong head | thread (can't be trusted) |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| Intro | 743 | 1 | 2 | 1 | 1 | 3 | 0 | 3 | 0 | 0 | 0 |
-| b | 904 | 0 | 2 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 |
+| Intro | 701 | 0 | 3 | 1 | 0 | 2 | 0 | 3 | 0 | 0 | 0 |
+| b | 900 | 0 | 2 | 1 | 1 | 2 | 0 | 0 | 0 | 0 | 0 |
 | c | 321 | 2 | 0 | 1 | 0 | 0 | 5 | 1 | 0 | 0 | 1 |
-| 1 | 979 | 1 | 3 | 1 | 0 | 4 | 0 | 1 | 0 | 0 | 0 |
+| 1 | 980 | 2 | 1 | 1 | 0 | 5 | 0 | 1 | 0 | 0 | 0 |
 | 1a | 895 | 3 | 6 | 5 | 1 | 4 | 0 | 1 | 0 | 0 | 0 |
 | 1b | 1079 | 0 | 1 | 2 | 0 | 0 | 0 | 2 | 0 | 0 | 0 |
 | 1c | 1425 | 3 | 2 | 13 | 0 | 1 | 0 | 1 | 0 | 0 | 0 |
@@ -80,14 +80,14 @@
 | faq | 1792 | 10 | 10 | 7 | 6 | 6 | 5 | 3 | 1 | 1 | 0 |
 | why-this-book | 1014 | 8 | 6 | 5 | 2 | 2 | 4 | 0 | 0 | 1 | 0 |
 
-## Overused words and phrases (book total 64261 words)
+## Overused words and phrases (book total 64216 words)
 
 | Word | Count | Per 1000 words | In how many files |
 |---|---|---|---|
-| nothing | 175 | 2.72 | 63 |
+| nothing | 177 | 2.76 | 63 |
 | a man who | 86 | 1.34 | 45 |
-| trap | 72 | 1.12 | 32 |
-| itch | 65 | 1.01 | 26 |
+| trap | 71 | 1.11 | 32 |
+| itch | 64 | 1.0 | 26 |
 | sin | 48 | 0.75 | 28 |
 | relief | 25 | 0.39 | 14 |
 | exactly | 24 | 0.37 | 17 |
@@ -103,7 +103,7 @@
 | perhaps | 12 | 0.19 | 10 |
 | moping | 10 | 0.16 | 5 |
 | quite | 9 | 0.14 | 7 |
-| grace | 9 | 0.14 | 7 |
+| grace | 8 | 0.12 | 7 |
 | pipsqueak | 7 | 0.11 | 7 |
 | envy | 6 | 0.09 | 2 |
 | of course | 5 | 0.08 | 4 |

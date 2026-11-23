@@ -8,7 +8,7 @@ Everybody tells him it's normal. Nobody tells him why he ends up staring at the 
 
 You know this man. Most men do. I have been him for decades.
 
-Maybe your night looks different. A dating app at midnight. A page with your card on file. A wife asleep down the hall. The ceiling is the same.
+Maybe your night looks different. A dating app at midnight. A page with your card on file. A wife asleep down the hall. Maybe you are a woman, and this book says "he". The ceiling is the same.
 
 The man in the bed is not a weak man. He keeps his word to everyone but himself. Against this one thing he has tried vows, prayers, blocked sites, cold showers and streaks. Not one of them lasted. So he believes he is fighting a dragon.
 
@@ -16,11 +16,11 @@ There is no dragon.
 
 ## What you are really fighting {-}
 
-A while after the last time, a feeling shows up. It is a faint, fidgety itch, like a phone buzzing in another room. Some nights it comes with something real, a bad day or an empty house. The itch itself is still small.
+A while after the last time, a feeling shows up. It is a faint, fidgety itch, like a phone buzzing in another room.
 
 That itch is the craving. It is the whole dragon.
 
-Picture it this way. Your life is a house. In the back room upstairs lives a creature the size of a house cat. He smells like a gym bag left in a hot car. He can't get down the stairs. He eats only what you carry up to him, and every time you give in, that is a meal. When he gets hungry, he bangs on the floor. That banging is the urge. It put the phone in that man's hand tonight.
+Picture it this way. Your life is a house. In the back room upstairs lives a creature the size of a house cat. He smells like a gym bag left in a hot car. He can't get down the stairs. He eats only what you carry up to him, and every time you give in, to porn or to your own hand, that is a meal. When he gets hungry, he bangs on the floor. That banging is the urge. It put the phone in that man's hand tonight.
 
 ![](images/illustrations/intro-back-room.png){.illustration width=80%}
 
@@ -34,7 +34,7 @@ A dragon would be something to brag about. This is a pipsqueak. You could carry 
 
 ## Why you keep feeding him {-}
 
-So why does a grown man keep carrying meals up to a thing like that?
+Why does a grown man keep carrying meals up to a thing like that?
 
 Because when the Little Monster is fed, the banging stops. The house goes quiet, and the quiet feels like a gift. You think he gave it to you.
 
@@ -42,21 +42,17 @@ The lies do the rest. Some were told to you. "A man needs it." "It's healthy." "
 
 Each lie says the same thing. He earns his keep. He doesn't.
 
-Take one. "It helps me sleep." You slept like a stone before any of this started. Who has been keeping you awake since? You feed him, the banging stops, and you drop off. So the habit didn't give you sleep. It took your sleep, and every night it sells a little back.
+Take one. "It helps me sleep." You slept like a stone before any of this started. Who has been keeping you awake since? You feed him, the banging stops, and you drop off. So feeding him didn't give you sleep. He took your sleep, and every night he sells a little back.
 
-The house was quiet before he moved in. The habit gives you nothing. It only stops, for a while, a noise it made itself.
+The house was quiet before he moved in. Porn and the hand are one habit, and the habit gives you nothing. It only stops, for a while, a noise it made itself.
 
 A creature the size of a cat can't hold a grown man. The lies hold him.
 
 ## Put down the sword {-}
 
-So this book will not ask you to try harder. You have tried harder. Most methods hand you a sword and point you at the dragon. No man wins a fight against something he still thinks is doing him good.
+That is why trying harder never worked. Most methods hand you a sword and point you at the dragon. No man wins a fight against something he still thinks is doing him good.
 
-This book does one thing. It takes the lies apart, one at a time, until you see the Little Monster has nothing you want. A man who sees that needs no willpower. He stops carrying dinner up the stairs.
-
-By *the habit* this book means porn and masturbation together. *Lust* is the wider appetite behind it, and it gets its turn.
-
-The book says "he" throughout. If you are a woman, you are welcome, and the same lies come apart the same way.
+This book hands you no sword. It takes the lies apart, one at a time, until you see the Little Monster has nothing you want. A man who sees that needs no willpower. He stops carrying dinner up the stairs.
 
 Save your grit for something that deserves it. There are mountains to climb and children to raise. This is a pest in a back room. Put him out, and get on with your life.
 
@@ -123,3 +119,5 @@ SOURCES (Introduction): every quote below is from the research files; check each
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->
 
 <!-- 2026-11-22 AVATAR READ OF THE OPENING (James: 'something isn't hooking me in... have all of our user avatars... read a section then tell you what they think'). 28 simulated readers in four panels read section by section. All four found the same thing: the pictures hook (2 a.m., the button, the sleep sample) and the stretches where the book describes itself, promises or gives house rules do not. Changes are confined to the Introduction, The Button and The Easy Method; text removed is in editorial/PARKING.md. -->
+
+<!-- 2026-11-23 FLOW PASS (James: the two housekeeping paragraphs in the middle of 'Put down the sword' don't make sense; 'it kind of meanders like that and confuses the reader'; 'So this book => This book'). Rule from now on: every paragraph follows from the one before, each section makes one move, housekeeping is woven in where it is first needed and never dropped into an argument, and no 'So' or 'And' opener that isn't a real link. -->

@@ -15,11 +15,13 @@ There is no such button. But what it does can be done. It takes one decision, an
 
 ## You never signed up {-}
 
-Yes, you choose each time. You lock the door. You pick up the phone. But no boy sits down and signs up for fifteen years of this. Curiosity and puberty started it. For most of us, porn did the rest.
+How did you end up with a thing you would press a button to be rid of? No boy sits down and signs up for fifteen years of this. Curiosity and puberty started it. For most of us, porn did the rest.
 
-You walked into a trap, and the bait was your own body. One fact gives the trap away. No man caught in it wants his son caught in it.
+Yes, you choose each time. You lock the door. You pick up the phone. But you walked into a trap, and the bait was your own body.
 
-Ask any man in it if he would start again. Tonight he carries on anyway. Nobody makes him.
+One fact gives the trap away. No man caught in it wants his son caught in it.
+
+Ask any man in it if he would start again. Tonight he carries on anyway. Nobody makes him. He will tell you he can't stop.
 
 ## You already know how to stop {-}
 
@@ -47,15 +49,13 @@ That picture was painted for you, one line at a time. "I'll go crazy if I don't.
 
 Look at what each line does. It sends you up the stairs with a plate.
 
-And the picture is wrong. A creature that eats only what you carry up can't bang forever.
+The picture is wrong. A creature that eats only what you carry up can't bang forever.
 
 If you have tried and failed many times, the picture looks proven. One man wrote that he had failed so often he sometimes wondered whether God's grace for him had run out.
 
-It hasn't. Jesus told a story about a son who wasted every coin he had and ended up feeding pigs. In that pigsty he came to himself. He got up and walked home, and his father ran down the road to meet him.
+It hasn't. Jesus told a story about that, and you don't have to believe to follow it. A son wasted every coin he had and ended up feeding pigs. In that pigsty he came to himself. He got up and walked home, and his father ran down the road to meet him.
 
-This book quotes the Bible like that, and it takes God seriously. If you believe, you'll find this way leans on grace, not grit. Whatever you believe, nobody here will ask you to pretend. The way out is the same.
-
-And you are not a hopeless case. You used a method that can't work. A ninety-day streak proves you are strong. Losing it proves strength was never the problem.
+You are not a hopeless case. You used a method that can't work. A ninety-day streak proves you are strong. Losing it proves strength was never the problem.
 
 ## No scares, no superpowers {-}
 
@@ -67,13 +67,13 @@ One caution, and it is not a scare. A book is not a doctor, and nobody has teste
 
 ## Nothing to lose {-}
 
-So read on, and question everything, this book included. If you enjoy it, why does your stomach tighten at the words "never again"?
+Read on, and question everything, this book included. Start with one question. If you enjoy the habit, why does your stomach tighten at the words "never again"?
 
 Here is the worst that can happen. You reach the last page, shrug, and pick up the phone. You are out five hours.
 
 The fear may grow for a chapter or two. Some men put the book down halfway. They sense that if they keep reading, they will have to stop. Don't be one of them. That flutter is only the old lies. A lie gets nervous when somebody starts checking it.
 
-So how do you get out? It starts with the strangest promise anyone has made you about this.
+How do you get out? It starts with the strangest promise anyone has made you about this.
 
 It will be easy.
 
@@ -90,3 +90,5 @@ It will be easy.
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->
 
 <!-- 2026-11-22 AVATAR READ OF THE OPENING (James: 'something isn't hooking me in... have all of our user avatars... read a section then tell you what they think'). 28 simulated readers in four panels read section by section. All four found the same thing: the pictures hook (2 a.m., the button, the sleep sample) and the stretches where the book describes itself, promises or gives house rules do not. Changes are confined to the Introduction, The Button and The Easy Method; text removed is in editorial/PARKING.md. -->
+
+<!-- 2026-11-23 FLOW PASS (James: the two housekeeping paragraphs in the middle of 'Put down the sword' don't make sense; 'it kind of meanders like that and confuses the reader'; 'So this book => This book'). Rule from now on: every paragraph follows from the one before, each section makes one move, housekeeping is woven in where it is first needed and never dropped into an argument, and no 'So' or 'And' opener that isn't a real link. -->

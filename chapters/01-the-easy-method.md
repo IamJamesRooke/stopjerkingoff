@@ -39,17 +39,15 @@ It fails for two reasons.
 
 **One. Guilt and fear send you back to it.** What does a man do when he feels ashamed and worthless? He looks for comfort. And what has he trained himself to use for comfort?
 
-So the scare videos and the thundering sermons never freed you. They scared you, and a scared man reaches for his comfort. Tell a man the habit is ruining him, and you've handed him one more reason to use it tonight.
+That is why the scare videos and the thundering sermons never freed you. They scared you, and a scared man reaches for his comfort. Tell a man the habit is ruining him, and you've handed him one more reason to use it tonight.
 
 **Two. Every reason to stop makes stopping harder.** Tell a boy he can't have the cookie, and the cookie doubles in size.
 
 Your reasons say you *ought* to give something up. So part of you goes on believing there is something to give up: a comfort, a treat, an old friend. You feel like a man marched away from his only pleasure.
 
-And all that effort has a trap inside it. The same man on the forum spotted it. The harder he tried not to think about porn, the more porn became the center of his thoughts.
-
 ## Three questions {-}
 
-So put your reasons for stopping on a shelf. All of them, the good ones and the godly ones too. You'll take them down again later, when nobody can use them as a stick on you.
+Put your reasons for stopping on a shelf. All of them, the good ones and the godly ones too. You'll take them down again later, when nobody can use them as a stick on you.
 
 In their place, look straight at what you do and ask three questions.
 
@@ -57,7 +55,7 @@ In their place, look straight at what you do and ask three questions.
 2. **Do I actually enjoy it?**
 3. **Why am I doing this to myself?**
 
-The rest of this book proves one thing. The habit does nothing for you. The porn doesn't. The hand doesn't.
+Start with the first, because it settles the other two. What is the habit doing for you? Nothing. The porn does nothing. The hand does nothing. The rest of this book proves it.
 
 Get that exactly right. This is not the old line that the costs are bigger than the benefits. Every man knows that already, and it has never helped him. There are no benefits.
 
@@ -65,7 +63,7 @@ Not one.
 
 Yes, the finish feels good. That is real. It is the bait, and you'll see what is on the hook.
 
-The relaxation, the stress relief, the "release", the thrill of something new, the feeling of being wanted. Each one is a tight shoe, and each one gets its turn. The bargains get their turn too.
+The relaxation, the stress relief, the "release", the thrill of something new, the feeling of being wanted. Each one is a tight shoe, and each one gets its turn. The bargains get their turn too. So does lust, the wider appetite behind the habit.
 
 ## What to do tonight {-}
 
@@ -77,11 +75,11 @@ Tonight, do three things. None of them is "try harder".
 
 Calling off the war is not permission. Nobody is telling you to sin. If you have already stopped, stay stopped. If you slip while you read, keep reading.
 
-And this can't wait for the last page. If your lust is hurting someone else, stop that today. That means an affair, paying for sex, pressing a woman who has said no, or anything against the law.
+One thing can't wait for the last page. If your lust is hurting someone else, stop that today. That means an affair, paying for sex, pressing a woman who has said no, or anything against the law.
 
-This book ends with a plain No, and you'll be glad to say it. It is not the old vow. The old vow was a promise made on your own strength, before you understood the trap. This one you'll say with your eyes open. If you pray, you'll say it leaning on God.
+The stopping comes once, at the end. This book ends with a plain No, and you'll be glad to say it. It is not the old vow. The old vow was a promise made on your own strength, before you understood the trap. This one you'll say with your eyes open. If you pray, you'll say it leaning on God.
 
-One thing first. "No benefits at all" is a big claim from a stranger. You have every right to ask who he is, and how he knows.
+Before any of that, a fair question. "No benefits at all" is a big claim from a stranger. You have every right to ask who he is, and how he knows.
 
 <!-- SOURCES (Chapter 1): every quote below is from the research files; check each against its page before publishing.
 - PARAPHRASED, not quoted (2026-11-17): the two lines from the man on a Christian forum (his own effort failed him; trying not to think about porn made it the centre of his thoughts). The post could not be opened to check the wording, so the body gives the sense only. Source: u/Red-Curious, r/TrueChristian, "How I overcame porn permanently" (original post), https://www.reddit.com/r/TrueChristian/comments/larhm7/
@@ -125,3 +123,5 @@ One thing first. "No benefits at all" is a big claim from a stranger. You have e
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->
 
 <!-- 2026-11-22 AVATAR READ OF THE OPENING (James: 'something isn't hooking me in... have all of our user avatars... read a section then tell you what they think'). 28 simulated readers in four panels read section by section. All four found the same thing: the pictures hook (2 a.m., the button, the sleep sample) and the stretches where the book describes itself, promises or gives house rules do not. Changes are confined to the Introduction, The Button and The Easy Method; text removed is in editorial/PARKING.md. -->
+
+<!-- 2026-11-23 FLOW PASS (James: the two housekeeping paragraphs in the middle of 'Put down the sword' don't make sense; 'it kind of meanders like that and confuses the reader'; 'So this book => This book'). Rule from now on: every paragraph follows from the one before, each section makes one move, housekeeping is woven in where it is first needed and never dropped into an argument, and no 'So' or 'And' opener that isn't a real link. -->

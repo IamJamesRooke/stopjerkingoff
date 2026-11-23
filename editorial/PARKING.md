@@ -1892,3 +1892,10 @@ This book ends with a plain No, and you'll be glad to say it. It is not the old 
 One thing first. "No benefits at all" is a big claim from a stranger. You have every right to ask who he is, and how he knows.
 
 
+
+## 2026-11-23 Cut in the flow pass on the opening
+
+- Introduction, Put down the sword: "By *the habit* this book means porn and masturbation together. *Lust* is the wider appetite behind it, and it gets its turn." and "The book says "he" throughout. If you are a woman, you are welcome, and the same lies come apart the same way." (both now woven in where they are first needed).
+- Introduction: "Some nights it comes with something real, a bad day or an empty house. The itch itself is still small."
+- The Button: "This book quotes the Bible like that, and it takes God seriously. If you believe, you'll find this way leans on grace, not grit. Whatever you believe, nobody here will ask you to pretend. The way out is the same."
+- The Easy Method: "And all that effort has a trap inside it. The same man on the forum spotted it. The harder he tried not to think about porn, the more porn became the center of his thoughts." (a third reason after "two reasons").
