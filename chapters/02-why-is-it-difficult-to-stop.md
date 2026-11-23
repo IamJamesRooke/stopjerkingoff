@@ -30,7 +30,7 @@ So the puzzle was never how stopping could be easy. The puzzle is why it seems h
 
 ## Nobody sold it to you {-}
 
-Think about how you started. Nobody sat you down and sold it to you. Your own body turned up one day with a new trick. The jokes at school said every boy did it, so you didn't think twice. Porn arrived just as quietly: a pop-up, a friend's phone, a link somebody sent as a joke.
+Think about how you started. Nobody sat you down and sold it to you. Your own body turned up one day with a new trick. The jokes in the locker room said every boy did it, so you didn't think twice. Porn arrived just as quietly: a pop-up, a friend's phone, a link somebody sent as a joke.
 
 Then you spent ten, twenty or thirty years wishing you could leave it alone. It doesn't take thirty years to feel like a lifetime. One young man wrote:
 
@@ -44,7 +44,7 @@ You're not unique. You're standard issue.
 
 What does the habit give you in return? A pleasure you regret before you've caught your breath, and plan again by the next evening. You wish you weren't doing it while you do it. You're restless for it when you don't.
 
-Then comes the bill. A man says "never again" on Monday night and breaks it on Tuesday. He clears the history while his wife sleeps in the next room. He lies in bed on Saturday morning, too drained to get up for the thing he planned. Each time he thinks a little less of himself. He may run every other part of his life well, and he still carries that around all day like a stone in his pocket.
+Then comes the bill. A man says "never again" on Monday night and breaks it on Tuesday. He clears the history while his wife sleeps in the next room. He lies in bed on Saturday morning, too drained to get up for the hike he planned. Each time he thinks a little less of himself. He may run every other part of his life well, and he still carries that around all day like a stone in his pocket.
 
 What does he get for carrying it? One man looked back over twenty years and gave the honest answer:
 
@@ -60,7 +60,7 @@ Why? What makes it hard? Men give three answers.
 
 **"The urges are unbearable."** They aren't. I know it hasn't felt mild. Some nights it's felt like a hand on the back of your neck. That weight is fear, and fear can be taken away. Take it away, and what's left? A creature the size of a cat, banging on a floor. You've sat through worse in a dentist's waiting room.
 
-**"A man's body needs it."** Pressure builds, they say, and it has to go somewhere. But your body handled that on its own before you ever lent a hand, and it still knows how. You've gone days without, on trips and in busy weeks, and nothing burst.
+**"A man's body needs it."** Pressure builds, they say, and it has to go somewhere. But your body handled that on its own before you ever lent a hand, and it still knows how. You've gone days without, on fishing trips and in crunch weeks at work, and nothing burst.
 
 **"I simply enjoy it."** A man can enjoy a good steak. He doesn't need one every night behind a locked door. He doesn't panic at the thought of a week without. We enjoy what we like while it lasts, and we don't sit around feeling robbed in between.
 
@@ -95,3 +95,5 @@ It's wrong.
 <!-- 2026-11-22 SKEPTIC READ (James: read 'as an atheist who reads despite the god talk and still thinks that marriage is a joke, it's a scam which is against men... Women have a legal incentive to divorce. The family courts are against men. This IS true. But try and get it so, by the end, he agrees'). Stage 1 fixes: a plain reason set beside each claim that stood on God alone; the divorce courts conceded early. -->
 
 <!-- 2026-11-23 FLOW PASS (book-wide): in 'Nobody sold it to you', 'You never told a soul. You assumed you were the only man...' moved below the quotation so that 'You're not unique' answers it directly; nothing cut. -->
+
+<!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
