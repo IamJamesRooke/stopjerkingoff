@@ -25,9 +25,9 @@ There is no dragon.
 
 ## What you're really fighting {-}
 
-That overwhelming urge when temptation hits? That faint, fidgety itch, that craving? It's no dragon. It's a little monster. He isn't real, of course. He's a picture of that craving, and this book calls him the Little Monster.
+That overwhelming urge when temptation hits? That faint, fidgety itch, that craving? It's no dragon. It's a little monster. He isn't real. He's a picture of that craving, and this book calls him the Little Monster.
 
-Think of your life as a house. He lurks up in the back room. A scrawny pipsqueak, the size of a house cat, who reeks like cheese left to rot in a car in midsummer. This pest has never paid a dime of rent. He doesn't even buy his own food, because you're the one who feeds him.
+Think of your life as a house. Up in the back room lurks the Little Monster. A scrawny pipsqueak, the size of a house cat, who reeks like cheese left to rot in a car in midsummer. This pest has never paid a dime of rent. He doesn't even buy his own food, because you're the one who feeds him.
 
 ![](images/illustrations/intro-back-room.png){.illustration width=80%}
 
@@ -94,8 +94,6 @@ He hasn't earned a crumb.
 
 Take one. "It helps me sleep." At ten years old you were out cold before your mother shut the door. Nobody helped. Who's been keeping you awake since? He bangs, you feed him, he quits banging, and you drop off. He didn't give you sleep. He stole your sleep, and every night he sells you back a sliver.
 
-That's a guy who slashes your tires, then offers you a ride.
-
 The house was quiet before he moved in.
 
 A pipsqueak can't pin a grown man to that bed. The lies pin him there.
@@ -104,17 +102,17 @@ A pipsqueak can't pin a grown man to that bed. The lies pin him there.
 
 That's why trying harder never worked. Most methods take him for a dragon. They hand you a sword and shove you up the stairs. The filter, the cold shower, the streak counter: all swords. So there you stand in the doorway, blade shaking, facing a thing you still half believe you need. No man swings hard at that.
 
-This book hands you no sword. It pries the lies loose, one at a time, like nails out of a board, until you see the Little Monster has nothing you want. A man who sees that doesn't need willpower. It takes no willpower to walk past a bowl of dog food. He just stops carrying dinner up the stairs.
+This book hands you no sword. It pries the lies loose, one at a time, until you see the Little Monster has nothing you want. A man who sees that doesn't need willpower. It takes no willpower to walk past a bowl of dog food. He just stops carrying dinner up the stairs.
 
 Save your grit for something that deserves it. There are mountains to climb and children to raise. This is a pest in a back room. Throw him out, and go climb something.
 
 ## While you read {-}
 
-But not tonight. He goes out when you finish the book. Until then, two rules.
+Just not yet. The Little Monster goes out when you finish the book, not before. Until then, two rules.
 
 **Don't try to quit.** Not yet. Make no vows. Start no streaks. Delete no apps. Don't cut down. You've done it all before, and here you are. You'll quit once, for good, on the last page. So call off the war.
 
-Feed him as much as you like. Give in to every tantrum. Bang, bang, bang, and up the stairs you trot with his plate, like a waiter working for no tips. Just watch yourself do it. You're waiting on a dirty, sulking little freeloader, and he's treating you like his slave.
+Feed him as much as you like. Give in to every tantrum. Bang, bang, bang, and up the stairs you trot with his plate. Just watch yourself do it. You're waiting on a dirty, sulking little freeloader, and he's treating you like his slave.
 
 That's not an order. Nobody's telling you to sin. If you've already stopped, stay stopped. And if your lust is hurting someone else, that stops today. An affair, paying for sex, pushing a woman who's said no, anything against the law. That can't wait for the last page.
 
@@ -211,3 +209,5 @@ SOURCES (Introduction): every quote below is from the research files; check each
 <!-- 2026-11-23: opening scene rewritten harder (James: whole Intro perfect); the naming line moved up beside 'It's a little monster' so it no longer interrupts belch -> silence. Old opening is in git at eec4a5f. -->
 
 <!-- 2026-11-23: every section rewritten harder with concrete pictures (car alarm, slashed tires, sword in the doorway, dog food, waiter, bricks). James's lines, the monster passage and the menu untouched. -->
+
+<!-- 2026-11-23: three readers all said too many images stacked: cut tire-slasher, nails, waiter (kept car alarm, dog food, bricks). 'But not tonight' confused all three; reworded. 'Up in the back room lurks' restored. -->
