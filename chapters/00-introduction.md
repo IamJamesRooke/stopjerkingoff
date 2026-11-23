@@ -22,9 +22,15 @@ That itch is the craving. It is the whole dragon.
 
 Picture it this way. Your life is a house. In the back room upstairs lives a creature the size of a house cat. He smells like a gym bag left in a hot car. He can't get down the stairs. He eats only what you carry up to him, and every time you give in, that is a meal. When he gets hungry, he bangs on the floor. That banging is the urge. It put the phone in that man's hand tonight.
 
+![](images/illustrations/intro-back-room.png){.illustration width=80%}
+
+
 Call him the Little Monster. He is only a picture. He is not a demon, and nothing is really living in you.
 
 A dragon would be something to brag about. This is a pipsqueak. You could carry him out in one hand.
+
+![](images/illustrations/intro-carry-him-out.png){.illustration width=80%}
+
 
 ## Why you keep feeding him {-}
 

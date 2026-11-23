@@ -451,3 +451,11 @@ nav.next-card .next-meta { display: block; font-family: Inter, system-ui, sans-s
   .home-hero .hero-actions { justify-content: center; }
   .book .book-body .page-inner section.normal .home-hero p.hero-line { font-size: 1.25em; }
 }
+/* The drawings in the opening chapters: centered, never wider than the text, and quiet on a phone. */
+img.illustration {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 1.6em auto;
+  border-radius: 14px;
+}

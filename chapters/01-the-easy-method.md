@@ -22,6 +22,9 @@ The man who never started has hard days too. He comes home with one weight on hi
 
 Picture a man who wears shoes two sizes too small, all day, for the joy of pulling them off at night. Would you call that a benefit of the shoes?
 
+![](images/illustrations/easy-method-tight-shoes.png){.illustration width=80%}
+
+
 That is one lie, seen as it is. Did seeing it take any willpower?
 
 ## Why the normal way is so hard {-}

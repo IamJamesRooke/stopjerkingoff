@@ -137,3 +137,7 @@ h1.copyright-heading { display: none; }
 .contents li { margin: 0.35em 0 0.35em 1.8em; text-indent: -1.8em; text-align: left; }
 .toc-num { display: inline-block; width: 1.8em; text-indent: 0; }
 nav#toc ol { list-style: none; }
+
+/* The drawings in the opening chapters */
+img.illustration { display: block; max-width: 100%; height: auto; margin: 1.2em auto; }
+p:has(> img.illustration) { text-indent: 0; text-align: center; }
