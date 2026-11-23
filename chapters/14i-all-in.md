@@ -2,17 +2,17 @@
 
 So far this walk has only shut doors. This one opens.
 
-You may have read the last few chapters as a list of things taken away. Look at what is on offer.
+You may have read the last few chapters as a list of things taken away. Look at what's on offer.
 
 ## Forty first chapters {-}
 
-A man who has slept with forty women thinks he knows a great deal about women. He has read the first chapter of forty books.
+A man who's slept with forty women thinks he knows a great deal about women. He's read the first chapter of forty books.
 
-First chapters are all alike. There are the nerves, the best behavior and the performance. He has never read a chapter ten. He doesn't know what a woman is like when she trusts him, because none of them had a reason to.
+First chapters are all alike. The nerves, the best behavior, the performance. He's never read a chapter ten. He doesn't know what a woman is like when she trusts him, because none of them had a reason to.
 
-A man who has been married to one woman for thirty years has read a whole book. He is in it.
+A man who's been married to one woman for thirty years has read the whole book. He's in it.
 
-New is the cheapest thing in the world. The screen taught you that. The forty-first tab was no better than the first, and a new woman is a new tab. Being known is the thing that can't be had new. It takes years. It can't be bought, matched or downloaded.
+New is the cheapest thing in the world. The screen taught you that. The forty-first tab was no better than the first, and a new woman is a new tab. Being known is the one thing you can't get new. It takes years. You can't buy it, match it or download it.
 
 ## What the bet buys {-}
 
@@ -22,7 +22,7 @@ It buys a bed with no performance in it, no clock running, and nobody looking fo
 
 It buys a witness to your whole life, and a reason to get up in the morning that isn't you.
 
-And it gives your desire somewhere to go. Every other place it went, it was spent. Here it builds something each time.
+And it gives your desire somewhere to go. Everywhere else it went, it was spent. Here it builds something each time.
 
 ## Two men who said so {-}
 
@@ -38,11 +38,11 @@ Be fair to that too. Happier men are more likely to marry, so the ring isn't the
 
 ## The bet {-}
 
-Marriage is an all-in bet, and nobody should tell you otherwise. You push everything to the middle of the table. Your money goes in, and your name, and your future. You can't take it back without losing half of yourself.
+Marriage is an all-in bet, and nobody should tell you otherwise. You push everything to the middle of the table. Your money, your name, your future. You can't take it back without losing half of yourself.
 
-It can go wrong, and you have seen the numbers. Men have been ruined by a bad marriage, and so have women. Some wives lie, and some leave, just as some husbands do.
+It can go wrong, and you've seen the numbers. Men have been ruined by a bad marriage, and so have women. Some wives lie, and some leave, just as some husbands do.
 
-That is no argument against the bet. It is an argument for choosing with clear eyes. And the habit never let you choose that way. A man ruled by lust picks a wife with the one part of him that can't see character.
+That's no argument against the bet. It's an argument for choosing with clear eyes. And the habit never let you choose that way. A man ruled by lust picks a wife with the one part of him that can't see character.
 
 ## How a free man chooses {-}
 
@@ -50,7 +50,7 @@ A free man has two advantages. He isn't hungry, so he can walk away from the wro
 
 Watch for these. Does she tell the truth when it costs her? How does she speak about people who can do nothing for her? Does she want the same life you want, in children, in faith, in money, and in where to live? Can she say sorry? Can you? Do you like her at breakfast, with nothing to gain?
 
-Then remember that she is choosing too. Her risks are not the same as yours, and they are real. So be a man that such a woman would bet on.
+She's choosing too. Her risks aren't the same as yours, and they're real. So be a man that such a woman would bet on.
 
 Nobody can promise you a wife. But a man who keeps his word, who wants one woman, and who isn't looking over her shoulder is rare.
 

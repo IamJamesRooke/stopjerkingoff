@@ -4,25 +4,25 @@
 >
 > — Matthew 6:33
 
-Men on the Willpower Method are always short of motivation, so they manufacture some. They bolt a prize onto the end of quitting and hope the prize will drag them through.
+Men on the Willpower Method are always short of motivation, so they manufacture some. They bolt a prize onto the end of quitting and hope it'll drag them through.
 
-The plainest version is the bribe: "If I get to the end of the month, I'll buy myself those sneakers." It sounds sensible. But be honest. Would any man in the trap swap his nightly comfort for a pair of shoes? The bribe tells him two things. The month ahead is something to be endured, and what he's leaving behind is worth paying him for. The sacrifice has just gotten bigger in his mind.
+The plainest version is the bribe: "If I get to the end of the month, I'll buy myself those sneakers." Sounds sensible. But be honest. Would any man in the trap swap his nightly comfort for a pair of shoes? The bribe tells him two things. The month ahead is something to endure, and what he's leaving is worth paying him for. The sacrifice just got bigger in his mind.
 
-The internet has built grander prizes than sneakers. Here are the three you're most likely to meet.
+The internet has built grander prizes than sneakers. Here are the three you'll meet most.
 
 ## 1. The superpowers {-}
 
 Spend an evening on the NoFap forums. You'll be promised a deeper voice, clear skin, an "aura", and women drawn across the room by forces unknown.
 
-None of it is proven, and the hype does its damage right here. You stop. Day twelve arrives. You inspect the mirror and find the same face. The barista hasn't noticed a thing. Then comes the whisper: "It isn't working. You gave it up for nothing." You were promised wages, the wages didn't come, and you go back to the old job.
+None of it's proven, and the hype does its damage right here. You stop. Day twelve arrives. You check the mirror and it's the same face. The barista hasn't noticed a thing. Then comes the whisper: "It isn't working. You gave it up for nothing." You were promised wages, the wages didn't come, and you go back to the old job.
 
-One man, ninety days free, said the wisest thing on the subject. The so-called superpowers, he wrote, are just the qualities a man would have if he weren't hooked. They're what a man is like when nothing is draining him.
+One man, ninety days free, said the wisest thing on the subject. The so-called superpowers, he wrote, are just the qualities a man would have if he weren't hooked. It's what a man is like when nothing's draining him.
 
 ## 2. "I'll quit to get women" {-}
 
 A close cousin. The pitch is that the energy you save becomes the fuel that gets you the girl. In one fitness coach's words, that energy "is what's going to drive you to get the woman you want".
 
-This doesn't evict the Little Monster. It moves him down the hall, from the look to the chase. Jesus didn't say to harness the look. He said the look was already the sin. You're still treating women as the prize and your own desire as the boss. And it sets a trap that catches you win or lose. Suppose you don't get the girl. Then you're miserable, quitting "failed", and you know where you go for comfort. Suppose you do get her. Then the incentive has been paid out and there's nothing left holding you.
+This doesn't evict the Little Monster. It moves him down the hall, from the look to the chase. Jesus didn't say to harness the look. He said the look was already the sin. You're still treating women as the prize and your own desire as the boss. And the trap catches you win or lose. Don't get the girl, and you're miserable, quitting has "failed", and you know where you go for comfort. Get her, and the incentive's been paid out and nothing's left holding you.
 
 Either way you're back.
 
@@ -36,17 +36,17 @@ The group version is the pact: six men in a chat, all starting on Monday. When o
 
 ## Why none of them work {-}
 
-Every one of these makes the same mistake. It ties stopping to a payment. If the payment doesn't arrive, you feel cheated. If it does arrive, the novelty wears off and you feel deprived. In both cases you start asking, "Is this really making my life better? Did I do it wrong?" Doubt like that is what urges are made of.
+Every one of these makes the same mistake. It ties stopping to a payment. No payment, you feel cheated. Payment arrives, the novelty wears off and you feel deprived. Either way you start asking, "Is this really making my life better? Did I do it wrong?" Doubt like that is what urges are made of.
 
-The real costs are already enormous: years of evenings, a foggy head, a conscience you can't look at, a word you can't keep. If those haven't stopped you, a badge and a pair of sneakers won't. All a phony prize can do is make the sacrifice look bigger.
+The real costs are already enormous: years of evenings, a foggy head, a conscience you can't look at, a word you can't keep. If those haven't stopped you, a badge and a pair of sneakers won't. A phony prize only makes the sacrifice look bigger.
 
 So ask the plain questions about the habit itself. What is it doing for me? Nothing. Why do I need it? I don't. I'm only punishing myself.
 
-Will good things follow? Very likely. Men report more energy, more nerve and clearer heads. But those are a bonus. Jesus put it in the right order: "seek first God's Kingdom and his righteousness; and all these things will be given to you as well." Seek the other things first and you get neither. A man may well stop and be single and broke a year later. He'll still be free, and he still won't miss it.
+Will good things follow? Very likely. Men report more energy, more nerve and clearer heads. But that's a bonus. Jesus put it in the right order: "seek first God's Kingdom and his righteousness; and all these things will be given to you as well." Seek the other things first and you get neither. A man may well stop and be single and broke a year later. He'll still be free, and he still won't miss it.
 
 A man on the NoFap forum got there after seventy-six days and wrote the sentence all of this has been aiming at: "I realize I do not need a why anymore."
 
-So there is no prize, no badge and no bargain. What is left is the easy way, and it has two instructions.
+No prize, no badge, no bargain. What's left is the easy way, and it has two instructions.
 
 <!-- SOURCES (Chapter 20): every quote below is from the research files; check each against its page before publishing.
 - "And this is literally proven, right? If you do NOFAP, you're going to be attractive." — FitXFearless, "Nofap made me more attractive (here's why)", https://www.youtube.com/watch?v=mBgA7jORnXU (auto-captions; research/transcripts/fitxfearless-mBgA7jORnXU.md)

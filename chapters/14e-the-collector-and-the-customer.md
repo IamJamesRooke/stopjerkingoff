@@ -1,38 +1,38 @@
 # The Collector and the Customer {#the-collector-and-the-customer}
 
-The first man keeps count. The second man pays. Look at them closely, because each has an "at least", and each believes it.
+The first man keeps count. The second man pays. Each has an "at least", and each believes it.
 
 ## The collector {-}
 
-The collector's "at least" is that he needs no screen. Real women want him. And he keeps a number. He wouldn't tell his mother what it is, but he knows it exactly. He compares it with other men's, the way boys compare scores.
+The collector's "at least" is that he needs no screen. Real women want him. And he keeps a number. He wouldn't tell his mother what it is, but he knows it exactly, and he checks it against other men's like a boy comparing scores.
 
-Ask him about the women and something odd comes out. He didn't like half of them. Some he wasn't even attracted to. He slept with them anyway, because each one moved the number up. And the number told him something he badly needed to hear: women want you, so you must be somebody.
+Ask him about the women and something odd comes out. He didn't like half of them. Some he wasn't even attracted to. He slept with them anyway, because each one moved the number up, and the number told him what he badly needed to hear: women want you, so you must be somebody.
 
-That isn't confidence. It's a man so unsure of his worth that he needs a new woman every few days to vote on it.
+That isn't confidence. That's a man so unsure of his worth he needs a new woman every few days to vote on it.
 
-Picture a man at a buffet for the first time. He stacks plate after plate. He paid a lot to get in and he may never be back, so he takes everything. Now watch the wealthy man at the same buffet. He takes what he wants and leaves the rest. He isn't afraid it will run out. The man who takes every woman who offers is not the rich man in that room. He's the hungry one.
+Picture a man at a buffet for the first time. He stacks plate after plate. He paid a lot to get in and may never be back, so he takes everything. Now watch the wealthy man at the same buffet. He takes what he wants and leaves the rest. He's not afraid it'll run out. The man who takes every woman who offers isn't the rich man in that room. He's the hungry one.
 
 ![](images/illustrations/collector-the-buffet.png){.illustration width=80%}
 
 ## The customer {-}
 
-A man who pays a monthly fee for a woman's private pictures is already a customer. So is the man at the strip club. This man has gone one step further.
+The man who pays a monthly fee for a woman's private pictures is already a customer. So is the man at the strip club. This one has gone a step further.
 
-He buys it in person, and his "at least" is that it's honest. For him it may be an escort, a back room, or a cheap flight to a place where nobody knows him. He pays a fair price, he says, and they are two adults. But he can't know whether she chose this. In every country police keep finding women in this trade who are held there. A debt holds them, or a threat, or a passport locked in someone else's drawer. And he can't know her age.
+He buys it in person, and his "at least" is that it's honest. An escort, a back room, a cheap flight to a place where nobody knows him. He pays a fair price, he says, and they're two adults. But he can't know whether she chose this. In every country police keep finding women in this trade who are held there. A debt holds them, or a threat, or a passport locked in someone else's drawer. And he can't know her age.
 
-And for all that, he buys the same ten minutes and the same flat feeling, at a higher price. Ask him about the minute after. He has paid a stranger, and what he wants most is for her to go. It is the porn habit with the screen taken away. The man who watches porn is already a customer. This man has only walked up to the counter.
+For all that, he buys the same ten minutes and the same flat feeling, at a higher price. Ask him about the minute after. He's paid a stranger, and what he wants most is for her to go. It's the porn habit with the screen taken away. The man who watches porn is already a customer. This one just walked up to the counter.
 
 ## The married man who strays {-}
 
-One more man belongs here. He has a wife, and he took a woman who wasn't her. He has an "at least" too, and it is usually "it only happened once".
+One more man belongs here. He has a wife, and he took a woman who wasn't her. His "at least" is usually "it only happened once".
 
-Once is not a small number here. His wife was promised all of him, so once is the whole promise broken. He knows it, and that is why he has told nobody.
+Once isn't small here. His wife was promised all of him, so once is the whole promise broken. He knows it. That's why he's told nobody.
 
-He is not a different kind of man from the others in this book. He looked, he thought, he chased, and one night the chance came. If that is you, and it is still going on, end it today. That one can't wait for the last page, because someone else is paying for it. Then keep reading. The way out is open to you too, and it goes through the truth.
+He's no different from the others in this book. He looked, he thought, he chased, and one night the chance came. If that's you, and it's still going on, end it today. That can't wait for the last page, because someone else is paying for it. Then keep reading. The way out is open to you too, and it goes through the truth.
 
-So that is the collector, the customer and the stray. Each of them took a woman he never meant to keep.
+That's the collector, the customer and the stray. Each of them took a woman he never meant to keep.
 
-The Little Monster has one room left to retreat to. Before it, one question has to be settled, and you have been circling it for a long time. Where exactly is the line?
+The Little Monster has one room left to retreat to. Before it, one question has to be settled, and you've been circling it for a long time. Where exactly is the line?
 
 <!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md): NEW CHAPTER for the fifth head, Take. 'The collector' is moved unchanged from 'At Least I'm Not Him' (an illustration, not a testimony; see the notes in 14-types-of-user.md). 'The customer' is the Ladder's long 'man who buys it in person' bullet, moved, with a new first sentence; its facts were checked 2026-11-19 (research/round8/findings.md). New: the opening on the ordinary hookup, and the three sentences on the married man who strays. No new quotations or statistics. -->
 

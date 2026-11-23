@@ -13,23 +13,23 @@ For a few weeks after you stop, you may feel an occasional urge. Urges come in t
 
 Take the man on the couch, the week after his last time.
 
-Monday he gets into bed and the old cue goes off on schedule, like a bell. He lies there. It is a little like wanting to sneeze. He doesn't argue with it and he doesn't feed it. Twenty minutes later he is asleep.
+Monday he gets into bed and the old cue goes off on schedule, like a bell. He lies there. It's a little like wanting to sneeze. He doesn't argue with it and he doesn't feed it. Twenty minutes later he's asleep.
 
-Tuesday is nothing at all. He is almost offended.
+Tuesday is nothing at all. He's almost offended.
 
-Wednesday he wakes up hard, and the old thought arrives with the alarm. He gets up and puts the kettle on. By the time it boils, the thought has gone.
+Wednesday he wakes up hard, and the old thought arrives with the alarm. He gets up and puts the kettle on. By the time it boils, the thought's gone.
 
-Thursday is a bad day at work, the kind he used to carry home and settle at midnight. He carries it home. At eleven it is still a bad day, and no worse than it would have been. He goes to bed annoyed and wakes up fine, with nothing to delete.
+Thursday is a bad day at work, the kind he used to carry home and settle at midnight. He carries it home. At eleven it's still a bad day, and no worse than it would've been. He goes to bed annoyed and wakes up fine, with nothing to delete.
 
 Friday his wife takes the children to her mother's, and the house goes quiet at eight. For fifteen years that quiet was a starting gun. He puts on a film. He notices the empty house at ten, when the film ends and he gets up to lock the door.
 
 Saturday the bell rings in the shower for a minute or two, fainter, like a caller who already expects no answer. On Sunday he can't remember whether it rang.
 
-Nothing in that week took courage. A bell rang a few times and nobody got up. Your week won't be his, day for day. But it will be made of the same two things. Take them one at a time.
+Nothing in that week took courage. A bell rang a few times and nobody got up. Your week won't match his day for day, but it'll be made of the same two things. Take them one at a time.
 
 ## The leftover itch {-}
 
-The leftover itch involves no pain at all. Think of going without lunch. Your stomach grumbles and you get a bit short with people, but nothing hurts. The itch is milder than that, with one difference: your body needs lunch, and it doesn't need this. In a man who isn't moping, the itch fades quickly and is gone for good. The Little Monster has the staying power of a toddler at bedtime. He is loud, then quiet, then asleep.
+The leftover itch involves no pain at all. Think of skipping lunch. Your stomach grumbles and you get short with people, but nothing hurts. The itch is milder, and your body needs lunch but doesn't need this. In a man who isn't moping, the itch fades fast and is gone for good. The Little Monster has the staying power of a toddler at bedtime. He's loud, then quiet, then asleep.
 
 Men on the Willpower Method get through this part too. The itch isn't what brings them down. The cues do.
 
@@ -37,37 +37,37 @@ Men on the Willpower Method get through this part too. The itch isn't what bring
 
 For years you've answered the itch at set times and in set places, so the places themselves now ring the bell. "I'm in bed, so it's time." "I've woken up hard, so I must." "Everyone's out."
 
-You'll know this from changing cars. In the old one the turn signal was on the left. In the new one it's on the right. You know that perfectly well, and for two weeks you still switch on the wipers at every intersection.
+You know this from changing cars. In the old one the turn signal was on the left. In the new one it's on the right. You know that perfectly well, and for two weeks you still switch on the wipers at every intersection.
 
-Nothing is wrong with you or with the car. It's an old groove, and it wears out quickly as long as you don't treat each misfire as a crisis. When the bell rings in the first days, you'll think, "This is when I'd normally do it." That's all the thought is. A cue is a reminder, and it can't give you orders.
+Nothing's wrong with you or the car. It's an old groove, and it wears out fast if you don't treat each misfire as a crisis. When the bell rings in the first days, you'll think, "This is when I'd normally do it." That's all it is. A cue is a reminder, and it can't give you orders.
 
 A recovery coach found out how little a cue can do when it's left alone. An urge hit him as he walked home from the gym. He didn't argue with it and he didn't obey it, and by the time he got home it had passed. His whole method is to do nothing, and he reports that the urge "fades after maybe a minute or two". Dr. Kanojia gives his patients the same instruction: "The main thing that you have to do is nothing".
 
-Here the two methods part. The willpower man believes he's made a sacrifice, so every ring of the bell reminds him of his loss. He sits moping and waiting for the urges to stop, which is the surest way to keep them coming. The man who stopped in order to gain superpowers is worse off. He's been checking daily for his transformation. He tells himself a real man wouldn't be having these thoughts at all. So every stray thought becomes proof that he's failing. Both men are making the bell louder.
+Now compare two men. The willpower man believes he's made a sacrifice, so every ring of the bell reminds him of his loss. He sits moping and waiting for the urges to stop, which is the surest way to keep them coming. The man who stopped to gain superpowers is worse off. He's been checking daily for his transformation. He tells himself a real man wouldn't be having these thoughts at all, so every stray thought becomes proof he's failing. Both men are making the bell louder.
 
 ## On the worst night {-}
 
-One bell is louder than all the others, and it may ring years from now. Picture a man who has been free for years. His father dies. Some fool tells him, "Go on, just tonight, it'll help you through." Suppose he does. The habit can't calm him, because he has no itch for it to relieve. At best he gets a few seconds that feel good and five minutes of distraction. A walk or a bad movie would have done as well. Then the grief is still there, and he's added shame to it and let the Little Monster back in. Tomorrow night he has a choice he didn't have before: put up with the itch or feed it. Many a free man has gone back in through that door.
+One bell is louder than all the others, and it may ring years from now. Picture a man who's been free for years. His father dies. Some fool tells him, "Go on, just tonight, it'll help you through." Suppose he does. The habit can't calm him, because he has no itch for it to relieve. At best he gets a few seconds that feel good and five minutes of distraction. A walk or a bad movie would've done as well. Then the grief is still there, plus shame, and the Little Monster is back in the house. Tomorrow night he has a choice he didn't have before: put up with the itch or feed it. Many a free man has gone back in through that door.
 
 So settle it now. You don't need the habit on the good nights or on the worst night of your life. It was never a crutch.
 
 ## "Isn't it marvelous?" {-}
 
-Whichever kind of urge turns up, accept it. The feeling itself isn't bad. What hurts is *wanting something and believing you're denied it*. So don't mope. Name it:
+Whichever kind of urge turns up, accept it. The feeling isn't bad. What hurts is *wanting something and believing you're denied it*. So don't mope. Name it:
 
 "I know what this is. It's the Little Monster dying. Men in the trap live with this every day of their lives. Free men don't have it. ISN'T IT MARVELOUS that I'm nearly rid of it?"
 
 For a few weeks there'll be a small disturbance in you, and all through those weeks something wonderful is happening. You're starving the Little Monster, and the old lies will try every trick to get him fed. One will catch you off guard, when something flashes up on your feed and for a second you forget you've stopped. Each trick you see through leaves them weaker.
 
-Paul says two things about these moments. "No temptation has taken you except what is common to man", so you're not a special case. And "God is faithful", he says, and will "make the way of escape". So there is always a way out. Usually the way out is simply to let the moment pass.
+Paul says two things about these moments. "No temptation has taken you except what is common to man", so you're not a special case. And "God is faithful", he says, and will "make the way of escape". So there's always a way out. Usually it's simply to let the moment pass.
 
-If you're a Christian, take one more thing to heart. It is not a sin to be tempted. Look at Jesus. The letter to the Hebrews says he was tempted in every way, as we are, and did not sin. An urge that turns up uninvited is weather. It says nothing about you.
+If you're a Christian, take one more thing to heart. It's not a sin to be tempted. Look at Jesus. The letter to the Hebrews says he was tempted in every way, as we are, and did not sin. An urge that turns up uninvited is weather. It says nothing about you.
 
-**Don't try not to think about it.** Willpower men spend their days trying to forget. That works about as well as trying to fall asleep by worrying about being awake. You can't forget in the first few days anyway. The Little Monster will remind you, and so will every billboard. You don't need to forget, because nothing bad is happening. If it crosses your mind a hundred times a day, enjoy it a hundred times: *I'm free.* You'll be surprised how soon you stop thinking of it at all.
+**Don't try not to think about it.** Willpower men spend their days trying to forget. That works about as well as trying to fall asleep by worrying about being awake. You can't forget in the first few days anyway. The Little Monster will remind you, and so will every billboard. And you don't need to, because nothing bad is happening. If it crosses your mind a hundred times a day, enjoy it a hundred times: *I'm free.* You'll be surprised how soon you stop thinking of it at all.
 
-**Don't doubt your decision.** Doubt comes first, then moping, then the slide. If you catch yourself feeling low, remember that the habit caused most of the lowness you knew. If you are still low weeks from now, that is a different problem, and a doctor is the person to see. If a friend sends you something, be glad to say, "I don't bother with that anymore."
+**Don't doubt your decision.** Doubt comes first, then moping, then the slide. If you catch yourself feeling low, remember that the habit caused most of the lowness you knew. If you're still low weeks from now, that's a different problem, and a doctor is the person to see. If a friend sends you something, be glad to say, "I don't bother with that anymore."
 
-You had strong reasons for stopping, and now is the time to take them down off the shelf. Remember the years, the fog, the secrecy and the distance from God. A voice will tell you they weren't so bad.
+You had strong reasons for stopping, and now's the time to take them down off the shelf. Remember the years, the fog, the secrecy and the distance from God. A voice will tell you they weren't so bad.
 
 You know that voice very well. It sounds like your own.
 

@@ -4,71 +4,71 @@
 >
 > — Proverbs 7:22
 
-A man on the chase thinks he is doing the leading. He has it backward. The problem is very old, and it comes down to one sentence.
+A man on the chase thinks he's doing the leading. He's got it backward. It fits in one sentence.
 
 **A man ruled by what he wants ends up ruled by whoever can give it to him.**
 
-Think of his wanting as a lever that sticks out of him. Anyone who takes hold of it can move him.
+Think of his wanting as a lever sticking out of him. Anyone who grabs it can steer him.
 
 ## Whoever knows what he wants {-}
 
-The lever doesn't care whose hand is on it. A woman can pull it, and so can anyone else who knows what he wants.
+The lever doesn't care whose hand is on it. Anyone who knows what he wants can pull it.
 
-The man who makes advertisements knows. That is why a pretty girl is leaning on the car. The stranger who writes to him out of nowhere knows. In her pictures she is young and lovely, and she thinks he is wonderful. After three weeks she has a trouble that only his money can fix. Very often "she" is a man at a desk, working from a script. Governments know it too. The cheapest way to get a secret has always been to send a pretty woman to the man who keeps it.
+The advertiser knows. That's why a pretty girl is leaning on the car. The stranger who writes to him out of nowhere knows. In her pictures she's young and lovely, and she thinks he's wonderful. After three weeks she has a trouble only his money can fix. Very often "she" is a man at a desk, reading from a script. Governments know it too. The cheapest way to get a secret has always been to send a pretty woman to the man who keeps it.
 
-None of these people is stronger or cleverer than he is. They don't need to be. They only need to know where the lever is.
+None of them is stronger or smarter than he is. They just know where the lever is.
 
 ## The strongest man in the Bible {-}
 
-None of this is new. The oldest full account is in the book of Judges, and it is about a man named Samson. He was the strongest man in the Bible. God gave him that strength to free his people from their enemies, the Philistines, and no army could hold him. His weakness was women, and his enemies knew it. He fell in love with a woman named Delilah, and the Philistine rulers came to her with an offer. "Entice him, and see in which his great strength lies." Each of them promised her eleven hundred pieces of silver.
+None of this is new. The oldest full account is in the book of Judges, and it's about a man named Samson, the strongest man in the Bible. God gave him that strength to free his people from their enemies, the Philistines, and no army could hold him. His weakness was women, and his enemies knew it. He fell in love with a woman named Delilah, and the Philistine rulers came to her with an offer. "Entice him, and see in which his great strength lies." Each of them promised her eleven hundred pieces of silver.
 
-Three times she asked him for his secret. Three times he told her a lie, and each time she tried it on him with armed men hiding in the next room.
+Three times she asked him for his secret. Three times he lied, and three times she tried it on him with armed men hiding in the next room.
 
-Stop there and look at him. Three times this woman has tried to hand him to men who want him dead. He knows it. And he stays. A man with his wits about him takes the hint after one ambush. That is what lust does to a strong man's judgment. He isn't fooled. He just can't leave.
+Stop and look at him. Three times this woman has tried to hand him over to men who want him dead. He knows it. And he stays. Anybody with his wits about him takes the hint after one ambush. That's lust. He isn't fooled. He just can't leave.
 
 Then she used the oldest line there is. "How can you say, 'I love you,' when your heart is not with me?" She "pressed him daily with her words" until he was worn out, and at last he told her the truth. His strength was tied to a vow of dedication to God, and its sign was that his hair had never been cut. She put him to sleep on her knees, called a man to shave his head, and collected her silver.
 
-He woke up sure that he would shake himself free as before. "But he didn't know that the LORD had departed from him." The Philistines put out his eyes, the eyes that had led him all his life, "and he ground at the mill in the prison".
+He woke up sure he'd shake himself free like always. "But he didn't know that the LORD had departed from him." The Philistines put out his eyes, the eyes that had led him all his life, "and he ground at the mill in the prison".
 
-That is not quite the end. His hair grew again, and on his last day, blind and brought out to be laughed at, he prayed, and God heard him. A ruined man can still be heard. But he never got back his sight, or the wasted years.
+That's not quite the end. His hair grew again, and on his last day, blind and brought out to be laughed at, he prayed, and God heard him. A ruined man can still be heard. But he never got back his sight, or the wasted years.
 
-Notice where the story puts the blame. Delilah sold him for silver, and that was treachery. But nobody took his secret from him. He gave it away.
+Notice where the story puts the blame. Delilah sold him for silver, and that was treachery. But nobody took his secret. He gave it away.
 
 ## The king who sulked {-}
 
-One more old story, and a short one. What King Ahab wanted was a vineyard, not a woman. Watch him anyway, because the lever is the same.
+One more old story, and a short one. King Ahab wanted a vineyard, not a woman. Watch him anyway, because the lever's the same.
 
-The owner of the vineyard wouldn't sell. So the king went home. He "laid himself down on his bed, and turned away his face, and would eat no bread." His wife, Jezebel, found him sulking. "I will give you the vineyard", she said. She wrote letters in his name, sealed them with his seal, and had the owner killed.
+The owner wouldn't sell. So the king went home. He "laid himself down on his bed, and turned away his face, and would eat no bread." His wife, Jezebel, found him sulking. "I will give you the vineyard", she said. She wrote letters in his name, sealed them with his seal, and had the owner killed.
 
-Ahab asked no questions. The plan was hers. But it was his name on the letters and his seal in the wax. A man who is being given what he wants doesn't ask how. The Bible's verdict on him is that he "sold himself".
+Ahab asked no questions. The plan was hers, but it was his name on the letters and his seal in the wax. A man being handed what he wants doesn't ask how. The Bible's verdict on him is that he "sold himself".
 
 Mark Driscoll, an American pastor, gives the men of his church a short rule drawn from that marriage: "If you tolerate, they will dominate." Ahab tolerated everything, because his silence had been paid for.
 
-There is a simple way to find out whether you are Ahab. Say no to something, kindly and plainly, and see what it costs you. Perhaps you already know what it will cost, and that is why you haven't said it in years. Then someone has a hand on the lever.
+Here's a simple way to find out if you're Ahab. Say no to something, kindly and plainly, and see what it costs you. Maybe you already know, and that's why you haven't said it in years. Then someone has a hand on the lever.
 
 ## The free man in the room {-}
 
 So what does a man look like with the lever gone? Put him in a room full of women, at any party.
 
-He can still see that a woman is beautiful. Her beauty just stops deciding anything. He doesn't buy the drink or laugh at the joke that wasn't funny. He doesn't give her the favor, the job or the last word because of her face. He treats her as he treats everyone else, which is fairly.
+He can still see that a woman is beautiful. Her beauty just stops deciding things. He doesn't buy the drink or laugh at the joke that wasn't funny. He doesn't give her the favor, the job or the last word because of her face. He treats her like he treats everyone else, which is fairly.
 
-That is better for him. He keeps his money, his judgment and his self-respect. It is better for her too, because she is treated as a person. And it is better for the plain woman standing beside her, whom men on the hunt have looked straight through all her life.
+That's better for him. He keeps his money, his judgment and his self-respect. It's better for her, because she's treated as a person. And it's better for the plain woman standing beside her, whom men on the hunt have looked straight through all her life.
 
 ## At home {-}
 
 That freedom matters most at home, with his wife.
 
-There is a husband who gives in on everything and never says a hard word. It looks like kindness. It is fear. He wants her, and he is afraid of what an honest sentence might cost him. Sometimes a wife knows that and uses it. Far more often she has no idea, and only wonders why he never tells her what he thinks. Either way, he can't change her. What he can change is whether the lever works.
+There's a husband who gives in on everything and never says a hard word. It looks like kindness. It's fear. He wants her, and he's scared one honest sentence will cost him. Sometimes a wife knows that and uses it. Far more often she has no idea, and just wonders why he never says what he thinks. Either way, he can't change her. He can change whether the lever works.
 
-Sex is not the only lever in a marriage. The law hands a wife a second one, and many husbands keep quiet because of it. That lever is real, and it gets its turn.
+Sex isn't the only lever in a marriage. The law hands a wife a second one, and many husbands keep quiet because of it. That lever is real, and it gets its turn.
 
-Now take the husband whose lust no longer runs him. He can say, quite calmly, "That isn't right, and I won't go along with it." He isn't being cold, and he isn't punishing her. He still loves her, and he still wants her. But he can't be bought with sex or starved by the lack of it, so he is free to tell her the truth. That is better for her as well. She can trust his yes, because he can say no.
+Now take the husband whose lust no longer runs him. He can say, quite calmly, "That isn't right, and I won't go along with it." He isn't cold, and he isn't punishing her. He still loves her and still wants her. But he can't be bought with sex or starved without it, so he's free to tell her the truth. That's better for her too. She can trust his yes, because he can say no.
 
-Samson was a strong man and Ahab was a king, and neither could say no. This man is neither. He is only free, and that turns out to be the one thing that matters. Nobody can lead him by what he wants, because it no longer leads him.
+Samson was strong and Ahab was a king, and neither could say no. This man is neither. He's only free, and that turns out to be the one thing that matters. Nobody can lead him by what he wants, because it no longer leads him.
 
-No vow is asked at this door either. If you have seen who was holding the lead, you may find you have already put it down.
+No vow is asked at this door either. If you've seen who was holding the lead, you may find you've already put it down.
 
-That is the chase. And the chase has only ever been going to one place.
+That's the chase. And the chase has only ever been going to one place.
 
 <!-- SOURCES (The Man Led by a Woman). New chapter 2026-11-19, split out of 'Every Man in the Trap' at James's word. Closing paragraph is the book's own.
 - Epigraph: Proverbs 7:22 (WEB), part; checked against the WEB text 2026-11-19.

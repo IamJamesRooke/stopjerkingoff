@@ -10,45 +10,45 @@ The first week you masturbated as a boy, you locked the door. Nobody taught you 
 
 You knew.
 
-Nobody has ever called it a social habit. You don't do it at a dinner party. It may be the most private thing you do, and that privacy is what keeps it going.
+Nobody calls it a social habit. You don't do it at a dinner party. It may be the most private thing you do, and that privacy is what keeps it going.
 
 The rest of lust lives the same way. Nobody watches porn with the family in the room. And the messages a man sends to a woman he shouldn't be writing to are the ones he deletes.
 
 ## The work of hiding {-}
 
-Look at what the locked door costs a grown man on an ordinary evening.
+Here's what the locked door costs a grown man on an ordinary evening.
 
-He is on the couch beside his wife, and his phone lies face down on the cushion. It is always face down. She reaches across and picks it up to check the time, and something in his chest jumps before he can stop it.
+He's on the couch beside his wife, and his phone lies face down on the cushion. It's always face down. She reaches across and picks it up to check the time, and something in his chest jumps before he can stop it.
 
-There is nothing on the screen. He cleared it an hour ago, as he clears it every night. He runs the checklist in his head anyway. The history. The other tab. The folder with the dull name.
+There's nothing on the screen. He cleared it an hour ago, as he clears it every night. He runs the checklist in his head anyway. The history. The other tab. The folder with the dull name.
 
 She hands the phone back and says it's nearly ten. He says he might stay up a while.
 
-Nothing happened, and nobody was caught. But for one minute of his evening he was a man standing guard in his own house. He does that minute twenty times a day, and he has done it for fifteen years. He no longer notices that it is work.
+Nothing happened, and nobody was caught. But for one minute he was a guard standing watch in his own house. He pulls that shift twenty times a day, and he's done it for fifteen years. He no longer notices it's work.
 
 ## What the secret does {-}
 
-That is what the secret costs in one evening. Over the years it does four things.
+That's one evening. Over the years the secret does four things.
 
 **It makes every man think he's the only one.** He assumes the men around him are clean, and they assume the same of him. Five minutes of honest talk would break the spell. One young man wrote of his own years of believing it: "I harboured a wrong notion that I was the only guy with these special problems."
 
 **It protects the lies.** A lie kept in your head never has to face a question. Said aloud, it sounds as thin as it is. Try telling another grown man, with a straight face, "I need this in order to sleep."
 
-**It splits you in two.** There's the man people meet, and there's the man behind the door. The first spends a lot of energy making sure nobody meets the second. And the wall doesn't hold. What a man does in private comes out in public. C.S. Lewis wrote that "almost the main work of life is to come out of our selves, out of the little dark prison we are all born in." A secret is that prison with the bolt on the inside.
+**It splits you in two.** There's the man people meet, and there's the man behind the door. The first spends his energy making sure nobody meets the second. The wall doesn't hold. What a man does in private comes out in public. C.S. Lewis wrote that "almost the main work of life is to come out of our selves, out of the little dark prison we are all born in." A secret is that prison with the bolt on the inside.
 
-**It sets you against your own side.** A secret has to be guarded against somebody. This one is guarded against the people who are for you: your wife, your friends, your children. That is a small disloyalty, repeated every day. The free man is finished with it. He is on the same side as the people who love him.
+**It sets you against your own side.** A secret has to be guarded against somebody. This one is guarded against the people who are for you: your wife, your friends, your children. That's a small disloyalty, repeated every day. The free man is done with it. He's on the same side as the people who love him.
 
 A man with a secret can't be fully known. And he never feels fully loved, because he's always thinking, "You wouldn't say that if you knew."
 
 ## The man at the front of the church {-}
 
-One man lives that harder than anyone. He serves on the welcome team, leads a small group, perhaps plays in the band. He has masturbated since he was fourteen and has never said one word about it to a living soul.
+One man feels that harder than anyone. He serves on the welcome team, leads a small group, perhaps plays in the band. He's masturbated since he was fourteen and has never said one word about it to a living soul.
 
-On Sunday he's at the front with his hands raised. On Saturday night he was where he always is. He has confessed it so many times, in the same words, that he's embarrassed to bring it up with God again. So he has stopped bringing it up, and after a while he has stopped bringing up much else.
+On Sunday he's at the front with his hands raised. On Saturday night he was where he always is. He's confessed it so many times, in the same words, that he's embarrassed to bring it up with God again. So he's stopped bringing it up, and after a while, much else too.
 
 Peter once asked Jesus how many times he had to forgive his brother. Seven times? Jesus said seventy times seven. On that teaching, God holds himself to no lower standard than the one he gave Peter.
 
-The secret leaks into everything he might have done. He turns down the mission trip, lets someone else lead, and never says why. He is enlisted, and he keeps reporting sick.
+The secret leaks into everything. He turns down the mission trip, lets someone else lead, and never says why. He's enlisted, and he keeps reporting sick.
 
 ## Into the light {-}
 
@@ -60,23 +60,21 @@ You've been bringing it into the light since the first line of this book. Every 
 
 ## Say it aloud {-}
 
-Doug Weiss is an American therapist who was caught by this habit as a young man. He says he has been free of it for nearly forty years, and he has spent those years helping other men out. He puts the rule in one sentence: "Masturbation is a secret and as long as it stays a secret, you will probably not get better." He isn't theorizing. His own freedom began the day he said it aloud to another student: "the first step in that process was telling my roommate when I was in school. And from that moment on, it started to break off my life."
+Doug Weiss is an American therapist who was caught by this habit as a young man. He says he's been free of it for nearly forty years, and he's spent those years helping other men out. His rule, in one sentence: "Masturbation is a secret and as long as it stays a secret, you will probably not get better." He isn't theorizing. His freedom began the day he said it aloud to another student: "the first step in that process was telling my roommate when I was in school. And from that moment on, it started to break off my life."
 
 A man is only as strong as he is honest.
 
 ## Fear is not sorrow {-}
 
-Watch for a counterfeit. Most men with this secret live in dread of being found out, and they take the dread for a conscience. It isn't one. It's the habit guarding itself.
+Watch for a counterfeit. Most men with this secret live in dread of being found out, and they take the dread for a conscience. It's not one. It's the habit guarding itself.
 
 Paul drew the line in a letter to the church at Corinth: "godly sorrow produces repentance to salvation, which brings no regret. But the sorrow of the world produces death." Godly sorrow is the regret that turns a man around. The other kind is only sorry about what it might cost him. One test tells them apart. Godly sorrow isn't afraid of who finds out.
 
 ## Whom to tell, and when {-}
 
-There is an order to the telling.
+There's an order to the telling. Start today with the two who already know. Stop hiding it from yourself, and stop hiding it from God. If you believe, he's seen every time, and he hasn't left. If you're not a believer, say the plain facts aloud in an empty room, and notice how much smaller they sound.
 
-Start today with the two who already know. Stop hiding it from yourself, and stop hiding it from God. If you believe, he has seen every time, and he hasn't left. If you're not a believer, say the plain facts aloud in an empty room, and notice how much smaller they sound.
-
-The third person comes after you have stopped, and not before. He hears it from a free man who is finished with a secret, not from a man asking for a guard.
+The third person comes after you've stopped, and not before. He hears it from a free man who's finished with a secret, not from a man asking for a guard.
 
 Men walk out into the light every day. The door was only ever locked from the inside.
 

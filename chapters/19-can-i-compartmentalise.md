@@ -6,31 +6,31 @@
 
 This is the myth of the back room. The Little Monster stays in there, and the rest of the house is yours.
 
-It's spread mostly by men who are trying to stop by willpower. They can't stop, so they need a story that lets them carry on. The story goes: "That's my private side. It has nothing to do with my marriage, my faith or the man I am at work. I keep it in its box." You may know the old story of Dr. Jekyll, the respectable doctor who drinks a potion and turns into the brutal Mr. Hyde at night. Dr. Jekyll coaches the kids' team on Saturday morning. Mr. Hyde has the phone at midnight. The two never meet.
+Men trying to stop by willpower spread it. They can't stop, so they need a story that lets them carry on. "That's my private side. It has nothing to do with my marriage, my faith or the man I am at work. I keep it in its box." You may know the old story of Dr. Jekyll, the respectable doctor who drinks a potion and turns into the brutal Mr. Hyde at night. Dr. Jekyll coaches the kids' team on Saturday morning. Mr. Hyde has the phone at midnight. The two never meet.
 
-It's a neat picture, and it is false from start to finish. In Robert Louis Stevenson's book, Hyde doesn't stay in his room. He gets stronger every time he's let out, and by the end he's turning up without being called. Yours gets no stronger, but he doesn't stay in his room either. You have watched him move down the hall, from room to room. There's only one man in that story, and there's only one of you.
+Neat picture. False from start to finish. In Robert Louis Stevenson's book, Hyde doesn't stay in his room. He gets stronger every time he's let out, and by the end he's turning up uninvited. Yours doesn't get stronger, but he won't stay in his room either. You've watched him move down the hall, room by room. There's only one man in that story, and there's only one of you.
 
 ## What you're rehearsing {-}
 
-Every night with the habit is a rehearsal, and a man turns into what he rehearses. He practices being a spectator. He practices getting his own way, at his own speed, with a cast he can swap the instant his interest dips.
+Every night with the habit is a rehearsal, and a man turns into what he rehearses. He practices being a spectator. He practices getting his own way, at his own speed, with a cast he can swap the second his interest dips.
 
-Then he sits down across the table from one real woman, who can't be swapped and has a bad day of her own. He finds she has already been marked against the cast. Nobody decided that at the table. It came out of the box. A box that leaks into his marriage is not a box.
+Then he sits down across the table from one real woman, who can't be swapped and has a bad day of her own. She's already been marked against the cast. Nobody decided that at the table. It came out of the box. A box that leaks into his marriage isn't a box.
 
 ## One man {-}
 
-So no, you can't compartmentalize. That goes for the man with a wife at home and a flirtation at work as well. He thinks he has two lives.
+So no, you can't compartmentalize. That goes for the man with a wife at home and a flirtation at work too. He thinks he has two lives.
 
-He is one man.
+He's one man.
 
 Jesus said the same about money: no one can serve two masters. A man with a locked back room has two masters, and the one in the back room is winning. The man who thinks he's got it safely boxed is the last to find out.
 
 ## One life {-}
 
-The moment the Little Monster is gone, there is no back room. That low, shifty, insecure feeling you've carried for years goes with him. You stop managing a double life, because there's only one life left to manage. A man who had been free for a hundred days said it with an exclamation mark: "I don't feel like a creep with a secret perverted second sex life anymore!" Your confidence comes back, and with it a self-respect you may not have felt since you were a boy.
+The moment the Little Monster is gone, there's no back room. That low, shifty, insecure feeling you've carried for years goes with him. No more double life to manage, because there's only one life left. A man who'd been free a hundred days said it with an exclamation mark: "I don't feel like a creep with a secret perverted second sex life anymore!" Your confidence comes back, and with it a self-respect you may not have felt since you were a boy.
 
-Being the same man in every room is a great deal less work.
+Being the same man in every room is a lot less work.
 
-The next trap catches the man who is eager to stop. It looks like motivation.
+The next trap catches the man who's eager to stop. It looks like motivation.
 
 <!-- SOURCES (Chapter 19): every quote below is from the research files; check each against its page before publishing.
 - "they become merely the medium through which he increasingly adores himself." — C.S. Lewis, letter to Keith Masson (1956), Collected Letters vol. 3, as quoted at https://restlesspilgrim.net/blog/tag/sexual-morality/ (fragment only; in copyright, keep it this short; research/more-sources.md; the book takes "they" to be the imaginary women of the fantasy, so check the antecedent in the letter)

@@ -2,23 +2,23 @@
 
 No.
 
-The Little Monster starves, and the path the habit wore across your evenings grows over. The last scraps of the old lies go with them. You'll handle a hard day better than you do now. And the good days will be properly good, because you'll be there for the whole of them, with nothing to hide when you get home.
+The Little Monster starves, and the path the habit wore across your evenings grows over. The last scraps of the old lies go with them. You'll handle a hard day better than you do now. And the good days will be properly good, because you'll be there for every minute, with nothing to hide when you get home.
 
-Be straight about the one thing you might miss. The orgasm feels good. For a few seconds it is real pleasure. But most of that good feeling is the banging stopping, and the habit made the banging. The rest is sugar. It is sweet for a moment, and you pay before and after. A man who quits sugar doesn't miss the crash.
+Let's be straight about the one thing you might miss. The orgasm feels good. For a few seconds it's real pleasure. But most of that good feeling is the banging stopping, and the habit made the banging. The rest is sugar. Sweet for a moment, and you pay before and after. A man who quits sugar doesn't miss the crash.
 
 Paul once put a question to the Christians in Rome about their old life: "What fruit then did you have at that time in the things of which you are now ashamed?" He didn't ask what they'd lost. He asked what they ever got. Go on, answer it. What fruit?
 
 ## The sell looks cheap {-}
 
-Something else happens that nobody warns you about. The things that used to pull at you start to look cheap. Think of the billboard, the song, the scene put into a film to sell tickets. They may hit you the way a fryer hits a man who has quit junk food. The women don't look cheap. The sell does. You notice how hard somebody is working to use your appetite against you, and how little he thinks of you. You won't have to fight it. You'll turn the page, a little disgusted, and get on with your day.
+Nobody warns you about this one. The things that used to pull at you start to look cheap. The billboard, the song, the scene put into a film to sell tickets. They may hit you the way a fryer hits a man who's quit junk food. The women don't look cheap. The sell does. You see how hard somebody's working to use your appetite against you, and how little he thinks of you. You won't fight it. You'll turn the page, a little disgusted, and get on with your day.
 
 ## The one danger left {-}
 
 There's only one real danger left, and it's other men.
 
-The world never stops telling a free man that he's the odd one. Sitcoms treat the habit as a harmless joke and experts call it healthy. Then one night you're on your own, a bit low, a bit lonely, and the thought arrives: *Everyone else gets to. Why not me?*
+The world never stops telling a free man he's the odd one. Sitcoms treat the habit as a harmless joke and experts call it healthy. Then one night you're alone, a bit low, a bit lonely, and the thought arrives: *Everyone else gets to. Why not me?*
 
-It is a strange thought. Every man who never picked the habit up is glad he didn't. Every man who still has it wishes he'd never begun, and he'll tell you so after a couple of honest questions. Not one of them recommends it to his son. So who exactly are you envying?
+Strange thought. Every man who never picked the habit up is glad he didn't. Every man who still has it wishes he'd never begun, and he'll tell you so after a couple of honest questions. Not one of them recommends it to his son. So who exactly are you envying?
 
 It makes no difference which room you look in. The man with the porn, the man with the hand and the man with a new woman every month are one man. He isn't satisfied.
 
@@ -26,17 +26,17 @@ He doesn't approve of himself either. If he knew you'd walked out, HE WOULD ENVY
 
 ## Who is doing without? {-}
 
-A free man gets a twinge for a simpler reason too. That man is *doing* something and you aren't, so it feels as if you're the one going without.
+A free man gets a twinge for a simpler reason too. That man is *doing* something and you aren't, so it feels like you're the one going without.
 
-Turn it the right way up. You're not going without anything. He is. He is going without energy, drive and confidence. He is going without a clear conscience and closeness to God. He is going without freedom, self-respect, and a word he can keep.
+Turn it the right way up. You're not going without anything. He is. He's going without energy, drive and confidence. He's going without a clear conscience and closeness to God. He's going without freedom, self-respect, and a word he can keep.
 
 He can't trust himself. You can.
 
-Ask the men who've been out for a while whether they pine for it. One of them was hooked from twelve to twenty-one. He says his freedom came when God met him, and he describes what came with it: "this truly sensational feeling of peace for the first time in my life". That doesn't sound like a man missing his old hobby.
+Ask the men who've been out a while whether they pine for it. One was hooked from twelve to twenty-one. He says his freedom came when God met him, and he describes what came with it: "this truly sensational feeling of peace for the first time in my life". Doesn't sound like a man missing his old hobby.
 
 ## It tightens {-}
 
-So don't envy the men who are still in the trap. That isn't a sneer. Every free man was one of them once. You wouldn't envy a man who can't get through the day without a drink, however cheerfully he raises his glass. And like every trap of this kind, his doesn't stand still.
+Don't envy the men still in the trap. That's no sneer. Every free man was one of them once. You wouldn't envy a man who can't get through the day without a drink, however cheerfully he raises his glass. And like every trap of this kind, his doesn't stand still.
 
 It tightens.
 

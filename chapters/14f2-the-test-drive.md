@@ -2,55 +2,55 @@
 
 "How can I marry a woman I have never slept with? Nobody buys a car without a test drive."
 
-It is the most reasonable excuse in the house, so take it seriously.
+It's the most reasonable excuse in the house, so take it seriously.
 
 ## She is not a car {-}
 
 Start with the picture. A car is a thing. You try it, and if it disappoints, you hand back the keys. The car feels nothing.
 
-Now notice who is never tested in that picture. You are. Turn it around. She took him out for a few months, and then she went with a newer model. Would you want to be the car?
+Now notice who never gets tested in that picture. You. Turn it around. She took you out for a few months, then went with a newer model. Want to be the car?
 
 ![](images/illustrations/test-drive-the-car.png){.illustration width=80%}
 
 ## What the drive tests {-}
 
-A test drive works because a car is the same on the first day as on the thousandth. Sex is not like that. Two people learn it together, over years. The first night tells you about a first night.
+A car is the same on the first day as on the thousandth. That's why a test drive works. Sex isn't like that. Two people learn it together, over years. The first night tells you about a first night.
 
-Ask a couple who have been married twenty years whether their first night was the sample. They will laugh at you.
+Ask a couple who've been married twenty years whether their first night was the sample. They'll laugh in your face.
 
 ## What you compare her to {-}
 
-A test needs a standard, and you have one. It is every woman who came before her, and every video you ever watched. Each new test adds a name to the list she has to beat.
+A test needs a standard, and you've got one. Every woman who came before her, and every video you ever watched. Each new test adds a name to the list she has to beat.
 
-So the man with the most test drives is not the best judge of cars. He is the man who can't buy one.
+So the man with the most test drives isn't the best judge of cars. He's the man who can't buy one.
 
 ## The test spoils the result {-}
 
-Sex ties two people together. That is its job. Sleep with her, and you have fogged the windshield before you read the map.
+Sex ties two people together. That's its job. Sleep with her, and you've fogged the windshield before you read the map.
 
-That is how a man stays two years with the wrong woman, because the bed was good. It is how he leaves the right one, because the first night was awkward. In both cases the test gave him the wrong answer.
+That's how a man stays two years with the wrong woman, because the bed was good. It's how he leaves the right one, because the first night was awkward. Either way, the test gave him the wrong answer.
 
 Mark Driscoll, the American pastor, put it in one line in a 2006 sermon: "you can't really get to know someone when you're sleeping with them".
 
 ## What the count shows {-}
 
-If testing worked, the people who tested most would have the marriages that last. Researchers have counted, and they find the opposite.
+If testing worked, the people who tested most would have the marriages that last. Researchers have counted. It's the opposite.
 
-In 2023 two American sociologists published a study of about seven thousand married people, followed from their teens. Those who'd had sexual partners before marriage were more likely to divorce than those who'd had none. With nine partners or more, the odds were about three times as high. Those are odds across thousands of people. They are no sentence on you. The finding held for the men as much as for the women. The authors were plain about the limits: "Premarital sex predicts divorce, but we do not know why."
+In 2023 two American sociologists published a study of about seven thousand married people, followed from their teens. Those who'd had sexual partners before marriage were more likely to divorce than those who'd had none. With nine partners or more, the odds were about three times as high. Those are odds across thousands of people, not a sentence on you. The finding held for the men as much as for the women. The authors were plain about the limits: "Premarital sex predicts divorce, but we do not know why."
 
 Living together is the long test drive. A 2023 report surveyed about 1,600 Americans who first married between 2010 and 2019. Of those who moved in before they were engaged, 34 percent had seen the marriage end. Of those who waited for the engagement or the wedding, 23 percent had. The ones who said they moved in to test the relationship did worse than the ones who gave other reasons.
 
-Be fair to the numbers. They count what happened. Many of the people with no earlier partners are religious, and that may be part of it. They don't prove what caused it. Researchers still argue over why, and some say the real danger is moving in too young. But nobody in that argument has found that testing first makes a marriage last.
+Be fair to the numbers. They count what happened. Many of the people with no earlier partners are religious, and that may be part of it. The numbers don't prove what caused it. Researchers still argue over why, and some say the real danger is moving in too young. But nobody in that argument has found that testing first makes a marriage last.
 
 ## What you need to know {-}
 
-There are things a man must find out before he bets his life on a woman. Can he talk to her for three hours? Does she tell the truth when it costs her? How does she treat a waiter, her mother and his money? What does she do when he says no?
+A man has to find out some things before he bets his life on a woman. Can he talk to her for three hours? Does she tell the truth when it costs her? How does she treat a waiter, her mother and his money? What does she do when he says no?
 
 Not one of those is learned in bed. Every one is learned with your clothes on.
 
-That goes for the bed itself. Talk about it before the wedding, plainly. Say how often, what each of you hopes for, and whether you want children. A couple who can say those things out loud will learn the rest together.
+That goes for the bed itself. Talk about it before the wedding, plainly. How often, what each of you hopes for, whether you want children. A couple who can say those things out loud will learn the rest together.
 
-So the test drive isn't caution. It is the old habit in a lab coat.
+So the test drive isn't caution. It's the old habit in a lab coat.
 
 Three men are still standing in the hall, and none has a fiancée. The first is dating.
 

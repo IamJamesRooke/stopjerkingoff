@@ -6,39 +6,39 @@
 
 When do you stop?
 
-This book has already set the day. You stop at the final step, near the end. Until then you make no vow and start no streak. If you have already stopped, stay stopped. So you aren't choosing a date. You are getting ready for one, and it is close.
+The book's already set the day. You stop at the final step, near the end. Until then, no vow and no streak. If you've already stopped, stay stopped. You're not choosing a date. You're getting ready for one.
 
-You have carried this a long time, and probably told nobody. It deserves a proper ending, on a day you saw coming.
+You've carried this a long time, and probably told nobody. It deserves a proper ending, on a day you saw coming.
 
 ## The week that never comes {-}
 
 **Whatever you do, don't tell yourself "not now, later" and put the book in a drawer.**
 
-The trap has one clever twist. When life is stressful, it's the wrong time to stop, because you think you need it. When life is calm, you feel no urgency, because things aren't so bad. One or the other is always true, so the right time never comes. And it is never a bad week to carry on.
+The trap has one clever twist. When life is stressful, it's the wrong time to stop, because you think you need it. When life is calm, there's no urgency, because things aren't so bad. One or the other is always true, so the right time never comes. And it's never a bad week to carry on.
 
-That is why this book doesn't ask you to pick a good week. It asks you to read as far as the final step, and then stop, whatever week it is.
+That's why this book doesn't ask you to pick a good week. It asks you to read to the final step, then stop, whatever week it is.
 
 The book of Ecclesiastes has a line for the man who waits for perfect weather: "He who observes the wind won't sow; and he who regards the clouds won't reap."
 
 ## Three questions about when {-}
 
-1. The first time you did it, as a boy, did you decide you'd go on doing it for life, with no way of stopping? Of course you didn't.
-2. Are you going to keep it up until you die? Will you be at it at sixty, and at seventy-five, a grandfather waiting for the house to empty? Of course you aren't.
+1. The first time you did it, as a boy, did you decide to keep going for life, with no way out? Of course not.
+2. Are you going to keep it up until you die? At sixty? At seventy-five, a grandfather waiting for the house to empty? Of course not.
 3. Then when will you stop?
 
-You have been asking that third question since the day you first found you couldn't leave it alone. The answer was always some better week, and the better week is the one that never comes.
+You've been asking that third question since the day you found you couldn't leave it alone. The answer was always some better week, and the better week never comes.
 
-It won't be easier next year. It will be the same job with another year of rut worn in. Nobody wakes up one morning to find he has simply lost interest.
+It won't be easier next year. It'll be the same job with another year of rut worn in. Nobody wakes up one morning to find he's simply lost interest.
 
 ## See the weeks coming {-}
 
-One piece of getting ready is worth doing now. Look at the three weeks after you expect to reach the final step. Is there a trip away on your own? Is your wife visiting her mother? Are there finals, a deadline, a string of late nights in an empty house?
+One piece of getting ready is worth doing now. Look at the three weeks after you expect to reach the final step. A trip away on your own? Your wife visiting her mother? Finals, a deadline, a string of late nights in an empty house?
 
-None of these has to put you off. They only need to be seen coming. A man who expects the quiet hotel room, and knows he's missing nothing in it, walks straight through it.
+None of it has to put you off. You just need to see it coming. The man who expects the quiet hotel room, and knows he's missing nothing in it, walks straight through.
 
 So the time is the day you reach the final step, whatever kind of week that turns out to be. Paul wrote to the church at Corinth, "Behold, now is the acceptable time."
 
-That leaves the fear under all the others. Once the habit is gone, will you miss it?
+That leaves the fear under all the others. Once the habit's gone, will you miss it?
 
 <!-- SOURCES (Chapter 17): every quote below is from the research files; check each against its page before publishing.
 - "I encourage you to stop masturbating immediately." — Johnathan Arnold, "Is Masturbation a Sin?", Holy Joys, 11 Apr 2026, https://holyjoys.org/is-masturbation-sin/ (source sentence: "If you are struggling with lust and masturbation, I encourage you to stop masturbating immediately."; the book disagrees only about timing, and says so)
