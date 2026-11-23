@@ -14,6 +14,18 @@ A can of cola tastes great. Nobody denies it. Drink six a day for twenty years, 
 
 A fish would tell you the worm was delicious.
 
+## "One little vice" {-}
+
+Maybe you'll grant all that and shrug. It's like candy. It's like a can of cola. Every man gets one little vice, and this one isn't going to hurt me.
+
+Look at how you treat candy. You eat it in front of people. You don't lock the door. You don't wipe the wrapper out of your history. You've never finished a chocolate bar and stared at the ceiling.
+
+A little vice stays little. One cola is one cola. This one doesn't hold still. It wants more, and it wants newer, and you've been giving it more for years.
+
+And a little vice is one you could drop on a Tuesday and never think about again. You've tried to drop this one. How many times?
+
+It isn't candy. Candy never made you promise anything.
+
 ## Take the few seconds apart {-}
 
 Three things are mixed together in that moment. Pull them apart.
@@ -51,3 +63,5 @@ One more thing about that lead-up. It never stays the same size.
 <!-- 2026-11-22 third whole-book test as James (he now says the whole No, but holds back the warm bed with a woman he liked; 'I say the clause as a better policy, not as a man who sees nothing in the room'). Fixes from that test; see the commit of this date. -->
 
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->
+
+<!-- 2026-11-23 PROOF LOOP: James reported the lie in his head after using twice in a row: 'it feels good and I'm doing nothing wrong. It's like candy or Coca-Cola. One little vice isn't going to hurt me.' New section 'One little vice' answers it here in his words (candy needs no locked door, a little vice stays little, a little vice can be dropped). 'Doing nothing wrong' is answered in The World's Lies. -->
