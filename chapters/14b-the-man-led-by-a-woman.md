@@ -36,6 +36,20 @@ That's not quite the end. His hair grew again, and on his last day, blind and br
 
 Notice where the story puts the blame. Delilah sold him for silver, and that was treachery. But nobody took his secret. He gave it away.
 
+## Half a kingdom for a dance {-}
+
+Samson was a strongman. Here's a king. Herod Antipas ruled Galilee for Rome in the days of Jesus. He'd taken his brother's wife, Herodias, for himself. A preacher named John the Baptist told him to his face it wasn't lawful, so Herod locked him in prison. Herodias wanted John dead. Herod wouldn't do it. He knew John was a good man, and he liked to hear him talk.
+
+Then came Herod's birthday. He threw a banquet for his officers and the chief men of Galilee. Herodias's daughter came in and danced, and the Gospel of Mark says she "pleased Herod". So the king swore an oath in front of every guest. Whatever she asked, he'd give her, "up to half of my kingdom".
+
+Half a kingdom, for a dance.
+
+The girl went out and asked her mother what to ask for. She came back with the answer. The head of John the Baptist, on a platter.
+
+Mark says the king was "exceedingly sorry". But he'd sworn, and his guests were watching. He sent a soldier to the prison, and the head came back on a dish.
+
+Look at whose hand was on the lever. Herodias couldn't get John killed by asking. So she sent in a dancer and let the king's own appetite do the asking. A man with his blood up will promise anything, and then his pride makes him pay. A good man died because a king liked what he saw and opened his mouth.
+
 ## The king who sulked {-}
 
 One more old story, and a short one. King Ahab wanted a vineyard, not a woman. Watch him anyway, because the lever's the same.
@@ -106,3 +120,5 @@ That's the chase. And the chase has only ever been going to one place.
 <!-- 2026-11-23 FLOW PASS (book-wide): in 'At home' the three sentences on the law's lever (a note on what comes later) had split 'free to tell her the truth' from 'That is better for her as well'; they now stand before 'Now take the husband'. Nothing cut. -->
 
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
+
+<!-- 2026-11-23 (James: Herod, seduced, killed John the Baptist; 'men are willing to destroy half their empire or do evil to innocent men'). Added as 'Half a kingdom for a dance' (Mark 6:17-28, WEB phrases only). The girl is Herodias's daughter, Herod's stepdaughter. James's Xerxes/Esther idea not used: in Esther the 'half the kingdom' offer is a king's formula to his queen and she uses it to save her people, so it doesn't show lust wrecking a man. -->
