@@ -2,7 +2,7 @@
 
 Easy? You've quit before. You remember how it went. You clenched your jaw and crossed days off the calendar, and one bone-tired Tuesday the count went back to zero.
 
-That's the normal way. It drops you at the foot of a mountain and drags you up by the collar, starving the whole climb and sure you've been robbed.
+That's the normal way. It drops you at the foot of a mountain and drags you up by the collar, craving the whole climb and sure you've been robbed.
 
 ![](images/illustrations/easy-method-foot-of-the-mountain.png){.illustration width=80%}
 
@@ -31,7 +31,7 @@ That's one lie, seen as it is. Did seeing it take any willpower?
 
 ## Why the normal way is so hard {-}
 
-The normal way never looks. It makes a list. You write down what the habit costs you. The guilt. The bleary mornings. The hours down the drain. The prayers that bounce off the ceiling. Then you make yourself a promise.
+The normal way never looks. It makes a list. You write down what the habit costs you. The guilt. The bleary mornings. The Saturdays that vanished. The prayers that bounce off the ceiling. Then you make yourself a promise.
 
 "If I can just hold out long enough, the urge will die, and then I'll be happy."
 
@@ -65,9 +65,11 @@ Get that exactly right. This isn't the old line that the costs are bigger than t
 
 Not one.
 
-Yes, the finish feels good. That's real. It's the bait, and you'll see what's on the hook.
+Yes, the finish feels good. That's real. It's the bait, and you'll see the hook under it.
 
 ![](images/illustrations/easy-method-bait-and-hook.png){.illustration width=80%}
+
+Then there's everything else it's supposed to give you.
 
 - The relaxation.
 - The stress relief.
@@ -85,7 +87,7 @@ Tonight, do three things. None of them is "try harder".
 2. **Remember.** Think back to the last time. How did it start? How long did the good part last? How did you feel ten minutes later? That answers the first two questions from your own life. And if he bangs tonight and you go up, go up with your eyes open. Notice who's giving the orders.
 3. **Keep reading, in order.** The length costs you nothing, because nobody asks you to stop before the end. An hour a night finishes it in under a week, and nobody has to know.
 
-If you slip while you read, keep reading.
+Whatever happens while you read, keep reading.
 
 The stopping comes once, at the end. This book ends with a plain No, and you'll be glad to say it. It's not the old vow. The old vow was a promise made on your own strength, before you understood the trap. This one you'll say with your eyes open. If you pray, you'll say it leaning on God.
 
@@ -147,3 +149,5 @@ Before any of that, a fair question. "No benefits at all" is a big claim from a 
 <!-- 2026-11-23 Callback to the Introduction's 'feed him as much as you like, just watch yourself do it' (James's request). -->
 
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
+
+<!-- 2026-11-23: Author's pass: 'starving' kept for the monster only; list given a lead-in; bait/hook straightened; 'slip' cut (nobody is quitting yet). -->

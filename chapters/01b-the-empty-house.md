@@ -10,7 +10,7 @@ You don't have to believe in spirits to know that house. The story isn't telling
 
 The house is you, and you've swept it many times.
 
-You swore off porn, and for three weeks you were clean. Then you were losing an hour a night to the Explore page, where every third square is a girl arching her back on a beach towel. You called it nothing. Or you deleted every app and blocked every site, and your memory started playing reruns in their place. Or you stopped the whole business by force, and poured the same hunger into texting a woman who'd left you on read.
+You swore off porn, and for three weeks you were clean. Then you were losing an hour a night to a feed where every third square is a girl arching her back on a beach towel. You called it nothing. Or you deleted every app and blocked every site, and your memory started playing reruns in their place. Or you stopped the whole business by force, and poured the same hunger into texting a woman who'd stopped answering.
 
 You threw one thing out, and it came back with company. That's the Little Monster for you. Keep his room ready, and he brings his friends. Each one is the size of a cat. Each one smells like the same rotten cheese. It's the same hunger, eating off a different plate.
 
@@ -112,3 +112,5 @@ SOURCES: Matthew 12:43-45 (WEB, checked 2026-11-20). Quoted verbatim: "I will re
 <!-- 2026-11-23 Callback to the Introduction's 'feed him as much as you like, just watch yourself do it' (James's request). -->
 
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
+
+<!-- 2026-11-23: Author's pass: evergreen fixes ('Explore page', 'left you on read'). -->
