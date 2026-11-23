@@ -12,7 +12,7 @@ The house is you, and you've swept it many times.
 
 You swore off porn, and for three weeks you were clean. Then you were spending an hour a night scrolling past women in swimsuits and calling it nothing. Or you deleted every app and blocked every site, and the reel in your memory started up in their place. Or you stopped the whole business by force, and poured the same hunger into chasing a woman who didn't want you.
 
-You threw one thing out, and it came back with company. That's the Little Monster for you. Keep his room ready, and he brings his friends. Each one is the size of a cat. Each one smells like the same gym bag.
+You threw one thing out, and it came back with company. That's the Little Monster for you. Keep his room ready, and he brings his friends. Each one is the size of a cat. Each one smells like the same rotten cheese. It's the same hunger, eating off a different plate.
 
 No wonder it feels unbeatable. No wonder you decided the fault was in you.
 
@@ -33,7 +33,7 @@ One detail in the story explains everything. Why could the spirit come back? Bec
 
 The man did everything right, as far as he knew. He put it out. He swept. And he left the room standing ready, bed made, door open.
 
-That's quitting by force. A man stops the act and goes on believing it gave him something. So there's a gap in his life where it used to be, and a gap gets filled.
+That's quitting by force. A man stops the act and goes on believing it gave him something. So there's a gap in his life where it used to be, and a gap gets filled. The gap is the belief. Lose the belief, and there's no gap.
 
 ## What rent did he ever pay? {-}
 
@@ -54,11 +54,7 @@ Then why is he still there? Nobody wants a freeloader. You kept him because you 
 
 That belief is a lie, and it lives in your head, not the back room. He can't say a word. The lies do the talking, in your own voice.
 
-You know them.
-
-- "A man needs it."
-- "It helps me sleep."
-- "I've earned it."
+You've met a few of them already.
 
 The Little Monster's the easy one. Stop feeding him and he goes quiet in days. In a few weeks he's gone. The lies are what have held you for years, and this book takes them down one at a time.
 
@@ -70,11 +66,11 @@ Once a man sees he never paid, there's no room kept ready and nothing for him to
 
 Jesus gave the order of things in one line: "You will know the truth, and the truth will make you free." He was speaking of his own teaching, and a Christian will take it that way. But notice the order, because it holds for any man. Knowing comes first, and freedom follows. He didn't say effort will make you free.
 
-A Christian will say more. Jesus's story is about a house left empty, and a house isn't meant to stand empty. It has an owner, and he means to live in it. He doesn't come to fill a gap. He was the owner all along.
+A Christian will say more. Jesus's story is about a house left empty, and a house isn't meant to stand empty. It has an owner, and he means to live in it. God doesn't come to fill a gap. He was the owner all along.
 
 ## He moves down the hall {-}
 
-One warning. He never leaves when you shut a room. He moves down the hall. You'll hear it in your own voice: "Fine, not that. But surely this is all right."
+One warning. Porn and the hand are only his first room. Shut it, and he doesn't leave. He moves down the hall. You'll hear it in your own voice: "Fine, not that. But surely this is all right."
 
 When you hear that sentence, smile. That's him, changing rooms.
 
@@ -83,6 +79,8 @@ This book follows him room by room, and it goes further than you'd expect. You d
 ## Don't throw anything out yet {-}
 
 Judge first. This book asks you not to throw anything out yet.
+
+Until then, if he throws a tantrum, feed him. Just notice which of you is fetching and which of you is being served.
 
 The day will come, near the end, when you show him the door. You'll do it once, and it'll be easy. By then you'll know he has nothing you want. Nobody gets dragged out. Sweeping never got rid of him. You stop believing he pays, you stop carrying up his dinner, and he leaves. His friends leave with him.
 
@@ -106,3 +104,9 @@ SOURCES: Matthew 12:43-45 (WEB, checked 2026-11-20). Quoted verbatim: "I will re
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->
 
 <!-- 2026-11-23 FLOW PASS (book-wide): 'That is why' at the head of the last section pointed at nothing in the hall warning before it; it is now 'Judge first.', which grows out of 'Judge each room when we get there'. -->
+
+<!-- 2026-11-23 Squared with the rebuilt Introduction: the smell is now James's rotten cheese (was the gym bag), and the list of lies the Introduction already gives is not repeated here. -->
+
+<!-- 2026-11-23 COHERENCE REPAIR after a cold-reader check of the first five chapters: missing links added, nothing cut. -->
+
+<!-- 2026-11-23 Callback to the Introduction's 'feed him as much as you like, just watch yourself do it' (James's request). -->

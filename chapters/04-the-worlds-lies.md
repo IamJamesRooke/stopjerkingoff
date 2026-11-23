@@ -14,6 +14,8 @@ Start with the loudest lies, the ones about masturbation. Your grandfather was t
 
 **"It's healthy. It's harmless. Doctors say so."** Medicine says it doesn't hurt your body. Fine, but the doctor is answering a question you never asked. You didn't ask about your prostate. You asked why you can't stop, and why you feel like a smaller man afterward. A Christian writer put the distinction neatly: "But just because something isn't harmful physically doesn't mean it's not harmful spiritually."
 
+**"I'm not doing anything wrong."** Then say it out loud. Say it to your wife, or your mother, or the father of the woman on the screen. A thing that's fine can be said at the dinner table. You've never said this one to anybody.
+
 **"It's natural."** So is plenty you wouldn't copy. One preacher, who was bound by masturbation for years himself, answers in nine words: "We also see in nature where pigs eat trash." Natural isn't the same as good.
 
 **"A man needs the release."** You need air, water and food. Skip those and you die. No man has ever been carried out of a tent after a week of camping because he couldn't get a minute alone.
@@ -97,3 +99,5 @@ Those are the lies about the hand. Porn has its own set, and somebody else pays 
 <!-- 2026-11-22 LAST BOOK-WIDE PASS before James's read-through (James: 'come up with a plan... doing any strategic bookwide changes now before my walk through'). Three auditors read the whole book for promises, callbacks, the picture, repeats and leaks; fixes from their reports. -->
 
 <!-- 2026-11-23 FLOW PASS (book-wide): 'So this book doesn't call...' is now 'It doesn't call...'; the 'So' claimed a link the two sentences before it had broken. -->
+
+<!-- 2026-11-23 PROOF LOOP: added the lie 'I'm not doing anything wrong' (James's words), answered with a plain test: a thing that's fine can be said out loud. -->

@@ -1,82 +1,84 @@
 # The Button {#a-warning}
 
-The button sits on the nightstand, an arm's length from the man with the phone. It's the size of a doorbell.
+It sits on the nightstand, an arm's length from the man with the phone.
 
 ![](images/illustrations/button-on-the-nightstand.png){.illustration width=80%}
 
 
-It does one thing. If he presses it, he wakes up tomorrow as a man who never started. No porn. No hand. No banging on the floor.
+Press it, and the man wakes up tomorrow as someone who never started. No porn. No hand. No pipsqueak upstairs banging on the floor. The pest is gone, like he was never there.
 
-Would he press it? He would break the nightstand. So would you.
+Would the man press it? He'd break the nightstand. So would you.
 
-Now ask why. No man would press a button to be rid of fishing. No man would press one to be rid of Sunday dinner. Nobody wishes he had never met a thing that's good for him.
+Now ask why. Nobody would press a button to get rid of fishing. Nobody would press one to get rid of Sunday dinner. You don't wish you'd never met a thing that's good for you. You'd only press it for something that's hurting you.
 
-There's no such button. But what it does can be done. It takes one decision, and you make it at the end of this book.
+So part of you already knows. The pest doesn't belong up there.
+
+There's no button. But what it does can be done, and it takes one decision. You make it at the end of this book.
 
 ## You never signed up {-}
 
-How did you end up with a thing you would press a button to be rid of? No boy sits down and signs up for fifteen years of this. Curiosity and puberty started it. For most of us, porn did the rest.
+So how did the pest get in? Nobody invited him. No boy sits down and signs up for fifteen years of this. Curiosity started it. Puberty helped. For most of us, porn did the rest.
 
-Yes, you choose each time. You lock the door. You pick up the phone. But you walked into a trap, and the bait was your own body.
+Sure, you choose each time. You lock the door. You pick up the phone. But you never chose the habit. It's a trap. You walked into it as a boy, and the bait was your own body.
 
-One fact gives the trap away. No man caught in it wants his son caught in it.
+Here's what gives the trap away. No man in it wants his son in it.
 
-Ask any man in it if he would start again. Tonight he carries on anyway. Nobody makes him. He'll tell you he can't stop.
+Ask any man in it if he'd start again. Not a chance. And tonight that same man will do it anyway. Nobody's making him. He'll tell you he just can't stop.
 
 ## You already know how to stop {-}
 
-Here's something nobody told you. Stopping was never your problem.
+He's wrong about that. Stopping was never the problem.
 
-You stop every time you finish. For the next minute you're the most committed quitter on earth.
+You stop every time you finish. For the next sixty seconds you're the most committed quitter on earth.
 
-If stopping were the hard part, you would be done. You've stopped a thousand times.
+If stopping were the hard part, you'd be done. You've stopped a thousand times.
 
-The trouble comes later. It's day three, or day thirty, or day three hundred. You're tired, or the house is empty, and your own voice says, "Just this once." Once becomes twice, and you're staring at the ceiling again.
+The trouble comes later. Day three. Day thirty. Day three hundred. You're tired, or the house is empty, and upstairs the banging starts. Then a lie speaks up in your own voice. "Just this once." Once becomes twice, and you're staring at the ceiling again.
 
-Some men don't last until day three. A nineteen-year-old from a strict Christian home wrote about his first time: "I vowed never to do that again, only to find myself searching for a secret place after a couple of hours."
+Some men don't make it to day three. A nineteen-year-old from a strict Christian home wrote about his first time: "I vowed never to do that again, only to find myself searching for a secret place after a couple of hours."
 
 So "How do I stop?" was the wrong question. You're a champion at stopping. The real question is why you start again.
 
 ## What brings you back {-}
 
-It isn't desire. It's fear.
+It isn't desire. It's fear. You're afraid of what life would be like without it.
 
-Picture your life without the habit. What do you see?
+Picture that life. What do you see?
 
-Most men see the same thing. They see themselves awake at one, at two, at three, with the banging going on overhead. They see a hard day with no treat at the end of it. They see a Friday night alone, with nothing to reach for. They see that going on until they are eighty.
+Most men see the same thing. They see themselves awake at one, at two, at three, with the banging going on and on overhead. They see a hard day with no treat at the end of it. They see a Friday night alone with nothing to reach for. And they see that going on until they're eighty.
 
-That picture was painted for you, one line at a time.
+That picture was painted for you, one lie at a time.
 
 - "I'll go crazy if I don't."
 - "That's just how men are."
 
-Look at what each line does. It sends you up the stairs with a plate.
+Each of those lies sends you up the stairs with a plate.
 
-The picture is wrong. A creature that eats only what you carry up can't bang forever.
+And the picture's wrong. He eats only what you carry up. Stop carrying, and the banging dies down. He can't bang forever.
 
-If you've tried and failed many times, the picture looks proven. One man wrote that he had failed so often he sometimes wondered whether God's grace for him had run out.
+If you've tried and failed a hundred times, the picture looks proven. One man wrote that he had failed so often he sometimes wondered whether God's grace for him had run out.
 
-It hasn't. Jesus told a story about that, and you don't have to believe to follow it. A son wasted every coin he had and ended up feeding pigs. In that pigsty he came to himself. He got up and walked home, and his father ran down the road to meet him.
+It hasn't. Jesus told a story about a man who failed that badly, and you don't have to believe to follow it. A son wasted every coin he had and ended up feeding pigs. In that pigsty he came to himself. He got up and walked home, and his father ran down the road to meet him.
 
-You're not a hopeless case. You used a method that can't work. A ninety-day streak proves you're strong. Losing it proves strength was never the problem.
+You're not a hopeless case. You were handed a method that can't work, and that method was the sword. A ninety-day streak proves you're strong. Losing it proves strength was never the problem. The lies were.
 
 ## No scares, no superpowers {-}
 
-Fear keeps you here, so this book won't add any. You'll find no horror stories about your hormones or your hairline. Doctors say masturbation doesn't damage your body, and I won't argue with them. If fear worked, you would have stopped years ago.
+Fear is what keeps you here, so this book won't add any. No horror stories about your hormones or your hairline. Doctors say masturbation doesn't damage your body, and I won't argue with them. If fear worked, you'd have stopped years ago.
 
-Nobody here will sell you superpowers either. No deeper voice, no glowing skin, no women turning their heads. You get something plainer. You get your evenings, your attention and your word back.
+Nobody's selling superpowers either. No deeper voice, no glowing skin, no women turning their heads. You get something plainer. You get your evenings back, and your attention, and your word.
 
 One caution, and it's not a scare. A book isn't a doctor, and nobody has tested this method in a clinic. If you have thoughts of harming yourself, see a doctor or a counselor now. Do the same if this began with something done to you as a child. Do the same if your urges frighten you, or pull you toward anything illegal. Read this book with their help. You're not beyond help, and the Appendix says more.
 
 ## Nothing to lose {-}
 
-Read on, and question everything, this book included. Start with one question. If you enjoy the habit, why does your stomach tighten at the words "never again"?
+So read on, and question everything, this book included. Start with one question. If you enjoy it so much, why does your stomach tighten at the words "never again"?
 
 Here's the worst that can happen. You reach the last page, shrug, and pick up the phone. You're out five hours.
 
-The fear may grow for a chapter or two. Some men put the book down halfway. They sense that if they keep reading, they will have to stop. Don't be one of them. That flutter is only the old lies. A lie gets nervous when somebody starts checking it.
+The fear may grow for a chapter or two. Some men put the book down halfway, because they sense that if they keep reading, they'll have to stop. Don't be one of them. That flutter is only the old lies. A lie gets nervous when somebody starts checking it.
 
-How do you get out? It starts with the strangest promise anyone has made you about this.
+So how do you throw him out? It starts with the strangest promise anyone has made you about this.
 
 It will be easy.
 
@@ -97,3 +99,7 @@ It will be easy.
 <!-- 2026-11-23 FLOW PASS (James: the two housekeeping paragraphs in the middle of 'Put down the sword' don't make sense; 'it kind of meanders like that and confuses the reader'; 'So this book => This book'). Rule from now on: every paragraph follows from the one before, each section makes one move, housekeeping is woven in where it is first needed and never dropped into an argument, and no 'So' or 'And' opener that isn't a real link. -->
 
 <!-- 2026-11-23 VOICE PASS (James sent his own draft of the weak-man paragraph and 'What you are fighting', with five rules: contractions; write how we speak; intentional repetition; hyperbole; economy, 'this isn't an academic piece'). The Introduction's monster section is rebuilt from his draft and keeps his lines (doesn't pay rent, bangs and bangs and bangs, the 'pleasure' is the silence, fatter and wants MORE, throw his ass out, the lie that he belongs there). Kept from the book's fixed picture: the back room upstairs (not attic), cat-sized. His f-word is 'pest' here; his call. Rules for the rest of the book are in editorial/VOICE.md. -->
+
+<!-- 2026-11-23 REWRITTEN to follow the new Introduction (James: 'reading chapter 1, it doesn't feel it flows from the intro'). The button now removes the pipsqueak the Introduction just showed; 'part of you already knows he doesn't belong up there' answers the Introduction's 'the lie that he belongs there'; the chapter ends on 'how do you throw him out?'. Spoken voice per editorial/VOICE.md. Argument, quotes and the caution unchanged. -->
+
+<!-- 2026-11-23 COHERENCE REPAIR (James: 'so much was cut that now it seems incoherent -- get users to read it'). Eight cold readers flagged the missing steps; the links are put back in the spoken voice: the house frame, 'that banging is the urge', starving = no more dinners, man and monster kept apart by name, the dragon retired, and fear named as fear of life without it. -->

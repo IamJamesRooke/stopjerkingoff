@@ -26,7 +26,7 @@ And none of it was ever enough.
 
 ## Men are sedated {-}
 
-The habit's one sedative among many. Look at one ordinary evening.
+Lust wasn't my only sedative, and it probably isn't yours. Look at one ordinary evening.
 
 A man comes home tired and pours a drink to take the edge off. Dinner's a burger and fries out of a paper bag, then a whole sleeve of cookies. He games till midnight. He scrolls for an hour. He finishes on a porn site.
 
@@ -73,3 +73,5 @@ So start with the Little Monster. If he does nothing for you, why has every atte
 <!-- 2026-11-22 SKEPTIC READ (James: read 'as an atheist who reads despite the god talk and still thinks that marriage is a joke, it's a scam which is against men... Women have a legal incentive to divorce. The family courts are against men. This IS true. But try and get it so, by the end, he agrees'). Stage 1 fixes: a plain reason set beside each claim that stood on God alone; the divorce courts conceded early. -->
 
 <!-- 2026-11-22 CUT ABOUT THE AUTHOR (James: 'I don't think I really want to talk about myself all that much or talk about my faith or anything because THIS BOOK IS NOT ABOUT ME. If we can cut stuff about me, BETTER'). Moved to editorial/PARKING.md: the woman who loved him, the men's group in a church and his change of mind about Christianity, 'The villain in the story' (social justice, Solzhenitsyn), the praying, the eleventh hour and Jordan Peterson, and the full-court press for the church. Kept: the short record that earns 'no benefits at all' (the awkward boy; thirteen ways to be anxious; 'You pay her to leave', which The Hookup calls back to), 'Men are sedated' made impersonal, and why the book was made. -->
+
+<!-- 2026-11-23 COHERENCE REPAIR after a cold-reader check of the first five chapters: missing links added, nothing cut. -->
