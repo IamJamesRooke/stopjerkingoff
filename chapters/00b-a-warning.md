@@ -45,7 +45,10 @@ Picture your life without the habit. What do you see?
 
 Most men see the same thing. They see themselves awake at one, at two, at three, with the banging going on overhead. They see a hard day with no treat at the end of it. They see a Friday night alone, with nothing to reach for. They see that going on until they are eighty.
 
-That picture was painted for you, one line at a time. "I'll go crazy if I don't." "That's just how men are."
+That picture was painted for you, one line at a time.
+
+- "I'll go crazy if I don't."
+- "That's just how men are."
 
 Look at what each line does. It sends you up the stairs with a plate.
 

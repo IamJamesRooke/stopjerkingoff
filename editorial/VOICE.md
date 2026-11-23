@@ -7,7 +7,8 @@ James sent his own draft of part of the Introduction and said: "I'm not the best
 3. **Repetition on purpose.** Repeat a word or a shape for force ("he bangs and bangs and bangs"; "You don't because... And you don't because..."). Cut repetition that is only saying the same thing twice.
 4. **Hyperbole and heat.** Exaggerate for effect and let him be angry at the habit ("Starve the little pest, then throw his ass out!"). Mock the habit and the Little Monster, never the reader and never women. Swearing stops at "ass" unless James says otherwise.
 5. **Economy.** Take the shortest way to say it. No throat-clearing, no "this book will", no explaining a picture after showing it. "This isn't an academic piece."
-6. **Flow** (his earlier note). Every paragraph follows from the one before. Each section makes one move. Notes about the book never interrupt an argument. No "So", "And" or "But" opener unless the link is real.
+6. **Lists get bullet points** (James: "Lists should have bullet points"). A run of three or more quoted lies, excuses or items goes in a bullet list, one per line, grouped under a short lead-in line if there are kinds. Don't leave them run together in a paragraph.
+7. **Flow** (his earlier note). Every paragraph follows from the one before. Each section makes one move. Notes about the book never interrupt an argument. No "So", "And" or "But" opener unless the link is real.
 
 ## What a voice pass may and may not change
 

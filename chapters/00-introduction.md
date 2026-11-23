@@ -47,7 +47,24 @@ He hasn't. It isn't.
 
 ## Why you keep feeding him {-}
 
-That lie has plenty of company. Some lies were told to you. "A man needs it." "It's healthy." "Everybody does it." Some you tell yourself. "It helps me sleep." "I've earned it." "It's not hurting anybody." Some are bargains. "At least it's not porn." "At least she's real."
+That lie has plenty of company.
+
+Some were told to you.
+
+- "A man needs it."
+- "It's healthy."
+- "Everybody does it."
+
+Some you tell yourself.
+
+- "It helps me sleep."
+- "I've earned it."
+- "It's not hurting anybody."
+
+Some are bargains.
+
+- "At least it's not porn."
+- "At least she's real."
 
 Every one of them says the same thing. He earns his keep. He doesn't.
 
