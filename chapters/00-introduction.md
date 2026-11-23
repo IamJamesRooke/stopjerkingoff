@@ -23,22 +23,27 @@ There is no dragon.
 
 That overwhelming urge when temptation hits? That faint, fidgety itch, that craving? It's no dragon.
 
-Think of your life as a house. Up in the back room lives a little monster. A tiny pipsqueak, the size of a house cat, who smells like cheese left to rot in a car in midsummer. This pest doesn't pay rent. He doesn't even buy his own food, because you're the one who feeds him.
+Think of your life as a house. Up in the back room lurks a little monster. A scrawny pipsqueak, the size of a house cat, who reeks like cheese left to rot in a car in midsummer. This pest has never paid a dime of rent. He doesn't even buy his own food, because you're the one who feeds him.
 
-When he's hungry he bangs and bangs and bangs on the floor. That banging is the urge. It goes on until you carry his dinner up.
+When he's hungry he bangs and bangs and bangs on the floor. That banging is the urge. He keeps hammering until you trudge up the stairs with his dinner.
 
 You know his menu.
 
 - Every time you masturbate to pixelated women.
+- Every "last one" video, and the nine that follow it.
+- Every thumb-scroll through bikinis you're "just looking" at.
+- Every wandering eye that trails the girl at the gym.
+- Every replay of that one memory you keep for when the door's locked.
 - Every late-night text to the woman you know damn well is no good for you.
-- Every "just looking" scroll through girls in bikinis.
 - Every midnight swipe on the app, with no plan to meet anybody.
-- Every tip sent to a woman on a screen who's never heard your name.
-- Every replay of that one memory you save for when the door's locked.
+- Every dollar tipped to a woman on a screen who's never heard your name.
+- Every like and every "you look amazing", handing your power to somebody who only wants the attention.
+- Every drink you buy just to see how far it gets you.
+- Every woman you take home and can't wait to see leave.
 
 That's his dinner. All of it.
 
-Then he's full, he settles down, and he leaves you alone for a while.
+Then he belches, curls up, and leaves you alone for a while.
 
 ![](images/illustrations/intro-back-room.png){.illustration width=80%}
 
@@ -47,7 +52,7 @@ This book calls him the Little Monster. He's only a picture of the craving. Noth
 
 The "pleasure" you get is the silence. It's him shutting up.
 
-But the silence never lasts. He got fed, so he got a little fatter, and now he wants MORE. He's up there jumping on the floor again.
+But the silence never lasts. He got fed, so he got a little fatter, and now he wants MORE. He's up there stomping on the floor again.
 
 You know the solution. Stop carrying his dinner up. Starve the little pest, then throw his ass out!
 
@@ -81,19 +86,19 @@ Some are bargains.
 
 Every one of them says the same thing. He earns his keep. Even a bargain says it. It just hands him a smaller plate.
 
-He doesn't earn a thing.
+He hasn't earned a crumb.
 
-Take one. "It helps me sleep." You slept like a stone before any of this started. Who's been keeping you awake since? You feed him, the banging stops, and you drop off. He didn't give you sleep. He took your sleep, and every night he sells a little back.
+Take one. "It helps me sleep." You slept like a stone before any of this started. Who's been keeping you awake since? You feed him, the banging stops, and you drop off. He didn't give you sleep. He stole your sleep, and every night he sells you back a sliver.
 
 The house was quiet before he moved in.
 
-A pipsqueak can't keep a grown man in that bed. The lies keep him there.
+A pipsqueak can't pin a grown man to that bed. The lies pin him there.
 
 ## Put down the sword {-}
 
-That's why trying harder never worked. Most methods take him for a dragon. They hand you a sword and tell you to fight. But no man wins a fight against something he still thinks is doing him good.
+That's why trying harder never worked. Most methods take him for a dragon. They hand you a sword and shove you at him. But no man wins a fight against something he still thinks is doing him good.
 
-This book hands you no sword. It takes the lies apart, one at a time, until you see the Little Monster has nothing you want. A man who sees that doesn't need willpower. He just stops carrying dinner up the stairs.
+This book hands you no sword. It pries the lies loose, one at a time, until you see the Little Monster has nothing you want. A man who sees that doesn't need willpower. He just stops carrying dinner up the stairs.
 
 Save your grit for something that deserves it. There are mountains to climb and children to raise. This is a pest in a back room. Throw him out, and get on with your life.
 
@@ -103,7 +108,7 @@ Two rules while you read.
 
 **Don't try to quit.** Not yet. Make no vows. Start no streaks. Don't cut down. You've done all three before, and where are they now? You stop once, at the end of the book. Until then, call off the war.
 
-So feed him as much as you like. Give in to every tantrum. Bang, bang, bang, and up the stairs you go with his plate. Just watch yourself do it. You're waiting on a dirty, sulking little freeloader, and he's treating you like his slave.
+So feed him as much as you like. Give in to every tantrum. Bang, bang, bang, and up the stairs you trot with his plate. Just watch yourself do it. You're waiting on a dirty, sulking little freeloader, and he's treating you like his slave.
 
 **Don't skip chapters.** Read them in order. Each one takes down a lie, and the last step only works if the others came first.
 
@@ -186,3 +191,5 @@ SOURCES (Introduction): every quote below is from the research files; check each
 <!-- 2026-11-23 PROOF LOOP (James, after using: 'I don't feel awesome. That little monster being fed sticks'; he asked that 'don't cut down' come with a reminder of what feeding him is: 'You can feed the little monster as much as you want. You can give into his tantrums. Bang bang bang. Treating you like a slave'). Added to 'While you read' in his words; 'freeloader' stands in for his 'squatter', which the book doesn't use. Short callbacks are in The Easy Method and The Empty House. -->
 
 <!-- 2026-11-23 James drafted a more colorful 'that's his dinner' line ('masturbate to pixelated women', 'that late night text to that woman you know damn well is no good for you') and asked for a list like it. The menu is built from his two lines plus four more across looking, thinking, touching, chasing and paying. -->
+
+<!-- 2026-11-23 James: add the wandering eye at the gym and 'giving your power over to somebody who wants attention' (simping); make the menu complete 'so every guy is identified and knows we are talking about him'; 'better, more colorful diction' per Scott Adams. The menu now runs look, think, touch, chase, pay, take. Verbs sharpened through the Introduction (lurks, reeks, hammering, trudge, belches, stomping, stole, sliver, pin, shove, pries, trot). -->
