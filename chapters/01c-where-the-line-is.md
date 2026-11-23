@@ -42,7 +42,10 @@ So the line has to sit outside you, where your wanting can't reach over and nudg
 
 You could draw the line somewhere easier. Most men do. Every easier line has a name, and you've said each one in your own voice.
 
-"At least I'm not watching porn." "At least it's only in my head." "At least she's a real woman." "At least I love her."
+- "At least I'm not watching porn."
+- "At least it's only in my head."
+- "At least she's a real woman."
+- "At least I love her."
 
 Each one shuts some rooms and keeps one ready. And you know what happens to a room that's kept ready. The whole habit moves in. A man with one room left is nowhere near free. He's fed in full, through one door.
 

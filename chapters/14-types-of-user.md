@@ -60,7 +60,13 @@ You don't need to envy any of these men, or look down on any of them.
 
 Jesus told a story about two men who went up to the temple to pray. The first was a Pharisee, and the Pharisees were the strictest religious men of that day. He stood and prayed, "God, I thank you that I am not like the rest of men".
 
-Every man in the trap says a version of that prayer. "At least I don't look at porn." "At least it's only once a week." "At least it's only in my head." "At least I've never cheated." "At least I've never paid for it."
+Every man in the trap says a version of that prayer.
+
+- "At least I don't look at porn."
+- "At least it's only once a week."
+- "At least it's only in my head."
+- "At least I've never cheated."
+- "At least I've never paid for it."
 
 The second man was a tax collector, a man everyone despised. He compared himself with nobody. He only said, "God, be merciful to me, a sinner!" Jesus said he was the one who went home right with God that day.
 

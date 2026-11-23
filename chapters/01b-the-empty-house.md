@@ -54,7 +54,11 @@ Then why is he still there? Nobody wants a freeloader. You kept him because you 
 
 That belief is a lie, and it lives in your head, not the back room. He can't say a word. The lies do the talking, in your own voice.
 
-You know them. "A man needs it." "It helps me sleep." "I've earned it."
+You know them.
+
+- "A man needs it."
+- "It helps me sleep."
+- "I've earned it."
 
 The Little Monster's the easy one. Stop feeding him and he goes quiet in days. In a few weeks he's gone. The lies are what have held you for years, and this book takes them down one at a time.
 

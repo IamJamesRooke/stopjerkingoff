@@ -42,7 +42,13 @@ Uriah trusted his king, and his king was a city without walls.
 
 David broke faith with a man who trusted him. The man you've broken faith with most often is yourself.
 
-Count your promises. "Never again." "This is the last time." "Starting Monday." You meant every one, maybe hundreds of times, and you broke every one. Each was a promise to yourself.
+Count your promises.
+
+- "Never again."
+- "This is the last time."
+- "Starting Monday."
+
+You meant every one, maybe hundreds of times, and you broke every one. Each was a promise to yourself.
 
 Break your word to yourself often enough and you stop believing it. Then a man says "I'll start the business", or "I'll get fit", or "I'll be a better husband", and something inside quietly answers, "No, you won't. I know you." That's the deepest damage the habit does. It makes you a man whose word, in his own ears, is worth nothing.
 

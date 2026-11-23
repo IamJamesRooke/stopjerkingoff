@@ -4,7 +4,11 @@
 >
 > — Matthew 11:28
 
-The Big Monster isn't one lie. It's a pile of small ones, and each is tied to a moment in your day. "It helps me when I'm stressed." "It's the only way I get to sleep." "It's my reward."
+The Big Monster isn't one lie. It's a pile of small ones, and each is tied to a moment in your day.
+
+- "It helps me when I'm stressed."
+- "It's the only way I get to sleep."
+- "It's my reward."
 
 A man who quits by willpower leaves that pile standing. He stops the habit but keeps believing in it. So every bad day and every sleepless night he feels robbed, and sooner or later he goes back for what he thinks is his. We're going to take the pile apart, one occasion at a time.
 

@@ -6,7 +6,11 @@ Porn is built on this. It never runs out of new, so a man can chase "a bit more"
 
 So the fantasy creeps. First it's nothing much. Then a memory. Then a woman you actually know: someone at work, a friend's wife, the woman at the gym. Then a little help from the phone: a photo, a feed, a "harmless" video. Then porn, and then harder porn.
 
-Every man has a red line. "I only use my imagination." "I'd never think about a real person." "I'd never watch that kind of thing."
+Every man has a red line.
+
+- "I only use my imagination."
+- "I'd never think about a real person."
+- "I'd never watch that kind of thing."
 
 Every man knows the tug of war at that line. His conscience pulls one way and the Little Monster the other. Paul was describing it when he wrote, "the flesh lusts against the Spirit, and the Spirit against the flesh". They want opposite things, and you're the rope.
 

@@ -35,7 +35,11 @@ Men on the Willpower Method get through this part too. The itch isn't what bring
 
 ## The turn signal and the wipers {-}
 
-For years you've answered the itch at set times and in set places, so the places themselves now ring the bell. "I'm in bed, so it's time." "I've woken up hard, so I must." "Everyone's out."
+For years you've answered the itch at set times and in set places, so the places themselves now ring the bell.
+
+- "I'm in bed, so it's time."
+- "I've woken up hard, so I must."
+- "Everyone's out."
 
 You know this from changing cars. In the old one the turn signal was on the left. In the new one it's on the right. You know that perfectly well, and for two weeks you still switch on the wipers at every intersection.
 
