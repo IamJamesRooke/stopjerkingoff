@@ -2,7 +2,9 @@
 
 Yes. It does.
 
-For a few seconds at the end, it feels very good. The orgasm is real. The rush is real. Your body was built to deliver it, and it delivers. A book that told you otherwise would be lying, and you'd be right to close it.
+It feels incredible. The lead-up is a thrill, and for a few seconds at the end it's the strongest feeling your body can make. The orgasm is real. The high is real, and it's high. If it weren't, nobody would be hooked. A trap with bad bait catches nothing.
+
+A book that told you otherwise would be lying, and you'd be right to close it.
 
 So how can this book say the habit gives you nothing?
 
@@ -99,3 +101,5 @@ One more thing about that lead-up. It never stays the same size.
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
 
 <!-- 2026-11-24 PROOF LOOP (James, after using: it feels as good as or better than sex in the moment; the naughtiness is part of it; the shoes come off feeling SO good, 'the first time at least'; 'I ask myself why I want to quit at all'). Four short sections added before 'The next minute', each conceding the feeling first: the plaster egg (Tinbergen's supernormal-stimulus experiments, The Study of Instinct, 1951), the forbidden thrill (Proverbs 9:17 paraphrased, not quoted), the shrinking second and third time, and when the 'why quit' question gets asked. -->
+
+<!-- 2026-11-24 (James: 'the high makes you feel really high, if it weren't, there would be no attraction at all'). Opening concession made plain and unhedged. -->
