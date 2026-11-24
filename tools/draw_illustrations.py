@@ -673,5 +673,48 @@ def batch6(OUT):
     for (x1,y1,x2,y2) in [(260,300,238,284),(262,326,236,336),(380,276,392,250),(430,284,452,262)]:
         s+=f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="{YEL}" stroke-width="6"/>'
     s+=TAIL; open(OUT+"button-he-would-break-the-nightstand.svg","w").write(s)
-batch5(OUT)
-batch6(OUT)
+
+# ---- Seventh batch (chapters 4 to 7: The Empty House to The Flesh). ----
+def house_front(x,y,w=300,h=300,body="#FFF6E5",roof=RED,door="#5A3E9B"):
+    o=f'<rect x="{x}" y="{y}" width="{w}" height="{h}" fill="{body}"/>'
+    o+=f'<path d="M{x-20},{y} L{x+w/2},{y-120} L{x+w+20},{y} Z" fill="{roof}"/>'
+    return o
+def plate(x,y,rx=34,ry=9): return f'<ellipse cx="{x}" cy="{y}" rx="{rx}" ry="{ry}" fill="#fff"/>'
+def batch7(OUT):
+    W,H=680,440
+    # 1. The Empty House: he waits on the front step, his room still ready upstairs
+    s=head(W,H,"#7FD3FF")
+    s+=f'<circle cx="590" cy="70" r="34" fill="{YEL}" stroke="none"/>'
+    s+='<rect x="30" y="380" width="620" height="40" fill="#6BCB77" stroke="none"/><line x1="30" y1="380" x2="650" y2="380"/>'
+    s+=house_front(150,150,320,230)
+    s+='<rect x="190" y="180" width="80" height="70" fill="#BFE3FF"/><line x1="230" y1="180" x2="230" y2="250"/>'
+    # upstairs window: the room kept ready, a little made bed
+    s+='<rect x="350" y="180" width="90" height="70" fill="#FFD23F"/><rect x="362" y="222" width="66" height="20" rx="5" fill="#FF8FB1"/><rect x="364" y="212" width="20" height="12" rx="4" fill="#fff"/>'
+    s+='<rect x="282" y="276" width="62" height="104" fill="#5A3E9B"/>'+dot(332,330,4.5)
+    s+='<rect x="262" y="372" width="102" height="14" fill="#C9B79C"/><rect x="250" y="386" width="126" height="14" fill="#C9B79C"/>'
+    # the sulking monster on the step with a tiny suitcase
+    s+=monster(326,374,"dangle",0.9,stink=True)
+    s+=f'<rect x="392" y="348" width="44" height="34" rx="6" fill="{RED}"/><path d="M404,348 q10,-14 20,0" stroke-width="4"/>'
+    s+=TAIL; open(OUT+"empty-house-front-step.svg","w").write(s)
+
+    # 2. The Empty House: back inside with a bigger appetite and a stack of new plates
+    s=head(W,H,"#FFD23F")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="120" y="300" width="440" height="20" rx="6" fill="#9C6B3C"/><line x1="150" y1="320" x2="150" y2="408"/><line x1="530" y1="320" x2="530" y2="408"/>'
+    # tall wobbly stack of empty plates
+    for i in range(9):
+        s+=plate(430+(i%3-1)*3,292-i*16,44,11)
+    for i in range(4):
+        s+=plate(510+(i%2)*3,292-i*16,30,8)
+    # monster banging a fork and spoon, tantrum, on a chair
+    s+='<path d="M196,300 L196,180 Q245,150 294,180 L294,300 Z" fill="#7B4FD6"/>'
+    s+=monster(245,300,"bang",1.1,stink=True)
+    s+=f'<line x1="196" y1="294" x2="186" y2="254" stroke-width="5"/><path d="M180,252 l0,-16 M186,252 l0,-16 M192,252 l0,-16" stroke-width="3"/>'
+    s+=f'<line x1="294" y1="294" x2="304" y2="254" stroke-width="5"/><ellipse cx="306" cy="244" rx="8" ry="11" fill="#fff"/>'
+    for (x1,y1,x2,y2) in [(160,200,140,186),(330,196,350,180),(150,240,128,244),(340,236,362,238)]:
+        s+=f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="{RED}" stroke-width="5"/>'
+    s+=TAIL; open(OUT+"empty-house-stack-of-plates.svg","w").write(s)
+
+if __name__=="__main__":
+    which=sys.argv[2:] or ["5","6","7"]
+    for b in which: globals()["batch"+b](OUT)

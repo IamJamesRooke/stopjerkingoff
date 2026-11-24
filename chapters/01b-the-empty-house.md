@@ -1,18 +1,40 @@
 # The Empty House {#the-empty-house}
 
-A man throws one thing out of his house, and it comes back with seven friends. Jesus told that story.
+Jesus once told a short story about an evil spirit and the man it lived in. It's in the Gospel of Matthew, and it takes four sentences.
 
-An unclean spirit goes out of a man. It wanders about, finds nowhere to rest, and says, "I will return into my house from which I came out". It comes back and finds the house "empty, swept, and put in order". So it fetches seven other spirits, each one worse than itself, and they all move in. Jesus ends the story in one sentence: "The last state of that man becomes worse than the first."
+The Bible calls it an unclean spirit. One day it goes out of the man. It wanders through dry, empty country looking for a place to rest, and finds none. So it says, "I will return into my house from which I came out". The house is the man it left.
 
-You don't have to believe in spirits to know that house. The story isn't telling you that you have one. It's here because nobody has described quitting by force more exactly.
+Back it goes, and it finds the house "empty, swept, and put in order". Nobody has moved in. So the spirit goes and gets seven other spirits, each one worse than itself, and they all move in together. Jesus ends the story in one line: "The last state of that man becomes worse than the first."
+
+He told it as a warning to the crowd in front of him. But nobody has drawn a better picture of a man who cleans up his life and leaves it empty.
+
+You don't have to believe in spirits to know that house. Nobody's telling you that you have one. You know the house because you've lived in it.
 
 ## The house is you {-}
 
-The house is you, and you've swept it many times.
+You've swept it clean more than once. Maybe one of these is yours.
 
-You swore off porn, and for three weeks you were clean. Then you were losing an hour a night to a feed where every third square is a girl arching her back on a beach towel. You called it nothing. Or you deleted every app and blocked every site, and your memory started playing reruns in their place. Or you stopped the whole business by force, and poured the same hunger into texting a woman who'd stopped answering.
+- You swore off porn and stayed clean for three weeks. Then you were losing an hour a night to a feed where every third square is a girl arching her back on a beach towel. You called it nothing.
+- You deleted every app and blocked every site. Then your memory started showing reruns in their place.
+- You stopped the hand cold, by sheer force, and poured the same hunger into texting a woman who'd quit answering.
 
-You threw one thing out, and it came back with company. That's the Little Monster for you. Keep his room ready, and he's back with friends. They aren't new enemies. Each one is the same cat-sized pest, reeking of the same rotten cheese. It's the same hunger, eating off a different plate.
+Each time, you swept the house. Each time, you ended up worse off than before. That's Jesus's story, nearly line for line.
+
+## He waits on the front step {-}
+
+Here's how it goes with the Little Monster. You throw him out by force, and he doesn't go far. He plops down on the front step and waits. He knows his room is still up there, because you never gave it to anybody else. You never even took his name off the door.
+
+![](images/illustrations/empty-house-front-step.png){.illustration width=80%}
+
+So he gets back in, and he comes back starving. In Jesus's story the spirit brings seven worse than itself. Your pest brings a bigger appetite and a stack of new plates.
+
+- The feed.
+- The reruns.
+- The texts.
+
+Same pipsqueak, same reek of rotten cheese, a longer menu. And you end up worse off than when you started.
+
+![](images/illustrations/empty-house-stack-of-plates.png){.illustration width=80%}
 
 No wonder it feels unbeatable. No wonder you decided the fault was in you.
 
@@ -24,16 +46,17 @@ But keep two things straight. He has never once made you do it. He banged on the
 
 ![](images/illustrations/empty-house-punt.png){.illustration width=80%}
 
+He can't even get down the stairs by himself. He can't look, or touch, or go anywhere. Everything he gets, he gets with what you lend him: your eyes, your mind and your hand.
 
-And he can't leave that room. He can't look, or touch, or go anywhere. Everything he gets, he gets with what you lend him: your eyes, your mind and your hand.
+## Why he got back in {-}
 
-## Why he could come back {-}
+One detail in the story explains everything. Why could the spirit move back in? Because the house was empty. Swept, tidy and empty.
 
-One detail in the story explains everything. Why could the spirit come back? Because the house was empty.
+The man did everything right, as far as he knew. He put the thing out. He swept up. And he left its room standing ready, bed made, door open.
 
-The man did everything right, as far as he knew. He put it out. He swept. And he left the room standing ready, bed made, door open.
+That's quitting by force. A man stops the act and goes on believing it gave him something. So he misses it. There's a gap in his life where it used to be, and he keeps the room ready, just in case.
 
-That's quitting by force. A man stops the act and goes on believing it gave him something. So there's a gap in his life where it used to be, and a gap gets filled. The gap isn't real. It's only the belief that he gave you something. Lose the belief, and there's no gap.
+That gap isn't real. It's only the belief that the pest gave you something. Lose the belief, and there's no gap and no room kept ready.
 
 ## What rent did he ever pay? {-}
 
@@ -47,30 +70,31 @@ So he's no tenant. He's a freeloader. He eats your food and leaves the plate on 
 
 ![](images/illustrations/empty-house-dinner-upstairs.png){.illustration width=80%}
 
-
 ## What keeps him there {-}
 
 Then why is he still there? Nobody wants a freeloader. You kept him because you believed he was paying.
 
-That belief is a lie, and it lives in your head, not the back room. He can't say a word. The lies do the talking, in your own voice.
+That belief is a lie, and it lives in your head, not in the back room. He can't say a word. The lies do the talking, and they talk in your own voice.
 
-You've met a few of them already.
+- "It helps me sleep."
+- "I've earned it."
+- "It's not hurting anybody."
 
-Between him and the lies, he's the easy one. Stop feeding him and he goes quiet in days. In a few weeks he's gone. The lies are what have held you for years, and this book takes them down one at a time.
+Between him and the lies, he's the easy one. Stop feeding him and he goes quiet in days. The lies are what have held you for years, and this book takes them down one at a time.
 
 Nobody else can put him out for you. And you've never put him out for good, because part of you still thought he was worth keeping.
 
-Once a man sees he never paid, there's no room kept ready and nothing for him to come back to.
+Once you see he never paid, there's no room kept ready. There's nothing for him to come back to.
 
 ## Knowing comes first {-}
 
-Jesus gave the order of things in one line: "You will know the truth, and the truth will make you free." He was speaking of his own teaching, and a Christian will take it that way. But notice the order, because it holds for any man. Knowing comes first, and freedom follows. He didn't say effort will make you free.
+Jesus put the order of things in one line: "You will know the truth, and the truth will make you free." He said it to people who'd started to believe him, and he was talking about his own teaching. A Christian will take it that way. But notice the order, because it holds for any man. Knowing comes first, and freedom follows. He didn't say effort will make you free.
 
-A Christian will say more. Jesus's story is about a house left empty, and a house isn't meant to stand empty. It has an owner, and he means to live in it. God doesn't come to fill a gap. He was the owner all along.
+A Christian will say more. Jesus's story is about a house left empty, and a house isn't meant to stand empty. It has an owner, and he means to live in it. God doesn't move in to fill a gap. It was his house all along.
 
 ## He moves down the hall {-}
 
-One warning. Porn and the hand are only his first room. Shut it, and he doesn't leave. He moves down the hall. You'll hear it in your own voice: "Fine, not that. But surely this is all right."
+One warning. Porn and the hand are only where he starts. Shut that room, and he doesn't leave the house. He shuffles down the hall to the next room. You'll hear it in your own voice: "Fine, not that. But surely this is all right."
 
 When you hear that sentence, smile. That's him, changing rooms.
 
@@ -78,11 +102,11 @@ This book follows him room by room, and it goes further than you'd expect. You d
 
 ## Don't throw anything out yet {-}
 
-So don't throw anything out yet. Look first.
+So don't throw anything out yet. Look first, all the way to the last page.
 
-Until then, if he throws a tantrum, feed him. Just notice which of you is fetching and which of you is being served.
+Until then, he'll throw his tantrums, and you may well trudge up with his plate. If you do, notice which of you is fetching and which of you is being served.
 
-The day will come, near the end, when you show him the door. You'll do it once, and it'll be easy. By then you'll know he has nothing you want. Nobody gets dragged out. Sweeping never got rid of him. You stop believing he pays, you stop carrying up his dinner, and he leaves. His friends leave with him.
+The day will come, near the end, when you show him the door. You'll do it once, and it'll be easy, because by then you'll know he has nothing you want. There'll be no wrestling match on the stairs. Sweeping never got rid of him. You stop believing he pays. You stop carrying his dinner up. Then out he goes, and this time there's no room waiting for him.
 
 That leaves the question you've asked yourself a hundred times. You aren't stupid. You've wanted him out for years.
 
@@ -116,3 +140,5 @@ SOURCES: Matthew 12:43-45 (WEB, checked 2026-11-20). Quoted verbatim: "I will re
 <!-- 2026-11-23: Author's pass: evergreen fixes ('Explore page', 'left you on read'). -->
 
 <!-- 2026-11-23: cold readers: 'no body' / 'out in the world', the friends, 'the gap is the belief', 'the easy one' and 'Judge first' each tripped two or three; made plain. -->
+
+<!-- 2026-11-24 CHAPTER 4 TO THE LOCKED STANDARD (James: 'the opening didn't make sense because that one thing out of his house is an evil spirit'). The story is now told plainly first: an unclean (evil) spirit goes out of a man, wanders, returns to the house it left, finds it empty, swept and put in order, and brings seven worse spirits. Matthew 12:43-45 (WEB) quotations unchanged; Jesus told it as a warning to 'this evil generation', said here as 'the crowd in front of him'. The picture is squared with the Little Monster: he can't leave on his own, so when thrown out by force he waits on the front step because his room is kept ready; the 'seven' become a bigger appetite and new plates (the old 'seven friends who are the same pest' was muddled). The lies the chapter said 'you've met' are now restated in place. John 8:32 context (said to those who had begun to believe, 8:31). 'Nobody gets dragged out' became 'no wrestling match on the stairs' so it doesn't contradict throwing him out. 'Feed him' is no longer an order. Two new drawings: the front step, the stack of plates. -->
