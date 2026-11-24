@@ -32,6 +32,8 @@ Alok Kanojia, an American psychiatrist who treats porn addiction, says the same 
 
 You're carrying two loads. One is the day's real trouble. The other is the Little Monster's low grumble, which you're so used to you can't tell it from the first. When you masturbate, the second load lifts for a moment, the total drops, and you feel better. That lift is real. But the email, the bill and the argument are exactly where you left them. Now add the flatness, the short night and one more broken promise. You're tenser than if you'd never had the habit at all.
 
+So be honest about last time. Did the edge come off? Or did a tantrum just stop for an hour?
+
 The habit takes credit for easing a pressure it largely built.
 
 Try a test. You expected the house to yourself for an evening, and then the plans changed. Your wife's night out is canceled, or a roommate comes home early. Remember that flash of irritation, almost panic, far too big for what happened? A free man doesn't get that. The habit put it there.
@@ -86,3 +88,5 @@ Those are the big days. Most of the habit happens on the small ones, in the last
 <!-- 2026-11-21 overnight round (read-aloud, plain English, Method Check 3, Pastor Review 3, Reader Report 4). Exact before/after is in editorial/OVERNIGHT-2026-11-21.md. -->
 
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
+
+<!-- 2026-11-24 PROOF LOOP (James, 2 a.m., high stress: 'trying to get the edge off, I know it's a lie'; wants a reminder beside the no-cutting-down rule: did you really get the edge off, or give in to the monster's tantrum?). Same question closes the stress answer here. -->

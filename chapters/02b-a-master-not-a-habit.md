@@ -40,6 +40,8 @@ Each year the calm weeks get fewer. He's left home, there's a job, rent, a wife,
 
 Not as much as he thinks. He's mixing up responsibility with stress. He wasn't carefree at fourteen. He was a bundle of nerves. What's grown is the habit's share of the load. It doesn't calm a man down. It winds him up, quietly, one guilty night at a time: another secret to keep, another promise broken, another morning started already behind. He blames the job.
 
+You're not quitting yet, and nobody's asking you to cut down. So the next time a day flattens you, go ahead and carry his plate up. Just ask one thing on the way back down the stairs. Did you take the edge off? Or did you give in to a tantrum?
+
 ## The two causes {-}
 
 Stopping can be easy for any man. First you need the facts about why you're still doing it, and they aren't frightening. They come down to two things:
@@ -72,3 +74,5 @@ Take the flesh first. It's the smaller of the two, and it's not what you think i
 <!-- 2026-11-23 FLOW PASS (book-wide): the freed man's 'slave' testimony and 'That is why it seems so hard' moved up to sit straight after the master paragraph ('the same word' had nothing near to point at); 'one of him' is now 'one master'; the note on the book's terms cut to one sentence. -->
 
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
+
+<!-- 2026-11-24 PROOF LOOP (James, 2 a.m., high stress: 'trying to get the edge off, I know it's a lie'; wants a reminder beside the no-cutting-down rule: did you really get the edge off, or give in to the monster's tantrum?). Reminder added after the stress paragraph here (the Intro's rules are locked). -->
