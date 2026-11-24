@@ -8,13 +8,13 @@ First, get one thing straight. There's nothing wrong with your sex drive.
 
 A Christian will tell you God made it, and made it strong on purpose. Desire for a woman is the reason any of us are here. It's meant to pull a man out of himself and toward a wife, a home and children.
 
-If you don't believe, the point still stands. That drive gets a man out of his room and toward a woman he can build a home with. No child was ever made behind a locked door.
+If you don't believe, the point still stands. That drive gets a man out of his room and toward a woman he can build a home with. No family was ever started behind a locked door with a phone.
 
-C.S. Lewis, the author of the Narnia stories, also wrote a book called *The Screwtape Letters*. In it a senior devil named Screwtape writes to a junior devil, coaching him on how to tempt one ordinary man. At one point Screwtape grumbles about God: "He made the pleasures: all our research so far has not enabled us to produce one." Hell can't make a pleasure. It can only bend one.
+C.S. Lewis, the Christian writer best known for the Narnia stories, also wrote a book called *The Screwtape Letters*. In it a senior devil named Screwtape writes to a junior devil, coaching him on how to tempt one ordinary man. At one point Screwtape grumbles about God: "He made the pleasures: all our research so far has not enabled us to produce one." Hell can't make a pleasure. It can only bend one.
 
 A preacher who was bound by this habit for years sums it up in a line. The trouble, he says, is "the wrong use of the right thing. Pleasure is not bad."
 
-The wrong use comes from what Paul calls "the flesh". Paul was the apostle who wrote much of the New Testament, and in a letter to the churches of Galatia he wrote that "the flesh lusts against the Spirit". He doesn't mean your skin. He means the part of a man that wants what it wants, now, for itself, whatever it costs. If you're not a believer, call it appetite. Whatever you call it, you've met it.
+The wrong use comes from what Paul calls "the flesh". Paul was the apostle who wrote much of the New Testament, and in a letter to the churches of Galatia he wrote that "the flesh lusts against the Spirit". By the Spirit he means God's own Spirit at work in a man. By the flesh he doesn't mean your skin. He means the part of a man that wants what it wants, now, for itself, whatever it costs. If you're not a believer, call it appetite. Whatever you call it, you've met it.
 
 Lust is what happens when the flesh gets hold of desire. Desire says, "She is lovely." Lust says, "I want that, for me, now." Desire sees a person. Lust sees something to use.
 
@@ -44,7 +44,7 @@ It's a shortcut across a lawn. The first time, you barely leave a mark. Walk the
 ![](images/illustrations/flesh-path-across-the-lawn.png){.illustration width=80%}
 
 
-That's the whole mechanism. You don't have a broken brain, an unusually high drive or a weak character. You have a path worn in the grass.
+You don't have a broken brain or a weak character. You have a path worn in the grass. And grass grows back. The path isn't what keeps you on it. What keeps you on it is the belief that something good waits at the other end.
 
 One more thing. The urge isn't really desire for a woman. It's the wish to end a restless feeling. Hold on to that, because everything hangs on it.
 
@@ -98,3 +98,5 @@ That restless feeling is the Little Monster. Time to meet him properly.
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
 
 <!-- 2026-11-24 CHAPTER 7 TO THE LOCKED STANDARD (James: chapters 4 to 7 up to the standard of the Intro to chapter 3, with all the drawings). The epigraph is credited to Paul, and Paul and the letter to the Galatians are named in place where 'the flesh' is defined. The cue is shown as a scene (the shower, and the banging starts upstairs). One new drawing: the shower cue. Galatians 5:17 (WEB) quoted from its first clause only in the body. -->
+
+<!-- 2026-11-24 reader panel: 'No child was ever made behind a locked door' (false as stated) is now 'No family was ever started behind a locked door with a phone'; Lewis named as a Christian writer; 'the Spirit' explained; the path in the grass reconciled with 'a master, not a habit' (grass grows back; the belief keeps him on the path). -->
