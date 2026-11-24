@@ -40,6 +40,36 @@ Look at where the excitement sits. It isn't at the end. It's in the lead-up: the
 
 **The third is what the rush is for.** A body doesn't hand out its strongest pleasure for nothing. That rush was built to tie a man to a woman. The habit spends it on nobody, behind a locked door, then wipes it up.
 
+## "Better than the real thing" {-}
+
+In the moment, your brain may tell you this beats sex. Believe that it says so. It's an honest report.
+
+Now look at what it's reporting on. In the 1950s a Dutch scientist named Niko Tinbergen slipped plaster eggs into birds' nests. He made them bigger than real eggs, with bolder spots. The birds left their own eggs and climbed onto the fakes. Some fakes were so big the bird kept sliding off, and she climbed back on anyway.
+
+Nothing was wrong with those birds. Their wiring said "big spotted egg, sit", and somebody built an egg that shouted louder than a real one.
+
+The screen is that egg. A real woman is one woman, with a mood and a mind and a no. The screen offers a hundred in ten minutes, each one new, and not one of them can turn you down. Nothing in your wiring was built for that, so it scores it off the chart.
+
+A plaster egg never hatches. The bird warms it for nothing, and her own go cold.
+
+## The naughty part {-}
+
+Part of the kick is that it's forbidden. The locked door. The ear cocked for footsteps. The getting away with it. That's real too. A proverb three thousand years old says stolen water tastes sweet.
+
+Ask what's sweet about it. It isn't the water. It's the stealing. The secret is doing a job the thing itself can't do.
+
+And look at what that tells you. Nobody gets a thrill from sneaking a glass of orange juice. You only sneak what part of you has already judged.
+
+## "The first time, at least" {-}
+
+Be exact about how good it was. The first one of the evening is the big one. Go back for a second, and it's a shadow. The third is a chore. Every man knows this, and nobody says it.
+
+A real pleasure doesn't work like that. The second swim is as good as the first. This thing pays once, then has you chasing the payment. It's the tight shoe again. Yanking it off feels wonderful exactly once, and only because it pinched all day.
+
+## "Why would I ever quit?" {-}
+
+Right at the peak, that question sounds like it has no answer. Notice when it gets asked. At the top of the rush, and never the morning after.
+
 ## The next minute {-}
 
 Here's a simple test for a real pleasure. Ask how you feel one minute later.
@@ -67,3 +97,5 @@ One more thing about that lead-up. It never stays the same size.
 <!-- 2026-11-23 PROOF LOOP: James reported the lie in his head after using twice in a row: 'it feels good and I'm doing nothing wrong. It's like candy or Coca-Cola. One little vice isn't going to hurt me.' New section 'One little vice' answers it here in his words (candy needs no locked door, a little vice stays little, a little vice can be dropped). 'Doing nothing wrong' is answered in The World's Lies. -->
 
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
+
+<!-- 2026-11-24 PROOF LOOP (James, after using: it feels as good as or better than sex in the moment; the naughtiness is part of it; the shoes come off feeling SO good, 'the first time at least'; 'I ask myself why I want to quit at all'). Four short sections added before 'The next minute', each conceding the feeling first: the plaster egg (Tinbergen's supernormal-stimulus experiments, The Study of Instinct, 1951), the forbidden thrill (Proverbs 9:17 paraphrased, not quoted), the shrinking second and third time, and when the 'why quit' question gets asked. -->
