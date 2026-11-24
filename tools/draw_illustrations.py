@@ -766,6 +766,53 @@ def batch8(OUT):
     s+=f'<rect x="520" y="230" width="90" height="10" rx="4" fill="#ccc"/><line x1="565" y1="240" x2="565" y2="408"/><path d="M540,230 L540,200 L580,190" stroke-width="5"/>'
     s+=TAIL; open(OUT+"difficult-dentist-waiting-room.svg","w").write(s)
 
+def batch9(OUT):
+    W,H=680,440
+    # 1. A Master, Not a Habit: the light switch on the wrong wall
+    s=head(W,H,"#FFA630")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="60" y="40" width="250" height="370" fill="#FFF6E5"/><rect x="370" y="40" width="250" height="370" fill="#FFE3C7"/>'
+    s+=f'<rect x="520" y="200" width="30" height="46" rx="5" fill="#fff"/><rect x="530" y="210" width="10" height="18" rx="3" fill="{INK}"/>'
+    s+=man(250,190,"squeeze")+legs(250,342,16)
+    s+='<path d="M236,236 L200,200 L176,214"/>'
+    s+='<path d="M264,236 L300,290"/>'
+    s+=f'<circle cx="172" cy="216" r="12" fill="#FFE3C7"/>'
+    for (x1,y1,x2,y2) in [(150,190,134,176),(146,216,126,216),(150,242,134,256)]:
+        s+=f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="{RED}" stroke-width="5"/>'
+    s+=f'<path d="M560,180 q20,-20 30,0" stroke="{INK}" stroke-width="4"/>'
+    s+=TAIL; open(OUT+"master-the-light-switch.svg","w").write(s)
+
+    # 2. A Master, Not a Habit: the pipsqueak on a throne, served on a tray
+    s=head(W,H,"#B388EB")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=f'<path d="M420,410 L420,200 L450,150 L480,190 L510,140 L540,190 L570,150 L600,200 L600,410 Z" fill="{RED}"/>'
+    s+=f'<rect x="440" y="300" width="140" height="30" rx="6" fill="{YEL}"/>'
+    s+=monster(510,300,"bang",1.0,stink=True)
+    s+=f'<path d="M490,236 L496,214 L506,228 L514,208 L522,228 L532,214 L536,236 Z" fill="{YEL}" stroke-width="3.5"/>'
+    s+=man(220,170,"blank")+legs(220,322,16)
+    s+='<path d="M206,216 L250,270 L300,262"/><path d="M234,216 L280,250 L320,248"/>'
+    s+=f'<rect x="290" y="240" width="90" height="10" rx="4" fill="#ccc"/><path d="M304,240 C304,206 366,206 366,240 Z" fill="#ddd"/><circle cx="335" cy="204" r="5" fill="#ddd"/>'
+    s+=f'<path d="M170,150 q-14,10 -6,26 q10,-8 6,-26 Z" fill="#4FB3FF" stroke-width="2"/>'
+    s+=TAIL; open(OUT+"master-the-pipsqueak-king.svg","w").write(s)
+
+    # 3. The Flesh: he steps into the shower, and upstairs the banging starts
+    s=head(W,H,"#7FD3FF")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="30" y="140" width="620" height="16" fill="#FFF6E5"/><line x1="30" y1="140" x2="650" y2="140"/><line x1="30" y1="156" x2="650" y2="156"/>'
+    s+=monster(330,140,"bang",0.75)
+    for (x1,y1,x2,y2) in [(270,166,256,186),(330,168,330,192),(390,166,404,186)]:
+        s+=f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="{YEL}" stroke-width="5"/>'
+    s+='<rect x="380" y="200" width="200" height="210" fill="#E6F6FF"/><path d="M380,200 L380,410" stroke-width="5"/>'
+    s+='<path d="M560,180 L560,215 L520,215" stroke-width="6"/><circle cx="512" cy="222" r="14" fill="#ccc"/>'
+    for (x,y) in [(500,250),(520,270),(490,290),(530,300),(510,320),(486,340)]:
+        s+=f'<line x1="{x}" y1="{y}" x2="{x-4}" y2="{y+14}" stroke="#4FB3FF" stroke-width="4"/>'
+    s+=f'<path d="M120,410 L120,300 Q120,280 140,280 L180,280 L180,410" fill="#fff"/>'
+    s+=man(300,236,"blank","#fff")
+    s+='<path d="M296,388 L280,408 M314,388 L330,408" stroke-width="5"/>'
+    s+='<path d="M286,282 L258,330"/><path d="M314,282 L380,300"/>'
+    s+=f'<path d="M262,226 q-12,8 -6,22 q9,-7 6,-22 Z" fill="#4FB3FF" stroke-width="2"/>'
+    s+=TAIL; open(OUT+"flesh-the-shower-cue.svg","w").write(s)
+
 if __name__=="__main__":
-    which=sys.argv[2:] or ["5","6","7","8"]
+    which=sys.argv[2:] or ["5","6","7","8","9"]
     for b in which: globals()["batch"+b](OUT)

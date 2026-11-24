@@ -4,21 +4,26 @@ When every other explanation has collapsed, most men settle on this one: it's on
 
 It sounds like an answer, but it isn't one.
 
-Are habits hard to break? You break them all the time. You move to a new house, and for two days your hand slaps the wrong wall for the light switch. By the weekend it doesn't. You rent a car in a country that drives on the other side, and after one nervous mile you're fine. You start a new job and your whole morning is rearranged within a week. People drop thirty-year habits without a backward glance, even ones they loved.
+Are habits hard to break? You break them all the time. You move to a new house, and for two days your hand slaps the wrong wall for the light switch. By the weekend it doesn't.
 
-So why would this one be different? It leaves you restless when you skip it and ashamed when you don't. You'd smash a nightstand to be rid of it. And stopping asks nothing of you. You only have to not do one thing. Why can't you?
+![](images/illustrations/master-the-light-switch.png){.illustration width=80%}
+ You rent a car in a country that drives on the other side, and after one nervous mile you're fine. You start a new job and your whole morning is rearranged within a week. People drop thirty-year habits without a backward glance, even ones they loved.
+
+So why would this one be different? It leaves you restless when you skip it and ashamed when you don't. Put a button on your nightstand that would wipe it out of your life, and you'd smash the nightstand pressing it. And stopping asks nothing of you. You only have to not do one thing. Why can't you?
 
 Because it isn't a habit.
 
-Jesus had the right word for it. "Everyone who commits sin is the bondservant of sin," he said. A bondservant is a slave. Two thousand years before anyone studied addiction, he'd already named it. A man with a habit is in charge of it. This thing is in charge of you. Call it sin, or addiction, or a trap. Men call it the habit, and so will this book. Just never forget what it is. IT'S A MASTER, NOT A HABIT.
+Jesus had the right word for it. He was arguing with men who said they'd never been anyone's slaves, and he told them, "Everyone who commits sin is the bondservant of sin." A bondservant is a slave. Two thousand years before anyone studied addiction, he'd already named it. A man with a habit is in charge of it. This thing is in charge of you. Call it sin, or addiction, or a trap. Men call it the habit, and so will this book. Just never forget what it is. IT'S A MASTER, NOT A HABIT.
 
 The men who've gotten out reach for the same word without being told. One of them, eight months clean, looked back and counted. He wrote that he'd been a slave to it since he was twelve years old. He was thirty.
 
-That's why it seems so hard to "give up". The slave has come to believe his master is also his comforter. He thinks the pleasure is worth its price, and the crutch holds him up. He thinks life without it would have a hole in the middle.
+That's why it seems so hard to "give up". The slave has come to believe his master is also his comforter. He thinks the pleasure is worth its price. He thinks it's a crutch that holds him up. He thinks life without it would have a hole in the middle.
 
-There's only one master. What sends you to the bathroom is what opens the site. They look like two habits, but one master stands behind both.
+And there's only one master. The thing that sends you to the bathroom with your hand is the same thing that opens the porn site. They look like two habits, but one master stands behind both.
 
-The joke is his size. For years you've been running up the stairs for a pipsqueak in your own back room. He can't make you do a thing. You obeyed because you thought he was paying.
+Now look at who's been giving the orders. That's the joke. For years you've been running up the stairs for a pipsqueak in your own back room. He bangs, he wails, he kicks his little feet, and you come running with a tray. He can't make you do a thing. You obeyed because the lies told you he was paying.
+
+![](images/illustrations/master-the-pipsqueak-king.png){.illustration width=80%}
 
 Now the good news. Once you see how the master holds you, and why you really reach for the habit, you'll stop. Just like that. Before long only two mysteries will be left. One is how it ever had a grip on you. The other is why you can't get your friends to see what you see.
 
@@ -32,9 +37,16 @@ Later something does feel wrong: the first guilt, or the first prayer he doesn't
 
 So whose fault is it? One man who got out said it well: "I would say it is our fault and not our fault at the same time". He's right on both counts. Nobody chooses to walk into the trap, but a man does have to choose to walk out.
 
-When does a man try to break out? Almost never on a good day. He decides after an incident. He's nearly caught. Or a friend says something that lands. Or he looks at his wife and feels like a fraud. Or he's with a real woman and his body lets him down. So he quits on the very day he feels worst, which is the very day he most wants his old comforter. He's stacked a second misery on the first and tossed out the only medicine he knows.
+When does a man try to break out? Almost never on a good day. He decides after something goes wrong.
 
-A few days of that and his resolve turns to mush. "I picked a bad week. I'll do it when things calm down. After finals. When I've got a girlfriend. Once I'm married." Then things do calm down, and with the pressure off, the reason to stop is gone too. He drifts on until the next incident.
+- He's nearly caught.
+- A friend says something that lands.
+- He looks at his wife and feels like a fraud.
+- He's with a real woman, and his body lets him down.
+
+So he quits on the very day he feels worst, which is the very day he most wants his old comforter. He's stacked a second misery on the first and thrown away the only comfort he knows.
+
+A few days of that, and his resolve turns to mush. "I picked a bad week. I'll do it when things calm down. After finals. When I've got a girlfriend. Once I'm married." Then things do calm down, and with the pressure off, the reason to stop is gone too. He drifts on until the next incident.
 
 Each year the calm weeks get fewer. He's left home, there's a job, rent, a wife, small children. Life, he decides, just gets more stressful as you go.
 
@@ -53,7 +65,7 @@ Take those two away, and nothing is left to hold you.
 
 The men who've walked out aren't missing a thing. They aren't clenching their jaws or staring back with longing. If anything they seem faintly puzzled that they ever bothered.
 
-Before long you'll be one of them. Jesus said the truth makes a man free, and a few verses later he said it is the Son who does it. This book is about one small corner of that truth: the lies lust tells. If you're not a believer, you can still test those lies for yourself.
+Before long you'll be one of them. Jesus said the truth makes a man free, and a few verses later he said it's the Son, meaning himself, who does it. This book is about one small corner of that truth: the lies lust tells. If you're not a believer, you can still test those lies for yourself.
 
 Take the flesh first. It's the smaller of the two, and it's not what you think it is.
 
@@ -76,3 +88,5 @@ Take the flesh first. It's the smaller of the two, and it's not what you think i
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
 
 <!-- 2026-11-24 PROOF LOOP (James, 2 a.m., high stress: 'trying to get the edge off, I know it's a lie'; wants a reminder beside the no-cutting-down rule: did you really get the edge off, or give in to the monster's tantrum?). Reminder added after the stress paragraph here (the Intro's rules are locked). -->
+
+<!-- 2026-11-24 CHAPTER 6 TO THE LOCKED STANDARD (James: get chapters 4 to 7 up to the standard of the Intro to chapter 3, with all the drawings). Fixes: the nightstand line now restates the button in place instead of pointing back to it; John 8:34 given its setting (said to men who claimed they had never been anyone's slaves, John 8:33); 'the joke is his size' clarified so the master and the pipsqueak aren't two different things (the lies make the man obey him); 'the only medicine he knows' is now 'comfort', so the book doesn't call the habit medicine. The proof-loop lines about taking the edge off are untouched. Two new drawings: the light switch, the pipsqueak king. -->

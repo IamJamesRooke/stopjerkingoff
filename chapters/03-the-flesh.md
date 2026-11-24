@@ -2,7 +2,7 @@
 
 > "For the flesh lusts against the Spirit, and the Spirit against the flesh; and these are contrary to one another, that you may not do the things that you desire."
 >
-> — Galatians 5:17
+> — Paul, in Galatians 5:17
 
 First, get one thing straight. There's nothing wrong with your sex drive.
 
@@ -14,7 +14,7 @@ C.S. Lewis, the author of the Narnia stories, also wrote a book called *The Scre
 
 A preacher who was bound by this habit for years sums it up in a line. The trouble, he says, is "the wrong use of the right thing. Pleasure is not bad."
 
-The wrong use comes from what Paul calls "the flesh". He doesn't mean your skin. He means the part of a man that wants what it wants, now, for itself, whatever it costs. If you're not a believer, call it appetite. Whatever you call it, you've met it.
+The wrong use comes from what Paul calls "the flesh". Paul was the apostle who wrote much of the New Testament, and in a letter to the churches of Galatia he wrote that "the flesh lusts against the Spirit". He doesn't mean your skin. He means the part of a man that wants what it wants, now, for itself, whatever it costs. If you're not a believer, call it appetite. Whatever you call it, you've met it.
 
 Lust is what happens when the flesh gets hold of desire. Desire says, "She is lovely." Lust says, "I want that, for me, now." Desire sees a person. Lust sees something to use.
 
@@ -35,7 +35,9 @@ It's simple, and you can check every step against your own life.
 2. **An urge.** A small, restless "go on".
 3. **Relief.** You do it, or you open the site. The fidgeting stops.
 
-That's the loop: cue, urge, relief. Every lap around it teaches you that this cue leads to that relief. Do it a few hundred times and you know the lesson by heart. The cue alone now sets off the urge. You don't have to be aroused, or in the mood, or even paying attention.
+That's the loop: cue, urge, relief. Every lap around it teaches you that this cue leads to that relief. Do it a few hundred times and you know the lesson by heart. The cue alone now sets off the urge. You step into the shower, and upstairs the banging starts. You don't have to be aroused, or in the mood, or even paying attention.
+
+![](images/illustrations/flesh-the-shower-cue.png){.illustration width=80%}
 
 It's a shortcut across a lawn. The first time, you barely leave a mark. Walk the same line every night for ten years and you've worn a bare strip of dirt, and your feet take it without asking.
 
@@ -94,3 +96,5 @@ That restless feeling is the Little Monster. Time to meet him properly.
 <!-- 2026-11-23 FLOW PASS (book-wide): the definition of 'the flesh' now opens by picking up the preacher's 'wrong use' in the line before it, so it no longer arrives unannounced. -->
 
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
+
+<!-- 2026-11-24 CHAPTER 7 TO THE LOCKED STANDARD (James: chapters 4 to 7 up to the standard of the Intro to chapter 3, with all the drawings). The epigraph is credited to Paul, and Paul and the letter to the Galatians are named in place where 'the flesh' is defined. The cue is shown as a scene (the shower, and the banging starts upstairs). One new drawing: the shower cue. Galatians 5:17 (WEB) quoted from its first clause only in the body. -->
