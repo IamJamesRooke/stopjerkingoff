@@ -4,7 +4,7 @@ Jesus once told a short story about an evil spirit and the man it lived in. It's
 
 The Bible calls it an unclean spirit. One day it goes out of the man. It wanders through dry, empty country looking for a place to rest, and finds none. So it says, "I will return into my house from which I came out". The house is the man it left.
 
-Back it goes, and it finds the house "empty, swept, and put in order". Nobody has moved in. So the spirit goes and gets seven other spirits, each one worse than itself, and they all move in together. Jesus ends the story in one line: "The last state of that man becomes worse than the first."
+It goes back and finds the house "empty, swept, and put in order". Nobody has moved in. So the spirit goes and gets seven other spirits, each one worse than itself, and they all move in together. Jesus ends the story in one line: "The last state of that man becomes worse than the first."
 
 He told it as a warning to the crowd in front of him. But nobody has drawn a better picture of a man who cleans up his life and leaves it empty.
 
@@ -15,21 +15,21 @@ You don't have to believe in spirits to know that house. Nobody's telling you th
 You've swept it clean more than once. Maybe one of these is yours.
 
 - You swore off porn and stayed clean for three weeks. Then you were losing an hour a night to a feed where every third square is a girl arching her back on a beach towel. You called it nothing.
-- You deleted every app and blocked every site. Then your memory started showing reruns in their place.
+- You deleted every app and blocked every site. Then your memory started playing old scenes in their place, like reruns of a TV show.
 - You stopped the hand cold, by sheer force, and poured the same hunger into texting a woman who'd quit answering.
 
-Each time, you swept the house. Each time, you ended up worse off than before. That's Jesus's story, nearly line for line.
+Each time, you swept the house. Each time, you ended up worse off than before. Jesus aimed his story at the people of his day, not at you. But the shape fits: swept clean, left empty, and worse off at the end.
 
 ## He waits on the front step {-}
 
-Here's how it goes with the Little Monster. You throw him out by force, and he doesn't go far. He plops down on the front step and waits. He knows his room is still up there, because you never gave it to anybody else. You never even took his name off the door.
+Here's how it goes with the Little Monster. You throw him out by force, and he doesn't go far. He sits down on the front step and waits. He knows his room is still up there, because you never gave it to anybody else. You never even took his name off the door.
 
 ![](images/illustrations/empty-house-front-step.png){.illustration width=80%}
 
-So he gets back in, and he comes back starving. In Jesus's story the spirit brings seven worse than itself. Your pest brings a bigger appetite and a stack of new plates.
+The next time you open the door, he slips back in, and he comes back starving. In Jesus's story the spirit brings seven worse than itself. Your pest brings a bigger appetite and a stack of new plates.
 
 - The feed.
-- The reruns.
+- The old scenes in your head.
 - The texts.
 
 Same pipsqueak, same reek of rotten cheese, a longer menu. And you end up worse off than when you started.
@@ -46,7 +46,7 @@ But keep two things straight. He has never once made you do it. He banged on the
 
 ![](images/illustrations/empty-house-punt.png){.illustration width=80%}
 
-He can't even get down the stairs by himself. He can't look, or touch, or go anywhere. Everything he gets, he gets with what you lend him: your eyes, your mind and your hand.
+On his own he can't do a thing. He can't look, or touch, or go anywhere. Everything he gets, he gets with what you lend him: your eyes, your mind and your hand.
 
 ## Why he got back in {-}
 
@@ -56,7 +56,7 @@ The man did everything right, as far as he knew. He put the thing out. He swept 
 
 That's quitting by force. A man stops the act and goes on believing it gave him something. So he misses it. There's a gap in his life where it used to be, and he keeps the room ready, just in case.
 
-That gap isn't real. It's only the belief that the pest gave you something. Lose the belief, and there's no gap and no room kept ready.
+The gap feels real. But look at what's in it. Boredom and loneliness were there before he moved in, and he never fixed either one. What's left is only the belief that he gave you something. Lose the belief, and there's no gap and no room kept ready.
 
 ## What rent did he ever pay? {-}
 
@@ -88,9 +88,9 @@ Once you see he never paid, there's no room kept ready. There's nothing for him 
 
 ## Knowing comes first {-}
 
-Jesus put the order of things in one line: "You will know the truth, and the truth will make you free." He said it to people who'd started to believe him, and he was talking about his own teaching. A Christian will take it that way. But notice the order, because it holds for any man. Knowing comes first, and freedom follows. He didn't say effort will make you free.
+Jesus put the order of things in one line: "You will know the truth, and the truth will make you free." He said it to people who'd started to believe him, and he was talking about his own teaching. A Christian will take it that way. But notice the order, because it holds for any man. Knowing comes first, and freedom follows.
 
-A Christian will say more. Jesus's story is about a house left empty, and a house isn't meant to stand empty. It has an owner, and he means to live in it. God doesn't move in to fill a gap. It was his house all along.
+A Christian will say more. In Jesus's story the danger was a house left empty, and a house isn't meant to stand empty. It has an owner, and he means to live in it. God isn't a patch for a gap. It was his house all along, and a believer asks him back in.
 
 ## He moves down the hall {-}
 

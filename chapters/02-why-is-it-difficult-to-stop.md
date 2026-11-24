@@ -2,51 +2,47 @@
 
 > "Most certainly I tell you, everyone who commits sin is the bondservant of sin."
 >
-> — John 8:34
+> — Jesus, in John 8:34
 
-Ask a man why it's so hard to stop, and he'll give you a reason. Ask him next year, and it'll be a different one.
+Ask a man why it's so hard to stop, and he'll give you a reason. Ask him next year, and he'll give you a different one.
 
 ## The answer keeps changing {-}
 
 In the early years the reason is casual. "I'll stop. Just not tonight."
 
-Augustine became one of the great teachers of the early church, but first he spent years ruled by lust, praying much the same prayer: "Give me chastity and continency, only not yet." Sixteen centuries later, men still pray it.
+Augustine was a young man in North Africa about sixteen hundred years ago, and lust ran his life for years. He went on to become one of the great teachers of the early church. Before that, he prayed a prayer you may know by heart: "Give me chastity and continency, only not yet." Chastity means keeping sex for marriage. Continency means self-control. Sixteen centuries later, men still pray it.
 
 Then comes the night that changes the answer. A man says no out loud, and watches his own thumb unlock the phone.
 
-After enough nights like that, you decide the fault is in you. "I just don't have the willpower." Or you decide the fault is in nature. "Men are built this way. There must be something in it I can't live without."
+![](images/illustrations/difficult-thumb-unlocks-the-phone.png){.illustration width=80%}
+
+After enough nights like that, you decide the fault is in you. "I just don't have the willpower." Or you decide it's nature. "Men are built this way. There must be something in it I can't live without."
 
 Nobody in the trap can explain it. He just knows where he keeps ending up.
 
-## One question {-}
+## Standard issue {-}
 
-Find any man with the habit and ask him one thing. "Suppose you could go back to the week before your first time, knowing what you know now. Would you start?"
+Here's the strange part. Millions of men do this, many of them every day. Yet no man in the trap would choose it twice. Send him back to the week before his first time, and he'd walk the other way.
 
-"Not a chance."
-
-Strange, isn't it? Millions of men do this, many of them daily, and hardly one would choose it again.
-
-So the puzzle was never how stopping could be easy. The puzzle is why it seems hard. And under that sits a bigger one. Why does anybody do it at all?
-
-## Nobody sold it to you {-}
-
-Think about how you started. Nobody sat you down and sold it to you. Your own body turned up one day with a new trick. The jokes in the locker room said every boy did it, so you didn't think twice. Porn arrived just as quietly: a pop-up, a friend's phone, a link somebody sent as a joke.
-
-Then you spent ten, twenty or thirty years wishing you could leave it alone. It doesn't take thirty years to feel like a lifetime. One young man wrote:
+Instead he spends ten, twenty or thirty years wishing he could leave it alone. It doesn't take thirty years to feel like a lifetime. One young man wrote:
 
 > "I've been struggling with lust for 14 years. Worst part? I'm only 23."
 
-You never told a soul. You assumed you were the only man you knew who couldn't stop.
+You never told a soul. You figured you were the only man you knew who couldn't stop.
 
 You're not unique. You're standard issue.
 
+So the puzzle was never how stopping could be easy. The puzzle is why it seems hard. And under that sits a bigger one. Why does anybody do it at all?
+
 ## What you get for it {-}
 
-What does the habit give you in return? A pleasure you regret before you've caught your breath, and plan again by the next evening. You wish you weren't doing it while you do it. You're restless for it when you don't.
+Start with what the habit pays you. A pleasure you regret before you've caught your breath, and plan again by the next evening. You wish you weren't doing it while you do it. You're restless for it when you don't.
 
-Then comes the bill. A man says "never again" on Monday night and breaks it on Tuesday. He clears the history while his wife sleeps in the next room. He lies in bed on Saturday morning, too drained to get up for the hike he planned. Each time he thinks a little less of himself. He may run every other part of his life well, and he still carries that around all day like a stone in his pocket.
+Then comes the bill. A man says "never again" on Monday night and breaks it on Tuesday. He clears the history while his wife sleeps in the next room. He lies in bed on Saturday morning, too drained to get up for the hike he planned. Each time he thinks a little less of himself. He may run every other part of his life well, and he still lugs that around all day like a stone in his pocket.
 
-What does he get for carrying it? One man looked back over twenty years and gave the honest answer:
+![](images/illustrations/difficult-stone-in-his-pocket.png){.illustration width=80%}
+
+What does he get for lugging it? One man looked back over twenty years and gave the honest answer:
 
 > "I wasted 20 years using porn and masturbating. It got me nothing but further away from God."
 
@@ -60,9 +56,11 @@ Why? What makes it hard? Men give three answers.
 
 **"The urges are unbearable."** They aren't. I know it hasn't felt mild. Some nights it's felt like a hand on the back of your neck. That weight is fear, and fear can be taken away. Take it away, and what's left? A creature the size of a cat, banging on a floor. You've sat through worse in a dentist's waiting room.
 
-**"A man's body needs it."** Pressure builds, they say, and it has to go somewhere. But your body handled that on its own before you ever lent a hand, and it still knows how. You've gone days without, on fishing trips and in crunch weeks at work, and nothing burst.
+![](images/illustrations/difficult-dentist-waiting-room.png){.illustration width=80%}
 
-**"I simply enjoy it."** A man can enjoy a good steak. He doesn't need one every night behind a locked door. He doesn't panic at the thought of a week without. We enjoy what we like while it lasts, and we don't sit around feeling robbed in between.
+**"A man's body needs it."** Pressure builds, they say, and it has to go somewhere. But your body handled that on its own before your hand ever got involved, and it still knows how. You've gone days without, on a camping trip or a week on your in-laws' pull-out couch, and nothing burst.
+
+**"I simply enjoy it."** A man can enjoy barbecue ribs. He doesn't need them every night behind a locked door. He doesn't panic at the thought of a week without them. We enjoy what we like while it lasts, and we don't sit around feeling robbed in between.
 
 That leaves one explanation. It's the most comfortable of them all, and almost every man settles on it.
 
@@ -97,3 +95,5 @@ It's wrong.
 <!-- 2026-11-23 FLOW PASS (book-wide): in 'Nobody sold it to you', 'You never told a soul. You assumed you were the only man...' moved below the quotation so that 'You're not unique' answers it directly; nothing cut. -->
 
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
+
+<!-- 2026-11-24 CHAPTER 5 TO THE LOCKED STANDARD (James: get chapters 4 to 7 up to the standard of the Intro to chapter 3, all the drawings, multiple readers). 'One question' and 'Nobody sold it to you' repeated The Button almost word for word ('Ask any man in it if he'd start again. Not a chance'; curiosity, puberty, porn); they are folded into one short section, 'Standard issue', and the cut text is in editorial/PARKING.md. Augustine placed in time and place, with 'chastity' and 'continency' explained for plain readers. Epigraph credited to Jesus. 'Fishing trips' (tripped cold readers in The Button) is now a camping trip or the in-laws' pull-out couch; the steak (already used in The Button) is now barbecue ribs. Three new drawings: the thumb unlocking the phone, the stone in his pocket, the dentist's waiting room. -->

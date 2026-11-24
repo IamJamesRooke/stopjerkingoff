@@ -1990,3 +1990,17 @@ Three of three cold readers said this paragraph drifted from the confession. Fol
 Social media does something extra. It leaves him with a knot in his stomach, and he can't say why. It leaves him half sure nothing matters anyway. Then he checks the news and the price of a house, and decides the game is rigged.
 
 He's not entirely wrong. But a sedated man can't fix a rigged game.
+
+## Why Is It Difficult to Stop? (cut 2026-11-24: repeated The Button)
+
+## One question {-}
+
+Find any man with the habit and ask him one thing. "Suppose you could go back to the week before your first time, knowing what you know now. Would you start?"
+
+"Not a chance."
+
+Strange, isn't it? Millions of men do this, many of them daily, and hardly one would choose it again.
+
+## Nobody sold it to you {-}
+
+Think about how you started. Nobody sat you down and sold it to you. Your own body turned up one day with a new trick. The jokes in the locker room said every boy did it, so you didn't think twice. Porn arrived just as quietly: a pop-up, a friend's phone, a link somebody sent as a joke.
