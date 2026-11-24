@@ -715,6 +715,57 @@ def batch7(OUT):
         s+=f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="{RED}" stroke-width="5"/>'
     s+=TAIL; open(OUT+"empty-house-stack-of-plates.svg","w").write(s)
 
+def batch8(OUT):
+    W,H=680,440
+    # 1. Why Is It Difficult to Stop?: he says no, and his own thumb unlocks the phone
+    s=head(W,H,"#1B2459")
+    s+=moon(600,70,18)+stars([(80,60),(170,40),(470,50),(640,160),(330,30)])
+    s+='<line x1="30" y1="410" x2="650" y2="410" stroke="#fff"/>'
+    s+=man(250,170,"squeeze")+legs(250,322,18)
+    for dx in (-60,60):
+        s+=f'<path d="M{250+dx},150 q{dx//6},20 0,40" stroke="#fff" stroke-width="4"/>'
+    s+='<path d="M236,216 L210,280 L236,310"/>'
+    s+='<path d="M266,216 L340,236 L400,196"/>'
+    s+=f'<rect x="392" y="140" width="46" height="78" rx="8" fill="{INK}" transform="rotate(12 415 179)"/><rect x="398" y="148" width="34" height="62" rx="3" fill="{GLOW}" stroke="none" transform="rotate(12 415 179)"/>'
+    s+=f'<circle cx="402" cy="196" r="11" fill="#FFE3C7"/>'
+    for (x1,y1,x2,y2) in [(456,150,480,138),(458,180,486,182),(450,212,474,226)]:
+        s+=f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="{YEL}" stroke-width="5"/>'
+    s+=TAIL; open(OUT+"difficult-thumb-unlocks-the-phone.svg","w").write(s)
+
+    # 2. Why Is It Difficult to Stop?: a stone in his pocket all day
+    s=head(W,H,"#6BCB77")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    for x in (90,170):
+        s+=f'<rect x="{x}" y="120" width="60" height="290" fill="#BFE3FF"/>'
+    s+=f'<rect x="520" y="90" width="110" height="320" fill="#BFE3FF"/>'
+    s+='<g transform="rotate(8 340 400)">'
+    s+=man(330,150,"blank","#4A4A68")
+    s+='<path d="M326,302 L300,404"/><path d="M344,302 L376,404"/>'
+    s+=f'<path d="M318,196 L290,260"/><rect x="262" y="256" width="58" height="40" rx="6" fill="#9C6B3C"/>'
+    s+='<path d="M348,196 L370,258"/>'
+    s+='</g>'
+    s+=f'<path d="M352,262 C330,262 330,330 362,340 C400,350 420,300 402,270 C392,254 370,258 352,262 Z" fill="#9A9A9A"/>'
+    s+='<path d="M366,282 q10,-6 18,4 M360,312 q12,4 20,-4" stroke-width="3"/>'
+    s+=f'<path d="M300,120 q-14,10 -6,26 q10,-8 6,-26 Z" fill="#4FB3FF" stroke-width="2"/>'
+    s+=TAIL; open(OUT+"difficult-stone-in-his-pocket.svg","w").write(s)
+
+    # 3. Why Is It Difficult to Stop?: worse things in a dentist's waiting room
+    s=head(W,H,"#9AD0FF")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="30" y="150" width="620" height="16" fill="#FFF6E5"/><line x1="30" y1="150" x2="650" y2="150"/><line x1="30" y1="166" x2="650" y2="166"/>'
+    s+=monster(470,150,"bang",0.75)
+    for (x1,y1,x2,y2) in [(410,176,396,196),(470,178,470,202),(530,176,544,196)]:
+        s+=f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="{YEL}" stroke-width="5"/>'
+    # chairs
+    for x in (120,420):
+        s+=f'<rect x="{x}" y="320" width="130" height="18" rx="6" fill="#FFA630"/><rect x="{x}" y="250" width="18" height="88" rx="6" fill="#FFA630"/><line x1="{x+20}" y1="338" x2="{x+20}" y2="408"/><line x1="{x+120}" y1="338" x2="{x+120}" y2="408"/>'
+    s+=man(200,214,"happy")
+    s+='<path d="M196,366 L240,370 L250,408"/><path d="M214,366 L262,360 L274,408"/>'
+    s+=f'<path d="M186,262 L210,300"/><path d="M216,262 L240,300"/><rect x="190" y="282" width="70" height="46" rx="4" fill="#fff" transform="rotate(-8 225 305)"/><line x1="225" y1="284" x2="227" y2="326" stroke-width="3" transform="rotate(-8 225 305)"/>'
+    # the drill on a tray in the back
+    s+=f'<rect x="520" y="230" width="90" height="10" rx="4" fill="#ccc"/><line x1="565" y1="240" x2="565" y2="408"/><path d="M540,230 L540,200 L580,190" stroke-width="5"/>'
+    s+=TAIL; open(OUT+"difficult-dentist-waiting-room.svg","w").write(s)
+
 if __name__=="__main__":
-    which=sys.argv[2:] or ["5","6","7"]
+    which=sys.argv[2:] or ["5","6","7","8"]
     for b in which: globals()["batch"+b](OUT)
