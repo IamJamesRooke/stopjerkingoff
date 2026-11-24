@@ -46,7 +46,7 @@ Look at where the excitement sits. It isn't at the end. It's in the lead-up: the
 
 In the moment, your brain may tell you this beats sex. Believe that it says so. It's an honest report.
 
-Now look at what it's reporting on. In the 1950s a Dutch scientist named Niko Tinbergen slipped plaster eggs into birds' nests. He made them bigger than real eggs, with bolder spots. The birds left their own eggs and climbed onto the fakes. Some fakes were so big the bird kept sliding off, and she climbed back on anyway.
+Now look at what it's reporting on. Last century a Dutch scientist named Niko Tinbergen offered nesting birds plaster eggs. He made them bigger than real eggs, with brighter color and bolder spots. Given the choice, most birds picked the fakes over their own. One fake was so big the songbird kept sliding off it, and she climbed back on anyway.
 
 Nothing was wrong with those birds. Their wiring said "big spotted egg, sit", and somebody built an egg that shouted louder than a real one.
 
@@ -103,3 +103,5 @@ One more thing about that lead-up. It never stays the same size.
 <!-- 2026-11-24 PROOF LOOP (James, after using: it feels as good as or better than sex in the moment; the naughtiness is part of it; the shoes come off feeling SO good, 'the first time at least'; 'I ask myself why I want to quit at all'). Four short sections added before 'The next minute', each conceding the feeling first: the plaster egg (Tinbergen's supernormal-stimulus experiments, The Study of Instinct, 1951), the forbidden thrill (Proverbs 9:17 paraphrased, not quoted), the shrinking second and third time, and when the 'why quit' question gets asked. -->
 
 <!-- 2026-11-24 (James: 'the high makes you feel really high, if it weren't, there would be no attraction at all'). Opening concession made plain and unhedged. -->
+
+<!-- 2026-11-24: Tinbergen passage checked. Sources disagree on the decade (experiments reported as 1930s; published in The Study of Instinct, 1951), so the book says 'last century'. 'Most birds preferred' and the songbird sliding off the oversized dummy are as reported in secondary sources citing the 1951 book. -->
