@@ -6,6 +6,8 @@ The Bible calls it an unclean spirit. One day it goes out of the man. It wanders
 
 It goes back and finds the house "empty, swept, and put in order". Nobody has moved in. So the spirit goes and gets seven other spirits, each one worse than itself, and they all move in together. Jesus ends the story in one line: "The last state of that man becomes worse than the first."
 
+![](images/illustrations/empty-house-seven-tough-spirits.png){.illustration width=80%}
+
 He told it as a warning to the crowd in front of him. But nobody has drawn a better picture of a man who cleans up his life and leaves it empty.
 
 You don't have to believe in spirits to know that house. Nobody's telling you that you have one. You know the house because you've lived in it.
@@ -53,6 +55,8 @@ On his own he can't do a thing. He can't look, or touch, or go anywhere. Everyth
 One detail in the story explains everything. Why could the spirit move back in? Because the house was empty. Swept, tidy and empty.
 
 The man did everything right, as far as he knew. He put the thing out. He swept up. And he left its room standing ready, bed made, door open.
+
+![](images/illustrations/empty-house-swept-and-ready.png){.illustration width=80%}
 
 That's quitting by force. A man stops the act and goes on believing it gave him something. So he misses it. There's a gap in his life where it used to be, and he keeps the room ready, just in case.
 
@@ -104,6 +108,8 @@ This book follows him room by room, and it goes further than you'd expect. You d
 
 So don't throw anything out yet. Look first, all the way to the last page.
 
+![](images/illustrations/empty-house-look-first.png){.illustration width=80%}
+
 Until then, he'll throw his tantrums, and you may well trudge up with his plate. If you do, notice which of you is fetching and which of you is being served.
 
 The day will come, near the end, when you show him the door. You'll do it once, and it'll be easy, because by then you'll know he has nothing you want. There'll be no wrestling match on the stairs. Sweeping never got rid of him. You stop believing he pays. You stop carrying his dinner up. Then out he goes, and this time there's no room waiting for him.
@@ -142,3 +148,5 @@ SOURCES: Matthew 12:43-45 (WEB, checked 2026-11-20). Quoted verbatim: "I will re
 <!-- 2026-11-23: cold readers: 'no body' / 'out in the world', the friends, 'the gap is the belief', 'the easy one' and 'Judge first' each tripped two or three; made plain. -->
 
 <!-- 2026-11-24 CHAPTER 4 TO THE LOCKED STANDARD (James: 'the opening didn't make sense because that one thing out of his house is an evil spirit'). The story is now told plainly first: an unclean (evil) spirit goes out of a man, wanders, returns to the house it left, finds it empty, swept and put in order, and brings seven worse spirits. Matthew 12:43-45 (WEB) quotations unchanged; Jesus told it as a warning to 'this evil generation', said here as 'the crowd in front of him'. The picture is squared with the Little Monster: he can't leave on his own, so when thrown out by force he waits on the front step because his room is kept ready; the 'seven' become a bigger appetite and new plates (the old 'seven friends who are the same pest' was muddled). The lies the chapter said 'you've met' are now restated in place. John 8:32 context (said to those who had begun to believe, 8:31). 'Nobody gets dragged out' became 'no wrestling match on the stairs' so it doesn't contradict throwing him out. 'Feed him' is no longer an order. Two new drawings: the front step, the stack of plates. -->
+
+<!-- 2026-11-25 (James: 'add more drawings, like one with cute little evil spirits who are a bit bigger and tougher'): three more drawings: the seven tougher spirits marching in behind the Little Monster, the swept room kept ready, and looking first. -->
