@@ -24,7 +24,7 @@ Some couples have agreed to an open door, and that's theirs to answer for. If yo
 
 None of this is here to pile on guilt. It's here to take away your last excuse. You were lied to, and so was the woman on the screen. It was never harmless.
 
-Those are the lies. Now look at some of the men who believed them.
+One more thing is on that screen, and you've looked straight past him for years.
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 04-the-worlds-lies.Rmd; the source notes for everything here are in that file. -->
 
@@ -47,3 +47,5 @@ Those are the lies. Now look at some of the men who believed them.
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
 
 <!-- 2026-11-23 PROOF LOOP (James: if she found you at it to a video of her coworker, a neighbor or her friend she'd call it cheating; a stranger changes nothing). Added as a second test under 'It isn't cheating'. -->
+
+<!-- 2026-11-25: closing hook now leads into the new chapter The Other Man on the Screen, which carries the old hook into The Men Who Believed It. -->

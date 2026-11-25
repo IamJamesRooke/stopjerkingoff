@@ -56,6 +56,10 @@ Nothing was wrong with those birds. Their wiring said "big spotted egg, sit", an
 
 The screen is that egg. A real woman is one woman, with a mood and a mind and a no. The screen offers a hundred in ten minutes, each one new, and not one of them can turn you down. Nothing in your wiring was built for that, so it scores it off the chart.
 
+It can beat the real thing on one more count. It's made to order. You pick the woman, the act and the angle. In your head it's you in the picture, and everything goes exactly your way. Nothing real ever goes exactly your way.
+
+That's the giveaway. A woman who does just what you want, when you want it, with no will of her own, isn't a woman. She's a puppet, and you're working it. You wrote her lines. You're alone in that room, feeling what your body feels when somebody's with you.
+
 A plaster egg never hatches. The bird warms it for nothing, and her own go cold.
 
 ## The naughty part {-}
@@ -115,3 +119,5 @@ One more thing about that lead-up. It never stays the same size.
 <!-- 2026-11-25 (James: 'be generous with the images'): three drawings (the tiny portion and the long bill, the plaster egg, sneaking orange juice). Text left as James's proof-loop passes made it. -->
 
 <!-- 2026-11-25 reader panel: the stolen-water proverb named in place (Proverbs 9:17, WEB, spoken by Folly; 9:18 paraphrased). Tinbergen passage left as the 11-24 source check settled it. -->
+
+<!-- 2026-11-25 PROOF LOOP (James: watching and imagining it's him 'feels like the same but sometimes better because imagination is exactly how I want'). Added to 'Better than the real thing': it's made to order, and that is the giveaway. -->
