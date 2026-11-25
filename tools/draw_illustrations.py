@@ -813,6 +813,64 @@ def batch9(OUT):
     s+=f'<path d="M262,226 q-12,8 -6,22 q9,-7 6,-22 Z" fill="#4FB3FF" stroke-width="2"/>'
     s+=TAIL; open(OUT+"flesh-the-shower-cue.svg","w").write(s)
 
+def tough(tx,ty,col,sc=1.0,extra=""):
+    """A bigger, 'tougher' little spirit: squat body, unibrow scowl, tiny flexed arms, still cute."""
+    o=f'<g transform="translate({tx},{ty}) scale({sc})">'
+    # flexing arms with tiny biceps
+    o+=f'<path d="M-34,-30 Q-50,-36 -48,-56" /><circle cx="-46" cy="-50" r="7" fill="{col}"/><circle cx="-48" cy="-60" r="6" fill="{col}"/>'
+    o+=f'<path d="M34,-30 Q50,-36 48,-56" /><circle cx="46" cy="-50" r="7" fill="{col}"/><circle cx="48" cy="-60" r="6" fill="{col}"/>'
+    o+=f'<path d="M-36,-6 C-40,-44 -22,-70 0,-70 C22,-70 40,-44 36,-6 C33,4 -33,4 -36,-6 Z" fill="{col}"/>'
+    o+='<path d="M-6,-69 q2,-12 7,-3 q4,-11 8,1" stroke-width="4"/>'
+    # unibrow scowl, small eyes, pouty mouth
+    o+='<path d="M-20,-50 L-2,-44 L2,-44 L20,-50" stroke-width="5"/>'
+    o+=dot(-10,-38,4)+dot(10,-38,4)
+    o+='<path d="M-8,-20 q8,-7 16,0" stroke-width="4"/>'
+    o+=f'<ellipse cx="-14" cy="2" rx="10" ry="6" fill="{col}"/><ellipse cx="14" cy="2" rx="10" ry="6" fill="{col}"/>'
+    o+=extra
+    return o+'</g>'
+
+def batch10(OUT):
+    W,H=680,440
+    # 1. The Empty House: the spirit comes back with seven tougher pals
+    s=head(W,H,"#FFD23F")
+    s+='<rect x="30" y="300" width="620" height="120" fill="#6BCB77" stroke="none"/><line x1="30" y1="300" x2="650" y2="300"/>'
+    s+=house_front(560,180,90,120)
+    s+='<rect x="590" y="240" width="32" height="60" fill="#5A3E9B"/>'
+    cols=["#FF7A59","#7B4FD6","#2FB3A8","#FF5FA2","#4F7BFF","#E8A33D","#8B5E3C"]
+    shades='<path d="M-30,-56 L30,-56" stroke="#141414" stroke-width="8"/><rect x="-22" y="-46" width="18" height="12" rx="3" fill="#141414"/><rect x="4" y="-46" width="18" height="12" rx="3" fill="#141414"/>'
+    plaster='<rect x="8" y="-32" width="18" height="9" rx="2" fill="#fff" transform="rotate(-20 17 -28)"/>'
+    band='<rect x="-38" y="-24" width="76" height="8" fill="#fff" stroke-width="3"/>'
+    back=[(150,300,1.15,cols[1],''),(260,296,1.2,cols[2],band),(370,300,1.15,cols[4],'')]
+    front=[(100,404,1.35,cols[0],plaster),(215,410,1.4,cols[3],shades),(330,406,1.35,cols[5],''),(445,410,1.4,cols[6],band)]
+    for (x,y,sc,c,e) in back+front:
+        s+=tough(x,y,c,sc,e)
+    # the original Little Monster struts in front of them with a tiny flag, like he's in charge
+    s+=monster(560,400,"bang",0.8,stink=True)
+    s+=f'<line x1="596" y1="372" x2="596" y2="310"/><path d="M596,310 L630,322 L596,336 Z" fill="{RED}"/>'
+    s+=TAIL; open(OUT+"empty-house-seven-tough-spirits.svg","w").write(s)
+
+    # 2. The Empty House: swept and tidy, his room kept ready, door open
+    s=head(W,H,"#FF8FB1")
+    s+='<rect x="60" y="60" width="560" height="350" fill="#FFF6E5"/><line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="460" y="150" width="110" height="260" fill="#5A3E9B"/><path d="M460,150 L420,170 L420,400 L460,410 Z" fill="#fff"/>'
+    s+='<rect x="110" y="320" width="200" height="40" rx="8" fill="#FF8FB1"/><rect x="100" y="290" width="20" height="120" rx="6" fill="#9C6B3C"/><rect x="118" y="304" width="56" height="22" rx="8" fill="#fff"/><line x1="130" y1="360" x2="130" y2="408"/><line x1="300" y1="360" x2="300" y2="408"/>'
+    s+=f'<rect x="150" y="150" width="90" height="70" fill="{YEL}"/><path d="M162,190 q15,-20 30,0 q15,-20 30,0" stroke-width="3"/>'
+    s+='<line x1="372" y1="160" x2="396" y2="380" stroke-width="7" stroke="#9C6B3C"/><path d="M380,370 L360,408 L420,408 L410,368 Z" fill="#E8A33D"/>'
+    for (x,y) in [(250,396),(330,398),(200,394)]:
+        s+=f'<path d="M{x},{y} l6,-10 l6,10 l-6,-4 Z" fill="#fff" stroke-width="2"/>'
+    for (x,y) in [(100,100),(560,110),(330,90)]:
+        s+=f'<path d="M{x},{y-12} L{x+3},{y-3} L{x+12},{y} L{x+3},{y+3} L{x},{y+12} L{x-3},{y+3} L{x-12},{y} L{x-3},{y-3} Z" fill="{YEL}" stroke-width="2.5"/>'
+    s+=TAIL; open(OUT+"empty-house-swept-and-ready.svg","w").write(s)
+
+    # 3. The Empty House: look first (the man studies the pouting pipsqueak through a magnifying glass)
+    s=head(W,H,"#9AD0FF")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=man(230,170,"blank")+legs(230,322,16)
+    s+='<path d="M216,216 L190,280"/><path d="M246,216 L320,250 L360,262"/>'
+    s+='<line x1="360" y1="262" x2="388" y2="282" stroke-width="8" stroke="#9C6B3C"/><circle cx="420" cy="306" r="40" fill="#E6F6FF" fill-opacity="0.7" stroke-width="7"/>'
+    s+=monster(470,408,"dangle",1.0,stink=True)
+    s+=TAIL; open(OUT+"empty-house-look-first.svg","w").write(s)
+
 if __name__=="__main__":
-    which=sys.argv[2:] or ["5","6","7","8","9"]
+    which=sys.argv[2:] or ["5","6","7","8","9","10"]
     for b in which: globals()["batch"+b](OUT)
