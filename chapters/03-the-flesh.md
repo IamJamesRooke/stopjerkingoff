@@ -25,6 +25,8 @@ There's an old word for a thing set apart for a high use: holy. Your body is in 
 
 Lust feeds in more ways than one. Masturbation is the plainest case, so we'll use it to show how lust works. A drive built to bind a man to one woman ends in a wad of tissue. It's a hijacking, and the plane lands nowhere.
 
+![](images/illustrations/flesh-the-hijacked-plane.png){.illustration width=80%}
+
 ## How the loop works {-}
 
 You'll find plenty of videos that explain this habit with brain chemistry and diagrams. Skip them. Some of it is shaky, and you don't need a drop of it. You don't have to understand an engine to notice the car keeps pulling left.
@@ -100,3 +102,5 @@ That restless feeling is the Little Monster. Time to meet him properly.
 <!-- 2026-11-24 CHAPTER 7 TO THE LOCKED STANDARD (James: chapters 4 to 7 up to the standard of the Intro to chapter 3, with all the drawings). The epigraph is credited to Paul, and Paul and the letter to the Galatians are named in place where 'the flesh' is defined. The cue is shown as a scene (the shower, and the banging starts upstairs). One new drawing: the shower cue. Galatians 5:17 (WEB) quoted from its first clause only in the body. -->
 
 <!-- 2026-11-24 reader panel: 'No child was ever made behind a locked door' (false as stated) is now 'No family was ever started behind a locked door with a phone'; Lewis named as a Christian writer; 'the Spirit' explained; the path in the grass reconciled with 'a master, not a habit' (grass grows back; the belief keeps him on the path). -->
+
+<!-- 2026-11-25 (James: 'be generous with the images'): one more drawing, the hijacked plane. -->

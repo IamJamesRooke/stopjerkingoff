@@ -2,11 +2,13 @@
 
 A cue comes, and with it a small, restless urge. That urge is the Little Monster, banging on the floor.
 
-The first thing to know about him is how small he is. The urge doesn't hurt. It's a faint, empty, fidgety sense that something's missing. That's why men mistake it for sex drive, or hunger, or plain boredom. Left alone for a while, it sours into a short temper. It's a hunger for something that doesn't feed you.
+The first thing to know about him is how small he is. The urge doesn't hurt. It's a faint, empty, fidgety sense that something's missing. That's why men mistake it for sex drive, or hunger, or plain boredom. Left alone for a while, it turns into a short temper. It's a hunger for something that doesn't feed you.
 
 In the first months you don't notice him. The itch and its relief are so slight you'd laugh at the idea you were hooked. Later, when you're doing it most days, you tell yourself you've come to enjoy it, or that you've "got into the habit". Really, the Little Monster has moved in. He pays no rent, and every so often you carry his dinner up the stairs.
 
 He isn't picky. A video feeds him. A fantasy feeds him. A long look at a stranger on the train feeds him. It's all one diet, and it all goes to one small belly.
+
+![](images/illustrations/little-monster-one-small-belly.png){.illustration width=80%}
 
 One man in the trap put the entire thing in seven words:
 
@@ -35,6 +37,8 @@ So why can't men see it? Three reasons.
 2. **The itch doesn't hurt.** It feels exactly like ordinary restlessness, tiredness or stress, and those are the very moments you reach for relief. So you take the feeling for normal life, never for something the habit put there.
 3. **It works back to front.** This is the big one. You suffer the empty feeling when you're *not* doing it, so you never blame the last time. The moment you start, the feeling eases, so the habit gets the credit. The thing that causes the itch gets thanked for scratching it.
 
+![](images/illustrations/little-monster-firefighter-with-a-match.png){.illustration width=80%}
+
 Men say masturbation is "satisfying". But a man can't be satisfied unless he was dissatisfied first. The free man lies down at night and goes to sleep. He has nothing to satisfy. You can't rest until the Little Monster's been fed.
 
 ## A pleasure or a crutch? {-}
@@ -50,12 +54,14 @@ The habit looks the same. There's an empty feeling, you act, and you get relief.
 In fact the two are opposites.
 
 - **Food feeds you. This drains you.** You get up from a meal with more than you sat down with. You get up from this with less.
-- **Food is good, and stays good.** You'll enjoy Sunday dinner at eighty. The ending still feels good for a few seconds. Everything around it became a chore years ago.
+- **Food is good, and stays good.** You'll still enjoy a good dinner at eighty. The ending still feels good for a few seconds. Everything around it became a chore years ago.
 - **Eating doesn't create hunger. It ends it.** The habit creates its own itch. Far from ending it, each time guarantees the next.
 
 "But isn't sex a God-given appetite too?" It is, and that's the point. Sex with your wife is the meal. The habit is licking the photograph on the menu. It was never what the hunger was for. Sex is the one appetite a man was given in order to give it away. The habit turns it into something he keeps for himself. A husband who'd carried the hand into his marriage came to see it plainly:
 
 > "I've come to realize that masturbation, any way you slice it, is a selfish act"
+
+![](images/illustrations/little-monster-licking-the-menu.png){.illustration width=80%}
 
 One objection is still standing, and it's the honest one.
 
@@ -78,3 +84,5 @@ One objection is still standing, and it's the honest one.
 <!-- 2026-11-23 FLOW PASS (book-wide): the 'isn't picky' paragraph moved up beside 'carry up his dinner', so 'He's feeding the Little Monster' now runs straight into what the pleasure is; its opening 'And' dropped. -->
 
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
+
+<!-- 2026-11-25 CHAPTER 8 PASS (James: prepare the next chapters, 'be generous with the images'): three drawings (one small belly, the firefighter with a match, licking the photo on the menu); 'Sunday dinner' (tripped cold readers before) and 'sours' made plain. -->

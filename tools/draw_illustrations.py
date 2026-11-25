@@ -871,6 +871,100 @@ def batch10(OUT):
     s+=monster(470,408,"dangle",1.0,stink=True)
     s+=TAIL; open(OUT+"empty-house-look-first.svg","w").write(s)
 
+def batch11(OUT):
+    W,H=680,440
+    # 2. The Flesh: a hijacking, and the plane lands nowhere
+    s=head(W,H,"#F6C26B")
+    s+=f'<circle cx="580" cy="70" r="36" fill="{YEL}" stroke="none"/>'
+    s+='<path d="M30,360 Q170,340 330,360 T650,350 L650,410 L30,410 Z" fill="#E8A33D"/>'
+    s+='<path d="M120,330 l0,-50 M120,300 l-14,-10 M120,310 l14,-12" stroke-width="5" stroke="#4E7A12"/>'
+    s+='<g transform="rotate(12 360 220)">'
+    s+='<path d="M200,220 Q200,190 240,190 L470,190 Q520,190 530,220 Q520,250 470,250 L240,250 Q200,250 200,220 Z" fill="#fff"/>'
+    s+=f'<path d="M330,190 L300,120 L340,120 L390,190 Z" fill="{SHIRT}"/><path d="M330,250 L300,310 L340,310 L390,250 Z" fill="{SHIRT}"/><path d="M220,190 L200,150 L230,150 L250,190 Z" fill="{SHIRT}"/>'
+    for x in (300,340,380,420):
+        s+=f'<circle cx="{x}" cy="215" r="9" fill="{GLOW}"/>'
+    s+=f'<path d="M470,200 Q500,200 515,218 L470,218 Z" fill="{GLOW}"/>'
+    s+='</g>'
+    s+=monster(488,236,"bang",0.42,stink=False)
+    for (x1,y1,x2,y2) in [(560,240,590,236),(556,262,586,270)]:
+        s+=f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="{RED}" stroke-width="5"/>'
+    s+=TAIL; open(OUT+"flesh-the-hijacked-plane.svg","w").write(s)
+
+    # 3. The Little Monster: one diet, one small belly
+    s=head(W,H,"#2FB3A8")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=monster(340,378,"bang",1.5,stink=True)
+    s+=f'<ellipse cx="340" cy="366" rx="32" ry="17" fill="{LIME}" stroke-width="4"/>'
+    s+=plate(110,392,62,14)+f'<rect x="92" y="352" width="36" height="34" rx="6" fill="{INK}" transform="rotate(-70 110 369)"/><rect x="98" y="358" width="24" height="22" rx="3" fill="{GLOW}" stroke="none" transform="rotate(-70 110 369)"/>'
+    s+=plate(240,398,62,14)+'<path d="M208,384 Q240,360 272,384 Q240,408 208,384 Z" fill="#fff"/><circle cx="240" cy="384" r="9" fill="'+SHIRT+'"/>'+dot(240,384,4)
+    s+=plate(440,398,62,14)+'<path d="M412,384 q-6,-22 16,-22 q6,-16 26,-6 q20,-6 22,14 q14,8 -2,18 Z" fill="#fff"/>'
+    s+=plate(570,392,62,14)+f'<path d="M546,380 l12,-14 l12,14 l12,-14 l12,14" stroke="{RED}" stroke-width="5"/>'
+    s+=TAIL; open(OUT+"little-monster-one-small-belly.svg","w").write(s)
+
+    # 4. The Little Monster: licking the photograph on the menu
+    s=head(W,H,"#FF8C42")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="250" y="80" width="230" height="300" rx="10" fill="#FFF6E5" transform="rotate(-6 365 230)"/>'
+    s+='<g transform="rotate(-6 365 230)"><rect x="280" y="110" width="170" height="120" fill="#BFE3FF"/>'+plate(365,200,62,14)+'<path d="M325,196 C320,160 410,160 405,196 Z" fill="#B5542B"/><path d="M340,180 q25,-10 50,0" stroke="#fff" stroke-width="3"/>'
+    for y in (260,286,312,338):
+        s+=f'<line x1="290" y1="{y}" x2="440" y2="{y}" stroke-width="4" stroke="#bbb"/>'
+    s+='</g>'
+    s+=monster(200,330,"dangle",1.3,stink=True)
+    s+='<path d="M210,300 q40,-40 90,-110" stroke="#FF8FA3" stroke-width="12"/><path d="M210,300 q40,-40 90,-110" stroke-width="2"/>'
+    s+=TAIL; open(OUT+"little-monster-licking-the-menu.svg","w").write(s)
+
+    # 5. The Little Monster: the firefighter who lit the fire (works back to front)
+    s=head(W,H,"#1B2459")
+    s+='<line x1="30" y1="410" x2="650" y2="410" stroke="#fff"/>'
+    s+='<rect x="380" y="200" width="200" height="210" fill="#FFF6E5"/><path d="M360,200 L480,110 L600,200 Z" fill="#9C6B3C"/>'
+    s+='<rect x="440" y="260" width="70" height="60" fill="#FFD23F"/>'
+    s+=f'<path d="M450,260 q10,-40 20,-10 q8,-40 24,-6 q10,-30 14,16 Z" fill="{RED}"/><path d="M462,260 q6,-20 12,-4 q6,-20 14,2 Z" fill="{YEL}"/>'
+    s+=monster(220,404,"bang",1.2,stink=False)
+    s+=f'<path d="M184,336 L190,316 L250,316 L256,336 Z" fill="{RED}"/><rect x="176" y="334" width="88" height="10" rx="4" fill="{RED}"/>'
+    s+=f'<line x1="170" y1="396" x2="150" y2="340" stroke-width="5"/><path d="M146,338 q4,-16 8,0 Z" fill="{RED}" stroke-width="2"/>'
+    s+=f'<path d="M272,390 Q330,380 360,320" stroke="#4FB3FF" stroke-width="10"/><path d="M360,320 l10,-14" stroke="#4FB3FF" stroke-width="4"/>'
+    s+=TAIL; open(OUT+"little-monster-firefighter-with-a-match.svg","w").write(s)
+
+    # 6. But It Feels Good: the bird on the giant plaster egg
+    s=head(W,H,"#9AD0FF")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<ellipse cx="190" cy="380" rx="90" ry="24" fill="#C9A26B"/>'
+    for (x,y) in [(160,372),(190,376),(220,372)]:
+        s+=f'<ellipse cx="{x}" cy="{y}" rx="14" ry="18" fill="#BFE3FF"/>'
+    s+='<ellipse cx="450" cy="300" rx="130" ry="110" fill="#FFF6E5"/>'
+    for (x,y,r) in [(400,260,16),(480,240,12),(500,320,18),(420,340,12),(450,290,9),(540,280,10)]:
+        s+=f'<circle cx="{x}" cy="{y}" r="{r}" fill="{SHIRT}" stroke="none"/>'
+    s+='<g transform="rotate(-35 520 190)"><ellipse cx="520" cy="190" rx="34" ry="24" fill="#FF7A59"/><circle cx="548" cy="172" r="16" fill="#FF7A59"/><path d="M562,170 L580,176 L562,180 Z" fill="'+YEL+'"/>'+dot(552,168,3.5)+'<path d="M500,186 q-14,-20 -26,-8" fill="#FF7A59"/><path d="M510,212 L506,232 M528,212 L530,232" stroke-width="4"/></g>'
+    for (x1,y1,x2,y2) in [(590,230,610,250),(596,200,620,206)]:
+        s+=f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="{INK}" stroke-width="4"/>'
+    s+=TAIL; open(OUT+"feels-good-the-plaster-egg.svg","w").write(s)
+
+    # 7. But It Feels Good: nobody sneaks a glass of orange juice
+    s=head(W,H,"#1B2459")
+    s+=moon(600,70,18)+stars([(80,60),(170,40),(470,50),(330,30)])
+    s+='<line x1="30" y1="410" x2="650" y2="410" stroke="#fff"/>'
+    s+='<rect x="430" y="170" width="160" height="240" rx="10" fill="#E6F6FF"/><path d="M430,170 L380,190 L380,400 L430,410 Z" fill="#fff"/>'
+    s+=f'<path d="M430,180 L120,400 L590,400 Z" fill="{YEL}" fill-opacity="0.55" stroke="none"/>'
+    s+=man(240,170,"squeeze")+'<path d="M236,322 L210,400 L196,404"/><path d="M254,322 L282,396 L296,392"/>'
+    s+='<path d="M262,230 L310,250 L330,226"/><path d="M234,220 L190,190 L176,160"/>'
+    s+='<rect x="320" y="190" width="26" height="40" rx="3" fill="#FFA630" fill-opacity="0.9"/><rect x="320" y="186" width="26" height="8" fill="#fff" stroke-width="3"/>'
+    s+=f'<path d="M168,162 q-6,-8 2,-12 q10,4 4,12" stroke-width="3"/>'
+    s+=TAIL; open(OUT+"feels-good-sneaking-orange-juice.svg","w").write(s)
+
+    # 8. But It Feels Good: the price goes up, the portion goes down
+    s=head(W,H,"#B388EB")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="80" y="300" width="520" height="18" rx="6" fill="#9C6B3C"/><line x1="110" y1="318" x2="110" y2="408"/><line x1="570" y1="318" x2="570" y2="408"/>'
+    s+=plate(250,290,110,22)+f'<circle cx="250" cy="284" r="6" fill="#B5542B"/>'
+    s+='<path d="M440,286 L440,60 L520,60 L520,286" fill="#fff"/>'
+    for y in range(80,280,22):
+        s+=f'<line x1="452" y1="{y}" x2="{500 if y%44 else 490}" y2="{y}" stroke-width="3" stroke="#999"/>'
+    s+=f'<path d="M440,286 l10,-10 l10,10 l10,-10 l10,10 l10,-10 l10,10 l10,-10 l10,10" fill="#fff"/>'
+    s+=man(150,170,"squeeze")
+    s+='<path d="M164,216 L200,262 L232,276"/><line x1="232" y1="276" x2="246" y2="282" stroke-width="3"/>'
+    s+=f'<path d="M118,150 q-14,10 -6,26 q10,-8 6,-26 Z" fill="#4FB3FF" stroke-width="2"/>'
+    s+=TAIL; open(OUT+"feels-good-tiny-portion-long-bill.svg","w").write(s)
+
 if __name__=="__main__":
-    which=sys.argv[2:] or ["5","6","7","8","9","10"]
+    which=sys.argv[2:] or ["5","6","7","8","9","10","11"]
     for b in which: globals()["batch"+b](OUT)

@@ -38,6 +38,8 @@ Three things are mixed together in that moment. Pull them apart.
 
 The rush shrinks, too. It was bigger at fifteen than it is now. It'll be smaller next year. The price goes up, and the portion goes down.
 
+![](images/illustrations/feels-good-tiny-portion-long-bill.png){.illustration width=80%}
+
 Look at where the excitement sits. It isn't at the end. It's in the lead-up: the door clicking shut, the scroll, the search for the right video. That's why so many men drag it out. A man will spend forty minutes choosing the video for an ending that takes six seconds. He has picked jobs with less care.
 
 **The third is what the rush is for.** A body doesn't hand out its strongest pleasure for nothing. That rush was built to tie a man to a woman. The habit spends it on nobody, behind a locked door, then wipes it up.
@@ -47,6 +49,8 @@ Look at where the excitement sits. It isn't at the end. It's in the lead-up: the
 In the moment, your brain may tell you this beats sex. Believe that it says so. It's an honest report.
 
 Now look at what it's reporting on. Last century a Dutch scientist named Niko Tinbergen offered nesting birds plaster eggs. He made them bigger than real eggs, with brighter color and bolder spots. Given the choice, most birds picked the fakes over their own. One fake was so big the songbird kept sliding off it, and she climbed back on anyway.
+
+![](images/illustrations/feels-good-the-plaster-egg.png){.illustration width=80%}
 
 Nothing was wrong with those birds. Their wiring said "big spotted egg, sit", and somebody built an egg that shouted louder than a real one.
 
@@ -61,6 +65,8 @@ Part of the kick is that it's forbidden. The locked door. The ear cocked for foo
 Ask what's sweet about it. It isn't the water. It's the stealing. The secret is doing a job the thing itself can't do.
 
 And look at what that tells you. Nobody gets a thrill from sneaking a glass of orange juice. You only sneak what part of you has already judged.
+
+![](images/illustrations/feels-good-sneaking-orange-juice.png){.illustration width=80%}
 
 ## "The first time, at least" {-}
 
@@ -105,3 +111,5 @@ One more thing about that lead-up. It never stays the same size.
 <!-- 2026-11-24 (James: 'the high makes you feel really high, if it weren't, there would be no attraction at all'). Opening concession made plain and unhedged. -->
 
 <!-- 2026-11-24: Tinbergen passage checked. Sources disagree on the decade (experiments reported as 1930s; published in The Study of Instinct, 1951), so the book says 'last century'. 'Most birds preferred' and the songbird sliding off the oversized dummy are as reported in secondary sources citing the 1951 book. -->
+
+<!-- 2026-11-25 (James: 'be generous with the images'): three drawings (the tiny portion and the long bill, the plaster egg, sneaking orange juice). Text left as James's proof-loop passes made it. -->
