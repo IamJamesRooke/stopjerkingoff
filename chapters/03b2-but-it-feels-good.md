@@ -60,7 +60,7 @@ A plaster egg never hatches. The bird warms it for nothing, and her own go cold.
 
 ## The naughty part {-}
 
-Part of the kick is that it's forbidden. The locked door. The ear cocked for footsteps. The getting away with it. That's real too. A proverb three thousand years old says stolen water tastes sweet.
+Part of the kick is that it's forbidden. The locked door. The ear cocked for footsteps. The getting away with it. That's real too. The Bible's book of Proverbs, nearly three thousand years old, has a woman called Folly calling to men in the street: "Stolen water is sweet." The very next line says her guests end up among the dead.
 
 Ask what's sweet about it. It isn't the water. It's the stealing. The secret is doing a job the thing itself can't do.
 
@@ -113,3 +113,5 @@ One more thing about that lead-up. It never stays the same size.
 <!-- 2026-11-24: Tinbergen passage checked. Sources disagree on the decade (experiments reported as 1930s; published in The Study of Instinct, 1951), so the book says 'last century'. 'Most birds preferred' and the songbird sliding off the oversized dummy are as reported in secondary sources citing the 1951 book. -->
 
 <!-- 2026-11-25 (James: 'be generous with the images'): three drawings (the tiny portion and the long bill, the plaster egg, sneaking orange juice). Text left as James's proof-loop passes made it. -->
+
+<!-- 2026-11-25 reader panel: the stolen-water proverb named in place (Proverbs 9:17, WEB, spoken by Folly; 9:18 paraphrased). Tinbergen passage left as the 11-24 source check settled it. -->

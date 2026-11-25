@@ -2,7 +2,7 @@
 
 A cue comes, and with it a small, restless urge. That urge is the Little Monster, banging on the floor.
 
-The first thing to know about him is how small he is. The urge doesn't hurt. It's a faint, empty, fidgety sense that something's missing. That's why men mistake it for sex drive, or hunger, or plain boredom. Left alone for a while, it turns into a short temper. It's a hunger for something that doesn't feed you.
+The first thing to know about him is how small he is. The urge doesn't hurt. It only feels huge because of the fear the lies pile on top of it. On its own it's a faint, empty, fidgety sense that something's missing. That's why men mistake it for sex drive, or hunger, or plain boredom. Left alone for a while, it turns into a short temper. It's a hunger for something that doesn't feed you.
 
 In the first months you don't notice him. The itch and its relief are so slight you'd laugh at the idea you were hooked. Later, when you're doing it most days, you tell yourself you've come to enjoy it, or that you've "got into the habit". Really, the Little Monster has moved in. He pays no rent, and every so often you carry his dinner up the stairs.
 
@@ -57,7 +57,7 @@ In fact the two are opposites.
 - **Food is good, and stays good.** You'll still enjoy a good dinner at eighty. The ending still feels good for a few seconds. Everything around it became a chore years ago.
 - **Eating doesn't create hunger. It ends it.** The habit creates its own itch. Far from ending it, each time guarantees the next.
 
-"But isn't sex a God-given appetite too?" It is, and that's the point. Sex with your wife is the meal. The habit is licking the photograph on the menu. It was never what the hunger was for. Sex is the one appetite a man was given in order to give it away. The habit turns it into something he keeps for himself. A husband who'd carried the hand into his marriage came to see it plainly:
+"But isn't sex a God-given appetite too?" It is, and that's the point. Sex with your wife is the meal. If you're single, that meal is still ahead of you. The habit is licking the photo of the steak on the menu instead of eating. It was never what the hunger was for. Sex is the one appetite a man was given in order to give it away. The habit turns it into something he keeps for himself. A husband who'd carried the hand into his marriage came to see it plainly:
 
 > "I've come to realize that masturbation, any way you slice it, is a selfish act"
 
@@ -86,3 +86,5 @@ One objection is still standing, and it's the honest one.
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
 
 <!-- 2026-11-25 CHAPTER 8 PASS (James: prepare the next chapters, 'be generous with the images'): three drawings (one small belly, the firefighter with a match, licking the photo on the menu); 'Sunday dinner' (tripped cold readers before) and 'sours' made plain. -->
+
+<!-- 2026-11-25 reader panel: the 'faint' urge squared with the Introduction's 'overwhelming' (the fear the lies add); a line for the single man at 'the meal'; the menu picture made plain. -->

@@ -965,6 +965,97 @@ def batch11(OUT):
     s+=f'<path d="M118,150 q-14,10 -6,26 q10,-8 6,-26 Z" fill="#4FB3FF" stroke-width="2"/>'
     s+=TAIL; open(OUT+"feels-good-tiny-portion-long-bill.svg","w").write(s)
 
+def tree(x,y,fruit=True):
+    o=f'<rect x="{x-14}" y="{y-150}" width="28" height="150" fill="#9C6B3C"/>'
+    o+=f'<circle cx="{x}" cy="{y-200}" r="80" fill="#4FAF4F"/><circle cx="{x-60}" cy="{y-160}" r="44" fill="#4FAF4F"/><circle cx="{x+60}" cy="{y-160}" r="44" fill="#4FAF4F"/>'
+    if fruit:
+        for (dx,dy) in [(-30,-220),(20,-240),(40,-180),(-50,-170),(0,-190),(70,-150),(-75,-140)]:
+            o+=f'<circle cx="{x+dx}" cy="{y+dy}" r="11" fill="{RED}"/>'
+    return o
+
+def batch12(OUT):
+    W,H=680,440
+    # 1. Crossing the Red Line: the tug of war, and you're the rope
+    s=head(W,H,"#7FD3FF")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=man(340,170,"squeeze")+legs(340,322,14)
+    s+='<path d="M90,316 L320,300" stroke="#C9A26B" stroke-width="9"/><path d="M360,300 L560,350" stroke="#C9A26B" stroke-width="9"/>'
+    s+='<path d="M90,316 L320,300 M360,300 L560,350" stroke-width="2"/>'
+    s+='<path d="M326,216 L300,250 L320,296"/><path d="M354,216 L380,250 L360,296"/>'
+    s+=monster(580,404,"bang",1.0,stink=True)
+    s+='<path d="M60,330 C40,300 70,280 90,300 C110,280 140,300 120,330 L90,370 Z" fill="#FF5FA2"/>'
+    s+=dot(80,316,3.5)+dot(102,316,3.5)+'<path d="M82,334 q10,6 20,0" stroke-width="3"/><path d="M80,370 L72,404 M100,370 L108,404" stroke-width="4"/>'
+    for (x1,y1,x2,y2) in [(300,120,286,104),(340,110,340,90),(380,120,394,104)]:
+        s+=f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="{RED}" stroke-width="5"/>'
+    s+=TAIL; open(OUT+"red-line-tug-of-war.svg","w").write(s)
+
+    # 2. Crossing the Red Line: toes on the red line
+    s=head(W,H,"#FFD23F")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=f'<line x1="400" y1="380" x2="400" y2="420" stroke="{RED}" stroke-width="12"/><rect x="380" y="396" width="270" height="14" fill="{RED}" fill-opacity="0.3" stroke="none"/>'
+    s+=man(350,180,"blank")+'<path d="M346,332 L380,404 L398,404"/><path d="M364,332 L392,398 L404,398"/>'
+    s+='<path d="M336,226 L316,290"/><path d="M366,226 L388,290"/>'
+    s+=monster(240,404,"bang",0.9,stink=True)
+    s+='<path d="M282,360 L312,330" stroke-width="5"/>'
+    s+=TAIL; open(OUT+"red-line-toes-on-the-line.svg","w").write(s)
+
+    # 3. Crossing the Red Line: the medicine that does everything (there's no such medicine)
+    s=head(W,H,"#B388EB")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=f'<rect x="250" y="130" width="180" height="270" rx="26" fill="#FFA630"/><rect x="270" y="90" width="140" height="50" rx="8" fill="#fff"/>'
+    s+='<rect x="275" y="190" width="130" height="150" rx="10" fill="#fff"/>'
+    s+=f'<circle cx="310" cy="230" r="16" fill="{YEL}"/>'+moon(370,232,16)
+    s+=f'<path d="M296,300 l14,-24 l14,24 Z" fill="{SHIRT}"/><path d="M356,276 l14,24 l14,-24 Z" fill="{SHIRT}"/>'
+    s+=f'<path d="M210,110 L470,420" stroke="{RED}" stroke-width="14"/>'
+    s+=TAIL; open(OUT+"red-line-no-such-medicine.svg","w").write(s)
+
+    # 4. Good News, Twice: the camping trip, sleeping like a log
+    s=head(W,H,"#1B2459")
+    s+=moon(590,70,20)+stars([(80,60),(170,40),(470,50),(330,30),(250,90)])
+    s+='<rect x="30" y="360" width="620" height="50" fill="#2E6B3A" stroke="none"/><line x1="30" y1="360" x2="650" y2="360" stroke="#fff"/>'
+    s+=f'<path d="M150,360 L300,150 L450,360 Z" fill="{RED}"/><path d="M300,150 L270,360 L330,360 Z" fill="#7a1f1a"/>'
+    s+='<rect x="210" y="320" width="180" height="34" rx="16" fill="'+SHIRT+'"/><circle cx="196" cy="334" r="22" fill="#fff"/><path d="M186,330 q5,4 10,0 M200,330 q5,4 10,0" stroke-width="3"/>'
+    for (x,y,f) in [(380,200,22),(410,170,28),(446,136,34)]:
+        s+=f'<text x="{x}" y="{y}" font-family="sans-serif" font-weight="bold" font-size="{f}" fill="#fff" stroke="none">z</text>'
+    s+=f'<path d="M530,360 l12,-30 l12,30 Z" fill="#FFA630"/><path d="M536,346 q6,-26 12,0" fill="{YEL}" stroke="none"/>'
+    s+=TAIL; open(OUT+"good-news-the-camping-trip.svg","w").write(s)
+
+    # 5. Good News, Twice: home again, and he's banging before you've unpacked
+    s=head(W,H,"#FF8C42")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="30" y="150" width="620" height="16" fill="#FFF6E5"/><line x1="30" y1="150" x2="650" y2="150"/><line x1="30" y1="166" x2="650" y2="166"/>'
+    s+=monster(420,150,"bang",0.8)
+    for (x1,y1,x2,y2) in [(360,176,346,196),(420,178,420,202),(480,176,494,196)]:
+        s+=f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="{YEL}" stroke-width="5"/>'
+    s+='<rect x="90" y="220" width="100" height="190" fill="#5A3E9B"/>'
+    s+=man(280,240,"blank")+'<path d="M276,392 L262,408 M294,392 L306,408" stroke-width="5"/>'
+    s+=f'<path d="M296,286 L330,330"/><rect x="320" y="320" width="80" height="60" rx="8" fill="{RED}"/><path d="M342,320 q18,-16 36,0" stroke-width="4"/>'
+    s+='<path d="M264,286 L240,330"/>'
+    s+=TAIL; open(OUT+"good-news-home-again.svg","w").write(s)
+
+    # 6. Good News, Twice: grass grows back
+    s=head(W,H,"#9AD0FF")
+    s+=f'<circle cx="590" cy="70" r="34" fill="{YEL}" stroke="none"/>'
+    s+='<path d="M30,250 L650,250 L650,410 L30,410 Z" fill="#6BCB77"/>'
+    s+='<path d="M80,410 C200,360 300,330 380,300 C460,270 560,262 640,256 L640,270 C560,278 470,290 390,318 C310,346 220,380 120,410 Z" fill="#B98A55" fill-opacity="0.45"/>'
+    for (x,y) in [(150,388),(200,372),(250,356),(300,338),(350,320),(400,304),(450,290),(500,280),(550,272),(600,266)]:
+        s+=f'<path d="M{x},{y} l-6,-14 M{x},{y} l0,-18 M{x},{y} l6,-14" stroke="#2E8B3A" stroke-width="4"/>'
+    for (x,y,c) in [(230,330,"#FF5FA2"),(420,280,YEL),(520,300,"#fff"),(330,370,"#FF5FA2")]:
+        s+=f'<circle cx="{x}" cy="{y}" r="9" fill="{c}"/><circle cx="{x}" cy="{y}" r="3" fill="#FFA630" stroke="none"/>'
+    s+=TAIL; open(OUT+"good-news-grass-grows-back.svg","w").write(s)
+
+    # 7. Good News, Twice: nobody ever got an apple by clenching his teeth
+    s=head(W,H,"#FFF0B3")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=tree(470,410,True)
+    s+=man(170,180,"squeeze")+legs(170,332,16)
+    s+='<path d="M156,226 L124,200 L118,170"/><path d="M186,226 L218,200 L224,170"/>'
+    s+=f'<circle cx="118" cy="166" r="12" fill="#FFE3C7"/><circle cx="224" cy="166" r="12" fill="#FFE3C7"/>'
+    for (x1,y1,x2,y2) in [(120,120,110,100),(170,108,170,86),(220,120,230,100)]:
+        s+=f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="{RED}" stroke-width="5"/>'
+    s+=f'<path d="M136,160 q-14,10 -6,26 q10,-8 6,-26 Z" fill="#4FB3FF" stroke-width="2"/>'
+    s+=TAIL; open(OUT+"good-news-clenched-teeth-no-apple.svg","w").write(s)
+
 if __name__=="__main__":
-    which=sys.argv[2:] or ["5","6","7","8","9","10","11"]
+    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12"]
     for b in which: globals()["batch"+b](OUT)
