@@ -6,11 +6,11 @@ Some men find all this alarming. "So I'm hooked. That makes it worse." No. It's 
 
 **Second:** you're not badly hooked. You never were. The Little Monster is tiny. The urge, by itself, is so faint you've mistaken it for boredom for half your life.
 
-Then why do so many men find stopping so hard, suffer for months, and still long for it years later? Because of the second cause, the lies. The flesh on its own is easy to handle, and your own life proves it.
+Then why do so many men find stopping so hard, suffer for months, and still long for it years later? Because of the second of the two causes. The first is the flesh. The second is the lies. The flesh on its own is easy to handle, and your own life proves it.
 
 ## The week away {-}
 
-Think of the week you spent at your parents' place or your in-laws', sleeping in the guest room with the thin walls. The camping trip with your friends. The conference where you shared a hotel room with a coworker. Basic training, where a soldier doesn't get a minute to himself for a month. Did you suffer? You hardly thought about it. You went days, and it cost you nothing.
+Think of the week you spent at your parents' place or your in-laws', sleeping in the guest room with the thin walls. The camping trip with your friends. The conference where you shared a hotel room with a coworker. Basic training, where a soldier doesn't get a minute to himself for a month. Did you suffer? Most men hardly think about it. You went days, and it cost you nothing.
 
 ![](images/illustrations/good-news-the-camping-trip.png){.illustration width=80%}
 
@@ -34,7 +34,7 @@ It's never too late. One man wrote that he finally got free in the forty-third y
 
 Now take Paul's words again: "the flesh lusts against the Spirit, and the Spirit against the flesh". Paul never says the flesh is beaten by more flesh, by a harder jaw and a tighter fist. The sentence just before it, Galatians 5:16, reads: "But I say, walk by the Spirit, and you won't fulfill the lust of the flesh." He puts the weight on what to walk toward.
 
-In his letter to the Romans he does say to put sin to death. Look how he says it: "if by the Spirit you put to death the deeds of the body, you will live." The Spirit does the heavy lifting.
+In his letter to the Romans he does tell believers to put to death the deeds of the body. Look how he says it: "if by the Spirit you put to death the deeds of the body, you will live." The Spirit does the heavy lifting.
 
 If you don't pray, the point still holds. Nobody grows self-control by gritting his teeth. It grows by itself once the lies stop feeding the itch.
 
@@ -57,3 +57,5 @@ So the flesh is the small part. The big part is what you were told.
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
 
 <!-- 2026-11-25 CHAPTER 11 PASS (James: prepare the next chapters, 'be generous with the images'): heading 'The week at your in-laws' is now 'The week away' (plain for single readers and non-native speakers); the forty-third-year man said plainly; a line for the man who doesn't pray between the Paul paragraphs (two-track rule); four drawings (the camping trip, home again, grass grows back, clenched teeth and the apple tree). -->
+
+<!-- 2026-11-25 reader panel: the two causes named in place; 'you hardly thought about it' no longer universal; Romans 8:13 described in its own words ('deeds of the body', not 'sin'). -->

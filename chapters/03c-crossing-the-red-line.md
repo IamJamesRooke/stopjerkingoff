@@ -6,7 +6,7 @@ Porn is built on this. It never runs out of new, so a man can chase "a bit more"
 
 So the fantasy creeps. First it's a daydream you barely notice. Then a memory. Then a woman you actually know: someone at work, a friend's wife, the neighbor across the street. Then a little help from the phone: a photo, a feed, a "harmless" video. Then porn, and then harder porn.
 
-Every man has a red line.
+Every man has a red line, a limit he swears he'll never cross.
 
 - "I only use my imagination."
 - "I'd never think about a real person."
@@ -24,10 +24,10 @@ And the line moves. A man will jerk off to anything: a stranger's vacation photo
 
 We do it when we're sick. We do it when we're so tired we can't see straight, when we're sad and when we aren't remotely in the mood. Married men do it an hour after making love to their wives. Does that sound like enjoyment? It sounds like a man feeding something.
 
-The Little Monster wants feeding, and you pick the times. They come in two pairs of opposites:
+The Little Monster wants feeding, and you pick the times. They come in two pairs of opposites.
 
-- **Boredom and concentration.**
-- **Stress and relaxation.**
+- **Boredom and concentration.** You reach for it when you're bored, and when you need to focus.
+- **Stress and relaxation.** You reach for it when you're wound tight, and when you want to unwind.
 
 What kind of medicine wakes you up and puts you to sleep, calms you down and gives you a lift? There's no such medicine.
 
@@ -44,3 +44,5 @@ So you're hooked. Is that bad news?
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
 
 <!-- 2026-11-25 CHAPTER 10 PASS (James: prepare the next chapters, 'be generous with the images'): Screwtape and Paul's letter named in place; three drawings (toes on the red line, the tug of war with you as the rope, no such medicine). -->
+
+<!-- 2026-11-25 reader panel: 'red line' glossed; the two pairs of opposites spelled out so the medicine question lands. -->
