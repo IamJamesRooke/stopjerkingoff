@@ -80,3 +80,9 @@ For the chapters The Dirty House, Mud on Purpose and Why Are You Doing That? Jam
 ## Rules followed
 - No named person is said to practice Satanism or witchcraft except Lana Del Rey, who said so herself.
 - Same-sex scenes are discussed as marketing shock and escalation, and the book's line (sex belongs in marriage) is applied to every couple on the screen.
+
+## Three YouTube videos James sent (2026-11-26), checked
+
+1. "Why Gen Z Women Are Becoming Witches" (Lungs of Faith, youtube.com/watch?v=jSRKjh8jHqg). Claims witchcraft is the fastest-growing faith among women, ties it to feminism, Theosophy, Crowley and Wicca, the CIA and Gloria Steinem, and birth-rate collapse. USED: the Beyonce Lemonade line (confirmed, Bustle transcript) and the WitchTok scale (NBC News, 2022: more than 11 billion TikTok views). NOT USED: "Ariana Grande has openly embraced witchcraft" (no source); the feminism and CIA history (off topic for the book, and partly speculative).
+2. "Every Satanic Ritual in GTA 6 EXPOSED" (DDGotAPodcast, youtube.com/watch?v=hxrRtl0aLhM). USED: the optional "Circles of Hell" quest (confirmed by GTA BOOM and gta6.house). NOT USED: a ritual where Lucia is possessed on a pentagram (not found); MK Ultra, Bohemian Rhapsody and Easter-Ishtar claims (conspiracy or false).
+3. "Netflix Keeps MOCKING Christians" (Aaron Page, youtube.com/watch?v=VqEdevVAdoA), on The Body. USED: episode titles, from Netflix's own listing ("Slutty God", "Jesus, Literally", "Holy Trinity"). NOT USED: "Pray hard, sin harder" and a cross-marked pill in the promo art (not found).
