@@ -1121,6 +1121,191 @@ def batch13(OUT):
     s+=f'<path d="M462,110 q0,-24 20,-24 q20,0 16,18 q-4,12 -16,16 l0,10" stroke-width="5"/>'+dot(482,140,4)
     s+=TAIL; open(OUT+"master-walked-out-puzzled.svg","w").write(s)
 
+def blob(tx,ty,sc=1.0,stink=True):
+    """The Little Monster's body only (no face), for custom faces."""
+    o=f'<g transform="translate({tx},{ty}) scale({sc})">'
+    if stink:
+        for dx in (-20,0,20):
+            o+=f'<path d="M{dx},-66 c-7,-9 7,-15 0,-24 c-7,-9 7,-15 0,-24" stroke="{STINK}" stroke-width="4"/>'
+    o+=f'<path d="M-30,-8 C-34,-38 -19,-56 0,-56 C19,-56 34,-38 30,-8 C27,2 -27,2 -30,-8 Z" fill="{LIME}"/>'
+    o+='<path d="M-4,-55 q1,-12 6,-3 q3,-11 7,1" stroke-width="4"/>'
+    return o
+def sexy_monster(tx,ty,sc=1.0,phone=True):
+    """The Little Monster trying to look sexy: duck lips, lashes, hip cocked, belly popping out."""
+    o=blob(tx,ty,sc)
+    # half-closed 'sultry' eyes with lashes
+    for ex in (-11,11):
+        o+=f'<path d="M{ex-8},-36 q8,-7 16,0" fill="#fff"/><path d="M{ex-8},-36 q8,4 16,0" fill="#fff"/>'
+        o+=dot(ex,-35,2.6)
+        o+=f'<path d="M{ex-8},-37 l-4,-5 M{ex-3},-40 l-2,-6 M{ex+3},-40 l1,-6 M{ex+8},-37 l4,-5" stroke-width="2.5"/>'
+    # big duck lips
+    o+='<path d="M-12,-20 q6,-9 12,-3 q6,-6 12,3 q-6,10 -12,6 q-6,4 -12,-6 Z" fill="#FF4F8B" stroke-width="3"/>'
+    o+='<line x1="-10" y1="-19" x2="10" y2="-19" stroke-width="2"/>'
+    # belly bulging out over 'sucked in' line
+    o+='<path d="M-14,-6 q14,14 28,0" stroke-width="3"/>'
+    # cocked hip: one leg straight, one bent
+    o+=f'<ellipse cx="-12" cy="6" rx="6" ry="9" fill="{LIME}"/><ellipse cx="14" cy="2" rx="9" ry="5" fill="{LIME}" transform="rotate(-25 14 2)"/>'
+    # hand on hip
+    o+='<path d="M-28,-22 q-14,6 -6,16"/>'
+    if phone:
+        o+='<path d="M28,-26 L40,-56"/>'
+        o+=f'<rect x="34" y="-82" width="16" height="28" rx="4" fill="{INK}"/><circle cx="42" cy="-60" r="2" fill="#fff" stroke="none"/>'
+    return o+'</g>'
+def batch14(OUT):
+    W,H=680,440
+    # 1. The Dirty House: the cat lady can't smell it; the visitor holds his nose
+    s=head(W,H,"#FFB86B")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="60" y="300" width="230" height="60" rx="20" fill="#8E5BD6"/><rect x="50" y="270" width="34" height="110" rx="14" fill="#6C42A8"/><rect x="266" y="270" width="34" height="110" rx="14" fill="#6C42A8"/>'
+    s+=man(175,236,"happy","#FF5A8A")+'<path d="M165,386 L150,408 M190,386 L205,408"/>'
+    s+='<path d="M162,280 L130,300"/><path d="M190,280 L222,300"/>'
+    s+=f'<rect x="200" y="210" width="44" height="30" rx="8" fill="#fff"/><path d="M222,210 q-6,-12 0,-18 M232,210 q6,-12 0,-18" stroke="#c9a" stroke-width="3"/>'
+    def cat(x,y,c):
+        o=f'<ellipse cx="{x}" cy="{y}" rx="26" ry="18" fill="{c}"/><circle cx="{x+22}" cy="{y-16}" r="14" fill="{c}"/>'
+        o+=f'<path d="M{x+12},{y-26} l2,-12 l8,8 M{x+26},{y-28} l6,-10 l4,12" fill="{c}"/>'
+        o+=dot(x+18,y-18,2.4)+dot(x+28,y-18,2.4)+f'<path d="M{x-26},{y} q-16,-10 -8,-26" />'
+        return o
+    s+=cat(380,392,"#888")+cat(110,252,"#F2A33A")+cat(460,392,"#222")+cat(320,392,"#F2A33A")
+    for (x,y) in [(400,330),(470,330),(330,330),(120,200)]:
+        s+=f'<path d="M{x},{y} c-7,-9 7,-15 0,-24 c-7,-9 7,-15 0,-24" stroke="{STINK}" stroke-width="5"/>'
+    s+=man(570,200,"squeeze","#2FB3A8")+legs(570,352,14)
+    s+='<path d="M556,246 L540,214 L566,206"/><path d="M584,246 L612,296"/>'
+    s+=f'<path d="M520,150 q-6,-10 2,-16" stroke="#4FB3FF" stroke-width="3"/>'
+    s+=TAIL; open(OUT+"dirty-house-cat-lady-sniffs.svg","w").write(s)
+
+    # 2. The shock ladder: each rung a bigger gasp; the audience on top yawns
+    s=head(W,H,"#7FD3FF")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<path d="M250,410 L330,40 M350,410 L430,40" stroke-width="7"/>'
+    for i in range(8):
+        y=380-i*44; x1=250+(410-y)*80/370; x2=x1+100
+        s+=f'<line x1="{x1}" y1="{y}" x2="{x2}" y2="{y}" stroke-width="6"/>'
+    # gasping face at the bottom
+    s+='<circle cx="150" cy="340" r="34" fill="#fff"/>'+dot(140,330,5)+dot(160,330,5)+'<ellipse cx="150" cy="356" rx="9" ry="12" fill="#5a1414"/>'
+    s+=f'<path d="M110,300 l-14,-14 M150,292 l0,-20 M190,300 l14,-14" stroke="{RED}" stroke-width="5"/>'
+    # middle: shrug
+    s+='<circle cx="480" cy="230" r="30" fill="#fff"/>'+dot(472,224)+dot(488,224)+'<line x1="472" y1="242" x2="490" y2="242" stroke-width="3.5"/>'
+    # top: yawning, phone in hand
+    s+='<circle cx="560" cy="90" r="32" fill="#fff"/><path d="M546,80 l10,0 M566,80 l10,0" stroke-width="3.5"/><ellipse cx="561" cy="104" rx="8" ry="10" fill="#5a1414"/>'
+    s+='<text x="590" y="60" font-family="Arial" font-weight="bold" font-size="22" fill="#141414" stroke="none">z z</text>'
+    s+=TAIL; open(OUT+"dirty-house-the-shock-ladder.svg","w").write(s)
+
+    # 3. Lot lingers: a big hand from outside the frame drags him by the wrist toward the gate
+    s=head(W,H,"#FF7A59")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    for (x,h) in [(40,180),(110,240),(180,150),(250,210)]:
+        s+=f'<rect x="{x}" y="{410-h}" width="60" height="{h}" fill="#8A3B2A"/>'
+        for wy in range(410-h+20,390,40):
+            s+=f'<rect x="{x+12}" y="{wy}" width="12" height="16" fill="{YEL}" stroke-width="3"/><rect x="{x+36}" y="{wy}" width="12" height="16" fill="{YEL}" stroke-width="3"/>'
+        for k in range(3):
+            s+=f'<path d="M{x+30},{410-h-10-k*0} c-10,-20 10,-30 0,-50" stroke="{YEL}" stroke-width="5"/>' if k==0 else ''
+    s+=man(390,200,"flat","#C9A26B")+'<path d="M386,352 L370,408"/><path d="M404,352 L380,406"/>'
+    s+='<path d="M376,246 L330,260"/><path d="M404,246 L470,226"/>'
+    s+='<path d="M470,226 L640,200" stroke-width="22" stroke="#FFE3C7"/><path d="M470,226 L640,200" stroke-width="5" fill="none"/>'
+    s+='<circle cx="476" cy="226" r="16" fill="#FFE3C7"/>'
+    s+=f'<path d="M370,180 q-20,-10 -26,-30" stroke="#4FB3FF" stroke-width="3"/>'
+    s+='<path d="M300,250 q-20,10 -40,0" stroke-width="4"/>'
+    s+=TAIL; open(OUT+"dirty-house-lot-lingers.svg","w").write(s)
+
+    # 4. Fresh air: door flung open, man steps in, sniffs, recoils
+    s=head(W,H,"#6BCB77")
+    s+=f'<circle cx="590" cy="70" r="34" fill="{YEL}" stroke="none"/>'
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=house_front(80,170,300,240)
+    s+='<rect x="190" y="290" width="80" height="120" fill="#2a1a3a"/><path d="M270,290 L320,300 L320,410 L270,410 Z" fill="#5A3E9B"/>'
+    for (x,y) in [(210,290),(240,280),(150,250)]:
+        s+=f'<path d="M{x},{y} c-7,-9 7,-15 0,-24 c-7,-9 7,-15 0,-24" stroke="{STINK}" stroke-width="5"/>'
+    s+=man(470,210,"squeeze")+'<path d="M466,362 L440,408"/><path d="M484,362 L520,404"/>'
+    s+='<path d="M456,256 L444,222 L462,214"/><path d="M486,256 L526,236"/>'
+    s+=f'<path d="M420,190 l-20,-6 M422,206 l-22,4" stroke="{RED}" stroke-width="4"/>'
+    s+=TAIL; open(OUT+"dirty-house-door-open-fresh-air.svg","w").write(s)
+
+    # 5. Mud on purpose: a grinning boot stamps muddy prints across a cream carpet
+    s=head(W,H,"#FFD23F")
+    s+='<rect x="40" y="300" width="600" height="110" rx="10" fill="#FFF6E5"/>'
+    for (x,y) in [(90,360),(170,340),(250,370),(330,345),(410,372)]:
+        s+=f'<ellipse cx="{x}" cy="{y}" rx="30" ry="14" fill="#6B4423" stroke="none"/><ellipse cx="{x+28}" cy="{y}" rx="10" ry="12" fill="#6B4423" stroke="none"/>'
+    s+='<path d="M470,120 L470,300 L600,300 Q630,300 630,270 L630,250 Q600,230 540,230 L540,120 Z" fill="#7a4a2a"/>'
+    s+='<path d="M470,300 L630,300" stroke-width="10"/>'
+    s+='<circle cx="505" cy="170" r="20" fill="#fff"/><circle cx="525" cy="170" r="20" fill="#fff"/>'+dot(508,172)+dot(528,172)
+    s+='<path d="M490,206 q30,26 60,0" fill="#fff"/>'
+    s+=f'<path d="M560,320 l20,20 M600,320 l10,24 M520,322 l-6,26" stroke="#6B4423" stroke-width="6"/>'
+    s+=TAIL; open(OUT+"mud-boots-on-the-carpet.svg","w").write(s)
+
+    # 6. Would you pay him? A man spits on the family photo and holds out his hand
+    s=head(W,H,"#5C6B8A")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="90" y="120" width="130" height="160" rx="6" fill="#E2B56B"/><rect x="106" y="136" width="98" height="128" fill="#FFF6E5"/>'
+    s+='<circle cx="140" cy="186" r="16" fill="#fff"/><circle cx="172" cy="182" r="18" fill="#fff"/><path d="M128,264 q12,-50 24,0 M158,264 q14,-56 28,0" fill="#FF8FB1"/>'
+    s+='<path d="M200,170 q10,6 4,14" stroke="#4FB3FF" stroke-width="4"/>'
+    s+=man(330,190,"flat","#222")+legs(330,342,16)
+    s+='<path d="M302,180 q-30,-10 -60,-6" stroke="#4FB3FF" stroke-width="3" stroke-dasharray="6 8"/>'
+    s+='<path d="M344,236 L400,250 L430,240"/>'
+    s+='<path d="M430,240 q14,-4 18,6 q-8,8 -20,4" fill="#FFE3C7"/>'
+    s+=f'<rect x="470" y="300" width="70" height="38" rx="4" fill="#6BCB77"/><text x="488" y="326" font-family="Arial" font-weight="bold" font-size="20" fill="#141414" stroke="none">$20</text>'
+    s+=man(560,200,"blank")+legs(560,352,14)
+    s+='<path d="M546,246 L520,300"/><path d="M574,246 L600,300"/>'
+    s+=f'<path d="M600,140 q0,-24 20,-24 q20,0 16,18 q-4,12 -16,16 l0,10" stroke-width="5"/>'+dot(620,170,4)
+    s+=TAIL; open(OUT+"mud-would-you-pay-him.svg","w").write(s)
+
+    # 7. The monster at the awards show: devil-horn top hat, flames, and nobody cares
+    s=head(W,H,"#2B1B4F")
+    s+='<rect x="100" y="320" width="480" height="90" fill="#8E5BD6"/><line x1="100" y1="320" x2="580" y2="320"/>'
+    for x in range(130,560,60):
+        s+=f'<path d="M{x},320 q-14,-40 6,-70 q4,30 18,18 q10,30 -4,52 Z" fill="{RED}"/><path d="M{x+6},318 q-4,-20 6,-34 q6,18 -2,34 Z" fill="{YEL}" stroke="none"/>'
+    s+=monster(340,300,"bang",1.3,stink=True)
+    s+=f'<rect x="306" y="190" width="68" height="40" fill="{RED}"/><rect x="292" y="226" width="96" height="10" rx="4" fill="{RED}"/>'
+    s+=f'<path d="M314,192 q-14,-22 -2,-34 q0,16 12,20 Z M366,192 q14,-22 2,-34 q0,16 -12,20 Z" fill="{RED}"/>'
+    s+='<circle cx="560" cy="80" r="26" fill="#fff"/><path d="M548,74 l8,0 M564,74 l8,0" stroke-width="3"/><ellipse cx="560" cy="92" rx="6" ry="8" fill="#5a1414"/>'
+    s+='<text x="592" y="60" font-family="Arial" font-weight="bold" font-size="20" fill="#fff" stroke="none">z z</text>'
+    s+=TAIL; open(OUT+"mud-the-monster-at-the-awards.svg","w").write(s)
+
+    # 8. The Little Monster's duck-face selfie in a bathroom mirror
+    s=head(W,H,"#FF8FB1")
+    s+='<rect x="40" y="330" width="600" height="80" fill="#FFF6E5"/><line x1="40" y1="330" x2="640" y2="330"/>'
+    s+='<rect x="380" y="70" width="230" height="250" rx="16" fill="#BFE3FF"/><path d="M400,110 l40,-30 M420,140 l60,-50" stroke="#fff" stroke-width="6"/>'
+    s+=sexy_monster(240,300,2.2)
+    s+='<g transform="translate(495,300) scale(-1.4,1.4)">'+sexy_monster(0,0,1.0,phone=True).replace('<g transform="translate(0,0) scale(1.0)">','<g>')+'</g>'
+    s+=TAIL; open(OUT+"why-monster-duck-face-selfie.svg","w").write(s)
+
+    # 9. The Little Monster's pin-up pose on a velvet chaise, with flies circling
+    s=head(W,H,"#C93B6B")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<path d="M140,330 Q140,280 200,290 L520,300 Q560,300 560,340 L560,370 L140,370 Z" fill="#7B1E45"/><line x1="170" y1="370" x2="170" y2="404"/><line x1="530" y1="370" x2="530" y2="404"/>'
+    s+=sexy_monster(340,292,1.9,phone=False)
+    for (x,y) in [(250,120),(430,100),(470,160),(220,180)]:
+        s+=f'<circle cx="{x}" cy="{y}" r="6" fill="{INK}" stroke="none"/><ellipse cx="{x-6}" cy="{y-7}" rx="6" ry="4" fill="#fff" stroke-width="2"/><ellipse cx="{x+6}" cy="{y-7}" rx="6" ry="4" fill="#fff" stroke-width="2"/>'
+    s+=f'<path d="M240,110 q40,-30 80,0 q40,30 80,-10" stroke-dasharray="4 8" stroke-width="2"/>'
+    s+=TAIL; open(OUT+"why-monster-pinup.svg","w").write(s)
+
+    # 10. Scroll on: a calm man flicks past the picture with a thumb, the monster upstairs sulks
+    s=head(W,H,"#33C3D6")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=man(220,190,"happy")+legs(220,342,16)
+    s+='<path d="M234,236 L280,220 L300,196"/><path d="M206,236 L180,290"/>'
+    s+=f'<rect x="282" y="140" width="56" height="96" rx="10" fill="{INK}"/><rect x="288" y="150" width="44" height="76" rx="4" fill="#fff"/>'
+    s+=f'<path d="M298,170 l24,0 M298,184 l24,0 M298,198 l16,0" stroke-width="3"/><path d="M310,250 l0,-20 m-8,8 l8,-8 l8,8" stroke="{RED}" stroke-width="4"/>'
+    s+='<rect x="430" y="120" width="190" height="150" fill="#FFF6E5"/><line x1="430" y1="270" x2="620" y2="270" stroke-width="7"/>'
+    s+=monster(525,262,"dangle",1.05,stink=True)
+    s+='<rect x="490" y="250" width="70" height="12" rx="6" fill="#fff"/>'
+    s+=TAIL; open(OUT+"why-scroll-on.svg","w").write(s)
+
+    # 11. "That's a boot": a man on the couch points at a TV where a muddy boot stomps across the screen
+    s=head(W,H,"#9B7BFF")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=f'<rect x="380" y="110" width="250" height="160" rx="12" fill="{INK}"/><rect x="394" y="124" width="222" height="132" fill="#FFF6E5"/>'
+    s+='<line x1="505" y1="270" x2="505" y2="300"/><line x1="460" y1="300" x2="550" y2="300" stroke-width="6"/>'
+    s+='<path d="M470,150 L470,230 L560,230 Q580,230 580,212 L580,200 Q560,190 520,190 L520,150 Z" fill="#7a4a2a"/>'
+    for (x,y) in [(420,244),(450,236)]:
+        s+=f'<ellipse cx="{x}" cy="{y}" rx="14" ry="6" fill="#6B4423" stroke="none"/>'
+    s+=f'<path d="M488,170 q10,10 20,0" stroke-width="3"/>'+dot(492,162,3)+dot(506,162,3)
+    s+=sofa().replace('x="120" y="226" width="440"','x="40" y="300" width="290"')
+    s+='<rect x="40" y="300" width="290" height="70" rx="22" fill="#FF7A59"/><rect x="30" y="270" width="34" height="110" rx="14" fill="#D9573B"/><rect x="306" y="270" width="34" height="110" rx="14" fill="#D9573B"/>'
+    s+=man(180,230,"happy")+'<path d="M170,380 L160,408 M196,380 L210,408"/>'
+    s+='<path d="M194,276 L260,240 L330,226"/><path d="M166,276 L130,320"/>'
+    s+='<text x="150" y="150" font-family="Arial" font-weight="bold" font-size="26" fill="#141414" stroke="none">That\'s a boot.</text>'
+    s+=TAIL; open(OUT+"why-pay-thats-a-boot.svg","w").write(s)
+
 if __name__=="__main__":
-    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13"]
+    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14"]
     for b in which: globals()["batch"+b](OUT)
