@@ -42,7 +42,9 @@ Think about that. The devil horns didn't even impress the Satanists.
 
 ![](images/illustrations/mud-the-monster-at-the-awards.png){.illustration width=80%}
 
-A few people on stage have said they dabble. In 2017 the singer Lana Del Rey said she'd joined a mass "binding" spell, a ritual meant to tie the hands of President Trump. Asked about it, she said, "Yeah, I did it. Why not?" Off the stage, plenty of ordinary people mean it too. By 2022 the witchcraft hashtag on TikTok had more than eleven billion views. And there are people who truly believe Satan is real, and worship him.
+A few people on stage have said they dabble. In 2017 the singer Lana Del Rey said she'd joined a mass "binding" spell, a ritual meant to tie the hands of President Trump. Asked about it, she said, "Yeah, I did it. Why not?"
+
+In 2024 Ariana Grande sat down with a radio host to talk about her new album. She said she does tarot readings for friends on set. Tarot is a deck of picture cards used to tell fortunes. She said she sits "somewhere between being a literal witch, literal witch, I'm not kidding," and being completely down to earth. When the host said, "You are a witch," she answered, laughing, "I am indeed the witchiest witch." Maybe it was a joke. Either way, she said it to millions of fans. Off the stage, plenty of ordinary people mean it too. By 2022 the witchcraft hashtag on TikTok had more than eleven billion views. And there are people who truly believe Satan is real, and worship him.
 
 Here's the thing, though. Whether the man on stage believes or not, the message the business sells never changes. It's the oldest one there is:
 
@@ -77,5 +79,6 @@ SOURCES:
 - The Body episode titles ('Slutty God', 'Jesus, Literally', 'Holy Trinity'): Netflix Tudum, https://www.netflix.com/tudum/the-body . Claims from a YouTube video (James, 11-26) that Netflix used 'Pray hard, sin harder' and promo art with a cross-marked pill could not be confirmed and are left out.
 - GTA VI hidden quest ('Circles of Hell', optional; cultists Beelzebub and Dave chant 'Hail Satan'; boss 'the Pretender'; reward Hellspawn Comshot 12 shotgun): https://www.gtaboom.com/how-to-find-and-beat-satan-in-gta-6-for-the-hellspawn-shotgun-98d3 ; https://gta6.house/library/characters/satan . A video's claim of a ritual where Lucia is possessed on a pentagram could not be confirmed and is left out.
 - WitchTok, 'more than 11 billion views on TikTok' (NBC News, about Oct 2022): https://www.nbcnews.com/think/opinion/paganism-witchcraft-are-making-comeback-rcna54444
+- Ariana Grande, Zach Sang Show, 'eternal sunshine' track-by-track part 2, published 12 March 2024, about 24:40 and near the end: https://www.youtube.com/watch?v=dEp1T8GKWaI . Quotes checked against the video's own transcript: tarot readings on set; astrology 'a tool to help us hear what we need to hear'; 'I sit somewhere between being a literal witch, literal witch, I'm not kidding, and being like the most realistic cut-dry'; host: 'you are a witch'; Grande: 'I am indeed the witchiest witch' (said laughing, about a coincidence with Jim Carrey's birthday). Also on record, not used: 2013 Complex interview on a 'ghost/demon experience'; 2014 Telegraph interview crediting Kabbalah. Claims that she 'practices witchcraft' beyond her own words are commentators' framing.
 - Lana Del Rey, 2017: https://stereogum.com/1953599/lana-del-rey-on-doing-witchcraft-against-donald-trump-yeah-why-not-look-i-do-a-lot-of-shit/news
 - Isaiah 5:20, Ephesians 5:12 (WEB). -->
