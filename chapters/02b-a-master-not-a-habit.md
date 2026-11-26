@@ -29,7 +29,11 @@ Now the good news. Once you see how the master holds you, and why you really rea
 
 ## The quiet trap {-}
 
-The trap is quiet. Your own flesh supplies the bait, and the world stands around telling you it isn't a trap at all.
+Start with the first mystery. How did it ever get a grip on you?
+
+Because the trap is quiet. Your own flesh supplies the bait, and the world stands around telling you it isn't a trap at all.
+
+![](images/illustrations/master-the-quiet-trap.png){.illustration width=80%}
 
 A boy gets no warning. Cigarettes at least bring a cough and a label on the box. His own hand brings no dealer, no price, no hangover and no smell on his clothes. Nothing flashes red. Why would it?
 
@@ -46,11 +50,17 @@ When does a man try to break out? Almost never on a good day. He decides after s
 
 So he quits on the very day he feels worst, which is the very day he most wants his old comforter. He's stacked a second misery on the first and thrown away the only comfort he knows.
 
+![](images/illustrations/master-two-boxes-in-the-rain.png){.illustration width=80%}
+
 A few days of that, and his resolve melts away. "I picked a bad week. I'll do it when things calm down. After finals. When I've got a girlfriend. Once I'm married." Then things do calm down, and with the pressure off, the reason to stop is gone too. He drifts on until the next incident.
+
+![](images/illustrations/master-calendar-pages-fly.png){.illustration width=80%}
 
 Each year the calm weeks get fewer. He's left home, there's a job, rent, a wife, small children. Life, he decides, just gets more stressful as you go.
 
 Not as much as he thinks. He's mixing up responsibility with stress. He wasn't carefree at fourteen. He was a bundle of nerves. What's grown is the habit's share of the load. It doesn't calm a man down. It winds him up, quietly, one guilty night at a time: another secret to keep, another promise broken, another morning started already behind. He blames the job.
+
+![](images/illustrations/master-wind-up-key.png){.illustration width=80%}
 
 You're not quitting yet, and nobody's asking you to cut down. So the next time a day flattens you, go ahead and carry his plate up. Just ask one thing on the way back down the stairs. Did you take the edge off? Or did you give in to a tantrum?
 
@@ -64,6 +74,8 @@ Stopping can be easy for any man. First you need the facts about why you're stil
 Take those two away, and nothing is left to hold you.
 
 The men who've walked out aren't missing a thing. They aren't clenching their jaws or staring back with longing. If anything they seem faintly puzzled that they ever bothered.
+
+![](images/illustrations/master-walked-out-puzzled.png){.illustration width=80%}
 
 Before long you'll be one of them. Jesus said the truth makes a man free, and a few verses later he said it's the Son, meaning himself, who does it. This book is about one small corner of that truth: the lies lust tells. If you're not a believer, you can still test those lies for yourself.
 
@@ -92,3 +104,5 @@ Take the flesh first. It's the smaller of the two, and it's not what you think i
 <!-- 2026-11-24 CHAPTER 6 TO THE LOCKED STANDARD (James: get chapters 4 to 7 up to the standard of the Intro to chapter 3, with all the drawings). Fixes: the nightstand line now restates the button in place instead of pointing back to it; John 8:34 given its setting (said to men who claimed they had never been anyone's slaves, John 8:33); 'the joke is his size' clarified so the master and the pipsqueak aren't two different things (the lies make the man obey him); 'the only medicine he knows' is now 'comfort', so the book doesn't call the habit medicine. The proof-loop lines about taking the edge off are untouched. Two new drawings: the light switch, the pipsqueak king. -->
 
 <!-- 2026-11-24 reader panel: master and pipsqueak reconciled (the lies make a pipsqueak look like a king); 'before anyone studied addiction' overreach softened; tray is now his plate; 'turns to mush' made plain. -->
+
+<!-- 2026-11-26 (James, reading: 'Quiet trap seems like it comes out of nowhere. And there are no pictures. I LOVE the pictures.'): 'The quiet trap' now opens by taking up the first of the two mysteries the section before it ends on ('how it ever had a grip on you'). Five drawings: the quiet trap with the crowd giving it a thumbs-up, two boxes in the rain, the calendar pages flying away, the Little Monster turning the wind-up key, the man walking out puzzled. -->

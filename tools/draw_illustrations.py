@@ -1056,6 +1056,71 @@ def batch12(OUT):
     s+=f'<path d="M136,160 q-14,10 -6,26 q10,-8 6,-26 Z" fill="#4FB3FF" stroke-width="2"/>'
     s+=TAIL; open(OUT+"good-news-clenched-teeth-no-apple.svg","w").write(s)
 
+def mousetrap(x,y,w=240):
+    o=f'<rect x="{x}" y="{y}" width="{w}" height="26" rx="4" fill="#E2B56B"/>'
+    o+=f'<path d="M{x+40},{y} L{x+40},{y-70} L{x+w-30},{y-70} L{x+w-30},{y}" stroke-width="6" stroke="#999"/>'
+    o+=f'<path d="M{x+w-90},{y} L{x+w-70},{y-26} L{x+w-40},{y-6} Z" fill="{YEL}"/>'
+    for (cx,cy) in [(x+w-72,y-12),(x+w-58,y-10)]:
+        o+=f'<circle cx="{cx}" cy="{cy}" r="3" fill="#E2A600" stroke="none"/>'
+    return o
+def batch13(OUT):
+    W,H=680,440
+    # 1. The quiet trap: the bait is your own, and everyone says it isn't a trap
+    s=head(W,H,"#7FD3FF")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=mousetrap(220,384,260)
+    for (x,c) in [(90,"#FF7A59"),(590,"#2FB3A8")]:
+        s+=man(x,200,"happy",c)+legs(x,352,14)
+        s+=f'<path d="M{x-14},246 L{x-40},290"/><path d="M{x+14},246 L{x+30},200 L{x+30},178"/>'
+        s+=f'<rect x="{x+22}" y="168" width="16" height="22" rx="6" fill="#FFE3C7"/><rect x="{x+26}" y="150" width="8" height="22" rx="4" fill="#FFE3C7"/>'
+    s+=TAIL; open(OUT+"master-the-quiet-trap.svg","w").write(s)
+
+    # 2. The quiet trap: he quits on his worst day and stacks a second misery on the first
+    s=head(W,H,"#5C6B8A")
+    s+='<ellipse cx="330" cy="40" rx="170" ry="30" fill="#8A93A8"/>'
+    for i in range(14):
+        x=200+i*20; y=80+(i*29)%60
+        s+=f'<line x1="{x}" y1="{y}" x2="{x-6}" y2="{y+20}" stroke="#BFE3FF" stroke-width="4"/>'
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=man(330,230,"squeeze")+'<path d="M326,382 L306,408 M344,382 L364,408"/>'
+    s+=f'<path d="M310,276 L284,196"/><path d="M350,276 L376,196"/>'
+    s+=f'<rect x="270" y="130" width="120" height="60" rx="4" fill="#C9A26B" transform="rotate(-6 330 160)"/><rect x="280" y="72" width="100" height="56" rx="4" fill="#B98A55" transform="rotate(7 330 100)"/>'
+    s+=TAIL; open(OUT+"master-two-boxes-in-the-rain.svg","w").write(s)
+
+    # 3. The quiet trap: 'when things calm down', and the calendar pages fly away
+    s=head(W,H,"#FFD23F")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="70" y="300" width="250" height="60" rx="20" fill="#7B4FD6"/><rect x="60" y="270" width="36" height="110" rx="14" fill="#5A3E9B"/><rect x="300" y="270" width="36" height="110" rx="14" fill="#5A3E9B"/>'
+    s+=man(190,226,"blank")+'<path d="M180,370 L170,408 M206,370 L220,408"/>'
+    s+='<path d="M176,272 L150,320"/><path d="M204,272 L230,320"/>'
+    s+=f'<rect x="420" y="250" width="110" height="130" rx="6" fill="#fff"/><rect x="420" y="250" width="110" height="28" fill="{RED}"/>'
+    for (x,y,r) in [(470,190,-20),(520,140,15),(580,100,-30),(610,60,20),(440,120,30)]:
+        s+=f'<g transform="rotate({r} {x} {y})"><rect x="{x-26}" y="{y-30}" width="52" height="60" rx="4" fill="#fff"/><rect x="{x-26}" y="{y-30}" width="52" height="12" fill="{RED}"/></g>'
+    s+=TAIL; open(OUT+"master-calendar-pages-fly.svg","w").write(s)
+
+    # 4. The quiet trap: it winds him up, one guilty night at a time
+    s=head(W,H,"#FF8FB1")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=man(270,190,"squeeze")+legs(270,342,16)
+    s+='<path d="M256,236 L230,300"/><path d="M286,236 L312,300"/>'
+    s+=f'<rect x="310" y="262" width="60" height="12" rx="4" fill="#999"/><path d="M370,236 C400,226 400,300 370,300 C350,300 352,240 370,236 Z" fill="#ccc"/><path d="M370,236 C340,226 340,300 370,300" fill="none"/>'
+    s+=f'<path d="M350,240 q-20,-16 -10,-36 M352,300 q-20,16 -6,34" stroke="{RED}" stroke-width="4"/>'
+    s+='<rect x="400" y="330" width="110" height="80" fill="#C9A26B"/><line x1="400" y1="330" x2="510" y2="410" stroke-width="3"/>'
+    s+=monster(452,330,"bang",0.9,stink=True)
+    s+='<path d="M412,320 L388,290" stroke-width="5"/>'
+    s+=f'<path d="M234,176 q-14,10 -6,26 q10,-8 6,-26 Z" fill="#4FB3FF" stroke-width="2"/>'
+    s+=TAIL; open(OUT+"master-wind-up-key.svg","w").write(s)
+
+    # 5. The two causes: the men who walked out, faintly puzzled they ever bothered
+    s=head(W,H,"#6BCB77")
+    s+=f'<circle cx="590" cy="70" r="34" fill="{YEL}" stroke="none"/>'
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=mousetrap(70,384,200)
+    s+=man(440,190,"happy")+'<path d="M436,342 L410,408"/><path d="M454,342 L490,404"/>'
+    s+='<path d="M454,236 L480,180 L458,152"/><path d="M426,236 L400,290"/>'
+    s+=f'<path d="M462,110 q0,-24 20,-24 q20,0 16,18 q-4,12 -16,16 l0,10" stroke-width="5"/>'+dot(482,140,4)
+    s+=TAIL; open(OUT+"master-walked-out-puzzled.svg","w").write(s)
+
 if __name__=="__main__":
-    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12"]
+    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13"]
     for b in which: globals()["batch"+b](OUT)
