@@ -20,7 +20,7 @@ Remember what kept you aboard. Not love. Fear. Fear of the long nights, of white
 
 So don't shout. Take away the fear.
 
-Tell him what it's like on shore. Tell him how good it is to wake up with a clear head and no dread in your stomach. Tell him you sleep. Tell him you can look a woman in the face with nothing to hide. If you pray, tell him you can do it without clearing your throat first. Tell him the fog has lifted, and you miss nothing.
+Tell him what it's like on shore. Tell him how good it is to wake up with a clear head and no dread in your stomach. Tell him you sleep. Tell him you can look a woman in the face with nothing to hide. If you pray, tell him you can do it without feeling like a fraud. Tell him the fog has lifted, and you miss nothing.
 
 Then tell him the one thing he's sure is false. He's not alone. Every man on the ship thinks he's the only one aboard, and it helps to hear otherwise from a man he respects.
 

@@ -2,7 +2,7 @@
 
 You've said your No. Now you live as a free man. The telephone will still ring now and then. Here's what to do about it.
 
-You know the caller, and you know answering is what taught him to keep calling. Maxwell Maltz, a surgeon turned writer, adds an armchair.
+You know the caller, and you know answering is what taught him to keep calling. Maxwell Maltz, a surgeon turned writer, gave us a picture with an armchair in it.
 
 You're sitting in it and the telephone rings. Same telephone the caller always uses. All your life you've jumped up and answered it. Today you stay put. You hear it fine. You're not pretending it isn't ringing, and you're not white-knuckling the armrests. You just don't get up.
 

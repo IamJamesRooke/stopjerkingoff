@@ -1,10 +1,10 @@
 # Questions Men Ask {#feedback}
 
-> "for a righteous man falls seven times and rises up again"
+> "for a righteous man falls seven times, and rises up again"
 >
 > — Proverbs 24:16
 
-This book has no quarrel with the man in the trap. Its quarrel is with the trap. When the method goes wrong, it's one of four things. Two are fears that creep back and make him doubt. Two are mistakes in carrying it out.
+This book has no quarrel with the man in the trap. Its quarrel is with the trap. When the method goes wrong, it's usually one of four things. Two are fears that creep back and make him doubt. Two are mistakes in carrying it out.
 
 ![](images/illustrations/falls-seven-rises.png){.illustration width=80%}
 
@@ -56,7 +56,7 @@ Hear this too. Say you've followed all of it, read the book twice, and you're st
 
 This book has nothing against sex. It's against the counterfeit.
 
-You already know where the line is. Sex belongs inside marriage. The letter to the Hebrews, in the New Testament, says, "Let marriage be held in honor among all, and let the bed be undefiled". That isn't because sex is dirty. It's because sex is strong. It ties two people together, and lust wants the tie without the promise. Within marriage, sex is a gift, and a married man who's stopped the habit shouldn't hold back from his wife.
+You already know where the line is. Sex belongs inside marriage. The letter to the Hebrews, in the New Testament, says, "Let marriage be held in honor among all, and let the bed be undefiled". That isn't because sex is dirty. It's because sex is strong. It ties two people together, and lust wants the tie without the promise. Within marriage, sex is a gift both give freely, never one to demand. A married man who's stopped the habit brings his wife the whole of himself.
 
 If you're not a believer, the test in your pocket gives the same answer. A gift, inside a promise already made? Or a hit?
 

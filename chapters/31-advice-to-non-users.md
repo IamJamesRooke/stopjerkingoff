@@ -32,7 +32,7 @@ In time you may want to understand what had hold of him. Read the book from the 
 
 ## Getting him to read this book {-}
 
-Don't hand him the book with a speech about his marriage, his mind or his soul.
+If you're his wife, none of this is your job. Skip it if you like. For anyone who does want to try, don't hand him the book with a speech about his marriage, his mind or his soul.
 
 He knows.
 
@@ -62,7 +62,7 @@ But the alternative to condemning isn't silence. Silence is how most men got her
 
 So, fathers, a few suggestions.
 
-- **Speak before the world does.** One man who was caught at ten, and now talks about it publicly, tells parents to "be the first presenter of truth to your children." Wait until you've "caught" him and you're already late. The conversation starts as a trial.
+- **Speak before the world does.** One man who was caught at ten, and now talks about it publicly, tells parents to "be the first presenter of truth to your children." If you wait until you've caught him, you're already late. The conversation starts as a trial.
 - **Tell him the truth about the trap.** Tell him desire is good and God-made. Tell him this habit hijacks it, promises relief and delivers an itch, and that nearly every man who starts wishes he hadn't. This book is the long version. Give him the ten-minute one.
 - **Tell him your own story,** as much of it as is fitting. Nothing takes the shame out of a boy faster than finding out his father's been there and gotten out.
 - **Never spy and then explode.** If you find something, wait a day. Then talk to him the way you wish someone had talked to you.

@@ -38,7 +38,7 @@ If you share a bed with a woman you haven't married, tell her, and soon. Your No
 
 Nobody else needs to know. Don't post "Day 1" anywhere. You don't need a crowd clapping.
 
-That's the method, start to finish. When it goes wrong, it goes wrong in only four ways, and men ask about every one of them.
+That's the method, start to finish. When it goes wrong, it usually goes wrong in one of four ways, and men ask about every one of them.
 
 <!-- 2026-11-20 structure pass (James: right sections in the right chapters, right sizes, one flow): NEW CHAPTER, moved whole out of 'Questions Men Ask', where it was a 600-word answer inside a list. It follows 'The Final Step', which asks the man to tell one person. Wording unchanged apart from headings, the opening line and James 5:16 quoted in place (WEB, first sentence; checked 2026-11-20). James approved the wife section in the pastor review (2026-11-19). -->
 
