@@ -12,7 +12,7 @@ A doctor can check your blood pressure. Who checks your drive, or your nerve? Wh
 
 Almost nothing here is a medical finding, and where the doctors come in I'll say so. Check every line against your own life. If one doesn't fit, drop it. I don't think you'll drop many.
 
-A young man rarely notices the cost. At twenty he's got energy to burn, nobody depending on him, and no wife beside him to feel his absence. He pays out of the surplus. The bill comes later, when life starts asking for everything he's got, and he finds he's been burning a tenth of it in the dark for fifteen years.
+A young man rarely notices the cost. At twenty he's got energy to burn, nobody depending on him, and no wife beside him to feel his absence. He pays out of the surplus. The bill comes later, when life starts asking for everything he's got, and he finds he's been burning a good slice of it in the dark for fifteen years.
 
 ## It isn't a landmine {-}
 
@@ -80,7 +80,7 @@ That's the real cost to a Christian man, and it has nothing to do with lightning
 
 God doesn't leave. You do.
 
-You skip the prayer because of what you did an hour ago. You sit in the back row and keep quiet in the small group. You feel like a fraud with a Bible in your hand. You start to believe you're not the sort of man who gets to answer a calling.
+You skip the prayer because of what you did an hour ago. You sit in the back row and keep quiet in the small group. You feel like a fraud with a Bible in your hand. You start to believe you're not the sort of man who gets to answer a calling. That's the shame talking. The door is still open, and you can walk back through it.
 
 ### Your marriage {-}
 
@@ -90,9 +90,9 @@ Desire is meant to drive a man out of himself and toward one woman, who has her 
 
 So the husband lies a foot from his wife and a hundred miles away.
 
-![](images/illustrations/doing-a-hundred-miles-away.png){.illustration width=80%} She can't name what's wrong, but she can feel that part of him is being spent elsewhere. Sometimes his body gives him away. "I knew there was a serious problem", wrote a man on a sobriety forum, "when I was losing my erection sometimes when I was with my wife". And he can't tell her, so now there's a locked room in the marriage.
+![](images/illustrations/doing-a-hundred-miles-away.png){.illustration width=80%} She can't name what's wrong, but she can feel that part of him is being spent elsewhere. Some men find their body gives them away. "I knew there was a serious problem", wrote a man on a sobriety forum, "when I was losing my erection sometimes when I was with my wife". And he can't tell her, so now there's a locked room in the marriage.
 
-If she finds out on her own, it lands as betrayal, not a private habit. She wonders what else she doesn't know, and whether she was ever enough. None of that is her fault.
+If she finds out on her own, it can land as betrayal, not a private habit. She wonders what else she doesn't know, and whether she was ever enough. None of that is her fault.
 
 A single man shouldn't imagine a wedding ring will fix it. Ask any married man in the trap. He took the habit on his honeymoon.
 

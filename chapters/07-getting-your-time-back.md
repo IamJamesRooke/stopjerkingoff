@@ -6,9 +6,9 @@
 
 Ask a man why he wants to stop and he'll give you one of three answers: his conscience, his energy, or his wife.
 
-He almost never mentions the plain slavery of it. Men have bled to end slavery wherever they've found it. Yet here's a man who puts the collar on himself every night and calls it his private business. And on the nights when nothing stops him, he does it and wishes he were a man who didn't. The habit only looks precious when he's trying to cut down, or when something rules it out.
+He almost never mentions the plain slavery of it. Men have bled to end slavery wherever they've found it. Yet here's a man who puts the collar on himself every night and calls it his private business. And on the nights when nothing stops him, he does it and wishes he were a man who didn't. The habit only looks precious on the nights something stops him.
 
-Let's count what that slavery costs. Not to scare you into stopping. Fear never worked. A thing that gives nothing and costs this much takes no willpower to leave. These aren't your reasons to stop. Leave those on the shelf.
+Let's count what that slavery costs. Not to scare you into stopping. Scaring a man rarely works. A thing that gives nothing and costs this much takes no willpower to leave. These aren't your reasons to stop. Leave those on the shelf.
 
 The first cost needs no doctor, no pastor and no argument about whether it's a sin. All it needs is a clock.
 
@@ -46,7 +46,7 @@ Every other decision in your life gets weighed. You look at what you'd gain and 
 
 ![](images/illustrations/time-eyes-off-the-scales.png){.illustration width=80%}
 
-A young man who fought this for nineteen years said: "I can't tell you how many years I've wasted battling with the lust". Nobody can hand those years back. But he has decades still to come, and so do you.
+A man who fought this for nineteen years said: "I can't tell you how many years I've wasted battling with the lust". Nobody can hand those years back. But the years ahead are still his to spend, and so are yours.
 
 Men who've stopped report one surprise: how much room there suddenly is. One says, "I'm actually reading books again for the first time in a decade". Another took up the piano in the space the habit left. Put that room to work. Pick one goal you could reach in three or four months, and pour the hours into it.
 
