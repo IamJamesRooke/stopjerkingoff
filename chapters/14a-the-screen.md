@@ -8,6 +8,8 @@ Why is it the strong one? Not because the finish is better. It's over in the sam
 
 A magazine had a last page. The screen has none. There's always another woman one thumb away, and she's always new. So the man who came for ten minutes is still there when the neighbors' lights go out. He isn't enjoying two hours. He's hunting for the one clip that will do it, and closing forty that didn't.
 
+Don't take it for a different thing from the pictures in your own head. It's the same thing, made in a factory. One man rolls his own cigarettes, and another buys them by the carton. Same leaf. The carton was just built by professionals to keep him buying.
+
 ## What the strong dose pays {-}
 
 Ask of this room what you ask of every room. What has it ever given me?
@@ -55,3 +57,5 @@ Plenty of men shut this door and settled for that. Then they heard a knock from 
 <!-- 2026-11-23 FLOW PASS (book-wide): in 'The woman who says his name' the 'keep reading anyway' aside is woven into the opening so 'Such a man' has its noun; in 'The door' the two sentences on the one No moved up beside 'no vow', so 'the door is shut already' runs straight into 'A man who shuts this door'. -->
 
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
+
+<!-- 2026-11-27 (James: fantasizing in your head and watching porn are the same thing; porn is the extreme, engineered version; both bad, one worse. He withdrew his own juice-and-cola analogy because juice can sound partly good). Picture used: a cigarette you roll yourself beside a factory one. -->

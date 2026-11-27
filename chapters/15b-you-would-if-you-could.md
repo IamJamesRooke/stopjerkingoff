@@ -66,6 +66,8 @@ Whatever you believe about marriage, you promised her this part of yourself. A m
 
 No filter blocks a memory. That's why some men think the film in the head is the safe option. "I don't look at anything. It's all in my head."
 
+It's the same smoke. The film in your head is the cigarette you roll yourself. Porn is the factory kind, built to hook you faster. Neither one is the safe option.
+
 Everybody starts there, and the scenes don't stay tame. Soon the mind wants a real face: a coworker, a friend's wife, the girl who serves his coffee. Then it wants "just a photo, to get started".
 
 This man is proud that no one else's sin is on his screen. But he's the director, the casting agent and the whole audience of his own private movie theater, and the women in it never agreed to appear.
@@ -123,3 +125,5 @@ That's the women who aren't there. The next excuse is about the ones who are. "F
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
 
 <!-- 2026-11-23 PROOF LOOP (James: once his body calmed down he saw that thinking of other women that way IS cheating on his girlfriend). The chapter already answered 'a thought isn't cheating'; added the missing piece from his report: the lie only sounds true while a man is worked up, and a calm man doesn't need it explained. Reader-facing 'he', never 'I'. -->
+
+<!-- 2026-11-27 (James: fantasizing in your head and watching porn are the same thing; porn is the extreme, engineered version; both bad, one worse. He withdrew his own juice-and-cola analogy because juice can sound partly good). Picture used: a cigarette you roll yourself beside a factory one. -->
