@@ -1631,6 +1631,137 @@ def batch17(OUT):
     s+=man(510,190,"squeeze")+legs(510,342,14)+'<path d="M496,236 L470,290"/><path d="M526,236 L552,290"/>'
     s+=TAIL; open(OUT+"best-liar-foot-in-the-door.svg","w").write(s)
 
+# ---- Batch 18: The Times We Reach for It, In Bed with the Phone, The Lonely Room ----
+def bed(x,y,w=420,col="#7B4FD6"):
+    o=f'<rect x="{x}" y="{y}" width="{w}" height="46" rx="10" fill="{col}"/><rect x="{x-14}" y="{y-80}" width="24" height="150" rx="8" fill="#9C6B3C"/>'
+    o+=f'<line x1="{x+10}" y1="{y+46}" x2="{x+10}" y2="{y+70}"/><line x1="{x+w-10}" y1="{y+46}" x2="{x+w-10}" y2="{y+70}"/>'
+    return o
+def batch18(OUT):
+    W,H=680,440
+    # 1. The Little Monster only taps; fear turns the tap into thunder
+    s=head(W,H,"#FF8FB1")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=monster(150,404,"bang",0.55,stink=False)
+    for (x1,y1,x2,y2) in [(112,404,104,396),(188,404,196,396)]:
+        s+=f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="{RED}" stroke-width="3"/>'
+    s+=man(460,190,"squeeze")+legs(460,340,14)+'<path d="M446,236 L420,200 L430,170"/><path d="M476,236 L502,200 L492,170"/>'
+    s+='<path d="M330,110 C300,110 300,60 340,62 C350,24 410,24 420,52 C440,24 500,30 500,60 C540,56 560,110 520,112 Z" fill="#4A4F63"/>'
+    for (x,y) in [(360,112),(450,112)]:
+        s+=f'<path d="M{x},{y} L{x-14},{y+30} L{x+2},{y+30} L{x-10},{y+58}" stroke="{YEL}" stroke-width="7"/>'
+    s+='<path d="M200,380 q60,-120 200,-260" stroke-dasharray="4 14" stroke-width="4"/>'
+    s+=TAIL; open(OUT+"times-tap-into-thunder.svg","w").write(s)
+
+    # 2. Two loads: the day's trouble in his arms, the monster banging on his head
+    s=head(W,H,"#7FD3FF")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=man(300,200,"squeeze")+legs(300,350,22)
+    s+='<rect x="300" y="250" width="150" height="100" rx="6" fill="#C9965E"/>'
+    s+='<rect x="320" y="266" width="60" height="38" fill="#fff" stroke-width="4"/><path d="M320,266 L350,288 L380,266" stroke-width="4"/>'
+    s+=f'<rect x="392" y="262" width="40" height="52" fill="#fff" stroke-width="4" transform="rotate(8 412 288)"/><line x1="400" y1="276" x2="424" y2="280" stroke="{RED}" stroke-width="4"/><line x1="398" y1="290" x2="420" y2="294" stroke-width="3"/>'
+    s+='<path d="M286,240 L300,290 L310,300"/><path d="M316,240 L340,276"/>'
+    s+=monster(300,168,"bang",0.55,stink=False)
+    for (x1,y1,x2,y2) in [(266,166,254,158),(334,166,346,158)]:
+        s+=f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="{RED}" stroke-width="4"/>'
+    s+=f'<path d="M230,230 q-6,10 0,14 q6,-4 0,-14 Z" fill="#4FB3FF" stroke-width="2.5"/>'
+    s+=TAIL; open(OUT+"times-two-loads.svg","w").write(s)
+
+    # 3. The phone is in his hand before his head hits the pillow
+    s=head(W,H,"#1B2459")
+    s+=moon(590,70,18)+stars([(80,60),(160,110),(470,50),(640,150),(300,40)])
+    s+=bed(130,300)
+    s+='<ellipse cx="190" cy="290" rx="52" ry="18" fill="#fff"/>'
+    s+='<path d="M230,300 C260,250 470,250 540,300 Z" fill="#FF8FB1"/>'
+    s+='<circle cx="200" cy="262" r="30" fill="#fff"/>'+dot(206,252)+dot(218,256)+'<line x1="202" y1="276" x2="214" y2="276" stroke-width="3.5"/>'
+    s+=f'<ellipse cx="260" cy="200" rx="56" ry="34" fill="{GLOW}" stroke="none" opacity="0.8"/>'
+    s+=f'<path d="M262,280 L274,232 L262,214"/><rect x="246" y="186" width="30" height="46" rx="5" fill="{INK}" transform="rotate(-20 262 210)"/>'
+    s+=clock(560,250)
+    s+=TAIL; open(OUT+"bed-phone-before-the-pillow.svg","w").write(s)
+
+    # 4. Give a man a dead engine to rebuild and he isn't bored for days
+    s=head(W,H,"#FF7A59")
+    s+=f'<circle cx="590" cy="70" r="28" fill="{YEL}"/>'
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="320" y="260" width="200" height="130" rx="10" fill="#A7AFBD"/>'
+    for i in range(3): s+=f'<rect x="{340+i*60}" y="222" width="44" height="40" rx="6" fill="#C0C6D0"/>'
+    s+='<line x1="330" y1="390" x2="330" y2="408"/><line x1="510" y1="390" x2="510" y2="408"/>'
+    s+='<circle cx="420" cy="326" r="26" fill="#C0C6D0"/><circle cx="420" cy="326" r="8" fill="#fff"/>'
+    s+=man(200,174,"happy","#2FB3A8")+legs(200,324,16)
+    s+='<path d="M186,220 L170,290"/><path d="M216,220 L270,250 L318,236"/>'
+    s+=f'<path d="M312,224 l18,0 l6,8 l-6,8 l-18,0" fill="#fff" stroke-width="4"/>'
+    s+=f'<circle cx="560" cy="400" r="10" fill="#fff"/><rect x="572" y="388" width="34" height="14" rx="3" fill="#C0C6D0"/>'
+    for (x1,y1,x2,y2) in [(250,120,262,104),(150,126,138,110),(200,110,200,92)]:
+        s+=f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="{YEL}" stroke-width="5"/>'
+    s+=TAIL; open(OUT+"bed-engine-never-bored.svg","w").write(s)
+
+    # 5. "It relaxes me": ear to the locked door, one eye on the stairs
+    s=head(W,H,"#9BD13A")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="400" y="90" width="150" height="320" fill="#5A3E9B"/>'+dot(420,260,6).replace(INK,YEL)
+    s+=f'<rect x="410" y="210" width="26" height="22" rx="4" fill="{YEL}"/><path d="M414,210 q9,-22 18,0" stroke-width="4"/>'
+    s+=man(360,190,"squeeze")
+    s+='<path d="M354,340 L326,400 L310,406"/><path d="M374,340 L396,396 L412,394"/>'
+    s+='<path d="M346,236 L300,300 L290,280"/><path d="M376,236 L396,214"/>'
+    s+=f'<path d="M320,150 q-6,10 0,14 q6,-4 0,-14 Z" fill="#4FB3FF" stroke-width="2.5"/>'
+    s+='<path d="M60,410 L60,370 L110,370 L110,330 L160,330 L160,290 L210,290"/>'
+    s+=TAIL; open(OUT+"bed-not-relaxed.svg","w").write(s)
+
+    # 6. The perfect end to the day is a debt collector at the door
+    s=head(W,H,"#7B4FD6")
+    s+=moon(600,70,18)+stars([(80,60),(160,110),(470,50)])
+    s+='<line x1="30" y1="410" x2="650" y2="410" stroke="#fff"/>'
+    s+=house_front(70,170,250,240,"#FFF6E5","#FF5A5F")
+    s+='<rect x="200" y="260" width="80" height="150" fill="#5A3E9B"/><path d="M200,260 L176,274 L176,404 L200,410 Z" fill="#FFF6E5"/>'
+    s+='<circle cx="226" cy="300" r="16" fill="#fff"/>'+dot(222,296)+dot(232,296)+'<path d="M222,310 q4,-3 8,0" stroke-width="3"/>'
+    s+=monster(420,404,"dangle",0.9,stink=False)
+    s+=f'<path d="M396,350 L436,350 L432,336 L400,336 Z" fill="{INK}"/><rect x="390" y="348" width="52" height="6" rx="3" fill="{INK}"/>'
+    s+='<path d="M450,378 L480,330"/><path d="M470,300 L520,296 L536,404 L506,410 Z" fill="#fff"/>'
+    for i in range(6): s+=f'<line x1="{486+i*2}" y1="{318+i*14}" x2="{514+i*2}" y2="{316+i*14}" stroke-width="3"/>'
+    s+=f'<line x1="494" y1="396" x2="526" y2="394" stroke="{RED}" stroke-width="5"/>'
+    s+=TAIL; open(OUT+"bed-debt-collector.svg","w").write(s)
+
+    # 7. Sleeping the way he did as a boy
+    s=head(W,H,"#2B3A8F")
+    s+=moon(560,80,26)+stars([(80,60),(160,110),(470,50),(640,150),(300,40),(380,90)])
+    s+=bed(130,300,420,"#2FB3A8")
+    s+='<ellipse cx="190" cy="290" rx="52" ry="18" fill="#fff"/>'
+    s+='<path d="M230,300 C260,240 480,240 550,300 Z" fill="#FFD23F"/>'
+    s+='<circle cx="200" cy="262" r="30" fill="#fff"/><path d="M196,254 q5,5 10,0" stroke-width="3.5"/><path d="M212,258 q5,5 10,0" stroke-width="3.5"/><path d="M200,274 q7,6 14,0" stroke-width="3.5"/>'
+    s+='<rect x="580" y="300" width="60" height="110" rx="6" fill="#9C6B3C"/>'
+    s+=f'<rect x="590" y="288" width="40" height="12" rx="3" fill="{INK}"/>'
+    s+='<line x1="30" y1="410" x2="650" y2="410" stroke="#fff"/>'
+    s+=TAIL; open(OUT+"bed-sleeping-like-a-boy.svg","w").write(s)
+
+    # 8. Loneliness is a hunger for people, and the habit feeds it a photograph
+    s=head(W,H,"#C0C6D0")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="260" y="300" width="300" height="18" rx="6" fill="#9C6B3C"/><line x1="280" y1="318" x2="280" y2="408"/><line x1="540" y1="318" x2="540" y2="408"/>'
+    s+=man(200,206,"blank")+'<path d="M196,356 L196,408"/><path d="M214,356 L240,408"/>'
+    s+='<rect x="150" y="356" width="90" height="14" rx="5" fill="#9C6B3C"/>'
+    s+=plate(330,298,40,9)
+    s+='<path d="M214,250 L290,236"/><rect x="286" y="170" width="96" height="76" rx="4" fill="#9C6B3C"/><rect x="296" y="180" width="76" height="56" fill="#FFF6E5" stroke-width="3"/>'
+    for i,c in enumerate(("#FF7A59","#2FB3A8","#FFD23F")):
+        x=312+i*22; s+=f'<circle cx="{x}" cy="204" r="8" fill="#fff" stroke-width="3"/><path d="M{x-9},234 q9,-22 18,0" fill="{c}" stroke-width="3"/>'
+    for x in (440,510):
+        s+=f'<path d="M{x},298 L{x},210 M{x},258 L{x+40},258 L{x+40},298" stroke="#8A8F9C"/>'
+    s+=TAIL; open(OUT+"lonely-a-photograph.svg","w").write(s)
+
+    # 9. A secret is a wall, and you're building it yourself
+    s=head(W,H,"#FFD23F")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    for r in range(6):
+        n=4 if r<5 else 2
+        for c in range(n):
+            x=300+(c*30)-(15 if r%2 else 0); y=380-r*30
+            if x<285: continue
+            s+=f'<rect x="{max(x,285)}" y="{y}" width="30" height="30" fill="#FF5A5F" stroke-width="3.5"/>'
+    s+=man(180,174,"flat")+legs(180,324,16)
+    s+='<path d="M166,220 L150,290"/><path d="M196,220 L246,206 L270,196"/>'
+    s+=f'<rect x="262" y="178" width="34" height="26" fill="#FF5A5F" stroke-width="3.5"/>'
+    s+=man(500,190,"happy","#FF8FB1")+legs(500,340,14)+'<path d="M516,236 L556,186"/><path d="M484,236 L470,290"/>'
+    s+=f'<circle cx="590" cy="300" r="22" fill="#fff"/>'+dot(584,296)+dot(596,296)+'<path d="M584,308 q6,5 12,0" stroke-width="3"/>'
+    s+='<path d="M576,320 C566,340 566,370 578,382 L604,382 C612,370 612,340 602,320 Z" fill="#2FB3A8"/><path d="M584,382 L582,408"/><path d="M598,382 L602,408"/><path d="M602,330 L618,300"/>'
+    s+=TAIL; open(OUT+"lonely-the-wall.svg","w").write(s)
+
 if __name__=="__main__":
-    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17"]
+    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17","18"]
     for b in which: globals()["batch"+b](OUT)
