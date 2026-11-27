@@ -67,6 +67,8 @@ It works on the woman in the video too. She's somebody's daughter, and someone g
 
 ![](images/illustrations/why-scroll-on.png){.illustration width=80%}
 
-That's the house, and those are the people keeping it dirty. Now step out on the porch and look at what the whole neighborhood has become.
+One question is left. Who keeps putting it in front of you?
 
 <!-- 2026-11-26 NEW CHAPTER (James: 'When you see a girl sexualizing herself on Instagram, your reaction should be, why are you doing that, with that stupid duck face and generic Carpe Diem message. Just be nice. Just be normall. Just put some clothes on. Find a nice guy. Have a family. Stop doing weird stuff like that for attention.' And: 'make it funny by having the monster try to look sexy but be gross at the same time'). James's list is kept nearly word for word, in bullet points. Tone: pity, not contempt (book rule: say once that women can manipulate, then return to what the man can change). The Little Monster does not speak; he only poses in the picture. No outside sources. -->
+
+<!-- 2026-11-27: closing hook now leads into the new chapter The Devil's Data Scientists, which carries the old 'step out on the porch' hook into The World It Made. -->
