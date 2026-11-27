@@ -1899,6 +1899,87 @@ def batch20(OUT):
     s+='<path d="M318,240 L372,240 L360,270 L376,300 L356,330 L366,372 L326,372 L334,330 L314,300 L330,270 Z" fill="#2B3A8F" stroke="none"/><path d="M330,270 L314,300 L334,330 L326,372"/><path d="M360,270 L376,300 L356,330 L366,372"/>'
     s+=TAIL; open(OUT+"doing-a-hundred-miles-away.svg","w").write(s)
 
+# ---- Batch 21: What It Does to Your Body, Both Sides of the Rope ----
+def ghost(x,y,sc=1.0,col="#4A4F63"):
+    o=f'<g transform="translate({x},{y}) scale({sc})">'
+    o+=f'<path d="M-30,0 L-30,-60 C-30,-100 30,-100 30,-60 L30,0 L20,-10 L10,0 L0,-10 L-10,0 L-20,-10 Z" fill="{col}"/>'
+    o+='<circle cx="-10" cy="-62" r="7" fill="#fff" stroke-width="3"/><circle cx="10" cy="-62" r="7" fill="#fff" stroke-width="3"/>'+dot(-10,-60,3)+dot(10,-60,3)
+    o+='<ellipse cx="0" cy="-38" rx="6" ry="8" fill="#141414"/>'
+    return o+'</g>'
+def batch21(OUT):
+    W,H=680,440
+    # 1. Rolling out of bed like a sack of wet sand
+    s=head(W,H,"#FFD23F")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=bed(120,300,380,"#2FB3A8")
+    s+='<ellipse cx="180" cy="290" rx="46" ry="16" fill="#fff"/><path d="M220,300 C240,264 440,264 500,300 Z" fill="#FF8FB1"/>'
+    s+='<path d="M500,330 C520,300 590,300 610,340 C630,380 610,410 560,410 C510,410 480,390 500,330 Z" fill="#C9965E"/>'
+    s+='<path d="M540,318 q20,-10 40,0" stroke-width="3.5"/>'
+    s+='<circle cx="560" cy="358" r="22" fill="#fff"/><path d="M548,354 q5,4 10,0" stroke-width="3"/><path d="M562,354 q5,4 10,0" stroke-width="3"/><line x1="552" y1="368" x2="566" y2="368" stroke-width="3"/>'
+    s+=clock(580,250)
+    s+=f'<circle cx="620" cy="80" r="26" fill="#fff" stroke="none" opacity="0.6"/>'
+    s+=TAIL; open(OUT+"body-sack-of-wet-sand.svg","w").write(s)
+
+    # 2. Salting the food a little heavier every year
+    s=head(W,H,"#FF7A59")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="260" y="300" width="340" height="16" rx="5" fill="#9C6B3C"/><line x1="280" y1="316" x2="280" y2="408"/><line x1="580" y1="316" x2="580" y2="408"/>'
+    s+=man(200,206,"blank")+'<path d="M196,356 L196,408"/><path d="M214,356 L250,408"/><rect x="150" y="356" width="90" height="14" rx="5" fill="#9C6B3C"/>'
+    s+=plate(400,296,60,12)+'<path d="M370,292 C380,270 420,270 430,292 Z" fill="#9BD13A"/>'
+    s+='<path d="M380,286 L388,280 M400,282 L406,276 M416,288 L422,282 M392,292 L398,286 M410,276 L416,270" stroke="#fff" stroke-width="4"/>'
+    s+='<path d="M380,286 L388,280 M400,282 L406,276 M416,288 L422,282" stroke="#fff"/>'
+    s+='<path d="M216,250 L290,220 L340,200"/>'
+    s+='<g transform="rotate(150 360 190)"><rect x="344" y="160" width="32" height="50" rx="8" fill="#fff"/><path d="M344,170 C344,150 376,150 376,170" fill="#C0C6D0"/></g>'
+    for (x,y) in [(372,222),(384,240),(366,252),(392,262),(378,272),(400,232)]: s+=dot(x,y,3).replace("#141414","#fff")
+    s+=f'<path d="M150,180 q-4,-10 0,-16" stroke-width="3"/>'
+    s+=TAIL; open(OUT+"body-salting-the-food.svg","w").write(s)
+
+    # 3. A body that learned one thing can learn another: a sprout coming back through the cracked ground
+    s=head(W,H,"#7FD3FF")
+    s+=f'<circle cx="590" cy="70" r="28" fill="{YEL}"/>'
+    s+='<rect x="30" y="330" width="620" height="80" fill="#9C6B3C" stroke="none"/><line x1="30" y1="330" x2="650" y2="330"/>'
+    s+='<path d="M300,330 L310,360 L296,380 M360,330 L352,364 L368,390" stroke-width="4"/>'
+    s+='<path d="M330,330 C330,280 336,240 330,200"/>'
+    s+='<path d="M332,260 C300,250 280,230 278,210 C306,212 326,232 332,260 Z" fill="#9BD13A"/><path d="M330,230 C360,214 384,214 394,196 C366,190 340,206 330,230 Z" fill="#9BD13A"/>'
+    s+='<path d="M330,200 C316,180 318,160 330,150 C342,160 344,180 330,200 Z" fill="#9BD13A"/>'
+    s+=man(150,154,"happy")+legs(150,304,12).replace('86','26')
+    s+='<path d="M136,200 L120,260"/><path d="M166,200 L210,240 L230,280"/><path d="M226,276 L250,300 L236,312 L218,290 Z" fill="#2F6BFF"/>'
+    for (x,y) in [(244,316),(254,326),(236,328)]: s+=f'<circle cx="{x}" cy="{y}" r="4" fill="#4FB3FF" stroke="none"/>'
+    s+=TAIL; open(OUT+"body-it-mends.svg","w").write(s)
+
+    # 4. Both sides of the rope: fear on both teams
+    s=head(W,H,"#FF8FB1")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    for x in (90,170): s+=ghost(x,404,1.0)
+    for x in (510,590): s+=ghost(x,404,1.0,"#5A3E9B")
+    s+=man(340,174,"squeeze")+legs(340,324,22)
+    s+='<path d="M326,220 L280,270"/><path d="M356,220 L404,270"/>'
+    for (a,b) in [("90,350","280,270"),("404,270","590,350")]:
+        s+=f'<path d="M{a} L{b}" stroke="#C9965E" stroke-width="12"/><path d="M{a} L{b}" stroke-width="2"/>'
+
+    s+=TAIL; open(OUT+"rope-fear-on-both-teams.svg","w").write(s)
+
+    # 5. The shadow that goes wherever he goes
+    s=head(W,H,"#9BD13A")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<g opacity="0.75" fill="#3A3F50" stroke="none"><circle cx="230" cy="150" r="42"/><path d="M196,190 C176,230 176,300 192,340 L262,340 C276,300 274,230 256,190 Z"/><path d="M200,330 L176,410 L196,410 L222,340 Z M246,330 L270,410 L290,410 L262,330 Z"/></g>'
+    s+=man(300,174,"happy","#2FB3A8")+'<path d="M296,324 L270,408"/><path d="M314,324 L350,404"/>'
+    s+='<path d="M286,220 L260,280"/><path d="M316,220 L360,240 L380,220"/>'
+    s+=man(480,174,"happy","#FF7A59")+legs(480,324,14)+'<path d="M466,220 L430,240"/><path d="M496,220 L520,280"/>'
+    s+=TAIL; open(OUT+"rope-the-shadow.svg","w").write(s)
+
+    # 6. One ordinary afternoon the shadow's gone
+    s=head(W,H,"#7FD3FF")
+    s+=f'<circle cx="560" cy="80" r="34" fill="{YEL}"/>'
+    for i in range(8):
+        import math
+        a=i*math.pi/4; s+=f'<line x1="{560+44*math.cos(a):.0f}" y1="{80+44*math.sin(a):.0f}" x2="{560+60*math.cos(a):.0f}" y2="{80+60*math.sin(a):.0f}" stroke="{YEL}" stroke-width="5"/>'
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=man(300,174,"happy")+legs(300,324,18)
+    s+='<path d="M286,220 L250,170"/><path d="M316,220 L350,170"/>'
+    s+='<ellipse cx="310" cy="412" rx="50" ry="6" fill="#141414" stroke="none" opacity="0.25"/>'
+    s+=TAIL; open(OUT+"rope-shadow-gone.svg","w").write(s)
+
 if __name__=="__main__":
-    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20"]
+    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21"]
     for b in which: globals()["batch"+b](OUT)
