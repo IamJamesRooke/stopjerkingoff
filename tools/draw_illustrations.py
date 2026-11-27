@@ -1980,6 +1980,87 @@ def batch21(OUT):
     s+='<ellipse cx="310" cy="412" rx="50" ry="6" fill="#141414" stroke="none" opacity="0.25"/>'
     s+=TAIL; open(OUT+"rope-shadow-gone.svg","w").write(s)
 
+# ---- Batch 22: Can You Be Trusted?, A City Without Walls ----
+def lamb(x,y,sc=1.0):
+    o=f'<g transform="translate({x},{y}) scale({sc})">'
+    o+='<path d="M-40,-20 C-50,-50 -20,-64 0,-56 C20,-66 50,-50 40,-20 C50,0 20,10 0,4 C-20,10 -50,0 -40,-20 Z" fill="#fff"/>'
+    o+='<line x1="-24" y1="2" x2="-26" y2="26"/><line x1="20" y1="2" x2="22" y2="26"/>'
+    o+='<ellipse cx="46" cy="-42" rx="16" ry="13" fill="#3A3F50"/>'+dot(50,-45,3).replace("#141414","#fff")
+    return o+'</g>'
+def batch22(OUT):
+    W,H=680,440
+    # 1. A man whose yes is worth something: they rest their weight on it
+    s=head(W,H,"#9BD13A")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=man(340,174,"happy")+legs(340,324,16)
+    s+='<circle cx="340" cy="96" r="22" fill="#fff"/><path d="M332,92 q4,-4 8,0" stroke-width="3"/><path d="M344,92 q4,-4 8,0" stroke-width="3"/><path d="M332,104 q8,6 16,0" stroke-width="3"/>'
+    s+='<path d="M328,116 C324,128 326,140 330,146 L350,146 C354,140 356,128 352,116 Z" fill="#7B4FD6"/>'
+    s+='<path d="M332,142 L300,150 L296,170"/><path d="M348,142 L380,150 L384,170"/>'
+    s+='<path d="M326,212 L298,168"/><path d="M356,212 L384,168"/>'
+    s+=man(470,184,"happy","#FF8FB1")+legs(470,334,10).replace('86','76')
+    s+='<path d="M456,230 L380,250"/>'
+    s+=man(210,234,"happy","#FFD23F").replace('r="34"','r="24"')
+    s+='<path d="M206,384 L200,408"/><path d="M220,384 L226,408"/><path d="M226,270 L324,250"/>'
+    s+=TAIL; open(OUT+"trusted-they-lean-on-him.svg","w").write(s)
+
+    # 2. A city without walls: whatever shows up walks in
+    s=head(W,H,"#7FD3FF")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="380" y="250" width="70" height="160" fill="#FFF6E5"/><path d="M370,250 L415,200 L460,250 Z" fill="#FF5A5F"/>'
+    s+='<rect x="460" y="290" width="90" height="120" fill="#FFF6E5"/><path d="M450,290 L505,240 L560,290 Z" fill="#FF7A59"/>'
+    s+='<rect x="560" y="210" width="60" height="200" fill="#FFF6E5"/><path d="M556,210 C556,160 624,160 624,210 Z" fill="#FFD23F"/>'
+    s+='<rect x="400" y="360" width="26" height="50" fill="#5A3E9B"/><rect x="490" y="350" width="30" height="60" fill="#5A3E9B"/>'
+    for (x,h) in [(300,70),(330,30),(352,50)]:
+        s+=f'<path d="M{x},{410} L{x},{410-h} L{x+8},{404-h} L{x+16},{410-h} L{x+24},{406-h} L{x+24},410 Z" fill="#C0C6D0"/>'
+    s+='<path d="M320,410 l10,-10 l6,6 M350,410 l8,-8" stroke-width="3"/>'
+    s+=ghost(110,404,0.8)+ghost(190,404,0.7,"#5A3E9B")+ghost(260,404,0.75,"#FF5A5F")
+    s+=TAIL; open(OUT+"city-without-walls.svg","w").write(s)
+
+    # 3. Uriah wouldn't go home: he slept at the palace door
+    s=head(W,H,"#2B3A8F")
+    s+=moon(590,70,18)+stars([(80,60),(160,110),(470,50),(300,40)])
+    s+='<line x1="30" y1="410" x2="650" y2="410" stroke="#fff"/>'
+    s+='<rect x="300" y="120" width="340" height="290" fill="#FFF6E5"/>'
+    s+='<path d="M380,410 L380,250 C380,200 470,200 470,250 L470,410 Z" fill="#9C6B3C"/>'
+    for x in (320,600): s+=f'<rect x="{x}" y="120" width="24" height="290" fill="#E8DCC4"/>'
+    s+='<path d="M150,400 L360,400 C370,386 360,374 340,376 L170,378 C150,380 140,392 150,400 Z" fill="#C9965E"/>'
+    s+='<circle cx="350" cy="370" r="26" fill="#fff"/><path d="M340,366 q5,4 10,0" stroke-width="3"/><path d="M354,364 q5,4 10,0" stroke-width="3"/>'
+    s+='<line x1="120" y1="400" x2="220" y2="300" stroke-width="5"/><path d="M220,300 L236,272 L230,306 Z" fill="#C0C6D0"/>'
+    s+='<circle cx="260" cy="360" r="20" fill="#C0C6D0"/><circle cx="260" cy="360" r="8" fill="#FFD23F"/>'
+    s+=TAIL; open(OUT+"city-uriah-at-the-door.svg","w").write(s)
+
+    # 4. Nathan's story: the poor man's one pet lamb
+    s=head(W,H,"#FFD23F")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=man(260,174,"happy","#C9965E")+legs(260,324,14)
+    s+='<path d="M246,220 L300,290 L330,300"/><path d="M276,220 L310,260 L360,270"/>'
+    s+=lamb(380,320,1.1)
+    s+=heart(320,120,0.6)
+    s+=TAIL; open(OUT+"city-the-pet-lamb.svg","w").write(s)
+
+    # 5. His word, in his own ears, is a bounced check
+    s=head(W,H,"#FF8FB1")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=man(160,174,"blank")+legs(160,324,16)+'<path d="M146,220 L130,290"/><path d="M176,220 L220,200 L240,170"/>'
+    s+='<g transform="rotate(-14 420 140)"><rect x="350" y="110" width="150" height="66" rx="6" fill="#BFE3FF"/><line x1="366" y1="130" x2="440" y2="130" stroke-width="3"/><line x1="366" y1="150" x2="420" y2="150" stroke-width="3"/><path d="M450,156 q10,-14 20,0 q10,14 20,-4" stroke-width="3"/></g>'
+    s+='<path d="M250,170 C290,330 320,400 330,410 C340,350 350,250 360,190" stroke-dasharray="6 12" stroke-width="4"/>'
+    for (x1,y1,x2,y2) in [(320,404,304,396),(340,404,356,396)]: s+=f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="{RED}" stroke-width="4"/>'
+    s+=TAIL; open(OUT+"city-bounced-check.svg","w").write(s)
+
+    # 6. Walls can be rebuilt
+    s=head(W,H,"#2FB3A8")
+    s+=f'<circle cx="590" cy="70" r="28" fill="{YEL}"/>'
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    for r in range(5):
+        for c in range(6 if r<4 else 3):
+            x=300+c*56+(28 if r%2 else 0); y=370-r*40
+            if x+56>650: continue
+            s+=f'<rect x="{x}" y="{y}" width="56" height="40" fill="#E8DCC4" stroke-width="4"/>'
+    s+=man(200,174,"happy")+legs(200,324,16)
+    s+='<path d="M186,220 L240,190 L280,170"/><path d="M216,220 L260,200 L290,186"/>'
+    s+='<rect x="270" y="150" width="56" height="40" fill="#E8DCC4" stroke-width="4"/>'
+    s+=TAIL; open(OUT+"city-walls-rebuilt.svg","w").write(s)
+
 if __name__=="__main__":
-    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21"]
+    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22"]
     for b in which: globals()["batch"+b](OUT)

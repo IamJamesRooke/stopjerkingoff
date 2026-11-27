@@ -18,6 +18,8 @@ And look who did this to us. Not a dragon. A grown man, trusted with a job and a
 
 The reverse is true too. A man who can say no has a yes that's worth something. His wife can rest her weight on it. So can his children, and the men beside him. So can he.
 
+![](images/illustrations/trusted-they-lean-on-him.png){.illustration width=80%}
+
 Don't hear a clenched jaw in that. A no costs nothing when there's nothing you want on the other side.
 
 You were made for something, and this book is about getting you fit for it.
