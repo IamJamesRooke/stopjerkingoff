@@ -2681,6 +2681,63 @@ def batch32(OUT):
     s+=monster(480,404,"bang",0.9,stink=False)
     s+=TAIL; open(OUT+"voice-wiggle-your-fingers.svg","w").write(s)
 
+# ---- Batch 33: Body, Harder for Me, Substitutes, Avoid Temptation ----
+def batch33(OUT):
+    W,H=680,440
+    import math
+    # 1. A man with the flu doesn't run a marathon to prove his legs work
+    s=head(W,H,"#BFE3FF")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=bed(120,300,400,"#2FB3A8")
+    s+='<ellipse cx="180" cy="290" rx="48" ry="16" fill="#fff"/><path d="M220,300 C240,256 460,256 520,300 Z" fill="#FFD23F"/>'
+    s+='<circle cx="190" cy="262" r="28" fill="#fff"/><path d="M180,256 q4,4 8,0 M194,256 q4,4 8,0" stroke-width="3"/><path d="M186,272 q6,-3 12,0" stroke-width="3"/>'
+    s+=f'<line x1="206" y1="274" x2="232" y2="290" stroke-width="4"/><circle cx="234" cy="291" r="4" fill="{RED}"/>'
+    s+='<rect x="168" y="226" width="44" height="12" rx="5" fill="#BFE3FF"/>'
+    s+=f'<path d="M560,404 L560,390 C560,380 580,380 590,388 L610,396 L610,404 Z" fill="{RED}"/><path d="M600,404 L600,390 C600,380 620,380 630,388 L648,396 L648,404 Z" fill="{RED}"/>'
+    s+=TAIL; open(OUT+"body-flu-no-marathon.svg","w").write(s)
+
+    # 2. The good day and the bad day, side by side
+    s=head(W,H,"#7FD3FF")
+    s+='<rect x="340" y="0" width="340" height="440" rx="28" fill="#A7AFBD" stroke="none"/><rect x="340" y="0" width="60" height="440" fill="#A7AFBD" stroke="none"/>'
+    s+=f'<circle cx="160" cy="90" r="34" fill="{YEL}"/>'
+    for i in range(8):
+        a=i*math.pi/4; s+=f'<line x1="{160+44*math.cos(a):.0f}" y1="{90+44*math.sin(a):.0f}" x2="{160+58*math.cos(a):.0f}" y2="{90+58*math.sin(a):.0f}" stroke="{YEL}" stroke-width="5"/>'
+    s+='<path d="M430,110 C410,80 460,60 490,80 C520,60 570,80 560,110 Z" fill="#6B7080"/>'
+    for x in range(440,560,24): s+=f'<line x1="{x}" y1="124" x2="{x-8}" y2="150" stroke="#4FB3FF" stroke-width="4"/>'
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=man(340,174,"flat")+legs(340,324,18)+'<path d="M326,220 L300,280"/><path d="M356,220 L380,280"/>'
+    s+=TAIL; open(OUT+"harder-good-day-bad-day.svg","w").write(s)
+
+    # 3. He had his Saturdays back: the antique teapot
+    s=head(W,H,"#FFD23F")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="380" y="300" width="250" height="16" rx="5" fill="#9C6B3C"/><line x1="400" y1="316" x2="400" y2="408"/><line x1="610" y1="316" x2="610" y2="408"/>'
+    s+='<path d="M420,300 C420,270 470,270 470,300 Z" fill="#7FD3FF"/><path d="M500,300 L500,260 L530,260 L530,300 Z" fill="#C0C6D0"/><circle cx="580" cy="286" r="14" fill="#FF8FB1"/>'
+    s+=man(240,174,"happy")+legs(240,324,16)+'<path d="M226,220 L210,290"/><path d="M256,220 L300,230 L320,210"/>'
+    s+='<path d="M300,210 C296,180 360,180 356,210 C356,226 300,226 300,210 Z" fill="#2FB3A8"/><path d="M356,200 L376,188" stroke-width="5"/><path d="M300,200 q-14,0 -12,12" stroke-width="4"/><circle cx="328" cy="184" r="5" fill="#2FB3A8"/>'
+    s+=TAIL; open(OUT+"substitutes-teapot.svg","w").write(s)
+
+    # 4. Charge the phone in the kitchen
+    s=head(W,H,"#2B3A8F")
+    s+=moon(600,60,16)
+    s+='<line x1="30" y1="410" x2="650" y2="410" stroke="#fff"/>'
+    s+='<rect x="40" y="300" width="250" height="110" fill="#FFF6E5"/><rect x="30" y="286" width="270" height="16" fill="#C9965E"/>'
+    s+=f'<rect x="150" y="250" width="22" height="36" rx="4" fill="{INK}"/><path d="M161,286 C161,300 200,296 210,330" stroke-width="3"/><rect x="204" y="326" width="14" height="10" fill="#fff" stroke-width="3"/>'
+    s+='<path d="M380,410 L380,380 L420,380 L420,350 L460,350 L460,320 L500,320 L500,290 L540,290 L540,260 L650,260"/>'
+    s+=man(470,170,"happy")+'<path d="M466,320 L460,350 M484,320 L500,290"/><path d="M456,216 L440,270"/><path d="M486,216 L500,260"/>'
+    s+=TAIL; open(OUT+"temptation-phone-in-the-kitchen.svg","w").write(s)
+
+    # 5. Joseph ran, and left his coat behind
+    s=head(W,H,"#C9965E")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="40" y="80" width="40" height="330" fill="#FFF6E5"/><rect x="200" y="80" width="40" height="330" fill="#FFF6E5"/><path d="M30,80 L250,80 L240,56 L40,56 Z" fill="#E8DCC4"/>'
+    s+='<path d="M120,404 C140,370 200,370 230,404 Z" fill="#7B4FD6"/><path d="M140,390 l20,-10 M180,388 l16,6" stroke="#FFD23F" stroke-width="4"/>'
+    s+='<g transform="rotate(14 470 260)">'+man(470,170,"squeeze","#FFF6E5")+'</g>'
+    s+='<path d="M440,320 L390,370 L370,360"/><path d="M466,322 L530,370 L540,404"/>'
+    s+='<path d="M456,220 L410,250"/><path d="M490,226 L540,200"/>'
+    for y in (200,250,300): s+=f'<line x1="{360}" y1="{y}" x2="{320}" y2="{y}" stroke-width="4"/>'
+    s+=TAIL; open(OUT+"temptation-joseph-ran.svg","w").write(s)
+
 if __name__=="__main__":
-    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30","31","32"]
+    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30","31","32","33"]
     for b in which: globals()["batch"+b](OUT)

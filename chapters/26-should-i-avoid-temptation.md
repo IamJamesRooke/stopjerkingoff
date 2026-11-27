@@ -53,9 +53,13 @@ Common sense says to avoid unnecessary stimulation. The word to notice is *unnec
 
 None of this is a gimmick or a vow, and none of it has to wait for the last page. It's only the stupid thing avoided. Charge the phone in the kitchen. You're not in danger. Bed is just a stupid place for a phone, whatever you look at. Unfollow the accounts you followed for one reason. Cancel the subscriptions. Delete the folder. Delete the numbers you kept for one reason.
 
+![](images/illustrations/temptation-phone-in-the-kitchen.png){.illustration width=80%}
+
 One man who was bound by the habit for years goes further, if your circumstances need it: "If it means you got to get a roommate, get a roommate." If you're married and your wife asks for an open phone or a filter, give it gladly. That's honesty, not a fortress. Beyond that, you don't need to rearrange your life.
 
 Joseph, in the book of Genesis, shows you both halves. He was a young Hebrew slave in Egypt, running the house of an officer named Potiphar. Potiphar's wife kept asking him to sleep with her. One day she caught him by his coat, and he "ran outside". He didn't stay to test his character. But he hadn't been hiding from the house either. He'd gone in that day to do his work.
+
+![](images/illustrations/temptation-joseph-ran.png){.illustration width=80%}
 
 **Flee what's stupid. Live the rest normally.**
 

@@ -46,6 +46,8 @@ One thing trips men in every one of these situations, and it's a bad day.
 
 Get this straight before you start: you'll have good days and bad days whether you go back to the habit or not. Ecclesiastes says God made the good day and the bad day side by side. They come to the free man and the man in the trap alike.
 
+![](images/illustrations/harder-good-day-bad-day.png){.illustration width=80%}
+
 The willpower man spends his bad day pacing the kitchen, pining for his comfort, so now he's got two problems. The free man has one. He meets it with a clear head, and he isn't dragging a guilty secret through it.
 
 If a bad day lands on you in the first weeks, shrug and take the punch. You had bad days before, plenty of them, or you wouldn't be reading this book. Then say it plainly: "All right, today is rotten. Jerking off won't fix it. Nor will a video, or a message to a woman I shouldn't be writing to. Tomorrow will be better, and in the meantime I've got one enormous thing going for me. I'm free."

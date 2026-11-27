@@ -26,6 +26,8 @@ That's not a substitute. A substitute is a thing you grab to plug a hole. Paul i
 
 One man wrote that he quit at twenty-nine and replaced the habit with antique shopping. Good for him. But I don't believe old teapots held it off for thirty years. He stopped, and then he had his Saturdays back and spent them on something he liked.
 
+![](images/illustrations/substitutes-teapot.png){.illustration width=80%}
+
 That leaves a practical question. If nothing goes in the gap, should you at least stay out of temptation's way?
 
 <!-- SOURCES (Chapter 25): every quote below is from the research files; check each against its page before publishing.
