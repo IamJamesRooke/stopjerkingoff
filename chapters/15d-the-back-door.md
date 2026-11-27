@@ -26,7 +26,6 @@ Not hard to see how. The hand never works alone. Something's always playing whil
 
 Men have a name for the pictures stored in the head for this. The spank bank. A man who draws on it is still watching porn. He's just moved the screen inside his skull. It's the same thing in a weaker dose. Think of a cigarette a man rolls himself, beside one from a factory. The factory one was built by people paid to hook him faster. Both are tobacco, and his lungs can't tell which is which.
 
-![](images/illustrations/back-door-juice-and-cola.png){.illustration width=80%}
 
 And a memory wears thin. So the hand goes shopping for a stronger film, and it knows exactly where that film is kept. The man bolted the front door and left the back door wide open. Now he's shocked to find the same old visitor in his kitchen.
 
@@ -83,3 +82,5 @@ The uninvited guest picks up his blanket and moves down the hall. "I'm looking, 
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
 
 <!-- 2026-11-27 (James: fantasizing in your head and watching porn are the same thing; porn is the extreme, engineered version; both bad, one worse. He withdrew his own juice-and-cola analogy because juice can sound partly good). Picture used: a cigarette you roll yourself beside a factory one. -->
+
+<!-- 2026-11-27: the drawing back-door-juice-and-cola.png was taken out of the page because the juice-and-cola line it illustrated is gone (the image file is still in images/illustrations/). Wanted in its place, after the 'spank bank' paragraph: a hand-rolled cigarette beside a factory one. -->
