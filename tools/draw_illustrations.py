@@ -2634,6 +2634,53 @@ def batch31(OUT):
         s+=f'<path d="M{x-16},{y+22} C{x-22},{y+34} {x-20},{y+50} {x-16},{y+56} L{x+16},{y+56} C{x+20},{y+50} {x+22},{y+34} {x+16},{y+22} Z" fill="#2F6BFF"/>'
     s+=TAIL; open(OUT+"compartment-one-man.svg","w").write(s)
 
+# ---- Batch 32: Wrong Reasons, The Easy Way, First Weeks, Whose Voice ----
+def batch32(OUT):
+    W,H=680,440
+    # 1. Day twelve: a cape on, and the same face in the mirror
+    s=head(W,H,"#7FD3FF")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="400" y="90" width="180" height="240" rx="12" fill="#9C6B3C"/><rect x="414" y="104" width="152" height="212" rx="6" fill="#E8F4FF"/>'
+    s+='<circle cx="490" cy="190" r="30" fill="#fff"/>'+dot(482,184)+dot(496,184)+'<line x1="484" y1="204" x2="498" y2="204" stroke-width="3"/>'
+    s+='<path d="M464,226 C456,250 456,300 466,316 L514,316 C522,300 522,250 514,226 Z" fill="#2F6BFF"/>'
+    s+='<path d="M200,210 L150,390 L280,390 L240,210 Z" fill="#FF3B30"/>'
+    s+=man(220,174,"blank")+legs(220,324,16)+'<path d="M236,220 L300,230 L330,210"/><path d="M206,220 L190,290"/>'
+    s+=TAIL; open(OUT+"wrong-reasons-cape-in-mirror.svg","w").write(s)
+
+    # 2. Go outside, eat a real dinner, laugh at something
+    s=head(W,H,"#FFD23F")
+    s+=f'<circle cx="590" cy="70" r="28" fill="#fff" stroke="none" opacity="0.8"/>'
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="150" y="290" width="380" height="16" rx="5" fill="#9C6B3C"/><line x1="170" y1="306" x2="170" y2="408"/><line x1="510" y1="306" x2="510" y2="408"/>'
+    for x in (250,340,430): s+=plate(x,286,34,8)
+    s+='<path d="M320,282 C326,266 354,266 360,282 Z" fill="#C9965E"/><path d="M228,282 C236,270 262,270 270,282 Z" fill="#9BD13A"/>'
+    for i,(x,c,f) in enumerate([(220,"#2F6BFF","happy"),(340,"#FF7A59","happy"),(460,"#2FB3A8","happy")]):
+        s+=f'<circle cx="{x}" cy="200" r="28" fill="#fff"/><path d="M{x-12},194 q5,-6 10,0 M{x+4},194 q5,-6 10,0" stroke-width="3"/><path d="M{x-10},208 q10,14 20,0 Z" fill="#5a1414" stroke-width="3"/>'
+        s+=f'<path d="M{x-18},228 C{x-26},250 {x-24},276 {x-18},284 L{x+18},284 C{x+24},276 {x+26},250 {x+18},228 Z" fill="{c}"/>'
+    for (x1,y1,x2,y2) in [(180,160,166,146),(260,160,274,146),(500,160,514,146)]: s+=f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="#FF3B30" stroke-width="4"/>'
+    s+=TAIL; open(OUT+"easy-way-real-dinner.svg","w").write(s)
+
+    # 3. The turn signal and the wipers
+    s=head(W,H,"#7FD3FF")
+    s+=f'<circle cx="590" cy="70" r="28" fill="{YEL}"/>'
+    s+='<path d="M40,410 L40,180 C120,130 560,130 640,180 L640,410 Z" fill="#4A4F63"/>'
+    s+='<path d="M80,330 L110,170 C200,150 480,150 570,170 L600,330 Z" fill="#BFE3FF"/>'
+    s+='<path d="M200,330 L300,200" stroke-width="7"/><path d="M420,330 L520,200" stroke-width="7"/>'
+    s+='<path d="M290,214 q10,-6 20,0 M510,214 q10,-6 20,0" stroke-width="3"/>'
+    s+='<circle cx="340" cy="390" r="60" fill="none" stroke="#141414" stroke-width="12"/>'
+    s+='<circle cx="160" cy="300" r="26" fill="#fff"/><path d="M152,296 l6,0 M166,296 l6,0" stroke-width="3"/><path d="M152,312 q8,-6 16,0" stroke-width="3"/>'
+    s+='<path d="M196,260 l10,-14 M206,270 l14,-6" stroke-width="3"/>'
+    s+=TAIL; open(OUT+"first-weeks-wipers.svg","w").write(s)
+
+    # 4. Ask the urge to wiggle its fingers
+    s=head(W,H,"#9BD13A")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=man(220,174,"happy")+legs(220,324,16)+'<path d="M206,220 L190,290"/><path d="M236,220 L280,170 L290,130"/>'
+    s+='<path d="M290,130 l-10,-22 M290,130 l-2,-26 M290,130 l8,-24 M290,130 l14,-18" stroke-width="4"/>'
+    for (x1,y1,x2,y2) in [(270,100,262,92),(312,100,320,92)]: s+=f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="{YEL}" stroke-width="4"/>'
+    s+=monster(480,404,"bang",0.9,stink=False)
+    s+=TAIL; open(OUT+"voice-wiggle-your-fingers.svg","w").write(s)
+
 if __name__=="__main__":
-    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30","31"]
+    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30","31","32"]
     for b in which: globals()["batch"+b](OUT)

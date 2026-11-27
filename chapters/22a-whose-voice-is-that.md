@@ -12,6 +12,8 @@ Now treat that voice as a telemarketer's recording. Don't argue with it, and don
 
 Here's a second test. Hold up your hand and wiggle your fingers. Now ask the urge to do it. He can't. He has no hands, and he's never once done the deed himself. All he can do is pound on the floor until you lend him yours.
 
+![](images/illustrations/voice-wiggle-your-fingers.png){.illustration width=80%}
+
 Hearing the voice doesn't mean you believe the lies again. A man hears "I want it" in his own head and his stomach drops: "The book hasn't worked." Ask one question: *do I actually believe what that voice just said?* If the honest answer is no, your understanding is fine. You've only heard a car alarm. In Romans 7, Paul told the two voices apart in a single line: "So now it is no more I that do it, but sin which dwells in me." That doesn't make it someone else's fault. It means you don't have to obey it.
 
 ## Lines for a hard moment {-}

@@ -38,7 +38,7 @@ Mark Driscoll, the American pastor, put it in one line in a 2006 sermon: "you ca
 
 If testing worked, the people who tested most would have the marriages that last. Researchers have counted. It's the opposite.
 
-In 2023 two American sociologists published a study of about seven thousand married people, followed from their teens. Those who'd had sexual partners before marriage were more likely to divorce than those who'd had none. With nine partners or more, the odds were about three times as high. Those are odds across thousands of people, not a sentence on you. The finding held for the men as much as for the women. The authors were plain about the limits: "Premarital sex predicts divorce, but we do not know why."
+In 2023 two American sociologists published a study of about seven thousand married people, followed from their teens. Those who'd had sexual partners before marriage were more likely to divorce than those who'd had none. Among those who married later, nine partners or more meant about three times the odds. Those are odds across thousands of people, not a sentence on you. The finding held for the men as much as for the women. The authors were plain about the limits: "Premarital sex predicts divorce, but we do not know why."
 
 Living together is the long test drive. A 2023 report surveyed about 1,600 Americans who first married between 2010 and 2019. Of those who moved in before they were engaged, 34 percent had seen the marriage end. Of those who waited for the engagement or the wedding, 23 percent had. The ones who said they moved in to test the relationship did worse than the ones who gave other reasons.
 

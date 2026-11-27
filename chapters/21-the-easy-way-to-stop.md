@@ -35,9 +35,11 @@ Know it.
 
 ## Free from the first day {-}
 
-The moment you decide, you're already a man who doesn't do it. Not after ninety days. Not when the Little Monster dies. In that moment. A Christian will say that's because of what Christ has already done. A recovery writer put the new identity in a single line: "Begin to say, I am a man (or woman) who does not use pornography, masturbate, or lust."
+The moment you decide, you're already a man who doesn't do it. Not after ninety days. Not when the Little Monster has starved quiet. In that moment. A Christian will say that's because of what Christ has already done. A recovery writer put the new identity in a single line: "Begin to say, I am a man (or woman) who does not use pornography, masturbate, or lust."
 
 Don't wait for the itch to fade before you let yourself be happy. Go outside. Eat a real dinner. Laugh at something.
+
+![](images/illustrations/easy-way-real-dinner.png){.illustration width=80%}
 
 The Christian has something more, if he'll take it. The apostle John wrote, "If we confess our sins, he is faithful and righteous to forgive us the sins". Confess, and he is *faithful* to forgive. It doesn't say he might, or that he will once you've racked up a decent streak. And in Romans 8:1: "There is therefore now no condemnation to those who are in Christ Jesus." The word is *now*, on day one, with the Little Monster still grumbling.
 

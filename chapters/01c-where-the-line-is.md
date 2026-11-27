@@ -18,7 +18,7 @@ Run the five through it once more. The screen is a hit. So is the hand, and so i
 
 That leaves the bed, and the test is hardest there. She's in it too, and she may want it as much as he does. So look at what sex is. It ties two people together. It can make a child. It's the most one body can say to another: all of me, to you. With no promise under it, his body says that and he doesn't mean it. No wonder it so often leaves a flat feeling, even when both were willing.
 
-The Bible drew the line in the same place three thousand years ago. Sex belongs inside marriage. The book of Proverbs says it the way a father would say it to his son: "Drink water out of your own cistern, running water out of your own well." Inside a marriage, sex is a gift. A husband and wife who give themselves to each other are on the right side of the line. The screen, the hand, the private film of another woman, the chase and any bed outside marriage are on the other side.
+The Bible drew the line in the same place three thousand years ago. Sex belongs inside marriage. The book of Proverbs says it the way a father would say it to his son: "Drink water out of your own cistern, and running water out of your own well." Inside a marriage, sex is a gift. A husband and wife who give themselves to each other are on the right side of the line. The screen, the hand, the private film of another woman, the chase and any bed outside marriage are on the other side.
 
 Count the doses once more. Porn plus the hand plus the orgasm was the strong one. The hand and the orgasm were the same drug with the screen taken away, and the hold was no weaker. Take both away, and the wanting of the orgasm was still there, banging for a feed, a daydream or a bed. One drug all along.
 
@@ -79,7 +79,7 @@ The old line isn't the strict one among many good ones. It's the only one that h
 
 If you've spent years on the wrong side of the line, so has nearly every man who ever lived. This chapter isn't a verdict on you. It's a map, and you can't leave a place until you know where its edge is.
 
-Don't try to drag yourself across the line tonight by force. That's sweeping the house again. Nobody's telling you to sin. If you've already stopped, stay stopped. A man crosses it when nothing on the wrong side is worth having. The one exception is another person. If someone else is in it, you're making a choice about her, and you can stop today.
+Don't try to drag yourself across the line tonight by force. That's sweeping the house again. Nobody's asking you to white-knuckle it. If you've already stopped, stay stopped. A man crosses it when nothing on the wrong side is worth having. The one exception is another person. If someone else is in it, you're making a choice about her, and you can stop today.
 
 That's the line. The last room is the hardest in the house. The man in it isn't using a stranger. He's found the right woman, and he means to keep her. The best excuse in the house has been saved for him.
 

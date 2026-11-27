@@ -20,7 +20,7 @@ New is the cheapest thing in the world. The screen taught you that. The forty-fi
 
 The bet buys someone who knows the worst of you and stays.
 
-It buys a bed with no performance in it, no clock running, and nobody looking for shoes.
+It buys a bed with no performance in it, no clock running, and nobody creeping out before morning.
 
 It buys a witness to your whole life, and a reason to climb out of bed that isn't you.
 

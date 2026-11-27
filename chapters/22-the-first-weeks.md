@@ -45,6 +45,8 @@ For years you've answered the itch at set times and in set places, so the places
 
 You know this from changing cars. In the old one the turn signal was on the left. In the new one it's on the right. You know that perfectly well, and for two weeks you still switch on the wipers at every intersection.
 
+![](images/illustrations/first-weeks-wipers.png){.illustration width=80%}
+
 Nothing's wrong with you or the car. It's an old groove, and it wears out fast if you don't treat each misfire as a crisis. When the bell rings in the first days, you'll think, "This is when I'd normally do it." That's all it is. A cue is a reminder, and it can't give you orders.
 
 A recovery coach found out how little a cue can do when it's left alone. An urge hit him as he walked home from the gym. He didn't argue with it and he didn't obey it, and by the time he got home it had passed. His whole method is to do nothing, and he reports that the urge "fades after maybe a minute or two". Dr. Kanojia gives his patients the same instruction: "The main thing that you have to do is nothing".
@@ -61,7 +63,7 @@ So settle it now. You don't need the habit on the good nights or on the worst ni
 
 Whichever kind of urge turns up, accept it. The feeling isn't bad. What hurts is *wanting something and believing you're denied it*. So don't mope. Name it:
 
-"I know what this is. It's the Little Monster dying. Men in the trap live with this every day of their lives. Free men don't have it. ISN'T IT MARVELOUS that I'm nearly rid of it?"
+"I know what this is. It's the Little Monster starving. Men in the trap live with this every day of their lives. Free men don't have it. ISN'T IT MARVELOUS that I'm nearly rid of it?"
 
 For a few weeks there'll be a small rumble in you, and all through those weeks something wonderful is happening. You're starving the Little Monster, and the old lies will try every trick to get him fed. One will catch you off guard, when something flashes up on your feed and for a second you forget you've stopped. Each trick you see through leaves them weaker.
 

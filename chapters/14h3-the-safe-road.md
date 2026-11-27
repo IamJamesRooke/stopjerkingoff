@@ -56,7 +56,7 @@ A steady paycheck counts. A long study of American couples found that a husband 
 
 And when she earns more than he does? Men say the risk skyrockets. The studies say it rises some, and mostly in one kind of couple.
 
-An American survey from around 1990 found divorce about half again as likely when the wife earned more. A later study found the link had faded for couples who married in the 1990s. In Sweden, women promoted to a top job were about twice as likely to divorce within three years. That held in traditional couples. It didn't hold in couples who'd shared the load from the start.
+An American survey from around 1990 found divorce about half again as likely when the wife earned more. A later study found the link had faded for couples who married in the 1990s. In Sweden, women who became mayors or members of parliament were about twice as likely to divorce within three years. That held in traditional couples. It didn't hold in couples who'd shared the load from the start.
 
 So her paycheck isn't the danger. The danger is two people who signed up for one kind of marriage and got another. Settle which kind before the wedding.
 

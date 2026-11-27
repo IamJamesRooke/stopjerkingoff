@@ -8,7 +8,7 @@ Start with who leaves. Some women will. Tell a woman on the third date you're ke
 
 Now look at who stays. She's heard a man say he wants her and he can wait for her. Very few men have said both. It doesn't prove he'll stay. It shows her his wanting doesn't run him.
 
-And look at the way you're afraid to lose. What has it picked for you, year after year? Women who'd sleep with a man who'd promised nothing. And it picked you for them, a man who'd take the night and be gone by breakfast. You know how those ended. You've got the record.
+And look at the way you're afraid to lose. What has your wanting picked for you, year after year? Women who'd sleep with a man who'd promised nothing. And it picked you for them, a man who'd take the night and be gone by breakfast. You know how those ended. You've got the record.
 
 The old way doesn't find a wife faster. It stuffs the years with nights, so a man never notices he isn't looking.
 
@@ -26,7 +26,7 @@ And don't hide behind the line. A man who's stopped using women still has to cro
 
 Does the line shrink the field? It does. It shrinks it to the women who want what you want. That was always the only field you had.
 
-Be honest about the size of it. It may be small. Many of the women in it will be believers, and they'll ask where you stand. Tell them the truth. Some will say no to that, and some won't. Either way, you both know early. And the field is wider than the women who already hold this line. It includes any woman who hears your reasons and says yes. Some have had enough of the other road themselves. But compare the two fields fairly. The wide one has had you for decades, and you've combed it. It gave you nights and no wife. And waiting isn't stalling. A man who's watched a woman with clear eyes doesn't need five years to know his mind.
+Be honest about the size of it. It may be small. Many of the women in it will be believers, and they'll ask where you stand. Tell them the truth. Some will say no to that, and some won't. Either way, you both know early. And the field is wider than the women who already hold this line. It includes any woman who hears your reasons and says yes. Some have had enough of the other road themselves. But compare the two fields fairly. The wide one has had you for years, and you've combed it. It gave you nights and no wife. And waiting isn't stalling. A man who's watched a woman with clear eyes doesn't need five years to know his mind.
 
 The second man in the hall has listened to all of this with his arms crossed.
 
