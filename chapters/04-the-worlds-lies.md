@@ -2,21 +2,25 @@
 
 > "Be careful that you don't let anyone rob you through his philosophy and vain deceit, after the tradition of men"
 >
-> — Colossians 2:8
+> — Paul, in Colossians 2:8
 
 The flesh supplies the itch. The world supplies the reasons to scratch it.
 
 Two things keep a man in this trap. One is the flesh, with its small, restless itch: the Little Monster. The other is the lies, and they're far bigger, so they get a name too: the Big Monster. It's every lie you were told about the habit, and every lie you told yourself. It's no creature. It lives in your head, and it does all the talking.
 
-Start with the loudest lies, the ones about masturbation. Your grandfather was told it would make him go blind, grow hair on his palms and land him in an asylum. Nonsense, and it got laughed out of the room. But when the scare stories went in the trash, the truth went with them. Now a boy hears the opposite sermon, just as confident. It has five points.
+Start with the loudest lies, the ones about masturbation. Your grandfather was told it would make him go blind, grow hair on his palms and land him in an asylum. Nonsense, and it got laughed out of the room. But when the scare stories went in the trash, the truth went with them. Now a boy hears the opposite sermon, just as confident. It has six points.
 
 **"Everyone does it."** Nearly true. But a crowded trap is still a trap. Since when do you take directions from a crowd that's lost?
+
+![](images/illustrations/worlds-lies-crowded-trap.png){.illustration width=80%}
 
 **"It's healthy. It's harmless. Doctors say so."** Medicine says it doesn't hurt your body. Fine, but the doctor is answering a question you never asked. You didn't ask about your prostate. You asked why you can't stop, and why you feel like a smaller man afterward. A Christian writer put the distinction neatly: "But just because something isn't harmful physically doesn't mean it's not harmful spiritually."
 
 **"I'm not doing anything wrong."** Then say it out loud. Say it to your wife, or your mother, or the father of the woman on the screen. A thing that's fine can be said at the dinner table. You've never said this one to anybody.
 
 **"It's natural."** So is plenty you wouldn't copy. One preacher, who was bound by masturbation for years himself, answers in nine words: "We also see in nature where pigs eat trash." Natural isn't the same as good.
+
+![](images/illustrations/worlds-lies-pigs-eat-trash.png){.illustration width=80%}
 
 **"A man needs the release."** You need air, water and food. Skip those and you die. No man has ever been carried out of a tent after a week of camping because he couldn't get a minute alone.
 
@@ -26,7 +30,9 @@ Start with the loudest lies, the ones about masturbation. Your grandfather was t
 
 The hype runs the other way too. Stop, whole corners of the internet promise, and you'll get superpowers. The biggest forum of them all started with a thread about a study claiming a testosterone spike after seven days. The study was retracted in 2021.
 
-All that hype ought to get men out. Instead it keeps them in, because it turns stopping into a feat. You count days, take vows, call yourself a warrior. That's a lot of armor for evicting a pipsqueak. Then day thirty comes, the prize hasn't shown up, and back you go.
+All that hype ought to get men out. Instead it keeps them in, because it turns stopping into a feat. You count days, take vows, call yourself a warrior. That's a lot of armor for evicting a pipsqueak.
+
+![](images/illustrations/worlds-lies-armor-for-a-pipsqueak.png){.illustration width=80%} Then day thirty comes, the prize hasn't shown up, and back you go.
 
 Both sermons, "it's good for you" and "quitting gives you powers", agree on one thing: stopping is a big deal. It isn't.
 
@@ -107,3 +113,5 @@ Those are the lies about the hand. Porn has its own set, and somebody else pays 
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
 
 <!-- 2026-11-27 PROOF LOOP (James, tempted: 'I CAN watch it, but do I really need to feed that little monster?'; wants light reminders sprinkled through the book: you can, nobody is stopping you, the urge is the Little Monster asking, no pressure, no force). One short reminder added here, worded differently in each chapter. Never a vow, never willpower. -->
+
+<!-- 2026-11-27 CHAPTER 13 PASS (James: prepare ahead, generous with drawings): the sermon has six points, not five; epigraph credited to Paul; three drawings (the crowded trap, pigs eat trash, armor for a pipsqueak). -->

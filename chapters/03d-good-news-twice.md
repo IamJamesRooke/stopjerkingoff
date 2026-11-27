@@ -32,6 +32,38 @@ Once you stop walking the path, nothing feeds the Little Monster, and he shrivel
 
 It's never too late. One man wrote that he finally got free in the forty-third year of his life. If you've been at this for decades, or several times a day, take heart. It's just as easy for you as for the man who does it once a month, and in one way it's better. The further down it's taken you, the bigger the relief. Many men go from daily to nothing in one step. The so-called withdrawal is a few restless evenings, and a man can even enjoy them, because he knows what he's hearing. It's the Little Monster's stomach, rumbling.
 
+## Try it tonight {-}
+
+You don't have to take any of this on trust. Test it.
+
+Next time he bangs, don't fight him, and don't go up yet either. Sit down, set a timer for ten minutes, and listen. This isn't quitting, and it isn't a streak. When the timer goes off, do whatever you like.
+
+While you wait, notice three things.
+
+- How loud is it, really? Give it a number from one to ten.
+- Does it hold still, or does it come and go in waves?
+- What are the lies saying, in your own voice, while you sit there?
+
+You may find the number drops before the timer does. The banging comes in waves, and every wave passes. The loudest thing in the room isn't him. It's the voice saying you can't stand this.
+
+And if you do go up afterward, give yourself a number then too. Then ask one question. Do you feel better than the man you were before the banging started? Or are you just back where he was?
+
+You're not proving you're strong. You're finding out how small he is.
+
+![](images/illustrations/good-news-try-it-tonight.png){.illustration width=80%}
+
+## A Friday night, later {-}
+
+You know the picture the lies painted: a Friday night alone on the couch, with nothing to reach for, and that going on until you're eighty. Here's the real one.
+
+A man comes home tired on a Friday. He eats. He watches the game and texts his brother about it. Around eleven he notices he's sleepy, so he goes to bed. Nothing bangs upstairs. He's asleep in ten minutes, and on Saturday he's up before the alarm, with the whole day in front of him.
+
+Nothing happened. That's the point. It's the evening the man in the trap is so afraid of, and it's just an evening, with no hole in the middle of it.
+
+![](images/illustrations/good-news-friday-night-later.png){.illustration width=80%}
+
+## Fruit, not fists {-}
+
 Now take Paul's words again: "the flesh lusts against the Spirit, and the Spirit against the flesh". Paul never says the flesh is beaten by more flesh, by a harder jaw and a tighter fist. The sentence just before it, Galatians 5:16, reads: "But I say, walk by the Spirit, and you won't fulfill the lust of the flesh." He puts the weight on what to walk toward.
 
 In his letter to the Romans he does tell believers to put to death the deeds of the body. Look how he says it: "if by the Spirit you put to death the deeds of the body, you will live." The Spirit does the heavy lifting.
@@ -59,3 +91,5 @@ So the flesh is the small part. The big part is what you were told.
 <!-- 2026-11-25 CHAPTER 11 PASS (James: prepare the next chapters, 'be generous with the images'): heading 'The week at your in-laws' is now 'The week away' (plain for single readers and non-native speakers); the forty-third-year man said plainly; a line for the man who doesn't pray between the Paul paragraphs (two-track rule); four drawings (the camping trip, home again, grass grows back, clenched teeth and the apple tree). -->
 
 <!-- 2026-11-25 reader panel: the two causes named in place; 'you hardly thought about it' no longer universal; Romans 8:13 described in its own words ('deeds of the body', not 'sin'). -->
+
+<!-- 2026-11-27 MISSING-PIECE CHECK (James: 'can't help but feel something is missing' after chapter 10). Three cold readers (a young daily user, a skeptic who quit smoking with Carr, a married Christian who relapsed after confessing) all said the book shows pictures but never lets a man FEEL the monster is small, and that the feared Friday night is never repainted. Added 'Try it tonight' (a ten-minute watch with a timer, explicitly not quitting or a streak; then do whatever you like; rate before and after) and 'A Friday night, later' (the feared evening shown from the far side), with two drawings; the Paul passage now sits under its own heading, 'Fruit, not fists'. -->
