@@ -28,6 +28,8 @@ She hands the phone back and says it's nearly ten. He says he might stay up a wh
 
 Nothing happened, and nobody was caught. But for one minute he was a sentry on watch in his own house. He pulls that shift twenty times a day, and he's pulled it for fifteen years. He no longer notices it's work.
 
+![](images/illustrations/locked-door-sentry.png){.illustration width=80%}
+
 ## What the secret does {-}
 
 That's one evening. Over the years the secret does four things.
@@ -79,6 +81,8 @@ There's an order to the telling. Start today with the two who already know. Stop
 The third person comes after you've stopped, and not before. He hears it from a free man who's finished with a secret, not from a man asking for a guard.
 
 Men walk out into the light every day. The door was only ever locked from the inside.
+
+![](images/illustrations/locked-door-from-inside.png){.illustration width=80%}
 
 **DON'T BE THE LAST MAN IN THE DARK.**
 

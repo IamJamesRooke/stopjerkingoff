@@ -44,6 +44,8 @@ If he isn't enjoying it this year, he'll enjoy it less next year.
 
 Pity him, pray for him, and when the chance comes, hand him this book.
 
+![](images/illustrations/miss-it-hand-him-the-book.png){.illustration width=80%}
+
 One idea still keeps a man planted where he is. It says he can keep the Little Monster shut in the back room and live his life in the rest of the house.
 
 <!-- SOURCES (Chapter 18): every quote below is from the research files; check each against its page before publishing.

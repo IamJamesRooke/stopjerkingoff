@@ -20,6 +20,8 @@ That's why this book doesn't ask you to pick a good week. It asks you to read to
 
 The book of Ecclesiastes has a line for the man who waits for perfect weather: "He who observes the wind won't sow; and he who regards the clouds won't reap."
 
+![](images/illustrations/timing-watching-the-clouds.png){.illustration width=80%}
+
 ## Three questions about when {-}
 
 1. The first time you did it, as a boy, did you decide to keep going for life, with no way out? Of course not.

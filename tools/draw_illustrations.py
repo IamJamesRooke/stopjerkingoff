@@ -2582,6 +2582,58 @@ def batch30(OUT):
     s+=man(345,240,"flat").replace('r="34"','r="26"')+'<path d="M340,390 L332,408"/><path d="M356,390 L364,408"/>'
     s+=TAIL; open(OUT+"never-marry-two-roads.svg","w").write(s)
 
+# ---- Batch 31: The Locked Door, Timing, Will I Miss It, Compartmentalize ----
+def batch31(OUT):
+    W,H=680,440
+    # 1. A sentry on watch in his own house
+    s=head(W,H,"#FFD23F")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="380" y="320" width="230" height="44" rx="12" fill="#2FB3A8"/><rect x="370" y="290" width="26" height="110" rx="12" fill="#1E8C83"/><rect x="594" y="290" width="26" height="110" rx="12" fill="#1E8C83"/>'
+    s+=man(520,256,"happy","#FF8FB1").replace('r="34"','r="28"')
+    s+='<rect x="140" y="120" width="140" height="290" fill="#FF3B30"/><path d="M130,120 L210,70 L290,120 Z" fill="#FFF6E5"/><rect x="160" y="160" width="100" height="250" fill="#FFF6E5"/>'
+    s+=man(210,200,"squeeze")+'<path d="M206,350 L200,408 M220,350 L226,408"/>'
+    s+=f'<path d="M180,160 C180,130 240,130 240,160 Z" fill="#141414"/><path d="M226,246 L250,280"/><line x1="250" y1="200" x2="250" y2="330" stroke="#9C6B3C" stroke-width="6"/>'
+    s+=f'<rect x="440" y="316" width="22" height="34" rx="4" fill="{INK}"/>'
+    s+=TAIL; open(OUT+"locked-door-sentry.svg","w").write(s)
+
+    # 2. The door was only ever locked from the inside
+    s=head(W,H,"#2B3A8F")
+    s+='<line x1="30" y1="410" x2="650" y2="410" stroke="#fff"/>'
+    s+='<path d="M380,410 L380,120 L500,120 L500,410 Z" fill="#FFE08A"/>'
+    s+='<path d="M500,410 L640,410 L560,120 L500,120 Z" fill="#FFF2C2" stroke="none"/>'
+    s+='<path d="M380,120 L330,136 L330,404 L380,410 Z" fill="#5A3E9B"/>'
+    s+=man(260,174,"happy")+legs(260,324,16)+'<path d="M276,220 L330,260"/><path d="M246,220 L230,290"/>'
+    s+='<circle cx="336" cy="262" r="6" fill="#FFD23F"/><path d="M342,262 L360,262 L360,270 M354,262 L354,268" stroke-width="3"/>'
+    s+=TAIL; open(OUT+"locked-door-from-inside.svg","w").write(s)
+
+    # 3. He who watches the clouds won't sow
+    s=head(W,H,"#7FD3FF")
+    s+='<rect x="30" y="320" width="620" height="90" fill="#9C6B3C" stroke="none"/><line x1="30" y1="320" x2="650" y2="320"/>'
+    for i in range(6): s+=f'<path d="M{80+i*100},360 q20,-10 40,0" stroke-width="4"/>'
+    s+='<path d="M400,100 C380,70 430,50 460,70 C490,50 540,70 530,100 Z" fill="#fff"/><path d="M530,150 C520,130 560,120 580,135 C600,125 630,140 620,160 Z" fill="#fff"/>'
+    s+=man(220,90,"flat","#2FB3A8")+'<path d="M216,240 L200,320"/><path d="M234,240 L250,320"/>'
+    s+='<path d="M206,136 L180,200"/><path d="M236,136 L270,180 L300,170"/>'
+    s+='<path d="M150,190 L200,190 L206,250 C200,270 156,270 150,250 Z" fill="#E8DCC4"/>'
+    s+=TAIL; open(OUT+"timing-watching-the-clouds.svg","w").write(s)
+
+    # 4. When the chance comes, hand him this book
+    s=head(W,H,"#9BD13A")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=man(220,174,"happy")+legs(220,324,16)+'<path d="M206,220 L190,290"/><path d="M236,220 L300,240 L330,236"/>'
+    s+='<rect x="320" y="210" width="56" height="70" rx="4" fill="#FF3B30" transform="rotate(-8 348 245)"/><rect x="330" y="220" width="36" height="8" fill="#fff" stroke="none" transform="rotate(-8 348 245)"/>'
+    s+=man(460,174,"blank","#7B4FD6")+legs(460,324,16)+'<path d="M444,220 L380,246"/><path d="M476,220 L492,290"/>'
+    s+=TAIL; open(OUT+"miss-it-hand-him-the-book.svg","w").write(s)
+
+    # 5. The same man in every room
+    s=head(W,H,"#FF8FB1")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="120" y="120" width="440" height="290" fill="#FFF6E5"/><path d="M100,120 L340,30 L580,120 Z" fill="#FF5A5F"/>'
+    s+='<line x1="120" y1="265" x2="560" y2="265" stroke-width="6"/><line x1="340" y1="120" x2="340" y2="410" stroke-width="6"/>'
+    for (x,y) in [(230,190),(450,190),(230,335),(450,335)]:
+        s+=f'<circle cx="{x}" cy="{y}" r="22" fill="#fff"/><path d="M{x-10},{y-4} q4,-4 8,0 M{x+2},{y-4} q4,-4 8,0" stroke-width="3"/><path d="M{x-6},{y+6} q6,6 12,0" stroke-width="3"/>'
+        s+=f'<path d="M{x-16},{y+22} C{x-22},{y+34} {x-20},{y+50} {x-16},{y+56} L{x+16},{y+56} C{x+20},{y+50} {x+22},{y+34} {x+16},{y+22} Z" fill="#2F6BFF"/>'
+    s+=TAIL; open(OUT+"compartment-one-man.svg","w").write(s)
+
 if __name__=="__main__":
-    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30"]
+    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30","31"]
     for b in which: globals()["batch"+b](OUT)

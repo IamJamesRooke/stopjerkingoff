@@ -32,6 +32,8 @@ The moment the Little Monster is gone, there's no back room. That low, shifty fe
 
 Being the same man in every room is a lot less work.
 
+![](images/illustrations/compartment-one-man.png){.illustration width=80%}
+
 The next trap catches the man who's eager to stop. It looks like motivation.
 
 <!-- SOURCES (Chapter 19): every quote below is from the research files; check each against its page before publishing.
