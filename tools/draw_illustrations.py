@@ -1593,6 +1593,44 @@ def batch16(OUT):
     s+=f'<path d="M140,190 q-10,10 -4,22 q8,-6 4,-22 Z" fill="#4FB3FF" stroke-width="2"/><path d="M200,190 q10,10 4,22 q-8,-6 -4,-22 Z" fill="#4FB3FF" stroke-width="2"/>'
     s+=TAIL; open(OUT+"believed-switched-off.svg","w").write(s)
 
+def chef_hat(x,y): return f'<path d="M{x-18},{y} L{x-18},{y-16} C{x-34},{y-20} {x-28},{y-44} {x-12},{y-38} C{x-8},{y-54} {x+10},{y-54} {x+12},{y-38} C{x+28},{y-44} {x+34},{y-20} {x+18},{y-16} L{x+18},{y} Z" fill="#fff"/>'
+def batch17(OUT):
+    W,H=680,440
+    # 1. Devil's Data Scientists: a whole kitchen cooking for him, and delivery is free
+    s=head(W,H,"#FF8FB1")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="40" y="300" width="330" height="20" rx="6" fill="#ccc"/><line x1="60" y1="320" x2="60" y2="408"/><line x1="350" y1="320" x2="350" y2="408"/>'
+    for i,x in enumerate((100,200,300)):
+        s+=man(x,190,"happy",["#FF7A59","#2FB3A8","#7B4FD6"][i]).replace('r="34"','r="26"')+chef_hat(x,166)
+        s+=plate(x,296,32,8)
+    s+=f'<circle cx="470" cy="390" r="18" fill="{INK}"/><circle cx="590" cy="390" r="18" fill="{INK}"/><path d="M460,370 L600,370 L580,330 L500,330 Z" fill="{RED}"/><rect x="560" y="290" width="50" height="40" rx="6" fill="{YEL}"/>'
+    s+=monster(530,330,"bang",0.6,stink=False)
+    s+=TAIL; open(OUT+"data-scientists-the-kitchen.svg","w").write(s)
+
+    # 2. Devil's Data Scientists: a tired man on his couch, outnumbered by a building of clever people
+    s=head(W,H,"#7FD3FF")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="380" y="60" width="240" height="350" fill="#C0C6D0"/>'
+    for r in range(5):
+        for c in range(3):
+            x=400+c*76; y=80+r*62
+            s+=f'<rect x="{x}" y="{y}" width="54" height="42" fill="{YEL}"/><circle cx="{x+27}" cy="{y+22}" r="9" fill="#fff" stroke-width="3"/>'
+    s+='<rect x="60" y="320" width="230" height="50" rx="18" fill="#7B4FD6"/><rect x="50" y="290" width="30" height="110" rx="12" fill="#5A3E9B"/><rect x="270" y="290" width="30" height="110" rx="12" fill="#5A3E9B"/>'
+    s+=man(170,256,"blank")+'<path d="M160,390 L150,408 M184,390 L196,408"/>'
+    s+=f'<path d="M184,300 L210,330"/><rect x="204" y="316" width="22" height="34" rx="4" fill="{INK}"/>'
+    s+=TAIL; open(OUT+"data-scientists-outnumbered.svg","w").write(s)
+
+    # 4. The Best Liar of All: the salesman with his foot in your door is you
+    s=head(W,H,"#FFD23F")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="280" y="80" width="140" height="330" fill="#5A3E9B"/><path d="M280,80 L230,96 L230,400 L280,410 Z" fill="#7B4FD6"/>'
+    s+=man(160,190,"happy")+'<path d="M156,342 L150,408"/><path d="M174,342 L236,400 L262,404"/>'
+    s+='<path d="M146,236 L120,290"/><path d="M176,236 L210,260 L232,250"/>'
+    s+='<rect x="90" y="270" width="50" height="40" rx="5" fill="#9C6B3C"/>'
+    s+=f'<path d="M150,140 L170,140" stroke="{INK}" stroke-width="5"/>'
+    s+=man(510,190,"squeeze")+legs(510,342,14)+'<path d="M496,236 L470,290"/><path d="M526,236 L552,290"/>'
+    s+=TAIL; open(OUT+"best-liar-foot-in-the-door.svg","w").write(s)
+
 if __name__=="__main__":
-    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16"]
+    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17"]
     for b in which: globals()["batch"+b](OUT)

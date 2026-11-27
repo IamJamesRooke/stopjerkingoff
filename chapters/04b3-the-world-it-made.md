@@ -25,7 +25,7 @@ The promise wasn't kept.
 
 ## Who paid {-}
 
-Remember the California company whose owner got twenty-seven years? By 2026 everyone charged in that case had been sentenced, seven in all. The women spoke in court. One said this.
+Think of the California company that promised young women their videos would never go online, the one whose owner got twenty-seven years. By 2026 everyone charged in that case had been sentenced, seven in all. The women spoke in court. One said this.
 
 > "The life I was meant to have, died in that hotel room."
 
@@ -60,3 +60,5 @@ SOURCES:
 <!-- 2026-11-23 FLOW PASS (book-wide): in 'What this does not prove' the sentence on the study's own finding moved up beside the researchers, ahead of the aside on the divorce courts. No words changed. -->
 
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
+
+<!-- 2026-11-27: 'Remember the California company...' sent the reader back; the case is now restated in place. -->
