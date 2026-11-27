@@ -16,7 +16,7 @@ I know how that sounds. A three-hour marathon is hard. You'd need years of train
 
 There isn't one. Men build it themselves, with the Willpower Method. That's any way of quitting that leaves a man feeling he's sacrificed something. He blocks the sites, and a week later he unblocks them.
 
-It's the swept and empty house. A man puts the Little Monster out and keeps his room ready, and he comes back with company.
+It's the swept and empty house Jesus told of. A man puts the Little Monster out and keeps his room ready, and he comes back with company.
 
 Some men are sorry to hear it's easy. They wanted a war, with long nights, a clenched jaw and a medal at the far end. A pipsqueak gives no medals. And nobody wants it on his gravestone that he fought his own hand for fifty years.
 

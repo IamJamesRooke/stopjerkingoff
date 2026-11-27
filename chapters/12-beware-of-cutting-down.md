@@ -23,7 +23,7 @@ A limit sounds like the grown-up option. It keeps plenty of men chained for life
 3. **He carries the itch all week.** Before the limit, he gave in when the urge came, and the restlessness at least eased for a while. Now he drags it behind him six days out of seven. He gets short with his wife and kids and can't think why.
 4. **Every time becomes "special".** Before, most times were automatic. He barely noticed them, and he certainly didn't treasure them. Now that he's waited six days, Saturday night feels like Christmas.
 
-Look hard at number four, because the whole trick is in it. The relief was never in the act. The relief is the itch ending. The longer the itch nags, the bigger the relief, and the surer he is that he's enjoying something. He's turned a dull routine into a treat by making himself suffer for it first.
+Look hard at number four, because the whole trick is in it. Most of the relief isn't in the act. It's the itch ending. The longer the itch nags, the bigger the relief, and the surer he is that he's enjoying something. He's turned a dull routine into a treat by making himself suffer for it first.
 
 With a limit, the habit's always on offer, because Saturday's always coming. The Little Monster never hears that the kitchen has closed. He just learns the opening hours, and he sits by the door all week.
 
@@ -71,7 +71,7 @@ Remember:
 
 **DON'T CUT IT DOWN. CUT IT OUT.**
 
-That's for the last page. Until then you're not on a diet. He bangs, and you're free to go up. Just keep watching who's waiting on whom.
+That's for the last page. Until then you're not on a diet. He bangs, and you're free to go up. Just remember who's the hungry one here, and who's the grown man.
 
 That leaves the smallest request of all: just once. The answer to it comes from a strange place, a book about stalkers.
 

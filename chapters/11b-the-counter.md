@@ -2,11 +2,11 @@
 
 One feature of the Willpower Method does more harm than all the rest, and since the 2010s it's been built into the phone.
 
-Pass a driving test, and you know the moment you've passed, because the examiner tells you. On the Willpower Method nobody tells you. The plan is: "If I can just go long enough without it, the wanting will stop." How long is long enough? Nobody knows. So you count.
+Pass a driving test, and you know the moment you've passed, because the examiner tells you. On the Willpower Method nobody tells you. The plan is: "If I can just go long enough without it, the wanting will stop." How long is long enough? Nobody knows. So you count. A climbing number feels like proof. Look at what it's really measuring.
 
 NoFap has made a ritual of counting. There are day counters and badges. There's a ninety-day target that its own site describes as "difficult for most, yet achievable." When a man falls, he performs the routine the site calls a reset: "Resetting means restarting their challenge beginning with day one and starting again."
 
-Think about what a counter measures: the distance from the last time you did it. Every morning it points you straight back at the habit you're trying to leave. A man with a streak thinks about porn and masturbation more than a man without one. He has to. He's keeping score.
+Think about what a counter measures: the distance from the last time you did it. Every morning it points you straight back at the habit you're trying to leave. A man with a streak tends to think about it more than a man without one. He's keeping score.
 
 And who counts days? A man scratching lines on a cell wall. Prisoners count days. Free men lose count.
 
@@ -23,7 +23,7 @@ A man who counts is a man who waits. And while he waits, the questions come:
 - "Will I ever sleep properly?"
 - "What will I do the next time everything goes wrong?"
 
-He's waiting for things to get better, and while he mopes, the habit he's given up grows more precious by the day. The miserable men on those forums aren't suffering withdrawal. They're suffering doubt.
+He's waiting for things to get better, and while he mopes, the habit he's given up grows more precious by the day. Much of what the miserable men on those forums suffer is doubt.
 
 ## Meanwhile, on day forty {-}
 
@@ -31,7 +31,7 @@ Back to our man on his streak. Something really is happening to him, though he c
 
 Around then he feels he's beaten the habit. So he allows himself one, to prove the point, and the Little Monster gets his first meal in weeks. The man had been out, and he's walked back in.
 
-Some men do succeed on willpower, and I take nothing away from them. But listen to how they tell it. Long and bitter, because the lie was still in their heads the whole time. The Little Monster had been starved quiet for months and they were still moping. At last they realized they weren't going to give in, the moping stopped, and life went on perfectly well.
+Some men do get out on willpower. But listen to how they tell it. Long and bitter, because the lie was still in their heads the whole time. The Little Monster had been starved quiet for months and they were still moping. At last they realized they weren't going to give in, the moping stopped, and life went on perfectly well.
 
 Many more fail than succeed that way. And some who succeed stay fragile for life, because a corner of them still believes the habit had something to give. That's how a man can be ten years clear and fall in one bad week.
 
