@@ -28,6 +28,8 @@ He's no fool, and much of what he says is true. So take it one piece at a time, 
 
 None of that is in your head. A man who's watched it happen is right to check the ice before he steps on it.
 
+![](images/illustrations/rigged-check-the-ice.png){.illustration width=80%}
+
 ## A man who lost the bet {-}
 
 One man lost that bet, and the habit helped him lose it.
@@ -61,6 +63,8 @@ Some of what men tell each other over beers is wrong. You should know which part
 **"No-fault divorce did this."** Wives were already filing about six divorces in ten in the nineteenth century. The best study of the new laws found they raised divorce for about ten years. Then the effect faded.
 
 So the table is tilted against a husband. It's less tilted than men tell each other, and in some states it's tilting back.
+
+![](images/illustrations/rigged-tilted-table.png){.illustration width=80%}
 
 That's the charge, heard in full. "Fine", he says. "Tilted is enough for me. I'll have the woman and skip the paper."
 

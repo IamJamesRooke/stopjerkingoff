@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 440" width="680" height="440">
+<defs><filter id="r" x="-3%" y="-3%" width="106%" height="106%"><feTurbulence type="fractalNoise" baseFrequency="0.03" numOctaves="2" seed="4"/><feDisplacementMap in="SourceGraphic" scale="2"/></filter></defs>
+<rect width="680" height="440" rx="28" fill="#FF7A59"/>
+<g filter="url(#r)" stroke="#141414" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<line x1="30" y1="410" x2="650" y2="410"/><path d="M120,230 L560,290 L560,320 L120,260 Z" fill="#2FB3A8"/><path d="M120,230 L560,290" stroke="#9C6B3C" stroke-width="10"/><line x1="150" y1="264" x2="150" y2="408" stroke-width="8"/><line x1="530" y1="316" x2="530" y2="408" stroke-width="8"/><circle cx="470" cy="264" r="13" fill="#FFD23F"/><circle cx="500" cy="268" r="13" fill="#FF3B30"/><circle cx="530" cy="272" r="13" fill="#7B4FD6"/><circle cx="512" cy="269" r="13" fill="#fff"/></g></svg>

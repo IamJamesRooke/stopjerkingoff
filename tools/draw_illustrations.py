@@ -2513,6 +2513,75 @@ def batch29(OUT):
     s+='<path d="M470,180 C460,150 540,150 530,180 C540,210 530,240 520,250" stroke="#9C6B3C" stroke-width="8" fill="none"/>'
     s+=TAIL; open(OUT+"wait-over-coffee.svg","w").write(s)
 
+# ---- Batch 30: Rigged Game, Safe Road, All In, If You Never Marry ----
+def batch30(OUT):
+    W,H=680,440
+    # 1. Check the ice before you step on it
+    s=head(W,H,"#BFE3FF")
+    s+='<path d="M30,300 L650,300 L650,410 L30,410 Z" fill="#E8F4FF"/><line x1="30" y1="300" x2="650" y2="300"/>'
+    s+='<path d="M300,330 L340,350 L330,380 M340,350 L390,340 M450,320 l20,30 l-10,20" stroke="#5AA8E6" stroke-width="4"/>'
+    s+='<rect x="30" y="250" width="160" height="50" fill="#9BD13A"/>'
+    s+=man(140,90,"flat","#FF7A59")+'<path d="M136,240 L130,250"/><path d="M154,240 L170,250"/>'
+    s+='<path d="M126,136 L110,190"/><path d="M156,136 L230,250 L260,300"/>'
+    s+='<line x1="230" y1="250" x2="270" y2="310" stroke="#9C6B3C" stroke-width="6"/>'
+    s+=TAIL; open(OUT+"rigged-check-the-ice.svg","w").write(s)
+
+    # 2. The table is tilted
+    s=head(W,H,"#FF7A59")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<path d="M120,230 L560,290 L560,320 L120,260 Z" fill="#2FB3A8"/><path d="M120,230 L560,290" stroke="#9C6B3C" stroke-width="10"/>'
+    s+='<line x1="150" y1="264" x2="150" y2="408" stroke-width="8"/><line x1="530" y1="316" x2="530" y2="408" stroke-width="8"/>'
+    for (x,c) in [(470,"#FFD23F"),(500,"#FF3B30"),(530,"#7B4FD6"),(512,"#fff")]:
+        y=230+(x-120)*60/440-14
+        s+=f'<circle cx="{x}" cy="{y:.0f}" r="13" fill="{c}"/>'
+    s+=TAIL; open(OUT+"rigged-tilted-table.svg","w").write(s)
+
+    # 3. Each keeps a packed bag in the closet
+    s=head(W,H,"#C0C6D0")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="280" y="110" width="120" height="300" fill="#9C6B3C"/>'+dot(380,260,6).replace("#141414","#FFD23F")
+    s+=man(180,174,"flat")+legs(180,324,14)+'<path d="M196,220 L230,320"/><path d="M164,220 L150,290"/>'
+    s+='<rect x="210" y="320" width="56" height="70" rx="8" fill="#FF3B30"/><path d="M226,320 L226,308 L250,308 L250,320" />'
+    s+=man(500,174,"flat","#FF8FB1")+legs(500,324,14)+'<path d="M484,220 L450,320"/><path d="M516,220 L530,290"/>'
+    s+='<rect x="414" y="320" width="56" height="70" rx="8" fill="#7B4FD6"/><path d="M430,320 L430,308 L454,308 L454,320" />'
+    s+=TAIL; open(OUT+"safe-road-packed-bags.svg","w").write(s)
+
+    # 4. Thirty years in: the whole book
+    s=head(W,H,"#FFD23F")
+    s+=f'<circle cx="590" cy="70" r="28" fill="#fff" stroke="none" opacity="0.8"/>'
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=tree(560,410,fruit=False)
+    s+='<rect x="190" y="300" width="300" height="20" rx="6" fill="#9C6B3C"/><rect x="190" y="250" width="300" height="16" rx="6" fill="#9C6B3C"/><line x1="210" y1="320" x2="210" y2="408"/><line x1="470" y1="320" x2="470" y2="408"/>'
+    s+=man(290,206,"happy","#2F6BFF")+'<path d="M286,356 L270,408"/><path d="M300,356 L310,408"/>'
+    s+='<path d="M270,190 q4,-12 10,-4 q6,-12 12,-2" stroke="#C0C6D0" stroke-width="5"/>'
+    s+=man(390,206,"happy","#FF8FB1")+'<path d="M386,356 L376,408"/><path d="M400,356 L416,408"/>'
+    s+='<path d="M360,190 C356,160 420,160 420,190" stroke="#E8E8E8" stroke-width="9" fill="none"/>'
+    s+='<path d="M306,256 L340,276 L374,256"/>'+heart(340,110,0.6)
+    s+=TAIL; open(OUT+"all-in-thirty-years.svg","w").write(s)
+
+    # 5. All in: everything to the middle of the table
+    s=head(W,H,"#2FB3A8")
+    s+='<ellipse cx="340" cy="320" rx="300" ry="80" fill="#1E8C83"/><ellipse cx="340" cy="320" rx="270" ry="64" fill="#2FB3A8" stroke-width="3"/>'
+    for i in range(6):
+        for j in range(3):
+            x=290+j*44; y=320-i*10
+            c=["#FF3B30","#FFD23F","#fff"][j]
+            s+=f'<ellipse cx="{x}" cy="{y}" rx="20" ry="7" fill="{c}" stroke-width="3"/>'
+    s+=man(150,110,"happy")+'<path d="M166,156 L240,250 L270,290"/><path d="M134,156 L120,230"/>'
+    s+=TAIL; open(OUT+"all-in-the-bet.svg","w").write(s)
+
+    # 6. Two roads
+    s=head(W,H,"#7FD3FF")
+    s+=f'<circle cx="600" cy="70" r="28" fill="{YEL}"/>'
+    s+='<rect x="30" y="200" width="620" height="210" fill="#9BD13A" stroke="none"/>'
+    s+='<path d="M290,410 L320,300 L140,210 L180,210 L340,290 L360,300 L520,200 L560,200 L380,300 L400,410 Z" fill="#E8DCC4"/>'
+    s+='<path d="M60,200 C60,170 100,160 120,180 C140,160 180,170 170,200 Z" fill="#4A4F63"/>'
+    s+='<rect x="90" y="150" width="34" height="50" rx="5" fill="#141414" transform="rotate(-10 107 175)"/>'
+    s+=tree(600,250,fruit=True).replace('410','250') if False else ''
+    s+='<circle cx="580" cy="180" r="22" fill="#2FB3A8"/><circle cx="620" cy="186" r="18" fill="#2FB3A8"/>'
+    s+=man(345,240,"flat").replace('r="34"','r="26"')+'<path d="M340,390 L332,408"/><path d="M356,390 L364,408"/>'
+    s+=TAIL; open(OUT+"never-marry-two-roads.svg","w").write(s)
+
 if __name__=="__main__":
-    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29"]
+    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30"]
     for b in which: globals()["batch"+b](OUT)

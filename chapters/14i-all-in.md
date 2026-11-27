@@ -12,6 +12,8 @@ First chapters are all alike. The nerves, the pressed shirt, the performance. He
 
 A man who's been married to one woman for thirty years has read the whole book. He's in it.
 
+![](images/illustrations/all-in-thirty-years.png){.illustration width=80%}
+
 New is the cheapest thing in the world. The screen taught you that. The forty-first tab was no better than the first, and a new woman is a new tab. Being known is the one thing you can't get new. It takes years. You can't buy it, match it or download it.
 
 ## What the bet buys {-}
@@ -39,6 +41,8 @@ Be fair to that too. Happier men are more likely to marry, so the ring isn't the
 ## The bet {-}
 
 Marriage is an all-in bet, and nobody should tell you otherwise. You shove everything to the middle of the table. Your money, your name, your future. You can't take it back without losing half of yourself.
+
+![](images/illustrations/all-in-the-bet.png){.illustration width=80%}
 
 It can go wrong, and you've seen the numbers. Men have been ruined by a bad marriage, and so have women. Some wives lie, and some walk out, just as some husbands do.
 

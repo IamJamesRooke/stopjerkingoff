@@ -26,6 +26,8 @@ Now ask what "the woman without the paper" keeps for you. The exit. That's its w
 
 A man with one hand on the door isn't all in, and she knows it. So she keeps a hand on her own door. Two people can live that way for years. Each keeps a packed bag in the closet, and each calls it being careful. Neither is ever fully known, because nobody shows everything to someone who may be leaving.
 
+![](images/illustrations/safe-road-packed-bags.png){.illustration width=80%}
+
 You've met this before. It's a room kept ready. The habit kept every room for the same reason, so you'd never have to choose.
 
 Follow the safe road to sixty. A study of 2009 counted American men then aged forty-five to sixty-three. Of the never-married men, about three in four lived alone, and one in five was poor. Of married people that age, about one in twenty-five was poor.

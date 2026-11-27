@@ -28,6 +28,8 @@ Follow this road to sixty-five. You're still swiping, on whatever the phone has 
 
 The other road carries no promise. Nobody can tell you a wife is at the end of it. But it's the only road she could be on.
 
+![](images/illustrations/never-marry-two-roads.png){.illustration width=80%}
+
 And it's not an empty road.
 
 **Company.** You'll miss being touched. Say so plainly. It's no small thing, and it's not the itch. But the old nights never cured it. A hookup gave you skin, and you drove home lonelier than you came. What you were short of is people who know you. Those are made in daylight, with your clothes on. A brother, two old friends, a table where you eat every Thursday. A softball team, a church or a club, and kids who call you uncle. The habit ate the evenings those take.
