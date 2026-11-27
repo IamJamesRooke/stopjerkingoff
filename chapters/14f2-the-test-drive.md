@@ -28,6 +28,8 @@ So the man with the most test drives isn't the best judge of cars. He's the man 
 
 Sex ties two people together. That's its job. Sleep with her, and you've fogged the windshield before you've read the map.
 
+![](images/illustrations/test-drive-fogged-windshield.png){.illustration width=80%}
+
 That's how a man stays two years with the wrong woman, because the bed was good. It's how he leaves the right one, because the first night was awkward. Either way, the test gave him the wrong answer.
 
 Mark Driscoll, the American pastor, put it in one line in a 2006 sermon: "you can't really get to know someone when you're sleeping with them".

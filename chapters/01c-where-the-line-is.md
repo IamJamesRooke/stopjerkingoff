@@ -36,6 +36,8 @@ You may be thinking a grown man ought to draw his own line. Fair enough. When di
 
 Nobody should write his grocery list while he's starving.
 
+![](images/illustrations/line-grocery-list-starving.png){.illustration width=80%}
+
 So the line has to sit outside you, where your wanting can't reach over and nudge it. You've moved your own line a hundred times. It always crept the same way.
 
 ## Why not an easier line? {-}
@@ -56,6 +58,8 @@ Marriage isn't one more room, with a license on the door. Inside the promise the
 One question for any man, believer or not. Suppose you'd lived by that rule: sex only with the woman you've promised to keep. Would you have made better decisions, or worse?
 
 Then test the lines the way you'd test a bridge. Put weight on them.
+
+![](images/illustrations/line-bridge-test.png){.illustration width=80%}
 
 **Who gets used?** Behind every easier line, somebody is used. It's a woman on a screen, or a woman in your head who never agreed. It's a woman in a bed, or it's you. Inside the promise nobody has to be. Both of them gave everything first, and both have promised to stay.
 

@@ -2451,6 +2451,68 @@ def batch28(OUT):
     s+='<path d="M80,80 C70,50 120,40 140,60 C170,40 220,60 200,90 Z" fill="#8A8F9C"/><path d="M420,70 C410,40 470,30 490,55 C520,40 560,60 540,90 Z" fill="#8A8F9C"/>'
     s+=TAIL; open(OUT+"hookup-gray-drive-home.svg","w").write(s)
 
+# ---- Batch 29: Where the Line Is, Marry Her, Test Drive, No Woman Will Wait ----
+def batch29(OUT):
+    W,H=680,440
+    # 1. Nobody should write his grocery list while he's starving
+    s=head(W,H,"#1B2459")
+    s+=moon(600,60,16)+stars([(80,50),(200,90),(480,40)])
+    s+='<line x1="30" y1="410" x2="650" y2="410" stroke="#fff"/>'
+    s+='<rect x="300" y="300" width="300" height="16" rx="5" fill="#9C6B3C"/><line x1="320" y1="316" x2="320" y2="408"/><line x1="580" y1="316" x2="580" y2="408"/>'
+    s+=man(240,206,"squeeze")+'<path d="M236,356 L236,408"/><path d="M254,356 L290,408"/><rect x="190" y="356" width="90" height="14" rx="5" fill="#9C6B3C"/>'
+    s+='<path d="M246,232 q-3,10 0,14" stroke="#4FB3FF" stroke-width="4"/>'
+    s+='<path d="M256,250 L320,280 L360,280"/><rect x="350" y="200" width="90" height="96" fill="#fff" transform="rotate(-6 395 248)"/>'
+    for i in range(5): s+=f'<path d="M{362},{218+i*15} q20,-6 40,0 q14,4 26,-2" stroke-width="3" transform="rotate(-6 395 248)"/>'
+    s+='<path d="M210,300 q10,-8 20,0 M200,320 q10,-8 20,0" stroke="#fff" stroke-width="3"/>'
+    s+=clock(500,250)
+    s+=TAIL; open(OUT+"line-grocery-list-starving.svg","w").write(s)
+
+    # 2. Test the lines like a bridge: put weight on them
+    s=head(W,H,"#7FD3FF")
+    s+='<rect x="30" y="330" width="620" height="80" fill="#2F6BFF" stroke="none" opacity="0.6"/><line x1="30" y1="410" x2="650" y2="410"/>'
+    for i,x in enumerate((80,240,400)):
+        s+=f'<path d="M{x},230 L{x+30},260 L{x+60},236 L{x+90},270" stroke="#9C6B3C" stroke-width="8"/><path d="M{x+42},250 l6,-14 l6,10" stroke="{RED}" stroke-width="4"/>'
+        s+=f'<line x1="{x}" y1="230" x2="{x}" y2="410" stroke-width="5"/><line x1="{x+120}" y1="230" x2="{x+120}" y2="410" stroke-width="5"/>'
+    s+='<rect x="510" y="226" width="140" height="18" fill="#C0C6D0"/><line x1="520" y1="244" x2="520" y2="410" stroke-width="10"/><line x1="640" y1="244" x2="640" y2="410" stroke-width="10"/>'
+    s+=man(580,72,"happy")+'<path d="M576,222 L568,226 M594,222 L604,226"/>'
+    s+='<path d="M566,118 L540,170 M596,118 L620,170"/>'
+    s+=TAIL; open(OUT+"line-bridge-test.svg","w").write(s)
+
+    # 3. A small wedding: ten guests and a sheet cake
+    s=head(W,H,"#FFD23F")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=man(260,174,"happy","#141414")+legs(260,324,12)
+    s+=man(360,184,"happy","#FFFFFF")+'<path d="M330,330 L390,330 L410,408 L310,408 Z" fill="#fff"/>'
+    s+='<path d="M330,170 C300,190 300,260 320,300" stroke="#E8E8E8" stroke-width="6" fill="none"/>'
+    s+='<path d="M276,220 L310,250 L340,240"/><path d="M246,220 L230,290"/>'
+    s+='<rect x="460" y="320" width="160" height="14" rx="4" fill="#9C6B3C"/><line x1="470" y1="334" x2="470" y2="408"/><line x1="610" y1="334" x2="610" y2="408"/>'
+    s+='<rect x="490" y="286" width="100" height="34" rx="4" fill="#fff"/><path d="M500,296 q10,8 20,0 q10,8 20,0 q10,8 20,0 q10,8 20,0" stroke="#FF8FB1" stroke-width="4"/>'
+    for i,(x,c) in enumerate([(80,"#FF7A59"),(140,"#2FB3A8"),(560,"#7B4FD6")]):
+        if x==560: continue
+        s+=f'<circle cx="{x}" cy="300" r="20" fill="#fff"/><path d="M{x-8},298 q4,-4 8,0 M{x+2},298 q4,-4 8,0" stroke-width="3"/><path d="M{x-14},320 C{x-20},340 {x-18},380 {x-14},408 L{x+14},408 C{x+18},380 {x+20},340 {x+14},320 Z" fill="{c}"/>'
+    for (x,y) in [(200,80),(300,60),(420,90),(520,70)]: s+=f'<rect x="{x}" y="{y}" width="10" height="10" fill="#FF5FA2" stroke="none" transform="rotate(30 {x} {y})"/>'
+    s+=TAIL; open(OUT+"marry-her-small-wedding.svg","w").write(s)
+
+    # 4. The test spoils the result: a fogged windshield
+    s=head(W,H,"#9BD13A")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<path d="M60,380 L60,250 C90,180 160,140 260,140 L440,140 C520,140 580,190 620,250 L620,380 Z" fill="#FF3B30"/>'
+    s+='<path d="M120,250 C150,200 200,175 260,175 L430,175 C490,175 530,205 560,250 Z" fill="#E8EEF5"/>'
+    for (x,y,r) in [(200,220,22),(260,210,26),(330,224,24),(400,212,22),(470,224,26),(300,236,18)]: s+=f'<circle cx="{x}" cy="{y}" r="{r}" fill="#fff" stroke="none" opacity="0.9"/>'
+    s+='<circle cx="150" cy="390" r="34" fill="#141414"/><circle cx="530" cy="390" r="34" fill="#141414"/><circle cx="150" cy="390" r="12" fill="#C0C6D0"/><circle cx="530" cy="390" r="12" fill="#C0C6D0"/>'
+    s+=TAIL; open(OUT+"test-drive-fogged-windshield.svg","w").write(s)
+
+    # 5. Say it early and plainly, over coffee
+    s=head(W,H,"#FF8FB1")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="240" y="290" width="200" height="14" rx="4" fill="#9C6B3C"/><line x1="340" y1="304" x2="340" y2="408"/><rect x="300" y="400" width="80" height="10" fill="#9C6B3C"/>'
+    s+='<rect x="276" y="264" width="24" height="26" rx="4" fill="#fff"/><rect x="380" y="264" width="24" height="26" rx="4" fill="#fff"/>'
+    s+='<path d="M282,256 q-4,-8 0,-14 M394,256 q-4,-8 0,-14" stroke-width="3"/>'
+    s+=man(180,206,"happy")+'<path d="M176,356 L176,408"/><path d="M194,356 L230,408"/><rect x="130" y="356" width="90" height="14" rx="5" fill="#9C6B3C"/><path d="M196,250 L240,286"/>'
+    s+=man(500,206,"happy","#FFD23F")+'<path d="M496,356 L470,408"/><path d="M514,356 L514,408"/><rect x="460" y="356" width="90" height="14" rx="5" fill="#9C6B3C"/><path d="M484,250 L440,286"/>'
+    s+='<path d="M470,180 C460,150 540,150 530,180 C540,210 530,240 520,250" stroke="#9C6B3C" stroke-width="8" fill="none"/>'
+    s+=TAIL; open(OUT+"wait-over-coffee.svg","w").write(s)
+
 if __name__=="__main__":
-    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28"]
+    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29"]
     for b in which: globals()["batch"+b](OUT)

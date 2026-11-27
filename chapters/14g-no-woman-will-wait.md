@@ -16,6 +16,8 @@ The old way doesn't find a wife faster. It stuffs the years with nights, so a ma
 
 You may dread the sentence itself. Say it early and plainly, over coffee, not in bed, and don't preach. "I like you. I've decided to keep sex for marriage. That is about me. It is no verdict on you."
 
+![](images/illustrations/wait-over-coffee.png){.illustration width=80%}
+
 If she laughs, let her laugh. If she asks why, tell her the truth. You've seen what the other way did to you. If she asks about the women before her, tell her the truth about that too.
 
 And don't hide behind the line. A man who's stopped using women still has to cross the room, ask her to dinner, and risk a no. The line doesn't make that easier. It makes you a man who can hear the no and still stand up straight.
