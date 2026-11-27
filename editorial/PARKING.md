@@ -2004,3 +2004,107 @@ Strange, isn't it? Millions of men do this, many of them daily, and hardly one w
 ## Nobody sold it to you {-}
 
 Think about how you started. Nobody sat you down and sold it to you. Your own body turned up one day with a new trick. The jokes in the locker room said every boy did it, so you didn't think twice. Porn arrived just as quietly: a pop-up, a friend's phone, a link somebody sent as a joke.
+
+## 2026-11-27, A Master, Not a Habit before the tightening (James drifted off reading it)
+
+Full previous body, for anything worth restoring:
+
+# A Master, Not a Habit {#a-master-not-a-habit}
+
+When every other explanation has collapsed, most men settle on this one: it's only a habit, and habits are hard to break.
+
+It sounds like an answer, but it isn't one.
+
+Are habits hard to break? You break them all the time. You move to a new house, and for two days your hand slaps the wrong wall for the light switch. By the weekend it doesn't.
+
+ You rent a car in a country that drives on the other side, and after one nervous mile you're fine. You start a new job and your whole morning is rearranged within a week. People drop thirty-year habits without a backward glance, even ones they loved.
+
+So why would this one be different? It leaves you restless when you skip it and ashamed when you don't. Put a button on your nightstand that would wipe it out of your life, and you'd smash the nightstand pressing it. And stopping asks nothing of you. You only have to not do one thing. Why can't you?
+
+Because it isn't a habit.
+
+Jesus had the right word for it. He was arguing with men who said they'd never been anyone's slaves, and he told them, "Everyone who commits sin is the bondservant of sin." A bondservant is a slave. Long before anyone said the word addiction, he'd named what it feels like from the inside. A man with a habit is in charge of it. This thing is in charge of you. Call it sin, or addiction, or a trap. Men call it the habit, and so will this book. Just never forget what it is. IT'S A MASTER, NOT A HABIT.
+
+The men who've gotten out reach for the same word without being told. One of them, eight months clean, looked back and counted. He wrote that he'd been a slave to it since he was twelve years old. He was thirty.
+
+That's why it seems so hard to "give up". The slave has come to believe his master is also his comforter. He thinks the pleasure is worth its price. He thinks it's a crutch that holds him up. He thinks life without it would have a hole in the middle.
+
+And there's only one master. The thing that sends you to the bathroom with your hand is the same thing that opens the porn site. They look like two habits, but one master stands behind both.
+
+Now look at who's been giving the orders. That's the joke. For years you've been running up the stairs for a pipsqueak in your own back room. He bangs, he wails, he kicks his little feet, and you come running with his plate. He can't make you do a thing. The lies do that. They told you he was paying, and they made a pipsqueak look like a king. Take the lies away, and the master is just a pest in a back room.
+
+
+Now the good news. Once you see how the master holds you, and why you really reach for the habit, you'll stop. Just like that. Before long only two mysteries will be left. One is how it ever had a grip on you. The other is why you can't get your friends to see what you see.
+
+## The quiet trap {-}
+
+Start with the first mystery. How did it ever get a grip on you?
+
+Because the trap is quiet. Your own flesh supplies the bait, and the world stands around telling you it isn't a trap at all.
+
+
+A boy gets no warning. Cigarettes at least bring a cough and a label on the box. His own hand brings no dealer, no price, no hangover and no smell on his clothes. Nothing flashes red. Why would it?
+
+Later something does feel wrong: the first guilt, or the first prayer he doesn't quite want to finish. But the routine is already laid down. From then on he's like every other man in the trap. He wonders why he keeps doing it, and now and then he tries to break out.
+
+So whose fault is it? One man who got out said it well: "I would say it is our fault and not our fault at the same time". He's right on both counts. Nobody chooses to walk into the trap, but a man does have to choose to walk out.
+
+When does a man try to break out? Almost never on a good day. He decides after something goes wrong.
+
+- He's nearly caught.
+- A friend says something that lands.
+- He looks at his wife and feels like a fraud.
+- He's with a real woman, and his body lets him down.
+
+So he quits on the very day he feels worst, which is the very day he most wants his old comforter. He's stacked a second misery on the first and thrown away the only comfort he knows.
+
+
+A few days of that, and his resolve melts away. "I picked a bad week. I'll do it when things calm down. After finals. When I've got a girlfriend. Once I'm married." Then things do calm down, and with the pressure off, the reason to stop is gone too. He drifts on until the next incident.
+
+
+Each year the calm weeks get fewer. He's left home, there's a job, rent, a wife, small children. Life, he decides, just gets more stressful as you go.
+
+Not as much as he thinks. He's mixing up responsibility with stress. He wasn't carefree at fourteen. He was a bundle of nerves. What's grown is the habit's share of the load. It doesn't calm a man down. It winds him up, quietly, one guilty night at a time: another secret to keep, another promise broken, another morning started already behind. He blames the job.
+
+
+You're not quitting yet, and nobody's asking you to cut down. So the next time a day flattens you, go ahead and carry his plate up. Just ask one thing on the way back down the stairs. Did you take the edge off? Or did you give in to a tantrum?
+
+## The two causes {-}
+
+Stopping can be easy for any man. First you need the facts about why you're still doing it, and they aren't frightening. They come down to two things:
+
+1. **The flesh.**
+2. **The world's lies.**
+
+Take those two away, and nothing is left to hold you.
+
+The men who've walked out aren't missing a thing. They aren't clenching their jaws or staring back with longing. If anything they seem faintly puzzled that they ever bothered.
+
+
+Before long you'll be one of them. Jesus said the truth makes a man free, and a few verses later he said it's the Son, meaning himself, who does it. This book is about one small corner of that truth: the lies lust tells. If you're not a believer, you can still test those lies for yourself.
+
+Take the flesh first. It's the smaller of the two, and it's not what you think it is.
+
+## 2026-11-27, The Flesh, first half before the tightening
+
+First, get one thing straight. There's nothing wrong with your sex drive.
+
+A Christian will tell you God made it, and made it strong on purpose. Desire for a woman is the reason any of us are here. It's meant to pull a man out of himself and toward a wife, a home and children.
+
+If you don't believe, the point still stands. That drive gets a man out of his room and toward a woman he can build a home with. No family was ever started behind a locked door with a phone.
+
+C.S. Lewis, the Christian writer best known for the Narnia stories, also wrote a book called *The Screwtape Letters*. In it a senior devil named Screwtape writes to a junior devil, coaching him on how to tempt one ordinary man. At one point Screwtape grumbles about God: "He made the pleasures: all our research so far has not enabled us to produce one." Hell can't make a pleasure. It can only bend one.
+
+A preacher who was bound by this habit for years sums it up in a line. The trouble, he says, is "the wrong use of the right thing. Pleasure is not bad."
+
+The wrong use comes from what Paul calls "the flesh". Paul was the apostle who wrote much of the New Testament, and in a letter to the churches of Galatia he wrote that "the flesh lusts against the Spirit". By the Spirit he means God's own Spirit at work in a man. By the flesh he doesn't mean your skin. He means the part of a man that wants what it wants, now, for itself, whatever it costs. If you're not a believer, call it appetite. Whatever you call it, you've met it.
+
+Lust is what happens when the flesh gets hold of desire. Desire says, "She is lovely." Lust says, "I want that, for me, now." Desire sees a person. Lust sees something to use.
+
+There's an old word for a thing set apart for a high use: holy. Your body is in that class, and so is the drive God put in it. Paul asks his readers, "don't you know that your body is a temple of the Holy Spirit who is in you". He isn't saying your body is dirty. He's saying it's too good for this. If you're not a believer, think of something you'd never use carelessly, like your grandfather's watch. Lust picks up the watch and hammers a nail with it.
+
+
+
+Lust feeds in more ways than one. Masturbation is the plainest case, so we'll use it to show how lust works. A drive built to bind a man to one woman ends in a wad of tissue. It's a hijacking, and the plane lands nowhere.
+
+

@@ -6,24 +6,33 @@
 
 First, get one thing straight. There's nothing wrong with your sex drive.
 
-A Christian will tell you God made it, and made it strong on purpose. Desire for a woman is the reason any of us are here. It's meant to pull a man out of himself and toward a wife, a home and children.
+A Christian will tell you God made it, and made it strong on purpose. It's the reason any of us are here.
 
-If you don't believe, the point still stands. That drive gets a man out of his room and toward a woman he can build a home with. No family was ever started behind a locked door with a phone.
+If you don't believe, the point still stands. That drive gets a man out of his room and toward a woman he can build a home with. No family ever started behind a locked door with a phone.
 
-C.S. Lewis, the Christian writer best known for the Narnia stories, also wrote a book called *The Screwtape Letters*. In it a senior devil named Screwtape writes to a junior devil, coaching him on how to tempt one ordinary man. At one point Screwtape grumbles about God: "He made the pleasures: all our research so far has not enabled us to produce one." Hell can't make a pleasure. It can only bend one.
+C.S. Lewis, who wrote the Narnia stories, also wrote a book of letters from a senior devil named Screwtape to a junior one, coaching him on how to tempt a man. At one point Screwtape grumbles about God: "He made the pleasures: all our research so far has not enabled us to produce one."
 
-A preacher who was bound by this habit for years sums it up in a line. The trouble, he says, is "the wrong use of the right thing. Pleasure is not bad."
+Hell can't make a pleasure. It can only bend one.
 
-The wrong use comes from what Paul calls "the flesh". Paul was the apostle who wrote much of the New Testament, and in a letter to the churches of Galatia he wrote that "the flesh lusts against the Spirit". By the Spirit he means God's own Spirit at work in a man. By the flesh he doesn't mean your skin. He means the part of a man that wants what it wants, now, for itself, whatever it costs. If you're not a believer, call it appetite. Whatever you call it, you've met it.
+## What bends it {-}
 
-Lust is what happens when the flesh gets hold of desire. Desire says, "She is lovely." Lust says, "I want that, for me, now." Desire sees a person. Lust sees something to use.
+Paul, the apostle who wrote much of the New Testament, had a name for what does the bending. He called it "the flesh". He wrote that it "lusts against the Spirit", meaning God's own Spirit at work in a man.
 
-There's an old word for a thing set apart for a high use: holy. Your body is in that class, and so is the drive God put in it. Paul asks his readers, "don't you know that your body is a temple of the Holy Spirit who is in you". He isn't saying your body is dirty. He's saying it's too good for this. If you're not a believer, think of something you'd never use carelessly, like your grandfather's watch. Lust picks up the watch and hammers a nail with it.
+He doesn't mean your skin. He means the part of a man that wants what it wants, now, for itself, whatever it costs. If you're not a believer, call it appetite. Either way, you've met it.
+
+Lust is what happens when the flesh gets hold of desire.
+
+Desire says, "She's lovely." Lust says, "I want that, for me, now."
+
+Desire sees a person. Lust sees something to use.
+
+Paul asked his readers, "don't you know that your body is a temple of the Holy Spirit who is in you". He isn't saying your body is dirty. He's saying it's too good for this.
+
+If you're not a believer, think of your grandfather's watch. You'd never use it carelessly. Lust picks up the watch and hammers a nail with it.
 
 ![](images/illustrations/flesh-watch-as-a-hammer.png){.illustration width=80%}
 
-
-Lust feeds in more ways than one. Masturbation is the plainest case, so we'll use it to show how lust works. A drive built to bind a man to one woman ends in a wad of tissue. It's a hijacking, and the plane lands nowhere.
+Masturbation is the plainest case, so we'll use it to show how lust works. A drive built to bind a man to one woman ends in a wad of tissue. It's a hijacking, and the plane lands nowhere.
 
 ![](images/illustrations/flesh-the-hijacked-plane.png){.illustration width=80%}
 
@@ -37,7 +46,9 @@ It's simple, and you can check every step against your own life.
 2. **An urge.** A small, restless "go on".
 3. **Relief.** You do it, or you open the site. The fidgeting stops.
 
-That's the loop: cue, urge, relief. Every lap around it teaches you that this cue leads to that relief. Do it a few hundred times and you know the lesson by heart. The cue alone now sets off the urge. You step into the shower, and upstairs the banging starts. You don't have to be aroused, or in the mood, or even paying attention.
+That's the loop: cue, urge, relief. Every lap teaches you that this cue leads to that relief. Do it a few hundred times and you know the lesson by heart.
+
+Now the cue alone sets off the urge. You step into the shower, and upstairs the banging starts. You don't have to be aroused, or in the mood, or even paying attention.
 
 ![](images/illustrations/flesh-the-shower-cue.png){.illustration width=80%}
 
@@ -46,7 +57,9 @@ It's a shortcut across a lawn. The first time, you barely leave a mark. Walk the
 ![](images/illustrations/flesh-path-across-the-lawn.png){.illustration width=80%}
 
 
-You don't have a broken brain or a weak character. You have a path worn in the grass. And grass grows back. The path isn't what keeps you on it. What keeps you on it is the belief that something good waits at the other end.
+You don't have a broken brain or a weak character. You have a path worn in the grass. And grass grows back.
+
+The path isn't what keeps you on it. What keeps you on it is the belief that something good waits at the other end.
 
 One more thing. The urge isn't really desire for a woman. It's the wish to end a restless feeling. Hold on to that, because everything hangs on it.
 
@@ -104,3 +117,5 @@ That restless feeling is the Little Monster. Time to meet him properly.
 <!-- 2026-11-24 reader panel: 'No child was ever made behind a locked door' (false as stated) is now 'No family was ever started behind a locked door with a phone'; Lewis named as a Christian writer; 'the Spirit' explained; the path in the grass reconciled with 'a master, not a habit' (grass grows back; the belief keeps him on the path). -->
 
 <!-- 2026-11-25 (James: 'be generous with the images'): one more drawing, the hijacked plane. -->
+
+<!-- 2026-11-27 (James drifted off in the chapter before; this one checked the same way since he reads it next). First half tightened and given a heading ('What bends it'); the preacher's line and the 'old word: holy' sentence cut as repeats (parked in editorial/PARKING.md); long paragraphs split. Quotes and drawings kept. -->
