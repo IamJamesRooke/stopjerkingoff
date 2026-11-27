@@ -14,6 +14,8 @@ Get this straight in your head:
 
 You've got the proof in your own years. Every year you get less out of it and want it more.
 
+![](images/illustrations/giving-up-digging-the-hole.png){.illustration width=80%}
+
 ## There's nothing to give up {-}
 
 Once the Little Monster has starved and the Big Monster has been cleared out of your head, you won't want to masturbate. You won't want the porn either. You won't be resisting. You just won't want them, any more than you want to chew your pen.
@@ -22,7 +24,9 @@ Where does the habit leave a man? Nights he does it, he's flat, guilty and a bit
 
 Picture yourself at a family gathering, slipping upstairs with your phone. If anyone had known, he wouldn't have thought, "Lucky man, off to enjoy himself." He'd have thought, "Poor guy, he can't sit through dinner." You weren't up there for fun. You couldn't stand being without it. No free man does that.
 
-**"But I'd be giving up sex."** No. If you're married, you're about to get it back. The habit has been quietly spending, alone, what belongs to the two of you. Lewis drew a sharp line between wanting a woman and wanting a sensation. The man after the sensation, he said, "wants a pleasure for which a woman happens to be the necessary piece of apparatus." Masturbation cuts out even the apparatus. Ask the men who've stopped. One wrote that he'd gained a "stronger real sex drive without wanting an easy release like porn".
+![](images/illustrations/giving-up-slipping-upstairs.png){.illustration width=80%}
+
+**"But I'd be giving up sex."** No. If you're married, you're about to get it back. The habit has been quietly spending, alone, what belongs to the two of you. C.S. Lewis, the Christian writer, drew a sharp line between wanting a woman and wanting a sensation. The man after the sensation, he said, "wants a pleasure for which a woman happens to be the necessary piece of apparatus." Masturbation cuts out even the apparatus. Ask the men who've stopped. One wrote that he'd gained a "stronger real sex drive without wanting an easy release like porn".
 
 **"But I'm single. It's all I've got."** Then all you've got is a rehearsal for being alone. And look what it does about that. Every night it takes the edge off the loneliness that would have sent you looking for a wife. No wonder all you've got stays all you've got.
 
@@ -57,6 +61,8 @@ A skeptic on a recovery forum, halfway through EasyPeasy, raised a fair objectio
 Paul said the same of his own life, in his letter to the Philippians: "I consider those things that were gain to me as a loss for Christ." Paul had a list of credentials he'd once counted as profit. He didn't give them up through gritted teeth. He set them beside what he'd found, Christ himself, and moved all of it to the other side of the ledger. In the next verse he called them "refuse", which is a polite translation. No boasting about a sacrifice. He'd seen what that pile was worth.
 
 That's where you're headed. You won't be a man bravely doing without. You'll look at the tube of cream and wonder how you ever thought it was medicine.
+
+![](images/illustrations/giving-up-cream-in-the-bin.png){.illustration width=80%}
 
 It's a fine thing to be free!
 

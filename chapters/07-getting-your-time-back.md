@@ -34,6 +34,8 @@ The act is the smallest part of it.
 
 Then add the biggest cost: the things that never happened. The book you didn't write. The business you've talked about for five years. The language, the instrument, the friend you never called back. One coach says the habit leaves you "a man with a bunch of ideas, but zero execution". Every man with a drawer full of half-started projects knows what he means.
 
+![](images/illustrations/time-drawer-of-projects.png){.illustration width=80%}
+
 ## The job offer {-}
 
 Suppose I offered you a job tomorrow. Same work, same pay, same boss, plus an extra month off every year, fully paid, for the rest of your career.
@@ -42,6 +44,8 @@ You'd sign before I finished the sentence. Your only problem would be where to g
 
 Every other decision in your life gets weighed. You look at what you'd gain and what it costs, and you choose. Maybe badly, but you choose. Weigh this habit honestly and the scales crash down on one side, and the verdict comes back as a shout: "STOP. YOU'RE BEING ROBBED." So he doesn't weigh it. He hasn't decided to carry on. He carries on because he believes he can't stop, and he keeps his eyes off the scales so he can live with himself.
 
+![](images/illustrations/time-eyes-off-the-scales.png){.illustration width=80%}
+
 A young man who fought this for nineteen years said: "I can't tell you how many years I've wasted battling with the lust". Nobody can hand those years back. But he has decades still to come, and so do you.
 
 Men who've stopped report one surprise: how much room there suddenly is. One says, "I'm actually reading books again for the first time in a decade". Another took up the piano in the space the habit left. Put that room to work. Pick one goal you could reach in three or four months, and pour the hours into it.
@@ -49,6 +53,8 @@ Men who've stopped report one surprise: how much room there suddenly is. One say
 At the end of this book you'll make your decision. Staying free after that takes one thing: you don't do it, and you don't fall for "just this once". If that phrase ever tempts you, remember what it costs. Not ten minutes. The years.
 
 Paul has a phrase for what you're about to do: "redeeming the time". To redeem a thing is to buy it back, like a man buying back the watch he pawned. Those hours were always yours. You're about to walk in and take them back, and it won't cost you a dime.
+
+![](images/illustrations/time-buying-back-the-watch.png){.illustration width=80%}
 
 Time is the cost you can count. The others are harder to see, because you've trained yourself not to look.
 

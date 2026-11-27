@@ -1762,6 +1762,85 @@ def batch18(OUT):
     s+='<path d="M576,320 C566,340 566,370 578,382 L604,382 C612,370 612,340 602,320 Z" fill="#2FB3A8"/><path d="M584,382 L582,408"/><path d="M598,382 L602,408"/><path d="M602,330 L618,300"/>'
     s+=TAIL; open(OUT+"lonely-the-wall.svg","w").write(s)
 
+# ---- Batch 19: What Am I Giving Up?, Getting Your Time Back ----
+def batch19(OUT):
+    W,H=680,440
+    # 1. The habit doesn't fill a hole, it digs one
+    s=head(W,H,"#7FD3FF")
+    s+='<rect x="30" y="120" width="190" height="290" fill="#9C6B3C" stroke="none"/><rect x="460" y="120" width="190" height="290" fill="#9C6B3C" stroke="none"/>'
+    s+='<path d="M30,120 L220,120 L220,410 M460,410 L460,120 L650,120"/><line x1="220" y1="410" x2="460" y2="410"/>'
+    s+='<path d="M490,120 C510,60 610,60 630,120 Z" fill="#C9965E"/>'
+    s+=man(330,174,"blank")+legs(330,324,16)
+    s+='<path d="M316,220 L300,280"/><path d="M346,220 L380,270"/>'
+    s+=f'<line x1="300" y1="250" x2="410" y2="340" stroke-width="6"/><rect x="396" y="328" width="34" height="46" rx="5" fill="{INK}" transform="rotate(40 413 351)"/>'
+    s+=TAIL; open(OUT+"giving-up-digging-the-hole.svg","w").write(s)
+
+    # 2. Slipping upstairs with the phone during the family dinner
+    s=head(W,H,"#FFD23F")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<path d="M330,410 L330,380 L370,380 L370,350 L410,350 L410,320 L450,320 L450,290 L490,290 L490,260 L530,260 L530,230 L650,230"/>'
+    s+='<rect x="40" y="320" width="230" height="16" rx="5" fill="#9C6B3C"/><line x1="60" y1="336" x2="60" y2="408"/><line x1="250" y1="336" x2="250" y2="408"/>'
+    for i,(x,c) in enumerate([(80,"#FF7A59"),(155,"#2FB3A8"),(230,"#FF8FB1")]):
+        s+=f'<circle cx="{x}" cy="262" r="22" fill="#fff"/><path d="M{x-8},258 q4,-4 8,0" stroke-width="3"/><path d="M{x+4},258 q4,-4 8,0" stroke-width="3"/><path d="M{x-6},270 q7,6 14,0" stroke-width="3"/>'
+        s+=f'<path d="M{x-16},286 C{x-24},300 {x-22},316 {x-18},320 L{x+18},320 C{x+22},316 {x+24},300 {x+16},286 Z" fill="{c}"/>'
+        s+=plate(x,318,22,6)
+    s+=man(470,104,"squeeze")
+    s+='<path d="M466,254 L440,318"/><path d="M484,254 L506,258 L508,288"/>'
+    s+=f'<path d="M456,150 L430,190"/><path d="M486,150 L520,180"/><rect x="514" y="166" width="20" height="30" rx="4" fill="{INK}"/>'
+    s+=TAIL; open(OUT+"giving-up-slipping-upstairs.svg","w").write(s)
+
+    # 3. He looks at the tube of cream and wonders how he ever thought it was medicine
+    s=head(W,H,"#9BD13A")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=man(260,174,"happy")+legs(260,324,16)
+    s+='<path d="M246,220 L226,170 L232,146"/><path d="M276,220 L330,250 L390,260"/>'
+    s+='<path d="M430,300 L520,300 L508,408 L442,408 Z" fill="#C0C6D0"/><line x1="460" y1="320" x2="456" y2="392"/><line x1="490" y1="320" x2="494" y2="392"/>'
+    s+=f'<path d="M440,290 L470,236 L486,244 L458,298 Z" fill="#fff"/><path d="M470,236 L486,244 L494,228 L478,222 Z" fill="{RED}"/>'
+    for (x1,y1,x2,y2) in [(406,256,426,246),(410,272,430,272)]:
+        s+=f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke-width="4"/>'
+    for (x1,y1,x2,y2) in [(190,140,174,128),(200,110,192,92),(320,120,334,104)]:
+        s+=f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="{YEL}" stroke-width="5"/>'
+    s+=TAIL; open(OUT+"giving-up-cream-in-the-bin.svg","w").write(s)
+
+    # 4. He keeps his eyes off the scales
+    s=head(W,H,"#FF8FB1")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<line x1="440" y1="130" x2="440" y2="400"/><rect x="390" y="396" width="100" height="14" rx="4" fill="#9C6B3C"/>'
+    s+='<line x1="340" y1="90" x2="540" y2="170" stroke-width="7"/><circle cx="440" cy="130" r="9" fill="#9C6B3C"/>'
+    s+='<line x1="340" y1="90" x2="320" y2="160"/><line x1="340" y1="90" x2="360" y2="160"/><path d="M300,160 L380,160 Q340,186 300,160 Z" fill="#fff"/>'
+    s+='<line x1="540" y1="170" x2="510" y2="300"/><line x1="540" y1="170" x2="570" y2="300"/><path d="M480,300 L600,300 Q540,340 480,300 Z" fill="#fff"/>'
+    for i,(x,y,c) in enumerate([(515,276,"#C0C6D0"),(545,268,"#9C6B3C"),(570,282,"#C0C6D0"),(530,252,"#FF7A59")]):
+        s+=f'<rect x="{x-14}" y="{y-12}" width="28" height="24" rx="4" fill="{c}" stroke-width="3.5"/>'
+    s+=f'<circle cx="340" cy="150" r="8" fill="{LIME}" stroke-width="3"/>'
+    s+=man(170,174,"squeeze")+legs(170,324,16)
+    s+='<path d="M156,220 L196,262"/><path d="M186,220 L146,262"/>'
+    s+='<path d="M120,150 q-10,-14 0,-28 M110,160 q-16,-20 0,-44" stroke-width="4"/>'
+    s+=TAIL; open(OUT+"time-eyes-off-the-scales.svg","w").write(s)
+
+    # 5. The drawer of half-started projects
+    s=head(W,H,"#FF7A59")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="200" y="200" width="280" height="210" fill="#9C6B3C"/><rect x="190" y="160" width="300" height="70" fill="#C9965E"/>'
+    s+='<line x1="200" y1="300" x2="480" y2="300"/><circle cx="340" cy="350" r="8" fill="#fff"/>'
+    s+='<path d="M230,170 L250,70 L274,74 L258,172" fill="#FFD23F"/><circle cx="262" cy="60" r="14" fill="#FFD23F"/>'
+    s+='<rect x="290" y="110" width="70" height="60" fill="#2F6BFF" transform="rotate(-10 325 140)"/><line x1="300" y1="130" x2="346" y2="122" stroke="#fff" stroke-width="3"/>'
+    s+='<path d="M380,170 L392,90 L440,96 L430,172 Z" fill="#fff"/><line x1="398" y1="112" x2="430" y2="116" stroke-width="3"/><line x1="396" y1="130" x2="424" y2="134" stroke-width="3"/>'
+    s+=f'<path d="M444,170 l14,-60 l16,4 l-14,60" fill="#C0C6D0"/><path d="M458,110 l6,-14 l8,2 l-2,14" fill="{RED}"/>'
+    s+=TAIL; open(OUT+"time-drawer-of-projects.svg","w").write(s)
+
+    # 6. Redeeming the time: buying back the pawned watch
+    s=head(W,H,"#2FB3A8")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="340" y="260" width="300" height="150" fill="#9C6B3C"/><rect x="330" y="246" width="320" height="20" fill="#C9965E"/>'
+    s+=man(530,110,"flat","#7B4FD6")+'<path d="M516,156 L490,230"/>'
+    s+=man(220,174,"happy")+legs(220,324,16)
+    s+='<path d="M236,220 L310,236 L380,226"/><path d="M206,220 L190,290"/>'
+    s+=f'<circle cx="420" cy="214" r="26" fill="{YEL}"/><circle cx="420" cy="214" r="18" fill="#fff" stroke-width="3"/><path d="M420,202 L420,214 L430,220" stroke-width="3.5"/><path d="M420,188 L420,176 M412,176 L428,176"/>'
+    s+=f'<path d="M490,230 L446,222"/>'
+    for (x1,y1,x2,y2) in [(380,170,370,154),(420,160,420,142),(460,170,470,154)]:
+        s+=f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="{YEL}" stroke-width="5"/>'
+    s+=TAIL; open(OUT+"time-buying-back-the-watch.svg","w").write(s)
+
 if __name__=="__main__":
-    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17","18"]
+    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17","18","19"]
     for b in which: globals()["batch"+b](OUT)
