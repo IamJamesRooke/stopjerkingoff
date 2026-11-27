@@ -14,56 +14,132 @@ C.S. Lewis, who wrote the Narnia stories, also wrote a book of letters from a se
 
 Hell can't make a pleasure. It can only bend one.
 
+That goes for a lot more than sex. Name any sin you like, and dig under it. You'll hit something good, bent out of shape.
+
 ## What bends it {-}
 
 Paul, the apostle who wrote much of the New Testament, had a name for what does the bending. He called it "the flesh". He wrote that it "lusts against the Spirit", meaning God's own Spirit at work in a man.
 
 He doesn't mean your skin. He means the part of a man that wants what it wants, now, for itself, whatever it costs. If you're not a believer, call it appetite. Either way, you've met it.
 
-Lust is what happens when the flesh gets hold of desire.
+The flesh never invents a thing. It's got nothing of its own to work with. All it can do is grab something good and twist it. More. Now. For me.
 
-Desire says, "She's lovely." Lust says, "I want that, for me, now."
+Augustine saw this sixteen hundred years ago. He was a bishop in North Africa who'd spent his youth chasing women and chasing applause. He said being good comes down to loving things in the right order.
 
-Desire sees a person. Lust sees something to use.
+Sin, then, isn't loving something bad. It's loving something good in the wrong place.
 
-Paul asked his readers, "don't you know that your body is a temple of the Holy Spirit who is in you". He isn't saying your body is dirty. He's saying it's too good for this.
+Loving your steak is fine. Loving your steak more than your daughter is how a man misses her school play to make a dinner reservation.
 
-If you're not a believer, think of your grandfather's watch. You'd never use it carelessly. Lust picks up the watch and hammers a nail with it.
+## The oldest list {-}
 
-![](images/illustrations/flesh-watch-as-a-hammer.png){.illustration width=80%}
+Christians have been tracking the bends for a long time.
 
-Masturbation is the plainest case, so we'll use it to show how lust works. A drive built to bind a man to one woman ends in a wad of tissue. It's a hijacking, and the plane lands nowhere.
+In the late 300s a monk named Evagrius lived out in the Egyptian desert. He wrote down eight bad thoughts that kept dragging monks away from prayer.
 
-![](images/illustrations/flesh-the-hijacked-plane.png){.illustration width=80%}
+Two hundred years later Gregory the Great, a pope in Rome, trimmed the list to seven. He called them the capital sins, from the Latin word for head, because every other sin grows out of one of them. Most people call them the seven deadly sins.
 
-## How the loop works {-}
+Then Thomas Aquinas, an Italian friar in the 1200s whose books are still the backbone of Catholic teaching, noticed something. Every sin on the list is chasing something good.
 
-You'll find plenty of videos that explain this habit with brain chemistry and diagrams. Skip them. Some of it is shaky, and you don't need a drop of it. You don't have to understand an engine to notice the car keeps pulling left.
+Here they are. Watch what's under each one. Then watch what it costs.
 
-It's simple, and you can check every step against your own life.
+## Pride {-}
 
-1. **A cue.** You get into bed. You step into the shower. The house goes quiet. You're bored, or wound up, or lonely, or a photo on your phone caught your eye.
-2. **An urge.** A small, restless "go on".
-3. **Relief.** You do it, or you open the site. The fidgeting stops.
+Gregory called pride the queen of the sins, the root the rest grow from.
 
-That's the loop: cue, urge, relief. Every lap teaches you that this cue leads to that relief. Do it a few hundred times and you know the lesson by heart.
+The good under it is self-respect. A carpenter steps back from a cabinet whose doors close flush and says, "That's good work." He's right to say it. In the Bible's first chapter, God looks at what he made and calls it good.
 
-Now the cue alone sets off the urge. You step into the shower, and upstairs the banging starts. You don't have to be aroused, or in the mood, or even paying attention.
+Bent, it stops being about the work and starts being about the next guy. Lewis pointed out that pride gets no pleasure from having something. It only enjoys having more of it than the man beside you.
 
-![](images/illustrations/flesh-the-shower-cue.png){.illustration width=80%}
+![](images/illustrations/flesh-pride-wont-ask.png){.illustration width=80%}
 
-It's a shortcut across a lawn. The first time, you barely leave a mark. Walk the same line every night for ten years and you've worn a bare strip of dirt, and your feet take it without asking.
+Here's how it backfires. A proud man can't be told anything. He'll drive an hour the wrong way before he'll ask for directions. He can't learn, because learning starts with "I don't know."
 
-![](images/illustrations/flesh-path-across-the-lawn.png){.illustration width=80%}
+He wanted to be looked up to. He ends up the guy nobody bothers to correct.
 
+## Greed {-}
 
-You don't have a broken brain or a weak character. You have a path worn in the grass. And grass grows back.
+The good under it is ambition. A man works the extra shift so his kids have shoes and his wife isn't scared to open the mail. Wanting more for the people you love built every business on your street.
 
-The path isn't what keeps you on it. What keeps you on it is the belief that something good waits at the other end.
+Bent, it wants more for the sake of more. And it trips over its own feet.
 
-One more thing. The urge isn't really desire for a woman. It's the wish to end a restless feeling. Hold on to that, because everything hangs on it.
+Take the contractor who pads every bill. He gets paid once. Then nobody calls him back, nobody sends him their brother-in-law, and nobody shows up when his truck dies.
 
-That restless feeling is the Little Monster. Time to meet him properly.
+![](images/illustrations/flesh-greed-on-the-pile.png){.illustration width=80%}
+
+The less good a man does for others, the fewer people want to do good for him. Greed is terrible at the one thing it cares about. It's lousy at looking out for number one.
+
+## Envy {-}
+
+The good under it is admiration. You watch a guy at the gym pull a deadlift you can't touch, and something in you says, "I want to do that." That's fuel. It gets you training.
+
+Bent, it says, "I want him to drop it." Aquinas called envy sorrow at another man's good. It isn't wanting what he's got. It's hating that he's got it.
+
+![](images/illustrations/flesh-envy-over-the-fence.png){.illustration width=80%}
+
+Here's the joke. Envy is the one sin on the list with no fun in it. Greed at least gets the money. Gluttony gets the cake.
+
+Envy gets nothing. Your neighbor's new truck gets keyed, and you're not one dollar richer. You just feel smaller, and a little uglier.
+
+## Anger {-}
+
+The good under it is a sense of justice. A man sees a grown guy shove a kid in a parking lot, and he steps in. That anger is right. Paul told one of his churches, "Be angry, and don't sin."
+
+Bent, it's about you, not about what's right. The guy who took your parking spot. The coworker who made you look bad in a meeting. You don't want it fixed. You want him to pay.
+
+And rage makes a man stupid. Anger aimed at a wrong gets the wrong put right. Rage aimed at a person gets you a hole in the drywall, a cast on your hand and a text you can't unsend.
+
+![](images/illustrations/flesh-anger-the-drywall.png){.illustration width=80%}
+
+You wanted respect. Now you're the guy everybody tiptoes around.
+
+## Sloth {-}
+
+The good under it is rest. In the Bible, God rests on the seventh day, then gives his people a day off every week. If you're not a believer, ask any coach. Muscle grows on rest days.
+
+Sloth isn't rest. The old monks called it the noonday demon. Evagrius, the desert monk who started the list, described its victim at midday. He keeps looking out the window to see if the sun has moved. He's sure the day is fifty hours long.
+
+The slothful man isn't tired. He just can't be bothered with what matters. He'll give six hours to a video game and can't spare ten minutes for his kid.
+
+![](images/illustrations/flesh-sloth-the-couch.png){.illustration width=80%}
+
+Rest charges you up for something. Sloth charges you up for nothing. That's why the man who spent all weekend on the couch is more worn out on Monday than the man who built a deck.
+
+## Gluttony {-}
+
+The good under it is a good meal. Ribs off the smoker. Thanksgiving with the whole family around one table.
+
+Jesus liked a dinner party so much that his enemies, trying to smear him, called him "a gluttonous man and a drunkard". It didn't stick, but it tells you he was no stranger to a full table.
+
+Gregory said there are five ways to bend a meal. You can eat:
+
+- too soon,
+- too expensively,
+- too much,
+- too eagerly,
+- or too fussily.
+
+Only one of those is about how much. The food snob who sends his steak back three times is in the club too.
+
+And gluttony wrecks the taste it's after. The first wing is fantastic. The ninth tastes like nothing. By the fourteenth you're not enjoying chicken anymore. You're just eating, because it's there.
+
+![](images/illustrations/flesh-gluttony-the-ninth-wing.png){.illustration width=80%}
+
+## Every bend costs you the thing {-}
+
+Line them up, and you'll see the pattern.
+
+- The proud man wanted respect, and nobody respects him.
+- The greedy man wanted plenty, and nobody will lift a finger for him.
+- The envious man wanted to matter, and he feels like he matters less.
+- The angry man wanted justice, and he got a cast and an apology to make.
+- The lazy man wanted rest, and he's never been so tired.
+- The glutton wanted to enjoy his food, and he can't taste it.
+
+You don't need a Bible to see it. You've watched it happen to men you know. Maybe you've watched it in the mirror.
+
+That's the con of the flesh. It promises you more of the good thing, and it hands you less. Every single time.
+
+That's six. Gregory put one more at the end of his list. It bends the biggest good of all, the drive that's meant to make two people one. And it's the one that put this book in your hands.
 
 <!-- SOURCES (Chapter 3): every quote below is from the research files; check each against its page before publishing.
 - "I hate it, but I continually feed it." — cha, Covenant Eyes comments, 8 Nov 2016, https://www.covenanteyes.com/blog/three-steps-to-kick-the-habit-of-masturbation/comment-page-6/ (also used in the Introduction; the book counts "seven words")
@@ -119,3 +195,14 @@ That restless feeling is the Little Monster. Time to meet him properly.
 <!-- 2026-11-25 (James: 'be generous with the images'): one more drawing, the hijacked plane. -->
 
 <!-- 2026-11-27 (James drifted off in the chapter before; this one checked the same way since he reads it next). First half tightened and given a heading ('What bends it'); the preacher's line and the 'old word: holy' sentence cut as repeats (parked in editorial/PARKING.md); long paragraphs split. Quotes and drawings kept. -->
+
+<!-- 2026-11-27 SEVEN BENT GOODS (James: 'expand on it, how all of the 7 deadly sins are actually perversions of something good... first, with chapter 7, talking about that screwtape reference... then the chapter after focusing on the sin of lust... use your judgement, make pictures'). The chapter now runs: the drive is good, Screwtape, the flesh, Augustine's love in the right order, the list's history (Evagrius, Gregory, Aquinas), six bent goods with a plain reason each, and the pattern (every bend costs you the thing it chased). Lust is held for the next chapter, The Bent Gift, which now holds this chapter's old sections on desire and lust, the watch, the hijacked plane and the loop, moved unchanged, with their drawings. Nothing was cut. Six new drawings.
+Sources for the new material:
+- Augustine, City of God 15.22: 'a brief and true definition of virtue is, the order of love' (paraphrased, not quoted). Confessions books 2 to 6 for his youth (women and the career in rhetoric).
+- Evagrius Ponticus (d. 399), the eight thoughts, and the noonday demon with the sun that barely moves and the day that seems fifty hours long: Praktikos 12 (paraphrased).
+- Gregory the Great, Moralia in Job 31.45 (c. 590): seven capital sins, pride as their root and 'queen'; five ways of gluttony (hastily, sumptuously, too much, greedily, daintily) as cited by Aquinas, Summa II-II q.148 a.4.
+- Aquinas, Summa I-II q.84 a.4 (capital vices each named from the good they seek); envy as 'sorrow for another's good', Summa II-II q.36 a.1.
+- C.S. Lewis, Mere Christianity, 'The Great Sin' (pride gets no pleasure out of having something, only out of having more than the next man): paraphrased, in copyright, not quoted.
+- Scripture (WEB): Genesis 1:31 referred to; Ephesians 4:26 ('Be angry, and don't sin'); Genesis 2:2-3 and Exodus 20:8-10 referred to; Matthew 11:19 ('a gluttonous man and a drunkard').
+- 'Envy is the one sin with no fun in it' is an old quip (often credited to Joseph Epstein), said in the book's own voice. The carpenter, contractor, gym, parking lot, couch and wings are illustrations.
+-->
