@@ -8,7 +8,9 @@ One case out of many: a California company promised young women their videos wou
 
 Ordinary men watched those videos. Not one thought he was watching a crime. But the man who watches isn't a bystander. He's the customer. The video was made for him, and his visit pays for the next one. Nobody told him. He was sold harmless entertainment, and so were you. It never was.
 
-Whoever she is, she's somebody's daughter. And when it's her own choice, she's been fed a lie of her own: that her worth is her body, and men's hunger is a way to make a living. What ruins the man who watches ruins the woman who's watched.
+Whoever she is, she's somebody's daughter.
+
+![](images/illustrations/porn-lies-somebodys-daughter.png){.illustration width=80%} And when it's her own choice, she's been fed a lie of her own: that her worth is her body, and men's hunger is a way to make a living. What ruins the man who watches ruins the woman who's watched.
 
 **"At least I've never paid for sex."** You have, though nobody told you. In porn a woman is paid to have sex so a man can have his release. That's prostitution with a camera between her and you. The man at the brothel door hands her the money. The man at the screen pays through the site, with a card or with his eyes, because the site sells his attention. Porn is the brothel made cheap, open all night, and sold in every pocket.
 
@@ -49,3 +51,5 @@ One more thing is on that screen, and you've looked straight past him for years.
 <!-- 2026-11-23 PROOF LOOP (James: if she found you at it to a video of her coworker, a neighbor or her friend she'd call it cheating; a stranger changes nothing). Added as a second test under 'It isn't cheating'. -->
 
 <!-- 2026-11-25: closing hook now leads into the new chapter The Other Man on the Screen, which carries the old hook into The Men Who Believed It. -->
+
+<!-- 2026-11-27 CHAPTER 14 PASS: one drawing (somebody's daughter). Facts checked against what is widely reported: NYT December 2020 and the removal of about ten million unverified videos; the 2025 twenty-seven-year sentence in the GirlsDoPorn case; the 2023 deepfake count; Perry and Schleifer's 2006-2014 panel (about 6 vs 11 percent). -->

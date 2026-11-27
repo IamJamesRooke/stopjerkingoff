@@ -1460,6 +1460,91 @@ def batch15(OUT):
     s+=f'<path d="M250,120 c-10,-14 -30,-4 -20,12 l20,18 l20,-18 c10,-16 -10,-26 -20,-12 Z" fill="{RED}"/>'
     s+=TAIL; open(OUT+"bent-gift-one-flesh.svg","w").write(s)
 
+def heart(x,y,sc=1.0,fill="#FF5FA2",broken=False):
+    o=f'<path transform="translate({x},{y}) scale({sc})" d="M0,10 C-20,-14 -40,4 -24,20 L0,40 L24,20 C40,4 20,-14 0,10 Z" fill="{fill}"/>'
+    if broken: o+=f'<path transform="translate({x},{y}) scale({sc})" d="M0,10 L-5,20 L4,26 L-2,38" stroke-width="3"/>'
+    return o
+def batch14(OUT):
+    W,H=680,440
+    # 1. The World's Lies: a crowded trap is still a trap
+    s=head(W,H,"#FFD23F")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    cols=["#FF7A59","#7B4FD6","#2FB3A8","#FF5FA2","#4F7BFF","#E8A33D","#6BCB77"]
+    for i,x in enumerate(range(140,560,70)):
+        y=200+(i%2)*14
+        s+=man(x,y,"blank",cols[i%7]).replace('r="34"','r="26"')
+    s+='<path d="M100,410 L100,140 Q340,40 580,140 L580,410" fill="none" stroke-width="7"/>'
+    for x in range(130,580,40):
+        top=140-int(80*(1-((x-340)/240)**2)) if abs(x-340)<240 else 140
+        s+=f'<line x1="{x}" y1="{top+6}" x2="{x}" y2="410" stroke-width="5"/>'
+    s+=f'<rect x="300" y="20" width="80" height="20" rx="6" fill="#999"/><line x1="340" y1="40" x2="340" y2="70" stroke-width="5"/>'
+    s+=TAIL; open(OUT+"worlds-lies-crowded-trap.svg","w").write(s)
+
+    # 2. The World's Lies: in nature, pigs eat trash
+    s=head(W,H,"#9AD0FF")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<path d="M400,410 L380,240 L560,240 L540,410 Z" fill="#8A93A8"/><rect x="370" y="226" width="200" height="20" rx="6" fill="#6B7280"/>'
+    s+='<path d="M420,226 l10,-30 l20,24 M480,226 l6,-40 l16,36 M520,226 q10,-30 24,-6" stroke-width="4" fill="#fff"/>'
+    s+='<ellipse cx="240" cy="330" rx="110" ry="66" fill="#FFB3C7"/><circle cx="340" cy="300" r="48" fill="#FFB3C7"/><ellipse cx="376" cy="308" rx="20" ry="16" fill="#FF8FB1"/>'
+    s+=dot(370,306,3)+dot(382,306,3)+dot(340,284,4.5)+'<path d="M318,262 L312,238 L332,256 M352,256 L366,234 L364,262" fill="#FFB3C7"/>'
+    s+='<path d="M170,390 L166,410 M210,394 L208,410 M270,394 L272,410 M310,390 L314,410" stroke-width="7"/>'
+    s+='<path d="M130,316 q-24,-10 -14,-30 q10,10 -6,18" stroke-width="4"/>'
+    s+='<path d="M392,330 q20,6 30,-6" stroke-width="4"/><path d="M410,322 l20,-4 l-4,14 Z" fill="#E8A33D"/>'
+    s+=TAIL; open(OUT+"worlds-lies-pigs-eat-trash.svg","w").write(s)
+
+    # 3. The World's Lies: a lot of armor for evicting a pipsqueak
+    s=head(W,H,"#B388EB")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<path d="M200,190 C170,230 170,330 186,360 L254,360 C270,330 270,230 240,190 Z" fill="#C0C6D0"/>'
+    s+='<path d="M186,140 C186,96 254,96 254,140 L254,190 L186,190 Z" fill="#C0C6D0"/><line x1="196" y1="150" x2="244" y2="150" stroke-width="6"/><path d="M220,96 q10,-30 30,-34" stroke="'+RED+'" stroke-width="10"/>'
+    s+='<path d="M200,360 L190,408 M240,360 L250,408" stroke-width="10" stroke="#9AA1AD"/>'
+    s+='<path d="M180,220 L130,260 L120,300" stroke-width="9" stroke="#9AA1AD"/><path d="M260,220 L320,250" stroke-width="9" stroke="#9AA1AD"/>'
+    s+=f'<path d="M100,250 L150,250 L150,330 Q125,360 100,330 Z" fill="{SHIRT}"/>'
+    s+='<line x1="320" y1="250" x2="470" y2="200" stroke-width="7"/><line x1="330" y1="236" x2="336" y2="268" stroke-width="7"/>'
+    for (x1,y1,x2,y2) in [(150,90,136,74),(220,60,220,40),(290,90,304,74)]:
+        s+=f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="#4FB3FF" stroke-width="4"/>'
+    s+=monster(540,404,"dangle",0.8,stink=True)
+    s+=TAIL; open(OUT+"worlds-lies-armor-for-a-pipsqueak.svg","w").write(s)
+
+    # 4. The Lies About Porn: whoever she is, she's somebody's daughter
+    s=head(W,H,"#FFA630")
+    s+=f'<circle cx="580" cy="80" r="40" fill="{YEL}" stroke="none"/>'
+    s+='<rect x="30" y="370" width="620" height="40" fill="#6BCB77" stroke="none"/><line x1="30" y1="370" x2="650" y2="370"/>'
+    s+=man(280,160,"happy","#4E7A12")+'<path d="M276,312 L262,370 M294,312 L310,370"/>'
+    s+='<path d="M296,206 L330,262 L356,276"/><path d="M266,206 L244,260"/>'
+    s+='<circle cx="380" cy="246" r="24" fill="#fff"/><path d="M362,236 q18,-28 36,0" fill="#9C6B3C" stroke-width="3"/>'+'<path d="M374,252 q6,5 12,0" stroke-width="3"/>'+dot(372,244,3)+dot(388,244,3)
+    s+='<path d="M366,270 L356,330 L404,330 L394,270 Z" fill="#FF5FA2"/><path d="M370,330 L366,370 M390,330 L394,370"/><path d="M366,282 L356,276"/>'
+    s+=heart(330,120,1.0)
+    s+=TAIL; open(OUT+"porn-lies-somebodys-daughter.svg","w").write(s)
+
+
+def batch15(OUT):
+    W,H=680,440
+    # 1. Good News, Twice: try it tonight (a timer, and the banging comes in waves)
+    s=head(W,H,"#7FD3FF")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="30" y="130" width="620" height="16" fill="#FFF6E5"/><line x1="30" y1="130" x2="650" y2="130"/><line x1="30" y1="146" x2="650" y2="146"/>'
+    s+=monster(480,130,"bang",0.7)
+    s+=f'<path d="M60,90 Q100,40 140,90 T220,90 T300,90" stroke="{RED}" stroke-width="5"/><path d="M300,90 Q330,70 360,90 T420,92" stroke="{RED}" stroke-width="3"/>'
+    s+='<rect x="120" y="300" width="160" height="60" rx="20" fill="#7B4FD6"/><rect x="110" y="270" width="30" height="110" rx="12" fill="#5A3E9B"/><rect x="262" y="270" width="30" height="110" rx="12" fill="#5A3E9B"/>'
+    s+=man(200,226,"blank")+'<path d="M190,370 L180,408 M214,370 L226,408"/>'
+    s+='<path d="M186,272 L170,316"/><path d="M216,272 L252,300 L300,290"/>'
+    s+=f'<circle cx="330" cy="280" r="30" fill="#fff"/><line x1="330" y1="280" x2="330" y2="260" stroke-width="4"/><line x1="330" y1="280" x2="344" y2="288" stroke-width="4"/><rect x="322" y="242" width="16" height="8" rx="3" fill="{RED}"/>'
+    s+=TAIL; open(OUT+"good-news-try-it-tonight.svg","w").write(s)
+
+    # 2. Good News, Twice: a Friday night, later (asleep, nothing banging)
+    s=head(W,H,"#1B2459")
+    s+=moon(600,70,20)+stars([(80,60),(170,40),(470,50),(330,30)])
+    s+='<line x1="30" y1="410" x2="650" y2="410" stroke="#fff"/>'
+    s+='<rect x="30" y="130" width="620" height="16" fill="#FFF6E5"/>'
+    s+='<rect x="400" y="60" width="120" height="70" fill="#3b2a6b"/><path d="M400,60 L400,130" stroke="#fff"/>'
+    s+=f'<rect x="150" y="300" width="340" height="50" rx="10" fill="{SHIRT}"/><rect x="130" y="250" width="30" height="160" rx="8" fill="#9C6B3C"/><rect x="480" y="290" width="24" height="120" rx="8" fill="#9C6B3C"/>'
+    s+='<rect x="166" y="276" width="80" height="30" rx="12" fill="#fff"/><circle cx="210" cy="276" r="26" fill="#fff"/><path d="M198,272 q5,4 10,0 M214,272 q5,4 10,0" stroke-width="3"/><path d="M204,286 q6,4 12,0" stroke-width="3"/>'
+    s+='<rect x="540" y="330" width="70" height="80" fill="#9C6B3C"/>'+clock(535,290)
+    for (x,y,f) in [(260,240,22),(290,206,28),(326,168,34)]:
+        s+=f'<text x="{x}" y="{y}" font-family="sans-serif" font-weight="bold" font-size="{f}" fill="#fff" stroke="none">z</text>'
+    s+=TAIL; open(OUT+"good-news-friday-night-later.svg","w").write(s)
+
 if __name__=="__main__":
-    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14"]
+    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15"]
     for b in which: globals()["batch"+b](OUT)
