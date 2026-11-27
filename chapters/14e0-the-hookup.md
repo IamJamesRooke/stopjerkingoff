@@ -4,6 +4,8 @@ The last thing lust borrows is a man's bed. The chase was heading there, and so 
 
 Most men who've done it are no great seducers. They went home with someone when the chance came. Ask one the next morning. He doesn't look like a conqueror. He's hunting for his car keys.
 
+![](images/illustrations/hookup-hunting-for-keys.png){.illustration width=80%}
+
 Maybe that's never been you. Read on anyway. You know a man it fits.
 
 ## The old word for it {-}
@@ -37,6 +39,8 @@ Same for the girlfriend of two years he has no plan to marry. It's one long nigh
 **The minute after.** That's the test of any pleasure. A husband who's made love to a wife he loves is glad a minute later. He stays put. Most nights you wanted her gone, or you wanted to be gone. She reached for you, and being held was the part you couldn't stand. Count the nights you stayed and were glad. Then count the others. Then count how many of those women are still in your life. Two psychologists put the question to students in 2001. Men with many past partners said a woman looked less attractive to them after the first time. Men with few partners didn't. Remember the saying of the men who pay for it. You don't pay her for the sex. You pay her to leave.
 
 **The morning.** One of you is hunting for a missing sock. Nobody mentions next week. Then comes the drive home, radio off, in a flat gray quiet. The phone's out again before lunch.
+
+![](images/illustrations/hookup-gray-drive-home.png){.illustration width=80%}
 
 Add it up. You were told this is the best thing in a man's life. For one night you had her body and nothing else of her, and she had yours. Within days you wanted the next one. That's no meal. It's the hit, with a witness.
 

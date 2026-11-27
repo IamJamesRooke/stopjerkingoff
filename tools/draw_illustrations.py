@@ -2406,6 +2406,51 @@ def batch27(OUT):
     s+=f'<rect x="294" y="216" width="26" height="42" rx="5" fill="{INK}"/>'
     s+=TAIL; open(OUT+"chase-slot-machine.svg","w").write(s)
 
+# ---- Batch 28: The Man Led by a Woman, The Hookup ----
+def batch28(OUT):
+    W,H=680,440
+    # 1. Samson grinding at the mill
+    s=head(W,H,"#C9965E")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<ellipse cx="400" cy="330" rx="130" ry="40" fill="#A7AFBD"/><rect x="270" y="330" width="260" height="60" fill="#A7AFBD" stroke="none"/><path d="M270,330 L270,390 M530,330 L530,390"/><ellipse cx="400" cy="390" rx="130" ry="20" fill="none"/>'
+    s+='<ellipse cx="400" cy="310" rx="90" ry="26" fill="#C0C6D0"/><line x1="400" y1="310" x2="400" y2="250" stroke-width="10"/><line x1="400" y1="250" x2="230" y2="250" stroke-width="10"/>'
+    s+=man(200,190,"flat","#9C6B3C")
+    s+='<rect x="168" y="172" width="64" height="16" rx="6" fill="#fff"/>'
+    s+='<path d="M196,340 L170,408"/><path d="M214,340 L236,404"/><path d="M190,236 L230,252"/><path d="M212,236 L232,252"/>'
+    s+='<path d="M178,162 q4,-14 10,-2 q4,-14 10,-2 q4,-14 10,-2 q4,-14 10,-2" stroke-width="3"/>'
+    s+=TAIL; open(OUT+"led-samson-at-the-mill.svg","w").write(s)
+
+    # 2. King Ahab sulking on his bed, face to the wall
+    s=head(W,H,"#7B4FD6")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=bed(150,300,400,"#FF3B30")
+    s+='<path d="M200,300 C220,250 480,250 540,300 Z" fill="#FFD23F"/>'
+    s+='<circle cx="170" cy="266" r="28" fill="#fff"/><path d="M150,248 L156,228 L166,244 L174,224 L182,244 L192,228 L194,250 Z" fill="#FFD23F"/>'
+    s+=plate(600,404,30,7)+'<path d="M584,400 C586,388 614,388 616,400 Z" fill="#C9965E"/>'
+    for (x1,y1,x2,y2) in [(120,240,104,232),(122,262,104,262)]: s+=f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke-width="4"/>'
+    s+=TAIL; open(OUT+"led-ahab-sulking.svg","w").write(s)
+
+    # 3. The morning after: hunting for his car keys
+    s=head(W,H,"#FFD23F")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="360" y="330" width="250" height="40" rx="10" fill="#2FB3A8"/><rect x="350" y="290" width="26" height="90" rx="10" fill="#1E8C83"/><rect x="594" y="290" width="26" height="90" rx="10" fill="#1E8C83"/><line x1="370" y1="380" x2="370" y2="408"/><line x1="600" y1="380" x2="600" y2="408"/>'
+    s+=man(220,174,"squeeze")+legs(220,324,16)+'<path d="M206,220 L180,190 L196,150"/><path d="M236,220 L270,270"/>'
+    s+='<path d="M270,120 C270,96 300,96 300,116 C300,130 284,130 284,144 M284,160 L284,162" stroke-width="5"/>'
+    s+=f'<circle cx="610" cy="400" r="8" fill="{YEL}"/><rect x="616" y="396" width="20" height="8" rx="2" fill="{YEL}"/>'
+    s+=f'<path d="M120,404 C130,394 150,394 160,404 Z" fill="#FF8FB1"/>'
+    s+=TAIL; open(OUT+"hookup-hunting-for-keys.svg","w").write(s)
+
+    # 4. The drive home, radio off, in a flat gray quiet
+    s=head(W,H,"#A7AFBD")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    for x in (60,160,560): s+=f'<rect x="{x}" y="200" width="70" height="210" fill="#8A8F9C" stroke="none"/>'
+    s+='<path d="M180,370 L180,320 C190,280 220,250 280,250 L420,250 C470,250 500,290 520,320 L540,370 Z" fill="#C0C6D0"/>'
+    s+='<path d="M220,320 C230,290 250,270 290,270 L300,270 L300,320 Z" fill="#E8EEF5"/><path d="M320,270 L410,270 C440,270 460,290 480,320 L320,320 Z" fill="#E8EEF5"/>'
+    s+='<circle cx="240" cy="380" r="28" fill="#141414"/><circle cx="470" cy="380" r="28" fill="#141414"/><circle cx="240" cy="380" r="10" fill="#C0C6D0"/><circle cx="470" cy="380" r="10" fill="#C0C6D0"/>'
+    s+='<circle cx="370" cy="296" r="18" fill="#fff"/>'+dot(374,292,2.5)+dot(382,292,2.5)+'<line x1="372" y1="304" x2="384" y2="304" stroke-width="3"/>'
+    s+='<path d="M80,80 C70,50 120,40 140,60 C170,40 220,60 200,90 Z" fill="#8A8F9C"/><path d="M420,70 C410,40 470,30 490,55 C520,40 560,60 540,90 Z" fill="#8A8F9C"/>'
+    s+=TAIL; open(OUT+"hookup-gray-drive-home.svg","w").write(s)
+
 if __name__=="__main__":
-    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27"]
+    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28"]
     for b in which: globals()["batch"+b](OUT)

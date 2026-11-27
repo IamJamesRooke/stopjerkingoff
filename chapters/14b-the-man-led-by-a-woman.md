@@ -32,6 +32,8 @@ Then she used the oldest line there is. "How can you say, 'I love you,' when you
 
 He woke up sure he'd shake himself free like always. "But he didn't know that the LORD had departed from him." The Philistines put out his eyes, the eyes that had led him all his life, "and he ground at the mill in the prison".
 
+![](images/illustrations/led-samson-at-the-mill.png){.illustration width=80%}
+
 That's not quite the end. His hair grew again, and on his last day, blind and brought out to be laughed at, he prayed, and God heard him. A ruined man can still be heard. But he never got back his sight, or the wasted years.
 
 Notice where the story puts the blame. Delilah sold him for silver, and that was treachery. But nobody took his secret. He gave it away.
@@ -54,7 +56,9 @@ Look at whose hand was on the lever. Herodias couldn't get John killed by asking
 
 One more old story, and a short one. King Ahab wanted a vineyard, not a woman. Watch him anyway, because the lever's the same.
 
-The owner wouldn't sell. So the king went home. He "laid himself down on his bed, and turned away his face, and would eat no bread." His wife, Jezebel, found him sulking. "I will give you the vineyard", she said. She wrote letters in his name, sealed them with his seal, and had the owner killed.
+The owner wouldn't sell. So the king went home. He "laid himself down on his bed, and turned away his face, and would eat no bread."
+
+![](images/illustrations/led-ahab-sulking.png){.illustration width=80%} His wife, Jezebel, found him sulking. "I will give you the vineyard", she said. She wrote letters in his name, sealed them with his seal, and had the owner killed.
 
 Ahab asked no questions. The plan was hers, but it was his name on the letters and his seal in the wax. A man being handed what he wants doesn't ask how. The Bible's verdict on him is that he "sold himself".
 
