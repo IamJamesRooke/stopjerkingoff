@@ -1545,6 +1545,54 @@ def batch15(OUT):
         s+=f'<text x="{x}" y="{y}" font-family="sans-serif" font-weight="bold" font-size="{f}" fill="#fff" stroke="none">z</text>'
     s+=TAIL; open(OUT+"good-news-friday-night-later.svg","w").write(s)
 
+def batch16(OUT):
+    W,H=680,440
+    # 1. The Other Man on the Screen: outside the window, in the cheap seats
+    s=head(W,H,"#1B2459")
+    s+=moon(600,60,18)+stars([(80,50),(170,40),(470,40),(330,30)])
+    s+='<line x1="30" y1="410" x2="650" y2="410" stroke="#fff"/>'
+    s+=f'<rect x="330" y="120" width="280" height="200" fill="{YEL}"/><line x1="470" y1="120" x2="470" y2="320"/><line x1="330" y1="220" x2="610" y2="220"/>'
+    s+='<rect x="320" y="110" width="300" height="220" fill="none" stroke-width="8"/>'
+    s+=man(410,180,"happy","#FF7A59").replace('r="34"','r="24"')
+    s+='<rect x="120" y="340" width="90" height="12" fill="#FFA630"/><line x1="128" y1="352" x2="128" y2="408"/><line x1="202" y1="352" x2="202" y2="408"/><rect x="120" y="270" width="12" height="80" fill="#FFA630"/>'
+    s+=man(170,230,"blank")+'<path d="M160,378 L150,408 M184,378 L196,408"/>'
+    s+='<path d="M156,276 L136,320"/><path d="M186,276 L210,320"/>'
+    s+=f'<path d="M150,214 q-14,10 -6,26 q10,-8 6,-26 Z" fill="#4FB3FF" stroke-width="2"/>'
+    s+=TAIL; open(OUT+"other-man-outside-the-window.svg","w").write(s)
+
+    # 2. The Other Man on the Screen: a hungry man goes out to watch a stranger eat a steak
+    s=head(W,H,"#FF8C42")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="330" y="290" width="260" height="16" rx="6" fill="#9C6B3C"/><line x1="350" y1="306" x2="350" y2="408"/><line x1="570" y1="306" x2="570" y2="408"/>'
+    s+=man(520,200,"happy","#2FB3A8")+'<path d="M534,246 L520,286"/><path d="M506,246 L470,280"/>'
+    s+=plate(450,286,50,11)+'<path d="M418,282 C414,256 486,256 482,282 Z" fill="#B5542B"/>'
+    s+=man(180,190,"squeeze")+legs(180,342,14)
+    s+='<path d="M166,236 L150,300"/><path d="M196,236 L212,300"/>'
+    s+=f'<path d="M210,250 q10,10 0,22" stroke="#4FB3FF" stroke-width="4"/><circle cx="208" cy="282" r="4" fill="#4FB3FF" stroke="none"/>'
+    s+='<path d="M150,330 q30,-10 60,0" stroke-width="4"/>'
+    s+=TAIL; open(OUT+"other-man-watching-a-stranger-eat.svg","w").write(s)
+
+    # 3. The Men Who Believed It: the money flies into the phone
+    s=head(W,H,"#6BCB77")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=f'<rect x="440" y="120" width="120" height="220" rx="18" fill="{INK}"/><rect x="452" y="140" width="96" height="180" rx="6" fill="{GLOW}" stroke="none"/>'
+    for i,(x,y,r) in enumerate([(160,260,-20),(220,200,10),(280,150,-15),(340,180,20),(380,130,-10),(250,300,15),(320,250,-25)]):
+        s+=f'<g transform="rotate({r} {x} {y})"><rect x="{x-34}" y="{y-18}" width="68" height="36" rx="4" fill="#9BE39B"/><circle cx="{x}" cy="{y}" r="9" fill="none" stroke-width="3"/></g>'
+    s+=man(100,200,"squeeze").replace('r="34"','r="30"')+legs(100,352,12)
+    s+='<path d="M114,246 L150,250"/><path d="M86,246 L70,300"/>'
+    s+=TAIL; open(OUT+"believed-money-into-the-phone.svg","w").write(s)
+
+    # 4. The Men Who Believed It: a stranger can switch her off
+    s=head(W,H,"#B388EB")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=f'<rect x="300" y="140" width="110" height="200" rx="16" fill="{INK}"/><rect x="310" y="158" width="90" height="164" rx="6" fill="#555" stroke="none"/>'
+    s+='<path d="M355,340 C355,380 470,390 520,370"/><rect x="520" y="356" width="30" height="24" rx="4" fill="#ccc"/><path d="M550,362 l16,0 M550,374 l16,0" stroke-width="4"/>'
+    s+=f'<rect x="590" y="330" width="30" height="60" rx="4" fill="#fff"/>'+dot(600,350,3)+dot(610,350,3)
+    s+=man(170,200,"squeeze")+'<path d="M166,352 L150,408 M184,352 L200,408"/>'
+    s+='<path d="M156,246 L136,300"/><path d="M186,246 L240,270 L296,250"/>'
+    s+=f'<path d="M140,190 q-10,10 -4,22 q8,-6 4,-22 Z" fill="#4FB3FF" stroke-width="2"/><path d="M200,190 q10,10 4,22 q-8,-6 -4,-22 Z" fill="#4FB3FF" stroke-width="2"/>'
+    s+=TAIL; open(OUT+"believed-switched-off.svg","w").write(s)
+
 if __name__=="__main__":
-    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15"]
+    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16"]
     for b in which: globals()["batch"+b](OUT)

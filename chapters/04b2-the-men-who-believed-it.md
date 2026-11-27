@@ -10,6 +10,8 @@ A year earlier an accountant in Pennsylvania went to prison too. He was thirty-t
 
 Nobody takes twelve million dollars for a thing he believes is worth nothing. That's how big the lie can grow.
 
+![](images/illustrations/believed-money-into-the-phone.png){.illustration width=80%}
+
 ## What they were buying {-}
 
 In 2025 a reporter asked a woman who sells her pictures on a subscription site about her biggest spender. By her account he was a married man who'd paid her a fortune. She said this about him.
@@ -31,6 +33,8 @@ Travis Butterworth, forty-seven, of Denver, said this.
 Andrew McCarroll, of Montana, said, "The person I knew is gone."
 
 Nobody had died. A company had changed a setting. Don't laugh. Their grief was real, and that's the point. Lust had led them to love something a stranger could edit.
+
+![](images/illustrations/believed-switched-off.png){.illustration width=80%}
 
 ## In their own words {-}
 
@@ -63,3 +67,5 @@ SOURCES:
 None of the court cases claims the site caused the crime; prosecutors record where the money went. -->
 
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
+
+<!-- 2026-11-27 (James: generous with drawings): two drawings, the money flying into the phone and the companion switched off. No named person is drawn. -->
