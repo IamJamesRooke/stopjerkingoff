@@ -22,7 +22,7 @@ David knew that name. The Bible keeps a list of David's mighty men, the fighters
 
 David sent for her anyway and slept with her. Nobody asked what she wanted. He was the king. Some weeks later she sent him a message: "I am with child."
 
-So David called Uriah home. He wanted him to spend a night with his wife, so the child would pass as his. But Uriah wouldn't go home. He slept at the palace door with the servants. When David asked why, Uriah said his commander and his brothers were camped in the open field. "Shall I then go into my house to eat and to drink, and to lie with my wife? As you live, and as your soul lives, I will not do this thing!"
+So David called Uriah home. He wanted him to spend a night with his wife, so the child would pass as his. But Uriah wouldn't go home. He slept at the palace door with the servants. When David asked why, Uriah said the ark and the whole army were living in tents, and his commander was camped in the open field. "Shall I then go into my house to eat and to drink, and to lie with my wife? As you live, and as your soul lives, I will not do this thing!"
 
 The next night David got him drunk. Even drunk, Uriah had more honor than the king had sober. He slept at the door again.
 
@@ -38,7 +38,7 @@ It stayed hidden until a prophet named Nathan came to the king with a story. A r
 
 ![](images/illustrations/city-the-pet-lamb.png){.illustration width=80%}
 
-David didn't argue. He said, "I have sinned against the LORD." And Nathan told him, "The LORD also has put away your sin." Tradition says David wrote Psalm 51 after that day. It begins, "Have mercy on me, God, according to your loving kindness."
+David didn't argue. He said, "I have sinned against the LORD." And Nathan told him, "The LORD also has put away your sin." The heading on Psalm 51 says David wrote it after that day. It begins, "Have mercy on me, God, according to your loving kindness."
 
 He was forgiven. But the child died, and David's family never knew peace again.
 
@@ -62,7 +62,7 @@ Break your word to yourself often enough and you stop believing it. Then a man s
 
 David wasn't weak where the world could see. He had one hole in the wall. So do you.
 
-Don't take that as a verdict. Walls can be rebuilt. A governor named Nehemiah found Jerusalem's walls in ruins and had them back up in fifty-two days. Yours will go up faster. For now, just look at the gap and admit it's there.
+Don't take that as a verdict. Walls can be rebuilt. A governor named Nehemiah found Jerusalem's walls in ruins and had them back up in fifty-two days. Yours won't go up by straining. They go up as the lies come down. For now, just look at the gap and admit it's there.
 
 ![](images/illustrations/city-walls-rebuilt.png){.illustration width=80%}
 

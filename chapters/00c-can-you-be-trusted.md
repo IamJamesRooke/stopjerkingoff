@@ -1,6 +1,6 @@
 # Can You Be Trusted? {#can-you-be-trusted}
 
-A Benedictine monk once gave this advice to women who want to marry: "Marry a man who can fast." He meant a man who's learned to say no to himself.
+There's advice credited to a Benedictine monk, for women who want to marry: "Marry a man who can fast." He meant a man who's learned to say no to himself.
 
 It cuts both ways. A man picking a wife should ask the same of her. Can she say no to herself, and keep her word when it costs her?
 
@@ -10,7 +10,7 @@ Picture a soldier who shows up for duty drunk. Maybe he's on the right side. May
 
 Self-control is the theme under this whole book, and it comes down to one hard sentence. **A man who can't control his lust can't be trusted.** His wife can't fully trust him. Worst of all, he can't trust himself, because he's broken his own word too many times.
 
-You don't need that proved. Ask the man who said "never again" last night. It's no accusation. It's true of half the respectable men in any pew or boardroom.
+You don't need that proved. Ask the man who said "never again" last night. It's no accusation. It's true of plenty of respectable men in any pew or boardroom.
 
 And look who did this to us. Not a dragon. A grown man, trusted with a job and a family, can't keep his word against a Little Monster the size of a house cat. If that annoys you, good. Be annoyed at the right party.
 
@@ -24,7 +24,7 @@ Don't hear a clenched jaw in that. A no costs nothing when there's nothing you w
 
 You were made for something, and this book is about getting you fit for it.
 
-None of this is new. Three thousand years ago, lust brought down a king no army could beat.
+None of this is new. Three thousand years ago, lust tore apart the house of a king no army could beat.
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of index.Rmd; the source notes for everything here are in that file. -->
 

@@ -10,7 +10,7 @@ Look at that second team again. A few seconds of it is pleasure. The rest is fea
 
 That's why the list never worked. It frightens you, and a frightened man reaches for his comfort. You know what yours is. So instead of stopping, men build excuses. Here are the two favorites.
 
-**"It's my life. Better to enjoy it than to live like a monk."** Fine. Enjoy it. Now tell me honestly that the life you've just been shown is the enjoyable one. Tell me the man hiding in the bushes is having a better time than the man walking in the garden.
+**"It's my life. Better to enjoy it than to live like a monk."** Fine. Enjoy it. Now tell me honestly that the life you've just been shown is the enjoyable one. Tell me the man hiding in the bushes, the way Adam hid from God, is having a better time than the man walking in the garden.
 
 **"I'm single. Who exactly am I hurting?"** The man you're turning into, for one. Anyone who ever relies on you, for another: they get whatever comes out the other end of this. And you, now. You're a person too.
 
@@ -24,9 +24,9 @@ Every man with this habit carries a shadow at the back of his mind. Most days he
 
 It's the jolt when the talk turns to porn. The half-second of dread when someone borrows his phone. The low hum of unease at bedtime, which he's always blamed on the day.
 
-The day didn't cause it. A man without the habit has bad days too, and no shadow like this. King David knew it well. He had a secret of his own once, and in Psalm 32 he wrote: "When I kept silence, my bones wasted away through my groaning all day long."
+The day didn't cause it. A man without the habit has bad days too, and no shadow like this. King David knew it well. He had a secret of his own once, and Psalm 32, which is credited to him, says: "When I kept silence, my bones wasted away through my groaning all day long."
 
-Then he tells you what lifted it. "I acknowledged my sin to you. I didn't hide my iniquity," he wrote, and God "forgave the iniquity of my sin." The shadow goes the same way for you. You tell the truth, and you're forgiven.
+Then he tells you what lifted it. "I acknowledged my sin to you. I didn't hide my iniquity," he wrote, and God "forgave the iniquity of my sin." The shadow goes the same way for you. You tell God the truth, and he forgives, the way he did for David.
 
 If you don't pray, half of that still holds. A shadow needs something hidden. Nothing left to hide, nowhere to stand.
 

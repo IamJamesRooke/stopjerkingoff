@@ -27,6 +27,8 @@ Look hard at number four, because the whole trick is in it. The relief was never
 
 With a limit, the habit's always on offer, because Saturday's always coming. The Little Monster never hears that the kitchen has closed. He just learns the opening hours, and he sits by the door all week.
 
+![](images/illustrations/cutting-down-opening-hours.png){.illustration width=80%}
+
 The hard part of stopping was never the flesh. It's the lie that the habit is a comfort or a reward, and cutting down props that lie up. A man living by a limit ends up convinced the most precious thing in his week is five minutes on a Saturday night. He set out to shrink the habit, and he's made it the center of his calendar.
 
 ## Less is not less {-}
@@ -62,6 +64,8 @@ This is what Paul means when he tells the Romans to "make no provision for the f
 That verse has a history. Augustine was the man who prayed for years, "Give me chastity and continency, only not yet." One day he sat in a garden in Milan, sick of himself. From the house next door he heard a child's voice chanting, "Take up and read." He picked up a book of Paul's letters and read the first lines his eyes fell on. They were this verse: "put on the Lord Jesus Christ, and make no provision for the flesh".
 
 He wrote that he had no wish to read any further, and no need to. "Not yet" was over that afternoon.
+
+![](images/illustrations/cutting-down-augustine-garden.png){.illustration width=80%}
 
 Remember:
 

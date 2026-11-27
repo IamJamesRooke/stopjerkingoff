@@ -40,6 +40,8 @@ Her four instructions are yours, word for word.
 
 There's one difference, and it's all in your favor. Her pursuer may be dangerous. Yours isn't. The Little Monster isn't ten feet tall. He's a pipsqueak. He has to stand on a chair to reach the telephone. His only weapon is a whine.
 
+![](images/illustrations/negotiate-on-a-chair.png){.illustration width=80%}
+
 He's an itch, about as strong as a tag scratching the back of your neck. He can't hurt you, and he can't make you do anything. Men have crossed oceans and built cities, and then taken orders from this.
 
 If he's ever felt enormous, that was the fear of him, and fear can flatten a strong man.

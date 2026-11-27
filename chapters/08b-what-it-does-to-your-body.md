@@ -2,11 +2,11 @@
 
 The doctors say masturbation itself does no physical harm, and I won't argue. But the habit hits the body in three places, and you should hear them straight.
 
-The plainest is sleep. The habit lives after dark. It eats the hour, then the sleep after the hour. A man who rolls out of bed every morning like a sack of wet sand is paying a physical price, whatever the textbooks say.
+The plainest is sleep. The habit lives after dark. It eats the hour, then the sleep after the hour. A man who rolls out of bed like a sack of wet sand after those late hours is paying a physical price, whatever the textbooks say.
 
 ![](images/illustrations/body-sack-of-wet-sand.png){.illustration width=80%}
 
-The second is trouble in bed with a real woman. Some men who lean heavily on porn can't get ready with her, or can't stay ready. Careful here. The research is mixed, and nobody has proved porn is the cause. In a 2021 survey of young men, about one in five of the sexually active had some erection trouble. It tracked how compulsive his porn use was, not the hours. An earlier study in three countries found little link at all. Doctors say a young man's usual cause is worry, and a man carrying a secret has plenty. Drink, medicines and illness can do it too. If it's gone on for weeks, see a doctor.
+The second is trouble in bed with a real woman. Some men who lean heavily on porn can't get ready with her, or can't stay ready. Careful here. The research is mixed, and nobody has proved porn is the cause. In a 2021 survey of young men, about one in five of the sexually active had some erection trouble. The trouble went with how compulsive his porn use was, not with how many hours he spent. An earlier study in three countries found little link at all. Doctors say a young man's usual cause is worry, and a man carrying a secret has plenty. Drink, medicines and illness can do it too. If it's gone on for weeks, see a doctor.
 
 The third has a name of its own.
 
@@ -18,15 +18,15 @@ Then a real woman arrives, warm and soft, and to a body trained on a fist she fe
 
 A medical student told his story on NoFap. With his first girlfriend, "even after months, still no orgasm for me. I couldn't even get close." Then comes the line every man should hear: "She started to think it was her fault, but deep inside, I knew what the problem was."
 
-Sex therapists and urologists see these men regularly, and they have drier names for it. In 2023 Dr. Kanojia, the psychiatrist, put it as bluntly as a doctor can. A tight, dry hand, he said, "feels different from a vagina". A man who knows nothing else has trained his body away from a real woman.
+Sex therapists and urologists see these men regularly, and they have drier names for it. In 2023 Dr. Kanojia, the psychiatrist, put it as bluntly as a doctor can. A tight, dry hand, he said, "feels different from a vagina". A man who knows nothing else can train his body away from a real woman.
 
 Let's stay honest. Death grip isn't an official diagnosis. A 2023 study of several hundred young men found that those with erection trouble were about twice as likely to masturbate in these rough ways. That shows a link and no more. Some doctors doubt it's common. And if this is your trouble, see a doctor, because medicines and other conditions can do the same thing.
 
-When the hand is the cause, most doctors call it training. Picture a man who salts his food a little heavier every year. His tongue isn't ruined, but plain food tastes of nothing.
+When the hand is the cause, many doctors call it training. Picture a man who salts his food a little heavier every year. His tongue isn't ruined, but plain food tastes of nothing.
 
 ![](images/illustrations/body-salting-the-food.png){.illustration width=80%} Some doctors go further and say years of dry friction may dull the skin and nerves themselves. Nobody has proved that. Training has the most behind it, and it's the hopeful explanation, because a body that learned one thing can learn another.
 
-Even the specialists who call masturbation harmless start the cure in the same place: they ask a man to stop for a while. This book asks you to stop for good. That's my conviction, not their prescription. If a sex therapist gives you exercises, that's treatment. Tell the therapist your convictions up front. A good one will work with them.
+Even specialists who call masturbation harmless often start treatment in the same place: they ask a man to stop for a while. This book asks you to stop for good. That's my conviction, not their prescription. If a sex therapist gives you exercises, that's treatment. Tell the therapist your convictions up front. A good one will work with them.
 
 And the medical student? A little over a month after he stopped: "I had an orgasm during sex, for the first time in my life." Leave aside whose bed it was. The point is that the body mends. For other men it's taken many months, and nobody can promise you a date. But men who stop report that the body often recovers.
 

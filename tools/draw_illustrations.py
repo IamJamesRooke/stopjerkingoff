@@ -2131,6 +2131,73 @@ def batch23(OUT):
     s+=f'<ellipse cx="195" cy="368" rx="9" ry="14" stroke="{RED}" stroke-width="5"/>'
     s+=TAIL; open(OUT+"counter-back-to-zero.svg","w").write(s)
 
+# ---- Batch 24: Two Wills, Beware of Cutting Down, Do Not Negotiate ----
+def door(x,y,w=110,h=230,col="#5A3E9B"):
+    return f'<rect x="{x}" y="{y}" width="{w}" height="{h}" fill="{col}"/>'+dot(x+w-18,y+h/2,6).replace("#141414","#FFD23F")
+def batch24(OUT):
+    W,H=680,440
+    # 1. Willpower is a siege: holding a door shut for life
+    s=head(W,H,"#FF7A59")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="380" y="60" width="270" height="350" fill="#FFF6E5"/>'+door(400,180)
+    for (x1,y1,x2,y2) in [(520,200,540,190),(520,260,546,260),(520,320,540,330)]:
+        s+=f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="{RED}" stroke-width="5"/>'
+    s+='<g transform="rotate(20 300 300)">'+man(300,190,"squeeze")+'</g>'
+    s+='<path d="M290,340 L240,408"/><path d="M306,344 L270,408"/>'
+    s+='<path d="M300,240 L398,230"/><path d="M296,262 L398,270"/>'
+    s+=f'<path d="M230,190 q-6,10 0,14 q6,-4 0,-14 Z" fill="#4FB3FF" stroke-width="2.5"/>'
+    s+=TAIL; open(OUT+"two-wills-the-siege.svg","w").write(s)
+
+    # 2. A watchman who isn't afraid: the door, and nothing leaning on it
+    s=head(W,H,"#7FD3FF")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="380" y="60" width="270" height="350" fill="#FFF6E5"/>'+door(400,180)
+    s+=man(260,206,"happy")+'<path d="M256,356 L256,408"/><path d="M274,356 L310,408"/><rect x="210" y="356" width="90" height="14" rx="5" fill="#9C6B3C"/>'
+    s+='<path d="M246,250 L230,300"/><path d="M276,250 L310,280 L326,262"/>'
+    s+='<rect x="320" y="240" width="24" height="28" rx="4" fill="#fff"/><path d="M326,232 q-4,-8 0,-14 M336,232 q-4,-8 0,-14" stroke-width="3"/>'
+    s+=TAIL; open(OUT+"two-wills-the-watchman.svg","w").write(s)
+
+    # 3. He just learns the opening hours, and sits by the door all week
+    s=head(W,H,"#FFD23F")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=door(300,180,120,230,"#9C6B3C")
+    s+='<rect x="440" y="100" width="150" height="130" rx="6" fill="#fff"/><rect x="440" y="100" width="150" height="26" fill="#FF3B30"/>'
+    for r in range(3):
+        for c in range(4):
+            x=452+c*34; y=136+r*30
+            s+=f'<rect x="{x}" y="{y}" width="24" height="22" fill="#fff" stroke-width="3"/>'
+            if r*4+c<6: s+=f'<path d="M{x+2},{y+2} L{x+22},{y+20} M{x+22},{y+2} L{x+2},{y+20}" stroke-width="3"/>'
+    s+=monster(240,404,"dangle",0.9,stink=False)
+    s+='<path d="M224,392 L256,392 L252,404 L228,404 Z" fill="#fff" stroke-width="3"/>'
+    s+='<line x1="190" y1="404" x2="190" y2="330" stroke-width="4"/><path d="M182,330 L198,330 M184,316 L184,330 M190,316 L190,330 M196,316 L196,330" stroke-width="3"/>'
+    s+=TAIL; open(OUT+"cutting-down-opening-hours.svg","w").write(s)
+
+    # 4. Augustine in the garden: take up and read
+    s=head(W,H,"#9BD13A")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=tree(520,410,fruit=False)
+    s+='<rect x="30" y="250" width="200" height="160" fill="#E8DCC4"/><line x1="30" y1="250" x2="230" y2="250"/>'
+    s+='<circle cx="140" cy="226" r="22" fill="#fff"/><path d="M132,222 q4,-4 8,0 M144,222 q4,-4 8,0" stroke-width="3"/><ellipse cx="142" cy="236" rx="5" ry="4" fill="#5a1414" stroke-width="2.5"/>'
+    s+='<path d="M120,250 L112,236 M160,250 L168,236" stroke-width="4"/>'
+    for (x1,y1,x2,y2) in [(176,214,196,204),(178,228,200,228),(176,242,196,252)]: s+=f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="#fff" stroke-width="4"/>'
+    s+=man(400,206,"happy","#C9965E")+'<path d="M396,356 L380,408"/><path d="M414,356 L440,408"/>'
+    s+='<path d="M386,250 L380,290 L400,300"/><path d="M416,250 L430,290 L420,300"/>'
+    s+='<path d="M370,290 L410,300 L450,290 L450,320 L410,330 L370,320 Z" fill="#fff"/><line x1="410" y1="300" x2="410" y2="330"/>'
+    s+=TAIL; open(OUT+"cutting-down-augustine-garden.svg","w").write(s)
+
+    # 5. He has to stand on a chair to reach the telephone
+    s=head(W,H,"#FF8FB1")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<g transform="translate(0,70)">'
+    s+='<rect x="380" y="120" width="70" height="110" rx="8" fill="#FF3B30"/><rect x="392" y="170" width="46" height="48" rx="4" fill="#fff" stroke-width="3"/>'
+    for r in range(3):
+        for c in range(3): s+=dot(402+c*13,180+r*13,3)
+    s+='<path d="M366,118 C366,96 464,96 464,118 L452,130 L378,130 Z" fill="#141414"/></g>'
+    s+='<rect x="250" y="320" width="120" height="14" rx="4" fill="#9C6B3C"/><line x1="262" y1="334" x2="262" y2="408"/><line x1="358" y1="334" x2="358" y2="408"/>'
+    s+=monster(310,318,"bang",0.9,stink=False)
+    s+='<path d="M346,290 L386,226" stroke-width="5"/>'
+    s+=TAIL; open(OUT+"negotiate-on-a-chair.svg","w").write(s)
+
 if __name__=="__main__":
-    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23"]
+    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24"]
     for b in which: globals()["batch"+b](OUT)
