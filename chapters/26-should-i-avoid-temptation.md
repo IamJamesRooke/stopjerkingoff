@@ -30,7 +30,7 @@ Now the practical question, which comes in three forms.
 
 Some men stop but keep an escape hatch: the saved folder labeled "taxes", the account they still follow "for the workouts", or a private rule that says, "If it gets really bad I'm allowed one."
 
-They think the hatch makes them braver. It does the reverse. A hatch is a door left open an inch, and the Little Monster keeps shoving at it. Men who keep a way back use it. When a bad moment comes, it costs nothing, because the excuse was written in advance. A man with no hatch has nothing to bargain with, and the urge passes.
+They think the hatch makes them braver. It does the reverse. A hatch is a door left open an inch, and the Little Monster keeps shoving at it. Men who keep a way back almost always use it. When a bad moment comes, it costs nothing, because the excuse was written in advance. A man with no hatch has nothing to bargain with, and the urge passes.
 
 These men fail because they were never fully committed. Two things were missing:
 
@@ -49,7 +49,7 @@ There are two opposite mistakes.
 
 **The second is the dare.** This man props the phone on his chest in bed to prove how strong he is. He looks like a man guarding a bomb he built himself. Nobody proves he has quit drinking by sleeping in a bar. Testing yourself adds nothing to your freedom.
 
-Common sense says to avoid unnecessary stimulation. The word to notice is *unnecessary*. Christians have an old phrase for this: avoid the near occasion of sin. It means don't stand where you know you'll fall. That's not fear. It's sense.
+Common sense says to avoid unnecessary stimulation. The word to notice is *unnecessary*. Old church teaching has a phrase for this: avoid the near occasion of sin. It means don't stand where you know you'll fall. That's not fear. It's sense.
 
 None of this is a gimmick or a vow, and none of it has to wait for the last page. It's only the stupid thing avoided. Charge the phone in the kitchen. You're not in danger. Bed is just a stupid place for a phone, whatever you look at. Unfollow the accounts you followed for one reason. Cancel the subscriptions. Delete the folder. Delete the numbers you kept for one reason.
 
@@ -71,9 +71,9 @@ If you mean your social life, the advice is the opposite. Go out right away, to 
 
 What sent you back to your room in the past was mostly an empty evening, so fill your evenings with people. And enjoy this while you're out: you don't *need* anything from any woman in the room. You can talk to her, like her, and go home with a clear head. That's self-control with the fear gone out of it, and Paul puts it in the same breath as power and love. You're turning into a man who can be trusted.
 
-If it's this good while the Little Monster is still twitching, think what it'll be like when he's gone.
+If it's this good while the Little Monster is still twitching, think what it'll be like when he's down to a whisper.
 
-And one day you'll simply know that he is.
+And one day you'll simply know you don't want to feed him.
 
 <!-- SOURCES (Chapter 26): every quote below is from the research files; check each against its page before publishing.
 - "Be vigilant over your eyes. Avoid unnecessary stimulation." — John Piper, "Strategies for Fighting Sexual Sin", https://www.desiringgod.org/messages/strategies-for-fighting-sexual-sin. Confirmed word for word on desiringgod.org, 2026-11-14 (research/quote-verification.md), and restored as a quote.

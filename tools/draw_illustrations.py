@@ -2801,6 +2801,129 @@ def batch34(OUT):
     s+='<path d="M600,404 L640,400" stroke-dasharray="4 8" stroke-width="3"/>'
     s+=TAIL; open(OUT+"final-step-im-free.svg","w").write(s)
 
+def batch35(OUT):
+    W,H=680,440
+    import math
+    # 1. Drying a dish; an old thought drifts past, and he smiles
+    s=head(W,H,"#FFD23F")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="380" y="60" width="200" height="140" fill="#7FD3FF"/><line x1="480" y1="60" x2="480" y2="200"/><line x1="380" y1="130" x2="580" y2="130"/>'
+    s+='<rect x="340" y="250" width="290" height="160" fill="#FFF6E5"/><rect x="380" y="236" width="210" height="20" rx="6" fill="#C0C6D0"/>'
+    s+=man(240,180,"happy","#2FB3A8")+legs(240,330,14)
+    s+='<path d="M224,220 L280,270 L300,256"/><path d="M254,222 L300,240"/>'
+    s+='<ellipse cx="312" cy="250" rx="28" ry="10" fill="#fff" transform="rotate(-20 312 250)"/><path d="M296,236 L320,272" stroke="#FF8FB1" stroke-width="8"/>'
+    for (x,y,r) in [(196,130,5),(176,108,8)]: s+=f'<circle cx="{x}" cy="{y}" r="{r}" fill="#fff" opacity="0.7"/>'
+    s+='<ellipse cx="120" cy="70" rx="64" ry="40" fill="#fff" opacity="0.55"/>'
+    s+='<rect x="104" y="48" width="30" height="46" rx="5" fill="#141414" opacity="0.35"/>'
+    s+=TAIL; open(OUT+"ring-drying-dish.svg","w").write(s)
+
+    # 2. Tell one man: two men on a bench with coffee
+    s=head(W,H,"#9BD13A")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=tree(580,410,False) if False else ''
+    s+='<rect x="150" y="300" width="380" height="18" rx="6" fill="#9C6B3C"/><rect x="150" y="250" width="380" height="14" rx="6" fill="#9C6B3C"/><line x1="170" y1="318" x2="170" y2="408"/><line x1="510" y1="318" x2="510" y2="408"/>'
+    s+=man(260,186,"flat","#2F6BFF")+'<path d="M256,336 L220,340 L214,408"/><path d="M274,336 L240,348 L240,408"/>'
+    s+=man(420,186,"happy","#FF7A59")+'<path d="M416,336 L450,340 L456,408"/><path d="M434,336 L470,348 L466,408"/>'
+    s+='<path d="M246,226 L230,280 L270,292"/><rect x="266" y="276" width="22" height="28" rx="4" fill="#fff"/>'
+    s+='<path d="M406,226 L360,250 L320,232" /><path d="M434,226 L440,280 L410,292"/><rect x="392" y="276" width="22" height="28" rx="4" fill="#fff"/>'
+    for (x1,y1,x2,y2) in [(300,170,316,160),(302,190,322,190)]: s+=f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke-width="4"/>'
+    s+=f'<circle cx="590" cy="80" r="30" fill="{YEL}"/>'
+    s+=TAIL; open(OUT+"tell-one-man.svg","w").write(s)
+
+    # 3. Falls seven times and rises up again: scuffs behind, walking on
+    s=head(W,H,"#7FD3FF")
+    s+='<path d="M30,380 C200,370 420,390 650,370 L650,410 L30,410 Z" fill="#E8C27A"/>'
+    for i,x in enumerate([60,110,160,210,260,310,360]):
+        s+=f'<path d="M{x},{392-i} q10,-8 20,0 q-10,6 -20,0 Z" fill="#9C6B3C" stroke-width="3"/>'
+    s+=man(500,190,"happy","#FFD23F")+'<path d="M496,340 L470,408"/><path d="M514,340 L548,404"/>'
+    s+='<path d="M484,230 L452,290"/><path d="M516,230 L560,270"/>'
+    s+='<path d="M470,310 l-12,6 M476,326 l-14,2" stroke="#9C6B3C" stroke-width="4"/>'
+    s+=TAIL; open(OUT+"falls-seven-rises.svg","w").write(s)
+
+    # 4. Step outside and stand in the parking lot for five minutes
+    s=head(W,H,"#FF8FB1")
+    s+=f'<circle cx="110" cy="80" r="34" fill="{YEL}"/>'
+    s+='<rect x="30" y="330" width="620" height="80" fill="#C0C6D0" stroke="none"/><line x1="30" y1="330" x2="650" y2="330"/>'
+    for x in (200,330,460,590): s+=f'<line x1="{x}" y1="340" x2="{x-20}" y2="404" stroke="#fff" stroke-width="5"/>'
+    s+='<g transform="translate(0,34)"><path d="M380,320 L390,284 L430,270 L520,270 L560,290 L590,296 L590,322 Z" fill="#2FB3A8"/><circle cx="420" cy="324" r="16" fill="#141414"/><circle cx="552" cy="324" r="16" fill="#141414"/><path d="M440,278 L450,292 L500,292 L500,278 Z" fill="#fff"/></g>'
+    s+=man(230,166,"blank","#7B4FD6")+legs(230,316,14)
+    s+='<path d="M214,206 L196,270"/><path d="M244,206 L262,270"/>'
+    for i in range(3): s+=f'<path d="M{270+i*14},{150-i*10} q12,-6 22,0" stroke="#fff" stroke-width="4"/>'
+    s+=TAIL; open(OUT+"parking-lot-breathe.svg","w").write(s)
+
+    # 5. "May as well": the pipsqueak holds up a sign; the man walks past
+    s=head(W,H,"#FF7A59")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=monster(190,404,"bang",0.9)
+    s+='<line x1="230" y1="380" x2="250" y2="210" stroke-width="6"/><rect x="150" y="140" width="210" height="80" rx="8" fill="#fff" transform="rotate(-6 255 180)"/>'
+    s+='<text x="168" y="178" font-family="Arial" font-weight="bold" font-size="24" fill="#141414" stroke="none" transform="rotate(-6 255 180)">MAY AS WELL!</text>'
+    s+='<text x="196" y="206" font-family="Arial" font-weight="bold" font-size="16" fill="#141414" stroke="none" transform="rotate(-6 255 180)">(you ruined it!)</text>'
+    s+=man(510,190,"happy","#2F6BFF")+'<path d="M506,340 L480,408"/><path d="M524,340 L560,404"/>'
+    s+='<path d="M494,230 L470,300"/><path d="M526,230 L560,296"/>'
+    s+='<path d="M600,250 l30,0 m-10,-10 l10,10 l-10,10" stroke-width="5"/>'
+    s+=TAIL; open(OUT+"may-as-well.svg","w").write(s)
+
+    # 6. Restore him gently: a hand from the shore
+    s=head(W,H,"#7FD3FF")
+    s+='<g transform="translate(-10,150) rotate(18 125 155)"><path d="M60,140 L190,140 L170,170 L80,170 Z" fill="#9C6B3C"/><line x1="128" y1="140" x2="128" y2="70"/><path d="M128,74 L170,100 L128,120 Z" fill="#fff"/></g>'
+    s+='<path d="M30,300 C150,290 250,310 360,300 L360,410 L30,410 Z" fill="#2F6BFF"/>'
+    for x in (60,140,220,300): s+=f'<path d="M{x},320 q14,-10 28,0" stroke="#fff" stroke-width="4"/>'
+    s+='<path d="M330,300 C400,280 520,300 650,280 L650,410 L330,410 Z" fill="#E8C27A"/>'
+    s+='<circle cx="230" cy="290" r="26" fill="#fff"/>'+dot(224,284,3)+dot(238,284,3)+'<path d="M226,300 q6,-4 12,0" stroke-width="3"/>'
+    s+='<path d="M250,300 L300,258"/>'
+    s+=man(440,150,"flat","#FFD23F")+'<path d="M436,300 L420,330 L384,312"/><path d="M454,300 L470,360 L480,404"/>'
+    s+='<path d="M426,190 L360,236 L306,252"/><path d="M454,190 L476,250"/>'
+    s+='<circle cx="304" cy="254" r="9" fill="#fff"/>'
+    s+=TAIL; open(OUT+"reach-hand.svg","w").write(s)
+
+    # 7. Ten rules on a card in your shirt pocket
+    s=head(W,H,"#2FB3A8")
+    s+='<path d="M140,440 L160,120 C240,90 440,90 520,120 L540,440 Z" fill="#2F6BFF"/>'
+    s+='<path d="M300,120 L340,190 L380,120"/>'
+    s+='<rect x="380" y="170" width="110" height="140" rx="6" fill="#FFF6E5" transform="rotate(4 435 240)"/>'
+    for i in range(6): s+=f'<line x1="{396}" y1="{204+i*16}" x2="{470-(i%3)*12}" y2="{206+i*16}" stroke-width="3" transform="rotate(4 435 240)"/>'
+    s+=f'<path d="M398,186 l6,6 l12,-12" stroke="{RED}" stroke-width="5" transform="rotate(4 435 240)"/>'
+    s+='<rect x="360" y="250" width="150" height="90" rx="6" fill="#2457D6"/><line x1="360" y1="250" x2="510" y2="250" stroke-width="6"/>'
+    s+=TAIL; open(OUT+"pocket-card.svg","w").write(s)
+
+    # 8. Open the windows
+    s=head(W,H,"#7FD3FF")
+    s+=f'<circle cx="590" cy="80" r="34" fill="{YEL}"/>'
+    for i in range(8):
+        a=i*math.pi/4; s+=f'<line x1="{590+44*math.cos(a):.0f}" y1="{80+44*math.sin(a):.0f}" x2="{590+58*math.cos(a):.0f}" y2="{80+58*math.sin(a):.0f}" stroke="{YEL}" stroke-width="5"/>'
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<path d="M140,190 L320,80 L500,190 Z" fill="#FF5A5F"/><rect x="160" y="190" width="320" height="220" fill="#FFF6E5"/>'
+    s+='<rect x="290" y="320" width="60" height="90" fill="#5A3E9B"/>'
+    for (x,y) in [(190,220),(380,220)]:
+        s+=f'<rect x="{x}" y="{y}" width="70" height="70" fill="{YEL}"/>'
+        s+=f'<path d="M{x},{y} L{x-26},{y+12} L{x-26},{y+64} L{x},{y+70} Z" fill="#7FD3FF"/><path d="M{x+70},{y} L{x+96},{y+12} L{x+96},{y+64} L{x+70},{y+70} Z" fill="#7FD3FF"/>'
+        s+=f'<path d="M{x+10},{y+4} C{x+20},{y+30} {x+4},{y+50} {x+16},{y+66}" stroke="#FF8FB1" stroke-width="6"/><path d="M{x+60},{y+4} C{x+50},{y+30} {x+66},{y+50} {x+54},{y+66}" stroke="#FF8FB1" stroke-width="6"/>'
+    for (x,y) in [(90,250),(560,260),(110,320)]: s+=f'<path d="M{x},{y} q14,-10 28,0 q14,10 28,0" stroke="#fff" stroke-width="4"/>'
+    s+=bird(560,170)+bird(600,200)
+    s+=TAIL; open(OUT+"open-windows.svg","w").write(s)
+
+    # 9. A father explains, calmly, on the porch step
+    s=head(W,H,"#FF8FB1")
+    s+='<rect x="60" y="330" width="560" height="30" fill="#9C6B3C"/><rect x="60" y="360" width="560" height="50" fill="#7A5230"/><line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=door(90,100,110,230,"#5A3E9B")
+    s+=man(330,184,"flat","#2F6BFF")+'<path d="M326,334 L290,340 L286,406"/><path d="M344,334 L310,350 L312,406"/>'
+    s+='<path d="M316,224 L300,290 L330,310"/><path d="M344,224 L400,250"/>'
+    s+=man(460,224,"happy","#FFD23F").replace('r="34"','r="26"')+'<path d="M456,374 L486,378 L490,406"/><path d="M470,374 L500,384 L502,406"/>'
+    s+='<path d="M446,262 L420,300"/><path d="M472,262 L486,320"/>'
+    s+=f'<circle cx="590" cy="70" r="28" fill="{YEL}"/>'
+    s+=TAIL; open(OUT+"father-son-talk.svg","w").write(s)
+
+    # 10. Mention it once, kindly, and leave it where he'll see it
+    s=head(W,H,"#FFD23F")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="120" y="290" width="440" height="20" rx="6" fill="#9C6B3C"/><line x1="150" y1="310" x2="150" y2="408"/><line x1="530" y1="310" x2="530" y2="408"/>'
+    s+='<path d="M250,290 L270,240 L430,240 L410,290 Z" fill="#FF5A5F"/><line x1="340" y1="244" x2="330" y2="288" stroke-width="4"/>'
+    s+=f'<path d="M318,250 L326,250 L326,262 L334,262 L334,270 L326,270 L326,282 L318,282 L318,270 L310,270 L310,262 L318,262 Z" fill="#fff" stroke-width="2.5" transform="translate(42,0)"/>'
+    s+='<rect x="460" y="246" width="36" height="44" rx="6" fill="#fff"/><path d="M496,256 q16,4 0,22"/>'
+    for i in range(3): s+=f'<path d="M{470+i*10},236 q-6,-10 0,-20" stroke="#fff" stroke-width="3"/>'
+    s+='<rect x="150" y="160" width="20" height="130" fill="#C0C6D0"/><path d="M120,160 L200,160 L180,110 L140,110 Z" fill="#fff"/>'
+    s+=TAIL; open(OUT+"book-on-table.svg","w").write(s)
+
 if __name__=="__main__":
-    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30","31","32","33","34"]
+    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30","31","32","33","34","35"]
     for b in which: globals()["batch"+b](OUT)

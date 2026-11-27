@@ -36,6 +36,8 @@ You don't need that. You're not shaky. You gave up nothing and you know it.
 
 Paul told one of his churches what to do with a man caught in some fault. Those who are spiritual, he said, "must restore such a one in a spirit of gentleness". Restore him, and gently. Then comes the warning: "looking to yourself so that you also aren't tempted." The helper is never so far above the helped that he can't end up beside him.
 
+![](images/illustrations/reach-hand.png){.illustration width=80%}
+
 So never tell a married man he's as good as cheating. Never tell a teenager he's filthy. Both already say worse to themselves, every time the screen goes dark.
 
 ## Fences don't free anybody {-}

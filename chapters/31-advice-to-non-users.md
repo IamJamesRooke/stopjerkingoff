@@ -48,6 +48,8 @@ He'll be braced for two hundred pages of hellfire or hormone charts. Tell him th
 
 No confrontations, no arguments. Win one and you've lost him. Mention the book once, kindly, and leave it where he'll see it.
 
+![](images/illustrations/book-on-table.png){.illustration width=80%}
+
 ## To parents {-}
 
 Most men in the trap fell in as boys, alone, with nobody explaining anything. Several of the men quoted in this book started at twelve, and many start younger. That's the age to think about, earlier than you'd like.
@@ -55,6 +57,8 @@ Most men in the trap fell in as boys, alone, with nobody explaining anything. Se
 Don't condemn your son. Shame a boy and you teach him two things: that he's disgusting, and that he must hide better. Secrecy and self-loathing are what the habit feeds on. Paul's instruction fits: "You fathers, don't provoke your children to wrath, but nurture them in the discipline and instruction of the Lord."
 
 But the alternative to condemning isn't silence. Silence is how most men got here. The alternative is an explanation, given calmly, by someone who isn't shocked.
+
+![](images/illustrations/father-son-talk.png){.illustration width=80%}
 
 So, fathers, a few suggestions.
 

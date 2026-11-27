@@ -22,7 +22,7 @@ It's the same. The Little Monster is no bigger at fifty than he was at fifteen, 
 
 Plenty of men believe they're a special case. "I've got an unusually high drive." "I've got an addictive personality." Christians have their own version: "This is my besetting sin, my thorn. I'll carry it to the grave." That man is borrowing from Paul, who wrote of a "thorn in the flesh". But Paul's thorn was a suffering God allowed. It was never a sin he was told to keep. Usually a man picks up the belief from too many failed streaks and too many alarming videos.
 
-Nobody's born needing to do this to get to sleep. You weren't lying in your crib plotting it. The trap catches a man. His character has nothing to do with it, though the trap is clever enough to make him blame it. Drop that belief. A man who thinks he's in for life will behave like it long after the Little Monster has starved quiet.
+Nobody's born needing to do this to get to sleep. You weren't lying in your crib plotting it. The trap catches a man. His character has far less to do with it than he thinks, and the trap is clever enough to make him blame it. Drop that belief. A man who thinks he's in for life will behave like it long after the Little Monster has starved quiet.
 
 ## The student and the single man {-}
 

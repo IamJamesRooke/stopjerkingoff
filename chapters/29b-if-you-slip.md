@@ -20,6 +20,8 @@ Don't shrug it off, though. You fed the Little Monster and your conscience knows
 
 *Refuse the second one.* The real danger was never the fall. It's the thought that shows up an hour later: "Well, I've ruined it now, so I may as well." That's the streak counter talking. One fall is a fall. A week of "may as well" is the trap. After a fall, what you mostly feel is fear, and a man who decides he's "hooked for life" after one slip has scared himself right back inside.
 
+![](images/illustrations/may-as-well.png){.illustration width=80%}
+
 *Find the lie that crept back.* A fall usually means an old lie got back in. You doubted, or you waited, or you kept a substitute, or you "tested" yourself, or you kept a way back. Nothing you learned in this book has been unlearned. Find the gap, read that part again if it helps, take the final step again and be glad again.
 
 ## The lies that follow a slip {-}

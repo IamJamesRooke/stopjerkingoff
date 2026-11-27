@@ -56,6 +56,8 @@ Lust has been made normal, and the whole machine runs on one fuel: men who can't
 
 Look back at the house for a moment. The Little Monster had no body of his own. He lived on what you lent him: your eyes, your mind, your hand, your feet and your bed. You didn't get rid of him by sweeping harder. You saw that he'd never paid a day's rent, and you showed him the door. The lies came down one at a time. Open the windows. The smell will be gone in a day or two. If an old thought ever drifts past, you know what it is. Let it go by.
 
+![](images/illustrations/open-windows.png){.illustration width=80%}
+
 And the man on the couch? His phone's lying face up on the cushion tonight, and he hasn't given it a thought.
 
 ![](images/illustrations/now-phone-face-up.png){.illustration width=80%}

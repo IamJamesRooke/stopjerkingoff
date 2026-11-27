@@ -52,7 +52,7 @@ So be patient with your body, and tell your wife what's going on, because the wo
 
 ## Nothing to store up {-}
 
-The forums call going without "semen retention", and they promise you'll bench-press a truck. Your body doesn't soak semen back up as some kind of fuel. Nobody has shown that holding it raises your testosterone. And a wet dream doesn't "lose" you anything. If you feel better for stopping, as many men say they do, enjoy it as a bonus. You stopped to be free.
+The forums call going without "semen retention", and they promise you'll bench-press a truck. Your body doesn't soak semen back up as some kind of fuel. Nothing solid shows that holding it gives you lasting extra testosterone. And a wet dream doesn't "lose" you anything. If you feel better for stopping, as many men say they do, enjoy it as a bonus. You stopped to be free.
 
 One last word. If you're married, none of this means holding back from your wife. She isn't the habit.
 

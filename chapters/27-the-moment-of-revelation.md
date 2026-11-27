@@ -6,7 +6,7 @@
 
 Some time after he stops, many a man has a moment when he simply knows he's free.
 
-It's hard to describe and impossible to mistake. The morning looks scrubbed clean. Up to then you've been *telling* yourself you don't need the habit. Now you don't have to tell yourself anything. The last thread has gone. You're done with it, and you don't want it back. From then on you look at men still in the trap and feel only pity.
+It's hard to describe and impossible to mistake. The morning looks scrubbed clean. Up to then you've been *telling* yourself you don't need the habit. Now you don't have to tell yourself anything. The last thread has gone. You're done with it, and you don't want it back. From then on you look at men still in the trap and feel for them, with no wish to join them.
 
 One of the Psalms has a picture of it. "Our soul has escaped like a bird out of the fowler's snare." A fowler is a man who traps birds. The bird is out, and the snare lies broken on the ground behind it. The next line says who broke it: "Our help is in the LORD's name, who made heaven and earth."
 

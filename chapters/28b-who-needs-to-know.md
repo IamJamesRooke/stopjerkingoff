@@ -10,6 +10,8 @@ Should you tell your wife? Your pastor? A friend? The habit fed on secrecy, so y
 
 Tell one man. A pastor, a priest, an elder, or an older friend with some sense. Nobody like that? A counselor or a doctor counts, and so does a helpline. Under eighteen? Tell a parent, a school counselor or a doctor. That's what the apostle James told believers to do, and it works. A thing said out loud to another man loses half its size.
 
+![](images/illustrations/tell-one-man.png){.illustration width=80%}
+
 Know what you're asking him for. You're not hiring a cop. A weekly "did you or didn't you" is the Willpower Method with a witness, and it keeps the habit at the center of your life. Tell him like a free man giving news: "This had me for years. It's over. I wanted one person to know." Then let him ask whenever he likes.
 
 ## Your wife {-}

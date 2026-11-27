@@ -16,7 +16,7 @@ The caller gets four answers, and you've given the first: you said it once, and 
 
 You know your hour: the shower, the parked car, a Sunday afternoon with nothing planned. Expect it. A bell you saw coming is only a bell.
 
-Lie awake the first night or two? Lie there and be glad. You know what's dying.
+Lie awake the first night or two? Lie there and be glad. You know who's starving.
 
 ## You are already free {-}
 
@@ -41,6 +41,8 @@ It doesn't work like that. Stopping the habit is easy. Controlling it is impossi
 **Don't fall for that.**
 
 However long you've been free, and however sure you are that nothing can catch you again, keep one rule for life. Not once, for any reason. Not on a lonely anniversary, not "to help me sleep", not "just to see". The Little Monster starves and stops calling. Years from now, on some quiet evening, drying a dish, an old thought may drift past. It's like reaching for the light switch in a house you moved out of long ago. Nothing's behind it. It's only the memory of a call. Notice it, smile, and don't pick up. "Just once" is the one thing that could put the Little Monster back in the room.
+
+![](images/illustrations/ring-drying-dish.png){.illustration width=80%}
 
 The rule is strict, and the grace is real. A man who falls confesses it that day, refuses the second one, and gets up. Don't plan on needing that.
 
