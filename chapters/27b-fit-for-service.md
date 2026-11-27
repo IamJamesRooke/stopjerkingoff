@@ -36,6 +36,8 @@ And being fit isn't the price of being loved. It's what a loved man is for.
 
 The prophet Isaiah once saw a vision of God on his throne. His first words were, "Woe is me!", because he knew what he was. Then an angel touched his lips with a coal from the altar and told him his sin was forgiven. And when God asked, "Whom shall I send, and who will go for us?", the forgiven man didn't hesitate. He said, "Here I am. Send me!"
 
+![](images/illustrations/fit-here-am-i.png){.illustration width=80%}
+
 You're about to say it. But laugh first.
 
 <!-- REWRITTEN 2026-11-17 after the reader report: the chapter is shorter, the David section names Bathsheba and Uriah as people who were harmed, and the Ai passage, the Lewis, Nehemiah, Psalm 139, Titus, 2 Timothy 2:21 and Hebrews 12 quotations and two pastors' lines were cut. Source lines below for cut quotations are kept for the record. Bathsheba is named in 2 Samuel 11:3; David "sent messengers, and took her" (11:4); the letter is 11:14-15; the child dies in 12:18. These are retold, not quoted.

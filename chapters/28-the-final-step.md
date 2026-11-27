@@ -44,6 +44,8 @@ Here is how.
 
 **1. Go somewhere you can be alone and speak out loud.** Kneel if you're able. A man's knees teach his mind what's going on.
 
+![](images/illustrations/final-step-kneel.png){.illustration width=80%}
+
 **2. Pray this.** Use your own words if you prefer, but don't make it long or clever. Near the end you will ask to be shown a man to go back for. He is some man you know who is still where you were. A freed man goes back for one.
 
 > Father, I confess it.
@@ -87,6 +89,8 @@ If you're Catholic, take this to Confession as well, and soon. The Church asks C
 **"YES! I'M FREE!"**
 
 Shout it if the neighbors can stand it.
+
+![](images/illustrations/final-step-im-free.png){.illustration width=80%}
 
 Don't get up thinking "I must never do that again" or "I'm not allowed anymore". Those are a prisoner's sentences. Get up thinking, "Isn't it wonderful? I never have to do that again. I'm free."
 

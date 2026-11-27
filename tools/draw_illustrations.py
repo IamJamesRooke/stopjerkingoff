@@ -2738,6 +2738,69 @@ def batch33(OUT):
     for y in (200,250,300): s+=f'<line x1="{360}" y1="{y}" x2="{320}" y2="{y}" stroke-width="4"/>'
     s+=TAIL; open(OUT+"temptation-joseph-ran.svg","w").write(s)
 
+# ---- Batch 34: The Moment You Know, Fit for Service, Not Drinking Bleach, The Final Step ----
+def bottle(x,y,col="#fff"):
+    return f'<path d="M{x-24},{y} L{x-24},{y-70} C{x-24},{y-86} {x-12},{y-90} {x-10},{y-100} L{x+10},{y-100} C{x+12},{y-90} {x+24},{y-86} {x+24},{y-70} L{x+24},{y} Z" fill="{col}"/><rect x="{x-12}" y="{y-114}" width="24" height="16" rx="3" fill="#FF3B30"/><path d="M{x-12},{y-50} l24,0 M{x-12},{y-36} l24,0" stroke="#4FB3FF" stroke-width="4"/>'
+def batch34(OUT):
+    W,H=680,440
+    import math
+    # 1. A hotel room on a business trip, and he coped perfectly well
+    s=head(W,H,"#7B4FD6")
+    s+=moon(600,60,16)+stars([(520,40),(560,100)])
+    s+='<rect x="480" y="30" width="170" height="130" fill="#1B2459"/><line x1="565" y1="30" x2="565" y2="160"/>'
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=bed(110,310,380,"#FFF6E5")
+    s+='<ellipse cx="170" cy="300" rx="46" ry="16" fill="#fff"/><path d="M220,310 C240,276 440,276 490,310 Z" fill="#7FD3FF"/>'
+    s+='<circle cx="190" cy="250" r="28" fill="#fff"/><path d="M180,244 q4,-4 8,0 M194,244 q4,-4 8,0" stroke-width="3"/><path d="M184,260 q8,6 16,0" stroke-width="3"/>'
+    s+='<path d="M210,270 L240,256"/><path d="M226,230 L276,226 L270,270 L222,276 Z" fill="#FF3B30"/><line x1="248" y1="228" x2="246" y2="274" stroke-width="3"/>'
+    s+=f'<rect x="530" y="330" width="80" height="80" fill="#9C6B3C"/><rect x="556" y="318" width="24" height="12" rx="3" fill="{INK}"/>'
+    s+=TAIL; open(OUT+"moment-hotel-room.svg","w").write(s)
+
+    # 2. Here am I. Send me.
+    s=head(W,H,"#FFD23F")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    for i,(x,c) in enumerate([(100,"#C0C6D0"),(190,"#C0C6D0"),(450,"#C0C6D0"),(560,"#C0C6D0")]):
+        s+=f'<circle cx="{x}" cy="230" r="24" fill="#fff"/>'+dot(x-6,226,3)+dot(x+6,226,3)+f'<path d="M{x-18},254 C{x-26},290 {x-24},340 {x-18},360 L{x+18},360 C{x+24},340 {x+26},290 {x+18},254 Z" fill="{c}"/><path d="M{x-6},360 L{x-8},408 M{x+6},360 L{x+8},408"/>'
+    s+=man(320,174,"happy")+legs(320,324,16)+'<path d="M306,220 L290,290"/><path d="M336,220 L360,140 L366,90"/>'
+    for (x1,y1,x2,y2) in [(340,86,326,74),(366,72,366,54),(392,86,406,74)]: s+=f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="{RED}" stroke-width="5"/>'
+    s+=TAIL; open(OUT+"fit-here-am-i.svg","w").write(s)
+
+    # 3. The Bleachstronaut and his medal
+    s=head(W,H,"#7FD3FF")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="400" y="300" width="220" height="16" rx="5" fill="#9C6B3C"/><line x1="420" y1="316" x2="420" y2="408"/><line x1="600" y1="316" x2="600" y2="408"/>'
+    s+=bottle(520,300)
+    s+=man(240,190,"squeeze","#fff")+legs(240,340,16).replace('86','70')
+    s+='<circle cx="240" cy="190" r="50" fill="#BFE3FF" opacity="0.6"/><circle cx="240" cy="190" r="50" fill="none" stroke-width="5"/>'
+    s+='<path d="M226,236 L190,280"/><path d="M256,236 L300,250 L330,230"/><path d="M330,230 l-6,-14 M330,230 l12,-8" stroke-width="4"/>'
+    s+=f'<path d="M230,250 L240,272 L250,250" stroke="{RED}" stroke-width="4"/><circle cx="240" cy="282" r="12" fill="{YEL}"/>'
+    s+=TAIL; open(OUT+"bleach-bleachstronaut.svg","w").write(s)
+
+    # 4. Go somewhere you can be alone and speak out loud
+    s=head(W,H,"#2B3A8F")
+    s+=moon(600,70,18)+stars([(80,60),(160,110),(470,50)])
+    s+='<line x1="30" y1="410" x2="650" y2="410" stroke="#fff"/>'
+    s+='<rect x="430" y="160" width="140" height="140" fill="#1B2459"/><line x1="500" y1="160" x2="500" y2="300"/><line x1="430" y1="230" x2="570" y2="230"/>'
+    s+='<circle cx="290" cy="216" r="34" fill="#fff"/><path d="M276,210 q5,4 10,0 M294,210 q5,4 10,0" stroke-width="3.5"/><line x1="284" y1="230" x2="298" y2="230" stroke-width="3.5"/>'
+    s+='<path d="M270,252 C254,276 254,320 266,346 L310,346 C322,320 322,276 306,252 Z" fill="#2F6BFF"/>'
+    s+='<path d="M270,346 L240,350 L236,408 M306,346 L330,404 L280,408"/>'
+    s+='<path d="M276,272 L300,300 L292,272 Z" fill="#fff"/><path d="M300,270 L300,302"/>'
+    s+=TAIL; open(OUT+"final-step-kneel.svg","w").write(s)
+
+    # 5. YES! I'M FREE!
+    s=head(W,H,"#9BD13A")
+    s+=f'<circle cx="560" cy="80" r="34" fill="{YEL}"/>'
+    for i in range(8):
+        a=i*math.pi/4; s+=f'<line x1="{560+44*math.cos(a):.0f}" y1="{80+44*math.sin(a):.0f}" x2="{560+60*math.cos(a):.0f}" y2="{80+60*math.sin(a):.0f}" stroke="{YEL}" stroke-width="5"/>'
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<circle cx="320" cy="174" r="34" fill="#fff"/><path d="M306,166 q5,-6 10,0 M324,166 q5,-6 10,0" stroke-width="3.5"/><path d="M306,182 q14,22 28,0 Z" fill="#5a1414" stroke-width="3.5"/>'
+    s+='<path d="M304,212 C288,238 288,298 302,326 L340,326 C350,298 348,238 334,212 Z" fill="#2F6BFF"/>'+legs(320,324,22)
+    s+='<path d="M304,230 L250,160 L240,120"/><path d="M334,230 L390,160 L400,120"/>'
+    for (x1,y1,x2,y2) in [(220,110,200,96),(230,140,206,140),(420,110,440,96),(410,140,434,140),(320,100,320,78)]: s+=f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="{RED}" stroke-width="5"/>'
+    s+=monster(560,404,"dangle",0.5,stink=False)
+    s+='<path d="M600,404 L640,400" stroke-dasharray="4 8" stroke-width="3"/>'
+    s+=TAIL; open(OUT+"final-step-im-free.svg","w").write(s)
+
 if __name__=="__main__":
-    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30","31","32","33"]
+    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30","31","32","33","34"]
     for b in which: globals()["batch"+b](OUT)

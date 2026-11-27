@@ -1,6 +1,6 @@
 # Whose Voice Is That? {#whose-voice-is-that}
 
-The voice that talks a man back into the habit sounds like his own. Here's a tool for telling them apart. It's for the man who has seen through every lie in this book and still gets tripped up. It's an old technique from addiction recovery.
+The voice that talks a man back into the habit sounds like his own. Here's a tool for telling them apart. It's for the man who has seen through every lie in this book and still gets tripped up. It's a technique from addiction recovery.
 
 **The old lie speaks in your voice and says "I".** The Little Monster is only an itch, and an itch can't talk. The voice belongs to the Big Monster. It never says, "This is your old habit speaking." It says, "I could do with it tonight," or "I've had a rough week," or "I deserve something." It sounds exactly like your own thinking, so you take it for your own.
 
@@ -14,7 +14,7 @@ Here's a second test. Hold up your hand and wiggle your fingers. Now ask the urg
 
 ![](images/illustrations/voice-wiggle-your-fingers.png){.illustration width=80%}
 
-Hearing the voice doesn't mean you believe the lies again. A man hears "I want it" in his own head and his stomach drops: "The book hasn't worked." Ask one question: *do I actually believe what that voice just said?* If the honest answer is no, your understanding is fine. You've only heard a car alarm. In Romans 7, Paul told the two voices apart in a single line: "So now it is no more I that do it, but sin which dwells in me." That doesn't make it someone else's fault. It means you don't have to obey it.
+Hearing the voice doesn't mean you believe the lies again. A man hears "I want it" in his own head and his stomach drops: "The book hasn't worked." Ask one question: *do I actually believe what that voice just said?* If the honest answer is no, your understanding is fine. You've only heard a car alarm. In Romans 7, Paul drew the same line: "So now it is no more I that do it, but sin which dwells in me." That doesn't make it someone else's fault. It means you don't have to obey it.
 
 ## Lines for a hard moment {-}
 

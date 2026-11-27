@@ -38,7 +38,7 @@ That's one evening. Over the years the secret does four things.
 
 **It protects the lies.** A lie kept in your head never has to face a question. Said aloud, it sounds as thin as it is. Try telling another grown man, with a straight face, "I need this in order to sleep."
 
-**It splits you in two.** There's the man people meet, and there's the man behind the door. The first spends his energy making sure nobody meets the second. The wall leaks. What a man does in private seeps out in public. C.S. Lewis wrote that "almost the main work of life is to come out of our selves, out of the little dark prison we are all born in." A secret is that prison with the bolt on the inside.
+**It splits you in two.** There's the man people meet, and there's the man behind the door. The first spends his energy making sure nobody meets the second. The wall leaks. What a man does in private seeps out in public. C.S. Lewis, writing to a man about this very habit, said that "almost the main work of life is to come out of our selves, out of the little dark prison we are all born in." A secret is that prison with the bolt on the inside.
 
 **It sets you against your own side.** A secret has to be guarded against somebody. This one is guarded against the people who are for you: your wife, your friends, your children. That's a small betrayal, repeated every day. The free man is done with it. He's on the same side as the people who love him.
 

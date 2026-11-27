@@ -31,7 +31,7 @@ Nothing in that week took courage. A bell rang a few times and nobody got up. Yo
 
 ## The leftover itch {-}
 
-The leftover itch doesn't hurt at all. Think of skipping lunch. Your stomach growls and you snap at the guy in the next cubicle, but nothing hurts. The itch is milder, and your body needs lunch but doesn't need this. In a man who isn't moping, the itch fades fast and is gone for good. The Little Monster has the staying power of a toddler at bedtime. He's loud, then quiet, then asleep.
+The leftover itch doesn't hurt at all. Think of skipping lunch. Your stomach growls and you snap at the guy in the next cubicle, but nothing hurts. The itch is milder, and your body needs lunch but doesn't need this. In a man who isn't moping, the itch fades fast and soon grows too faint to notice. The Little Monster has the staying power of a toddler at bedtime. He's loud, then quiet, then asleep.
 
 Men on the Willpower Method get through this part too. The itch isn't what brings them down. The cues do.
 

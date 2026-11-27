@@ -26,6 +26,8 @@ For others it comes on like a dawn. One young man, telling how God freed him, wa
 
 When it does come as a moment, it usually comes in one of the old danger spots. A hotel room on a business trip, a sleepless night, the evening after a fight. You get to the far side and realize you coped perfectly well, or even enjoyed yourself. The thought of the habit never crossed your mind.
 
+![](images/illustrations/moment-hotel-room.png){.illustration width=80%}
+
 For the man on the couch it comes like this. His wife reaches across and picks up his phone to check the time, and nothing in his chest jumps. Only afterward does he notice that the phone was lying face up.
 
 ## Don't test it {-}

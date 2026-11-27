@@ -27,7 +27,7 @@ Remember the man on the couch, with his phone face down on the cushion? Here's h
 
 He talks to men who've quit, expecting to find them barely hanging on. Most of them laugh. "Miss it? You're joking." So he says to himself, out loud: "Like it or not, that was the last time." He braces for months of misery. What he gets is relief on day one, and it doesn't leave.
 
-Why so smooth? The terrible cravings he braced for don't exist. Doubt makes them. A man suffers only when he wants the habit and thinks he can't have it. Even in the trap you go whole days without it when you're slammed at work or stuck in an airport, and you barely notice. The misery comes from wavering: the "maybe just tonight", the door left open a crack.
+Why so smooth? The terrible cravings he braced for mostly come from doubt. What's left is a small itch, nothing like the dread. A man suffers most when he wants the habit and thinks he can't have it. Even in the trap you go whole days without it when you're slammed at work or stuck in an airport, and you barely notice. The misery comes from wavering: the "maybe just tonight", the door left open a crack.
 
 So when your turn comes, make the decision certain and final. Don't hope you've stopped.
 
@@ -47,9 +47,9 @@ One man, who now teaches other men about this, spent years repenting and falling
 
 Let your sorrow look up, not in. Be sorry for what this has cost the people you love. Then get up.
 
-Guilt loads the gun. The man who decides and then spends three weeks feeling filthy is moping in religious clothes, and he ends up in the same place. Grace is what makes instruction two possible. You rejoice because the past really is dealt with. A man of forty-three, who'd fasted and read his Bible over it for years, summed up his freedom in three words and capital letters: "JESUS DID IT!" That's what rejoicing sounds like, and you can start on day one.
+Guilt loads the gun. The man who decides and then spends three weeks feeling filthy is moping in religious clothes, and he ends up in the same place. Grace is what makes instruction two possible. The believer rejoices because the past really is dealt with. A man of forty-three, who'd fasted and read his Bible over it for years, summed up his freedom in three words and capital letters: "JESUS DID IT!" That's what rejoicing sounds like, and you can start on day one.
 
-Dr. Kanojia, the psychiatrist, has noticed what frightens his patients about stopping: "if I stop, I have to face the guilt of having screwed up the last 10 years of my life." That fear has an answer. The ten years are confessed and forgiven. You don't have to carry them, and you don't have to keep the habit going to avoid looking at them.
+Dr. Kanojia, the psychiatrist, has noticed what frightens his patients about stopping: "if I stop, I have to face the guilt of having screwed up the last 10 years of my life." That fear has an answer. For the believer, the ten years are confessed and forgiven. You don't have to carry them, and you don't have to keep the habit going to avoid looking at them.
 
 If you're not a believer, the same advice holds: drop the self-hatred. It never helped you once. The years are spent either way, and hating yourself buys none of them back. What's still yours is the next ten. Decide, and be glad.
 
