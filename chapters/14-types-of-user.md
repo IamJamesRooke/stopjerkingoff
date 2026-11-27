@@ -35,6 +35,8 @@ The daily man thinks he's weak, and can't see how other men keep it to once a we
 
 So the men in the trap differ in their brakes, and in where their lust goes, and in nothing else. Line them up, shallow end to deep, and you'll find yourself among them.
 
+![](images/illustrations/every-man-one-pit.png){.illustration width=80%}
+
 ## The line-up {-}
 
 You may be in it more than once. Notice, as you go, that nearly every man in it has a reason he's not as bad as the next one.
@@ -69,6 +71,8 @@ Every man in the trap says a version of that prayer.
 - "At least I've never paid for it."
 
 The second man was a tax collector, a man everyone despised. He compared himself with nobody. He only said, "God, be merciful to me, a sinner!" Jesus said he was the one who went home right with God that day.
+
+![](images/illustrations/every-man-pharisee-and-tax-collector.png){.illustration width=80%}
 
 There aren't really any types. There's one trap, and men are standing at different depths in it. The way out is the same for all of them.
 

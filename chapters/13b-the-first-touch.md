@@ -26,6 +26,8 @@ The makers of Lay's potato chips once ran a famous slogan. "Betcha can't eat jus
 
 The first chip isn't a small helping of chips. It's what opens the bag.
 
+![](images/illustrations/first-touch-one-chip.png){.illustration width=80%}
+
 ## Fasting is easier than dieting {-}
 
 Anyone who's tried both knows it's easier to fast than to diet.
@@ -41,6 +43,8 @@ This is no rule to grit your teeth over. It's a map of where the choice is. The 
 So once your No is said, the instruction fits in four words, and your grandmother could have given it. Stop touching your junk.
 
 When you wake up hard, it's plumbing. It's not a summons. Get up and make the coffee.
+
+![](images/illustrations/first-touch-make-the-coffee.png){.illustration width=80%}
 
 The lie has one more trick. It points at another man and says, "Look at him. He has it under control."
 

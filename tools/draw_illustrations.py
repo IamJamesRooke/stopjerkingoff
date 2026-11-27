@@ -2198,6 +2198,85 @@ def batch24(OUT):
     s+='<path d="M346,290 L386,226" stroke-width="5"/>'
     s+=TAIL; open(OUT+"negotiate-on-a-chair.svg","w").write(s)
 
+# ---- Batch 25: Just Once, The First Touch, Every Man in the Trap ----
+def batch25(OUT):
+    W,H=680,440
+    import math
+    # 1. Just once does not exist: it's a chain
+    s=head(W,H,"#7FD3FF")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    for i in range(11):
+        x=90+i*50; y=200+i*12
+        if i%2==0:
+            col=YEL if i==0 else "#A7AFBD"
+            s+=f'<ellipse cx="{x}" cy="{y}" rx="34" ry="20" stroke="{INK}" stroke-width="16"/><ellipse cx="{x}" cy="{y}" rx="34" ry="20" stroke="{col}" stroke-width="9"/>'
+        else:
+            s+=f'<rect x="{x-32}" y="{y-7}" width="64" height="14" rx="7" fill="#A7AFBD" stroke-width="4"/>'
+    s+=TAIL; open(OUT+"just-once-the-chain.svg","w").write(s)
+
+    # 2. A poisoned cookie: you don't resist it, you just don't eat it
+    s=head(W,H,"#FFD23F")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="400" y="300" width="200" height="16" rx="5" fill="#9C6B3C"/><line x1="420" y1="316" x2="420" y2="408"/><line x1="580" y1="316" x2="580" y2="408"/>'
+    s+=plate(500,296,50,10)+'<circle cx="500" cy="282" r="22" fill="#9BD13A"/>'+dot(492,276,4)+dot(506,286,4)+dot(500,272,3)
+    for dx in (-14,0,14): s+=f'<path d="M{500+dx},254 c-6,-8 6,-14 0,-22" stroke="{STINK}" stroke-width="4"/>'
+    s+=man(220,174,"happy")+'<path d="M216,324 L190,408"/><path d="M234,324 L270,404"/><path d="M206,220 L180,280"/><path d="M236,220 L270,270"/>'
+    s+=TAIL; open(OUT+"just-once-poisoned-cookie.svg","w").write(s)
+
+    # 3. Sin crouches at the door: a pipsqueak with a telephone, and he laughs at him
+    s=head(W,H,"#FF8FB1")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="300" y="60" width="16" height="350" fill="#FFF6E5"/>'+door(316,180,110,230,"#5A3E9B")
+    s+=monster(530,404,"bang",0.7,stink=False)
+    s+=f'<path d="M560,370 C580,340 600,350 600,330" stroke-width="3"/><rect x="584" y="312" width="34" height="20" rx="8" fill="{RED}"/>'
+    s+=man(170,174,"happy")+legs(170,324,16)+'<path d="M156,220 L130,270"/><path d="M186,220 L200,270"/>'
+    for (x1,y1,x2,y2) in [(220,140,236,130),(222,160,240,160),(220,180,236,190)]: s+=f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke-width="4"/>'
+    s+=TAIL; open(OUT+"just-once-crouching-at-the-door.svg","w").write(s)
+
+    # 4. The first chip opens the bag
+    s=head(W,H,"#FF7A59")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<path d="M360,140 L560,140 L580,400 L340,400 Z" fill="#FFD23F"/><path d="M360,140 l20,-14 l20,14 l20,-14 l20,14 l20,-14 l20,14 l20,-14 l20,14 l20,-14 l20,14" />'
+    for (x,y,r) in [(410,110,0),(470,80,20),(520,110,-20),(440,60,40),(500,40,-10),(560,70,30)]:
+        s+=f'<ellipse cx="{x}" cy="{y}" rx="22" ry="14" fill="#FFE08A" transform="rotate({r} {x} {y})"/>'
+    s+=man(200,174,"flat")+legs(200,324,16)+'<path d="M186,220 L170,290"/><path d="M216,220 L270,200 L290,180"/>'
+    s+='<ellipse cx="296" cy="172" rx="16" ry="10" fill="#FFE08A"/>'
+    s+=TAIL; open(OUT+"first-touch-one-chip.svg","w").write(s)
+
+    # 5. When you wake up, get up and make the coffee
+    s=head(W,H,"#7FD3FF")
+    s+=f'<circle cx="590" cy="70" r="28" fill="{YEL}"/>'
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="340" y="290" width="300" height="120" fill="#FFF6E5"/><rect x="330" y="276" width="320" height="16" fill="#C9965E"/>'
+    s+='<rect x="420" y="190" width="70" height="86" rx="8" fill="#141414"/><rect x="430" y="240" width="50" height="36" fill="#fff" stroke-width="3"/>'
+    s+='<rect x="510" y="244" width="30" height="32" rx="4" fill="#fff"/><path d="M540,252 q12,6 0,16"/><path d="M518,236 q-5,-9 0,-16 M530,236 q-5,-9 0,-16" stroke-width="3"/>'
+    s+=man(240,174,"happy")+legs(240,324,16)+'<path d="M226,220 L210,280"/><path d="M256,220 L320,250 L350,240"/>'
+    for (x1,y1,x2,y2) in [(190,130,176,118),(240,108,240,90),(290,130,304,118)]: s+=f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="{YEL}" stroke-width="5"/>'
+    s+=TAIL; open(OUT+"first-touch-make-the-coffee.svg","w").write(s)
+
+    # 6. One trap: men standing at different depths
+    s=head(W,H,"#9BD13A")
+    s+='<path d="M30,150 L130,150 L130,190 L600,392 L600,150 L650,150 L650,410 L30,410 Z" fill="#9C6B3C"/>'
+
+    for i,(x,c) in enumerate([(180,"#FF7A59"),(300,"#FFD23F"),(420,"#FF8FB1"),(540,"#7B4FD6")]):
+        fy=190+(x-130)*220/510; y=int(fy-128)
+        s+=f'<path d="M{x-6},{y+70} L{x-10},{fy:.0f} M{x+6},{y+70} L{x+10},{fy:.0f}"/>'
+        s+=f'<circle cx="{x}" cy="{y}" r="22" fill="#fff"/>'+dot(x-6,y-4,3)+dot(x+6,y-4,3)
+        s+=f'<path d="M{x-16},{y+22} C{x-22},{y+40} {x-20},{y+60} {x-16},{y+70} L{x+16},{y+70} C{x+20},{y+60} {x+22},{y+40} {x+16},{y+22} Z" fill="{c}"/>'
+    s+=TAIL; open(OUT+"every-man-one-pit.svg","w").write(s)
+
+    # 7. The Pharisee and the tax collector
+    s=head(W,H,"#FFD23F")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    for x in (80,200,480,600): s+=f'<rect x="{x}" y="60" width="34" height="350" fill="#FFF6E5"/>'
+    s+='<path d="M60,60 L640,60 L620,30 L80,30 Z" fill="#E8DCC4"/>'
+    s+=man(300,170,"happy","#FFFFFF")+legs(300,320,14)
+    s+='<path d="M286,216 L250,160"/><path d="M316,216 L350,160"/>'
+    s+=f'<path d="M286,140 L314,140" stroke-width="3"/>'
+    s+='<g transform="rotate(20 560 300)">'+man(540,220,"blank","#9C6B3C")+'</g>'
+    s+='<path d="M520,360 L506,408"/><path d="M540,364 L548,408"/><path d="M520,260 L500,290 L520,300"/>'
+    s+=TAIL; open(OUT+"every-man-pharisee-and-tax-collector.svg","w").write(s)
+
 if __name__=="__main__":
-    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24"]
+    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25"]
     for b in which: globals()["batch"+b](OUT)

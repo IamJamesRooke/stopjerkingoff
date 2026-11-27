@@ -20,7 +20,7 @@ Men say afterward that the habit "came back". Nothing came back. He picked up.
 
 So what does a man get for picking up?
 
-If the Little Monster's still alive, a few minutes of quiet, and a lesson for the caller in how many times to ring. If he's long dead, there's no itch to relieve. The man gets a few seconds, then ten flat minutes, and feels like a fool.
+If the Little Monster's still hungry, a few minutes of quiet, and a lesson for the caller in how many times to ring. If he's long since starved quiet, there's no itch to relieve. The man gets a few seconds, then ten flat minutes, and feels like a fool.
 
 Then the flatness lands. It's so grim he's dead sure nothing this miserable could ever hook him again.
 
@@ -40,7 +40,9 @@ The message is always about one special time. The one after a week away on busin
 
 Notice what it never says. "Go back to doing this every night for another twenty years." No man would take that deal. So it offers one, because one is the only size it can sell.
 
-Get this fixed in your mind: JUST ONCE DOES NOT EXIST. It's a chain, and each link is forged by the one before. The myth of the rare special occasion also keeps men moping after they've quit, like a man who's moved to a new house and keeps driving past the old one.
+Get this fixed in your mind: JUST ONCE DOES NOT EXIST. It's a chain, and each link is forged by the one before.
+
+![](images/illustrations/just-once-the-chain.png){.illustration width=80%} The myth of the rare special occasion also keeps men moping after they've quit, like a man who's moved to a new house and keeps driving past the old one.
 
 ## One little look {-}
 
@@ -62,6 +64,8 @@ And when the voice comes, remember the four instructions. The first is said only
 
 A man who got out called the whole business "just a poisoned cookie." That's the difference between the two methods. The willpower man stands in front of the cookie, telling himself not to take it. You've seen it's poisoned. You don't have to resist it. You just don't eat it.
 
+![](images/illustrations/just-once-poisoned-cookie.png){.illustration width=80%}
+
 Don't let any of this frighten you. Any man can do it. It's absurdly easy, so long as you have three things straight:
 
 1. There's nothing to give up. There's only a great deal to gain.
@@ -81,6 +85,8 @@ It's de Becker's picture, thousands of years before there was a telephone. Somet
 You are to rule over it. That doesn't mean wrestling him on the doorstep, or leaning on the door all night. Nothing is pushing from the other side. It means you don't open it, and once you've seen what's outside, you don't want to.
 
 And look at what's crouching there. It isn't a dragon. It's a pipsqueak with a telephone. Martin Luther was the monk who started the Protestant Reformation. He said that if the devil won't leave any other way, you should jeer at him, because he can't bear scorn. So laugh at the caller all you like. Just don't fight him, and don't answer him.
+
+![](images/illustrations/just-once-crouching-at-the-door.png){.illustration width=80%}
 
 Don't open the door. James, one of the first leaders of the church, put it as a promise: "Be subject therefore to God. Resist the devil, and he will flee from you." That's no call to wrestle. To resist him is simply not to answer. He has nothing else.
 
