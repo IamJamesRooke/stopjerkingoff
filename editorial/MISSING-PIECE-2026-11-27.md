@@ -18,3 +18,8 @@ Readers: Tyler, 22, daily for 8 years, failed streaks; Mark, 41, divorced atheis
 7. **The narrator's story ends in failure** (Tyler). "Kept me clean for almost a year. I went back." A reader wonders why to trust him. (Constraint: the book must not claim he is free until James is.)
 8. **Day-90 relapse autopsy and the NoFap benefits** (Tyler): walk one relapse through minute by minute naming each lie; say honestly why reported benefits aren't the habit giving anything.
 9. **Master vs pipsqueak** (Mark): still reads as a clash in places; the fix line ("the lies made a pipsqueak look like a king") is in A Master, Not a Habit.
+
+## Parked from the chapter 15-21 panel (2026-11-27)
+- Why Are You Doing That?: readers felt the woman's selfie gets more scorn than the gym-mirror man, and "Find a nice guy. Have a family." / "A girl's modesty" (Why Pay Them?) read as lectures aimed at women. These are James's own lines, so they're left for him.
+- Mud on Purpose: three readers found the celebrity list long; suggest cutting to three or four examples at the end-of-book pass.
+- Ephesians 5:12 in Why Pay Them? is used to mean "expose" while Paul says even speaking of it is shameful; consider rewording.
