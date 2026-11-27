@@ -18,6 +18,8 @@ He has a friend who's a woman, and he's been in love with her for three years. H
 
 But a friend wants nothing back, and this man is keeping count. Every favor is a deposit in an account he's sure will pay out one day. She may know it and enjoy the service, or have no idea. Either way, he isn't being kind. He's waiting to be paid, and under the good manners he's angry the check hasn't come.
 
+![](images/illustrations/chase-favors-in-the-bank.png){.illustration width=80%}
+
 Put the same test to him. Would he do all this for a man? Would he do it for her if he knew for certain that nothing would ever come of it? If the answer is no, it was never a gift.
 
 If that's you, the way out is plain. Stop the favors that are really payments. Tell her once, outright, what you want, or step back and say nothing. Then see what's left. Either the friendship stands on its own or it never was one.
@@ -39,6 +41,8 @@ Same app, two different evenings. Three in ten of those men said casual sex was 
 Now ask how the app makes its money. You pay by the month for more swipes and better odds. A man who finds his wife cancels. A man who almost finds her pays again. Nobody has to cheat you for that to matter. The app's best customer is the man who never quite gets there.
 
 In 2024 six users took the owner of two of the biggest apps to court in San Francisco. Their complaint said the apps were built like games, to lock users into paying, and that users "will chase the elusive high of matching". The company called the suit ridiculous. Leave that to the lawyers. You don't need a verdict to know how a slot machine works. It pays a little, now and then, on no schedule you can learn. That's what keeps a man in the chair.
+
+![](images/illustrations/chase-slot-machine.png){.illustration width=80%}
 
 A match is the same little jolt. It lands just often enough to keep your thumb moving.
 

@@ -8,6 +8,8 @@ Stretch it a little and it covers every woman you'll ever meet. The older ones a
 
 A man doesn't size up his sister, or perform for her, or keep a door open with her. He doesn't flatter his mother to get something. He'd step in front of a bus for his daughter and wants nothing from her at all. He's just glad they're there.
 
+![](images/illustrations/mothers-holding-the-door.png){.illustration width=80%}
+
 Try it for one week, in every shop, office and street. Think how quiet your head would get.
 
 Women can tell the difference at once. Most of them have been looked over by men since they were girls, and they know that look from across a room. A man who talks to them the way he talks to anyone stands out, because he's rare. Don't do it for that. A man who does it to be noticed is back to performing.

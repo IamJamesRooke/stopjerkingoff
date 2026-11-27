@@ -80,6 +80,8 @@ The 2020s gave the harem a voice. A man can now talk every night to a girlfriend
 
 Lewis warned where it ends: "The danger is that of coming to love the prison."
 
+![](images/illustrations/would-cozy-prison.png){.illustration width=80%}
+
 That's the thought life. Each visit, the cell gets a little more comfortable.
 
 ## Taking thoughts captive {-}
@@ -87,6 +89,8 @@ That's the thought life. Each visit, the cell gets a little more comfortable.
 So what does a man do with a head like that? Paul, writing to the church at Corinth, gives one line: "bringing every thought into captivity to the obedience of Christ". The picture is a soldier's. A thought turns up at the gate. It doesn't wander where it likes. It's seen for what it is, and it goes no further.
 
 That doesn't mean "try not to think about it". You've tried that. It turns the thought into the biggest thing in the room. An old saying does better. You can't stop a bird flying over your head, but you can stop it building a nest in your hair.
+
+![](images/illustrations/would-bird-not-nest.png){.illustration width=80%}
 
 The bird is the first thought. It comes by itself, and it's no sin and no failure. The nest is what a man builds out of it afterward.
 

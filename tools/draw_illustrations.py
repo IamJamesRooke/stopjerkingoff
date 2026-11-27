@@ -2338,6 +2338,74 @@ def batch26(OUT):
     for (x,y) in [(368,250),(380,262),(372,276),(386,280),(376,244)]: s+=dot(x,y,2.5).replace("#141414","#C9965E")
     s+=TAIL; open(OUT+"scroll-crumbs-at-the-line.svg","w").write(s)
 
+# ---- Batch 27: You Would If You Could, Mothers Sisters Daughters, The Chase ----
+def bird(x,y,col="#141414"):
+    return f'<path d="M{x-22},{y} q11,-14 22,0 q11,-14 22,0" stroke="{col}" stroke-width="5"/>'
+def batch27(OUT):
+    W,H=680,440
+    # 1. You can't stop a bird flying over your head, but you can stop it nesting in your hair
+    s=head(W,H,"#7FD3FF")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/><line x1="340" y1="40" x2="340" y2="400" stroke-dasharray="6 12" stroke-width="3"/>'
+    s+=man(180,190,"happy")+legs(180,340,14).replace('86','70')
+    s+='<path d="M166,236 L150,300"/><path d="M196,236 L212,300"/>'
+    s+=bird(220,80)+'<path d="M250,80 l20,-6 M250,90 l22,4" stroke-width="3"/>'
+    s+=man(500,190,"squeeze")+legs(500,340,14).replace('86','70')
+    s+='<path d="M486,236 L470,300"/><path d="M516,236 L532,300"/>'
+    s+='<path d="M460,160 C460,130 540,130 540,160 C530,170 470,170 460,160 Z" fill="#C9965E"/>'
+    for i in range(6): s+=f'<path d="M{462+i*13},{150+(i%2)*6} l14,-8" stroke="#9C6B3C" stroke-width="3"/>'
+    s+='<circle cx="490" cy="140" r="6" fill="#BFE3FF" stroke-width="3"/><circle cx="506" cy="142" r="6" fill="#BFE3FF" stroke-width="3"/>'
+    s+='<path d="M520,124 C510,100 540,94 546,110 L560,112 L548,118 C546,128 530,132 520,124 Z" fill="#141414"/>'
+    s+=TAIL; open(OUT+"would-bird-not-nest.svg","w").write(s)
+
+    # 2. Coming to love the prison: a cozy cell
+    s=head(W,H,"#5A6070")
+    s+='<rect x="40" y="30" width="600" height="380" fill="#A7AFBD" stroke="none"/>'
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="140" y="320" width="230" height="44" rx="12" fill="#FF7A59"/><rect x="128" y="290" width="30" height="110" rx="12" fill="#E5603F"/><rect x="352" y="290" width="30" height="110" rx="12" fill="#E5603F"/>'
+    s+='<ellipse cx="190" cy="408" rx="70" ry="6" fill="#FF8FB1" stroke="none"/>'
+    s+=man(250,270,"happy").replace('r="34"','r="30"')
+    s+='<path d="M270,360 L320,370 L330,400"/>'
+    s+='<rect x="400" y="250" width="40" height="150" fill="#9C6B3C"/><path d="M420,250 L380,200 L460,200 Z" fill="#FFD23F"/>'
+    s+=f'<rect x="300" y="290" width="22" height="34" rx="4" fill="{INK}"/><path d="M262,310 L300,306"/>'
+    s+=heart(330,250,0.5)
+    for x in range(480,630,30): s+=f'<line x1="{x}" y1="40" x2="{x}" y2="408" stroke-width="8"/>'
+    s+=TAIL; open(OUT+"would-cozy-prison.svg","w").write(s)
+
+    # 3. Mothers, sisters, daughters: holding the door, wanting nothing
+    s=head(W,H,"#FFD23F")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="380" y="100" width="270" height="310" fill="#FFF6E5"/><rect x="420" y="200" width="100" height="210" fill="#2B3A8F"/>'
+    s+='<path d="M420,200 L370,214 L370,404 L420,410 Z" fill="#5A3E9B"/>'
+    s+=man(300,174,"happy")+legs(300,324,14)+'<path d="M316,220 L370,250"/><path d="M286,220 L270,290"/>'
+    s+=man(470,214,"happy","#FF8FB1").replace('r="34"','r="28"')+'<path d="M466,364 L460,408"/><path d="M480,364 L486,408"/>'
+    s+='<path d="M446,206 C446,170 494,170 494,206" fill="none" stroke="#C0C6D0" stroke-width="9"/><line x1="500" y1="270" x2="520" y2="408" stroke-width="4"/>'
+    s+=man(150,254,"happy","#2FB3A8").replace('r="34"','r="22"')+'<path d="M146,404 L144,408"/><path d="M160,404 L162,408"/>'
+    s+='<path d="M170,300 L210,260"/>'
+    s+=TAIL; open(OUT+"mothers-holding-the-door.svg","w").write(s)
+
+    # 4. The man who waits: every favor a deposit
+    s=head(W,H,"#FF8FB1")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<path d="M380,300 C380,230 560,230 560,300 C560,360 520,380 470,380 C420,380 380,360 380,300 Z" fill="#FF5FA2"/>'
+    s+='<line x1="420" y1="372" x2="420" y2="404" stroke-width="10"/><line x1="520" y1="372" x2="520" y2="404" stroke-width="10"/>'
+    s+='<ellipse cx="572" cy="296" rx="16" ry="20" fill="#FF5FA2"/>'+dot(568,292)+dot(578,292)
+    s+=dot(510,276,5)+'<line x1="450" y1="242" x2="490" y2="242" stroke-width="6"/>'
+    s+=man(240,174,"flat")+legs(240,324,14)+'<path d="M226,220 L210,290"/><path d="M256,220 L330,220 L400,220"/>'
+    s+=f'<circle cx="416" cy="214" r="14" fill="{YEL}"/>'
+    for (x,y) in [(460,200),(480,170),(450,150)]: s+=f'<circle cx="{x}" cy="{y}" r="12" fill="{YEL}"/>'
+    s+=TAIL; open(OUT+"chase-favors-in-the-bank.svg","w").write(s)
+
+    # 5. The man who swipes: a slot machine that pays in maybes
+    s=head(W,H,"#7B4FD6")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="340" y="90" width="220" height="320" rx="16" fill="#FF3B30"/><rect x="360" y="150" width="180" height="80" rx="8" fill="#fff"/>'
+    for i,x in enumerate((390,450,510)): s+=heart(x,190,0.5,"#FF5FA2" if i<2 else "#C0C6D0")
+    s+='<line x1="420" y1="150" x2="420" y2="230" stroke-width="3"/><line x1="480" y1="150" x2="480" y2="230" stroke-width="3"/>'
+    s+='<rect x="380" y="270" width="140" height="30" rx="6" fill="#141414"/><path d="M560,260 L600,250 L600,150"/><circle cx="600" cy="140" r="14" fill="#FFD23F"/>'
+    s+=man(220,174,"blank")+legs(220,324,14)+'<path d="M206,220 L190,290"/><path d="M236,220 L280,250 L300,240"/>'
+    s+=f'<rect x="294" y="216" width="26" height="42" rx="5" fill="{INK}"/>'
+    s+=TAIL; open(OUT+"chase-slot-machine.svg","w").write(s)
+
 if __name__=="__main__":
-    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26"]
+    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27"]
     for b in which: globals()["batch"+b](OUT)
