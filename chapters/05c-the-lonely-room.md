@@ -16,13 +16,13 @@ This is the large size, and it lies under most of the others.
 
 You're alone in an apartment or a hotel room, or lying beside a wife who feels a long way off. Nobody to touch, nobody who knows you. And the habit, at least, feels like somebody holding you.
 
-The ache is real, and it's a good ache. You were made for company. "It is not good for the man to be alone" is almost the first thing God says about us in the Bible. A Catholic speaker says it in one sentence: "What you really long for is authentic love, but you settled for the counterfeit."
+The ache is real, and it's a good ache. You were made for company. "It is not good for the man to be alone" is the first thing God calls not good in the whole Bible. A Catholic speaker passes on a friend's line: "What you really long for is authentic love, but you settled for the counterfeit."
 
-A counterfeit doesn't just fail to pay. It makes you poorer. C.S. Lewis, answering a letter about this very habit, said it "sends the man back into the prison of himself, there to keep a harem of imaginary brides." Desire was meant to get you out of yourself. The habit locks you further in. Every time, you finish more alone than you began, in the same empty room with one more thing nobody knows about you. A secret is a wall, and you're building it yourself, one evening at a time, between you and everyone who might love you.
+A counterfeit doesn't just fail to pay. It makes you poorer. C.S. Lewis, the Christian writer, answered a letter about this very habit. He said it "sends the man back into the prison of himself, there to keep a harem of imaginary brides." Desire was meant to get you out of yourself. The habit locks you further in. Every time, you finish more alone than you began, in the same empty room with one more thing nobody knows about you. A secret is a wall, and you're building it yourself, one evening at a time, between you and everyone who might love you.
 
 ![](images/illustrations/lonely-the-wall.png){.illustration width=80%}
 
-Loneliness is also what breaks the men who quit by gritting their teeth. One man set himself a goal of five years and reached day 280. He had, in his own words, "even lost interest in porn". Then: "I ended up relapsing because I was overwhelmed by extreme loneliness and the feeling that nothing in my life was going right." The porn had gone, and the belief was still standing: that when a man is lonely enough, this is where he goes. That belief is the Big Monster, and no number of days will starve it. It has to be seen through.
+Loneliness is also what breaks the men who quit by gritting their teeth. One man set himself a goal of five years and reached day 280. He had, in his own words, "even lost interest in porn". Then: "I ended up relapsing because I was overwhelmed by extreme loneliness and the feeling that nothing in my life was going right." The porn had gone, and the belief was still standing: that when a man is lonely enough, this is where he goes. That belief is the Big Monster, and no number of days will make it go away. It has to be seen through.
 
 Loneliness is a hunger for people, and the habit feeds it a photograph.
 

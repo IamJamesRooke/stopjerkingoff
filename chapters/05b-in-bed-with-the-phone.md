@@ -8,9 +8,9 @@ If you're like most men, the phone is in your hand before your head hits the pil
 
 ![](images/illustrations/bed-engine-never-bored.png){.illustration width=80%}
 
-The psychiatrist Alok Kanojia says the number one cause of relapse isn't strong emotion. It's boredom. His reason takes one line: "if you've got a gap in your day porn will fill it".
+The psychiatrist Alok Kanojia says that in his experience the number one cause of relapse isn't strong emotion. It's boredom. His reason takes one line: "if you've got a gap in your day porn will fill it".
 
-The most famous fall in the Bible began in an empty hour. David, Israel's greatest king, was alone on his roof on an idle evening, while his army was away at war. You know that hour.
+One of the Bible's worst falls began in an empty hour. David, Israel's king, stayed home while his army was away at war, and one idle evening he was walking on his roof. You know that hour.
 
 Far from curing boredom, the habit breeds it. Afterward you're heavy and dull. You don't call a friend or fix the shelf. You lie there and scroll. Boredom is a signal telling a man to go do something. The habit mutes the signal and keeps the boredom.
 
@@ -46,9 +46,9 @@ For many men this is the last excuse to fall, because the fear feels so practica
 
 You already know who keeps you awake. The bed is the cue. Lights out is the cue. Every night the Little Monster wakes up just as you lie down, and you can't settle until he's been fed. Then you sleep, and you thank the habit.
 
-It's a poor sedative anyway. The session runs long and the scrolling runs longer. At seven the next morning a man drags himself out of bed and blames the mattress.
+The drowsy feeling afterward is real. It's only him going quiet after his dinner, the same him who started banging at lights out. And it's a poor sleeping pill anyway. The session runs long and the scrolling runs longer. At seven the next morning a man drags himself out of bed and blames the mattress.
 
-When you stop, you may get a few nights when the old cue fires and you lie there awhile. Don't dread them. Lie there and smile. You know what's dying. If you still sleep badly a month from now, that's a different problem, and a doctor is the person to see. But most men are soon sleeping the way they did as boys. David wrote of it in Psalm 4: "In peace I will both lay myself down and sleep, for you, LORD alone, make me live in safety." He says he'll sleep in peace. He doesn't say he'll sleep worn out.
+When you stop, you may get a few nights when the old cue fires and you lie there awhile. Don't dread them. Lie there and smile. You know what's starving. If you still sleep badly a month from now, that's a different problem, and a doctor is the person to see. But most men are soon sleeping the way they did as boys. David wrote of it in Psalm 4: "In peace I will both lay myself down and sleep, for you, LORD alone, make me live in safety." He says he'll sleep in peace. He doesn't say he'll sleep worn out.
 
 ![](images/illustrations/bed-sleeping-like-a-boy.png){.illustration width=80%}
 
