@@ -1306,8 +1306,162 @@ def batch14(OUT):
     s+='<text x="150" y="150" font-family="Arial" font-weight="bold" font-size="26" fill="#141414" stroke="none">That\'s a boot.</text>'
     s+=TAIL; open(OUT+"why-pay-thats-a-boot.svg","w").write(s)
 
-# ---- Fifteenth batch (The Back Door: rolled by hand beside a factory cigarette) ----
+# ---- Fifteenth batch (The Flesh: six bent goods; The Bent Gift: one flesh). Run: python3 tools/draw_illustrations.py images/illustrations/ 15 ----
 def batch15(OUT):
+    W,H=680,440
+    HAIR="#9C6B3C"; SKIN="#FFE3C7"
+    def sweat(x,y): return f'<path d="M{x},{y} q-8,12 0,16 q8,-4 0,-16 Z" fill="#4FB3FF" stroke-width="2.5"/>'
+    def sparks(lst,col=YEL,w=5): return "".join(f'<line x1="{a}" y1="{b}" x2="{c}" y2="{d}" stroke="{col}" stroke-width="{w}"/>' for a,b,c,d in lst)
+    def proud(x,y):
+        # head tilted back, eyes shut smugly, nose up
+        o=f'<circle cx="{x}" cy="{y}" r="34" fill="#fff"/>'
+        o+=f'<path d="M{x-14},{y-8} q6,-5 12,0" stroke-width="3.5"/><path d="M{x+6},{y-10} q6,-5 12,0" stroke-width="3.5"/>'
+        o+=f'<path d="M{x+18},{y+2} l14,-10 l-10,14" fill="#fff" stroke-width="3.5"/><path d="M{x-6},{y+16} q10,4 18,-4" stroke-width="3.5"/>'
+        return o
+
+    # 1. Pride: drives the wrong way rather than ask; a man holds out a map
+    s=head(W,H,"#FFA630")
+    s+='<rect x="30" y="330" width="620" height="80" fill="#5A5A6E"/>'
+    for x in range(60,640,90): s+=f'<line x1="{x}" y1="370" x2="{x+40}" y2="370" stroke="#fff" stroke-width="5"/>'
+    # sign pointing back the way he came
+    s+='<line x1="110" y1="330" x2="110" y2="170"/><path d="M60,150 L160,150 L160,200 L60,200 L40,175 Z" fill="#2FB36A"/><path d="M70,175 L140,175 M70,175 l16,-12 M70,175 l16,12" stroke="#fff" stroke-width="6"/>'
+    # car heading right
+    s+=f'<path d="M260,320 L260,270 Q262,250 290,248 L330,210 Q340,200 360,200 L440,200 Q462,200 474,216 L500,248 L540,250 Q564,252 566,276 L566,320 Z" fill="{RED}"/>'
+    s+='<path d="M340,214 L440,214 Q452,214 460,226 L480,248 L320,248 Z" fill="#BFE3FF"/>'
+    s+='<circle cx="310" cy="324" r="26" fill="#333"/><circle cx="310" cy="324" r="9" fill="#ccc"/><circle cx="510" cy="324" r="26" fill="#333"/><circle cx="510" cy="324" r="9" fill="#ccc"/>'
+    s+=proud(400,222).replace('r="34"','r="26"')
+    s+=sweat(372,200)+sweat(430,192)
+    # helpful man with map on the sidewalk, right
+    s+=man(612,206,"happy","#2FB36A")
+    s+='<path d="M608,358 L600,406"/><path d="M624,358 L634,406"/>'
+    s+='<path d="M598,250 L572,276"/><rect x="532" y="262" width="52" height="40" fill="#FFF6E5" transform="rotate(-10 558 282)"/><path d="M540,276 l12,10 l12,-8 l12,10" stroke="#FF3B30" stroke-width="3" transform="rotate(-10 558 282)"/>'
+    s+=TAIL; open(OUT+"flesh-pride-wont-ask.svg","w").write(s)
+
+    # 2. Greed: alone on a pile of coins, his truck dead, nobody coming
+    s=head(W,H,"#7BC8F6")
+    s+='<line x1="30" y1="400" x2="650" y2="400"/>'
+    s+=f'<path d="M80,400 Q120,250 230,230 Q340,250 380,400 Z" fill="{YEL}"/>'
+    for (x,y) in [(150,360),(200,330),(260,350),(230,290),(300,380),(180,385),(320,330)]:
+        s+=f'<ellipse cx="{x}" cy="{y}" rx="16" ry="8" fill="#FFB800" stroke-width="3"/>'
+    s+=man(230,120,"squeeze")
+    s+='<path d="M210,180 Q180,220 214,236"/><path d="M250,180 Q280,220 246,236"/>'
+    s+=f'<path d="M206,214 Q230,190 256,214 Q270,260 230,262 Q192,260 206,214 Z" fill="#2FB36A"/><path d="M220,214 l20,0" stroke-width="3"/>'
+    s+=f'<ellipse cx="230" cy="238" rx="10" ry="6" fill="{YEL}" stroke-width="3"/>'
+    # broken truck
+    s+=f'<path d="M430,370 L430,300 L500,300 L520,260 L580,260 L600,300 L620,300 L620,370 Z" fill="#8E5BD6"/>'
+    s+='<rect x="530" y="270" width="40" height="28" fill="#BFE3FF"/>'
+    s+='<circle cx="470" cy="374" r="22" fill="#333"/><circle cx="590" cy="374" r="22" fill="#333"/>'
+    for dx in (450,480,510):
+        s+=f'<path d="M{dx},296 c-12,-14 12,-24 0,-40 c-12,-14 12,-24 0,-40" stroke="#fff" stroke-width="8" opacity="0.9"/>'
+    s+=f'<path d="M640,240 q-16,-16 -30,0 q-16,-16 -30,0" stroke="{INK}" stroke-width="3"/>'
+    s+=TAIL; open(OUT+"flesh-greed-on-the-pile.svg","w").write(s)
+
+    # 3. Envy: scowling over the fence at the neighbor's new truck
+    s=head(W,H,"#9AD0FF")
+    s+='<rect x="30" y="360" width="620" height="50" fill="#6BCB77" stroke="none"/><line x1="30" y1="410" x2="650" y2="410"/>'
+    # neighbor's shiny truck
+    s+=f'<path d="M330,340 L330,260 L420,260 L446,212 L530,212 L556,260 L600,262 L600,340 Z" fill="{RED}"/>'
+    s+='<rect x="456" y="222" width="70" height="34" fill="#BFE3FF"/><path d="M466,250 l18,-20 M486,250 l14,-16" stroke="#fff" stroke-width="5"/>'
+    s+='<circle cx="380" cy="344" r="24" fill="#333"/><circle cx="380" cy="344" r="8" fill="#ccc"/><circle cx="556" cy="344" r="24" fill="#333"/><circle cx="556" cy="344" r="8" fill="#ccc"/>'
+    s+=sparks([(340,236,326,222),(360,226,360,206),(612,250,630,240),(610,276,632,280)],"#fff",5)
+    # happy neighbor waving
+    s+=man(620,140,"happy",YEL)+'<path d="M634,180 L660,130 M606,184 L600,240"/>'
+    # fence and the envious man peeking
+    s+='<g>'
+    s+='<circle cx="190" cy="206" r="40" fill="#C7F05A"/>'
+    s+='<path d="M166,196 L186,204 M214,196 L194,204" stroke-width="4.5"/>'+dot(180,212)+dot(200,212)
+    s+='</g>'
+    for x in range(60,300,40):
+        s+=f'<path d="M{x},400 L{x},236 L{x+17},220 L{x+34},236 L{x+34},400 Z" fill="#C98B4F"/>'
+    s+='<line x1="50" y1="280" x2="304" y2="280" stroke-width="6"/><line x1="50" y1="360" x2="304" y2="360" stroke-width="6"/>'
+    s+=f'<path d="M156,236 q8,-12 16,0" fill="#C7F05A" stroke-width="3.5"/><path d="M208,236 q8,-12 16,0" fill="#C7F05A" stroke-width="3.5"/>'
+    s+=TAIL; open(OUT+"flesh-envy-over-the-fence.svg","w").write(s)
+
+    # 4. Anger: a hole in the drywall and an arm in a cast
+    s=head(W,H,"#FF8FB1")
+    s+='<rect x="30" y="30" width="620" height="340" fill="#FFF6E5" stroke="none"/><line x1="30" y1="370" x2="650" y2="370"/><line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=f'<path d="M420,160 L446,138 L470,150 L496,132 L512,162 L540,170 L524,198 L534,226 L502,228 L486,254 L462,234 L432,242 L430,212 L404,196 Z" fill="#3b2a20"/>'
+    s+='<path d="M404,196 L370,190 M446,138 L436,104 M540,170 L578,158 M486,254 L494,290 M534,226 L566,244" stroke-width="3"/>'
+    for (x,y) in [(450,400),(472,392),(500,402)]:
+        s+=f'<rect x="{x}" y="{y-8}" width="14" height="10" fill="#fff" stroke-width="2.5" transform="rotate(20 {x} {y})"/>'
+    s+=man(250,170,"blank")
+    s+=sweat(220,140)
+    s+='<path d="M246,322 L232,406"/><path d="M262,322 L282,406"/>'
+    s+='<path d="M236,216 L214,280 L222,316"/>'
+    s+=f'<path d="M232,206 L300,252" stroke="#4FB3FF" stroke-width="6"/><path d="M270,212 L300,252" stroke="#4FB3FF" stroke-width="6"/>'
+    s+=f'<rect x="258" y="232" width="84" height="34" rx="14" fill="#fff" transform="rotate(-8 300 250)"/>'
+    s+='<path d="M276,240 l4,16 M300,238 l4,16 M322,236 l4,16" stroke-width="2.5"/>'
+    s+=f'<rect x="120" y="390" width="40" height="14" rx="4" fill="{INK}"/><rect x="124" y="392" width="32" height="8" fill="{RED}" stroke="none"/>'
+    s+=TAIL; open(OUT+"flesh-anger-the-drywall.svg","w").write(s)
+
+    # 5. Sloth: melted into the couch; the kid waits in the doorway with a ball
+    s=head(W,H,"#FFD23F")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="70" y="70" width="140" height="120" fill="#BFE3FF"/><line x1="140" y1="70" x2="140" y2="190"/><line x1="70" y1="130" x2="210" y2="130"/><circle cx="110" cy="100" r="16" fill="#FFA630"/>'
+    s+='<rect x="510" y="110" width="120" height="300" fill="#FFF6E5"/>'
+    # kid with ball
+    s+='<circle cx="570" cy="240" r="24" fill="#fff"/>'+dot(563,236)+dot(578,236)+'<path d="M562,254 q8,-6 16,0" stroke-width="3"/>'
+    s+=f'<path d="M556,264 C546,286 548,320 556,336 L586,336 C594,320 594,286 584,264 Z" fill="{RED}"/>'
+    s+='<path d="M562,336 L556,404"/><path d="M580,336 L588,404"/>'
+    s+=f'<circle cx="572" cy="300" r="20" fill="#FF8FB1"/><path d="M552,300 h40" stroke-width="3"/>'
+    s+='<path d="M558,280 L558,300 M586,280 L586,300"/>'
+    # couch with melted man
+    s+='<rect x="120" y="260" width="330" height="90" rx="26" fill="#5A3E9B"/><rect x="100" y="230" width="40" height="130" rx="16" fill="#7B4FD6"/><rect x="430" y="230" width="40" height="130" rx="16" fill="#7B4FD6"/>'
+    s+=f'<path d="M200,300 C200,262 236,250 270,262 L360,286 C380,292 380,318 360,322 L210,330 Z" fill="{SHIRT}"/>'
+    s+='<ellipse cx="190" cy="282" rx="36" ry="30" fill="#fff"/>'+dot(182,276)+dot(202,276)+'<path d="M174,273 h16 M194,273 h16" stroke-width="3.5"/><line x1="184" y1="296" x2="198" y2="296" stroke-width="3"/>'
+    s+='<path d="M360,318 L430,330 L470,404 M350,322 L412,348 L436,404"/>'
+    s+=f'<rect x="262" y="270" width="40" height="22" rx="10" fill="{INK}"/>'
+    s+=f'<path d="M300,232 L340,228 L338,270 L304,272 Z" fill="{RED}"/><path d="M312,246 l14,0" stroke="#fff" stroke-width="3"/>'
+    s+='<line x1="140" y1="360" x2="140" y2="404"/><line x1="430" y1="360" x2="430" y2="404"/>'
+    s+=TAIL; open(OUT+"flesh-sloth-the-couch.svg","w").write(s)
+
+    # 6. Gluttony: a tower of wing bones and a face that tastes nothing
+    s=head(W,H,"#6BCB77")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=man(300,150,"blank")
+    s+=f'<path d="M282,176 q-6,8 2,12 M318,174 q8,6 2,12" stroke="#D9573B" stroke-width="5"/>'
+    s+='<rect x="80" y="290" width="520" height="24" rx="6" fill="#C98B4F"/><line x1="120" y1="314" x2="120" y2="406"/><line x1="560" y1="314" x2="560" y2="406"/>'
+    s+='<ellipse cx="440" cy="288" rx="90" ry="14" fill="#fff"/>'
+    def bone(x,y,r):
+        return f'<g transform="rotate({r} {x} {y})"><rect x="{x-26}" y="{y-5}" width="52" height="10" rx="5" fill="#FFF6E5" stroke-width="3"/><circle cx="{x-26}" cy="{y-4}" r="5" fill="#FFF6E5" stroke-width="2.5"/><circle cx="{x-26}" cy="{y+4}" r="5" fill="#FFF6E5" stroke-width="2.5"/><circle cx="{x+26}" cy="{y-4}" r="5" fill="#FFF6E5" stroke-width="2.5"/><circle cx="{x+26}" cy="{y+4}" r="5" fill="#FFF6E5" stroke-width="2.5"/></g>'
+    rows=[(5,276),(4,256),(4,236),(3,216),(2,196),(1,176)]
+    k=0
+    for n,y in rows:
+        for j in range(n):
+            x=440+(j-(n-1)/2)*36
+            s+=bone(x,y,[-18,12,-6,22,-25,8][k%6]); k+=1
+    s+='<path d="M286,194 L240,250 L262,282"/>'
+    s+='<path d="M316,194 L350,236 L330,210"/>'
+    s+=f'<path d="M318,190 Q330,170 352,176 Q368,188 356,206 Q340,220 324,212 Z" fill="#D9573B"/>'
+    s+=f'<ellipse cx="180" cy="286" rx="50" ry="10" fill="#fff"/><path d="M146,282 Q180,250 214,282 Z" fill="#D9573B"/>'
+    s+=TAIL; open(OUT+"flesh-gluttony-the-ninth-wing.svg","w").write(s)
+
+    # 7. The Bent Gift: one flesh. A man and his wife walk hand in hand toward a lit home
+    s=head(W,H,"#FF7A59")
+    s+=f'<circle cx="560" cy="120" r="52" fill="{YEL}" stroke="none"/>'
+    s+='<rect x="30" y="360" width="620" height="50" fill="#2FB36A" stroke="none"/><line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=house_front(470,250,150,150).replace("","") if False else ""
+    s+='<rect x="440" y="230" width="170" height="140" fill="#FFF6E5"/><path d="M420,236 L525,160 L630,236 Z" fill="#5A3E9B"/>'
+    s+=f'<rect x="575" y="168" width="22" height="40" fill="{RED}"/><path d="M586,160 c-10,-12 10,-20 0,-34 c-10,-12 10,-20 0,-34" stroke="#fff" stroke-width="5"/>'
+    s+=f'<rect x="505" y="300" width="40" height="70" fill="{RED}"/><rect x="458" y="260" width="34" height="30" fill="{YEL}"/><rect x="560" y="260" width="34" height="30" fill="{YEL}"/>'
+    s+='<path d="M380,380 Q460,374 520,372" stroke="#FFF6E5" stroke-width="10" opacity="0.8"/>'
+    # him (back three-quarter: just walking right)
+    s+=man(200,190,"happy")+'<path d="M194,342 L172,406"/><path d="M212,342 L240,406"/>'
+    s+='<path d="M186,236 L166,300"/>'
+    # her: hair, dress
+    s+=f'<path d="M{310-38},190 C{310-40},140 {310+40},140 {310+36},190 L{310+40},236 L{310-40},236 Z" fill="{HAIR}"/>'
+    s+=f'<path d="M{296},228 C{280},260 {270},320 {262},352 L{360},352 C{352},320 {340},260 {326},228 Z" fill="{YEL}"/>'
+    s+=f'<circle cx="310" cy="190" r="34" fill="#fff"/><path d="M{310-36},178 C{310-30},148 {310+30},148 {310+34},180 C{310+10},166 {310-16},168 {310-36},178 Z" fill="{HAIR}"/>'
+    s+=f'<path d="M298,186 q5,-6 10,0" stroke-width="3.5"/><path d="M314,186 q5,-6 10,0" stroke-width="3.5"/><path d="M302,202 q8,9 16,0" stroke-width="3.5"/>'
+    s+='<path d="M296,352 L290,406"/><path d="M324,352 L334,406"/>'
+    s+='<path d="M334,240 L360,300"/>'
+    # hands joined between them
+    s+='<path d="M214,236 L256,282"/><path d="M290,240 L262,282"/><circle cx="259" cy="284" r="9" fill="#fff"/>'
+    s+=f'<path d="M250,120 c-10,-14 -30,-4 -20,12 l20,18 l20,-18 c10,-16 -10,-26 -20,-12 Z" fill="{RED}"/>'
+    s+=TAIL; open(OUT+"bent-gift-one-flesh.svg","w").write(s)
+
+# ---- Sixteenth batch (The Back Door: rolled by hand beside a factory cigarette) ----
+def batch16(OUT):
     W,H=680,440
     s=head(W,H,"#33C3D6")
     s+='<rect x="30" y="360" width="620" height="22" rx="8" fill="#9C6B3C"/><line x1="70" y1="382" x2="70" y2="408"/><line x1="610" y1="382" x2="610" y2="408"/>'
@@ -1329,5 +1483,5 @@ def batch15(OUT):
     s+=TAIL; open(OUT+"back-door-rolled-and-factory-cigarettes.svg","w").write(s)
 
 if __name__=="__main__":
-    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15"]
+    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16"]
     for b in which: globals()["batch"+b](OUT)
