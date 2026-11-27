@@ -80,7 +80,7 @@ Here's the joke. Envy is the one sin on the list with no fun in it. Greed at lea
 
 Envy gets nothing. Your neighbor's new truck gets keyed, and you're not one dollar richer. You just feel smaller, and a little uglier.
 
-## Anger {-}
+## Wrath {-}
 
 The good under it is a sense of justice. A man sees a grown guy shove a kid in a parking lot, and he steps in. That anger is right. Paul told one of his churches, "Be angry, and don't sin."
 
@@ -120,7 +120,7 @@ Gregory said there are five ways to bend a meal. You can eat:
 
 Only one of those is about how much. The food snob who sends his steak back three times is in the club too.
 
-And gluttony wrecks the taste it's after. The first wing is fantastic. The ninth tastes like nothing. By the fourteenth you're not enjoying chicken anymore. You're just eating, because it's there.
+And gluttony wrecks the taste it's after. The first wing is fantastic. The twentieth tastes like nothing. By the thirtieth you're not enjoying chicken anymore. You're just eating, because it's there.
 
 ![](images/illustrations/flesh-gluttony-the-ninth-wing.png){.illustration width=80%}
 
@@ -131,7 +131,7 @@ Line them up, and you'll see the pattern.
 - The proud man wanted respect, and nobody respects him.
 - The greedy man wanted plenty, and nobody will lift a finger for him.
 - The envious man wanted to matter, and he feels like he matters less.
-- The angry man wanted justice, and he got a cast and an apology to make.
+- The wrathful man wanted justice, and he got a cast and an apology to make.
 - The lazy man wanted rest, and he's never been so tired.
 - The glutton wanted to enjoy his food, and he can't taste it.
 
@@ -206,3 +206,5 @@ Sources for the new material:
 - Scripture (WEB): Genesis 1:31 referred to; Ephesians 4:26 ('Be angry, and don't sin'); Genesis 2:2-3 and Exodus 20:8-10 referred to; Matthew 11:19 ('a gluttonous man and a drunkard').
 - 'Envy is the one sin with no fun in it' is an old quip (often credited to Joseph Epstein), said in the book's own voice. The carpenter, contractor, gym, parking lot, couch and wings are illustrations.
 -->
+
+<!-- 2026-11-27 (James, after reading to chapter 8: "I prefer the word Wrath"; "9 is rookie numbers. I can eat 25"): heading Anger is now Wrath, and the wings go to the twentieth and the thirtieth. -->
