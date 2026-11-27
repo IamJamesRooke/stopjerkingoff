@@ -2277,6 +2277,67 @@ def batch25(OUT):
     s+='<path d="M520,360 L506,408"/><path d="M540,364 L548,408"/><path d="M520,260 L500,290 L520,300"/>'
     s+=TAIL; open(OUT+"every-man-pharisee-and-tax-collector.svg","w").write(s)
 
+# ---- Batch 26: The Screen, The Back Door, A Scroll Isn't Porn ----
+def batch26(OUT):
+    W,H=680,440
+    # 1. The hunt: still there when the neighbors' lights go out, forty clips closed
+    s=head(W,H,"#1B2459")
+    s+=moon(600,60,16)+stars([(80,50),(200,90),(480,40)])
+    s+='<line x1="30" y1="410" x2="650" y2="410" stroke="#fff"/>'
+    for i in range(14):
+        x=80+(i*47)%480; y=300+((i*29)%90); r=(i*37)%50-25
+        s+=f'<rect x="{x}" y="{y}" width="44" height="30" rx="4" fill="#C0C6D0" transform="rotate({r} {x+22} {y+15})" stroke-width="3"/>'
+        s+=f'<path d="M{x+14},{y+8} l14,14 M{x+28},{y+8} l-14,14" stroke-width="3" transform="rotate({r} {x+22} {y+15})"/>'
+    s+='<rect x="190" y="290" width="300" height="40" rx="10" fill="#7B4FD6"/><rect x="180" y="250" width="24" height="90" rx="8" fill="#5A3E9B"/><rect x="476" y="250" width="24" height="90" rx="8" fill="#5A3E9B"/>'
+    s+=f'<ellipse cx="340" cy="170" rx="90" ry="70" fill="{GLOW}" stroke="none" opacity="0.5"/>'
+    s+='<circle cx="320" cy="170" r="34" fill="#fff"/>'+dot(330,164)+dot(344,164)+'<line x1="330" y1="184" x2="344" y2="184" stroke-width="3.5"/>'
+    s+=f'<rect x="374" y="150" width="26" height="42" rx="5" fill="{INK}"/>'
+    s+='<path d="M290,206 C276,232 276,280 290,300 L340,300 C350,280 350,232 336,206 Z" fill="#2F6BFF"/><path d="M336,226 L370,200 L380,190"/><path d="M300,296 L380,296 L384,340"/>'
+    s+=TAIL; open(OUT+"screen-the-hunt.svg","w").write(s)
+
+    # 2. The woman who says his name: men in an office typing her messages
+    s=head(W,H,"#C0C6D0")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    for i,x in enumerate((140,340,540)):
+        s+=f'<rect x="{x-80}" y="300" width="160" height="14" rx="4" fill="#9C6B3C"/><line x1="{x-70}" y1="314" x2="{x-70}" y2="408"/><line x1="{x+70}" y1="314" x2="{x+70}" y2="408"/>'
+        s+=f'<rect x="{x+10}" y="230" width="66" height="50" rx="4" fill="#141414"/><rect x="{x+18}" y="238" width="50" height="34" fill="#fff" stroke-width="3"/><line x1="{x+43}" y1="280" x2="{x+43}" y2="300"/>'
+        s+=man(x-30,196,"flat",["#FF7A59","#2FB3A8","#7B4FD6"][i]).replace('r="34"','r="26"')
+        s+=f'<path d="M{x-20},{240} L{x+20},{294}"/>'
+        s+=heart(x+43,180,0.5)+heart(x+70,140,0.35)
+    s+=TAIL; open(OUT+"screen-the-chatters.svg","w").write(s)
+
+    # 3. The back door: front door bolted, back door wide open
+    s=head(W,H,"#7FD3FF")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="140" y="140" width="400" height="270" fill="#FFF6E5"/><path d="M120,140 L340,40 L560,140 Z" fill="#FF5A5F"/>'
+    s+=door(170,250,80,160)
+    s+=f'<rect x="196" y="300" width="28" height="12" rx="3" fill="{YEL}"/><rect x="196" y="330" width="28" height="12" rx="3" fill="{YEL}"/><rect x="196" y="360" width="28" height="12" rx="3" fill="{YEL}"/>'
+    s+='<rect x="430" y="250" width="80" height="160" fill="#2B3A8F"/><path d="M510,250 L560,264 L560,404 L510,410 Z" fill="#5A3E9B"/>'
+    s+=monster(600,404,"dangle",0.75,stink=True)
+    s+='<path d="M620,396 C630,404 650,404 656,396 L652,380 C642,386 630,386 622,380 Z" fill="#FF8FB1" stroke-width="4"/>'
+    s+=TAIL; open(OUT+"back-door-wide-open.svg","w").write(s)
+
+    # 4. The pilot light: on since breakfast
+    s=head(W,H,"#FFD23F")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="230" y="80" width="220" height="330" rx="10" fill="#A7AFBD"/><rect x="270" y="260" width="140" height="100" rx="6" fill="#141414"/>'
+    s+='<path d="M340,350 C330,340 334,326 340,318 C346,326 350,340 340,350 Z" fill="#4FB3FF" stroke-width="3"/>'
+    s+='<line x1="280" y1="356" x2="400" y2="356" stroke="#FFD23F" stroke-width="4"/>'
+    for x in (270,310,350,390): s+=f'<line x1="{x}" y1="110" x2="{x}" y2="220" stroke-width="4"/>'
+    s+='<circle cx="560" cy="170" r="50" fill="#fff"/><path d="M560,130 L560,170 L590,186" stroke-width="5"/>'
+    s+=TAIL; open(OUT+"scroll-pilot-light.svg","w").write(s)
+
+    # 5. Standing at his red line with a phone full of crumbs
+    s=head(W,H,"#FF8FB1")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=f'<line x1="420" y1="410" x2="420" y2="60" stroke="{RED}" stroke-width="10" stroke-dasharray="20 10"/>'
+    s+='<rect x="460" y="300" width="160" height="14" rx="4" fill="#9C6B3C"/><line x1="470" y1="314" x2="470" y2="408"/><line x1="610" y1="314" x2="610" y2="408"/>'
+    s+='<ellipse cx="540" cy="292" rx="60" ry="12" fill="#fff"/><path d="M490,290 C500,250 580,250 590,290 Z" fill="#C9965E"/>'
+    s+=man(300,174,"blank")+legs(300,324,16)+'<path d="M286,220 L270,280"/><path d="M316,220 L360,250 L370,240"/>'
+    s+=f'<rect x="354" y="230" width="44" height="66" rx="6" fill="{INK}"/><rect x="360" y="238" width="32" height="50" fill="#fff" stroke-width="2"/>'
+    for (x,y) in [(368,250),(380,262),(372,276),(386,280),(376,244)]: s+=dot(x,y,2.5).replace("#141414","#C9965E")
+    s+=TAIL; open(OUT+"scroll-crumbs-at-the-line.svg","w").write(s)
+
 if __name__=="__main__":
-    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25"]
+    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26"]
     for b in which: globals()["batch"+b](OUT)

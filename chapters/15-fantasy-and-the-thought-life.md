@@ -20,6 +20,8 @@ The Little Monster doesn't care where his food comes from. Scraps keep him alive
 
 A furnace has a pilot light, a tiny flame that burns all day on almost no gas, so the main burner can fire the instant it's asked. That's the scroll and the daydream. The urge never comes out of nowhere. The pilot light's been on since breakfast.
 
+![](images/illustrations/scroll-pilot-light.png){.illustration width=80%}
+
 And the feed learns. Pause on one photo for two seconds and it brings you ten more tomorrow. It's a machine for finding your red line and parking you next to it.
 
 The woman on the screen is beautiful. Nobody denies it. If she were your wife, and in the room, she'd be a gift. But she isn't in the room. She's light on a piece of glass. Gift or hit? Nothing is given and nobody is kept. It's a hit.
@@ -35,6 +37,8 @@ A word for the man who doesn't. Some men get stuck checking whether a look or a 
 For everyone else, be honest about the scroll. It's a purposeful gaze pretending to be an accident.
 
 So look once more at the man who quit porn and kept the feed. He's still standing at his red line, with a phone full of crumbs.
+
+![](images/illustrations/scroll-crumbs-at-the-line.png){.illustration width=80%}
 
 AND HE CALLS IT BEING FREE!
 

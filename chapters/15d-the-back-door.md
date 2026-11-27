@@ -29,6 +29,8 @@ Men have a name for the pictures stored in the head for this. The spank bank. A 
 
 And a memory wears thin. So the hand goes shopping for a stronger film, and it knows exactly where that film is kept. The man bolted the front door and left the back door wide open. Now he's shocked to find the same old visitor in his kitchen.
 
+![](images/illustrations/back-door-wide-open.png){.illustration width=80%}
+
 Even if your hand never leads you back to the screen, the trade is the same. You ease an itch for ten minutes, and the easing sets it going again.
 
 So what has the hand really been paying you all these years?
