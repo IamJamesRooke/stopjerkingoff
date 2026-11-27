@@ -42,6 +42,8 @@ First, the Bible never mentions masturbation by name. If you were hoping for a v
 
 Second, the numbers. I have to borrow from porn here, because porn is what gets studied. In one 2017 study of adults who watch porn, nearly nine in ten weren't compulsive in the sense a clinic uses. About one in eight used porn little and still felt great distress over it. If that's you, the war has hurt you as much as the habit. This book means to end both. It doesn't call every man with the habit a clinical addict. Its judgment is moral and spiritual, not medical, and most doctors wouldn't make it. It rests on what Jesus said about lust, and on what men say the habit has cost them. Besides, you didn't pick up a book with this title because you were fine.
 
+None of this is a ban. You can still do it tonight, and nobody's stopping you. Just know who's asking. It's the pipsqueak upstairs, and he's hungry.
+
 Those are the lies about the hand. Porn has its own set, and somebody else pays for those too.
 
 <!-- SOURCES (Chapter 4): every quote below is from the research files; check each against its page before publishing.
@@ -103,3 +105,5 @@ Those are the lies about the hand. Porn has its own set, and somebody else pays 
 <!-- 2026-11-23 PROOF LOOP: added the lie 'I'm not doing anything wrong' (James's words), answered with a plain test: a thing that's fine can be said out loud. -->
 
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
+
+<!-- 2026-11-27 PROOF LOOP (James, tempted: 'I CAN watch it, but do I really need to feed that little monster?'; wants light reminders sprinkled through the book: you can, nobody is stopping you, the urge is the Little Monster asking, no pressure, no force). One short reminder added here, worded differently in each chapter. Never a vow, never willpower. -->

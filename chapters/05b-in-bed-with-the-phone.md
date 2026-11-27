@@ -52,6 +52,8 @@ Suppose I could lift you out of today and set you down a few weeks after stoppin
 
 I can't prove that difference with a lab report. It's testimony, but it's remarkably consistent. Men say the energy comes back, and many say it starts within days. One condition: if you stop by willpower, feeling deprived, the gloom swallows every gain. Stop this book's way and you get to enjoy each one as it comes.
 
+The phone will be on the nightstand again tonight, and you're free to pick it up. Nobody's guarding it. If the pull comes, that's only him, banging for his dinner. Feed him if you like. Just don't mistake his hunger for yours.
+
 Underneath all of these lies one more.
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 05-the-times-we-reach-for-it.Rmd; the source notes for everything here are in that file. -->
@@ -63,3 +65,5 @@ Underneath all of these lies one more.
 <!-- 2026-11-23 FLOW PASS (book-wide): 'The same psychiatrist' is named (he was last named a chapter back); the see-a-doctor caution moved so it no longer sits between the good sleep and David's line about it; 'this' in the Energy section given something to point at. -->
 
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
+
+<!-- 2026-11-27 PROOF LOOP (James, tempted: 'I CAN watch it, but do I really need to feed that little monster?'; wants light reminders sprinkled through the book: you can, nobody is stopping you, the urge is the Little Monster asking, no pressure, no force). One short reminder added here, worded differently in each chapter. Never a vow, never willpower. -->

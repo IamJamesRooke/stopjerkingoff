@@ -67,6 +67,8 @@ Remember:
 
 **DON'T CUT IT DOWN. CUT IT OUT.**
 
+That's for the last page. Until then you're not on a diet. He bangs, and you're free to go up. Just keep watching who's waiting on whom.
+
 That leaves the smallest request of all: just once. The answer to it comes from a strange place, a book about stalkers.
 
 <!-- ADDED 2026-11-19 (pastors' review): Augustine in the garden, Confessions Book 8, chapter 12 (Pusey translation: "Take up and read"; "No further would I read; nor needed I", paraphrased here). The verses he read were Romans 13:13-14. "Give me chastity and continency, only not yet" is Book 8, chapter 7, as in Chapter 2. Lent explained. "Carry on as normal" removed.
@@ -107,3 +109,5 @@ That leaves the smallest request of all: just once. The answer to it comes from 
 <!-- 2026-11-23 FLOW PASS (book-wide): 'A limit is indulgence with a schedule' moved up from after the edging quote to just before 'The same goes for every half-measure'; nothing cut. -->
 
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
+
+<!-- 2026-11-27 PROOF LOOP (James, tempted: 'I CAN watch it, but do I really need to feed that little monster?'; wants light reminders sprinkled through the book: you can, nobody is stopping you, the urge is the Little Monster asking, no pressure, no force). One short reminder added here, worded differently in each chapter. Never a vow, never willpower. -->

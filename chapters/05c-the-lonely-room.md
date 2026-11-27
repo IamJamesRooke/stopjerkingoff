@@ -32,6 +32,8 @@ It was never the habit that made those moments bearable. The evening off, the wa
 
 A man who believes he needs the habit to cope will reach for it every time life leans on him. A man who knows he doesn't need it has nothing left to reach for.
 
+So the next time life leans on you, remember you're allowed. No rule in this book says you can't. Ask one small thing first. Do I need this, or does he?
+
 Come to me, Jesus says, and I will give you rest. That's better than relief, and you know the difference. Relief is what you've been buying every night for years, and it has never lasted until morning.
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of 05-the-times-we-reach-for-it.Rmd; the source notes for everything here are in that file. -->
@@ -43,3 +45,5 @@ Come to me, Jesus says, and I will give you rest. That's better than relief, and
 <!-- 2026-11-22 full-book pass (James: every chapter follows the last; 'The orgasm is real... It does feel good in the moment'; the three 'at least' bargains). Long sentence split. -->
 
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
+
+<!-- 2026-11-27 PROOF LOOP (James, tempted: 'I CAN watch it, but do I really need to feed that little monster?'; wants light reminders sprinkled through the book: you can, nobody is stopping you, the urge is the Little Monster asking, no pressure, no force). One short reminder added here, worded differently in each chapter. Never a vow, never willpower. -->

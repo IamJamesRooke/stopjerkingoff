@@ -54,6 +54,8 @@ It wasn't only weakness. He changed his mind. At that moment he believed he was 
 
 Here's the false information in one line. "What's the point of a clean conscience if I'm miserable?" Fair question, and the answer is that you won't be. A life without the habit isn't gray and twitchy. The willpower man's misery doesn't come from the Little Monster, who's tiny. It comes from believing he's given something up. So he feels deprived, and feeling deprived is a strain all by itself. Under strain the old voice says "go on", and now he can't. So he feels more deprived still.
 
+That's why nobody here is asking you to hold out. When he bangs tonight, you can carry the plate up. There's no rule against it, and nobody's keeping score. The only question worth asking is whether you need to.
+
 That's the method at its best. Now add a scoreboard.
 
 <!-- SOURCES (Chapter 11): every quote below is from the research files; check each against its page before publishing.
@@ -98,3 +100,5 @@ That's the method at its best. Now add a scoreboard.
 <!-- 2026-11-23 FLOW PASS (book-wide): the 'confidence trap' paragraph moved from the opening into 'The first attempts'; 'fighting wears a man down' moved to after the first few days; one lead-in sentence added before the 'clean conscience' question; nothing cut. -->
 
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
+
+<!-- 2026-11-27 PROOF LOOP (James, tempted: 'I CAN watch it, but do I really need to feed that little monster?'; wants light reminders sprinkled through the book: you can, nobody is stopping you, the urge is the Little Monster asking, no pressure, no force). One short reminder added here, worded differently in each chapter. Never a vow, never willpower. -->
