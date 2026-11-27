@@ -22,7 +22,7 @@ The hookup has an "at least" of its own. "I'm not jerking off. At least I'm with
 
 She is real, and that's the trouble. The screen used a picture. The hand used a memory. This uses her. He hasn't stopped jerking off. He's doing it with her body, and she's a person.
 
-"But she wanted it too." Maybe she did. Then where were the two of you going? If nowhere, each of you gave one night and kept the rest back. You were two addicts sharing a dose. Two people took a hit, and nobody got a gift.
+"But she wanted it too." Maybe she did. Then where were the two of you going? If nowhere, each of you gave one night and kept the rest back. Two people each took a hit off the other, and nobody got a gift.
 
 Same for the girlfriend of two years he has no plan to marry. It's one long night. She's no stranger, and you stay. But ask her what she thinks the two years are for. If her answer isn't yours, one of you is being used. A plan for someday is not a promise.
 
@@ -36,7 +36,7 @@ Same for the girlfriend of two years he has no plan to marry. It's one long nigh
 
 **During.** Be honest about where your head was. Half the time you were watching yourself. Was it going well? Was she comparing? You were with a stranger, and you were performing for her.
 
-**The minute after.** That's the test of any pleasure. A husband who's made love to a wife he loves is glad a minute later. He stays put. Most nights you wanted her gone, or you wanted to be gone. She reached for you, and being held was the part you couldn't stand. Count the nights you stayed and were glad. Then count the others. Then count how many of those women are still in your life. Two psychologists put the question to students in 2001. Men with many past partners said a woman looked less attractive to them after the first time. Men with few partners didn't. Remember the saying of the men who pay for it. You don't pay her for the sex. You pay her to leave.
+**The minute after.** That's the test of any pleasure. A husband who's made love to a wife he loves is glad a minute later. He stays put. Most nights you wanted her gone, or you wanted to be gone. She reached for you, and being held was the part you couldn't stand. Count the nights you stayed and were glad. Then count the others. Then count how many of those women are still in your life. Two psychologists put the question to American students in 2001, in two small studies. Men with many past partners said a woman looked less attractive to them after the first time. Men with few partners didn't. There's an old saying among men who pay for it. You don't pay her for the sex. You pay her to leave.
 
 **The morning.** One of you is hunting for a missing sock. Nobody mentions next week. Then comes the drive home, radio off, in a flat gray quiet. The phone's out again before lunch.
 
@@ -56,7 +56,7 @@ Try something. Suppose every night like that came with what sex was built to car
 
 Would you still have gone home with her?
 
-Most men answer at once. "No. Not her." Then she was never someone you wanted. You wanted the hit.
+Listen for how fast your answer comes. "No. Not her." Then she was never someone you wanted. You wanted the hit.
 
 ## The lies that go with it {-}
 

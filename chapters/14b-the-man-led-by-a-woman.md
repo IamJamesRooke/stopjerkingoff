@@ -16,7 +16,7 @@ Think of his wanting as a lever sticking out of him. Anyone who grabs it can ste
 
 The lever doesn't care whose hand is on it. Anyone who knows what he wants can pull it.
 
-The advertiser knows. That's why a pretty girl is leaning on the car. The stranger who writes to him out of nowhere knows. In her pictures she's young and lovely, and she thinks he's wonderful. After three weeks she has a sudden emergency that only his credit card can fix. Very often "she" is a man at a desk, reading from a script. Governments know it too. The cheapest way to get a secret has always been to send a pretty woman to the man who keeps it.
+The advertiser knows. That's why a pretty girl is leaning on the car. The stranger who writes to him out of nowhere knows. In her pictures she's young and lovely, and she thinks he's wonderful. After three weeks she has a sudden emergency that only his credit card can fix. Often enough "she" is a man at a desk, reading from a script. Governments know it too. Spies have used it for centuries: send a pretty woman to the man who keeps the secret.
 
 None of them is stronger or smarter than he is. They just know where the lever is.
 
@@ -24,7 +24,7 @@ None of them is stronger or smarter than he is. They just know where the lever i
 
 None of this is new. The oldest full account is in the book of Judges, and it's about a man named Samson, the strongest man in the Bible. God gave him that strength to free his people from their enemies, the Philistines, and no army could hold him. His weakness was women, and his enemies knew it. He fell in love with a woman named Delilah, and the Philistine rulers came to her with an offer. "Entice him, and see in which his great strength lies." Each of them promised her eleven hundred pieces of silver.
 
-Three times she asked him for his secret. Three times he lied, and three times she tried it on him with armed men hiding in the next room.
+Three times she asked him for his secret. Three times he lied, and each time she tried it on him, the first times with armed men hiding in the next room.
 
 Stop and look at him. Three times this woman has tried to hand him over to men who want him dead. He knows it. And he stays. Anybody with his wits about him takes the hint after one ambush. That's lust. He isn't fooled. He just can't leave.
 
@@ -50,7 +50,7 @@ The girl went out and asked her mother what to ask for. She came back with the a
 
 Mark says the king was "exceedingly sorry". But he'd sworn, and his guests were watching. He sent a soldier to the prison, and the head came back on a dish.
 
-Look at whose hand was on the lever. Herodias couldn't get John killed by asking. So she sent in a dancer and let the king's own appetite do the asking. A man with his blood up will promise anything, and then his pride makes him pay. A good man died because a king liked what he saw and opened his mouth.
+Look at whose hand was on the lever. Herodias couldn't get John killed by asking. So when her daughter danced, she saw her chance and let the king's own appetite do the asking. A man with his blood up will promise anything, and then his pride makes him pay. A good man died because a king liked what he saw and opened his mouth.
 
 ## The king who sulked {-}
 
@@ -60,7 +60,7 @@ The owner wouldn't sell. So the king went home. He "laid himself down on his bed
 
 ![](images/illustrations/led-ahab-sulking.png){.illustration width=80%} His wife, Jezebel, found him sulking. "I will give you the vineyard", she said. She wrote letters in his name, sealed them with his seal, and had the owner killed.
 
-Ahab asked no questions. The plan was hers, but it was his name on the letters and his seal in the wax. A man being handed what he wants doesn't ask how. The Bible's verdict on him is that he "sold himself".
+The story records no question from Ahab. The plan was hers, but it was his name on the letters and his seal in the wax. A man being handed what he wants doesn't ask how. The Bible's verdict on him is that he "sold himself".
 
 Mark Driscoll, an American pastor, gives the men of his church a short rule drawn from that marriage: "If you tolerate, they will dominate." Ahab tolerated everything, because his silence had been paid for.
 
