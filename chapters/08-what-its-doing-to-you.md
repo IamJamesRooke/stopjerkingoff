@@ -40,6 +40,8 @@ Why would it? Think what a man's hunger is for. It's meant to get him up, send h
 
 That's the flat feeling. You've got your coffee, your list and your good intentions, and nothing behind them. One man on NoFap, the biggest of the quit-porn forums, remembered at ninety days out where he had been: "My drive for life was almost at zero."
 
+![](images/illustrations/doing-drive-low-battery.png){.illustration width=80%}
+
 A married pastor says the same from the other end. God put the drive in a husband, he says, partly so he'd pursue his wife: date her, listen to her, win her again. That's no begging. A beggar asks out of need, and this man gives out of strength. Take the drive somewhere else and it's spent. "I don't have it anymore", he says. The husband ends up with a book on one side of the room while his wife gets on with her evening on the other.
 
 None of this is to shame you. It's what the habit has taken, a little more each year, and you're about to stop paying.
@@ -48,6 +50,8 @@ None of this is to shame you. It's what the habit has taken, a little more each 
 
 C.S. Lewis put it in three words: "indulgence brings fog". Part of the fog is plain tiredness. A bigger part is that the habit takes up room in your head, with a corner of your mind always planning the next time or regretting the last. One man who stopped wrote, "I feel like coming out from a fog that has been around me all this time." He hadn't known he was in it until it lifted. Nobody does.
 
+![](images/illustrations/doing-out-of-the-fog.png){.illustration width=80%}
+
 ### Your confidence {-}
 
 Men find this one hardest to believe and easiest to recognize. How does something done alone, behind a locked door, change how you stand in a room?
@@ -55,6 +59,8 @@ Men find this one hardest to believe and easiest to recognize. How does somethin
 You bring it with you. You walk in knowing what you did last night with the lights off, and you assume it shows. You can hardly look people in the eye.
 
 It's worst around women. A man who spent last night using them in his head can't face a real one this morning. He's either sizing her up or studying his shoes.
+
+![](images/illustrations/doing-studying-his-shoes.png){.illustration width=80%}
 
 ### The way you see women {-}
 
@@ -68,6 +74,8 @@ If you're a believer, you'll know this one best. If you're not, read it as "your
 
 One of the Bible's first stories tells it. After Adam, the first man, ate the fruit God had forbidden, he covered himself, and then he hid. God came walking in the garden in the cool of the day, and there was Adam, crouching among the trees. Nobody told him to hide. Shame did it unasked.
 
+![](images/illustrations/doing-adam-hiding.png){.illustration width=80%}
+
 That's the real cost to a Christian man, and it has nothing to do with lightning bolts.
 
 God doesn't leave. You do.
@@ -80,7 +88,9 @@ This means the marriage you have, or hope to have. If you expect neither, read i
 
 Desire is meant to drive a man out of himself and toward one woman, who has her own mind and her right to say no. The habit turns him around and hands him women in his head. They never have a headache, never need listening to, never ask anything of him. A man can come to prefer that.
 
-So the husband lies a foot from his wife and a hundred miles away. She can't name what's wrong, but she can feel that part of him is being spent elsewhere. Sometimes his body gives him away. "I knew there was a serious problem", wrote a man on a sobriety forum, "when I was losing my erection sometimes when I was with my wife". And he can't tell her, so now there's a locked room in the marriage.
+So the husband lies a foot from his wife and a hundred miles away.
+
+![](images/illustrations/doing-a-hundred-miles-away.png){.illustration width=80%} She can't name what's wrong, but she can feel that part of him is being spent elsewhere. Sometimes his body gives him away. "I knew there was a serious problem", wrote a man on a sobriety forum, "when I was losing my erection sometimes when I was with my wife". And he can't tell her, so now there's a locked room in the marriage.
 
 If she finds out on her own, it lands as betrayal, not a private habit. She wonders what else she doesn't know, and whether she was ever enough. None of that is her fault.
 

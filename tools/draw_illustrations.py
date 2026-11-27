@@ -1841,6 +1841,64 @@ def batch19(OUT):
         s+=f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="{YEL}" stroke-width="5"/>'
     s+=TAIL; open(OUT+"time-buying-back-the-watch.svg","w").write(s)
 
+# ---- Batch 20: What It's Doing to You ----
+def bush(x,y,r=50,col="#2FB3A8"):
+    return f'<path d="M{x-r},{y} C{x-r-20},{y-50} {x-r/2},{y-90} {x},{y-80} C{x+r/2},{y-100} {x+r+20},{y-50} {x+r},{y} Z" fill="{col}"/>'
+def batch20(OUT):
+    W,H=680,440
+    # 1. Your drive: coffee, the list, good intentions, and nothing behind them
+    s=head(W,H,"#FFD23F")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="300" y="300" width="300" height="16" rx="5" fill="#9C6B3C"/><line x1="320" y1="316" x2="320" y2="408"/><line x1="580" y1="316" x2="580" y2="408"/>'
+    s+=man(230,206,"blank")+'<path d="M226,356 L226,408"/><path d="M244,356 L280,408"/><rect x="180" y="356" width="90" height="14" rx="5" fill="#9C6B3C"/>'
+    s+='<path d="M246,250 L300,290 L340,290"/>'
+    s+='<rect x="350" y="260" width="30" height="38" rx="4" fill="#fff"/><path d="M380,270 q14,6 0,16"/><path d="M358,250 q-6,-10 0,-18 M370,250 q-6,-10 0,-18" stroke-width="3"/>'
+    s+='<rect x="420" y="276" width="70" height="24" fill="#fff" stroke-width="3.5"/>'
+    for i in range(3): s+=f'<line x1="{400+i*0}" y1="0" x2="0" y2="0" stroke="none"/>'
+    s+='<rect x="160" y="80" width="140" height="64" rx="10" fill="#fff"/><rect x="300" y="98" width="14" height="28" rx="4" fill="#fff"/>'
+    s+=f'<rect x="172" y="92" width="22" height="40" rx="3" fill="{RED}" stroke="none"/>'
+    s+=TAIL; open(OUT+"doing-drive-low-battery.svg","w").write(s)
+
+    # 2. Your focus: walking out of a fog he didn't know he was in
+    s=head(W,H,"#7FD3FF")
+    s+=f'<circle cx="590" cy="70" r="28" fill="{YEL}"/>'
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<path d="M20,20 L330,20 C380,60 300,120 360,170 C300,220 380,280 330,330 C380,370 320,400 340,420 L20,420 Z" fill="#C0C6D0" stroke="none" opacity="0.92"/>'
+    s+=man(380,174,"happy")+'<path d="M376,324 L350,408"/><path d="M394,324 L430,404"/><path d="M366,220 L340,280"/><path d="M396,220 L430,270"/>'
+    for (x1,y1,x2,y2) in [(430,130,446,118),(380,112,380,94),(330,130,316,118)]:
+        s+=f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="{YEL}" stroke-width="5"/>'
+    s+=TAIL; open(OUT+"doing-out-of-the-fog.svg","w").write(s)
+
+    # 3. Your confidence: studying his shoes while the room talks
+    s=head(W,H,"#FF8FB1")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=man(420,174,"happy","#2FB3A8")+legs(420,324,14)+'<path d="M406,220 L390,290"/><path d="M436,220 L470,270"/>'
+    s+=man(540,174,"happy","#FF7A59")+legs(540,324,14)+'<path d="M526,220 L490,260"/><path d="M556,220 L572,290"/>'
+    s+='<g transform="rotate(22 150 330)">'+man(150,190,"blank")+'</g>'
+    s+='<path d="M130,340 L120,408"/><path d="M150,340 L160,408"/>'
+    s+='<path d="M120,230 L130,300"/><path d="M176,236 L170,300"/>'
+    s+=TAIL; open(OUT+"doing-studying-his-shoes.svg","w").write(s)
+
+    # 4. Adam crouching among the trees, hiding unasked
+    s=head(W,H,"#9BD13A")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=tree(140,410)+tree(560,410,fruit=False)
+    s+='<circle cx="350" cy="320" r="30" fill="#fff"/>'+dot(358,314)+dot(370,314)+'<path d="M356,334 q6,-4 12,0" stroke-width="3"/>'
+    s+=bush(340,410,90,"#2FB3A8")
+    s+=f'<path d="M300,340 q10,-30 30,-20 q-6,20 -30,20 Z" fill="{LIME}"/>'
+    s+=TAIL; open(OUT+"doing-adam-hiding.svg","w").write(s)
+
+    # 5. A foot from his wife and a hundred miles away
+    s=head(W,H,"#2B3A8F")
+    s+=moon(590,70,18)+stars([(80,60),(160,110),(470,50),(300,40)])
+    s+=bed(110,300,460,"#7B4FD6")
+    s+='<ellipse cx="170" cy="290" rx="46" ry="16" fill="#fff"/><ellipse cx="520" cy="290" rx="46" ry="16" fill="#fff"/>'
+    s+='<path d="M200,300 C220,250 320,250 330,300 Z" fill="#FF8FB1"/><path d="M360,300 C370,250 470,250 490,300 Z" fill="#FFD23F"/>'
+    s+='<circle cx="170" cy="262" r="28" fill="#fff"/><path d="M178,256 q5,4 10,0" stroke-width="3"/><path d="M168,272 q6,-3 12,0" stroke-width="3"/>'
+    s+='<circle cx="520" cy="262" r="28" fill="#fff"/>'+dot(508,256)+'<line x1="502" y1="272" x2="514" y2="272" stroke-width="3"/>'
+    s+='<path d="M318,240 L372,240 L360,270 L376,300 L356,330 L366,372 L326,372 L334,330 L314,300 L330,270 Z" fill="#2B3A8F" stroke="none"/><path d="M330,270 L314,300 L334,330 L326,372"/><path d="M360,270 L376,300 L356,330 L366,372"/>'
+    s+=TAIL; open(OUT+"doing-a-hundred-miles-away.svg","w").write(s)
+
 if __name__=="__main__":
-    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17","18","19"]
+    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20"]
     for b in which: globals()["batch"+b](OUT)
