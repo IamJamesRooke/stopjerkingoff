@@ -2061,6 +2061,76 @@ def batch22(OUT):
     s+='<rect x="270" y="150" width="56" height="40" fill="#E8DCC4" stroke-width="4"/>'
     s+=TAIL; open(OUT+"city-walls-rebuilt.svg","w").write(s)
 
+# ---- Batch 23: Advantages, The Willpower Method, The Counter ----
+def batch23(OUT):
+    W,H=680,440
+    # 1. Advantages: an empty thought bubble
+    s=head(W,H,"#FFD23F")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=man(240,174,"blank")+legs(240,324,16)
+    s+='<path d="M226,220 L200,270"/><path d="M256,220 L290,190 L270,150"/>'
+    s+='<circle cx="300" cy="120" r="8" fill="#fff"/><circle cx="330" cy="96" r="12" fill="#fff"/>'
+    s+='<path d="M360,90 C340,40 420,10 460,40 C500,10 580,30 570,80 C610,100 590,160 540,150 C520,180 440,180 420,150 C370,160 340,120 360,90 Z" fill="#fff"/>'
+    s+=TAIL; open(OUT+"advantages-empty-thought.svg","w").write(s)
+
+    # 2. Willpower: staring up at a cliff with no rope
+    s=head(W,H,"#7FD3FF")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<path d="M360,410 L380,300 L360,220 L400,140 L390,60 L420,20 L650,20 L650,410 Z" fill="#A7AFBD"/>'
+    s+='<path d="M420,120 l30,10 M470,240 l-26,14 M440,330 l30,-6" stroke-width="4"/>'
+    s+=man(220,180,"squeeze")+legs(220,330,14).replace('86','80')
+    s+='<path d="M206,226 L190,290"/><path d="M236,226 L252,290"/>'
+    s+=f'<path d="M180,130 q-6,10 0,14 q6,-4 0,-14 Z" fill="#4FB3FF" stroke-width="2.5"/>'
+    s+=TAIL; open(OUT+"willpower-the-cliff.svg","w").write(s)
+
+    # 3. Willpower: every night held by force, the tank runs lower
+    s=head(W,H,"#FF7A59")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=man(200,174,"squeeze")+legs(200,324,16)+'<path d="M186,220 L176,290"/><path d="M216,220 L230,290"/>'
+    s+='<path d="M180,174 l-8,0 M224,174 l8,0" stroke-width="3"/>'
+    s+='<path d="M360,300 A140,140 0 0,1 640,300 Z" fill="#fff"/>'
+    s+=f'<path d="M378,300 A122,122 0 0,1 410,218" stroke="{RED}" stroke-width="16"/>'
+    for i in range(5):
+        import math
+        a=math.pi*(1-i/4); s+=f'<line x1="{500+110*math.cos(a):.0f}" y1="{300-110*math.sin(a):.0f}" x2="{500+128*math.cos(a):.0f}" y2="{300-128*math.sin(a):.0f}" stroke-width="4"/>'
+    s+='<line x1="500" y1="300" x2="400" y2="280" stroke-width="7"/><circle cx="500" cy="300" r="12" fill="#141414"/>'
+    s+=TAIL; open(OUT+"willpower-tank-runs-low.svg","w").write(s)
+
+    # 4. They wanted a war: full armor against a pipsqueak
+    s=head(W,H,"#9BD13A")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=man(220,174,"squeeze","#A7AFBD")+legs(220,324,24)
+    s+='<path d="M186,150 C186,120 254,120 254,150 L254,160 L186,160 Z" fill="#C0C6D0"/><line x1="220" y1="122" x2="220" y2="100" stroke="#FF3B30" stroke-width="8"/>'
+    s+='<path d="M236,220 L290,250"/><line x1="280" y1="270" x2="420" y2="200" stroke-width="7"/><line x1="292" y1="240" x2="306" y2="268" stroke-width="7"/>'
+    s+='<path d="M204,220 L170,270"/><path d="M130,250 L180,250 L176,310 C170,330 140,330 134,310 Z" fill="#FFD23F"/>'
+    s+=monster(500,404,"dangle",0.55,stink=False)
+    s+=TAIL; open(OUT+"willpower-armor-for-a-pipsqueak.svg","w").write(s)
+
+    # 5. The counter: a man scratching lines on a cell wall
+    s=head(W,H,"#5A6070")
+    s+='<rect x="40" y="30" width="600" height="380" fill="#A7AFBD" stroke="none"/>'
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="480" y="60" width="120" height="100" fill="#7FD3FF"/>'
+    for x in range(500,600,24): s+=f'<line x1="{x}" y1="60" x2="{x}" y2="160" stroke-width="6"/>'
+    for g in range(4):
+        for i in range(4): s+=f'<line x1="{200+g*50+i*9}" y1="120" x2="{200+g*50+i*9}" y2="160" stroke-width="3"/>'
+        s+=f'<line x1="{196+g*50}" y1="150" x2="{234+g*50}" y2="126" stroke-width="3"/>'
+    s+=man(160,200,"blank","#FF7A59")+'<path d="M156,350 L144,408"/><path d="M174,350 L190,408"/>'
+    s+='<path d="M176,246 L200,200 L196,170"/><path d="M146,246 L130,300"/>'
+    s+=TAIL; open(OUT+"counter-cell-wall.svg","w").write(s)
+
+    # 6. The reset: one slip and he's at the bottom of the hill again
+    s=head(W,H,"#FF8FB1")
+    s+='<path d="M30,410 L650,410 L650,80 C520,120 400,300 30,410 Z" fill="#9BD13A"/>'
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=f'<path d="M600,96 L600,40" /><path d="M600,40 L640,52 L600,64 Z" fill="{RED}"/>'
+    s+='<path d="M560,110 C470,190 260,330 120,370" stroke-dasharray="6 12" stroke-width="4"/>'
+    s+='<circle cx="110" cy="360" r="26" fill="#fff"/><path d="M100,352 l8,4 l-8,4 M122,352 l-8,4 l8,4" stroke-width="3"/>'
+    s+='<path d="M90,386 C80,400 86,410 96,410 L130,410 C140,404 138,394 128,384 Z" fill="#2F6BFF"/>'
+    s+='<rect x="170" y="330" width="50" height="76" rx="8" fill="#141414"/><rect x="178" y="340" width="34" height="56" rx="3" fill="#fff" stroke-width="3"/>'
+    s+=f'<ellipse cx="195" cy="368" rx="9" ry="14" stroke="{RED}" stroke-width="5"/>'
+    s+=TAIL; open(OUT+"counter-back-to-zero.svg","w").write(s)
+
 if __name__=="__main__":
-    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22"]
+    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23"]
     for b in which: globals()["batch"+b](OUT)

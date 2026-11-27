@@ -8,9 +8,13 @@ NoFap has made a ritual of counting. There are day counters and badges. There's 
 
 Think about what a counter measures: the distance from the last time you did it. Every morning it points you straight back at the habit you're trying to leave. A man with a streak thinks about porn and masturbation more than a man without one. He has to. He's keeping score.
 
-And who counts days? A man scratching lines on a cell wall. Prisoners count days. Free men lose count. Ask a man who used to bite his nails how many days it's been. He couldn't tell you. Every number on that counter says "day forty of doing without", and a man doing without has already decided he's losing something.
+And who counts days? A man scratching lines on a cell wall. Prisoners count days. Free men lose count.
+
+![](images/illustrations/counter-cell-wall.png){.illustration width=80%} Ask a man who used to bite his nails how many days it's been. He couldn't tell you. Every number on that counter says "day forty of doing without", and a man doing without has already decided he's losing something.
 
 Then there's the reset. One slip on day sixty-one and the screen says zero. Sixty-one days, gone! So what does the man at zero do? Most often he thinks, "Well, it's ruined now," and burns the whole weekend, then starts counting again on Monday. The counter turned one bad night into three. A man who'd quit for good and stumbled would pick himself up the same hour. The man with a counter has to climb back up from the bottom of the hill.
+
+![](images/illustrations/counter-back-to-zero.png){.illustration width=80%}
 
 A man who counts is a man who waits. And while he waits, the questions come:
 
@@ -23,11 +27,11 @@ He's waiting for things to get better, and while he mopes, the habit he's given 
 
 ## Meanwhile, on day forty {-}
 
-Back to our man on his streak. Something really is happening to him, though he can't feel it. If he lasts a few weeks, the Little Monster starves. The itch is so slight he never notices it die.
+Back to our man on his streak. Something really is happening to him, though he can't feel it. If he lasts a few weeks, the Little Monster starves. The itch is so slight he never notices it fade.
 
 Around then he feels he's beaten the habit. So he allows himself one, to prove the point, and the Little Monster gets his first meal in weeks. The man had been out, and he's walked back in.
 
-Some men do succeed on willpower, and I take nothing away from them. But listen to how they tell it. Long and bitter, because the lie was still in their heads the whole time. The Little Monster had been dead for months and they were still moping. At last they realized they weren't going to give in, the moping stopped, and life went on perfectly well.
+Some men do succeed on willpower, and I take nothing away from them. But listen to how they tell it. Long and bitter, because the lie was still in their heads the whole time. The Little Monster had been starved quiet for months and they were still moping. At last they realized they weren't going to give in, the moping stopped, and life went on perfectly well.
 
 Many more fail than succeed that way. And some who succeed stay fragile for life, because a corner of them still believes the habit had something to give. That's how a man can be ten years clear and fall in one bad week.
 

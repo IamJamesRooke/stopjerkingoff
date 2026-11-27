@@ -16,6 +16,8 @@
 
 *That was all of it. Take as long as you like to think of an advantage.*
 
+![](images/illustrations/advantages-empty-thought.png){.illustration width=80%}
+
 &nbsp;
 
 *If you said "it feels good", you're right. It does, for a few seconds. So does sugar. You've seen what those seconds cost.*
