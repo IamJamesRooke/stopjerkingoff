@@ -24,7 +24,7 @@ Then count what he carries out. The strong dose doesn't feed the Little Monster 
 
 The screen leads one step past the free sites. You may not have taken it, but some men have. Such a man would never go to a prostitute. But he pays a monthly fee to see one woman's private pictures, and he tips her so she'll write back. Or he sends money to a woman who plays video games on a live stream, so she'll say his name.
 
-It's a river of cash. In 2024, men spent more than seven billion dollars on the largest of these subscription sites. And here's what the money often buys. Reporters found that many of the women there never write the messages at all. Agencies hire workers to do it, called chatters. Many are men, sitting in offices on the other side of the world, paid to type like her and keep him spending.
+It's a river of cash. In 2024, fans paid more than seven billion dollars to the largest of these subscription sites. And here's what the money often buys. Reporters found that on some of these pages the woman never writes the messages at all. Hired workers do it, called chatters. Some are men on the other side of the world, paid to type like her and keep him spending.
 
 ![](images/illustrations/screen-the-chatters.png){.illustration width=80%}
 

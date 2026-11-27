@@ -22,7 +22,7 @@ You'd laugh and keep walking. Everybody knows what the free one is for. The firs
 
 ## Just one chip {-}
 
-The makers of Lay's potato chips once ran a famous slogan. "Betcha can't eat just one." It may be the most honest ad ever written. They weren't bragging about the taste. They were telling you how the product works.
+The makers of Lay's potato chips once ran a famous slogan. "Betcha can't eat just one." That's "bet you can't", said fast. It may be the most honest ad ever written. They weren't bragging about the taste. They were telling you how the product works.
 
 The first chip isn't a small helping of chips. It's what opens the bag.
 
@@ -34,7 +34,7 @@ Anyone who's tried both knows it's easier to fast than to diet.
 
 The dieter has to stop mid-meal, food in his mouth, a hundred times a week. The man who fasts decides once, before he's hungry, and then there's nothing to argue about.
 
-"A little, and then I'll stop" is a diet. It's the hardest thing you could ask of yourself. None is the easy version.
+"A little, and then I'll stop" is a diet. It's the hardest thing you could ask of yourself. Not starting is the easy version.
 
 ## Where the choice is {-}
 

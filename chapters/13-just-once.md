@@ -46,13 +46,13 @@ Get this fixed in your mind: JUST ONCE DOES NOT EXIST. It's a chain, and each li
 
 ## One little look {-}
 
-Sometimes the offer comes smaller still. Not once, only a look. A scroll past one certain account, one quick search, a minute of "just touching, not finishing". This finishes off most men on the Willpower Method, three or four days in.
+Sometimes the offer comes smaller still. Not once, only a look. A scroll past one certain account, one quick search, a minute of "just touching, not finishing". This finishes off plenty of men on the Willpower Method, three or four days in.
 
 Often the little look is a letdown, and the man is delighted. "That did nothing for me. I must be losing interest." Wrong. The few seconds were never the point. He did it to feed the Little Monster, and that scrap tasted like a steak after four days of starving. The man didn't notice. The Little Monster did.
 
 The little look is also the caller getting his answer. Every call the man let ring taught the caller nothing. The one he picked up taught him to keep ringing.
 
-Job, the suffering man of the Old Testament, had the right idea. "I made a covenant with my eyes", he said; "how then should I look lustfully at a young woman?" He didn't promise to look a little. He made a covenant not to. King David took one long look from a rooftop, and you know what it cost him.
+Job, the suffering man of the Old Testament, had the right idea. "I made a covenant with my eyes", he said; "how then could I look lustfully at a young woman?" He didn't promise to look a little. He made a covenant not to. King David took one long look from a rooftop, and you know what it cost him.
 
 ## How to leave it unanswered {-}
 
@@ -80,11 +80,11 @@ Cain and Abel were sons of Adam and Eve. Each brought an offering to God. God ac
 
 Cain didn't listen. He took his brother out into the field and killed him.
 
-It's de Becker's picture, thousands of years before there was a telephone. Something is crouching at your door. It wants you. It won't go away because you ask it nicely. And Cain only had to open the door once.
+It's the stalker's picture, thousands of years before there was a telephone. Something is crouching at your door. It wants you. It won't go away because you ask it nicely. And Cain only had to open the door once.
 
-You are to rule over it. That doesn't mean wrestling him on the doorstep, or leaning on the door all night. Nothing is pushing from the other side. It means you don't open it, and once you've seen what's outside, you don't want to.
+You are to rule over it. That doesn't mean wrestling him on the doorstep, or leaning on the door all night. He's only knocking. It means you don't open it, and once you've seen what's outside, you don't want to.
 
-And look at what's crouching there. It isn't a dragon. It's a pipsqueak with a telephone. Martin Luther was the monk who started the Protestant Reformation. He said that if the devil won't leave any other way, you should jeer at him, because he can't bear scorn. So laugh at the caller all you like. Just don't fight him, and don't answer him.
+And look at what's crouching there. It isn't a dragon. It's a pipsqueak with a telephone. Martin Luther was the monk who started the Protestant Reformation. He's said to have taught that if the devil won't leave any other way, you should jeer at him, because he can't bear scorn. So laugh at the caller all you like. Just don't fight him, and don't answer him.
 
 ![](images/illustrations/just-once-crouching-at-the-door.png){.illustration width=80%}
 

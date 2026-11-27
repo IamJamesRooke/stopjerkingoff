@@ -6,7 +6,7 @@
 
 Men who masturbate every day envy the man who doesn't. We've all met him, or read his posts. "Honestly, I can go a couple of weeks and not even think about it." We wish we were built like that.
 
-Don't. No man in the trap enjoys it, however lightly he wears it. Keep three things in view:
+Don't. No man in the trap is happy about it, however lightly he wears it. Keep three things in view:
 
 - No man ever decided to get hooked, lightly or heavily.
 - So every man in the trap feels like a fool.
