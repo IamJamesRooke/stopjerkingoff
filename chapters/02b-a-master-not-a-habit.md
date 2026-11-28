@@ -91,10 +91,16 @@ You're not quitting yet, and nobody's asking you to cut down. So the next time a
 
 Only two things keep the trap shut.
 
-1. **The flesh.**
-2. **The world's lies.**
+**THE FLESH SUPPLIES THE ITCH. THE WORLD SUPPLIES THE REASONS TO SCRATCH IT.**
 
-Take those two away, and nothing's left to hold you.
+That's the whole trap in two lines. The book keeps coming back to a few words for it, so here they are in plain English.
+
+- **The flesh** is the Bible's word for appetite with nobody steering. It wants what it wants, now. In this habit, its hunger has a face: the Little Monster, banging in the back room.
+- **The world** is everything outside you that sells you reasons to feed him. The ads, the feed, the sites, the buddy who swears everybody does it.
+- **The Big Monster** is what those reasons turn into once you believe them. They move into your head and talk in your voice.
+- **The devil**, in Christian teaching, stands behind the world's lies. If you don't believe in him, follow the money. Somebody gets paid every time you feed the Little Monster.
+
+The itch is small. The lies are what make it look big. Take those two away, and nothing's left to hold you.
 
 The men who've walked out aren't clenching their jaws or staring back with longing. If anything, they look faintly puzzled that they ever bothered.
 
@@ -131,3 +137,5 @@ Take the flesh first. It's the smaller of the two, and it's not what you think i
 <!-- 2026-11-26 (James, reading: 'Quiet trap seems like it comes out of nowhere. And there are no pictures. I LOVE the pictures.'): 'The quiet trap' now opens by taking up the first of the two mysteries the section before it ends on ('how it ever had a grip on you'). Five drawings: the quiet trap with the crowd giving it a thumbs-up, two boxes in the rain, the calendar pages flying away, the Little Monster turning the wind-up key, the man walking out puzzled. -->
 
 <!-- 2026-11-27 (James, reading it: 'I find myself drifting off. Feels like a lot of text but doesn't hook me in'). Rebuilt to the locked chapters' standard: about 1,200 words down to about 650, one move per headed section, short paragraphs. Cut text (the button repeat, 'two mysteries', the truth-makes-free sentences, which The Empty House already carries) is in editorial/PARKING.md. Drawings, quotes and the proof-loop reminder kept. -->
+
+<!-- 2026-11-28 (James at chapter 15: loves 'The flesh supplies the itch. The world supplies the reasons to scratch it.' and wants it earlier; he was getting confused by the metaphors). 'Two things hold you' now carries that line and one plain map of the terms: flesh = the itch, its face the Little Monster; the world = what sells reasons to feed him; the Big Monster = those reasons once believed; the devil behind the world's lies, with a follow-the-money reason for non-believers. The Big Monster's name now first appears here (supersedes the 11-22 rule that it first appears in The World's Lies). -->

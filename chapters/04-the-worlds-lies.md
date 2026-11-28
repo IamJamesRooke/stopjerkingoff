@@ -6,7 +6,19 @@
 
 The flesh supplies the itch. The world supplies the reasons to scratch it.
 
-Two things keep a man in this trap. One is the flesh, with its small, restless itch: the Little Monster. The other is the lies, and they're far bigger, so they get a name too: the Big Monster. It's every lie you were told about the habit, and every lie you told yourself. It's no creature. It lives in your head, and it does all the talking.
+The itch is the Little Monster, and he's small. The reasons are the lies, and they're far bigger. That's why they're called the Big Monster. It's every lie you were told about the habit, and every lie you told yourself. It's no creature. It lives in your head, and it does all the talking.
+
+## Who's behind it {-}
+
+The Bible says plainly who runs the world's sales pitch. John, one of Jesus's closest friends, wrote that "the whole world lies in the power of the evil one." Jesus called Satan "the prince of this world." Paul called him "the god of this world," who "has blinded the minds of the unbelieving."
+
+Blinded is the word. He doesn't drag a man up the stairs. He just makes sure the man never sees what he's carrying up there.
+
+If you don't believe in a devil, look at who profits. Every site, app and ad that keeps you scratching gets paid when you do. You don't need horns to explain that.
+
+And the world doesn't work alone. It sells the lies. Your own mind repeats them, in your voice, at the worst moment. Your fear finishes the job: fear of a long evening with nothing to do, fear of a bad day without him, fear that you'll try and fail again. The world, your mind and your fear all push the same way. Up the stairs, with his plate.
+
+## The lies about the hand {-}
 
 Start with the loudest lies, the ones about masturbation. Your grandfather was told it would make him go blind, grow hair on his palms and land him in an asylum. Nonsense, and it got laughed out of the room. But when the scare stories went in the trash, the truth went with them. Now a boy hears the opposite sermon, just as confident. It has six points.
 
@@ -117,3 +129,5 @@ Those are the lies about the hand. Porn has its own set, and somebody else pays 
 <!-- 2026-11-27 CHAPTER 13 PASS (James: prepare ahead, generous with drawings): the sermon has six points, not five; epigraph credited to Paul; three drawings (the crowded trap, pigs eat trash, armor for a pipsqueak). -->
 
 <!-- 2026-11-27 reader panel: the tent line and 'kept the hand' made plain. The 2017 figures checked against the source note (Vaillancourt-Morel et al.; the distressed group used little). -->
+
+<!-- 2026-11-28 (James: the world belongs to the devil in Christian belief; the world tells you to keep feeding the monster; 'the world, your own mind, your fear, will conspire against you'). Opening reworded now that chapter 6 introduces the Big Monster; new section 'Who's behind it' with WEB 1 John 5:19, John 12:31, 2 Corinthians 4:4 (verified verbatim), a plain profit reason for non-believers, and the world/mind/fear paragraph. New heading 'The lies about the hand' before the six lies. -->
