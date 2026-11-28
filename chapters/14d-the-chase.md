@@ -18,6 +18,8 @@ He has a friend who's a woman, and he's been in love with her for three years. H
 
 But a friend wants nothing back, and this man is keeping count. Every favor is a deposit in an account he's sure will pay out one day. She may know it and enjoy the service, or have no idea. Either way, he isn't being kind. He's waiting to be paid, and under the good manners he's angry the check hasn't come.
 
+![](images/illustrations/chase-favors-in-the-bank.png){.illustration width=80%}
+
 Put the same test to him. Would he do all this for a man? Would he do it for her if he knew for certain that nothing would ever come of it? If the answer is no, it was never a gift.
 
 If that's you, the way out is plain. Stop the favors that are really payments. Tell her once, outright, what you want, or step back and say nothing. Then see what's left. Either the friendship stands on its own or it never was one.
@@ -28,7 +30,7 @@ The chase has a pocket version, and it looks respectable. The dating app.
 
 Wanting a wife is good, and so is meeting her through a phone. Plenty of good marriages began that way. But be honest about why you open it. A man looking for a wife reads slowly and writes to one woman. A hungry man swipes. Fifty faces in five minutes, each sorted in half a second, all for the little jolt when one matches.
 
-One man had been on an app for eight years. Then he met a woman at a party, and they decided to get married. He wrote on a forum that he was still swiping, though he never spoke to a single match. He had what the app was supposed to be for, and he couldn't put it down. Somebody answered him, "Don't you get it? You won!"
+One man had been on an app for eight years. Then he met a woman at a party, and they decided to get married. He wrote on a forum that he was still swiping, though he never spoke to a single match. He had what the app was supposed to be for, and he couldn't put it down. Somebody answered him, "Don't you get it? You already won. Close the app."
 
 Same itch, better clothes. The swipe is the scroll, with a chance attached.
 
@@ -39,6 +41,8 @@ Same app, two different evenings. Three in ten of those men said casual sex was 
 Now ask how the app makes its money. You pay by the month for more swipes and better odds. A man who finds his wife cancels. A man who almost finds her pays again. Nobody has to cheat you for that to matter. The app's best customer is the man who never quite gets there.
 
 In 2024 six users took the owner of two of the biggest apps to court in San Francisco. Their complaint said the apps were built like games, to lock users into paying, and that users "will chase the elusive high of matching". The company called the suit ridiculous. Leave that to the lawyers. You don't need a verdict to know how a slot machine works. It pays a little, now and then, on no schedule you can learn. That's what keeps a man in the chair.
+
+![](images/illustrations/chase-slot-machine.png){.illustration width=80%}
 
 A match is the same little jolt. It lands just often enough to keep your thumb moving.
 
@@ -90,7 +94,7 @@ The best thing you can do is also the only thing. Respect her decision, and stop
 
 It'll be hard for a few days. That's the Little Monster banging on the floor, and it passes. If you find you can't stop, tell a doctor or a counselor today. In many places this is also a crime.
 
-Six men, then. One at the party, one who waits, one who swipes and one who wins. One texting a picture in his head, and one who can't let go. Each of them thinks he's the hunter. Look again at who's doing the leading.
+Six men, then. One at the party, one who waits, one who swipes and one who wins. One texting a woman who lives mostly in his head, and one who can't let go. Each of them thinks he's the hunter. Look again at who's doing the leading.
 
 <!-- SOURCES (The Chase). New chapter 2026-11-21 (five-star pass): the first half of 'The Man Led by a Woman' split off so that both stay bite-sized. Holds: the opening; 'Thinking with the wrong head' (moved from 03c-crossing-the-red-line.md, heading dropped, last clause cut); the party man, 'The man who waits', 'The man who swipes', 'The one girl' (source notes in 14b-the-man-led-by-a-woman.md and 15-fantasy-and-the-thought-life.md); 'If you find yourself obsessed with a woman' (moved from 12b-do-not-negotiate.md, now 'If she has said no', with a one-sentence callback to de Becker's four instructions; its comment history is in 13-just-once.md). This file used to hold 'The King Who Turned His Face to the Wall', which was merged into 14b. -->
 

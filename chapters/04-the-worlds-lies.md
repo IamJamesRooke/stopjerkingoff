@@ -22,9 +22,9 @@ Start with the loudest lies, the ones about masturbation. Your grandfather was t
 
 ![](images/illustrations/worlds-lies-pigs-eat-trash.png){.illustration width=80%}
 
-**"A man needs the release."** You need air, water and food. Skip those and you die. No man has ever been carried out of a tent after a week of camping because he couldn't get a minute alone.
+**"A man needs the release."** You need air, water and food. Skip those and you die. No man has ever died from going a week without it, on a camping trip or anywhere else.
 
-**"It keeps you out of worse trouble."** It doesn't even work. Ask the men who quit porn and kept the hand. The hand let the porn back in. And nowhere does the Bible tell a man to commit one sin to avoid another.
+**"It keeps you out of worse trouble."** It doesn't even work. Ask the men who quit porn but kept masturbating. The hand let the porn back in. And nowhere does the Bible tell a man to commit one sin to avoid another.
 
 ## The opposite lie {-}
 
@@ -115,3 +115,5 @@ Those are the lies about the hand. Porn has its own set, and somebody else pays 
 <!-- 2026-11-27 PROOF LOOP (James, tempted: 'I CAN watch it, but do I really need to feed that little monster?'; wants light reminders sprinkled through the book: you can, nobody is stopping you, the urge is the Little Monster asking, no pressure, no force). One short reminder added here, worded differently in each chapter. Never a vow, never willpower. -->
 
 <!-- 2026-11-27 CHAPTER 13 PASS (James: prepare ahead, generous with drawings): the sermon has six points, not five; epigraph credited to Paul; three drawings (the crowded trap, pigs eat trash, armor for a pipsqueak). -->
+
+<!-- 2026-11-27 reader panel: the tent line and 'kept the hand' made plain. The 2017 figures checked against the source note (Vaillancourt-Morel et al.; the distressed group used little). -->

@@ -8,6 +8,8 @@ Why is it the strong one? Not because the finish is better. It's over in the sam
 
 A magazine had a last page. The screen has none. There's always another woman one thumb away, and she's always new. So the man who came for ten minutes is still there when the neighbors' lights go out. He isn't enjoying two hours. He's hunting for the one clip that will do it, and closing forty that didn't.
 
+![](images/illustrations/screen-the-hunt.png){.illustration width=80%}
+
 Don't take it for a different thing from the pictures in your own head. It's the same thing, made in a factory. One man rolls his own cigarettes, and another buys them by the carton. Same leaf. The carton was just built by professionals to keep him buying.
 
 ## What the strong dose pays {-}
@@ -22,7 +24,9 @@ Then count what he carries out. The strong dose doesn't feed the Little Monster 
 
 The screen leads one step past the free sites. You may not have taken it, but some men have. Such a man would never go to a prostitute. But he pays a monthly fee to see one woman's private pictures, and he tips her so she'll write back. Or he sends money to a woman who plays video games on a live stream, so she'll say his name.
 
-It's a river of cash. In 2024, men spent more than seven billion dollars on the largest of these subscription sites. And here's what the money often buys. Reporters found that many of the women there never write the messages at all. Agencies hire workers to do it, called chatters. Many are men, sitting in offices on the other side of the world, paid to type like her and keep him spending.
+It's a river of cash. In 2024, fans paid more than seven billion dollars to the largest of these subscription sites. And here's what the money often buys. Reporters found that on some of these pages the woman never writes the messages at all. Hired workers do it, called chatters. Some are men on the other side of the world, paid to type like her and keep him spending.
+
+![](images/illustrations/screen-the-chatters.png){.illustration width=80%}
 
 He thinks he has a girlfriend. He's a customer, and even when she's kind to him, it's her job. If this is you, add up what you've paid this year. Then ask what it bought you.
 

@@ -22,9 +22,11 @@ You'd laugh and keep walking. Everybody knows what the free one is for. The firs
 
 ## Just one chip {-}
 
-The makers of Lay's potato chips once ran a famous slogan. "Betcha can't eat just one." It may be the most honest ad ever written. They weren't bragging about the taste. They were telling you how the product works.
+The makers of Lay's potato chips once ran a famous slogan. "Betcha can't eat just one." That's "bet you can't", said fast. It may be the most honest ad ever written. They weren't bragging about the taste. They were telling you how the product works.
 
 The first chip isn't a small helping of chips. It's what opens the bag.
+
+![](images/illustrations/first-touch-one-chip.png){.illustration width=80%}
 
 ## Fasting is easier than dieting {-}
 
@@ -32,7 +34,7 @@ Anyone who's tried both knows it's easier to fast than to diet.
 
 The dieter has to stop mid-meal, food in his mouth, a hundred times a week. The man who fasts decides once, before he's hungry, and then there's nothing to argue about.
 
-"A little, and then I'll stop" is a diet. It's the hardest thing you could ask of yourself. None is the easy version.
+"A little, and then I'll stop" is a diet. It's the hardest thing you could ask of yourself. Not starting is the easy version.
 
 ## Where the choice is {-}
 
@@ -41,6 +43,8 @@ This is no rule to grit your teeth over. It's a map of where the choice is. The 
 So once your No is said, the instruction fits in four words, and your grandmother could have given it. Stop touching your junk.
 
 When you wake up hard, it's plumbing. It's not a summons. Get up and make the coffee.
+
+![](images/illustrations/first-touch-make-the-coffee.png){.illustration width=80%}
 
 The lie has one more trick. It points at another man and says, "Look at him. He has it under control."
 

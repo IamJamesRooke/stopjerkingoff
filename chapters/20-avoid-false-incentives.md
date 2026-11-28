@@ -16,6 +16,8 @@ Spend an evening on the NoFap forums. You'll be promised a deeper voice, clear s
 
 None of it's proven, and the hype sets its trap right here. You stop. Day twelve arrives. You squint into the bathroom mirror and it's the same face. The barista hasn't noticed a thing. Then comes the whisper: "It isn't working. You gave it up for nothing." You were promised wages, the wages didn't come, and you go back to the old job.
 
+![](images/illustrations/wrong-reasons-cape-in-mirror.png){.illustration width=80%}
+
 One man, ninety days free, said the wisest thing on the subject. The so-called superpowers, he wrote, are just the qualities a man would have if he weren't hooked. It's what a man is like when nothing's draining him.
 
 ## 2. "I'll quit to get women" {-}
@@ -36,7 +38,7 @@ The group version is the pact: six men in a chat, all starting on Monday. When o
 
 ## Why none of them work {-}
 
-Every one of these makes the same mistake. It ties stopping to a payment. No payment, you feel cheated. Payment arrives, the novelty wears off and you feel deprived. Either way you start asking, "Is this really making my life better? Did I do it wrong?" Doubt like that is what urges are made of.
+Every one of these makes the same mistake. It ties stopping to a payment. No payment, you feel cheated. Payment arrives, the novelty wears off and you feel deprived. Either way you start asking, "Is this really making my life better? Did I do it wrong?" Doubt like that feeds the urges.
 
 The real costs are already enormous: years of evenings gone, a head full of cotton, a conscience you can't look in the eye, a word you can't keep. If those haven't stopped you, a badge and a pair of sneakers won't. A phony prize only makes the sacrifice look bigger.
 

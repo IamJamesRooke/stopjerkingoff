@@ -20,7 +20,7 @@ Men say afterward that the habit "came back". Nothing came back. He picked up.
 
 So what does a man get for picking up?
 
-If the Little Monster's still alive, a few minutes of quiet, and a lesson for the caller in how many times to ring. If he's long dead, there's no itch to relieve. The man gets a few seconds, then ten flat minutes, and feels like a fool.
+If the Little Monster's still hungry, a few minutes of quiet, and a lesson for the caller in how many times to ring. If he's long since starved quiet, there's no itch to relieve. The man gets a few seconds, then ten flat minutes, and feels like a fool.
 
 Then the flatness lands. It's so grim he's dead sure nothing this miserable could ever hook him again.
 
@@ -40,17 +40,19 @@ The message is always about one special time. The one after a week away on busin
 
 Notice what it never says. "Go back to doing this every night for another twenty years." No man would take that deal. So it offers one, because one is the only size it can sell.
 
-Get this fixed in your mind: JUST ONCE DOES NOT EXIST. It's a chain, and each link is forged by the one before. The myth of the rare special occasion also keeps men moping after they've quit, like a man who's moved to a new house and keeps driving past the old one.
+Get this fixed in your mind: JUST ONCE DOES NOT EXIST. It's a chain, and each link is forged by the one before.
+
+![](images/illustrations/just-once-the-chain.png){.illustration width=80%} The myth of the rare special occasion also keeps men moping after they've quit, like a man who's moved to a new house and keeps driving past the old one.
 
 ## One little look {-}
 
-Sometimes the offer comes smaller still. Not once, only a look. A scroll past one certain account, one quick search, a minute of "just touching, not finishing". This finishes off most men on the Willpower Method, three or four days in.
+Sometimes the offer comes smaller still. Not once, only a look. A scroll past one certain account, one quick search, a minute of "just touching, not finishing". This finishes off plenty of men on the Willpower Method, three or four days in.
 
 Often the little look is a letdown, and the man is delighted. "That did nothing for me. I must be losing interest." Wrong. The few seconds were never the point. He did it to feed the Little Monster, and that scrap tasted like a steak after four days of starving. The man didn't notice. The Little Monster did.
 
 The little look is also the caller getting his answer. Every call the man let ring taught the caller nothing. The one he picked up taught him to keep ringing.
 
-Job, the suffering man of the Old Testament, had the right idea. "I made a covenant with my eyes", he said; "how then should I look lustfully at a young woman?" He didn't promise to look a little. He made a covenant not to. King David took one long look from a rooftop, and you know what it cost him.
+Job, the suffering man of the Old Testament, had the right idea. "I made a covenant with my eyes", he said; "how then could I look lustfully at a young woman?" He didn't promise to look a little. He made a covenant not to. King David took one long look from a rooftop, and you know what it cost him.
 
 ## How to leave it unanswered {-}
 
@@ -61,6 +63,8 @@ Never picture the single, harmless time. It's a fantasy in every sense. See the 
 And when the voice comes, remember the four instructions. The first is said only once, at the end of this book, and then it's said for good. The other three are how it stays said. Give no reason. Don't let him down gently. Never answer again. You don't have to win the argument, because there isn't one. A man who's debating whether tonight is an exception has already picked up the phone.
 
 A man who got out called the whole business "just a poisoned cookie." That's the difference between the two methods. The willpower man stands in front of the cookie, telling himself not to take it. You've seen it's poisoned. You don't have to resist it. You just don't eat it.
+
+![](images/illustrations/just-once-poisoned-cookie.png){.illustration width=80%}
 
 Don't let any of this frighten you. Any man can do it. It's absurdly easy, so long as you have three things straight:
 
@@ -76,11 +80,13 @@ Cain and Abel were sons of Adam and Eve. Each brought an offering to God. God ac
 
 Cain didn't listen. He took his brother out into the field and killed him.
 
-It's de Becker's picture, thousands of years before there was a telephone. Something is crouching at your door. It wants you. It won't go away because you ask it nicely. And Cain only had to open the door once.
+It's the stalker's picture, thousands of years before there was a telephone. Something is crouching at your door. It wants you. It won't go away because you ask it nicely. And Cain only had to open the door once.
 
-You are to rule over it. That doesn't mean wrestling him on the doorstep, or leaning on the door all night. Nothing is pushing from the other side. It means you don't open it, and once you've seen what's outside, you don't want to.
+You are to rule over it. That doesn't mean wrestling him on the doorstep, or leaning on the door all night. He's only knocking. It means you don't open it, and once you've seen what's outside, you don't want to.
 
-And look at what's crouching there. It isn't a dragon. It's a pipsqueak with a telephone. Martin Luther was the monk who started the Protestant Reformation. He said that if the devil won't leave any other way, you should jeer at him, because he can't bear scorn. So laugh at the caller all you like. Just don't fight him, and don't answer him.
+And look at what's crouching there. It isn't a dragon. It's a pipsqueak with a telephone. Martin Luther was the monk who started the Protestant Reformation. He's said to have taught that if the devil won't leave any other way, you should jeer at him, because he can't bear scorn. So laugh at the caller all you like. Just don't fight him, and don't answer him.
+
+![](images/illustrations/just-once-crouching-at-the-door.png){.illustration width=80%}
 
 Don't open the door. James, one of the first leaders of the church, put it as a promise: "Be subject therefore to God. Resist the devil, and he will flee from you." That's no call to wrestle. To resist him is simply not to answer. He has nothing else.
 

@@ -2,11 +2,15 @@
 
 If you're like most men, the phone is in your hand before your head hits the pillow. No decision was made. It just starts. Try to remember each time you masturbated last week. You'll recall one or two, the latest or the one you'd waited for, and the rest have vanished. That's how little they meant.
 
+![](images/illustrations/bed-phone-before-the-pillow.png){.illustration width=80%}
+
 "I do it when I'm bored." But boredom is a state of mind. Give a man a dead engine to rebuild and he can go for days without a thought of it. Now leave him on a bed with nothing to do and a screen full of half-dressed strangers. Nothing stands between him and the Little Monster's tapping. He isn't bored and then tempted. He's itchy, and with nothing to distract him, he notices.
 
-The psychiatrist Alok Kanojia says the number one cause of relapse isn't strong emotion. It's boredom. His reason takes one line: "if you've got a gap in your day porn will fill it".
+![](images/illustrations/bed-engine-never-bored.png){.illustration width=80%}
 
-The most famous fall in the Bible began in an empty hour. David, Israel's greatest king, was alone on his roof on an idle evening, while his army was away at war. You know that hour.
+The psychiatrist Alok Kanojia says that in his experience the number one cause of relapse isn't strong emotion. It's boredom. His reason takes one line: "if you've got a gap in your day porn will fill it".
+
+One of the Bible's worst falls began in an empty hour. David, Israel's king, stayed home while his army was away at war, and one idle evening he was walking on his roof. You know that hour.
 
 Far from curing boredom, the habit breeds it. Afterward you're heavy and dull. You don't call a friend or fix the shelf. You lie there and scroll. Boredom is a signal telling a man to go do something. The habit mutes the signal and keeps the boredom.
 
@@ -24,11 +28,15 @@ It removed a distraction it had planted, and sent you back with a duller head. T
 
 Does it? You've got a locked door and one ear on the stairs. You clear the history and check the door twice. In the shower you watch the clock, because people are waiting for the bathroom. A relaxed man doesn't behave like that. A burglar does.
 
+![](images/illustrations/bed-not-relaxed.png){.illustration width=80%}
+
 Take the morning shower. It's the habit at its most mechanical: warm water, a locked door, five minutes, same as yesterday. Nothing in you asked for it. The shower asked for it.
 
 Now the evening. A man comes in from work, eats, puts his feet up, and he's content. The man with the habit can't quite be. Another appetite is waiting, and until it's fed he's not fully in the room. He'll hurry the children's bedtime story. He'll be short with his wife for no reason she can find. He'll wait for the house to go to bed. Afterward, for half an hour, he's as calm as other men are all evening.
 
 Men call it the perfect end to the day. It's a debt collector at the door.
+
+![](images/illustrations/bed-debt-collector.png){.illustration width=80%}
 
 Why is a free man relaxed without it? And why can't you relax after a day or two without? Read what men write in the first week of a willpower "streak": pacing, snapping at people, counting the hours. That's a man robbed of the one comfort he believes he has. He's forgotten what ordinary peace feels like.
 
@@ -38,9 +46,11 @@ For many men this is the last excuse to fall, because the fear feels so practica
 
 You already know who keeps you awake. The bed is the cue. Lights out is the cue. Every night the Little Monster wakes up just as you lie down, and you can't settle until he's been fed. Then you sleep, and you thank the habit.
 
-It's a poor sedative anyway. The session runs long and the scrolling runs longer. At seven the next morning a man drags himself out of bed and blames the mattress.
+The drowsy feeling afterward is real. It's only him going quiet after his dinner, the same him who started banging at lights out. And it's a poor sleeping pill anyway. The session runs long and the scrolling runs longer. At seven the next morning a man drags himself out of bed and blames the mattress.
 
-When you stop, you may get a few nights when the old cue fires and you lie there awhile. Don't dread them. Lie there and smile. You know what's dying. If you still sleep badly a month from now, that's a different problem, and a doctor is the person to see. But most men are soon sleeping the way they did as boys. David wrote of it in Psalm 4: "In peace I will both lay myself down and sleep, for you, LORD alone, make me live in safety." He says he'll sleep in peace. He doesn't say he'll sleep worn out.
+When you stop, you may get a few nights when the old cue fires and you lie there awhile. Don't dread them. Lie there and smile. You know what's starving. If you still sleep badly a month from now, that's a different problem, and a doctor is the person to see. But most men are soon sleeping the way they did as boys. David wrote of it in Psalm 4: "In peace I will both lay myself down and sleep, for you, LORD alone, make me live in safety." He says he'll sleep in peace. He doesn't say he'll sleep worn out.
+
+![](images/illustrations/bed-sleeping-like-a-boy.png){.illustration width=80%}
 
 ## Energy {-}
 

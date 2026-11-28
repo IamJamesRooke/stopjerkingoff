@@ -4,7 +4,7 @@
 >
 > — Ephesians 4:19
 
-In the 1990s Procter & Gamble, the company behind Tide and Pampers, made a spray that wiped out bad smells. It didn't just cover them up. It got rid of them. The company was sure it would sell like crazy.
+In the 1990s Procter & Gamble, the company behind Tide and Pampers, made a spray that wiped out bad smells. It was built to destroy smells, not just cover them up. The company was sure it would sell like crazy.
 
 It didn't sell.
 
@@ -79,7 +79,7 @@ Here's the good news, and it's very good.
 
 Walk out of a smelly house for a weekend, and come back. The smell hits you at the door. Your nose wasn't broken. It was only asleep.
 
-The same thing happens to a man who stops feeding the Little Monster. You know him by now: the pathetic little freeloader in the back room upstairs, who bangs on the floor until you carry up his dinner. Stop the meals, and something strange happens downstairs too. Your nose comes back.
+The same thing happens to a man who stops feeding the Little Monster. He's the pathetic little freeloader in the back room upstairs, who bangs on the floor until you carry up his dinner. Stop the meals, and something strange happens downstairs too. Your nose comes back.
 
 Many men who quit say it surprised them. The billboard they never noticed now looks loud and strange. The music video looks desperate. The show they used to have on in the background makes them reach for the remote. One woman who gave up porn wrote that she hadn't realized how much of it was all around her, until she stopped.
 
@@ -102,3 +102,5 @@ SOURCES:
 - The woman who gave up porn: The Debrief, reprinted in Grazia, https://graziadaily.co.uk/life/real-life/tried-give-porn-realised-much ('It turns out that my world is littered with porn'). Paraphrased, as its date is unconfirmed.
 - 'Men who quit say' is the common testimony on recovery forums; no single quote is claimed.
 - The list in 'The house you live in' describes kinds of content, not specific named works. The video game line refers to GTA VI (2026), named in the next chapter. -->
+
+<!-- 2026-11-27 reader panel: Febreze described as built to destroy smells (the maker's claim); 'You know him by now' cut so the line doesn't lean back. -->

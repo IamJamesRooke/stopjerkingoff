@@ -1,6 +1,6 @@
 # Mud on Purpose {#mud-on-purpose}
 
-> "Woe to those who call evil good, and good evil; who put darkness for light, and light for darkness"
+> "Woe to those who call evil good, and good evil; who put darkness for light, and light for darkness; who put bitter for sweet, and sweet for bitter!"
 >
 > — Isaiah 5:20
 
@@ -10,13 +10,13 @@ Here's a short list of boots. Every one is on the record.
 
 ## The boots on the carpet {-}
 
-- In 2016 the superstar Beyonce releases *Lemonade*, a film set to her album. In it she recites a poem about a wife trying to win back a cheating husband. One line goes, "I bathed in bleach, and plugged my menses with pages from the holy book." Menses means her period. The next year, at the Grammys, the music industry's biggest awards night, she performs dressed as a goddess, in a crown and veil styled like old paintings of the Virgin Mary.
+- In 2016 the superstar Beyonce releases *Lemonade*, a film set to her album. In it she recites a poem by the Somali-British poet Warsan Shire, about a wife trying to win back a cheating husband. One line goes, "I bathed in bleach, and plugged my menses with pages from the holy book." Menses means her period. The next year, at the Grammys, the music industry's biggest awards night, she performs dressed as a goddess, in a crown and veil styled like old paintings of the Virgin Mary.
 - In 2018 the singer Ariana Grande releases "God Is a Woman," a video that mixes church imagery and sex. On an awards show that year she stages it like the famous painting of Jesus's last meal with his disciples.
-- In 2021 the rapper Lil Nas X releases a music video set in hell, built around seducing Satan. It gets thirty-eight million views in three days. An art company sells 666 pairs of matching "Satan Shoes," each with a drop of human blood in the sole. They sell out in under a minute.
+- In 2021 the rapper Lil Nas X releases a music video set in hell, built around seducing Satan. It gets thirty-eight million views in three days. An art company called MSCHF sells 666 pairs of matching "Satan Shoes," each with a drop of human blood in the sole. They sell out in under a minute.
 - In 2023, at the Grammys, Sam Smith and Kim Petras sing "Unholy," with devil horns, cages and flames.
 - In 2023 the singer Sabrina Carpenter films a music video inside a Catholic church in Brooklyn, with coffins in the aisle. The bishop says he's "appalled." He takes away the pastor's power to run the parish, and holds a special Mass to restore the church. Carpenter answers with a joke on her own last name: "Jesus was a carpenter."
 - In 2026 Netflix releases a show called *The Body*, about teenage girls at a Catholic high school, full of sex and a mock satanic ritual. Even the episode titles mock God. It turns Communion, the bread Catholics believe becomes the body of Christ, into a dirty joke, and treats the cross as a costume. By late November nearly 170,000 people have signed a petition asking Netflix to pull it.
-- In 2026 the crime video game *Grand Theft Auto VI*, one of the most awaited games ever made, comes out rated for sexual content and nudity. It also plays with Satan worship and hell as party props.
+- In 2026 the crime video game *Grand Theft Auto VI*, one of the most awaited games ever made, comes out rated for sexual content and nudity. An optional side quest even has cultists chanting to Satan.
 
 ![](images/illustrations/mud-boots-on-the-carpet.png){.illustration width=80%}
 
@@ -32,9 +32,9 @@ You don't have to believe in anything holy to see why. Even a man with no faith 
 
 ## "Do they really believe in Satan?" {-}
 
-Most of them, probably not. Let's be fair about that, because this book has no right to guess what's in anyone's heart. It won't tell you these singers worship the devil. Nobody named here has said so.
+Most of them, probably not. Let's be fair about that, because this book has no right to guess what's in anyone's heart. It won't tell you these singers worship the devil. Nobody named here has said they worship Satan.
 
-Even the Satanists mostly don't believe in Satan. The Church of Satan, founded in San Francisco in 1966, says its members don't think he exists. For them he's a symbol of pride and indulging your animal desires. The Satanic Temple, founded in 2012, is the same. It uses Satan as a symbol of rebelling against rules, and it pulls stunts on purpose to get attention.
+Even the Satanists mostly don't believe in Satan. The Church of Satan, founded in San Francisco in 1966, says its members don't think he exists. For them he's a symbol of pride and indulging your animal desires. The Satanic Temple, founded around 2013, is the same. It uses Satan as a symbol of rebelling against rules, and it pulls stunts on purpose to get attention.
 
 When the Grammys put on "Unholy," a leader of the Church of Satan watched it. His review? "Nothing particularly special."
 
@@ -52,7 +52,7 @@ Here's the thing, though. Whether the man on stage believes or not, the message 
 - The rules your grandmother lived by are a cage.
 - Whatever your body wants, give it.
 
-That's not a new idea from a record label. It's the oldest pitch in the Bible. In the Garden of Eden, the serpent told the first woman that God's one rule was a cage, and the fruit would make her free. You don't need to believe the story to see the point. The pitch is old. It's only wearing a better outfit.
+That's not a new idea from a record label. It's the oldest pitch in the Bible. In the Garden of Eden, the serpent told the first woman that God's one rule was keeping something good from her, and the fruit would make her like God. You don't need to believe the story to see the point. The pitch is old. It's only wearing a better outfit.
 
 Maybe you think the whole thing is nonsense, serpent and all. Fine. You don't need to believe a word of it for the next part to cost you.
 
@@ -85,3 +85,5 @@ SOURCES:
 - Ariana Grande, Zach Sang Show, 'eternal sunshine' track-by-track part 2, published 12 March 2024, about 24:40 and near the end: https://www.youtube.com/watch?v=dEp1T8GKWaI . Quotes checked against the video's own transcript: tarot readings on set; astrology 'a tool to help us hear what we need to hear'; 'I sit somewhere between being a literal witch, literal witch, I'm not kidding, and being like the most realistic cut-dry'; host: 'you are a witch'; Grande: 'I am indeed the witchiest witch' (said laughing, about a coincidence with Jim Carrey's birthday). Also on record, not used: 2013 Complex interview on a 'ghost/demon experience'; 2014 Telegraph interview crediting Kabbalah. Claims that she 'practices witchcraft' beyond her own words are commentators' framing.
 - Lana Del Rey, 2017: https://stereogum.com/1953599/lana-del-rey-on-doing-witchcraft-against-donald-trump-yeah-why-not-look-i-do-a-lot-of-shit/news
 - Isaiah 5:20, Ephesians 5:12 (WEB). -->
+
+<!-- 2026-11-27 reader panel (fact check): the Lemonade poem credited to Warsan Shire; Satan Shoes made by MSCHF; Satanic Temple 'around 2013'; GTA VI's Satan material is an optional side quest; the disclaimer now says 'worship Satan' so it doesn't clash with the Del Rey and Grande paragraphs; the serpent's pitch follows Genesis 3:5; Isaiah 5:20 epigraph given whole (WEB). -->

@@ -28,9 +28,11 @@ Jesus said the same about money: no one can serve two masters. A man with a lock
 
 ## One life {-}
 
-The moment the Little Monster is gone, there's no back room. That low, shifty feeling you've carried for years, like a man with a stolen wallet in his coat, goes with him. No more double life to manage, because there's only one life left. A man who'd been free a hundred days said it with an exclamation mark: "I don't feel like a creep with a secret perverted second sex life anymore!" Your confidence comes back, and with it a self-respect you may not have felt since you were a boy.
+Once you've stopped feeding the Little Monster, there's no back room to guard. That low, shifty feeling you've carried for years, like a man with a stolen wallet in his coat, goes too. No more double life to manage, because there's only one life left. A man who'd been free a hundred days said it with an exclamation mark: "I don't feel like a creep with a secret perverted second sex life anymore!" Your confidence comes back, and with it a self-respect you may not have felt since you were a boy.
 
 Being the same man in every room is a lot less work.
+
+![](images/illustrations/compartment-one-man.png){.illustration width=80%}
 
 The next trap catches the man who's eager to stop. It looks like motivation.
 

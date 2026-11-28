@@ -16,7 +16,7 @@ They're not a smaller helping of what the husband has. They're a photograph of h
 
 Now a harder question, and no blaming yourself. Why are you single at forty-five?
 
-Nobody can answer that for you, and a hundred things go into it. But count what the habit took out, and check which of these is yours. Every night it paid off the shove that sends a man across a room. It taught you to lose interest in a woman the day after you had her. It kept a dozen women on a phone, like coats on a rack, so you never had to choose one.
+Nobody can answer that for you, and a hundred things go into it. But count what the habit took out, and check which of these is yours. Every night it used up the shove that sends a man across a room. It taught you to lose interest in a woman the day after you had her. It kept a dozen women on a phone, like coats on a rack, so you never had to choose one.
 
 A man can't train for twenty years in the opposite of marriage and then wonder why he isn't married.
 
@@ -24,9 +24,11 @@ A man can't train for twenty years in the opposite of marriage and then wonder w
 
 So the choice in front of you was never sex or no sex. It's this road or that one.
 
-Follow this road to sixty-five. You're still swiping, on whatever the phone has become. Or you're two years into another woman you like and won't promise. The women get younger than you every year, and nobody has a key to your door.
+Follow this road to sixty-five. You're still swiping, on whatever the phone has become. Or you're two years into another woman you like and won't promise. Every year you're older than the women you meet by one more year, and nobody has a key to your door.
 
 The other road carries no promise. Nobody can tell you a wife is at the end of it. But it's the only road she could be on.
+
+![](images/illustrations/never-marry-two-roads.png){.illustration width=80%}
 
 And it's not an empty road.
 

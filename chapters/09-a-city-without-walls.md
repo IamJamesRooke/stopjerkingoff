@@ -10,6 +10,8 @@ Start with that proverb. It comes from King Solomon, David's son. In his day a c
 
 Solomon says a man without self-control is that city. He doesn't call him wicked. He calls him defenseless. Whatever shows up walks in and puts its feet on the table: a mood, an image, a bad day, a pretty face on a screen. That man doesn't get a vote on his own evening.
 
+![](images/illustrations/city-without-walls.png){.illustration width=80%}
+
 ## The king and his soldier {-}
 
 Solomon knew what he was talking about. His mother was a woman named Bathsheba, and this is how his parents met.
@@ -20,9 +22,11 @@ David knew that name. The Bible keeps a list of David's mighty men, the fighters
 
 David sent for her anyway and slept with her. Nobody asked what she wanted. He was the king. Some weeks later she sent him a message: "I am with child."
 
-So David called Uriah home. He wanted him to spend a night with his wife, so the child would pass as his. But Uriah wouldn't go home. He slept at the palace door with the servants. When David asked why, Uriah said his commander and his brothers were camped in the open field. "Shall I then go into my house to eat and to drink, and to lie with my wife? As you live, and as your soul lives, I will not do this thing!"
+So David called Uriah home. He wanted him to spend a night with his wife, so the child would pass as his. But Uriah wouldn't go home. He slept at the palace door with the servants. When David asked why, Uriah said the ark and the whole army were living in tents, and his commander was camped in the open field. "Shall I then go into my house to eat and to drink, and to lie with my wife? As you live, and as your soul lives, I will not do this thing!"
 
 The next night David got him drunk. Even drunk, Uriah had more honor than the king had sober. He slept at the door again.
+
+![](images/illustrations/city-uriah-at-the-door.png){.illustration width=80%}
 
 In the morning David wrote a letter to his general. "Send Uriah to the forefront of the hottest battle, and retreat from him, that he may be struck, and die." He gave the letter to Uriah to carry. The man walked back to the war with his own death warrant in his hand and, as far as the Bible tells us, handed it over unopened. Loyal to the end.
 
@@ -32,7 +36,9 @@ Look at what lust made of him. A soldier is supposed to die before he lets down 
 
 It stayed hidden until a prophet named Nathan came to the king with a story. A rich man with many flocks had taken a poor man's one pet lamb and cooked it for a guest. David was furious and said the man deserved to die. Nathan answered, "You are the man."
 
-David didn't argue. He said, "I have sinned against the LORD." And Nathan told him, "The LORD also has put away your sin." Tradition says David wrote Psalm 51 after that day. It begins, "Have mercy on me, God, according to your loving kindness."
+![](images/illustrations/city-the-pet-lamb.png){.illustration width=80%}
+
+David didn't argue. He said, "I have sinned against the LORD." And Nathan told him, "The LORD also has put away your sin." The heading on Psalm 51 says David wrote it after that day. It begins, "Have mercy on me, God, according to your loving kindness."
 
 He was forgiven. But the child died, and David's family never knew peace again.
 
@@ -52,9 +58,13 @@ You meant every one, maybe hundreds of times, and you broke every one. Each was 
 
 Break your word to yourself often enough and you stop believing it. Then a man says "I'll start the business", or "I'll get fit", or "I'll be a better husband", and something inside quietly answers, "No, you won't. I know you." That's the deepest damage the habit does. It makes you a man whose word, in his own ears, is a bounced check.
 
+![](images/illustrations/city-bounced-check.png){.illustration width=80%}
+
 David wasn't weak where the world could see. He had one hole in the wall. So do you.
 
-Don't take that as a verdict. Walls can be rebuilt. A governor named Nehemiah found Jerusalem's walls in ruins and had them back up in fifty-two days. Yours will go up faster. For now, just look at the gap and admit it's there.
+Don't take that as a verdict. Walls can be rebuilt. A governor named Nehemiah found Jerusalem's walls in ruins and had them back up in fifty-two days. Yours won't go up by straining. They go up as the lies come down. For now, just look at the gap and admit it's there.
+
+![](images/illustrations/city-walls-rebuilt.png){.illustration width=80%}
 
 So far this has been one-sided. You've heard what the habit costs and what stopping gains. A fair book gives both sides, so here's the other one, in full: the advantages of the habit.
 

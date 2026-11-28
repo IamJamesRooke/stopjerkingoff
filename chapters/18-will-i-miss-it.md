@@ -4,7 +4,7 @@ No.
 
 The Little Monster starves, and the path the habit wore across your evenings grows over. The last scraps of the old lies go with them. You'll meet a hard day standing up. And the good days will be good all the way through, because you'll be there for every minute, with no browser history to wipe when you get home.
 
-Let's be straight about the one thing you might miss. The orgasm feels good. For a few seconds it's real pleasure. But most of that good feeling is the banging stopping, and the habit made the banging. The rest is sugar. Sweet for a moment, and you pay before and after. A man who quits sugar doesn't miss the crash.
+Let's be straight about the one thing you might miss. The orgasm feels good. For a few seconds it's real pleasure. But a lot of that good feeling is the banging stopping, and the habit made the banging. The rest is sugar. Sweet for a moment, and you pay before and after. A man who quits sugar doesn't miss the crash.
 
 Paul once put a question to the Christians in Rome about their old life: "What fruit then did you have at that time in the things of which you are now ashamed?" He didn't ask what they'd lost. He asked what they ever got. Go on, answer it. What fruit?
 
@@ -18,7 +18,7 @@ There's only one real danger left, and it's other men.
 
 The world never stops telling a free man he's the odd one. Sitcoms treat the habit as a harmless joke and experts call it healthy. Then one Sunday you're alone in a quiet apartment, a little low, and the thought arrives: *Everyone else gets to. Why not me?*
 
-Strange thought. Every man who never picked the habit up is glad he didn't. Every man who still has it wishes he'd never begun, and he'll tell you so after a couple of honest questions. Not one of them recommends it to his son. So who exactly are you envying?
+Strange thought. Every man who never picked the habit up is glad he didn't. Most men who still have it wish they'd never begun, and they'll tell you so after a couple of honest questions. Few would recommend it to a son. So who exactly are you envying?
 
 It makes no difference which room you look in. The man with the porn, the man with the hand and the man with a new woman every month are one man. He isn't satisfied.
 
@@ -42,7 +42,9 @@ It tightens.
 
 If he isn't enjoying it this year, he'll enjoy it less next year.
 
-Pity him, pray for him, and when the chance comes, hand him this book.
+Pity him, wish him well, and when the chance comes, hand him this book.
+
+![](images/illustrations/miss-it-hand-him-the-book.png){.illustration width=80%}
 
 One idea still keeps a man planted where he is. It says he can keep the Little Monster shut in the back room and live his life in the rest of the house.
 

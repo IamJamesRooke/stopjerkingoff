@@ -8,7 +8,9 @@ Men in the trap aren't weak-willed. It takes real stamina to keep a secret for t
 
 Nobody argues with himself about whether to give up golf. About the habit we argue every night, and we think that's normal.
 
-From now on, treat every word in favor of the habit like a salesman with his foot in your door, your own words included. Smile, nod, and don't sign. That goes for "you need it" and "it's who you are". It goes for the safe version too. "Only in the shower", "only without a screen" and "only on weekends" are all the Big Monster, bargaining for the little one's dinner. Keep asking yourself two questions. "Why am I doing this? Do I actually need to?"
+From now on, treat every word in favor of the habit like a salesman with his foot in your door, your own words included. Smile, nod, and don't sign.
+
+![](images/illustrations/best-liar-foot-in-the-door.png){.illustration width=80%} That goes for "you need it" and "it's who you are". It goes for the safe version too. "Only in the shower", "only without a screen" and "only on weekends" are all the Big Monster, bargaining for the little one's dinner. Keep asking yourself two questions. "Why am I doing this? Do I actually need to?"
 
 Of course you don't.
 
@@ -55,3 +57,5 @@ So let's go through your day and find them.
 <!-- 2026-11-23 FLOW PASS (book-wide): 'Once you're in the trap, the lies get help from inside' moved up to second paragraph, where it explains the opening line; the punchline of the dialogue now comes straight after it, with the caution about the dare after that. No words changed. -->
 
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
+
+<!-- 2026-11-27 (James: generous with drawings): one drawing, the salesman in the doorway wears your shirt. -->

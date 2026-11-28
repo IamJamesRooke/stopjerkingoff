@@ -22,13 +22,17 @@ If you're not a believer, part of this holds without the theology. The war betwe
 
 The few seconds at the end feel good, and they're not why a man keeps the habit. He keeps it to stop the banging. We call the whole thing enjoyment because the alternative is too insulting to face: twenty years spent on something that gives us nothing. That's why most of it happens half-asleep, on autopilot, in the dark. A man at this habit is content only while his mind is somewhere else.
 
-The Willpower Method gets self-control wrong. It thinks self-control means holding a door shut for life, with something heavy leaning on the other side. That's not self-control. That's a siege, and sooner or later the man's arms give out. A soldier who spends every watch wrestling the bottle isn't fit for duty.
+The Willpower Method gets self-control wrong. It thinks self-control means holding a door shut for life, with something heavy leaning on the other side. That's not self-control. That's a siege, and sooner or later the man's arms give out.
+
+![](images/illustrations/two-wills-the-siege.png){.illustration width=80%} A soldier who spends every watch wrestling the bottle isn't fit for duty.
 
 He's only dry.
 
 Real self-control looks different. There's nothing leaning on the door. The man opens it and shuts it as he pleases, and half the time he forgets it's there.
 
 The old Christians who say a man must keep watch his whole life are right. Peter, one of the twelve men closest to Jesus, said, "Be sober and self-controlled. Be watchful." But a watchman doesn't wrestle the door every night. He knows what's out there, and he isn't afraid of it.
+
+![](images/illustrations/two-wills-the-watchman.png){.illustration width=80%}
 
 The habit feeds the Little Monster. The lies are the Big Monster. Starve the first, clear out the second, and you'll have **NEITHER THE NEED NOR THE WISH** to go back to any of it.
 

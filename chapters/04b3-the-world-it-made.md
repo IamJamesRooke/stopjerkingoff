@@ -6,12 +6,12 @@ The rules came off. Every man now carries more naked women in his pocket than a 
 
 ## The scoreboard {-}
 
-- In America, about one in five men aged 18 to 24 had gone a year without sex in the early 2000s. By 2018 it was nearly one in three.
+- In America, about one in five men aged 18 to 24 had gone a year without sex in the early 2000s. In 2016 to 2018 it was nearly one in three.
 - In a 2022 survey, 63 percent of American men under thirty were single. Among women the same age it was 34 percent.
 - In 1990, three American men in a hundred said they had no close friend. In 2021 it was fifteen.
-- In 1975 the typical American man first married at twenty-three. In 2025 it was nearly thirty-one.
-- In Japan in 2025, fewer than one in five unmarried young men had a girlfriend. Nearly one in four said he never intends to marry.
-- That year Japan recorded 671,236 births. It was the fewest since its records began in 1899.
+- In 1975 the typical American man first married at about twenty-three and a half. In 2025 it was nearly thirty-one.
+- In Japan in 2025, fewer than one in five never-married men aged 18 to 34 had a girlfriend. Nearly one in four said he never intends to marry.
+- That year Japan recorded about 671,000 births. It was the fewest since its records began in 1899.
 
 ## What this does not prove {-}
 
@@ -25,19 +25,19 @@ The promise wasn't kept.
 
 ## Who paid {-}
 
-Remember the California company whose owner got twenty-seven years? By 2026 everyone charged in that case had been sentenced, seven in all. The women spoke in court. One said this.
+Think of the California company that promised young women their videos would never go online, the one whose owner got twenty-seven years. By 2026 everyone charged in that case had been sentenced, seven in all. The women spoke in court. One said this.
 
 > "The life I was meant to have, died in that hotel room."
 
 Another said, "This was a theft of my identity, my safety, my dreams and my peace."
 
-In 2023 the company that owns the biggest porn site admitted to receiving proceeds of sex trafficking from that operation. It paid the government more than 1.8 million dollars. The videos had stayed on its sites until December 2020.
+In 2023 the company that owns the biggest porn site admitted to receiving proceeds of sex trafficking from that operation. Under a deal with prosecutors, it agreed to pay the government more than 1.8 million dollars. The videos had stayed on its sites until December 2020.
 
 ## One old study {-}
 
-In 1934 a scholar named J. D. Unwin published a long study with Oxford University Press. He compared more than eighty societies. He concluded that those which kept sex inside strict marriage had the most energy. He also concluded that they lost it within a few generations of loosening the rule. He wrote that he began with no thesis to prove.
+In 1934 a scholar named J. D. Unwin published a long study with Oxford University Press. He compared more than eighty societies. He concluded that those which kept sex inside strict marriage had the most of what he called social energy. He also concluded that they lost it within a few generations of loosening the rule. He wrote that he began with no thesis to prove.
 
-His methods are ninety years old, and nobody has repeated the work with modern ones. Take it as one man's finding and no more. Still, a scholar asked the question, and that was the answer he got.
+His methods are ninety years old, later scholars have criticized them, and nobody has repeated the work with modern ones. Take it as one man's finding and no more. Still, a scholar asked the question, and that was the answer he got.
 
 That's what the world's lies delivered, to other men and to the world. One liar is left, and he's the most persuasive of all. You've known him all your life.
 
@@ -60,3 +60,7 @@ SOURCES:
 <!-- 2026-11-23 FLOW PASS (book-wide): in 'What this does not prove' the sentence on the study's own finding moved up beside the researchers, ahead of the aside on the divorce courts. No words changed. -->
 
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
+
+<!-- 2026-11-27: 'Remember the California company...' sent the reader back; the case is now restated in place. -->
+
+<!-- 2026-11-27 reader panel (fact check): 2016-2018 for the no-sex figure; 23.5 for 1975; Japan's figure is never-married men 18 to 34; births rounded for the ear; Unwin's 'social energy' and the criticism of his methods; the Aylo payment was under a deferred prosecution agreement. -->

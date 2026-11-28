@@ -1,10 +1,12 @@
 # Questions Men Ask {#feedback}
 
-> "for a righteous man falls seven times and rises up again"
+> "for a righteous man falls seven times, and rises up again"
 >
 > — Proverbs 24:16
 
-This book has no quarrel with the man in the trap. Its quarrel is with the trap. When the method goes wrong, it's one of four things. Two are fears that creep back and make him doubt. Two are mistakes in carrying it out.
+This book has no quarrel with the man in the trap. Its quarrel is with the trap. When the method goes wrong, it's usually one of four things. Two are fears that creep back and make him doubt. Two are mistakes in carrying it out.
+
+![](images/illustrations/falls-seven-rises.png){.illustration width=80%}
 
 ## 1. Fear of failure {-}
 
@@ -15,6 +17,8 @@ Failing is no disgrace. If the fear of failing creeps back after you've decided,
 Ask the cold question. What terrible thing happens if you never touch the habit again? Nothing. Every terrible thing lies the other way.
 
 The panic is part of what the habit did to you, and it passes. Breathe slowly. If the day is grinding you down, step outside and stand in the parking lot for five minutes.
+
+![](images/illustrations/parking-lot-breathe.png){.illustration width=80%}
 
 And if you feel like crying, cry. We teach boys to clench their jaws and swallow it, and it does them no good. King David wept. So did Jesus.
 
@@ -30,11 +34,11 @@ A man says the method didn't work. Then he describes ignoring nearly every page.
 
 These are the most common, in the words men use.
 
-**"When does the urge die?"**
+**"When does the urge go for good?"**
 
 Nobody can give you a date, and you don't need one. The leftover itch is so faint you can't tell it from hunger, a yawn or a gray Monday. That's why willpower quitters never know if they've made it. Months later they feel hungry or low, and a voice says, "That's it again. You're owed one."
 
-So don't wait for the urge to die. A man who waits keeps asking, "Is it gone yet?" That question breeds the very fear he wanted gone.
+So don't wait for the urge to vanish. A man who waits keeps asking, "Is it gone yet?" That question breeds the very fear he wanted gone.
 
 If a twinge comes and you're a praying man, pray. One man wrote that whenever he does, he feels completely normal again. If you don't pray, say "I'm free" and get on with your day.
 
@@ -52,7 +56,7 @@ Hear this too. Say you've followed all of it, read the book twice, and you're st
 
 This book has nothing against sex. It's against the counterfeit.
 
-You already know where the line is. Sex belongs inside marriage. The letter to the Hebrews, in the New Testament, says, "Let marriage be held in honor among all, and let the bed be undefiled". That isn't because sex is dirty. It's because sex is strong. It ties two people together, and lust wants the tie without the promise. Within marriage, sex is a gift, and a married man who's stopped the habit shouldn't hold back from his wife.
+You already know where the line is. Sex belongs inside marriage. The letter to the Hebrews, in the New Testament, says, "Let marriage be held in honor among all, and let the bed be undefiled". That isn't because sex is dirty. It's because sex is strong. It ties two people together, and lust wants the tie without the promise. Within marriage, sex is a gift both give freely, never one to demand. A married man who's stopped the habit brings his wife the whole of himself.
 
 If you're not a believer, the test in your pocket gives the same answer. A gift, inside a promise already made? Or a hit?
 

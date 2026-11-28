@@ -16,9 +16,11 @@ I know how that sounds. A three-hour marathon is hard. You'd need years of train
 
 There isn't one. Men build it themselves, with the Willpower Method. That's any way of quitting that leaves a man feeling he's sacrificed something. He blocks the sites, and a week later he unblocks them.
 
-It's the swept and empty house. A man puts the Little Monster out and keeps his room ready, and he comes back with company.
+It's the swept and empty house Jesus told of. A man puts the Little Monster out and keeps his room ready, and he comes back with company.
 
 Some men are sorry to hear it's easy. They wanted a war, with long nights, a clenched jaw and a medal at the far end. A pipsqueak gives no medals. And nobody wants it on his gravestone that he fought his own hand for fifty years.
+
+![](images/illustrations/willpower-armor-for-a-pipsqueak.png){.illustration width=80%}
 
 ## The first attempts {-}
 
@@ -36,9 +38,13 @@ On top of that sit the lies he's soaked up from the world, and on top of those s
 
 So he doesn't start out thinking, "Wonderful! I don't have to do this anymore!" He starts in dread, like a man staring up at a cliff with no rope. He texts his accountability partner: "Pray for me. This month is going to be rough." Most attempts are beaten before they begin.
 
+![](images/illustrations/willpower-the-cliff.png){.illustration width=80%}
+
 Say he gets through the first few days. He feels brighter, with a little more spring in the mornings. And the reasons that made him stop are already fading.
 
 Fighting wears a man down, too. Every night he holds out by force, the tank runs lower for the next.
+
+![](images/illustrations/willpower-tank-runs-low.png){.illustration width=80%}
 
 Meanwhile the Little Monster hasn't been fed. His hunger doesn't hurt. A sniffle that mild, you wouldn't mention. But that hunger's enough to set the Big Monster talking, and three days ago this man was listing every reason to stop. Now he hunts, just as earnestly, for a reason to start:
 

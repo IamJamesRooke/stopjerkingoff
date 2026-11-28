@@ -26,6 +26,8 @@ Now ask what "the woman without the paper" keeps for you. The exit. That's its w
 
 A man with one hand on the door isn't all in, and she knows it. So she keeps a hand on her own door. Two people can live that way for years. Each keeps a packed bag in the closet, and each calls it being careful. Neither is ever fully known, because nobody shows everything to someone who may be leaving.
 
+![](images/illustrations/safe-road-packed-bags.png){.illustration width=80%}
+
 You've met this before. It's a room kept ready. The habit kept every room for the same reason, so you'd never have to choose.
 
 Follow the safe road to sixty. A study of 2009 counted American men then aged forty-five to sixty-three. Of the never-married men, about three in four lived alone, and one in five was poor. Of married people that age, about one in twenty-five was poor.
@@ -54,7 +56,7 @@ A steady paycheck counts. A long study of American couples found that a husband 
 
 And when she earns more than he does? Men say the risk skyrockets. The studies say it rises some, and mostly in one kind of couple.
 
-An American survey from around 1990 found divorce about half again as likely when the wife earned more. A later study found the link had faded for couples who married in the 1990s. In Sweden, women promoted to a top job were about twice as likely to divorce within three years. That held in traditional couples. It didn't hold in couples who'd shared the load from the start.
+An American survey from around 1990 found divorce about half again as likely when the wife earned more. A later study found the link had faded for couples who married in the 1990s. In Sweden, women who became mayors or members of parliament were about twice as likely to divorce within three years. That held in traditional couples. It didn't hold in couples who'd shared the load from the start.
 
 So her paycheck isn't the danger. The danger is two people who signed up for one kind of marriage and got another. Settle which kind before the wedding.
 

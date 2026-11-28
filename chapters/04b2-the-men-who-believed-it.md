@@ -4,11 +4,13 @@ Maybe none of these men is you. Read on anyway. They were on your road, a little
 
 ## The accountants {-}
 
-In 2022 an accounting manager in Florida was sent to prison for ten years. He was sixty. Over five years he'd stolen more than twelve million dollars from the medical group he worked for. Federal prosecutors listed where it went. Some of it went to women on an adult website.
+In 2022 an accounting manager in Florida was sent to prison for ten years. He was sixty. Over more than five years he'd stolen nearly thirteen million dollars from the medical group he worked for. Federal prosecutors described where it went. Some of it went to women on an adult website.
 
-A year earlier an accountant in Pennsylvania went to prison too. He was thirty-two and had stolen 1.2 million dollars from his employer. Prosecutors said it went on sports betting and on webcam models he'd met online.
+In 2021 an accountant in Pennsylvania went to prison too. He was thirty-two and had stolen 1.2 million dollars from his employer. Prosecutors said it went on sports betting and on webcam models he'd met online.
 
-Nobody takes twelve million dollars for a thing he believes is worth nothing. That's how big the lie can grow.
+Nobody takes thirteen million dollars for a thing he believes is worth nothing. That's how big the lie can grow.
+
+![](images/illustrations/believed-money-into-the-phone.png){.illustration width=80%}
 
 ## What they were buying {-}
 
@@ -18,7 +20,7 @@ In 2025 a reporter asked a woman who sells her pictures on a subscription site a
 
 And she said, "I'm more of an emotional support system for him."
 
-He wasn't buying sex. He was buying somebody to ask how his day went. Lust promised him a woman and sold him a helpline.
+By her account, he wasn't buying sex. He was buying somebody to ask how his day went. Lust promised him a woman and sold him a helpline.
 
 ## The woman who was switched off {-}
 
@@ -31,6 +33,8 @@ Travis Butterworth, forty-seven, of Denver, said this.
 Andrew McCarroll, of Montana, said, "The person I knew is gone."
 
 Nobody had died. A company had changed a setting. Don't laugh. Their grief was real, and that's the point. Lust had led them to love something a stranger could edit.
+
+![](images/illustrations/believed-switched-off.png){.illustration width=80%}
 
 ## In their own words {-}
 
@@ -63,3 +67,7 @@ SOURCES:
 None of the court cases claims the site caused the crime; prosecutors record where the money went. -->
 
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
+
+<!-- 2026-11-27 (James: generous with drawings): two drawings, the money flying into the phone and the companion switched off. No named person is drawn. -->
+
+<!-- 2026-11-27 reader panel (fact check): Florida case is $12.86 million over June 2014 to November 2019 ('nearly thirteen million', 'more than five years'); prosecutors 'described', not 'listed'; the Pennsylvania case was May 2021, so 'In 2021'; the big spender is 'by her account'. -->

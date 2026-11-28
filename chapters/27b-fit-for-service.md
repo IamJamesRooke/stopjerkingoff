@@ -12,7 +12,7 @@ Ask one more question. Who gains from your habit?
 
 You don't. So who does? There are companies that earn more the longer you sit aroused, alone and slumped on the couch. And behind the companies, something thrives when men are numb and spent. A Christian has a name for that something, and Peter warned the people he loved about him: "Be sober and self-controlled. Be watchful. Your adversary, the devil, walks around like a roaring lion, seeking whom he may devour." If you don't believe in a devil, call it a business model. It's working on you either way.
 
-And it never has to fight you. Take a man with people to love and work to do. Maybe he has a house to frame, a school to start, a song to finish. How do you stop him? Show him a little skin on a screen and he walks himself off the field. Twenty minutes later he's spent, slumped in the blue glow, and no use to anybody until morning. Then you do it again the next night. It's the cheapest victory there is. The enemy of mankind has one trick, and it's the one that works on a boy of fourteen.
+And it never has to fight you. Take a man with people to love and work to do. Maybe he has a house to frame, a school to start, a song to finish. How do you stop him? Show him a little skin on a screen and he walks himself off the field. Twenty minutes later he's spent, slumped in the blue glow, and no use to anybody until morning. Then you do it again the next night. It's the cheapest victory there is. The enemy of mankind has an old trick, and it still works on a boy of fourteen.
 
 None of that is an excuse. The apostle James won't let a man say the devil made him do it: "each one is tempted when he is drawn away by his own lust and enticed." The bait dangles, but the appetite is yours. That's good news, because it means the way out is yours as well.
 
@@ -35,6 +35,8 @@ Here's the good news, and the reason this book exists. Lust isn't hard to settle
 And being fit isn't the price of being loved. It's what a loved man is for.
 
 The prophet Isaiah once saw a vision of God on his throne. His first words were, "Woe is me!", because he knew what he was. Then an angel touched his lips with a coal from the altar and told him his sin was forgiven. And when God asked, "Whom shall I send, and who will go for us?", the forgiven man didn't hesitate. He said, "Here I am. Send me!"
+
+![](images/illustrations/fit-here-am-i.png){.illustration width=80%}
 
 You're about to say it. But laugh first.
 

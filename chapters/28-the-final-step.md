@@ -12,11 +12,11 @@ Already stopped before you got here? Good. Stay stopped, and take this step anyw
 
 The final step is a decision, spoken out loud. For a believer it's a prayer, and for a man who doesn't pray there's a version right after it. Before you take it, ask yourself one thing. Does some part of you still believe lust has something to give you? If so, don't take the step yet.
 
-One thing doesn't count against you. The orgasm feels good for a few seconds, and nobody here says otherwise. Sugar tastes sweet to the man it's ruining. The question is whether those seconds are a benefit. Name the one thing you still think it gives you. Go back to that one room and look again, then come straight back here. Reading the whole book again is just one more way of saying later.
+One thing doesn't count against you. The orgasm feels good for a few seconds, and nobody here says otherwise. Sugar tastes sweet to the man it's ruining. The question is whether those seconds are a benefit. Name the one thing you still think it gives you. Write that one thing down and look at it hard. Is it a benefit, or only the itch talking? Then come straight back here. Putting this step off to read more is just one more way of saying later.
 
 You don't have to feel brave, and you don't need a clean record. A man who's failed fifty times takes this step exactly like a man who's never tried.
 
-Nobody *decides* to fall into this trap. You wandered in as a boy. But the trap is built to hold you for life, and nobody wanders out of it. Getting out takes one clear, positive decision, and you're about to make it.
+Nobody *decides* to fall into this trap. You wandered in as a boy. But the trap is built to hold you for life, and few men wander out of it by accident. Getting out takes one clear, positive decision, and you're about to make it.
 
 ## "But I've promised this before" {-}
 
@@ -28,7 +28,7 @@ So don't think about failing. You're not climbing by willpower this time. You're
 
 Maybe you feel you've failed too often to come back again. Hear a man who felt exactly that. He pictures the prodigal son, the runaway in Jesus's story, halfway home. In his picture the son protests, "But God, I still smell like yesterday." And the Father answers with two words: "Just come." He adds, for every man reading: "You're not too dirty. You're not too far."
 
-Jesus asked for plain speech: "But let your 'Yes' be 'Yes' and your 'No' be 'No.'" That's all this step is: a plain No that you mean. You're showing the Little Monster the door, once, and you already know he has nothing you want. He may bang on the floor for a few days. Nobody's going up. Out there he starves, and in a few weeks he's gone.
+Jesus asked for plain speech: "But let your 'Yes' be 'Yes' and your 'No' be 'No.'" That's all this step is: a plain No that you mean. You're showing the Little Monster the door, once, and you already know he has nothing you want. He may bang on the floor for a few days. Nobody's going up. Out there he starves, and in a few weeks he's gone quiet.
 
 ## If there is another person {-}
 
@@ -43,6 +43,8 @@ If a woman you love is in that bed, this is not a No to her. It is a No to the b
 Here is how.
 
 **1. Go somewhere you can be alone and speak out loud.** Kneel if you're able. A man's knees teach his mind what's going on.
+
+![](images/illustrations/final-step-kneel.png){.illustration width=80%}
 
 **2. Pray this.** Use your own words if you prefer, but don't make it long or clever. Near the end you will ask to be shown a man to go back for. He is some man you know who is still where you were. A freed man goes back for one.
 
@@ -87,6 +89,8 @@ If you're Catholic, take this to Confession as well, and soon. The Church asks C
 **"YES! I'M FREE!"**
 
 Shout it if the neighbors can stand it.
+
+![](images/illustrations/final-step-im-free.png){.illustration width=80%}
 
 Don't get up thinking "I must never do that again" or "I'm not allowed anymore". Those are a prisoner's sentences. Get up thinking, "Isn't it wonderful? I never have to do that again. I'm free."
 

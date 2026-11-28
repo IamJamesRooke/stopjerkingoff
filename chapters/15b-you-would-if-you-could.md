@@ -74,11 +74,13 @@ This man is proud that no one else's sin is on his screen. But he's the director
 
 Even the husband who only ever pictures his wife isn't safe. He's still teaching his body that the finish line is himself, alone, on his own schedule. The version of her in his head never says "not like that" and never needs anything.
 
-C.S. Lewis wrote about a harem of imaginary brides, and he saw what it does to a man. The imaginary women are always available. They never refuse, and they never ask a man to give anything up. Nobody's at the other end of any of them. So, Lewis wrote, "this harem, once admitted, works against his ever getting out and really uniting with a real woman." A real woman has moods, needs and a mind of her own. The harem has none, so the real woman feels like hard work.
+In a private letter in 1956, C.S. Lewis wrote about a harem of imaginary brides, and he saw what it does to a man. The imaginary women are always available. They never refuse, and they never ask a man to give anything up. Nobody's at the other end of any of them. So, Lewis wrote, "this harem, once admitted, works against his ever getting out and really uniting with a real woman." A real woman has moods, needs and a mind of her own. The harem has none, so the real woman feels like hard work.
 
-The 2020s gave the harem a voice. A man can now talk every night to a girlfriend made by a computer. She's always awake and always pleased with him. She never has a bad day and never says no. You may never have tried it, but it shows where the film in a man's head is headed. In one American survey in 2025, nearly a third of young men said they had chatted with a machine as a boyfriend or girlfriend. Of everyone in the survey who had tried it, about one in five said they liked it better than talking to a real person. Now the walls talk back.
+The 2020s gave the harem a voice. A man can now talk every night to a girlfriend made by a computer. She's always awake and always pleased with him. She never has a bad day and never says no. You may never have tried it, but it shows where the film in a man's head is headed. In one American survey in 2025, nearly a third of young adult men said they had chatted with a machine as a boyfriend or girlfriend. Of everyone in the survey who had tried it, about one in five said they liked it better than talking to a real person. Now the harem talks back.
 
 Lewis warned where it ends: "The danger is that of coming to love the prison."
+
+![](images/illustrations/would-cozy-prison.png){.illustration width=80%}
 
 That's the thought life. Each visit, the cell gets a little more comfortable.
 
@@ -87,6 +89,8 @@ That's the thought life. Each visit, the cell gets a little more comfortable.
 So what does a man do with a head like that? Paul, writing to the church at Corinth, gives one line: "bringing every thought into captivity to the obedience of Christ". The picture is a soldier's. A thought turns up at the gate. It doesn't wander where it likes. It's seen for what it is, and it goes no further.
 
 That doesn't mean "try not to think about it". You've tried that. It turns the thought into the biggest thing in the room. An old saying does better. You can't stop a bird flying over your head, but you can stop it building a nest in your hair.
+
+![](images/illustrations/would-bird-not-nest.png){.illustration width=80%}
 
 The bird is the first thought. It comes by itself, and it's no sin and no failure. The nest is what a man builds out of it afterward.
 

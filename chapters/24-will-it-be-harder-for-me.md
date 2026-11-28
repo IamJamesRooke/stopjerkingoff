@@ -22,7 +22,7 @@ It's the same. The Little Monster is no bigger at fifty than he was at fifteen, 
 
 Plenty of men believe they're a special case. "I've got an unusually high drive." "I've got an addictive personality." Christians have their own version: "This is my besetting sin, my thorn. I'll carry it to the grave." That man is borrowing from Paul, who wrote of a "thorn in the flesh". But Paul's thorn was a suffering God allowed. It was never a sin he was told to keep. Usually a man picks up the belief from too many failed streaks and too many alarming videos.
 
-Nobody's born needing to do this to get to sleep. You weren't lying in your crib plotting it. The trap catches a man. His character has nothing to do with it, though the trap is clever enough to make him blame it. Drop that belief. A man who thinks he's in for life will behave like it long after the Little Monster is dead.
+Nobody's born needing to do this to get to sleep. You weren't lying in your crib plotting it. The trap catches a man. His character has far less to do with it than he thinks, and the trap is clever enough to make him blame it. Drop that belief. A man who thinks he's in for life will behave like it long after the Little Monster has starved quiet.
 
 ## The student and the single man {-}
 
@@ -45,6 +45,8 @@ Most men find it easier than they feared. Some carry more than the habit: an old
 One thing trips men in every one of these situations, and it's a bad day.
 
 Get this straight before you start: you'll have good days and bad days whether you go back to the habit or not. Ecclesiastes says God made the good day and the bad day side by side. They come to the free man and the man in the trap alike.
+
+![](images/illustrations/harder-good-day-bad-day.png){.illustration width=80%}
 
 The willpower man spends his bad day pacing the kitchen, pining for his comfort, so now he's got two problems. The free man has one. He meets it with a clear head, and he isn't dragging a guilty secret through it.
 

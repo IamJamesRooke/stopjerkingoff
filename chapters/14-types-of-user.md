@@ -6,7 +6,7 @@
 
 Men who masturbate every day envy the man who doesn't. We've all met him, or read his posts. "Honestly, I can go a couple of weeks and not even think about it." We wish we were built like that.
 
-Don't. No man in the trap enjoys it, however lightly he wears it. Keep three things in view:
+Don't. No man in the trap is happy about it, however lightly he wears it. Keep three things in view:
 
 - No man ever decided to get hooked, lightly or heavily.
 - So every man in the trap feels like a fool.
@@ -34,6 +34,8 @@ If the light man is caught as firmly as the heavy one, why do they look so diffe
 The daily man thinks he's weak, and can't see how other men keep it to once a week. But the once-a-week man is usually no stronger. One of those four brakes is just on harder. He shares a small apartment, or he's fifty-five, or he works fourteen-hour days. Take the brake off, say with a week alone in a hotel, and watch what he does.
 
 So the men in the trap differ in their brakes, and in where their lust goes, and in nothing else. Line them up, shallow end to deep, and you'll find yourself among them.
+
+![](images/illustrations/every-man-one-pit.png){.illustration width=80%}
 
 ## The line-up {-}
 
@@ -69,6 +71,8 @@ Every man in the trap says a version of that prayer.
 - "At least I've never paid for it."
 
 The second man was a tax collector, a man everyone despised. He compared himself with nobody. He only said, "God, be merciful to me, a sinner!" Jesus said he was the one who went home right with God that day.
+
+![](images/illustrations/every-man-pharisee-and-tax-collector.png){.illustration width=80%}
 
 There aren't really any types. There's one trap, and men are standing at different depths in it. The way out is the same for all of them.
 

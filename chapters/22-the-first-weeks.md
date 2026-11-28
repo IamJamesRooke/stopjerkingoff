@@ -31,7 +31,7 @@ Nothing in that week took courage. A bell rang a few times and nobody got up. Yo
 
 ## The leftover itch {-}
 
-The leftover itch doesn't hurt at all. Think of skipping lunch. Your stomach growls and you snap at the guy in the next cubicle, but nothing hurts. The itch is milder, and your body needs lunch but doesn't need this. In a man who isn't moping, the itch fades fast and is gone for good. The Little Monster has the staying power of a toddler at bedtime. He's loud, then quiet, then asleep.
+The leftover itch doesn't hurt at all. Think of skipping lunch. Your stomach growls and you snap at the guy in the next cubicle, but nothing hurts. The itch is milder, and your body needs lunch but doesn't need this. In a man who isn't moping, the itch fades fast and soon grows too faint to notice. The Little Monster has the staying power of a toddler at bedtime. He's loud, then quiet, then asleep.
 
 Men on the Willpower Method get through this part too. The itch isn't what brings them down. The cues do.
 
@@ -44,6 +44,8 @@ For years you've answered the itch at set times and in set places, so the places
 - "Everyone's out."
 
 You know this from changing cars. In the old one the turn signal was on the left. In the new one it's on the right. You know that perfectly well, and for two weeks you still switch on the wipers at every intersection.
+
+![](images/illustrations/first-weeks-wipers.png){.illustration width=80%}
 
 Nothing's wrong with you or the car. It's an old groove, and it wears out fast if you don't treat each misfire as a crisis. When the bell rings in the first days, you'll think, "This is when I'd normally do it." That's all it is. A cue is a reminder, and it can't give you orders.
 
@@ -61,7 +63,7 @@ So settle it now. You don't need the habit on the good nights or on the worst ni
 
 Whichever kind of urge turns up, accept it. The feeling isn't bad. What hurts is *wanting something and believing you're denied it*. So don't mope. Name it:
 
-"I know what this is. It's the Little Monster dying. Men in the trap live with this every day of their lives. Free men don't have it. ISN'T IT MARVELOUS that I'm nearly rid of it?"
+"I know what this is. It's the Little Monster starving. Men in the trap live with this every day of their lives. Free men don't have it. ISN'T IT MARVELOUS that I'm nearly rid of it?"
 
 For a few weeks there'll be a small rumble in you, and all through those weeks something wonderful is happening. You're starving the Little Monster, and the old lies will try every trick to get him fed. One will catch you off guard, when something flashes up on your feed and for a second you forget you've stopped. Each trick you see through leaves them weaker.
 

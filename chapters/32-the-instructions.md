@@ -2,6 +2,8 @@
 
 Here's the whole method, to carry in your pocket. Two words: decide and rejoice. These ten rules spell it out. They're for the man who's taken the final step. If you haven't yet, you have one instruction. Read the book in order.
 
+![](images/illustrations/pocket-card.png){.illustration width=80%}
+
 1. Be glad. You've been let out, so don't mope.
 2. Ignore advice to count days, cut down or "moderate". Never ignore your doctor, your counselor or your pastor.
 3. Refuse every stopgap and every substitute.

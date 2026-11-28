@@ -32,6 +32,8 @@ So what's really happening? No study has measured the flat spell. All I can give
 
 So the flat spell is most likely repair, not damage. A man in bed with the flu doesn't run a marathon to prove his legs still work. He rests, and he gets well.
 
+![](images/illustrations/body-flu-no-marathon.png){.illustration width=80%}
+
 How long does it last? Some men never get one. Most who do say a week or two. For a few it runs much longer. There's no timetable, so don't measure yourself against one. Dr. Kanojia tells his patients the flat feeling is generally temporary. And one man, who went through a long one, reported from the far end: "the other side is beautiful".
 
 See the flat spell for what it is. The caller has stopped calling, and you're worried about the silence. The old lie has no desire left to use on you, so it uses fear. Enjoy the quiet. It's the easiest stretch you'll get.
@@ -50,7 +52,7 @@ So be patient with your body, and tell your wife what's going on, because the wo
 
 ## Nothing to store up {-}
 
-The forums call going without "semen retention", and they promise you'll bench-press a truck. Your body doesn't soak semen back up as some kind of fuel. Nobody has shown that holding it raises your testosterone. And a wet dream doesn't "lose" you anything. If you feel better for stopping, as many men say they do, enjoy it as a bonus. You stopped to be free.
+The forums call going without "semen retention", and they promise you'll bench-press a truck. Your body doesn't soak semen back up as some kind of fuel. Nothing solid shows that holding it gives you lasting extra testosterone. And a wet dream doesn't "lose" you anything. If you feel better for stopping, as many men say they do, enjoy it as a bonus. You stopped to be free.
 
 One last word. If you're married, none of this means holding back from your wife. She isn't the habit.
 

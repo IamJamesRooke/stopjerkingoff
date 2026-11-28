@@ -6,7 +6,7 @@
 
 Some time after he stops, many a man has a moment when he simply knows he's free.
 
-It's hard to describe and impossible to mistake. The morning looks scrubbed clean. Up to then you've been *telling* yourself you don't need the habit. Now you don't have to tell yourself anything. The last thread has gone. You're done with it, and you don't want it back. From then on you look at men still in the trap and feel only pity.
+It's hard to describe and impossible to mistake. The morning looks scrubbed clean. Up to then you've been *telling* yourself you don't need the habit. Now you don't have to tell yourself anything. The last thread has gone. You're done with it, and you don't want it back. From then on you look at men still in the trap and feel for them, with no wish to join them.
 
 One of the Psalms has a picture of it. "Our soul has escaped like a bird out of the fowler's snare." A fowler is a man who traps birds. The bird is out, and the snare lies broken on the ground behind it. The next line says who broke it: "Our help is in the LORD's name, who made heaven and earth."
 
@@ -25,6 +25,8 @@ For some men it comes on the first day. For some readers it comes before the boo
 For others it comes on like a dawn. One young man, telling how God freed him, was careful to say so: "this wasn't something that happened overnight". The slow kind is no less free. If yours comes by degrees, or you can never name the day, you haven't done it wrong.
 
 When it does come as a moment, it usually comes in one of the old danger spots. A hotel room on a business trip, a sleepless night, the evening after a fight. You get to the far side and realize you coped perfectly well, or even enjoyed yourself. The thought of the habit never crossed your mind.
+
+![](images/illustrations/moment-hotel-room.png){.illustration width=80%}
 
 For the man on the couch it comes like this. His wife reaches across and picks up his phone to check the time, and nothing in his chest jumps. Only afterward does he notice that the phone was lying face up.
 

@@ -38,6 +38,8 @@ But you can't settle this alone in your head, because she's in it. So talk to he
 
 After that, you two have real choices. You can bring the wedding forward. Plenty of couples have married within a month, with ten guests and a sheet cake. Or you can keep the bed for the wedding from here on. That's not simple under one roof, so some men rent a spare room for the months between. If she doesn't share your conviction, listen to her. Don't preach, and don't make her the problem. The line doesn't move. How the two of you get behind it is yours to work out together. Working it out is no reason to keep the bed in the meantime.
 
+![](images/illustrations/marry-her-small-wedding.png){.illustration width=80%}
+
 Only one choice is closed. Don't tell yourself you'll sort it out later and go on as before. "Later" is the oldest lie in the house.
 
 That's every room in the house. One excuse is left over from this one, and it wears a lab coat.

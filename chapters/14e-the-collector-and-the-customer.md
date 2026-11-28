@@ -18,7 +18,7 @@ Picture a man at a buffet for the first time. He stacks plate after plate. He pa
 
 The man who pays a monthly fee for a woman's private pictures is already a customer. So is the man at the strip club. This one has gone a step further.
 
-He buys it in person, and his "at least" is that it's honest. An escort, a back room, a cheap flight to a place where nobody knows him. He pays a fair price, he says, and they're two adults. But he can't know whether she chose this. In every country police keep finding women in this trade who are held there. A debt holds them, or a threat, or a passport locked in someone else's drawer. And he can't know her age.
+He buys it in person, and his "at least" is that it's honest. An escort, a back room, a cheap flight to a place where nobody knows him. He pays a fair price, he says, and they're two adults. But he can't know whether she chose this. In country after country, police keep finding women in this trade who are held there. A debt holds them, or a threat, or a passport locked in someone else's drawer. And he can't know her age.
 
 For all that, he buys the same ten minutes and the same hollow thud afterward, at a higher price. Ask him about the minute after. He's paid a stranger, and what he wants most is for her to go. It's the porn habit with the screen taken away. The man who watches porn is already a customer. This one just walked up to the counter.
 

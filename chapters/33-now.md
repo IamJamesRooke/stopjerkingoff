@@ -4,7 +4,7 @@
 >
 > — Matthew 6:34
 
-You've reached the end of the book. Congratulations. You were caught in a trap that holds most men for life, and you walked out. Over the coming months you'll find that life was better than you thought. The habit had been standing in front of the window, blocking the view.
+You've reached the end of the book. Congratulations. You were caught in a trap that holds many men for life, and you walked out. Over the coming months you'll find that life was better than you thought. The habit had been standing in front of the window, blocking the view.
 
 ## Today is the only day you've got {-}
 
@@ -34,7 +34,7 @@ For a Christian that means God first. Not as a guard posted at the door, but as 
 
 For any man it means the people in front of you. Your wife, who's owed the whole of you now, and who may need time. Your children, who get a father who isn't half elsewhere. Your friends, your work, and the thing you always meant to build. No wife, no children? The list isn't any shorter. It starts with the friends you let drift.
 
-If you're not a believer, here's one honest suggestion, and then I'll leave it alone. This book has leaned on an old book from start to finish, and it keeps getting your life right. Ask where those ideas came from. Read the Gospel of Mark. It's the shortest of the four accounts of Jesus's life, and you can read it in an evening. Or pray once, even if you aren't sure anyone's listening: "God, if you're there, show me." You've got nothing to lose. You've just learned that about lust.
+If you're not a believer, here's one honest suggestion, and then I'll leave it alone. This book has leaned on an old book from start to finish, and that book has been describing men like you for three thousand years. Ask where those ideas came from. Read the Gospel of Mark. It's the shortest of the four accounts of Jesus's life, and you can read it in an evening. Or pray once, even if you aren't sure anyone's listening: "God, if you're there, show me." You've got nothing to lose. You've just learned that about lust.
 
 ## What it was for {-}
 
@@ -55,6 +55,8 @@ Lust has been made normal, and the whole machine runs on one fuel: men who can't
 ## One last look {-}
 
 Look back at the house for a moment. The Little Monster had no body of his own. He lived on what you lent him: your eyes, your mind, your hand, your feet and your bed. You didn't get rid of him by sweeping harder. You saw that he'd never paid a day's rent, and you showed him the door. The lies came down one at a time. Open the windows. The smell will be gone in a day or two. If an old thought ever drifts past, you know what it is. Let it go by.
+
+![](images/illustrations/open-windows.png){.illustration width=80%}
 
 And the man on the couch? His phone's lying face up on the cushion tonight, and he hasn't given it a thought.
 

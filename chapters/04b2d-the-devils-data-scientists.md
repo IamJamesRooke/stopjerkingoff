@@ -20,13 +20,15 @@ Then the machine goes to work. It tries one thing after another on millions of m
 
 Back in the house, it comes to this. You know the Little Monster's menu. They know it better. They've got a whole kitchen cooking for him, and delivery is free.
 
+![](images/illustrations/data-scientists-the-kitchen.png){.illustration width=80%}
+
 ## Bait cut to fit {-}
 
-Preachers have a line about the devil. He doesn't need to destroy a man if he can distract him. A distracted man builds nothing, leads nobody and threatens nothing.
+Some preachers have a line about the devil. He doesn't need to destroy a man if he can distract him. A distracted man builds nothing, leads nobody and threatens nothing.
 
 To distract a man, you only need to know his bait. For one man it's the bottle. For another it's the bet. If you're reading this book, yours is lust.
 
-The devil of the old stories had to guess. Nobody guesses anymore. You've been filling in the form yourself, one click at a time, for years. So the trap in your pocket isn't a trap for men in general. It was cut to fit you.
+In the old stories, the tempter had to study his man. Nobody guesses anymore. You've been filling in the form yourself, one click at a time, for years. So the trap in your pocket isn't a trap for men in general. It was cut to fit you.
 
 If you don't believe in a devil, leave him out. The engineers are real, and so are their bonuses.
 
@@ -36,7 +38,9 @@ Two things.
 
 First, go easy on yourself. You weren't weak. You were outnumbered. On one side, a tired man on his couch. On the other, a building full of clever people paid to beat him.
 
-Second, their whole machine runs on one thing they can't make. They can cook the dinner and bring it to the door. They can't carry it up the stairs. Somebody in the house still has to believe the pest deserves it.
+![](images/illustrations/data-scientists-outnumbered.png){.illustration width=80%}
+
+Second, their whole machine runs on one thing they can't make. They can cook the dinner and bring it to the door. They can't carry it up the stairs. Somebody in the house still has to believe the Little Monster deserves it.
 
 All that cleverness, and it only works on a man who believes the lie.
 
@@ -49,3 +53,7 @@ SOURCES:
 - The devil line is James's, given as a line preachers use; no named source.
 - 'It tries one thing after another on millions of men' describes ordinary testing of recommendation systems in general terms; no specific company claim is made. The book does not say any company sets out to harm a man, only that it is paid by his time.
 No drawing yet. -->
+
+<!-- 2026-11-27 (James: generous with drawings): two drawings, the kitchen and the delivery, and outnumbered. -->
+
+<!-- 2026-11-27 reader panel: 'some preachers'; the tempter 'had to study his man' instead of 'had to guess'; 'the pest' is 'the Little Monster' here so the name doesn't drift. -->

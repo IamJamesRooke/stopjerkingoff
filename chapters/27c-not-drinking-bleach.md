@@ -6,6 +6,8 @@ It comes from a writer who goes by Guillaco, in a short work called *Meditations
 
 "Hi! We are NoBleach, and we host challenges in which participants, called Bleachstronauts, abstain from drinking bleach for a period of time. Whether you want a monthly challenge as a test of self-control, or whether excessive bleach drinking has become a problem in your life and you want to quit for longer, you will find a supportive community and plenty of resources here."
 
+![](images/illustrations/bleach-bleachstronaut.png){.illustration width=80%}
+
 Then come the members. The first writes:
 
 "Sometimes I allow myself a glass of bleach or two. I know that 'just one drop' is a lie, but I don't think a single glass will hurt. One glass can't destroy all the hours I've gone without."

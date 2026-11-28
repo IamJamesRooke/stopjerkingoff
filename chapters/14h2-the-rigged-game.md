@@ -10,7 +10,7 @@ He's no fool, and much of what he says is true. So take it one piece at a time, 
 
 **Wives do most of the leaving.** One national study followed couples from 2009 to 2015. In about two of every three divorces, the wife wanted out. Court records from four states in 1995 show the same. Wives filed about two thirds of the time.
 
-**Either one can leave, for no reason.** Every American state now grants a divorce without proof that anyone did wrong. The one who breaks the vow pays no penalty for breaking it. As a contract, the state's paper binds nobody.
+**Either one can leave, for no reason.** Every American state now grants a divorce without proof that anyone did wrong. Usually the one who breaks the vow pays no penalty for breaking it. The state's paper doesn't make anyone stay.
 
 **The children mostly live with her.** In 2018, four of every five parents with custody were mothers.
 
@@ -24,9 +24,11 @@ He's no fool, and much of what he says is true. So take it one piece at a time, 
 
 **A man can be put out of his house on a sworn statement.** A court can order it before he's been heard. Most such orders protect someone who needs protecting. Nobody has an honest count of how often one is misused in a custody fight.
 
-**Divorce hits men hard.** One large study followed Americans through the 1980s. Divorced men were more than twice as likely as married men to die by suicide. And a 2011 report looked at fathers living apart from their children. About one in four hadn't seen them in a year.
+**Divorce hits men hard.** One large study followed Americans through the 1980s. Divorced men were more than twice as likely as married men to die by suicide. And a 2011 report looked at fathers living apart from their children, divorced or never married. About one in four hadn't seen them in a year.
 
 None of that is in your head. A man who's watched it happen is right to check the ice before he steps on it.
+
+![](images/illustrations/rigged-check-the-ice.png){.illustration width=80%}
 
 ## A man who lost the bet {-}
 
@@ -61,6 +63,8 @@ Some of what men tell each other over beers is wrong. You should know which part
 **"No-fault divorce did this."** Wives were already filing about six divorces in ten in the nineteenth century. The best study of the new laws found they raised divorce for about ten years. Then the effect faded.
 
 So the table is tilted against a husband. It's less tilted than men tell each other, and in some states it's tilting back.
+
+![](images/illustrations/rigged-tilted-table.png){.illustration width=80%}
 
 That's the charge, heard in full. "Fine", he says. "Tilted is enough for me. I'll have the woman and skip the paper."
 

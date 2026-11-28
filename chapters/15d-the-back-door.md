@@ -18,18 +18,20 @@ The hand needs no screen, no woman and no money. Just a man alone for five minut
 
 Its lie is different from the screen's. The screen says, "This is exciting." The hand says, "This is nothing." Natural. Free. Nobody gets hurt. Maintenance, like trimming your nails.
 
-Some men in the church at Corinth, a Greek city, had a slogan like that: "All things are lawful for me." Paul let them have it, and then answered it: "but I will not be brought under the power of anything."
+Some men in the church at Corinth, a Greek city, had a slogan like that: "All things are lawful for me." Paul granted them the slogan, and then answered it: "but I will not be brought under the power of anything."
 
 One man quit porn twice, and went back twice. Both times, he said, masturbation was what led him back.
 
 Not hard to see how. The hand never works alone. Something's always playing while it happens. A memory, a face from the feed, a woman from the elevator. The hand is where the look and the thought turn into the act. For the man who quit porn, the film is usually porn.
 
-Men have a name for the pictures stored in the head for this. The spank bank. A man who draws on it is still watching porn. He's just moved the screen inside his skull. It's the same thing in a weaker dose. Think of a cigarette a man rolls himself, beside one from a factory. The factory one was built by people paid to hook him faster. Both are tobacco, and his lungs can't tell which is which.
+Men have a name for the pictures stored in the head for this. The spank bank. A man who draws on it is still watching porn. He's just moved the screen inside his skull. It's the same thing, made at home. Think of a cigarette a man rolls himself, beside one from a factory. The factory one was built by people paid to hook him faster. Both are tobacco, and his lungs can't tell which is which.
 
 ![](images/illustrations/back-door-rolled-and-factory-cigarettes.png){.illustration width=80%}
 
 
-And a memory wears thin. So the hand goes shopping for a stronger film, and it knows exactly where that film is kept. The man bolted the front door and left the back door wide open. Now he's shocked to find the same old visitor in his kitchen.
+And a memory wears thin. So the hand goes shopping for a stronger film, and it knows exactly where that film is kept. The man bolted the front door and left the back door wide open. Now he's shocked to find the same old pest in his kitchen.
+
+![](images/illustrations/back-door-wide-open.png){.illustration width=80%}
 
 Even if your hand never leads you back to the screen, the trade is the same. You ease an itch for ten minutes, and the easing sets it going again.
 
@@ -53,7 +55,7 @@ The terms at this door are the same as at the first. No vow, no count. Has the h
 
 That leaves the wanting itself. It was behind the screen and the hand all along. Shut both doors and it doesn't lie down. It goes looking, and it drags the hand back if it can.
 
-The uninvited guest picks up his blanket and moves down the hall. "I'm looking, but at least it isn't porn."
+The Little Monster picks up his blanket and moves down the hall. "I'm looking, but at least it isn't porn."
 
 <!-- 2026-11-20 Hydra version (editorial/HYDRA-PLAN.md): NEW CHAPTER for the third head, Touch. Built from the Ladder's "man who quit porn and kept the hand" and the line that stood in the Introduction until today ("One man quit porn twice and went back twice. Both times, he said, masturbation was what led him back": the YBOP quote sourced in the Introduction's comments). No new quotations. Epigraph: 1 Corinthians 6:12, second sentence (WEB, checked 2026-11-20). -->
 

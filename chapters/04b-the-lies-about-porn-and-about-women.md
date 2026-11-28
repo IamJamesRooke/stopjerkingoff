@@ -2,7 +2,7 @@
 
 The world has a second set of lies, for the screen.
 
-**"Porn is just entertainment. Nobody gets hurt."** Somebody always does. You can't know whether the woman on the screen wanted to be there. You can't check her age, and the sites haven't either. In 2020 a New York Times report found videos of rape and of underage girls on the biggest porn site in the world. The big card companies cut off its payments. Within days the site yanked nearly ten million videos. It had never checked who uploaded them.
+**"Porn is just entertainment. Nobody gets hurt."** Somebody always does. You can't know whether the woman on the screen wanted to be there. You can't check her age, and often the sites haven't either. In 2020 a New York Times report found videos of rape and of underage girls on the biggest porn site in the world. The big card companies cut off its payments. Within days the site yanked nearly ten million videos. It had let anyone upload, without checking who they were.
 
 One case out of many: a California company promised young women their videos would never go online, then put them on the free sites, where they were watched millions of times. In 2025 its owner was sentenced to twenty-seven years in prison for sex trafficking.
 
@@ -14,7 +14,7 @@ Whoever she is, she's somebody's daughter.
 
 **"At least I've never paid for sex."** You have, though nobody told you. In porn a woman is paid to have sex so a man can have his release. That's prostitution with a camera between her and you. The man at the brothel door hands her the money. The man at the screen pays through the site, with a card or with his eyes, because the site sells his attention. Porn is the brothel made cheap, open all night, and sold in every pocket.
 
-**"It isn't a real woman, so nobody is hurt."** This lie arrived in the 2020s, when computers learned to make pictures and to talk. The picture was drawn, or a computer made it, or the girlfriend is a program. Two answers. First, somebody often is hurt. Computers were soon putting real women's faces into videos they never made. One 2023 study counted nearly a hundred thousand of these fakes online. Almost all were porn, and almost all the faces belonged to real women who never agreed to it. Second, even when no woman exists at all, you do. The thing being trained is your own heart, and it learns the same lesson from a drawing as from a photograph.
+**"It isn't a real woman, so nobody is hurt."** This lie arrived in the 2020s, when computers learned to make pictures and to talk. The picture was drawn, or a computer made it, or the girlfriend is a program. Two answers. First, somebody often is hurt. Computers were soon putting real women's faces into videos they never made. One 2023 industry report counted nearly a hundred thousand of these fakes online. Almost all were porn, and almost all of them showed women. Second, even when no woman exists at all, you do. The thing being trained is your own heart, and it learns the same lesson from a drawing as from a photograph.
 
 **"It isn't cheating."** If you have a wife or a girlfriend, try it the other way around. She's in the next room with a screen full of other men, or with her eyes shut and one of them in her head. Is she being faithful to you?
 
@@ -22,7 +22,7 @@ Now try a second test. She walks in and finds you at it, and the woman on the sc
 
 Some couples have agreed to an open door, and that's theirs to answer for. If you haven't, the woman on the screen isn't her, and neither is the one in your head. You can't call that faithful.
 
-**"It does a marriage no harm."** One American study followed about two thousand married people between 2006 and 2014. Some of them began watching porn between one interview and the next. By the next interview, about eleven in a hundred of those were divorced. Among the rest it was six. The authors are careful. They can't rule out that some of those marriages were failing first.
+**"It does a marriage no harm."** One American study followed about two thousand married people between 2006 and 2014. Some of them began watching porn between one interview and the next. By the next interview, about eleven in a hundred of those were divorced. Among those who didn't start, it was six in a hundred. The authors are careful. They can't rule out that some of those marriages were failing first.
 
 None of this is here to pile on guilt. It's here to take away your last excuse. You were lied to, and so was the woman on the screen. It was never harmless.
 
@@ -53,3 +53,5 @@ One more thing is on that screen, and you've looked straight past him for years.
 <!-- 2026-11-25: closing hook now leads into the new chapter The Other Man on the Screen, which carries the old hook into The Men Who Believed It. -->
 
 <!-- 2026-11-27 CHAPTER 14 PASS: one drawing (somebody's daughter). Facts checked against what is widely reported: NYT December 2020 and the removal of about ten million unverified videos; the 2025 twenty-seven-year sentence in the GirlsDoPorn case; the 2023 deepfake count; Perry and Schleifer's 2006-2014 panel (about 6 vs 11 percent). -->
+
+<!-- 2026-11-27 reader panel: absolutes trimmed to what the sources say ('often', 'let anyone upload without checking', deepfake figure called an industry report, 'six in a hundred'). -->

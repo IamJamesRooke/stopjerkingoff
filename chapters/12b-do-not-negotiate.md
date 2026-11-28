@@ -27,7 +27,7 @@ De Becker himself reaches for the comparison this book needs. The pursuer, he sa
 
 You have a stalker of your own. De Becker's clients were famous people, the kind a stranger fixes on and won't leave alone. In this story you're the famous one, and you have a fan.
 
-**The Little Monster is the stalker.** Upstairs he bangs on the floor. Put him out, and he'll use the telephone. He's the caller who can't take no for an answer, and every urge is one more voicemail from him.
+**The Little Monster is the stalker.** Upstairs he bangs on the floor. Stop feeding him, and he'll use the telephone. He's the caller who can't take no for an answer, and every urge is one more voicemail from him.
 
 Every "just once" is you calling him back. It makes no difference that you only meant to quiet him. He learns just as the stalker learns, and all he learns is this: nagging gets fed. Hold out ten days and then give in, and you've taught him the price: ten days of nagging. Next time he'll nag for eleven, and whistle while he does it.
 
@@ -40,7 +40,9 @@ Her four instructions are yours, word for word.
 
 There's one difference, and it's all in your favor. Her pursuer may be dangerous. Yours isn't. The Little Monster isn't ten feet tall. He's a pipsqueak. He has to stand on a chair to reach the telephone. His only weapon is a whine.
 
-He's an itch, about as strong as a tag scratching the back of your neck. He can't hurt you, and he can't make you do anything. Men have crossed oceans and built cities, and then taken orders from this.
+![](images/illustrations/negotiate-on-a-chair.png){.illustration width=80%}
+
+He's an itch, about as strong as a tag scratching the back of your neck. He can't hurt you. All he can do is ask. Men have crossed oceans and built cities, and then taken orders from this.
 
 If he's ever felt enormous, that was the fear of him, and fear can flatten a strong man.
 
