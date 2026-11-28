@@ -100,6 +100,8 @@ That's the whole trap in two lines. The book keeps coming back to a few words fo
 - **The Big Monster** is what those reasons turn into once you believe them. They move into your head and talk in your voice.
 - **The devil**, in Christian teaching, stands behind the world's lies. If you don't believe in him, follow the money. Somebody gets paid every time you feed the Little Monster.
 
+![](images/illustrations/master-the-map.png){.illustration width=80%}
+
 The itch is small. The lies are what make it look big. Take those two away, and nothing's left to hold you.
 
 The men who've walked out aren't clenching their jaws or staring back with longing. If anything, they look faintly puzzled that they ever bothered.

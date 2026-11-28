@@ -3172,6 +3172,36 @@ def batch39(OUT):
     s+=f'<path d="M{mx-60},{my-60} l-10,-14 M{mx+60},{my-60} l10,-14 M{mx},{my-60} l0,-18" stroke="#FF3B30" stroke-width="4"/>'
     s+=TAIL; open(OUT+"worlds-lies-keep-scratching.svg","w").write(s)
 
+def batch40(OUT):
+    W,H=680,440
+    # The map: the house in your head, the itch upstairs, the lies downstairs, the world at the door, the devil behind it (A Master, Not a Habit)
+    s=head(W,H,"#BFE3FF")
+    s+='<line x1="10" y1="404" x2="670" y2="404"/>'
+    # house
+    s+='<rect x="300" y="150" width="340" height="254" fill="#FFF6E5"/><path d="M280,150 L470,50 L660,150 Z" fill="#FF3B30"/>'
+    s+='<rect x="400" y="84" width="140" height="34" rx="6" fill="#fff"/>'+T(470,108,"YOUR HEAD",18)
+    s+='<line x1="300" y1="276" x2="640" y2="276"/><line x1="470" y1="150" x2="470" y2="276"/>'
+    s+='<rect x="300" y="300" width="0" height="0"/><rect x="304" y="316" width="44" height="88" fill="#5A3E9B"/>'
+    # upstairs back room: the itch
+    s+=monster(555,262,"bang",0.8)
+    s+=T(555,176,"THE ITCH",16,"#141414")+T(555,196,"(the flesh)",14,"#141414")
+    s+='<path d="M512,266 l-10,6 M598,266 l10,6" stroke="#FF3B30" stroke-width="3"/>'
+    # downstairs: the Big Monster, a grey cloud of lies
+    s+='<path d="M380,370 q-30,0 -26,-26 q-20,-24 10,-38 q6,-24 36,-18 q20,-20 50,-4 q34,-10 44,16 q30,6 22,34 q10,30 -24,36 Z" fill="#8A8FA8"/>'
+    s+=T(450,330,"you need it",16,"#fff")+T(450,352,"you earned it",16,"#fff")
+    s+=T(560,330,"BIG",16)+T(560,350,"MONSTER",16)
+    # outside: the world, a salesman with a megaphone
+    wx,wy=200,250
+    s+=f'<path d="M{wx-60},{wy-150} C{wx-120},{wy-150} {wx-130},{wy+80} {wx-100},{wy+154} L{wx+80},{wy+154} C{wx+90},{wy+60} {wx+60},{wy-150} {wx},{wy-150} Z" fill="#4A4F63" stroke="none" opacity="0.55"/>'
+    s+=f'<path d="M{wx-70},{wy-150} l-14,-30 l26,18 M{wx+2},{wy-150} l14,-30 l-26,18" fill="#4A4F63" stroke="#4A4F63" stroke-width="4" opacity="0.7"/>'
+    s+=T(wx-30,wy-110,"THE DEVIL",16,"#fff")
+    s+=man(wx,wy-30,"happy","#FFD23F")
+    s+=legs(wx-4,wy+120,14)
+    s+=f'<path d="M{wx+16},{wy+30} L{wx+60},{wy+10}"/><path d="M{wx+58},{wy+2} L{wx+90},{wy-14} L{wx+96},{wy+28} L{wx+62},{wy+20} Z" fill="#FF3B30"/>'
+    s+=T(wx+150,wy-40,"FEED HIM!",22,"#FF3B30")
+    s+=T(wx-90,wy+80,"THE WORLD",16)
+    s+=TAIL; open(OUT+"master-the-map.svg","w").write(s)
+
 if __name__=="__main__":
-    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30","31","32","33","34","35","36","37","38","39"]
+    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30","31","32","33","34","35","36","37","38","39","40"]
     for b in which: globals()["batch"+b](OUT)
