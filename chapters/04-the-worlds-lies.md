@@ -34,18 +34,6 @@ Start with the loudest lies, the ones about masturbation. Your grandfather was t
 
 **"It's healthy. It's harmless. Doctors say so."** Medicine says it doesn't hurt your body. Fine, but the doctor is answering a question you never asked. You didn't ask about your prostate. You asked why you can't stop, and why you feel like a smaller man afterward. A Christian writer put the distinction neatly: "But just because something isn't harmful physically doesn't mean it's not harmful spiritually."
 
-The experts don't even agree among themselves. The manual American psychiatrists use, the DSM-5, doesn't list porn or sex addiction at all. The World Health Organization does. Since 2019 its list of diseases, the ICD-11, has included compulsive sexual behavior disorder. So when you hear that the experts say it's fine, ask which experts.
-
-Then ask whose life is backing the advice. Picture a man who finally tells a counselor about his habit. The counselor tells him it's not really that bad. A few sessions later, the counselor is cheering on his idea of a threesome with his girlfriend. Is that medicine? Or is it somebody feeding the same monster, telling him what they tell themselves?
-
-Experts are people. They live in the same world and hear the same pitch. A white coat doesn't keep the Little Monster out. In a 1979 national survey of American psychotherapists, twelve in a hundred of the men admitted sexual contact with their own clients, something their own profession forbids. And a verdict on what's right and wrong is an opinion, even when a doctor gives it. It isn't a lab result. Plenty of counselors help men get free, and if you need one, go find one. Just pick one whose life matches the advice.
-
-None of this makes the Christian the better man. Plenty of people picture Christianity as a club that thinks it's better than you and knows it, like the smug Globo Gym team in the comedy *Dodgeball*. That's not what it teaches. It says everybody's messed up. We've all done wrong, helped somebody else do it, or sat on our hands when we should have acted. Paul wrote that "all have sinned," and that "the wages of sin is death." So everyone needs forgiveness: the counselor, the doctor and you.
-
-Forgiveness has a door, and the door is admitting it. John wrote, "If we say that we have no sin, we deceive ourselves." A man who's sure he's doing nothing wrong can't be forgiven, because he isn't asking. That goes for the man in the white coat too. "It's natural, it's fine" can be a diagnosis. It can also be a man letting himself off before anyone asked.
-
-If you don't believe, you know this from every recovery program there is. Step one is admitting you have a problem. Nobody fixes what he won't name.
-
 **"I'm not doing anything wrong."** Then say it out loud. Say it to your wife, or your mother, or the father of the woman on the screen. A thing that's fine can be said at the dinner table. You've never said this one to anybody.
 
 **"It's natural."** So is plenty you wouldn't copy. One preacher, who was bound by masturbation for years himself, answers in nine words: "We also see in nature where pigs eat trash." Natural isn't the same as good.
@@ -82,7 +70,7 @@ Second, the numbers. I have to borrow from porn here, because porn is what gets 
 
 None of this is a ban. You can still do it tonight, and nobody's stopping you. Just know who's asking. It's the pipsqueak upstairs, and he's hungry.
 
-Those are the lies about the hand. Porn has its own set, and somebody else pays for those too.
+One of those lies wears a white coat, and it gets quoted more than the rest. It's worth a closer look.
 
 <!-- SOURCES (Chapter 4): every quote below is from the research files; check each against its page before publishing.
 - NO LONGER QUOTED in the body (cut 2026-11-18): "Virtually every man and almost as many women have tried it." — John Piper, "Missions and Masturbation", https://www.desiringgod.org/articles/missions-and-masturbation. Confirmed word for word on desiringgod.org, 2026-11-14 (research/quote-verification.md), and restored as a quote.
@@ -163,3 +151,5 @@ Those are the lies about the hand. Porn has its own set, and somebody else pays 
 <!-- 2026-11-28 (James: doctors, nurses and psychologists have notorious cheating rates? 'My doctor says it's okay' as a chapter?). Research: the 'doctors and nurses cheat most' lists come from Ashley Madison marketing surveys (no method, not peer-reviewed); the one peer-reviewed study found (Guerrero et al. 2021, IJERPH 18:5575, mostly Dominican volunteers, non-random) makes no comparison with the general population. So no claim about doctors' cheating rates is made. Used instead: Pope, Levenson and Schover 1979, American Psychologist 34(8):682-689, 12% of male and 3% of female psychotherapists reported sexual contact with clients. Kept as part of the counselor section rather than a new chapter, which would have been thin. -->
 
 <!-- 2026-11-28 (James: experts have monsters too; Christianity isn't 'holier than thou' like Globo Gym in Dodgeball (2004); all are sinners and need forgiveness, which starts with admitting it; doctors too). Three short paragraphs after the counselor section. WEB: Romans 3:23 'all have sinned', Romans 6:23 'the wages of sin is death', 1 John 1:8 'If we say that we have no sin, we deceive ourselves'. Narrator says what Christianity teaches, never claims to be Christian; plain recovery reason for non-believers. -->
+
+<!-- 2026-11-28: the expert material (DSM/ICD, the counselor, white coat, not holier than thou, forgiveness) moved to the new chapter My Doctor Says It's Okay (04a-my-doctor-says-its-okay.md), James's title, to keep this chapter under 1,500 words and keep the six lies flowing. -->
