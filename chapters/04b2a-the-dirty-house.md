@@ -16,7 +16,7 @@ That's the whole story of the spray, called Febreze. The people who needed it mo
 
 ## The house you live in {-}
 
-Now look around your own house. Not the one with your name on the mailbox. The bigger one, the one you share with everyone else. Here's a normal evening in it:
+Now sniff your own house. Not the one with your name on the mailbox. The one in your head, where the Little Monster lives. Here's what the world carries into it on a normal evening:
 
 - A music video where a singer dances on a church altar.
 - A halftime show the whole family watches, and you can't tell if it's a concert or a strip club.
@@ -59,7 +59,7 @@ That's what living in a dirty house does to a man. First it disgusts him. Then i
 
 ## How your nose got switched off {-}
 
-You weren't born numb. You were trained, one step at a time, and every step was sold as no big deal.
+You weren't born numb. You were trained, one step at a time, by a world that does better when you're numb, and every step was sold as no big deal.
 
 Here's how the training works. A stage puts on something shocking. People gasp. Ten years later it's wallpaper, so the next stage has to go further to get the same gasp.
 
@@ -69,7 +69,7 @@ In 2023 Pepsi aired that same commercial again, at the MTV Video Music Awards, a
 
 The commercial hadn't changed in thirty-four years. The audience had.
 
-The house trained you, yes. But nobody else carried those plates up the stairs. You did that yourself, every time. Which means you can stop.
+The world trained you, yes. But nobody else carried those plates up the stairs. You did that yourself, every time. Which means you can stop.
 
 ![](images/illustrations/dirty-house-the-shock-ladder.png){.illustration width=80%}
 
@@ -104,3 +104,5 @@ SOURCES:
 - The list in 'The house you live in' describes kinds of content, not specific named works. The video game line refers to GTA VI (2026), named in the next chapter. -->
 
 <!-- 2026-11-27 reader panel: Febreze described as built to destroy smells (the maker's claim); 'You know him by now' cut so the line doesn't lean back. -->
+
+<!-- 2026-11-28 MAP PASS (James at ch15: confused by the metaphors; 'make 15 onward as good as you can'). Terms made consistent with chapter 6's map: the house is the reader's head (the world carries dirt into it), the Big Monster is believed lies in your voice, 'Lust' no longer acts as a character, the devil caveat for non-believers kept once (The World's Lies) instead of in every chapter. -->

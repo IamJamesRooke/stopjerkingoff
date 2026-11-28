@@ -42,7 +42,9 @@ Notice what it never says. "Go back to doing this every night for another twenty
 
 Get this fixed in your mind: JUST ONCE DOES NOT EXIST. It's a chain, and each link is forged by the one before.
 
-![](images/illustrations/just-once-the-chain.png){.illustration width=80%} The myth of the rare special occasion also keeps men moping after they've quit, like a man who's moved to a new house and keeps driving past the old one.
+![](images/illustrations/just-once-the-chain.png){.illustration width=80%}
+
+The myth of the rare special occasion also keeps men moping after they've quit, like a man who's moved to a new house and keeps driving past the old one.
 
 ## One little look {-}
 

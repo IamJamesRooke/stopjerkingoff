@@ -16,11 +16,13 @@ One man said that single thought helped him quit porn. No sermon did it, and no 
 
 Try that in any other part of life. A hungry man goes to a restaurant to watch a stranger eat a steak.
 
-![](images/illustrations/other-man-watching-a-stranger-eat.png){.illustration width=80%} A fisherman drives to the lake to watch another man's line. You'd say something was wrong with him.
+![](images/illustrations/other-man-watching-a-stranger-eat.png){.illustration width=80%}
+
+A fisherman drives to the lake to watch another man's line. You'd say something was wrong with him.
 
 Everything in a man says he should be the one in the story. Porn sits him in the cheap seats and tells him the seat is the prize.
 
-"Fine," says the bargain. "Then I'll watch the kind with no man in it."
+"Fine," says the Big Monster, in your own voice. "Then I'll watch the kind with no man in it."
 
 Notice what just happened. You saw the thing clearly for one second, and your first move was to find a way to keep it. The seat hasn't changed. You're still outside the window, and you're still alone.
 
@@ -31,3 +33,5 @@ Those are the lies, and that's the seat they bought you. Now look at some of the
 <!-- 2026-11-27 (James: generous with drawings): two drawings, outside the window and the hungry man watching a stranger eat. Text untouched (Author's proof-loop chapter). -->
 
 <!-- 2026-11-27 reader panel: 'got him off porn' (misreads aloud) is now 'helped him quit porn'; 'Run any other part of life this way' made plain. -->
+
+<!-- 2026-11-28 MAP PASS (James at ch15: confused by the metaphors; 'make 15 onward as good as you can'). Terms made consistent with chapter 6's map: the house is the reader's head (the world carries dirt into it), the Big Monster is believed lies in your voice, 'Lust' no longer acts as a character, the devil caveat for non-believers kept once (The World's Lies) instead of in every chapter. -->

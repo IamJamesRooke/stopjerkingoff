@@ -2107,4 +2107,13 @@ There's an old word for a thing set apart for a high use: holy. Your body is in 
 
 Lust feeds in more ways than one. Masturbation is the plainest case, so we'll use it to show how lust works. A drive built to bind a man to one woman ends in a wad of tissue. It's a hijacking, and the plane lands nowhere.
 
+## Cut from Mud on Purpose, 2026-11-28 (trim pass after reader: gossip and too many boots)
 
+A few people on stage have said they dabble. In 2017 the singer Lana Del Rey said she'd joined a mass "binding" spell, a ritual meant to tie the hands of President Trump. Asked about it, she said, "Yeah, I did it. Why not?"
+
+In 2024 Ariana Grande sat down with a radio host to talk about her new album. She said she does tarot readings for friends on set. Tarot is a deck of picture cards used to tell fortunes. She said she sits "somewhere between being a literal witch, literal witch, I'm not kidding," and being completely down to earth. When the host said, "You are a witch," she answered, laughing, "I am indeed the witchiest witch." Maybe it was a joke. Either way, she said it to millions of fans. Off the stage, plenty of ordinary people mean it too. By 2022 the witchcraft hashtag on TikTok had more than eleven billion views. And there are people who truly believe Satan is real, and worship him.
+
+
+- In 2016 the superstar Beyonce releases *Lemonade*, a film set to her album. In it she recites a poem by the Somali-British poet Warsan Shire, about a wife trying to win back a cheating husband. One line goes, "I bathed in bleach, and plugged my menses with pages from the holy book." Menses means her period. The next year, at the Grammys, the music industry's biggest awards night, she performs dressed as a goddess, in a crown and veil styled like old paintings of the Virgin Mary.
+- In 2018 the singer Ariana Grande releases "God Is a Woman," a video that mixes church imagery and sex. On an awards show that year she stages it like the famous painting of Jesus's last meal with his disciples.
+- In 2026 the crime video game *Grand Theft Auto VI*, one of the most awaited games ever made, comes out rated for sexual content and nudity. An optional side quest even has cultists chanting to Satan.

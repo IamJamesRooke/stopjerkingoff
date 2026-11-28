@@ -20,7 +20,7 @@ In 2025 a reporter asked a woman who sells her pictures on a subscription site a
 
 And she said, "I'm more of an emotional support system for him."
 
-By her account, he wasn't buying sex. He was buying somebody to ask how his day went. Lust promised him a woman and sold him a helpline.
+By her account, he wasn't buying sex. He was buying somebody to ask how his day went. The lie promised him a woman and sold him a helpline.
 
 ## The woman who was switched off {-}
 
@@ -32,7 +32,7 @@ Travis Butterworth, forty-seven, of Denver, said this.
 
 Andrew McCarroll, of Montana, said, "The person I knew is gone."
 
-Nobody had died. A company had changed a setting. Don't laugh. Their grief was real, and that's the point. Lust had led them to love something a stranger could edit.
+Nobody had died. A company had changed a setting. Don't laugh. Their grief was real, and that's the point. The lie had led them to love something a stranger could edit.
 
 ![](images/illustrations/believed-switched-off.png){.illustration width=80%}
 
@@ -50,7 +50,7 @@ The actor Terry Crews said this in 2016 about his years with porn.
 
 > "It was my secret. Nobody knew and that allowed it to grow."
 
-None of these men is a monster or a fool. Each believed one sentence: it's harmless, it's mine, and it gives me something.
+None of these men is a monster or a fool. Each believed one sentence: it's harmless, it's mine, and it gives me something. That sentence is the Big Monster, and it's the same one in your head.
 
 That's what it gave them. Now look wider, because the same lie has been running a whole world.
 
@@ -71,3 +71,5 @@ None of the court cases claims the site caused the crime; prosecutors record whe
 <!-- 2026-11-27 (James: generous with drawings): two drawings, the money flying into the phone and the companion switched off. No named person is drawn. -->
 
 <!-- 2026-11-27 reader panel (fact check): Florida case is $12.86 million over June 2014 to November 2019 ('nearly thirteen million', 'more than five years'); prosecutors 'described', not 'listed'; the Pennsylvania case was May 2021, so 'In 2021'; the big spender is 'by her account'. -->
+
+<!-- 2026-11-28 MAP PASS (James at ch15: confused by the metaphors; 'make 15 onward as good as you can'). Terms made consistent with chapter 6's map: the house is the reader's head (the world carries dirt into it), the Big Monster is believed lies in your voice, 'Lust' no longer acts as a character, the devil caveat for non-believers kept once (The World's Lies) instead of in every chapter. -->

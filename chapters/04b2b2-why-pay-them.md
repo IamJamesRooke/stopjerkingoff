@@ -4,9 +4,7 @@
 >
 > — Ephesians 5:11
 
-Maybe Satan is a cartoon to you, and witchcraft is incense and nonsense. You don't have to believe in either one to see what's being aimed at.
-
-Look at what keeps getting poked:
+Whoever wrote the script, look at what keeps getting poked:
 
 - The church your grandmother knelt in.
 - The vow a man and a woman make for life.
@@ -27,7 +25,7 @@ That's the deal you're offered every time you hit play. They want three things f
 - **Your money.** The ticket, the subscription, the seventy-dollar game.
 - **Your attention.** The most valuable of the three, because that's what they sell to advertisers.
 
-Even if witchcraft is pure nonsense, the business is real, and it isn't neutral. It's shown you what it thinks of what you hold sacred. And look at what it's selling between the jokes. It's an ad for the same appetite you've been carrying dinner upstairs to. Nobody takes your dime. You hand it over.
+The business is real, and it isn't neutral. It's shown you what it thinks of what you hold sacred. And look at what it's selling between the jokes. It's an ad for the same appetite you've been carrying dinner upstairs to. Nobody takes your dime. You hand it over.
 
 ## The first kiss was booked for the gasp {-}
 
@@ -57,3 +55,5 @@ SOURCES:
 - 2003 VMAs kiss, kept secret before the show: https://www.history.com/this-day-in-history/august-28/britney-spears-madonna-vmas-kiss ; https://ca.news.yahoo.com/madonna-kept-infamous-2003-vmas-194000671.html
 - Katy Perry, 'I Kissed a Girl' (2008); the lyric 'just to try it'.
 - Ephesians 5:11 and 5:12 (WEB). -->
+
+<!-- 2026-11-28 MAP PASS (James at ch15: confused by the metaphors; 'make 15 onward as good as you can'). Terms made consistent with chapter 6's map: the house is the reader's head (the world carries dirt into it), the Big Monster is believed lies in your voice, 'Lust' no longer acts as a character, the devil caveat for non-believers kept once (The World's Lies) instead of in every chapter. -->

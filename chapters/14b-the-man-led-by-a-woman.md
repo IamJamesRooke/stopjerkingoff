@@ -58,7 +58,9 @@ One more old story, and a short one. King Ahab wanted a vineyard, not a woman. W
 
 The owner wouldn't sell. So the king went home. He "laid himself down on his bed, and turned away his face, and would eat no bread."
 
-![](images/illustrations/led-ahab-sulking.png){.illustration width=80%} His wife, Jezebel, found him sulking. "I will give you the vineyard", she said. She wrote letters in his name, sealed them with his seal, and had the owner killed.
+![](images/illustrations/led-ahab-sulking.png){.illustration width=80%}
+
+His wife, Jezebel, found him sulking. "I will give you the vineyard", she said. She wrote letters in his name, sealed them with his seal, and had the owner killed.
 
 The story records no question from Ahab. The plan was hers, but it was his name on the letters and his seal in the wax. A man being handed what he wants doesn't ask how. The Bible's verdict on him is that he "sold himself".
 

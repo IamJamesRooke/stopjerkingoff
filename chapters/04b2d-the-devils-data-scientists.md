@@ -18,7 +18,7 @@ In 2019 three researchers checked more than twenty-two thousand porn sites. Nine
 
 Then the machine goes to work. It tries one thing after another on millions of men, and keeps whatever held them longest. Nobody at the company has to know your name. The machine just learns what makes your thumb stop, and serves more of it tomorrow.
 
-Back in the house, it comes to this. You know the Little Monster's menu. They know it better. They've got a whole kitchen cooking for him, and delivery is free.
+Back in the house, it comes to this. You know the Little Monster's menu. They know it better. They run a whole kitchen across town, cooking for him, and delivery is free.
 
 ![](images/illustrations/data-scientists-the-kitchen.png){.illustration width=80%}
 
@@ -30,7 +30,7 @@ To distract a man, you only need to know his bait. For one man it's the bottle. 
 
 In the old stories, the tempter had to study his man. Nobody guesses anymore. You've been filling in the form yourself, one click at a time, for years. So the trap in your pocket isn't a trap for men in general. It was cut to fit you.
 
-If you don't believe in a devil, leave him out. The engineers are real, and so are their bonuses.
+The tempter has help now. Engineers, with bonuses.
 
 ## What it means {-}
 
@@ -44,7 +44,7 @@ Second, their whole machine runs on one thing they can't make. They can cook the
 
 All that cleverness, and it only works on a man who believes the lie.
 
-That's the house, and those are the people keeping it dirty. Now step out on the porch and look at what the whole neighborhood has become.
+That's what gets carried into your house, and who carries it. Now step outside and look at what it's done to the world out there.
 
 <!-- 2026-11-27 NEW CHAPTER (James's idea and title: the makers of dating apps, porn sites and social media earn by keeping you hooked, track everything and tailor the bait; 'the devil doesn't need to destroy you if he can distract you'; 'the PERFECT trap TAILORED to you').
 SOURCES:
@@ -57,3 +57,5 @@ No drawing yet. -->
 <!-- 2026-11-27 (James: generous with drawings): two drawings, the kitchen and the delivery, and outnumbered. -->
 
 <!-- 2026-11-27 reader panel: 'some preachers'; the tempter 'had to study his man' instead of 'had to guess'; 'the pest' is 'the Little Monster' here so the name doesn't drift. -->
+
+<!-- 2026-11-28 MAP PASS (James at ch15: confused by the metaphors; 'make 15 onward as good as you can'). Terms made consistent with chapter 6's map: the house is the reader's head (the world carries dirt into it), the Big Monster is believed lies in your voice, 'Lust' no longer acts as a character, the devil caveat for non-believers kept once (The World's Lies) instead of in every chapter. -->

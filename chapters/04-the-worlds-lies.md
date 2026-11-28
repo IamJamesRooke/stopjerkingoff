@@ -10,7 +10,7 @@ Picture a man with a rash. He goes to the doctor, and the doctor leans in and sa
 
 ![](images/illustrations/worlds-lies-keep-scratching.png){.illustration width=80%}
 
-The itch is the Little Monster, and he's small. The reasons are the lies, and they're far bigger. That's why they're called the Big Monster. It's every lie you were told about the habit, and every lie you told yourself. It's no creature. It lives in your head, and it does all the talking.
+The itch is small. The lies are far bigger, and once you believe them they move into your head and do all the talking. That's the Big Monster: every lie you were told about the habit, and every lie you told yourself.
 
 ## Who's behind it {-}
 
@@ -50,7 +50,9 @@ The hype runs the other way too. Stop, whole corners of the internet promise, an
 
 All that hype ought to get men out. Instead it keeps them in, because it turns stopping into a feat. You count days, take vows, call yourself a warrior. That's a lot of armor for evicting a pipsqueak.
 
-![](images/illustrations/worlds-lies-armor-for-a-pipsqueak.png){.illustration width=80%} Then day thirty comes, the prize hasn't shown up, and back you go.
+![](images/illustrations/worlds-lies-armor-for-a-pipsqueak.png){.illustration width=80%}
+
+Then day thirty comes, the prize hasn't shown up, and back you go.
 
 Both sermons, "it's good for you" and "quitting gives you powers", agree on one thing: stopping is a big deal. It isn't.
 
@@ -141,3 +143,5 @@ Those are the lies about the hand. Porn has its own set, and somebody else pays 
 <!-- 2026-11-28 (James: make it a common theme: alone with the monster would be one thing, but you live in the devil's world, he wants you sedated, weak and pathetic, distracted not destroyed; the world, the devil and your own mind keep telling you to feed him). Light callback added here; others in The World's Lies, The World It Made, The Best Liar of All, Whose Voice Is That?, If You Slip (Fit for Service and The Devil's Data Scientists already carry it). -->
 
 <!-- 2026-11-28 (James: 'Could you imagine having a rash and the doctor says keep scratching!!!!! More. MORE!'). Added after the opening line, with drawing worlds-lies-keep-scratching (batch39). Not a repeat of the cream-and-rash picture in What Am I Giving Up?, which is about the cure, not the advice. -->
+
+<!-- 2026-11-28 MAP PASS (James at ch15: confused by the metaphors; 'make 15 onward as good as you can'). Terms made consistent with chapter 6's map: the house is the reader's head (the world carries dirt into it), the Big Monster is believed lies in your voice, 'Lust' no longer acts as a character, the devil caveat for non-believers kept once (The World's Lies) instead of in every chapter. -->

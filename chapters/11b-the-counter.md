@@ -10,7 +10,9 @@ Think about what a counter measures: the distance from the last time you did it.
 
 And who counts days? A man scratching lines on a cell wall. Prisoners count days. Free men lose count.
 
-![](images/illustrations/counter-cell-wall.png){.illustration width=80%} Ask a man who used to bite his nails how many days it's been. He couldn't tell you. Every number on that counter says "day forty of doing without", and a man doing without has already decided he's losing something.
+![](images/illustrations/counter-cell-wall.png){.illustration width=80%}
+
+Ask a man who used to bite his nails how many days it's been. He couldn't tell you. Every number on that counter says "day forty of doing without", and a man doing without has already decided he's losing something.
 
 Then there's the reset. One slip on day sixty-one and the screen says zero. Sixty-one days, gone! So what does the man at zero do? Most often he thinks, "Well, it's ruined now," and burns the whole weekend, then starts counting again on Monday. The counter turned one bad night into three. A man who'd quit for good and stumbled would pick himself up the same hour. The man with a counter has to climb back up from the bottom of the hill.
 

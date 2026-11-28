@@ -49,21 +49,21 @@ That's the pose with the filter off. The same move, the same pout, the same begg
 
 ![](images/illustrations/why-monster-pinup.png){.illustration width=80%}
 
-## She lives in the dirty house too {-}
+## She grew up in the same world {-}
 
-Don't blame her for your reaction. She grew up in the same house you did. The same stages taught her that her body is her best feature and her attention is her paycheck. The likes are her own little monster, and he bangs on her floor just like yours bangs on yours. Every heart under the picture is one more meal.
+Don't blame her for your reaction. She grew up in the same world you did. The same stages taught her that her body is her best feature and her attention is her paycheck. The likes are her own little monster, and he bangs on her floor just like yours bangs on yours. Every heart under the picture is one more meal.
 
 Let's be fair the other way too. Some women do this on purpose, for money, and they know what it does to men. That's on them. It still doesn't make the man who keeps looking any less of a fool. You can't control her. You can control whether you pay her with your eyes.
 
 She's somebody's daughter. Somewhere there's a father who'd give anything for her to put the phone down. If you pray, pray for her. If you don't, at least don't feed it. Either way, scroll on.
 
-Notice what just happened. A minute ago she was material. Now she's a person, and a little bit of a sad one. Lust can't survive that switch. It needs her to be a picture. Pity sees a girl in a bathroom who wants to be loved and is going about it all wrong.
+Notice what just happened. A minute ago she was material. Now she's a person, and a little bit of a sad one. The Big Monster can't survive that switch. Its whole pitch needs her to be a picture. Pity sees a girl in a bathroom who wants to be loved and is going about it all wrong.
 
 Once you've seen it, you can't unsee it. The pout looks silly. The caption looks like a cry for attention. The Little Monster stops getting his snack, and you didn't have to fight anybody.
 
 You just asked a question.
 
-It works on the woman in the video too. She's somebody's daughter, and someone got paid to point a camera at her. Ask her the same question, and watch what it does to the Little Monster's dinner.
+It works on the woman in the video too. Someone got paid to point a camera at her. Ask her the same question, and watch what it does to the Little Monster's dinner.
 
 ![](images/illustrations/why-scroll-on.png){.illustration width=80%}
 
@@ -72,3 +72,5 @@ One question is left. Who keeps putting it in front of you?
 <!-- 2026-11-26 NEW CHAPTER (James: 'When you see a girl sexualizing herself on Instagram, your reaction should be, why are you doing that, with that stupid duck face and generic Carpe Diem message. Just be nice. Just be normall. Just put some clothes on. Find a nice guy. Have a family. Stop doing weird stuff like that for attention.' And: 'make it funny by having the monster try to look sexy but be gross at the same time'). James's list is kept nearly word for word, in bullet points. Tone: pity, not contempt (book rule: say once that women can manipulate, then return to what the man can change). The Little Monster does not speak; he only poses in the picture. No outside sources. -->
 
 <!-- 2026-11-27: closing hook now leads into the new chapter The Devil's Data Scientists, which carries the old 'step out on the porch' hook into The World It Made. -->
+
+<!-- 2026-11-28 MAP PASS (James at ch15: confused by the metaphors; 'make 15 onward as good as you can'). Terms made consistent with chapter 6's map: the house is the reader's head (the world carries dirt into it), the Big Monster is believed lies in your voice, 'Lust' no longer acts as a character, the devil caveat for non-believers kept once (The World's Lies) instead of in every chapter. -->

@@ -24,7 +24,9 @@ The few seconds at the end feel good, and they're not why a man keeps the habit.
 
 The Willpower Method gets self-control wrong. It thinks self-control means holding a door shut for life, with something heavy leaning on the other side. That's not self-control. That's a siege, and sooner or later the man's arms give out.
 
-![](images/illustrations/two-wills-the-siege.png){.illustration width=80%} A soldier who spends every watch wrestling the bottle isn't fit for duty.
+![](images/illustrations/two-wills-the-siege.png){.illustration width=80%}
+
+A soldier who spends every watch wrestling the bottle isn't fit for duty.
 
 He's only dry.
 

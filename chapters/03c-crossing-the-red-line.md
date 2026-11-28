@@ -31,7 +31,9 @@ The Little Monster wants feeding, and you pick the times. They come in two pairs
 
 What kind of medicine wakes you up and puts you to sleep, calms you down and gives you a lift? There's no such medicine.
 
-![](images/illustrations/red-line-no-such-medicine.png){.illustration width=80%} The habit does none of those things. It ends an itch it created, and then you carry on with whatever you were doing.
+![](images/illustrations/red-line-no-such-medicine.png){.illustration width=80%}
+
+The habit does none of those things. It ends an itch it created, and then you carry on with whatever you were doing.
 
 Thinking of retreating to a "milder" version? Imagination only, weekends only, never with a screen? Everything in this book applies to all of it. Same loop, same monster.
 

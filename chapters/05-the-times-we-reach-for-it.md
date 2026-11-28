@@ -4,7 +4,7 @@
 >
 > — Jesus, in Matthew 11:28
 
-The Big Monster isn't one lie. It's a pile of small ones, and each is tied to a moment in your day.
+The Big Monster isn't one lie. It's a pile of small ones. The world sold you some, you wrote some yourself, and each is tied to a moment in your day.
 
 - "It helps me when I'm stressed."
 - "It's the only way I get to sleep."
@@ -94,3 +94,5 @@ Those are the big days. Most of the habit happens on the small ones, in the last
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
 
 <!-- 2026-11-24 PROOF LOOP (James, 2 a.m., high stress: 'trying to get the edge off, I know it's a lie'; wants a reminder beside the no-cutting-down rule: did you really get the edge off, or give in to the monster's tantrum?). Same question closes the stress answer here. -->
+
+<!-- 2026-11-28 MAP PASS (James at ch15: confused by the metaphors; 'make 15 onward as good as you can'). Terms made consistent with chapter 6's map: the Big Monster is believed lies in your voice; the world sells some lies and you write some. -->

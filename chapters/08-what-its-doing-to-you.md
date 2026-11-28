@@ -90,7 +90,9 @@ Desire is meant to drive a man out of himself and toward one woman, who has her 
 
 So the husband lies a foot from his wife and a hundred miles away.
 
-![](images/illustrations/doing-a-hundred-miles-away.png){.illustration width=80%} She can't name what's wrong, but she can feel that part of him is being spent elsewhere. Some men find their body gives them away. "I knew there was a serious problem", wrote a man on a sobriety forum, "when I was losing my erection sometimes when I was with my wife". And he can't tell her, so now there's a locked room in the marriage.
+![](images/illustrations/doing-a-hundred-miles-away.png){.illustration width=80%}
+
+She can't name what's wrong, but she can feel that part of him is being spent elsewhere. Some men find their body gives them away. "I knew there was a serious problem", wrote a man on a sobriety forum, "when I was losing my erection sometimes when I was with my wife". And he can't tell her, so now there's a locked room in the marriage.
 
 If she finds out on her own, it can land as betrayal, not a private habit. She wonders what else she doesn't know, and whether she was ever enough. None of that is her fault.
 

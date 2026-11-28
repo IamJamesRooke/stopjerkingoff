@@ -24,7 +24,9 @@ Let's stay honest. Death grip isn't an official diagnosis. A 2023 study of sever
 
 When the hand is the cause, many doctors call it training. Picture a man who salts his food a little heavier every year. His tongue isn't ruined, but plain food tastes of nothing.
 
-![](images/illustrations/body-salting-the-food.png){.illustration width=80%} Some doctors go further and say years of dry friction may dull the skin and nerves themselves. Nobody has proved that. Training has the most behind it, and it's the hopeful explanation, because a body that learned one thing can learn another.
+![](images/illustrations/body-salting-the-food.png){.illustration width=80%}
+
+Some doctors go further and say years of dry friction may dull the skin and nerves themselves. Nobody has proved that. Training has the most behind it, and it's the hopeful explanation, because a body that learned one thing can learn another.
 
 Even specialists who call masturbation harmless often start treatment in the same place: they ask a man to stop for a while. This book asks you to stop for good. That's my conviction, not their prescription. If a sex therapist gives you exercises, that's treatment. Tell the therapist your convictions up front. A good one will work with them.
 

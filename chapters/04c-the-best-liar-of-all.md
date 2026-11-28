@@ -2,7 +2,7 @@
 
 The most persuasive voice in all this is your own.
 
-The world pitches the lies, and the one behind the world wants them believed. Neither one can close the sale. You do that.
+The world pitches the lies, and the one behind the world wants them believed. Neither one can close the sale. You do that. A lie you've bought moves in and starts talking in your voice, and that's the Big Monster at his most convincing.
 
 Once you're in the trap, the lies get help from inside. Some part of you knows the Little Monster expects feeding, and it will guard his dinner plate against any argument. That's fear: the fear of that empty, fidgety feeling.
 
@@ -12,7 +12,9 @@ Nobody argues with himself about whether to give up golf. About the habit we arg
 
 From now on, treat every word in favor of the habit like a salesman with his foot in your door, your own words included. Smile, nod, and don't sign.
 
-![](images/illustrations/best-liar-foot-in-the-door.png){.illustration width=80%} That goes for "you need it" and "it's who you are". It goes for the safe version too. "Only in the shower", "only without a screen" and "only on weekends" are all the Big Monster, bargaining for the little one's dinner. Keep asking yourself two questions. "Why am I doing this? Do I actually need to?"
+![](images/illustrations/best-liar-foot-in-the-door.png){.illustration width=80%}
+
+That goes for "you need it" and "it's who you are". It goes for the safe version too. "Only in the shower", "only without a screen" and "only on weekends" are all the Big Monster, bargaining for the little one's dinner. Keep asking yourself two questions. "Why am I doing this? Do I actually need to?"
 
 Of course you don't.
 
@@ -42,7 +44,7 @@ The world says the man who stops is missing out. Wrong man. It's the man who car
 
 A few good seconds. Then a few minutes of the calm the free man has all day long.
 
-"Giving up" is the lie in two words. It smuggles in a sacrifice, and there's nothing to give up. You'll be evicting a freeloader and gaining a great deal. So the phrase is gone, here and now. In this book you don't "give up" the habit. You stop. You quit. Best of all, **YOU ESCAPE.**
+"Giving up" is the lie in two words. It smuggles in a sacrifice, and there's nothing to give up. You'll be throwing out a pest and gaining a great deal. So the phrase is gone, here and now. In this book you don't "give up" the habit. You stop. You quit. Best of all, **YOU ESCAPE.**
 
 The world's lies are general. Your own are specific. The habit helps me with this trouble, at this hour.
 
@@ -63,3 +65,5 @@ So let's go through your day and find them.
 <!-- 2026-11-27 (James: generous with drawings): one drawing, the salesman in the doorway wears your shirt. -->
 
 <!-- 2026-11-28 (James: make it a common theme: alone with the monster would be one thing, but you live in the devil's world, he wants you sedated, weak and pathetic, distracted not destroyed; the world, the devil and your own mind keep telling you to feed him). Light callback added here; others in The World's Lies, The World It Made, The Best Liar of All, Whose Voice Is That?, If You Slip (Fit for Service and The Devil's Data Scientists already carry it). -->
+
+<!-- 2026-11-28 MAP PASS (James at ch15: confused by the metaphors; 'make 15 onward as good as you can'). Terms made consistent with chapter 6's map: the Big Monster is believed lies in your voice; the world sells some lies and you write some. -->

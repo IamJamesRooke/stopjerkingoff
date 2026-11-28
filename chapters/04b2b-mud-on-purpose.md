@@ -10,13 +10,10 @@ Here's a short list of boots. Every one is on the record.
 
 ## The boots on the carpet {-}
 
-- In 2016 the superstar Beyonce releases *Lemonade*, a film set to her album. In it she recites a poem by the Somali-British poet Warsan Shire, about a wife trying to win back a cheating husband. One line goes, "I bathed in bleach, and plugged my menses with pages from the holy book." Menses means her period. The next year, at the Grammys, the music industry's biggest awards night, she performs dressed as a goddess, in a crown and veil styled like old paintings of the Virgin Mary.
-- In 2018 the singer Ariana Grande releases "God Is a Woman," a video that mixes church imagery and sex. On an awards show that year she stages it like the famous painting of Jesus's last meal with his disciples.
 - In 2021 the rapper Lil Nas X releases a music video set in hell, built around seducing Satan. It gets thirty-eight million views in three days. An art company called MSCHF sells 666 pairs of matching "Satan Shoes," each with a drop of human blood in the sole. They sell out in under a minute.
 - In 2023, at the Grammys, Sam Smith and Kim Petras sing "Unholy," with devil horns, cages and flames.
 - In 2023 the singer Sabrina Carpenter films a music video inside a Catholic church in Brooklyn, with coffins in the aisle. The bishop says he's "appalled." He takes away the pastor's power to run the parish, and holds a special Mass to restore the church. Carpenter answers with a joke on her own last name: "Jesus was a carpenter."
-- In 2026 Netflix releases a show called *The Body*, about teenage girls at a Catholic high school, full of sex and a mock satanic ritual. Even the episode titles mock God. It turns Communion, the bread Catholics believe becomes the body of Christ, into a dirty joke, and treats the cross as a costume. By late November nearly 170,000 people have signed a petition asking Netflix to pull it.
-- In 2026 the crime video game *Grand Theft Auto VI*, one of the most awaited games ever made, comes out rated for sexual content and nudity. An optional side quest even has cultists chanting to Satan.
+- In 2026 Netflix releases a show called *The Body*, about teenage girls at a Catholic high school, full of sex and a mock satanic ritual. Even the episode titles mock God. It turns Communion, the bread Catholics believe becomes the body of Christ, into a dirty joke, and treats the cross as a costume. By November 2026 nearly 170,000 people have signed a petition asking Netflix to pull it.
 
 ![](images/illustrations/mud-boots-on-the-carpet.png){.illustration width=80%}
 
@@ -42,10 +39,6 @@ Think about that. The devil horns didn't even impress the Satanists.
 
 ![](images/illustrations/mud-the-monster-at-the-awards.png){.illustration width=80%}
 
-A few people on stage have said they dabble. In 2017 the singer Lana Del Rey said she'd joined a mass "binding" spell, a ritual meant to tie the hands of President Trump. Asked about it, she said, "Yeah, I did it. Why not?"
-
-In 2024 Ariana Grande sat down with a radio host to talk about her new album. She said she does tarot readings for friends on set. Tarot is a deck of picture cards used to tell fortunes. She said she sits "somewhere between being a literal witch, literal witch, I'm not kidding," and being completely down to earth. When the host said, "You are a witch," she answered, laughing, "I am indeed the witchiest witch." Maybe it was a joke. Either way, she said it to millions of fans. Off the stage, plenty of ordinary people mean it too. By 2022 the witchcraft hashtag on TikTok had more than eleven billion views. And there are people who truly believe Satan is real, and worship him.
-
 Here's the thing, though. Whether the man on stage believes or not, the message the business sells never changes. It's the oldest one there is:
 
 - What you were taught is holy is a joke.
@@ -54,7 +47,7 @@ Here's the thing, though. Whether the man on stage believes or not, the message 
 
 That's not a new idea from a record label. It's the oldest pitch in the Bible. In the Garden of Eden, the serpent told the first woman that God's one rule was keeping something good from her, and the fruit would make her like God. You don't need to believe the story to see the point. The pitch is old. It's only wearing a better outfit.
 
-Maybe you think the whole thing is nonsense, serpent and all. Fine. You don't need to believe a word of it for the next part to cost you.
+The singer doesn't have to know whose pitch it is. An actor can read a script without ever meeting the man who wrote it. Either way the pitch comes with a bill, and you're the one paying it.
 
 
 <!-- 2026-11-26 VAGUE PASS (James: 'don't want to tempt men to check too many of these scenes themselves... should be vague to not tempt'): sexual details, episode titles, the underwear shot and where to find the GTA quest were cut from the text. The details stay in these notes and in research/pop-culture-dossier-2026-11-26.md. -->
@@ -87,3 +80,5 @@ SOURCES:
 - Isaiah 5:20, Ephesians 5:12 (WEB). -->
 
 <!-- 2026-11-27 reader panel (fact check): the Lemonade poem credited to Warsan Shire; Satan Shoes made by MSCHF; Satanic Temple 'around 2013'; GTA VI's Satan material is an optional side quest; the disclaimer now says 'worship Satan' so it doesn't clash with the Del Rey and Grande paragraphs; the serpent's pitch follows Genesis 3:5; Isaiah 5:20 epigraph given whole (WEB). -->
+
+<!-- 2026-11-28 MAP PASS (James at ch15: confused by the metaphors; 'make 15 onward as good as you can'). Terms made consistent with chapter 6's map: the house is the reader's head (the world carries dirt into it), the Big Monster is believed lies in your voice, 'Lust' no longer acts as a character, the devil caveat for non-believers kept once (The World's Lies) instead of in every chapter. -->

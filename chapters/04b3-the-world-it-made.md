@@ -1,6 +1,6 @@
 # The World It Made {#the-world-it-made}
 
-Lust made the world a promise. Take off the old rules, it said, and men will have more sex and more happiness than their grandfathers dreamed of.
+The world made men a promise. Take off the old rules, it said, and men will have more sex and more happiness than their grandfathers dreamed of.
 
 The rules came off. Every man now carries more naked women in his pocket than a sultan saw in his life. So read the scoreboard.
 
@@ -19,9 +19,9 @@ Don't oversell those numbers. The researchers behind them don't blame porn. They
 
 So this book won't tell you porn emptied the bedrooms. It can't prove that, and neither can anyone else.
 
-It says something smaller, and harder to argue with. Lust promised a feast. For two generations it's had every tool and no rules. And the men it made the promise to are more alone than their grandfathers were.
+It says something smaller, and harder to argue with. The world promised a feast. For two generations it's had every tool and no rules. And the men it made the promise to are more alone than their grandfathers were.
 
-The promise wasn't kept. It was never meant to be. The world doesn't need men happy. It needs them busy, numb and alone with a screen.
+The promise wasn't kept. It was never meant to be. The world doesn't need men happy. It needs them busy, numb and alone with a screen. A numb man carries the plate up the stairs without asking why.
 
 ## Who paid {-}
 
@@ -39,7 +39,7 @@ In 1934 a scholar named J. D. Unwin published a long study with Oxford Universit
 
 His methods are ninety years old, later scholars have criticized them, and nobody has repeated the work with modern ones. Take it as one man's finding and no more. Still, a scholar asked the question, and that was the answer he got.
 
-That's what the world's lies delivered, to other men and to the world. One liar is left, and he's the most persuasive of all. You've known him all your life.
+That's what the world's lies delivered, to other men and to the world. One liar is left, and he's the most persuasive of all. He talks in your voice.
 
 <!-- 2026-11-22 NEW CHAPTER (James: 'Men need to see how the lie of lust has destroyed other men and society as a whole'). Research dossier: research/society-dossier-2026-11-22.md. The chapter states plainly that the researchers do not blame porn; it argues only that lust's promise was not kept. CHECK EACH QUOTATION AND FIGURE AGAINST ITS PAGE BEFORE PRINT.
 
@@ -66,3 +66,5 @@ SOURCES:
 <!-- 2026-11-27 reader panel (fact check): 2016-2018 for the no-sex figure; 23.5 for 1975; Japan's figure is never-married men 18 to 34; births rounded for the ear; Unwin's 'social energy' and the criticism of his methods; the Aylo payment was under a deferred prosecution agreement. -->
 
 <!-- 2026-11-28 (James: make it a common theme: alone with the monster would be one thing, but you live in the devil's world, he wants you sedated, weak and pathetic, distracted not destroyed; the world, the devil and your own mind keep telling you to feed him). Light callback added here; others in The World's Lies, The World It Made, The Best Liar of All, Whose Voice Is That?, If You Slip (Fit for Service and The Devil's Data Scientists already carry it). -->
+
+<!-- 2026-11-28 MAP PASS (James at ch15: confused by the metaphors; 'make 15 onward as good as you can'). Terms made consistent with chapter 6's map: the house is the reader's head (the world carries dirt into it), the Big Monster is believed lies in your voice, 'Lust' no longer acts as a character, the devil caveat for non-believers kept once (The World's Lies) instead of in every chapter. -->
