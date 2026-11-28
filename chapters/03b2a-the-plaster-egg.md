@@ -20,6 +20,10 @@ Here it is in plain words.
 
 You're built to be drawn to a woman. Her face, her figure, her curves. Nothing's dirty about that. It's wiring, and it's there so a man will want a wife and stay with her.
 
+Look at what that wiring picks out. Clear skin. Bright eyes. A narrow waist over wider hips. Every one of them is a sign of a young, healthy woman who can carry a child. In 1993 the psychologist Devendra Singh showed that the waist-to-hip shape men prefer goes along with a woman's hormones and her long-term health. Your eye isn't shallow. It's hunting for the mother of your kids.
+
+Some wires get crossed. A man can end up aroused by a shoe or a foot, things that say nothing about whether a woman can be a mother. Nobody's settled why. In 1966 the psychologist Stanley Rachman got three volunteers to respond to a photo of women's boots, just by showing it right before pictures of naked women, again and again. When he stopped pairing them, the response faded. A wire that got crossed by repetition can come uncrossed the same way.
+
 Now look at what your phone shows that wiring before breakfast. Breasts a surgeon has enlarged. Skin an app has smoothed. Lighting set up by a professional. Waists pulled in and everything else pushed out with a slider. Your great-grandfather could have lived to ninety and never seen one woman shaped like that. You see a hundred in ten minutes, each one new, and not one of them can turn you down.
 
 Nothing in your wiring was built for that, so it scores it off the chart. That's the plaster egg: bigger, brighter and bolder than anything real. The Little Monster doesn't care whether it's real. He only cares that it's loud.
@@ -61,3 +65,5 @@ There's one more part of the kick, and it has nothing to do with the woman on th
 <!-- 2026-11-28 Author polish pass (James: 'one polish pass' on the three chapters that replaced chapter 10). Small fixes only: see the commit. -->
 
 <!-- 2026-11-28 (James: 'Opening sentence of chapter 11 doesn't make sense'). The opening leaned on the previous chapter's last line; it now stands on its own. -->
+
+<!-- 2026-11-28: James asked to say that what attracts a man signals fertility, and to frame fetishes as miswirings (he suggested trauma). Added two paragraphs after YOU ARE THAT BIRD. Sources: Singh D. 1993, Body shape and women's attractiveness: the critical role of waist-to-hip ratio, Human Nature 4(3):297-321 (WHR correlated with reproductive endocrinological status and long-term health risk). Rachman S. 1966, Sexual fetishism: an experimental analogue, Psychological Record 16:293-296 (conditioned responses to boots in three subjects; extinction shown). Trauma NOT claimed: no consensus on causes; in a survey of 262 members of a foot-fetish organization, 80% reported no child abuse; Ramachandran's brain-map idea lacked support (Cortex 2014). -->
