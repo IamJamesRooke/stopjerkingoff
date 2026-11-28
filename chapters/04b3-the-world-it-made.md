@@ -4,6 +4,8 @@ The world made men a promise. Take off the old rules, it said, and men will have
 
 The rules came off. Every man now carries more naked women in his pocket than a sultan saw in his life. So read the scoreboard.
 
+![](images/illustrations/world-scoreboard.png){.illustration width=80%}
+
 ## The scoreboard {-}
 
 - In America, about one in five men aged 18 to 24 had gone a year without sex in the early 2000s. In 2016 to 2018 it was nearly one in three.

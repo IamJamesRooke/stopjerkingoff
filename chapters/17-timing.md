@@ -16,6 +16,8 @@ You've hauled this a long time, and probably told nobody. It deserves a proper e
 
 The trap has one clever twist. When life is stressful, it's the wrong time to stop, because you think you need it. When life is calm, there's no hurry, because things aren't so bad. One or the other is always true, so the right time never comes. And it's never a bad week to carry on.
 
+![](images/illustrations/timing-calendar-later.png){.illustration width=80%}
+
 That's why this book doesn't ask you to pick a good week. It asks you to read to the final step, then stop, whatever week it is.
 
 The book of Ecclesiastes has a line for the man who waits for perfect weather: "He who observes the wind won't sow; and he who regards the clouds won't reap."

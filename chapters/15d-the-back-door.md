@@ -47,6 +47,8 @@ The world calls this self-love. Some love. It needs the door locked and leaves y
 
 Here's a test to carry through the rooms that are left. Ask of anything you do, is this a gift, with a person at the other end? Or is it a hit I'm taking? A gift is given to someone, and you stay. A hit is taken, and you leave. The hand gives nothing to anyone.
 
+![](images/illustrations/backdoor-gift-or-hit.png){.illustration width=80%}
+
 The hand isn't the harmless one. It holds the door open for all the rest.
 
 The terms at this door are the same as at the first. No vow, no count. Has the hand ever paid you anything but relief from its own itch? If not, there's nothing in this room either, and the door is shut.

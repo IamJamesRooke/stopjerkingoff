@@ -3202,6 +3202,95 @@ def batch40(OUT):
     s+=T(wx-90,wy+80,"THE WORLD",16)
     s+=TAIL; open(OUT+"master-the-map.svg","w").write(s)
 
+def batch37(OUT):
+    W,H=680,440
+    import math
+    # 1. Dr. Scratchmore and his doctor-approved bottle
+    s=head(W,H,"#7FD3FF")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=man(250,160,"happy","#fff")+legs(250,310,16)
+    s+='<path d="M236,200 L246,240 L256,200" fill="#7FD3FF" stroke-width="3"/><path d="M220,240 L232,300 M280,240 L270,300" stroke-width="3"/>'
+    s+='<circle cx="250" cy="124" r="10" fill="#C0C6D0"/><path d="M220,150 C210,190 232,206 250,200" stroke-width="3"/>'
+    s+='<path d="M234,200 L180,250 L160,226"/><rect x="128" y="170" width="44" height="64" rx="8" fill="#FF5A5F"/><rect x="138" y="156" width="24" height="16" fill="#fff"/>'+T(150,210,"OK!",16,"#fff")
+    s+='<path d="M266,200 L330,240"/><rect x="326" y="200" width="70" height="90" rx="6" fill="#9C6B3C"/><rect x="334" y="212" width="54" height="70" fill="#fff" stroke-width="2"/>'
+    s+=T(361,236,"KEEP",13)+T(361,254,"SCRATCH",11)+T(361,272,"-ING!",13)
+    s+=monster(540,404,"bang",0.9)
+    s+='<rect x="490" y="300" width="100" height="30" rx="6" fill="#fff"/>'+T(540,322,"MORE!",18,"#FF3B30")
+    s+=TAIL; open(OUT+"doctor-scratchmore-bottle.svg","w").write(s)
+
+    # 2. The scoreboard
+    s=head(W,H,"#2B3A8F")
+    s+='<rect x="90" y="50" width="500" height="300" rx="14" fill="#141414" stroke="#fff"/>'
+    s+=T(340,92,"SCOREBOARD",26,"#FFD23F")
+    for i,(lab,h,col,up) in enumerate([("friends",80,"#2FB3A8",False),("dates",60,"#FF8FB1",False),("babies",50,"#9BD13A",False),("screen",230,"#FF5A5F",True)]):
+        x=130+i*115
+        s+=f'<rect x="{x}" y="{320-h}" width="70" height="{h}" fill="{col}" stroke="#fff" stroke-width="4"/>'
+        s+=T(x+35,342,lab,15,"#fff")
+        if up: s+=f'<path d="M{x+35},{80} l-16,22 m16,-22 l16,22" stroke="#FFD23F" stroke-width="6"/>'
+        else: s+=f'<path d="M{x+35},{300-h} l-12,-16 m12,16 l12,-16 m-12,16 l0,-40" stroke="#fff" stroke-width="5"/>'
+    s+='<line x1="30" y1="410" x2="650" y2="410" stroke="#fff"/>'
+    s+=monster(600,404,"dangle",0.7,stink=True)
+    s+=TAIL; open(OUT+"world-scoreboard.svg","w").write(s)
+
+    # 3. The calendar that never has a right week, and the pipsqueak's sign
+    s=head(W,H,"#FFD23F")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="90" y="50" width="340" height="310" rx="10" fill="#fff"/><rect x="90" y="50" width="340" height="50" rx="10" fill="#FF5A5F"/>'+T(260,84,"THIS MONTH",22,"#fff")
+    for r in range(4):
+        y=112+r*62
+        lab,col=("TOO STRESSFUL","#FF3B30") if r%2==0 else ("TOO CALM","#2F6BFF")
+        s+=f'<line x1="100" y1="{y+56}" x2="420" y2="{y+56}" stroke-width="2"/>'
+        s+=f'<rect x="120" y="{y+8}" width="280" height="38" rx="6" fill="none" stroke="{col}" stroke-width="4" transform="rotate({-3 if r%2 else 3} 260 {y+27})"/>'+T(260,y+36,lab,22,col,rot=(-3 if r%2 else 3))
+    s+=monster(540,404,"bang",1.0)
+    s+='<line x1="580" y1="390" x2="600" y2="250" stroke-width="5"/><rect x="530" y="200" width="120" height="56" rx="8" fill="#fff"/>'+T(590,238,"LATER!",24,"#FF3B30")
+    s+=TAIL; open(OUT+"timing-calendar-later.svg","w").write(s)
+
+    # 4. A very large boat, full of men with phones
+    s=head(W,H,"#7FD3FF")
+    s+='<path d="M30,330 C200,320 450,340 650,325 L650,410 L30,410 Z" fill="#2F6BFF"/>'
+    s+='<path d="M70,240 L610,240 L560,330 L120,330 Z" fill="#9C6B3C"/>'
+    for i in range(14):
+        x=100+i*36; y=232
+        s+=f'<circle cx="{x}" cy="{y-18}" r="13" fill="#fff"/><rect x="{x-6}" y="{y-14}" width="10" height="14" rx="2" fill="#141414" stroke-width="2"/>'
+    for i in range(10):
+        x=120+i*42
+        s+=f'<circle cx="{x}" cy="{196}" r="13" fill="#fff"/>'+dot(x-4,193,2.2)+dot(x+4,193,2.2)
+    s+='<line x1="340" y1="240" x2="340" y2="80"/><path d="M340,90 L440,180 L340,180 Z" fill="#fff"/>'
+    for x in (90,250,470): s+=f'<path d="M{x},360 q14,-10 28,0" stroke="#fff" stroke-width="4"/>'
+    s+=TAIL; open(OUT+"author-very-large-boat.svg","w").write(s)
+
+    # 5. A gift is given, and you stay. A hit is taken, and you leave.
+    s=head(W,H,"#FFF6E5")
+    s+='<line x1="340" y1="30" x2="340" y2="410" stroke-dasharray="10 12" stroke-width="4"/>'
+    s+=T(170,56,"A GIFT",26,"#2FB3A8")+T(510,56,"A HIT",26,"#FF3B30")
+    s+='<line x1="30" y1="400" x2="320" y2="400"/><line x1="360" y1="400" x2="650" y2="400"/>'
+    s+=man(110,180,"happy","#2F6BFF").replace('r="34"','r="28"')+'<path d="M106,332 L94,398"/><path d="M122,332 L136,398"/>'
+    s+='<path d="M124,220 L170,240"/><path d="M170,240 l10,-30 M170,240 l26,-18 M170,240 l28,4" stroke="#2FB3A8" stroke-width="4"/>'
+    for (x,y,c) in [(180,206,"#FF5A5F"),(198,218,"#FFD23F"),(200,244,"#FF8FB1")]: s+=f'<circle cx="{x}" cy="{y}" r="9" fill="{c}" stroke-width="3"/>'
+    s+='<g transform="translate(250,186) scale(0.8)">'+woman(0,0,"#FFD23F","#3B2A1A","happy")+'<path d="M-20,162 L-24,260 M20,162 L24,260"/></g>'
+    s+=heart(180,120,0.6)
+    s+='<rect x="430" y="300" width="160" height="40" rx="12" fill="#7B4FD6"/>'
+    s+=man(510,210,"blank","#C0C6D0").replace('r="34"','r="28"')+'<path d="M506,362 L490,398"/><path d="M522,362 L540,398"/>'
+    s+='<rect x="470" y="250" width="22" height="34" rx="4" fill="#141414"/><rect x="474" y="254" width="14" height="24" fill="#FFF36B" stroke-width="2"/><path d="M496,250 L480,262 M524,250 L490,270"/>'
+    s+=monster(580,206,"bang",0.55)
+    s+='<path d="M600,140 l30,0 m-10,-10 l10,10 l-10,10" stroke-width="4"/>'
+    s+=TAIL; open(OUT+"backdoor-gift-or-hit.svg","w").write(s)
+
+    # 6. The caller has stopped calling: an unplugged phone, and a pipsqueak holding the cord
+    s=head(W,H,"#2B3A8F")
+    s+=moon(600,70,18)+stars([(90,60),(170,100),(500,50)])
+    s+='<line x1="30" y1="410" x2="650" y2="410" stroke="#fff"/>'
+    s+=bed(80,300,330,"#7FD3FF")
+    s+='<ellipse cx="130" cy="290" rx="44" ry="15" fill="#fff"/><path d="M180,300 C200,268 380,268 410,300 Z" fill="#FFD23F"/>'
+    s+='<circle cx="150" cy="248" r="26" fill="#fff"/><path d="M140,244 q4,-4 8,0 M154,244 q4,-4 8,0" stroke-width="3"/><path d="M146,258 q6,4 12,0" stroke-width="3"/>'
+    s+=T(196,214,"z",22,"#fff")+T(214,192,"z",18,"#fff")
+    s+='<rect x="440" y="300" width="90" height="110" fill="#9C6B3C"/>'
+    s+='<path d="M456,300 L462,276 L508,276 L514,300 Z" fill="#FF5A5F"/><path d="M452,276 C452,262 518,262 518,276" stroke-width="7"/><rect x="448" y="270" width="16" height="10" rx="4" fill="#FF5A5F"/><rect x="506" y="270" width="16" height="10" rx="4" fill="#FF5A5F"/>'
+    s+='<path d="M514,296 C560,300 560,360 590,380" stroke-width="4"/>'
+    s+=monster(600,404,"dangle",0.6,stink=False)
+    s+='<rect x="580" y="372" width="14" height="10" fill="#C0C6D0" stroke-width="2"/>'
+    s+=TAIL; open(OUT+"body-quiet-phone.svg","w").write(s)
+
 if __name__=="__main__":
     which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30","31","32","33","34","35","36","37","38","39","40"]
     for b in which: globals()["batch"+b](OUT)

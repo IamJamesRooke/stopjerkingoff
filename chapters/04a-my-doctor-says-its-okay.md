@@ -2,6 +2,8 @@
 
 "Doctors say it's healthy." Of all the world's lies, that one sounds the most like a fact. It comes with a white coat.
 
+![](images/illustrations/doctor-scratchmore-bottle.png){.illustration width=80%}
+
 Take the medical part as true. Now look at the rest of what gets said in the doctor's name.
 
 ## Which experts? {-}

@@ -38,6 +38,8 @@ How long does it last? Some men never get one. Most who do say a week or two. Fo
 
 See the flat spell for what it is. The caller has stopped calling, and you're worried about the silence. The old lie has no desire left to use on you, so it uses fear. Enjoy the quiet. It's the easiest stretch you'll get.
 
+![](images/illustrations/body-quiet-phone.png){.illustration width=80%}
+
 So don't test. Not with a screen, not with your hand, not "just to check". Go back, and you'll only have to walk the same quiet stretch again the next time you stop. Leave your body alone and it'll announce its own return, often on some ordinary morning, with no help from you.
 
 ## When to see a doctor {-}
