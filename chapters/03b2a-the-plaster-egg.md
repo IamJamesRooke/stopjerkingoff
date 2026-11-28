@@ -1,12 +1,12 @@
 # The Plaster Egg {#the-plaster-egg}
 
-In the moment, your brain may tell you this beats sex. Believe that it says so. It's an honest report.
+In the moment, your brain may tell you this beats sex. Don't argue with that. It's an honest report of what you feel.
 
 Now look at what it's reporting on.
 
 ## The bird and the egg {-}
 
-Last century a Dutch scientist named Niko Tinbergen offered nesting birds plaster eggs. He made them bigger than real eggs, with brighter color and bolder spots. Given the choice, most birds picked the fakes over their own. One fake was so big the songbird kept sliding off it, and she climbed back on anyway.
+Last century a Dutch scientist named Niko Tinbergen offered nesting birds plaster eggs. He made them bigger than real eggs, with brighter color and bolder spots. Given the choice, most birds picked the fakes over their own. One fake was so big the mother bird kept sliding off it, and she climbed back on anyway.
 
 ![](images/illustrations/feels-good-the-plaster-egg.png){.illustration width=80%}
 
@@ -20,7 +20,7 @@ You're built to be drawn to a woman. Her face, her figure, her curves. Nothing's
 
 Now look at what your phone shows that wiring before breakfast. Figures a surgeon has enlarged. Skin an app has smoothed. Lighting set up by a professional. Waists pulled in and everything else pushed out with a slider. Your great-grandfather could have lived to ninety and never seen one woman shaped like that. You see a hundred in ten minutes, each one new, and not one of them can turn you down.
 
-Nothing in your wiring was built for that, so it scores it off the chart. That's the plaster egg: bigger, brighter and bolder than anything real.
+Nothing in your wiring was built for that, so it scores it off the chart. That's the plaster egg: bigger, brighter and bolder than anything real. The Little Monster doesn't care whether it's real. He only cares that it's loud.
 
 ![](images/illustrations/egg-you-are-that-bird.png){.illustration width=80%}
 

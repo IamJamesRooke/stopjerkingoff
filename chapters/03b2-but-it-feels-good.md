@@ -32,7 +32,7 @@ It isn't candy. Candy never made you promise anything.
 
 Three things are mixed together in that moment. Pull them apart.
 
-**The first is relief.** The banging on the floor stops. This is most of what you feel, and it isn't pleasure at all. It's an irritation ending, like a car alarm that finally shuts off. The man who never started doesn't need it, because nothing's banging in his house.
+**The first is relief.** The banging on the floor stops. This is most of what you feel, and it isn't pleasure at all. It's an irritation ending. The man who never started doesn't need it, because nothing's banging in his house.
 
 **The second is the rush itself.** This part is real, and it lasts a few seconds. So weigh it like anything you buy. On one side, those seconds. On the other, the hour before, hunting for the right video. Then the flat ten minutes after, with the screen dark and your mood darker. Then the itch, set going again for tomorrow.
 

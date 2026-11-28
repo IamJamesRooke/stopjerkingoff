@@ -20,7 +20,7 @@ You've swept it clean more than once. Maybe one of these is yours.
 - You deleted every app and blocked every site. Then your memory started playing old scenes in their place, like reruns of a TV show.
 - You stopped the hand cold, by sheer force, and poured the same hunger into texting a woman who'd quit answering.
 
-Each time, you swept the house. Each time, you ended up worse off than before. Jesus aimed his story at the people of his day, not at you. But the shape fits: swept clean, left empty, and worse off at the end.
+Each time, you swept the house. Each time, you ended up worse off than before. The shape fits: swept clean, left empty, and worse off at the end.
 
 ## He waits on the front step {-}
 

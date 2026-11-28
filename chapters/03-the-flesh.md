@@ -24,7 +24,7 @@ He doesn't mean your skin. He means the part of a man that wants what it wants, 
 
 The flesh never invents a thing. It's got nothing of its own to work with. All it can do is grab something good and twist it. More. Now. For me.
 
-Augustine saw this sixteen hundred years ago. He was a bishop in North Africa who'd spent his youth chasing women and chasing applause. He said being good comes down to loving things in the right order.
+Augustine saw this sixteen hundred years ago. The young man who once prayed "only not yet" ended up a bishop, after a youth spent chasing women and chasing applause. He said being good comes down to loving things in the right order.
 
 Sin, then, isn't loving something bad. It's loving something good in the wrong place.
 
@@ -106,7 +106,7 @@ Rest charges you up for something. Sloth charges you up for nothing. That's why 
 
 ## Gluttony {-}
 
-The good under it is a good meal. Ribs off the smoker. Thanksgiving with the whole family around one table.
+The good under it is a good meal. Brisket off the smoker. Thanksgiving with the whole family around one table.
 
 Jesus liked a dinner party so much that his enemies, trying to smear him, called him "a gluttonous man and a drunkard". It didn't stick, but it tells you he was no stranger to a full table.
 

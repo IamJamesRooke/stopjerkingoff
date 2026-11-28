@@ -42,7 +42,7 @@ Like every other bend, it hands you less of what it promised. The drive was afte
 
 ## Lust's daughters {-}
 
-Gregory the Great, the pope who put the seven sins in order around the year 600, said each sin has daughters. They're the smaller sins it gives birth to. He named eight daughters of lust. Thomas Aquinas, the Italian friar whose books are the backbone of Catholic teaching, kept all eight.
+Gregory, the pope who trimmed the list to seven, said each sin has daughters. They're the smaller sins it gives birth to. He named eight daughters of lust, and Aquinas kept all eight.
 
 Here they are, with what they look like on a weeknight.
 
