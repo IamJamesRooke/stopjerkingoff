@@ -27,7 +27,7 @@ There is no dragon.
 
 That overwhelming urge when temptation hits? That faint, fidgety itch, that craving? It's no dragon. It's a little monster. He isn't real. He's a picture of that craving, and this book calls him the Little Monster.
 
-Think of your life as a house. Up in the back room lurks the Little Monster. A scrawny pipsqueak, the size of a house cat, who reeks like cheese left to rot in a car in midsummer. This pest has never paid a dime of rent. He doesn't even buy his own food, because you're the one who feeds him.
+Think of your head as a house. Up in the back room lurks the Little Monster. A scrawny pipsqueak, the size of a house cat, who reeks like cheese left to rot in a car in midsummer. This pest has never paid a dime of rent. He doesn't even buy his own food, because you're the one who feeds him.
 
 ![](images/illustrations/intro-back-room.png){.illustration width=80%}
 
