@@ -36,7 +36,7 @@ You're carrying two loads. One is the day's real trouble. The other is the Littl
 
 ![](images/illustrations/times-two-loads.png){.illustration width=80%}
 
-So be honest about last time. Did the edge come off? Or did a tantrum just stop for an hour?
+So be honest about last time. Did the edge come off? Or did a tantrum just stop for an hour? You can scratch it again tonight if you want. Just picture Dr. Scratchmore at your elbow, cheering.
 
 The habit takes credit for easing a pressure it largely built.
 
@@ -96,3 +96,5 @@ Those are the big days. Most of the habit happens on the small ones, in the last
 <!-- 2026-11-24 PROOF LOOP (James, 2 a.m., high stress: 'trying to get the edge off, I know it's a lie'; wants a reminder beside the no-cutting-down rule: did you really get the edge off, or give in to the monster's tantrum?). Same question closes the stress answer here. -->
 
 <!-- 2026-11-28 MAP PASS (James at ch15: confused by the metaphors; 'make 15 onward as good as you can'). Terms made consistent with chapter 6's map: the Big Monster is believed lies in your voice; the world sells some lies and you write some. -->
+
+<!-- 2026-11-28 (James: the quack doctor image sticks; name him and give light reminders; DSM-5 vs ICD-11; a counselor who said it wasn't that bad and cheered a threesome idea, told as an anonymous archetype). Dr. Scratchmore named in The World's Lies and called back here. ICD-11 6C72 Compulsive sexual behaviour disorder (WHO, adopted 2019); DSM-5 (2013) has no porn or sex addiction diagnosis. -->

@@ -60,7 +60,7 @@ It wasn't only weakness. He changed his mind. At that moment he believed he was 
 
 Here's the false information in one line. "What's the point of a clean conscience if I'm miserable?" Fair question, and the answer is that you won't be. A life without the habit isn't gray and twitchy. The willpower man's misery doesn't come from the Little Monster, who's tiny. It comes from believing he's given something up. So he feels deprived, and feeling deprived is a strain all by itself. Under strain the old voice says "go on", and now he can't. So he feels more deprived still.
 
-That's why nobody here is asking you to hold out. When he bangs tonight, you can carry the plate up. There's no rule against it, and nobody's keeping score. The only question worth asking is whether you need to.
+That's why nobody here is asking you to hold out. When he bangs tonight, you can carry the plate up. There's no rule against it, and nobody's keeping score. The only question worth asking is whether you need to. Scratch the itch if you like. Just remember who wrote that prescription. Dr. Scratchmore would be thrilled.
 
 That's the method at its best. Now add a scoreboard.
 
@@ -108,3 +108,5 @@ That's the method at its best. Now add a scoreboard.
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
 
 <!-- 2026-11-27 PROOF LOOP (James, tempted: 'I CAN watch it, but do I really need to feed that little monster?'; wants light reminders sprinkled through the book: you can, nobody is stopping you, the urge is the Little Monster asking, no pressure, no force). One short reminder added here, worded differently in each chapter. Never a vow, never willpower. -->
+
+<!-- 2026-11-28 (James: the quack doctor image sticks; name him and give light reminders; DSM-5 vs ICD-11; a counselor who said it wasn't that bad and cheered a threesome idea, told as an anonymous archetype). Dr. Scratchmore named in The World's Lies and called back here. ICD-11 6C72 Compulsive sexual behaviour disorder (WHO, adopted 2019); DSM-5 (2013) has no porn or sex addiction diagnosis. -->

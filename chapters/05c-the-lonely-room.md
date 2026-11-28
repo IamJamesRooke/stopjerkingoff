@@ -36,7 +36,7 @@ It was never the habit that made those moments bearable. The evening off, the wa
 
 A man who believes he needs the habit to cope will reach for it every time life leans on him. A man who knows he doesn't need it has nothing left to reach for.
 
-So the next time life leans on you, remember you're allowed. No rule in this book says you can't. Ask one small thing first. Do I need this, or does he?
+So the next time life leans on you, remember you're allowed. No rule in this book says you can't. Ask one small thing first. Do I need this, or does he? And if you do go up the stairs, listen for Dr. Scratchmore downstairs, yelling "MORE!"
 
 Come to me, Jesus says, and I will give you rest. That's better than relief, and you know the difference. Relief is what you've been buying every night for years, and it has never lasted until morning.
 
@@ -51,3 +51,5 @@ Come to me, Jesus says, and I will give you rest. That's better than relief, and
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
 
 <!-- 2026-11-27 PROOF LOOP (James, tempted: 'I CAN watch it, but do I really need to feed that little monster?'; wants light reminders sprinkled through the book: you can, nobody is stopping you, the urge is the Little Monster asking, no pressure, no force). One short reminder added here, worded differently in each chapter. Never a vow, never willpower. -->
+
+<!-- 2026-11-28 (James: the quack doctor image sticks; name him and give light reminders; DSM-5 vs ICD-11; a counselor who said it wasn't that bad and cheered a threesome idea, told as an anonymous archetype). Dr. Scratchmore named in The World's Lies and called back here. ICD-11 6C72 Compulsive sexual behaviour disorder (WHO, adopted 2019); DSM-5 (2013) has no porn or sex addiction diagnosis. -->

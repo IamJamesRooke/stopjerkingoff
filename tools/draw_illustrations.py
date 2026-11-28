@@ -3146,7 +3146,7 @@ def batch39(OUT):
     # The world's medical advice: a quack doctor cheering a man scratching himself raw (The World's Lies)
     s=head(W,H,"#E8F7F0")
     s+='<line x1="30" y1="400" x2="650" y2="400"/>'
-    s+='<rect x="40" y="60" width="120" height="90" rx="6" fill="#fff"/>'+T(100,96,"QUACK",18,"#141414")+T(100,124,"M.D.",22,"#FF3B30")
+    s+='<rect x="24" y="56" width="164" height="90" rx="6" fill="#fff"/>'+T(106,92,"DR.",18,"#141414")+T(106,124,"SCRATCHMORE",20,"#FF3B30")
     # doctor
     dx,dy=200,170
     s+=f'<path d="M{dx-22},{dy+36} C{dx-46},{dy+70} {dx-46},{dy+160} {dx-30},{dy+200} L{dx+30},{dy+200} C{dx+46},{dy+160} {dx+46},{dy+70} {dx+22},{dy+36} Z" fill="#fff"/>'

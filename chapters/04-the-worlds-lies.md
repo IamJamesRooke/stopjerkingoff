@@ -6,7 +6,7 @@
 
 The flesh supplies the itch. The world supplies the reasons to scratch it.
 
-Picture a man with a rash. He goes to the doctor, and the doctor leans in and says, "Keep scratching. More. MORE!" You'd walk out and find another doctor. That's the world's whole medical advice for this itch, and you've been taking it for years.
+Picture a man with a rash. He goes to the doctor. Call him Dr. Scratchmore. The doctor leans in and says, "Keep scratching. More. MORE!" You'd walk out and find another doctor. That's the world's whole medical advice for this itch, and you've been taking it for years.
 
 ![](images/illustrations/worlds-lies-keep-scratching.png){.illustration width=80%}
 
@@ -33,6 +33,12 @@ Start with the loudest lies, the ones about masturbation. Your grandfather was t
 ![](images/illustrations/worlds-lies-crowded-trap.png){.illustration width=80%}
 
 **"It's healthy. It's harmless. Doctors say so."** Medicine says it doesn't hurt your body. Fine, but the doctor is answering a question you never asked. You didn't ask about your prostate. You asked why you can't stop, and why you feel like a smaller man afterward. A Christian writer put the distinction neatly: "But just because something isn't harmful physically doesn't mean it's not harmful spiritually."
+
+The experts don't even agree among themselves. The manual American psychiatrists use, the DSM-5, doesn't list porn or sex addiction at all. The World Health Organization does. Since 2019 its list of diseases, the ICD-11, has included compulsive sexual behavior disorder. So when you hear that the experts say it's fine, ask which experts.
+
+Then ask whose life is backing the advice. Picture a man who finally tells a counselor about his habit. The counselor tells him it's not really that bad. A few sessions later, the counselor is cheering on his idea of a threesome with his girlfriend. Is that medicine? Or is it somebody feeding the same monster, telling him what they tell themselves?
+
+Experts are people. They live in the same world and hear the same pitch. Plenty of counselors help men get free, and if you need one, go find one. Just pick one whose life matches the advice.
 
 **"I'm not doing anything wrong."** Then say it out loud. Say it to your wife, or your mother, or the father of the woman on the screen. A thing that's fine can be said at the dinner table. You've never said this one to anybody.
 
@@ -145,3 +151,5 @@ Those are the lies about the hand. Porn has its own set, and somebody else pays 
 <!-- 2026-11-28 (James: 'Could you imagine having a rash and the doctor says keep scratching!!!!! More. MORE!'). Added after the opening line, with drawing worlds-lies-keep-scratching (batch39). Not a repeat of the cream-and-rash picture in What Am I Giving Up?, which is about the cure, not the advice. -->
 
 <!-- 2026-11-28 MAP PASS (James at ch15: confused by the metaphors; 'make 15 onward as good as you can'). Terms made consistent with chapter 6's map: the house is the reader's head (the world carries dirt into it), the Big Monster is believed lies in your voice, 'Lust' no longer acts as a character, the devil caveat for non-believers kept once (The World's Lies) instead of in every chapter. -->
+
+<!-- 2026-11-28 (James: the quack doctor image sticks; name him and give light reminders; DSM-5 vs ICD-11; a counselor who said it wasn't that bad and cheered a threesome idea, told as an anonymous archetype). Dr. Scratchmore named in The World's Lies and called back here. ICD-11 6C72 Compulsive sexual behaviour disorder (WHO, adopted 2019); DSM-5 (2013) has no porn or sex addiction diagnosis. -->
