@@ -2,6 +2,8 @@
 
 The most persuasive voice in all this is your own.
 
+The world pitches the lies, and the one behind the world wants them believed. Neither one can close the sale. You do that.
+
 Once you're in the trap, the lies get help from inside. Some part of you knows the Little Monster expects feeding, and it will guard his dinner plate against any argument. That's fear: the fear of that empty, fidgety feeling.
 
 Men in the trap aren't weak-willed. It takes real stamina to keep a secret for twenty years. The trouble is where the strength goes. We pour it into defending the habit, and when we try to quit and fail, we turn it on ourselves. Failing is one thing. Hating yourself for it is another, and that seeps into everything. You skip the gym. The diet lasts until Thursday. Your kids get the worst of your temper.
@@ -59,3 +61,5 @@ So let's go through your day and find them.
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
 
 <!-- 2026-11-27 (James: generous with drawings): one drawing, the salesman in the doorway wears your shirt. -->
+
+<!-- 2026-11-28 (James: make it a common theme: alone with the monster would be one thing, but you live in the devil's world, he wants you sedated, weak and pathetic, distracted not destroyed; the world, the devil and your own mind keep telling you to feed him). Light callback added here; others in The World's Lies, The World It Made, The Best Liar of All, Whose Voice Is That?, If You Slip (Fit for Service and The Devil's Data Scientists already carry it). -->

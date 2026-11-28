@@ -21,7 +21,7 @@ So this book won't tell you porn emptied the bedrooms. It can't prove that, and 
 
 It says something smaller, and harder to argue with. Lust promised a feast. For two generations it's had every tool and no rules. And the men it made the promise to are more alone than their grandfathers were.
 
-The promise wasn't kept.
+The promise wasn't kept. It was never meant to be. The world doesn't need men happy. It needs them busy, numb and alone with a screen.
 
 ## Who paid {-}
 
@@ -64,3 +64,5 @@ SOURCES:
 <!-- 2026-11-27: 'Remember the California company...' sent the reader back; the case is now restated in place. -->
 
 <!-- 2026-11-27 reader panel (fact check): 2016-2018 for the no-sex figure; 23.5 for 1975; Japan's figure is never-married men 18 to 34; births rounded for the ear; Unwin's 'social energy' and the criticism of his methods; the Aylo payment was under a deferred prosecution agreement. -->
+
+<!-- 2026-11-28 (James: make it a common theme: alone with the monster would be one thing, but you live in the devil's world, he wants you sedated, weak and pathetic, distracted not destroyed; the world, the devil and your own mind keep telling you to feed him). Light callback added here; others in The World's Lies, The World It Made, The Best Liar of All, Whose Voice Is That?, If You Slip (Fit for Service and The Devil's Data Scientists already carry it). -->

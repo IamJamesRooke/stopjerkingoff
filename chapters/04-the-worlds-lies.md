@@ -16,6 +16,8 @@ Blinded is the word. He doesn't drag a man up the stairs. He just makes sure the
 
 If you don't believe in a devil, look at who profits. Every site, app and ad that keeps you scratching gets paid when you do. You don't need horns to explain that.
 
+If you lived alone on an island with the Little Monster, starving him would be simple. You don't. You live in the devil's world, and he wants you sedated, weak and small. A man like that is no trouble to anybody.
+
 And the world doesn't work alone. It sells the lies. Your own mind repeats them, in your voice, at the worst moment. Your fear finishes the job: fear of a long evening with nothing to do, fear of a bad day without him, fear that you'll try and fail again. The world, your mind and your fear all push the same way. Up the stairs, with his plate.
 
 ## The lies about the hand {-}
@@ -131,3 +133,5 @@ Those are the lies about the hand. Porn has its own set, and somebody else pays 
 <!-- 2026-11-27 reader panel: the tent line and 'kept the hand' made plain. The 2017 figures checked against the source note (Vaillancourt-Morel et al.; the distressed group used little). -->
 
 <!-- 2026-11-28 (James: the world belongs to the devil in Christian belief; the world tells you to keep feeding the monster; 'the world, your own mind, your fear, will conspire against you'). Opening reworded now that chapter 6 introduces the Big Monster; new section 'Who's behind it' with WEB 1 John 5:19, John 12:31, 2 Corinthians 4:4 (verified verbatim), a plain profit reason for non-believers, and the world/mind/fear paragraph. New heading 'The lies about the hand' before the six lies. -->
+
+<!-- 2026-11-28 (James: make it a common theme: alone with the monster would be one thing, but you live in the devil's world, he wants you sedated, weak and pathetic, distracted not destroyed; the world, the devil and your own mind keep telling you to feed him). Light callback added here; others in The World's Lies, The World It Made, The Best Liar of All, Whose Voice Is That?, If You Slip (Fit for Service and The Devil's Data Scientists already carry it). -->

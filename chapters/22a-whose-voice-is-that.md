@@ -28,6 +28,7 @@ These lines aren't spells, and they aren't answers to the voice. It gets none. E
 6. "Boredom is not an emergency."
 7. "I'm tired. Tired men believe lies more easily. I'll go to bed."
 8. "I am forgiven. I don't have to earn it by being miserable."
+9. "This was never my idea. The world's been selling it to me since I was a boy, and it gets paid when I buy."
 
 None of this is a fight. You're letting something starve, and you can be cheerful while it does.
 
@@ -44,3 +45,5 @@ Your body, meanwhile, will do a few things nobody warned you about.
 <!-- 2026-11-23 FLOW PASS (book-wide): one pointer fixed: 'These' at the top of 'Lines for a hard moment' pointed at nothing before it. Nothing moved or cut. -->
 
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
+
+<!-- 2026-11-28 (James: make it a common theme: alone with the monster would be one thing, but you live in the devil's world, he wants you sedated, weak and pathetic, distracted not destroyed; the world, the devil and your own mind keep telling you to feed him). Light callback added here; others in The World's Lies, The World It Made, The Best Liar of All, Whose Voice Is That?, If You Slip (Fit for Service and The Devil's Data Scientists already carry it). -->

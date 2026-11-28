@@ -47,7 +47,7 @@ See that for what it is: the old lie in a holy costume. Brooding and self-punish
 
 If a slip has you shuffling around like a mourner at a funeral, remember the men on the forum who were trying not to drink bleach.
 
-If you slipped, the lesson is not "try harder". Somewhere you started believing again that the glass had something to offer. The world repeats its lies daily, so hearing the truth twice does no harm.
+If you slipped, the lesson is not "try harder". Somewhere you started believing again that the glass had something to offer. The world repeats its lies daily, and your enemy would like nothing better than to see you stay down. Hearing the truth twice does no harm.
 
 That is everything you need for yourself. The last job is for somebody else.
 
@@ -82,3 +82,5 @@ That is everything you need for yourself. The last job is for somebody else.
 <!-- 2026-11-23 FLOW PASS (book-wide): empty 'But' dropped from 'But the rule is strict, and the grace is real' (it claimed a contrast with 'The rule stands'). Nothing moved or cut. -->
 
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
+
+<!-- 2026-11-28 (James: make it a common theme: alone with the monster would be one thing, but you live in the devil's world, he wants you sedated, weak and pathetic, distracted not destroyed; the world, the devil and your own mind keep telling you to feed him). Light callback added here; others in The World's Lies, The World It Made, The Best Liar of All, Whose Voice Is That?, If You Slip (Fit for Service and The Devil's Data Scientists already carry it). -->
