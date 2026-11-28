@@ -40,7 +40,7 @@ Start with the loudest lies, the ones about masturbation. Your grandfather was t
 
 ![](images/illustrations/worlds-lies-pigs-eat-trash.png){.illustration width=80%}
 
-**"A man needs the release."** You need air, water and food. Skip those and you die. No man has ever died from going a week without it, on a camping trip or anywhere else.
+**"A man needs the release."** You need air, water and food. Skip those and you die. No man has ever died from going a week without it.
 
 **"It keeps you out of worse trouble."** It doesn't even work. Ask the men who quit porn but kept masturbating. The hand let the porn back in. And nowhere does the Bible tell a man to commit one sin to avoid another.
 
@@ -62,7 +62,7 @@ You'd expect the church to push back. Mostly it says nothing. A man can sit in a
 
 ## Two things to be fair about {-}
 
-Its defenders have two fair points, and I'll grant both.
+The habit's defenders have two fair points, and I'll grant both.
 
 First, the Bible never mentions masturbation by name. If you were hoping for a verse that says "you shall not", there isn't one, and this book won't pretend there is. But Jesus didn't need to name the act. He went behind it. In Matthew 5:28 he put the sin in the look and in the heart, and that's where masturbation lives. Ask yourself how often it's happened without lust, and you have your answer. The Catholic Church goes further. It teaches that the act is wrong in itself, because sex was made to join a husband and wife. Many Protestant pastors get to the same place through Jesus's words about the look.
 

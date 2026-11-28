@@ -55,7 +55,7 @@ Don't blame her for your reaction. She grew up in the same world you did. The sa
 
 Let's be fair the other way too. Some women do this on purpose, for money, and they know what it does to men. That's on them. It still doesn't make the man who keeps looking any less of a fool. You can't control her. You can control whether you pay her with your eyes.
 
-She's somebody's daughter. Somewhere there's a father who'd give anything for her to put the phone down. If you pray, pray for her. If you don't, at least don't feed it. Either way, scroll on.
+Somewhere there's a father who'd give anything for her to put the phone down. If you pray, pray for her. If you don't, at least don't feed it. Either way, scroll on.
 
 Notice what just happened. A minute ago she was material. Now she's a person, and a little bit of a sad one. The Big Monster can't survive that switch. Its whole pitch needs her to be a picture. Pity sees a girl in a bathroom who wants to be loved and is going about it all wrong.
 

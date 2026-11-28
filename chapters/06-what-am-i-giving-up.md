@@ -26,7 +26,7 @@ Picture yourself at a family gathering, slipping upstairs with your phone. If an
 
 ![](images/illustrations/giving-up-slipping-upstairs.png){.illustration width=80%}
 
-**"But I'd be giving up sex."** No. If you're married, you're about to get it back. The habit has been quietly spending, alone, what belongs to the two of you. C.S. Lewis, the Christian writer, drew a sharp line between wanting a woman and wanting a sensation. The man after the sensation, he said, "wants a pleasure for which a woman happens to be the necessary piece of apparatus." Masturbation cuts out even the apparatus. Ask the men who've stopped. One wrote that he'd gained a "stronger real sex drive without wanting an easy release like porn".
+**"But I'd be giving up sex."** No. If you're married, you're about to get it back. The habit has been quietly spending, alone, what belongs to the two of you. C.S. Lewis drew a sharp line between wanting a woman and wanting a sensation. The man after the sensation, he said, "wants a pleasure for which a woman happens to be the necessary piece of apparatus." Masturbation cuts out even the apparatus. Ask the men who've stopped. One wrote that he'd gained a "stronger real sex drive without wanting an easy release like porn".
 
 **"But I'm single. It's all I've got."** Then all you've got is a rehearsal for being alone. And look what it does about that. Every night it takes the edge off the loneliness that might have sent you looking for a wife. No wonder the loneliness never gets bad enough to move you.
 
@@ -56,7 +56,7 @@ The rash isn't the guilt, the bleary mornings, the wasted evenings, the distance
 
 The feeling you keep reaching to relieve is the hole, and the cream dug it. When you stop, the hole doesn't yawn open in front of you. It closes.
 
-A skeptic on a recovery forum, halfway through EasyPeasy, raised a fair objection. If you lost nothing, he said, nothing would change and you wouldn't notice anything. Of course something changes. The man with the rash loses his cream, and he notices. He also loses the itch, the scratching, the tube in every coat and the dread of running out. When this book says you give up nothing, it means nothing good. You lose a problem and its false cure, both at once.
+A skeptic on a recovery forum, halfway through an online book much like this one, raised a fair objection. If you lost nothing, he said, nothing would change and you wouldn't notice anything. Of course something changes. The man with the rash loses his cream, and he notices. He also loses the itch, the scratching, the tube in every coat and the dread of running out. When this book says you give up nothing, it means nothing good. You lose a problem and its false cure, both at once.
 
 Paul said the same of his own life, in his letter to the Philippians: "I consider those things that were gain to me as a loss for Christ." Paul had a list of credentials he'd once counted as profit. He didn't give them up through gritted teeth. He set them beside what he'd found, Christ himself, and moved all of it to the loss column. In the next verse he called them "refuse", meaning garbage, and that's the polite translation. No boasting about a sacrifice. He'd seen what that pile was worth.
 

@@ -44,7 +44,7 @@ Get this fixed in your mind: JUST ONCE DOES NOT EXIST. It's a chain, and each li
 
 ![](images/illustrations/just-once-the-chain.png){.illustration width=80%}
 
-The myth of the rare special occasion also keeps men moping after they've quit, like a man who's moved to a new house and keeps driving past the old one.
+The myth of the rare special occasion also keeps men moping after they've quit, like a man who's moved to a new town and keeps driving past his old address.
 
 ## One little look {-}
 
@@ -62,7 +62,7 @@ Here's how a man lets it ring.
 
 Never picture the single, harmless time. It's a fantasy in every sense. See the whole chain instead. Thousands of secret nights. Thousands of flat ten minutes afterward. A secret carried into every room you walk into, and the years of your strength poured down a drain. Why choose that, when you could be free?
 
-And when the voice comes, remember the four instructions. The first is said only once, at the end of this book, and then it's said for good. The other three are how it stays said. Give no reason. Don't let him down gently. Never answer again. You don't have to win the argument, because there isn't one. A man who's debating whether tonight is an exception has already picked up the phone.
+And when the voice comes, remember the four instructions. The first is said only once, and then it's said for good. The other three are how it stays said. Give no reason. Don't let him down gently. Never answer again. You don't have to win the argument, because there isn't one. A man who's debating whether tonight is an exception has already picked up the phone.
 
 A man who got out called the whole business "just a poisoned cookie." That's the difference between the two methods. The willpower man stands in front of the cookie, telling himself not to take it. You've seen it's poisoned. You don't have to resist it. You just don't eat it.
 

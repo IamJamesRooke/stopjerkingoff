@@ -4,7 +4,7 @@
 >
 > — Ephesians 4:19
 
-In the 1990s Procter & Gamble, the company behind Tide and Pampers, made a spray that wiped out bad smells. It was built to destroy smells, not just cover them up. The company was sure it would sell like crazy.
+Here's how a whole world gets used to a smell. In the 1990s Procter & Gamble, the company behind Tide and Pampers, made a spray that wiped out bad smells. It was built to destroy smells, not just cover them up. The company was sure it would sell like crazy.
 
 It didn't sell.
 
@@ -31,7 +31,7 @@ You don't smell it. Most of us don't. That's not because the house is clean. It'
 
 ## Past feeling {-}
 
-The Bible has a word for this. Paul, the first-century apostle who wrote much of the New Testament, describes people who "having become callous, gave themselves up to lust." The old King James Bible puts it more sharply: they were "past feeling."
+The Bible has a word for this. Paul describes people who "having become callous, gave themselves up to lust." The old King James Bible puts it more sharply: they were "past feeling."
 
 A callus is hard, thick skin that's been rubbed so often it can't feel anything. That's handy on a carpenter's palm. It's a disaster on a conscience.
 
@@ -79,7 +79,7 @@ Here's the good news, and it's very good.
 
 Walk out of a smelly house for a weekend, and come back. The smell hits you at the door. Your nose wasn't broken. It was only asleep.
 
-The same thing happens to a man who stops feeding the Little Monster. He's the pathetic little freeloader in the back room upstairs, who bangs on the floor until you carry up his dinner. Stop the meals, and something strange happens downstairs too. Your nose comes back.
+The same thing happens to a man who stops feeding the Little Monster. He's the one banging on the floor until you carry up his dinner. Stop the meals, and something strange happens downstairs too. Your nose comes back.
 
 Many men who quit say it surprised them. The billboard they never noticed now looks loud and strange. The music video looks desperate. The show they used to have on in the background makes them reach for the remote. One woman who gave up porn wrote that she hadn't realized how much of it was all around her, until she stopped.
 

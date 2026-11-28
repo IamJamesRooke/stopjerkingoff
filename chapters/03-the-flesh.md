@@ -18,13 +18,13 @@ That goes for a lot more than sex. Name any sin you like, and dig under it. You'
 
 ## What bends it {-}
 
-Paul, the apostle who wrote much of the New Testament, had a name for what does the bending. He called it "the flesh". He wrote that it "lusts against the Spirit", meaning God's own Spirit at work in a man.
+Paul had a name for what does the bending. He called it "the flesh". He wrote that it "lusts against the Spirit", meaning God's own Spirit at work in a man.
 
 He doesn't mean your skin. He means the part of a man that wants what it wants, now, for itself, whatever it costs. If you're not a believer, call it appetite. Either way, you've met it.
 
 The flesh never invents a thing. It's got nothing of its own to work with. All it can do is grab something good and twist it. More. Now. For me.
 
-Augustine saw this sixteen hundred years ago. The young man who once prayed "only not yet" ended up a bishop, after a youth spent chasing women and chasing applause. He said being good comes down to loving things in the right order.
+Augustine saw this too. The young man who once prayed "only not yet" ended up a bishop, after a youth spent chasing women and chasing applause. He said being good comes down to loving things in the right order.
 
 Sin, then, isn't loving something bad. It's loving something good in the wrong place.
 

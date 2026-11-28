@@ -6,7 +6,7 @@
 
 When do you stop?
 
-The book's already set the day. You stop at the final step, near the end. Until then, no vow and no streak. If you've already stopped, stay stopped. You're not choosing a date. You're getting ready for one.
+The book's already set the day. You stop at the final step, and not before. Until then, no vow and no streak. If you've already stopped, stay stopped. You're not choosing a date. You're getting ready for one.
 
 You've hauled this a long time, and probably told nobody. It deserves a proper ending, on a day you saw coming.
 
@@ -25,7 +25,7 @@ The book of Ecclesiastes has a line for the man who waits for perfect weather: "
 ## Three questions about when {-}
 
 1. The first time you did it, as a boy, did you decide to keep going for life, with no way out? Of course not.
-2. Are you going to keep it up until you die? At sixty? At seventy-five, a grandfather waiting for the house to empty? Of course not.
+2. Are you going to keep it up until you die? At sixty? At seventy-five, a grandfather waiting for the grandkids to go home? Of course not.
 3. Then when will you stop?
 
 You've been asking that third question since the day you found you couldn't leave it alone. The answer was always some better week, and the better week never shows up.
@@ -34,11 +34,11 @@ It won't be easier next year. It'll be the same job with another year of rut wor
 
 ## See the weeks coming {-}
 
-One piece of getting ready is worth doing now. Look at the three weeks after you expect to reach the final step. A business trip alone? Your wife visiting her mother? Finals, a deadline, a week of takeout in an empty house?
+One piece of getting ready is worth doing now. Look at the three weeks after you expect to reach the final step. A business trip alone? Your wife visiting her mother? Finals, a deadline, a week of takeout in an empty apartment?
 
 None of it has to put you off. You just need to see it coming. The man who expects the quiet hotel room, and knows he's missing nothing in it, strolls straight through.
 
-So the time is the day you reach the final step, whatever kind of week that turns out to be. Paul wrote to the church at Corinth, "Behold, now is the acceptable time."
+So the time is the day you reach the final step, whatever kind of week that turns out to be. That's what Paul meant by "now": the day you've set, not some better week.
 
 That leaves the fear under all the others. Once the habit's gone, will you miss it?
 

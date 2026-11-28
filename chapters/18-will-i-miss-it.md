@@ -14,7 +14,7 @@ Nobody warns you about this one. The things that used to pull at you start to lo
 
 ## The one danger left {-}
 
-There's only one real danger left, and it's other men.
+The one danger left from outside is other men.
 
 The world never stops telling a free man he's the odd one. Sitcoms treat the habit as a harmless joke and experts call it healthy. Then one Sunday you're alone in a quiet apartment, a little low, and the thought arrives: *Everyone else gets to. Why not me?*
 

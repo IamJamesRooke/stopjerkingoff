@@ -4,7 +4,7 @@
 >
 > — Ephesians 5:11
 
-Now for the way out. It starts with the one thing every room in the house had in common.
+Now for the way out. It starts with that locked door.
 
 The first week you masturbated as a boy, you locked the door. Nobody taught you to hide it.
 
@@ -26,7 +26,7 @@ There's nothing on the screen. He cleared it an hour ago, as he clears it every 
 
 She hands the phone back and says it's nearly ten. He says he might stay up a while.
 
-Nothing happened, and nobody was caught. But for one minute he was a sentry on watch in his own house. He pulls that shift twenty times a day, and he's pulled it for fifteen years. He no longer notices it's work.
+Nothing happened, and nobody was caught. But for one minute he was a sentry on watch in his own living room. He pulls that shift twenty times a day, and he's pulled it for fifteen years. He no longer notices it's work.
 
 ![](images/illustrations/locked-door-sentry.png){.illustration width=80%}
 
@@ -60,7 +60,7 @@ Paul wrote to the Christians in the city of Ephesus, "Have no fellowship with th
 
 In the dark this habit looks big, and it looks like yours alone. In the light it's a small, dull thing that millions of men do, for no gain at all.
 
-You've been bringing it into the light since the first line of this book. Every chapter has dragged one more piece of it out and held it up to the lamp. That's why it's shrinking.
+You're already bringing it into the light, one piece at a time. That's why it's shrinking.
 
 ## Say it aloud {-}
 

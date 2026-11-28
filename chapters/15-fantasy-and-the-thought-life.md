@@ -42,7 +42,7 @@ So look once more at the man who quit porn and kept the feed. He's still standin
 
 AND HE CALLS IT BEING FREE!
 
-Same question as the other rooms. Has the feed ever given you anything but the itch for the next swipe? If not, there's nothing in this room, and the door is shut.
+Same question again. Has the feed ever given you anything but the itch for the next swipe? If not, there's nothing in this room, and the door is shut.
 
 Take the phone away and the excuse only changes. There's a film in a man's own head. "Fine. No scroll. But what goes on in my own head is nobody's business. A thought isn't cheating."
 

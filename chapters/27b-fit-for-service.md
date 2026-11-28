@@ -18,7 +18,7 @@ None of that is an excuse. The apostle James won't let a man say the devil made 
 
 Think what that says about you. Nobody bothers to distract a man who doesn't matter. You were worth taking out of the fight.
 
-It worked on a king. David saw a woman from his roof, took her, and had her husband Uriah killed to hide it. Uriah slept at the palace door, drunk, and was still fit for service. David, sober, was no use to anybody.
+It worked on a king. David took another man's wife and had her husband Uriah killed to hide it. Uriah slept at the palace door, drunk, and was still fit for service. David, sober, was no use to anybody.
 
 ## The deal he turned down {-}
 
@@ -40,7 +40,7 @@ Plenty of faiths honor the man who dies for what he believes, and Christianity i
 
 Jesus showed both. He hung on the cross for about six hours, from the third hour of the day to the ninth. Once he was nailed there, there was no tapping out. But before the cross came the days nobody paints: forty days hungry in the desert, and some thirty years of plain work and plain days before that.
 
-Paul says he didn't cling to his rights as God. He took the form of a servant and was made like us. He stayed who he was, and he took on our limits: hunger, tiredness, temptation, all of it. Then he walked through them and showed how it's done.
+Paul says Jesus didn't cling to his rights as God. He took the form of a servant and was made like us. He stayed who he was, and he took on our limits: hunger, tiredness, temptation, all of it. Then he walked through them and showed how it's done.
 
 That's what's asked of you. Not one heroic night. The next ordinary evening, and the one after it, lived on purpose.
 

@@ -80,7 +80,7 @@ A free man can like a woman, tell her so plainly, and get on with his day while 
 
 This part isn't for every reader. But maybe a woman has told you no, and you're still writing to her.
 
-Think of the woman with the caller who wouldn't stop. She was told to say no once and outright, to give no reason, not to let him down gently, and never to answer again. Now hear that list from the other side.
+A woman who wants a man to stop calling is usually told to say no once and outright, to give no reason, not to let him down gently, and never to answer again. Now hear that advice from the other side.
 
 She may never have said the word. Many women don't. They want to be kind, or polite, or they're a little afraid of how you'll take it. So her no comes as a slow reply, then "I'm busy this week", then silence. Don't wait to hear it outright. A woman who wants to hear from you makes that easy to tell. If you have to wonder, she's answered.
 

@@ -30,7 +30,7 @@ That's how this ends too. Not with a grown man white-knuckling his way past the 
 
 ## Childish things {-}
 
-The apostle Paul, writing to the church in the Greek city of Corinth, put it in one line: "When I was a child, I spoke as a child, I felt as a child, I thought as a child. Now that I have become a man, I have put away childish things."
+Paul, writing to the church in the Greek city of Corinth, put it in one line: "When I was a child, I spoke as a child, I felt as a child, I thought as a child. Now that I have become a man, I have put away childish things."
 
 He didn't say he fought them off. He didn't say he locked them up and stood guard. He put them away, the way a man boxes up his old toys, because he's outgrown them.
 

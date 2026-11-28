@@ -72,7 +72,7 @@ You don't have to take that from a church. In 2022 a British journalist named Lo
 
 ## The door {-}
 
-The terms at this door are the same as at the others, with one difference. Nobody's asking for a vow, and nobody's counting. But this room has another person in it. You make a choice about her each time, and you can stop making it tonight.
+The terms at this door are the usual ones, with one difference. Nobody's asking for a vow, and nobody's counting. But this room has another person in it. You make a choice about her each time, and you can stop making it tonight.
 
 Nobody ends hookup culture by complaining about it. A man ends it one bed at a time, starting with his own.
 

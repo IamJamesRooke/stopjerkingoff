@@ -12,7 +12,7 @@ He told it as a warning to the crowd in front of him. But nobody has drawn a bet
 
 You don't have to believe in spirits to know that house. Nobody's telling you that you have one. You know the house because you've lived in it.
 
-## The house is you {-}
+## The house is your head {-}
 
 You've swept it clean more than once. Maybe one of these is yours.
 

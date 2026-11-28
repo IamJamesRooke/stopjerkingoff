@@ -24,7 +24,7 @@ Don't hear a clenched jaw in that. A no costs nothing when there's nothing you w
 
 You were made for something, and this book is about getting you fit for it.
 
-None of this is new. Three thousand years ago, lust tore apart the house of a king no army could beat.
+None of this is new. Three thousand years ago, lust tore apart the family of a king no army could beat.
 
 <!-- 2026-11-20 structure pass (James: bite-sized chapters with hook endings; material unchanged, only split and moved). Split out of index.Rmd; the source notes for everything here are in that file. -->
 

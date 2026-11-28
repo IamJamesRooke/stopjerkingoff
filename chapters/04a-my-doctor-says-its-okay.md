@@ -2,7 +2,7 @@
 
 "Doctors say it's healthy." Of all the world's lies, that one sounds the most like a fact. It comes with a white coat.
 
-Medicine does say the habit won't hurt your body. Take that as true. Now look at the rest of what gets said in the doctor's name.
+Take the medical part as true. Now look at the rest of what gets said in the doctor's name.
 
 ## Which experts? {-}
 
@@ -12,9 +12,9 @@ The experts don't even agree among themselves. The manual American psychiatrists
 
 Then ask whose life is backing the advice. Picture a man who finally tells a counselor about his habit. The counselor tells him it's not really that bad. A few sessions later, the counselor is cheering on his idea of a threesome with his girlfriend. Is that medicine? Or is it somebody feeding the same monster, telling him what they tell themselves?
 
-Experts are people. They live in the same world and hear the same pitch. A white coat doesn't keep the Little Monster out. In a 1979 national survey of American psychotherapists, twelve in a hundred of the men admitted sexual contact with their own clients, something their own profession forbids. And a verdict on what's right and wrong is an opinion, even when a doctor gives it. It isn't a lab result.
+Experts are people. They live in the same world and hear the same pitch. A white coat doesn't keep the Little Monster out. In a 1977 national survey of American psychologists, about twelve in a hundred of the men admitted sexual contact with their own patients, something their own profession forbids. And a verdict on what's right and wrong is an opinion, even when a doctor gives it. It isn't a lab result.
 
-At least Dr. Scratchmore wears a sign. Plenty of counselors help men get free, and if you need one, go find one. Just pick one whose life matches the advice.
+At least Dr. Scratchmore's name gives him away. Plenty of counselors help men get free, and if you need one, go find one. Just pick one whose life matches the advice.
 
 ## Not holier than thou {-}
 

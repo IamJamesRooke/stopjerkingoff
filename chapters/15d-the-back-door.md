@@ -6,7 +6,7 @@
 
 "Fine. No porn. But the hand on its own is natural."
 
-That's the knock from the second room, and nearly every man has stood in it. The hand and the orgasm, no screen. The forums write it MO, and men think of it as the mild dose. Plenty of them read every page so far and quietly filed it under porn. The screen was the problem, they figure, not the hand. So a man quits porn and he's proud of it. For the women on the screen, that's a real change. Nobody's being used for him now. For him, nothing has changed. He keeps the hand, the way a man gives up whiskey and keeps the beer.
+That's the knock from the second room, and nearly every man has stood in it. The hand and the orgasm, no screen. The forums write it MO, and men think of it as the mild dose. Plenty of them read every page so far and quietly filed it under porn. The screen was the problem, they figure, not the hand. So a man quits porn and he's proud of it. For him, nothing has changed. He keeps the hand, the way a man gives up whiskey and keeps the beer.
 
 He says it like this. "I'm jerking off, but at least I'm not watching porn."
 
@@ -14,7 +14,7 @@ Listen to that sentence. Nobody says "at least" about a thing he's glad of. He s
 
 What changed upstairs? Nothing. The Little Monster got his dinner. He can't tell a banquet from a sandwich, and he'll bang just as loud tomorrow. Men call it mild. A drunk on beer is still a drunk.
 
-The hand needs no screen, no woman and no money. Just a man alone for five minutes. It was the first thing lust ever borrowed from most men, and they figure it'll be the last to go.
+The hand needs no screen, no woman and no money. Just a man alone for five minutes. It was the first thing the habit ever took from most men, and they figure it'll be the last to go.
 
 Its lie is different from the screen's. The screen says, "This is exciting." The hand says, "This is nothing." Natural. Free. Nobody gets hurt. Maintenance, like trimming your nails.
 
@@ -24,7 +24,7 @@ One man quit porn twice, and went back twice. Both times, he said, masturbation 
 
 Not hard to see how. The hand never works alone. Something's always playing while it happens. A memory, a face from the feed, a woman from the elevator. The hand is where the look and the thought turn into the act. For the man who quit porn, the film is usually porn.
 
-Men have a name for the pictures stored in the head for this. The spank bank. A man who draws on it is still watching porn. He's just moved the screen inside his skull. It's the same thing, made at home. Think of a cigarette a man rolls himself, beside one from a factory. The factory one was built by people paid to hook him faster. Both are tobacco, and his lungs can't tell which is which.
+Men have a name for the pictures stored in the head for this. The spank bank. A man who draws on it is still watching porn. He's just moved the screen inside his skull. It's the same thing, made at home.
 
 
 And a memory wears thin. So the hand goes shopping for a stronger film, and it knows exactly where that film is kept. The man bolted the front door and left the back door wide open. Now he's shocked to find the same old pest in his kitchen.

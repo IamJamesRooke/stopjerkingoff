@@ -40,7 +40,7 @@ There's a woman on that screen. You can't know how she got there, or how old she
 
 That's the first room, and you've looked inside it.
 
-Nobody's asking you for a vow, and no one is counting days. The one No at the end of the book covers the whole house. It'll be easy, because by then every door is shut. A door like this doesn't shut by force. It shuts when you've seen there's nothing in the room you want. If you've seen it, it's shut already.
+Nobody's asking you for a vow, and no one is counting days. The one No you'll say covers the whole house. It'll be easy, because by then every door is shut. A door like this doesn't shut by force. It shuts when you've seen there's nothing in the room you want. If you've seen it, it's shut already.
 
 A man who shuts this door has stopped paying that trade. Nobody on a screen is being used for him any longer. That's good for them. It's done nothing yet for him.
 

@@ -34,7 +34,7 @@ And it's not an empty road.
 
 **Company.** You'll miss being touched. Say so plainly. It's no small thing, and it's not the itch. But the old nights never cured it. A hookup gave you skin, and you drove home lonelier than you came. What you were short of is people who know you. Those are made in daylight, with your clothes on. A brother, two old friends, a table where you eat every Thursday. A softball team, a church or a club, and kids who call you uncle. The habit ate the evenings those take.
 
-**Use.** A man with no wife has something a husband lacks. His time and his strength belong to nobody yet. Paul, the apostle who wrote much of the New Testament, was unmarried. He wrote that an unmarried man is free to give his whole mind to his work for God. Believer or not, the point holds. That strength was built to be spent on something, and a tissue isn't something.
+**Use.** A man with no wife has something a husband lacks. His time and his strength belong to nobody yet. Paul was unmarried. He wrote that an unmarried man is free to give his whole mind to his work for God. Believer or not, the point holds. That strength was built to be spent on something, and a tissue isn't something.
 
 ## Thirty years {-}
 

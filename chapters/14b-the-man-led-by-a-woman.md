@@ -82,7 +82,7 @@ That freedom matters most at home, with his wife.
 
 There's a husband who gives in on everything and never says a hard word. It looks like kindness. It's fear. He wants her, and he's scared one honest sentence will cost him. Sometimes a wife knows that and uses it. Far more often she has no idea, and just wonders why he never says what he thinks. Either way, he can't change her. He can change whether the lever works.
 
-Sex isn't the only lever in a marriage. The law hands a wife a second one, and many husbands keep quiet because of it. That lever is real, and it gets its turn.
+Sex isn't the only lever in a marriage. The law hands a wife a second one, and many husbands keep quiet because of it. That lever is real.
 
 Now take the husband whose lust no longer runs him. He can say, quite calmly, "That isn't right, and I won't go along with it." He isn't cold, and he isn't punishing her. He still loves her and still wants her. But he can't be bought with sex or starved without it, so he's free to tell her the truth. That's better for her too. She can trust his yes, because he can say no.
 

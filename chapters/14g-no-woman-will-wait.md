@@ -8,7 +8,7 @@ Start with who leaves. Some women will. Tell a woman on the third date you're ke
 
 Now look at who stays. She's heard a man say he wants her and he can wait for her. Very few men have said both. It doesn't prove he'll stay. It shows her his wanting doesn't run him.
 
-And look at the way you're afraid to lose. What has your wanting picked for you, year after year? Women who'd sleep with a man who'd promised nothing. And it picked you for them, a man who'd take the night and be gone by breakfast. You know how those ended. You've got the record.
+And look at what you're afraid to lose. What has your wanting picked for you, year after year? Women who'd sleep with a man who'd promised nothing. And it picked you for them, a man who'd take the night and be gone by breakfast. You know how those ended. You've got the record.
 
 The old way doesn't find a wife faster. It stuffs the years with nights, so a man never notices he isn't looking.
 

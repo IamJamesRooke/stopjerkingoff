@@ -24,11 +24,11 @@ And if you feel like crying, cry. We teach boys to clench their jaws and swallow
 
 One serious word. What you feel may be darker than a bad day. If you find yourself thinking about harming yourself, put this book down and talk to someone today: a doctor, a pastor, a crisis line. That isn't the Little Monster, and no book is the right tool for it.
 
-One more, said as gently as I know how. For some men this habit didn't begin with curiosity. It began with something done to them as children. One therapist was abused himself. He says most of the men who come to him were too, and most have never told a soul. If that's your story, hear two things. What was done to you was not your sin. And telling someone trained in trauma is part of getting free. This book can clear away the lies about the habit, but it can't do that work for you. The Appendix says where to start.
+One more, said as gently as I know how. For some men this habit didn't begin with curiosity. It began with something done to them as children. One therapist was abused himself. He says most of the men who come to him were too, and most have never told a soul. If that's your story, hear two things. What was done to you was not your sin. And telling someone trained in trauma is part of getting free. This book can clear away the lies about the habit, but it can't do that work for you. A counselor trained in trauma is the place to start.
 
 ## 3. Not following the rules {-}
 
-A man says the method didn't work. Then he describes ignoring nearly every page. He cut down, kept the folder, skipped the final step and counted days. The rules are gathered on one page near the end of this book, so nobody can say he wasn't told.
+A man says the method didn't work. Then he describes ignoring nearly every page. He cut down, kept the folder, skipped the final step and counted days. The rules fit on one page, so nobody can say he wasn't told.
 
 ## 4. Misunderstanding the rules {-}
 
@@ -44,7 +44,7 @@ If a twinge comes and you're a praying man, pray. One man wrote that whenever he
 
 **"I still want it."**
 
-Then ask who's talking. A twinge is not a wish. The Little Monster is thumping for his dinner, and you don't want what comes after. But if you really do believe there's still something in it for you, one of the old lies is still standing. No shame in that. Find which one, and read that chapter again.
+Then ask who's talking. A twinge is not a wish. The Little Monster is thumping for his dinner, and you don't want what comes after. But if you really do believe there's still something in it for you, one of the old lies is still standing. No shame in that. Find which one, and go through it again slowly.
 
 **"I'm miserable and irritable."**
 
@@ -58,7 +58,7 @@ This book has nothing against sex. It's against the counterfeit.
 
 You already know where the line is. Sex belongs inside marriage. The letter to the Hebrews, in the New Testament, says, "Let marriage be held in honor among all, and let the bed be undefiled". That isn't because sex is dirty. It's because sex is strong. It ties two people together, and lust wants the tie without the promise. Within marriage, sex is a gift both give freely, never one to demand. A married man who's stopped the habit brings his wife the whole of himself.
 
-If you're not a believer, the test in your pocket gives the same answer. A gift, inside a promise already made? Or a hit?
+If you're not a believer, the gift-or-hit test gives the same answer. A gift, inside a promise already made? Or a hit?
 
 **"I'm single."**
 

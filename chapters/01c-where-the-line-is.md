@@ -20,13 +20,13 @@ That leaves the bed, and the test is hardest there. She's in it too, and she may
 
 The Bible drew the line in the same place three thousand years ago. Sex belongs inside marriage. The book of Proverbs says it the way a father would say it to his son: "Drink water out of your own cistern, and running water out of your own well." Inside a marriage, sex is a gift. A husband and wife who give themselves to each other are on the right side of the line. The screen, the hand, the private film of another woman, the chase and any bed outside marriage are on the other side.
 
-Count the doses once more. Porn plus the hand plus the orgasm was the strong one. The hand and the orgasm were the same drug with the screen taken away, and the hold was no weaker. Take both away, and the wanting of the orgasm was still there, banging for a feed, a daydream or a bed. One drug all along.
+Think of it as one drug in two strengths. Porn with the hand was the strong one. The hand without the screen was the same drug, and the hold was no weaker. Take both away, and the wanting of the orgasm was still there, banging for a feed, a daydream or a bed. One drug all along.
 
 But it was only ever a drug outside the promise. Inside the promise the same thing is a gift, and it's for one person.
 
-You may be single, past forty, and unsure you'll ever marry. Then the line seems to offer you nothing but an empty plate. That man gets a full answer before this walk is over.
+You may be single, past forty, and unsure you'll ever marry. Then the line seems to offer you nothing but an empty plate. That's a fair worry, and it gets a straight answer.
 
-Or you may think marriage itself is a rigged deal for a man. That charge gets a full hearing too, with the numbers.
+Or you may think marriage itself is a rigged deal for a man. That's a fair charge too, and it can be checked against the numbers.
 
 You don't have to accept the line yet to keep reading. Keep the test in your pocket and try it on your own life.
 

@@ -34,9 +34,9 @@ None of that is in your head. A man who's watched it happen is right to check th
 
 One man lost that bet, and the habit helped him lose it.
 
-The divorce made him hate women. He went red pill. He saw women in the state of nature as amoral, and ready to trade up. The instant he was no longer useful, he was gone.
+The divorce made him hate women. He went red pill, with the crowd online that says women only use men. He decided that women, left to themselves, have no loyalty and will trade a man in for a better one. The instant he was no longer useful, he was gone.
 
-He saw women like his stomach. He has fed it every day of his life. It doesn't care. It asks what he fed it lately.
+He came to see women like hunger. It doesn't thank you for yesterday's meal. It only asks what you've fed it lately.
 
 He won't tell you that was all wrong. A lot of it is still true. Being with modern women was a nightmare, and he lived it.
 
@@ -44,7 +44,7 @@ But hating them fixes nothing, he says, and he's no angel himself.
 
 So what holds a vow? Two people alone don't, he says. "Till death do us part" needs a church and a community behind it. No leaving. Ever.
 
-Even then there's a risk. Plenty of Christian wives find that the Holy Spirit wants them divorced and happy.
+Even then there's a risk. Even in church, he says, plenty of wives decide God wants them divorced and happy.
 
 He hasn't figured it all out. He's making the same bet again, knowing all of this.
 

@@ -10,7 +10,7 @@ You're sitting in it and the telephone rings. Same telephone the caller always u
 
 Notice two things. First, the ringing has no power. A bell is a noise in the air, and a noise can't lift a man out of a chair. It only moved you because you'd gotten in the habit of obeying it. Second, not answering takes no effort. You're not wrestling the phone. You're doing nothing, and doing it comfortably.
 
-Every cue you'll meet is that telephone. The empty house. The photo in the feed. The hotel room on a work trip. The bad day. A message from a woman you'd sworn off. Let it ring. It will stop, usually sooner than you'd think. An itch you don't scratch for a few seconds starts to fade on its own.
+Every cue you'll meet is that telephone. The empty apartment. The photo in the feed. The hotel room on a work trip. The bad day. A message from a woman you'd sworn off. Let it ring. It will stop, usually sooner than you'd think. An itch you don't scratch for a few seconds starts to fade on its own.
 
 The caller gets four answers, and you've given the first: you said it once, and you said it outright. The other three keep it said. Give no reason. Don't let him down gently. Never answer again.
 
@@ -40,13 +40,13 @@ It doesn't work like that. Stopping the habit is easy. Controlling it is impossi
 
 **Don't fall for that.**
 
-However long you've been free, and however sure you are that nothing can catch you again, keep one rule for life. Not once, for any reason. Not on a lonely anniversary, not "to help me sleep", not "just to see". The Little Monster starves and stops calling. Years from now, on some quiet evening, drying a dish, an old thought may drift past. It's like reaching for the light switch in a house you moved out of long ago. Nothing's behind it. It's only the memory of a call. Notice it, smile, and don't pick up. "Just once" is the one thing that could put the Little Monster back in the room.
+However long you've been free, and however sure you are that nothing can catch you again, keep one rule for life. Not once, for any reason. Not on a lonely anniversary, not "to help me sleep", not "just to see". The Little Monster starves and stops calling. Years from now, on some quiet evening, drying a dish, an old thought may drift past. It's like reaching for the light switch in an old apartment you moved out of long ago. Nothing's behind it. It's only the memory of a call. Notice it, smile, and don't pick up. "Just once" is the one thing that could put the Little Monster back in the room.
 
 ![](images/illustrations/ring-drying-dish.png){.illustration width=80%}
 
 The rule is strict, and the grace is real. A man who falls confesses it that day, refuses the second one, and gets up. Don't plan on needing that.
 
-Paul once wrote to people who were already free: "Stand firm therefore in the liberty by which Christ has made us free, and don't be entangled again with a yoke of bondage." He didn't tell them to try to get free. He told them to stand firm in the freedom they had.
+That's why Paul told people who were already free to stand firm. He didn't tell them to try to get free. He told them to hold on to the freedom they had.
 
 You're free, so stand firm.
 

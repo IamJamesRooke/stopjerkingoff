@@ -76,7 +76,7 @@ The second man was a tax collector, a man everyone despised. He compared himself
 
 There aren't really any types. There's one trap, and men are standing at different depths in it. The way out is the same for all of them.
 
-Every one of these men is feeding the same small monster. And every "at least" is a room he hasn't opened yet.
+Every one of these men is feeding the same Little Monster. And every "at least" is a room he hasn't opened yet.
 
 ## One hit, three strengths {-}
 

@@ -15,7 +15,7 @@ The rules came off. Every man now carries more naked women in his pocket than a 
 
 ## What this does not prove {-}
 
-Don't oversell those numbers. The researchers behind them don't blame porn. They point to money, later marriage, and screens of every kind. One study even found that men who watch porn were more likely to be having sex, not less. Some men would add the divorce courts, and they have a case. A man who watched a friend lose his house and his children is no fool. That argument gets its turn before the book is done.
+Don't oversell those numbers. The researchers behind them don't blame porn. They point to money, later marriage, and screens of every kind. One study even found that men who watch porn were more likely to be having sex, not less. Some men would add the divorce courts, and they have a case. A man who watched a friend lose his house and his children is no fool. 
 
 So this book won't tell you porn emptied the bedrooms. It can't prove that, and neither can anyone else.
 

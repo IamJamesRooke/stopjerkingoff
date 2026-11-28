@@ -14,7 +14,7 @@ From now on, treat every word in favor of the habit like a salesman with his foo
 
 ![](images/illustrations/best-liar-foot-in-the-door.png){.illustration width=80%}
 
-That goes for "you need it" and "it's who you are". It goes for the safe version too. "Only in the shower", "only without a screen" and "only on weekends" are all the Big Monster, bargaining for the little one's dinner. Keep asking yourself two questions. "Why am I doing this? Do I actually need to?"
+That goes for "you need it" and "it's who you are". It goes for the safe version too. "Only in the shower", "only without a screen" and "only on weekends" are all the Big Monster, bargaining for the Little Monster's dinner. Keep asking yourself two questions. "Why am I doing this? Do I actually need to?"
 
 Of course you don't.
 

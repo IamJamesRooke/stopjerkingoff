@@ -7,7 +7,7 @@
 For a few weeks after you stop, you may feel an occasional urge. Urges come in two kinds, and most of the misery of the Willpower Method comes from mixing them up.
 
 1. **The leftover itch.** This is the Little Monster going hungry: a faint, empty, restless feeling, a sense that there's something you ought to be doing.
-2. **The cue triggers.** These are the times and places you've wired to the habit. The bed, the shower, the empty house and the phone in the dark are on the list. So are the app you used to open and a message from a woman you shouldn't be writing to.
+2. **The cue triggers.** These are the times and places you've wired to the habit. The bed, the shower, the empty home and the phone in the dark are on the list. So are the app you used to open and a message from a woman you shouldn't be writing to.
 
 ## The man on the couch, week one {-}
 
@@ -23,7 +23,7 @@ Wednesday he wakes up hard, and the old thought arrives with the alarm. He gets 
 
 Thursday is a bad day at work, the kind he used to carry home and settle behind a locked door. He carries it home. At eleven it's still a bad day, and no worse than it would've been. He goes to bed annoyed and wakes up fine, with nothing to delete.
 
-Friday his wife takes the children to her mother's, and the house goes quiet at eight. For fifteen years that quiet was a starting gun. He puts on a film. He notices the empty house at ten, when the film ends and he gets up to lock the door.
+Friday his wife takes the children to her mother's, and the place goes quiet at eight. For fifteen years that quiet was a starting gun. He puts on a film. He notices it at ten, when the film ends and he gets up to lock the door.
 
 Saturday the bell rings in the shower for a minute or two, fainter, like a caller who already expects no answer. On Sunday he can't remember whether it rang.
 

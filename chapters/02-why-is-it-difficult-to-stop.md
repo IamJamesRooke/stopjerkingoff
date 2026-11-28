@@ -56,7 +56,7 @@ Why? What makes it hard? Men give three answers.
 
 ![](images/illustrations/difficult-dentist-waiting-room.png){.illustration width=80%}
 
-**"A man's body needs it."** Pressure builds, they say, and it has to go somewhere. But your body has its own way to let off pressure, in your sleep, and it did that long before your hand got involved. It still knows how. You've gone days without, on a camping trip or a week on the sofa bed at your wife's parents' house, and nothing burst.
+**"A man's body needs it."** Pressure builds, they say, and it has to go somewhere. But your body has its own way to let off pressure, in your sleep, and it did that long before your hand got involved. It still knows how. You've gone days without, and nothing burst.
 
 **"I simply enjoy it."** A man can enjoy barbecue ribs. He doesn't need them every night behind a locked door. He doesn't panic at the thought of a week without them. We enjoy what we like while it lasts, and we don't sit around feeling robbed in between.
 

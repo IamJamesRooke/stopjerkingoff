@@ -62,13 +62,13 @@ So her paycheck isn't the danger. The danger is two people who signed up for one
 
 Her record counts, the same as yours. Has she kept her word when it cost her? Does she own her part when she tells you about the men before you?
 
-Now think again about the friends who were cleaned out, and ask how each of them chose. Some chose well and were wronged anyway. That happens, and it's a real injustice. How many chose with the bed? Beauty can blind a man, and a blind man signs anything.
+Now think again about the friends who were cleaned out, and ask how each of them chose. Some chose well and were wronged anyway. That happens, and it's a real injustice. How many chose with the bed?
 
 A careful man can't bring the risk to zero. He can do what he does with any large bet. He learns the odds, he picks his table, and he doesn't play drunk.
 
 Lust is the drink.
 
-Every door on this walk so far has been one to shut. The next one opens.
+That's the last of the easier lines. What's left is to see what the line was keeping for you.
 
 <!-- 2026-11-22 NEW CHAPTER after the skeptic read (James's test reader: an atheist who thinks marriage is rigged against men; James: 'This IS true. But try and get it so, by the end, he agrees'). Answers 'I'll have the woman without the contract'. Full notes and limits in research/divorce-dossier-2026-11-22.md. CHECK EACH FIGURE AGAINST ITS PAGE BEFORE PRINT. Sources: no gap among the unmarried: Rosenfeld, 'Who wants the Breakup?' (cohabiting 56%, dating 53%, neither distinguishable from half). Prenups: Arizona Revised Statutes 25-203(B) (follows the Uniform Premarital Agreement Act); American Bar Association, 1 May 2023. Never-married men: Lin and Brown, The Gerontologist, 2012 (2009 American Community Survey, baby boomers aged 45-63: never-married men 20.2% in poverty, 73.0% living alone; married boomers of both sexes 4.2% in poverty), https://pmc.ncbi.nlm.nih.gov/articles/PMC3304891 . Odds: CDC/NCHS, National Health Statistics Reports no. 49, 2012 (National Survey of Family Growth 2006-2010; men married at 25 or over 76% intact at ten years, under 20, 48%; first child 8 or more months after the wedding 74% intact at twenty years, before the marriage 43%; lived together unengaged 49% against 60%), https://www.cdc.gov/nchs/data/nhsr/nhsr049.pdf . Work: Killewald, American Sociological Review, 2016 (3.3% against 2.5% a year). 'A blind man signs anything' calls back to Mothers, Sisters, Daughters. The closing hook was the last paragraph of If You Never Marry. -->
 

@@ -33,7 +33,7 @@ Every "just once" is you calling him back. It makes no difference that you only 
 
 Her four instructions are yours, word for word.
 
-- **Say it once, and say it outright.** This book will bring you to that moment. It's one plain No, with no hope left in it.
+- **Say it once, and say it outright.** It's one plain No, with no hope left in it.
 - **Give no reason.** Tell him you're too tired tonight, and he'll be back when you're rested. You don't owe an itch an explanation.
 - **Don't let him down gently.** "Only this week" and "only on Saturdays" are a door left open an inch, and he hears them as hope.
 - **Then never answer again.** Arguing with him is contact. Bargaining with him is contact. Even telling him to go away is contact. When he calls, let it ring.

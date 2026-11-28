@@ -48,7 +48,7 @@ The single man thinks none of this touches him. He has nobody to betray. But loo
 
 Try one test. The woman from work is in his film tonight. Could he describe it to her at lunch tomorrow? If the film were harmless, he could.
 
-Same question as the other rooms. What has the film ever given him, except the itch for the next showing?
+Same question again. What has the film ever given him, except the itch for the next showing?
 
 ## Filling the gap {-}
 
@@ -66,7 +66,7 @@ Whatever you believe about marriage, you promised her this part of yourself. A m
 
 No filter blocks a memory. That's why some men think the film in the head is the safe option. "I don't look at anything. It's all in my head."
 
-It's the same smoke. The film in your head is the cigarette you roll yourself. Porn is the factory kind, built to hook you faster. Neither one is the safe option.
+It's the same thing the screen sells, made at home. It isn't the safe option.
 
 Everybody starts there, and the scenes don't stay tame. Soon the mind wants a real face: a coworker, a friend's wife, the girl who serves his coffee. Then it wants "just a photo, to get started".
 

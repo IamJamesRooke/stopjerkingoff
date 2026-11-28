@@ -6,7 +6,7 @@ Some men find all this alarming. "So I'm hooked. That makes it worse." No. It's 
 
 **Second:** you're not badly hooked. You never were. The Little Monster is tiny. The urge, by itself, is so faint you've mistaken it for boredom for half your life.
 
-Then why do so many men find stopping so hard, suffer for months, and still long for it years later? Because of the second of the two causes. The first is the flesh. The second is the lies. The flesh on its own is easy to handle, and your own life proves it.
+Then why do so many men find stopping so hard, suffer for months, and still long for it years later? Because two things hold a man here, and the flesh is only one of them. The other is the lies. The flesh on its own is easy to handle, and your own life proves it.
 
 ## The week away {-}
 

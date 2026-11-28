@@ -8,7 +8,7 @@ If you're like most men, the phone is in your hand before your head hits the pil
 
 ![](images/illustrations/bed-engine-never-bored.png){.illustration width=80%}
 
-The psychiatrist Alok Kanojia says that in his experience the number one cause of relapse isn't strong emotion. It's boredom. His reason takes one line: "if you've got a gap in your day porn will fill it".
+Dr. Kanojia says that in his experience the number one cause of relapse isn't strong emotion. It's boredom. His reason takes one line: "if you've got a gap in your day porn will fill it".
 
 One of the Bible's worst falls began in an empty hour. David, Israel's king, stayed home while his army was away at war, and one idle evening he was walking on his roof. You know that hour.
 

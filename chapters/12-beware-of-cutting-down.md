@@ -61,7 +61,7 @@ Under one man's testimony, a commenter put this whole chapter in one sentence. G
 
 This is what Paul means when he tells the Romans to "make no provision for the flesh". "Saturdays only" is a provision. It's a standing reservation: table for one, every Saturday, name on the list. Paul doesn't say to make a smaller provision. He says to make none.
 
-That verse has a history. Augustine was the man who prayed for years, "Give me chastity and continency, only not yet." One day he sat in a garden in Milan, sick of himself. From the house next door he heard a child's voice chanting, "Take up and read." He picked up a book of Paul's letters and read the first lines his eyes fell on. They were this verse: "put on the Lord Jesus Christ, and make no provision for the flesh".
+That verse has a history. Augustine, the man who prayed "only not yet," sat one day in a garden in Milan, sick of himself. From next door he heard a child's voice chanting, "Take up and read." He picked up a book of Paul's letters and read the first lines his eyes fell on. They were this verse: "put on the Lord Jesus Christ, and make no provision for the flesh".
 
 He wrote that he had no wish to read any further, and no need to. "Not yet" was over that afternoon.
 
@@ -71,7 +71,7 @@ Remember:
 
 **DON'T CUT IT DOWN. CUT IT OUT.**
 
-That's for the last page. Until then you're not on a diet. He bangs, and you're free to go up. Just remember who's the hungry one here, and who's the grown man.
+That's where you're headed. For now you're not on a diet. He bangs, and you're free to go up. Just remember who's the hungry one here, and who's the grown man.
 
 That leaves the smallest request of all: just once. The answer to it comes from a strange place, a book about stalkers.
 

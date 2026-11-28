@@ -51,7 +51,7 @@ There are two opposite mistakes.
 
 Common sense says to avoid unnecessary stimulation. The word to notice is *unnecessary*. Old church teaching has a phrase for this: avoid the near occasion of sin. It means don't stand where you know you'll fall. That's not fear. It's sense.
 
-None of this is a gimmick or a vow, and none of it has to wait for the last page. It's only the stupid thing avoided. Charge the phone in the kitchen. You're not in danger. Bed is just a stupid place for a phone, whatever you look at. Unfollow the accounts you followed for one reason. Cancel the subscriptions. Delete the folder. Delete the numbers you kept for one reason.
+None of this is a gimmick or a vow, and none of it has to wait. It's only the stupid thing avoided. Charge the phone in the kitchen. You're not in danger. Bed is just a stupid place for a phone, whatever you look at. Unfollow the accounts you followed for one reason. Cancel the subscriptions. Delete the folder. Delete the numbers you kept for one reason.
 
 ![](images/illustrations/temptation-phone-in-the-kitchen.png){.illustration width=80%}
 

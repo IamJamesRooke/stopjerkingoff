@@ -39,7 +39,7 @@ The point isn't who's kissing whom. The point is that someone was selling your s
 
 ## Wiping your feet {-}
 
-Paul, the first-century apostle, told the first Christians not to cheer that stuff on, but to expose it. In his letter to the church in Ephesus he wrote, "For it is a shame even to speak of the things which are done by them in secret."
+Paul told the first Christians not to cheer that stuff on, but to expose it. In his letter to the church in Ephesus he wrote, "For it is a shame even to speak of the things which are done by them in secret."
 
 Today it isn't done in secret. It's done at halftime.
 

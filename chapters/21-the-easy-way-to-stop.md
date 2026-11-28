@@ -23,7 +23,7 @@ Because you've done the first half before. You decided, with tears, more times t
 
 ## One man's last time {-}
 
-Remember the man on the couch, with his phone face down on the cushion? Here's how it ends for him. He's spent years on the other method: vows at retreats, vows on New Year's Day, vows on mornings when he couldn't look in the mirror. Then one day a new thought scares him for real. *What if I just do this for the rest of my life?* For once he stops vowing and starts watching. What is he actually getting? A few seconds of relief, then the same old flatness.
+Take the man on the couch, the one with his phone face down on the cushion. Here's how it ends for him. He's spent years on the other method: vows at retreats, vows on New Year's Day, vows on mornings when he couldn't look in the mirror. Then one day a new thought scares him for real. *What if I just do this for the rest of my life?* For once he stops vowing and starts watching. What is he actually getting? A few seconds of relief, then the same old flatness.
 
 He talks to men who've quit, expecting to find them barely hanging on. Most of them laugh. "Miss it? You're joking." So he says to himself, out loud: "Like it or not, that was the last time." He braces for months of misery. What he gets is relief on day one, and it doesn't leave.
 
@@ -55,7 +55,7 @@ If you're not a believer, the same advice holds: drop the self-hatred. It never 
 
 ## A man who can be trusted {-}
 
-This book said one hard thing early on: **a man who can't control his lust can't be trusted.** Now the other half.
+Here's a hard thing, and then its other half: **a man who can't control his lust can't be trusted.**
 
 You probably thought self-control meant gripping the rail, a strong man holding down a strong desire. That's an arm-wrestling match, and you know who usually won.
 
@@ -65,7 +65,7 @@ The payoff comes at once. The moment you decide and mean it, you've given your w
 
 ## Two warnings {-}
 
-**First: don't make the decision tonight.** It has its own place, a few chapters on. A decision made on the strength of one good chapter is how the old vows were made. If you've already stopped, stay stopped, and keep reading. The chapters between here and there are what keep a man from sliding back.
+**First: don't make the decision tonight.** It has its own day, and that day isn't today. A decision made on the strength of one good chapter is how the old vows were made. If you've already stopped, stay stopped, and keep reading.
 
 **Second: don't misread "the first weeks".** The Little Monster takes a few weeks to starve. That doesn't mean a few weeks of suffering. And it doesn't mean holding out until day twenty-one, because nothing magic happens on day twenty-one. A man who mopes for three weeks will be moping in the fourth.
 

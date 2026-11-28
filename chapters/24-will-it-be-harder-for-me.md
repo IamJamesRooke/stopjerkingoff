@@ -16,7 +16,7 @@ If that's you, tell someone outside your own church: a pastor you trust in anoth
 
 He's sure it must be harder for him. Thirty years in the rut can't be the same as three.
 
-It's the same. The Little Monster is no bigger at fifty than he was at fifteen, and the lies are the same lies. Under one man's testimony a commenter did the math on his own life: from thirteen to forty-four, more than thirty years of it. A longer sentence doesn't change how the door opens. All it changes is the size of the relief.
+It's the same. The Little Monster is no bigger at fifty than he was at fifteen, and the lies are the same lies. One man told his story online, and another man in the comments did the math on his own life: from thirteen to forty-four, more than thirty years of it. A longer sentence doesn't change how the door opens. All it changes is the size of the relief.
 
 ## The man who thinks he's built this way {-}
 

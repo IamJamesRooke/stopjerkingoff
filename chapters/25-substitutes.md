@@ -24,7 +24,7 @@ Paul wrote to Timothy, a young pastor he was training: "Flee from youthful lusts
 
 That's not a substitute. A substitute is a thing you grab to plug a hole. Paul is describing a life you can now get on with. One pastor calls it "escaping into reality, into God Himself." You'll have evenings and energy to spare. Spend them on a trail, a workbench, a long supper with friends. Things that are good in themselves.
 
-One man wrote that he quit at twenty-nine and replaced the habit with antique shopping. Good for him. But I don't believe old teapots held it off for thirty years. He stopped, and then he had his Saturdays back and spent them on something he liked.
+One man wrote that he quit at twenty-nine and replaced the habit with antique shopping. Good for him. But I don't believe old teapots are what kept him free all those years. He stopped, and then he had his Saturdays back and spent them on something he liked.
 
 ![](images/illustrations/substitutes-teapot.png){.illustration width=80%}
 

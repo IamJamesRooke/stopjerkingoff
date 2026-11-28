@@ -1,6 +1,6 @@
 # The Little Monster {#the-little-monster}
 
-A cue comes, and with it a small, restless urge. That urge is the Little Monster, banging on the floor.
+Meet him properly, then. When a cue comes, he's the small, restless urge, banging on the floor.
 
 The first thing to know about him is how small he is. The urge doesn't hurt. It only feels huge because of the fear the lies pile on top of it. On its own it's a faint, empty, fidgety sense that something's missing. That's why men mistake it for sex drive, or hunger, or plain boredom. Left alone for a while, it turns into a short temper. It's a hunger for something that doesn't feed you.
 
@@ -10,7 +10,7 @@ He isn't picky. A video feeds him. A fantasy feeds him. A long look at a strange
 
 ![](images/illustrations/little-monster-one-small-belly.png){.illustration width=80%}
 
-One man in the trap put the entire thing in seven words:
+One man in the trap put the entire thing in eight words:
 
 > "I hate it, but I continually feed it."
 

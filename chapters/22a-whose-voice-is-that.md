@@ -14,7 +14,7 @@ Here's a second test. Hold up your hand and wiggle your fingers. Now ask the urg
 
 ![](images/illustrations/voice-wiggle-your-fingers.png){.illustration width=80%}
 
-Hearing the voice doesn't mean you believe the lies again. A man hears "I want it" in his own head and his stomach drops: "The book hasn't worked." Ask one question: *do I actually believe what that voice just said?* If the honest answer is no, your understanding is fine. You've only heard a car alarm. In Romans 7, Paul drew the same line: "So now it is no more I that do it, but sin which dwells in me." That doesn't make it someone else's fault. It means you don't have to obey it.
+Hearing the voice doesn't mean you believe the lies again. A man hears "I want it" in his own head and his stomach drops: "The book hasn't worked." Ask one question: *do I actually believe what that voice just said?* If the honest answer is no, your understanding is fine. You've only heard a recording. In Romans 7, Paul drew the same line: "So now it is no more I that do it, but sin which dwells in me." That doesn't make it someone else's fault. It means you don't have to obey it.
 
 ## Lines for a hard moment {-}
 

@@ -18,7 +18,7 @@ Then a real woman arrives, warm and soft, and to a body trained on a fist she fe
 
 A medical student told his story on NoFap. With his first girlfriend, "even after months, still no orgasm for me. I couldn't even get close." Then comes the line every man should hear: "She started to think it was her fault, but deep inside, I knew what the problem was."
 
-Sex therapists and urologists see these men regularly, and they have drier names for it. In 2023 Dr. Kanojia, the psychiatrist, put it as bluntly as a doctor can. A tight, dry hand, he said, "feels different from a vagina". A man who knows nothing else can train his body away from a real woman.
+Sex therapists and urologists see these men regularly, and they have drier names for it. In 2023 Dr. Kanojia put it as bluntly as a doctor can. A tight, dry hand, he said, "feels different from a vagina". A man who knows nothing else can train his body away from a real woman.
 
 Let's stay honest. Death grip isn't an official diagnosis. A 2023 study of several hundred young men found that those with erection trouble were about twice as likely to masturbate in these rough ways. That shows a link and no more. Some doctors doubt it's common. And if this is your trouble, see a doctor, because medicines and other conditions can do the same thing.
 

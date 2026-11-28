@@ -6,7 +6,7 @@
 
 This is the myth of the back room. The Little Monster stays in there, and the rest of the house is yours.
 
-Men trying to stop by willpower spread it. They can't stop, so they need a story that lets them carry on. "That's my private side. It has nothing to do with my marriage, my faith or the man I am at work. I keep it in its box." You may know the old story of Dr. Jekyll, the respectable doctor who drinks a potion and turns into the brutal Mr. Hyde at night. Dr. Jekyll coaches the kids' team on Saturday morning. Mr. Hyde has the phone once the house goes dark. The two never meet.
+Men trying to stop by willpower spread it. They can't stop, so they need a story that lets them carry on. "That's my private side. It has nothing to do with my marriage, my faith or the man I am at work. I keep it in its box." You may know the old story of Dr. Jekyll, the respectable doctor who drinks a potion and turns into the brutal Mr. Hyde at night. Dr. Jekyll coaches the kids' team on Saturday morning. Mr. Hyde has the phone once the lights go out. The two never meet.
 
 Neat picture. Rotten from start to finish. In Robert Louis Stevenson's book, Hyde doesn't stay in his room. He gets stronger every time he's let out, and by the end he's turning up uninvited. Yours doesn't get stronger, but he won't stay in his room either. You've watched him move down the hall, room by room. There's only one man in that story, and there's only one of you.
 

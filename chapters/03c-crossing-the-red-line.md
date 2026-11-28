@@ -2,7 +2,7 @@
 
 Whatever you repeat goes stale. The memory that worked last month doesn't work this month. The video that shocked you last year bores you now. The same meal keeps him quiet for less time. So you go looking for a bit more, or something new.
 
-Porn is built on this. It never runs out of new, so a man can chase "a bit more" for hours, tab after tab, and finish emptier than he started. In *The Screwtape Letters*, C.S. Lewis has his senior devil, Screwtape, state the recipe: "An ever increasing craving for an ever diminishing pleasure is the formula."
+Porn is built on this. It never runs out of new, so a man can chase "a bit more" for hours, tab after tab, and finish emptier than he started. Screwtape, Lewis's senior devil, states the recipe: "An ever increasing craving for an ever diminishing pleasure is the formula."
 
 So the fantasy creeps. First it's a daydream you barely notice. Then a memory. Then a woman you actually know: someone at work, a friend's wife, the neighbor across the street. Then a little help from the phone: a photo, a feed, a "harmless" video. Then porn, and then harder porn.
 
@@ -14,7 +14,7 @@ Every man has a red line, a limit he swears he'll never cross.
 
 ![](images/illustrations/red-line-toes-on-the-line.png){.illustration width=80%}
 
-Every man knows the tug of war at that line. His conscience pulls one way and the Little Monster the other. Paul the apostle was describing it in his letter to the Galatians when he wrote, "the flesh lusts against the Spirit, and the Spirit against the flesh". They want opposite things, and you're the rope.
+Every man knows the tug of war at that line. His conscience pulls one way and the Little Monster the other. Paul described that tug of war in his letter to the Galatians. The flesh wants one thing, the Spirit wants the opposite, and you're the rope.
 
 ![](images/illustrations/red-line-tug-of-war.png){.illustration width=80%}
 
