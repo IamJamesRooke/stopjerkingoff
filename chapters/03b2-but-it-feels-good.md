@@ -16,11 +16,15 @@ A can of cola tastes great. Nobody denies it. Drink six a day for twenty years, 
 
 A fish would tell you the worm was delicious.
 
+![](images/illustrations/feels-good-fish-and-worm.png){.illustration width=80%}
+
 ## "One little vice" {-}
 
 Maybe you'll grant all that and shrug. It's like candy. It's like a can of cola. Every man gets one little vice, and this one isn't going to hurt me.
 
 Look at how you treat candy. You eat it in front of people. You don't lock the door. You don't wipe the wrapper out of your history. You've never finished a chocolate bar and stared at the ceiling.
+
+![](images/illustrations/feels-good-candy-and-the-locked-door.png){.illustration width=80%}
 
 A little vice stays little. One cola is one cola. This one doesn't hold still. It wants more, and it wants newer, and you've been giving it more for years.
 
@@ -36,6 +40,8 @@ Three things are mixed together in that moment. Pull them apart.
 
 **The second is the rush itself.** This part is real, and it lasts a few seconds. So weigh it like anything you buy. On one side, those seconds. On the other, the hour before, hunting for the right video. Then the flat ten minutes after, with the screen dark and your mood darker. Then the itch, set going again for tomorrow.
 
+![](images/illustrations/feels-good-one-evening-diagram.png){.illustration width=80%}
+
 The rush shrinks, too. It was bigger at fifteen than it is now. It'll be smaller next year. The price goes up, and the portion goes down.
 
 ![](images/illustrations/feels-good-tiny-portion-long-bill.png){.illustration width=80%}
@@ -48,11 +54,27 @@ Look at where the excitement sits. It isn't at the end. It's in the lead-up: the
 
 Be exact about how good it was. The first one of the evening is the big one. Go back for a second, and it's a shadow. The third is a chore. Every man knows this, and nobody says it.
 
+![](images/illustrations/feels-good-boom-pop-fizzle.png){.illustration width=80%}
+
 A real pleasure doesn't work like that. The second swim is as good as the first. This thing pays once, then has you chasing the payment. It's the tight shoe again. Yanking it off feels wonderful exactly once, and only because it pinched all day.
 
 ## "Why would I ever quit?" {-}
 
 Right at the peak, that question sounds like it has no answer. Notice when it gets asked. At the top of the rush. Never the morning after, when you're late for work and can't look your wife in the eye.
+
+So answer it straight. Ask what you'd actually lose.
+
+Not the feeling. Your body made it before the habit ever started, and it'll make it after. Nobody's taking the orgasm out of the world.
+
+What goes is the banging. And look again at what you've been calling pleasure. Most of it was the banging stopping.
+
+Now meet the man who never started. Nothing bangs in his house. He has that quiet at breakfast, at his desk and on the drive home. He doesn't pay for it. He doesn't lock a door for it. He just has it.
+
+You've been paying every night for six seconds of what he gets all day for free.
+
+![](images/illustrations/feels-good-quiet-machine.png){.illustration width=80%}
+
+That's why you'd quit. Not to give up a pleasure. To stop paying for the quiet.
 
 ## The next minute {-}
 
@@ -70,7 +92,7 @@ Get the claim exactly right. This book has never said it doesn't feel good. It s
 
 See the few seconds for what they are. They're the one thing you've been defending, and they're how the trap is set.
 
-In the moment, your brain makes one more claim, and it's a big one. It says this beats the real thing.
+Right at the peak, your brain makes one more claim. It's the biggest one yet.
 
 <!-- 2026-11-28 SPLIT (James, reading ch 10: 'This might need to split into chapters because the ideas are expanded on'). 'Better than the real thing' moved to the new chapter The Plaster Egg and expanded; 'The naughty part' moved to the new chapter Stolen Water and expanded. -->
 
@@ -97,3 +119,5 @@ In the moment, your brain makes one more claim, and it's a big one. It says this
 <!-- 2026-11-25 PROOF LOOP (James: watching and imagining it's him 'feels like the same but sometimes better because imagination is exactly how I want'). Added to 'Better than the real thing': it's made to order, and that is the giveaway. -->
 
 <!-- 2026-11-28 Author polish pass (James: 'one polish pass' on the three chapters that replaced chapter 10). Small fixes only: see the commit. -->
+
+<!-- 2026-11-28 (James: 'Something is missing' in this chapter; 'drawings are cheap'). Missing piece: 'Why would I ever quit?' was asked and never answered. Now answered: you keep the feeling, you lose the banging, and the man who never started has the quiet all day for free. Five drawings added (fish and worm, candy vs locked door, one-evening diagram, boom-pop-fizzle, the quiet machine; batch37 in tools/draw_illustrations.py). Closing hook no longer states the next chapter's claim, so The Plaster Egg can open on it. -->

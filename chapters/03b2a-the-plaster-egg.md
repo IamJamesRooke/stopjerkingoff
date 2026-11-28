@@ -1,6 +1,6 @@
 # The Plaster Egg {#the-plaster-egg}
 
-Don't argue with your brain on that one. It's honestly reporting what you feel.
+Right at the peak, your brain tells you this beats sex. Don't argue with it. It's an honest report of what you feel.
 
 Now look at what it's reporting on.
 
@@ -59,3 +59,5 @@ There's one more part of the kick, and it has nothing to do with the woman on th
 <!-- 2026-11-28 NEW CHAPTER, split from But It Feels Good (James, reading ch 10: 'I think we need some sort of spelled out, YOU are that bird!!! With a diagram. You're attracted to breasts but those on the screen are super stimuli. Nothing in nature produces that. Those Instagram models. It's all filtered and edited. The woman spends hours getting that perfect shot, professionals might do split A/B testing to see which one works on you the best. You are being fooled with the super egg. Need drawings that show this without being too crude but really indicate the ridiculousness of it all.'). The Tinbergen passage and 'made to order' are moved unchanged from But It Feels Good. New: 'supernormal stimulus' named, 'You are that bird', 'Hours for one picture' (A/B testing hedged to 'some accounts'; platform-level testing is left to The Devil's Data Scientists), and the jewel beetle (Gwynne and Rentz, 1983, Journal of the Australian Entomological Society, 'Beetles on the bottle'; Ig Nobel Prize in biology 2011; males of Julodimorpha bakewelli attempted to mate with brown 'stubby' beer bottles whose dimpled base resembled the female's wing cases; ants of the genus Iridomyrmex attacked and killed some males on the bottles). Breasts kept to 'figure' and 'curves' per the no-tempting-specifics rule. -->
 
 <!-- 2026-11-28 Author polish pass (James: 'one polish pass' on the three chapters that replaced chapter 10). Small fixes only: see the commit. -->
+
+<!-- 2026-11-28 (James: 'Opening sentence of chapter 11 doesn't make sense'). The opening leaned on the previous chapter's last line; it now stands on its own. -->
