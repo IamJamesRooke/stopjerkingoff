@@ -6,6 +6,10 @@
 
 The flesh supplies the itch. The world supplies the reasons to scratch it.
 
+Picture a man with a rash. He goes to the doctor, and the doctor leans in and says, "Keep scratching. More. MORE!" You'd walk out and find another doctor. That's the world's whole medical advice for this itch, and you've been taking it for years.
+
+![](images/illustrations/worlds-lies-keep-scratching.png){.illustration width=80%}
+
 The itch is the Little Monster, and he's small. The reasons are the lies, and they're far bigger. That's why they're called the Big Monster. It's every lie you were told about the habit, and every lie you told yourself. It's no creature. It lives in your head, and it does all the talking.
 
 ## Who's behind it {-}
@@ -135,3 +139,5 @@ Those are the lies about the hand. Porn has its own set, and somebody else pays 
 <!-- 2026-11-28 (James: the world belongs to the devil in Christian belief; the world tells you to keep feeding the monster; 'the world, your own mind, your fear, will conspire against you'). Opening reworded now that chapter 6 introduces the Big Monster; new section 'Who's behind it' with WEB 1 John 5:19, John 12:31, 2 Corinthians 4:4 (verified verbatim), a plain profit reason for non-believers, and the world/mind/fear paragraph. New heading 'The lies about the hand' before the six lies. -->
 
 <!-- 2026-11-28 (James: make it a common theme: alone with the monster would be one thing, but you live in the devil's world, he wants you sedated, weak and pathetic, distracted not destroyed; the world, the devil and your own mind keep telling you to feed him). Light callback added here; others in The World's Lies, The World It Made, The Best Liar of All, Whose Voice Is That?, If You Slip (Fit for Service and The Devil's Data Scientists already carry it). -->
+
+<!-- 2026-11-28 (James: 'Could you imagine having a rash and the doctor says keep scratching!!!!! More. MORE!'). Added after the opening line, with drawing worlds-lies-keep-scratching (batch39). Not a repeat of the cream-and-rash picture in What Am I Giving Up?, which is about the cure, not the advice. -->

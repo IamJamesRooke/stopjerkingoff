@@ -3141,6 +3141,37 @@ def batch38(OUT):
     s+=TAIL; open(OUT+"plaster-egg-helen-is-mid.svg","w").write(s)
 
 
+def batch39(OUT):
+    W,H=680,440
+    # The world's medical advice: a quack doctor cheering a man scratching himself raw (The World's Lies)
+    s=head(W,H,"#E8F7F0")
+    s+='<line x1="30" y1="400" x2="650" y2="400"/>'
+    s+='<rect x="40" y="60" width="120" height="90" rx="6" fill="#fff"/>'+T(100,96,"QUACK",18,"#141414")+T(100,124,"M.D.",22,"#FF3B30")
+    # doctor
+    dx,dy=200,170
+    s+=f'<path d="M{dx-22},{dy+36} C{dx-46},{dy+70} {dx-46},{dy+160} {dx-30},{dy+200} L{dx+30},{dy+200} C{dx+46},{dy+160} {dx+46},{dy+70} {dx+22},{dy+36} Z" fill="#fff"/>'
+    s+=f'<path d="M{dx-10},{dy+40} q-14,40 4,60 q18,0 16,-20" stroke="#555" stroke-width="4"/><circle cx="{dx+10}" cy="{dy+80}" r="7" fill="#999"/>'
+    s+=legs(dx-6,dy+200,16)
+    s+=f'<path d="M{dx-30},{dy+70} L{dx-70},{dy+20} L{dx-74},{dy-20}"/><path d="M{dx+30},{dy+70} L{dx+70},{dy+20} L{dx+74},{dy-20}"/>'
+    s+=f'<circle cx="{dx}" cy="{dy}" r="34" fill="#fff"/><circle cx="{dx}" cy="{dy-34}" r="10" fill="#C9D3DA"/><line x1="{dx-30}" y1="{dy-30}" x2="{dx+30}" y2="{dy-30}" stroke-width="5"/>'
+    s+=f'<circle cx="{dx-12}" cy="{dy-6}" r="9" fill="#fff" stroke-width="3"/><circle cx="{dx+12}" cy="{dy-6}" r="9" fill="#fff" stroke-width="3"/>'+dot(dx-12,dy-6,3)+dot(dx+12,dy-6,3)
+    s+=f'<path d="M{dx-16},{dy+12} q16,22 32,0 Z" fill="#7A1E1E"/>'
+    s+=T(345,90,"MORE! MORE!",36,"#FF3B30")
+    # man scratching himself raw
+    mx,my=490,180
+    s+=f'<path d="M{mx-26},{my+34} C{mx-50},{my+70} {mx-50},{my+150} {mx-32},{my+190} L{mx+32},{my+190} C{mx+50},{my+150} {mx+50},{my+70} {mx+26},{my+34} Z" fill="#FFB199"/>'
+    for (x,y) in [(-20,70),(-6,100),(10,80),(20,120),(-24,130),(4,150)]:
+        s+=f'<path d="M{mx+x},{my+y} l8,-12 M{mx+x+6},{my+y+2} l8,-12 M{mx+x+12},{my+y+4} l8,-12" stroke="#FF3B30" stroke-width="3"/>'
+    s+=legs(mx-4,my+190,16)
+    s+=f'<path d="M{mx-30},{my+60} L{mx+4},{my+96}"/><path d="M{mx+30},{my+60} L{mx-6},{my+120}"/>'
+    s+=f'<path d="M{mx-6},{my+90} l14,10 M{mx-12},{my+116} l14,8" stroke-width="3"/>'
+    s+=f'<circle cx="{mx}" cy="{my}" r="34" fill="#fff"/>'
+    s+=f'<path d="M{mx-16},{my-10} l9,4 l-9,4" stroke-width="3.5"/><path d="M{mx+18},{my-10} l-9,4 l9,4" stroke-width="3.5"/><path d="M{mx-10},{my+16} l4,-3 l4,3 l4,-3 l4,3 l4,-3" stroke-width="3"/>'
+    s+=f'<path d="M{mx+40},{my-20} q6,8 0,16" stroke="#33A3D6" stroke-width="4"/>'
+    s+=T(mx+95,my+120,"scratch",18,"#141414","middle",-20)+T(mx-95,my+150,"scratch",18,"#141414","middle",20)
+    s+=f'<path d="M{mx-60},{my-60} l-10,-14 M{mx+60},{my-60} l10,-14 M{mx},{my-60} l0,-18" stroke="#FF3B30" stroke-width="4"/>'
+    s+=TAIL; open(OUT+"worlds-lies-keep-scratching.svg","w").write(s)
+
 if __name__=="__main__":
-    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30","31","32","33","34","35","36","37","38"]
+    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30","31","32","33","34","35","36","37","38","39"]
     for b in which: globals()["batch"+b](OUT)
