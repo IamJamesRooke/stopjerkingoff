@@ -71,7 +71,7 @@ He hasn't. It isn't.
 
 That lie didn't come alone. It brought the whole family.
 
-The world sold you some.
+The world sold you some, and it never stops selling.
 
 - "A man needs it."
 - "It's healthy."
@@ -211,3 +211,5 @@ SOURCES (Introduction): every quote below is from the research files; check each
 <!-- 2026-11-23: every section rewritten harder with concrete pictures (car alarm, slashed tires, sword in the doorway, dog food, waiter, bricks). James's lines, the monster passage and the menu untouched. -->
 
 <!-- 2026-11-23: three readers all said too many images stacked: cut tire-slasher, nails, waiter (kept car alarm, dog food, bricks). 'But not tonight' confused all three; reworded. 'Up in the back room lurks' restored. -->
+
+<!-- 2026-11-28 small flow change (James allowed small changes in locked chapters): 'The world sold you some, and it never stops selling.' seeds the world's role that chapter 6 maps. -->
