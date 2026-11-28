@@ -20,6 +20,34 @@ Think what that says about you. Nobody bothers to distract a man who doesn't mat
 
 It worked on a king. David saw a woman from his roof, took her, and had her husband Uriah killed to hide it. Uriah slept at the palace door, drunk, and was still fit for service. David, sober, was no use to anybody.
 
+## The deal he turned down {-}
+
+The oldest offer on the table was made to Jesus himself. Luke tells it. Jesus went out into the wilderness for forty days and ate nothing. At the end of it he was starving and alone, as weak as a man gets. That's when the devil showed up.
+
+He took Jesus up high and showed him all the kingdoms of the world in a single moment. All of it had been handed over to him, the devil said, and he could give it to anyone he liked. "If you therefore will worship before me, it will all be yours."
+
+Jesus said, "Get behind me, Satan!"
+
+Notice one thing he didn't say. He never said, "That isn't yours to give." He turned the deal down flat, and he didn't argue with the claim.
+
+So picture the world as the devil's shop, for now. Every voice in it telling you to keep feeding the Little Monster comes from someone who took the deal Jesus refused: a kingdom, a market, a crowd, in exchange for a soul.
+
+If you don't believe in a devil, the story still lands. Every empire of easy pleasure was built by somebody who said yes to that offer, and you're the one paying for his kingdom.
+
+## A living sacrifice {-}
+
+Plenty of faiths honor the man who dies for what he believes, and Christianity is one of them. The church has its martyrs, and it's right to honor them. But Paul asks every believer for something that sounds smaller and is harder. "Present your bodies a living sacrifice, holy, acceptable to God." Not only a death. A life, one ordinary Tuesday after another.
+
+Jesus showed both. He hung on the cross for about six hours, from the third hour of the day to the ninth. Once he was nailed there, there was no tapping out. But before the cross came the days nobody paints: forty days hungry in the desert, and some thirty years of plain work and plain days before that.
+
+Paul says he didn't cling to his rights as God. He took the form of a servant and was made like us. He stayed who he was, and he took on our limits: hunger, tiredness, temptation, all of it. Then he walked through them and showed how it's done.
+
+That's what's asked of you. Not one heroic night. The next ordinary evening, and the one after it, lived on purpose.
+
+If you're not a believer, you know this already. Any man can be brave for one loud minute. The man people lean on is the one who shows up every day.
+
+And for this one thing, the daily sacrifice costs less than you'd think. Nothing precious goes on the altar. You're just turning down a pest's dinner order.
+
 ## Drunk on duty {-}
 
 You may be a Christian, on God's side and loved by him. "There is therefore now no condemnation" is as true today as it ever was. And you were made on purpose. Paul says the work was planned as well as the man: "we are his workmanship, created in Christ Jesus for good works, which God prepared before that we would walk in them." There's something with your name on it that nobody else is going to do.
@@ -74,3 +102,5 @@ SOURCES (Fit for Service, unnumbered chapter before Chapter 28; added 2026-11-15
 <!-- 2026-11-23 FLOW PASS (book-wide): in 'Drunk on duty' the paragraph for the man who is not a believer ('The order is the same for you') moved up to follow the paragraph about the order; it had sat between 'what a loved man is for' and Isaiah. Wording unchanged, nothing cut. -->
 
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
+
+<!-- 2026-11-28 (James: living sacrifice, not only martyrdom; Jesus on the cross ~6 hours with no tapping out; 40 days in the desert; he came as a man with our limits; tempted at his weakest with all the kingdoms, he said no but never said 'the world isn't yours to give'; the world's lies come from those who took the deal). Two sections added before 'Drunk on duty'. WEB verified: Romans 12:1; Luke 4:1-2, 4:7, 4:8 (quotes); Luke 4:5-6 paraphrased; Philippians 2:6-8 paraphrased; Mark 15:25, 34 (third to ninth hour). Martyrs honored, not disparaged; 'God mode' worded as setting aside his rights and taking our limits while staying who he was; the not-disputing point offered as a noticing; 'took the deal' is a picture of the world's system, naming no one. -->
