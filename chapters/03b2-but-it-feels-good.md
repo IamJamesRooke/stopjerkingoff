@@ -52,7 +52,7 @@ A real pleasure doesn't work like that. The second swim is as good as the first.
 
 ## "Why would I ever quit?" {-}
 
-Right at the peak, that question sounds like it has no answer. Notice when it gets asked. At the top of the rush, and never the morning after.
+Right at the peak, that question sounds like it has no answer. Notice when it gets asked. At the top of the rush. Never the morning after, when you're late for work and can't look your wife in the eye.
 
 ## The next minute {-}
 
@@ -68,7 +68,7 @@ Judge a thing by the whole of it, the bait and the hook together.
 
 Get the claim exactly right. This book has never said it doesn't feel good. It says the habit gives you nothing. The few seconds are real, and they're the bait.
 
-Where that pleasure belongs is a question for later, and it gets a straight answer. For now, see the few seconds for what they are. They're the one thing you've been defending, and they're how the trap is set.
+See the few seconds for what they are. They're the one thing you've been defending, and they're how the trap is set.
 
 In the moment, your brain makes one more claim, and it's a big one. It says this beats the real thing.
 
@@ -95,3 +95,5 @@ In the moment, your brain makes one more claim, and it's a big one. It says this
 <!-- 2026-11-25 reader panel: the stolen-water proverb named in place (Proverbs 9:17, WEB, spoken by Folly; 9:18 paraphrased). Tinbergen passage left as the 11-24 source check settled it. -->
 
 <!-- 2026-11-25 PROOF LOOP (James: watching and imagining it's him 'feels like the same but sometimes better because imagination is exactly how I want'). Added to 'Better than the real thing': it's made to order, and that is the giveaway. -->
+
+<!-- 2026-11-28 Author polish pass (James: 'one polish pass' on the three chapters that replaced chapter 10). Small fixes only: see the commit. -->

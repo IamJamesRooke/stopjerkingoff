@@ -36,7 +36,7 @@ He didn't say he fought them off. He didn't say he locked them up and stood guar
 
 ![](images/illustrations/stolen-childish-things.png){.illustration width=80%}
 
-Now picture the habit honestly. A grown man hunched behind a locked door like a monkey at the zoo, one ear on the hallway, then wiping up and slipping out like a boy who's been in his dad's wallet. That's not what a man on a mission looks like.
+Now picture the habit honestly. A grown man at it like a monkey, except the monkey doesn't hide. He does it behind a locked door with one ear on the hallway. Then he wipes up and slips out like a boy who's been in his dad's wallet. That's not what a man on a mission looks like.
 
 Take the man with the biggest mission there ever was. On his last night, Jesus ate supper with his friends, washed their feet, and went out into a garden to pray, knowing what the morning would bring. Try to picture him slipping off first for one last secret release before the cross. You can't even hold the picture in your head. It's absurd, and you know it's absurd, believer or not. A man with something to do has no room for it.
 
@@ -45,3 +45,5 @@ That's who you're growing into. Not a boy who's been told no. A man who's got be
 There's one more thing the trap never tells you. Whatever gives you the kick this year won't give it to you next year.
 
 <!-- 2026-11-28 NEW CHAPTER, split from But It Feels Good (James, reading ch 10, on 'The naughty part': 'Good section. And we can say that this is part of the reason we don't tell you to cut now. I was told as a kid to not watch so many cartoons, but now that I can, I don't want to. I grew up. I wasn't told to. I just moved on. No shame. No no cartoon streaks. No Anonymous no cartoon meetings. Just stopped because I'm not a [swear] kid anymore. It's time to put away childish things. And jerking off like a monkey hiding away... That's not what a man on a mission does. Could you imagine Jesus saying he needed to rub one out one last time at the last supper before going to the cross?'). The opening three paragraphs and the orange-juice drawing are moved unchanged from But It Feels Good. New: 'Why nobody's forbidding you' (with a 'feed him if you like' reminder), 'Cartoons', and 'Childish things' (1 Cor 13:11, WEB). James's f-word kept out per the swearing cap. The Last Supper line is reworded reverently: it's kept as an image of the absurd, without crude words next to Jesus's name. -->
+
+<!-- 2026-11-28 Author polish pass (James: 'one polish pass' on the three chapters that replaced chapter 10). Small fixes only: see the commit. -->
