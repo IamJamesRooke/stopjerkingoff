@@ -3103,6 +3103,44 @@ def batch37(OUT):
     s+='<rect x="440" y="80" width="170" height="70" rx="10" fill="#fff"/>'+T(525,110,"QUIET",22)+T(525,138,"FREE, ALL DAY",16,"#2F6BFF")
     s+=TAIL; open(OUT+"feels-good-quiet-machine.svg","w").write(s)
 
+def batch38(OUT):
+    W,H=680,440
+    # Helen of Troy walks by; the screen-fried man shrugs "She's mid!" (The Plaster Egg)
+    s=head(W,H,"#7FD3FF")
+    s+='<rect x="0" y="330" width="680" height="110" fill="#2B6CB0" stroke="none"/>'
+    for sx in (10,262,340):
+        s+=f'<path d="M{sx},322 L{sx+70},322 L{sx+58},338 L{sx+12},338 Z" fill="#9C6B3C"/><line x1="{sx+35}" y1="322" x2="{sx+35}" y2="272" stroke-width="3"/><path d="M{sx+37},276 L{sx+37},314 L{sx+64},312 Z" fill="#fff" stroke-width="3"/>'
+    s+=T(330,258,"1,000 SHIPS",18,"#141414")
+    # Helen
+    hx,hy=200,150
+    s+=f'<circle cx="{hx}" cy="{hy}" r="78" fill="#FFF3B0" stroke="none"/>'
+    s+=f'<path d="M{hx-30},{hy-6} C{hx-44},{hy+50} {hx-30},{hy+70} {hx-20},{hy+74} L{hx+20},{hy+74} C{hx+30},{hy+70} {hx+44},{hy+50} {hx+30},{hy-6} Z" fill="#8B5A2B"/>'
+    s+=f'<path d="M{hx-22},{hy+34} C{hx-50},{hy+120} {hx-56},{hy+200} {hx-60},{hy+230} L{hx+60},{hy+230} C{hx+56},{hy+200} {hx+50},{hy+120} {hx+22},{hy+34} Z" fill="#fff"/>'
+    s+=f'<path d="M{hx-20},{hy+90} L{hx+20},{hy+90}" stroke="#FFD23F" stroke-width="6"/>'
+    s+=f'<circle cx="{hx}" cy="{hy}" r="32" fill="#F6D2B8"/>'
+    s+=f'<path d="M{hx-28},{hy-14} q28,-30 56,0" fill="#8B5A2B"/><path d="M{hx-26},{hy-18} q26,-12 52,0" stroke="#FFD23F" stroke-width="4"/>'
+    s+=f'<path d="M{hx-14},{hy-2} q5,-5 10,0" stroke-width="3"/><path d="M{hx+6},{hy-2} q5,-5 10,0" stroke-width="3"/><path d="M{hx-6},{hy+14} q7,5 14,0" stroke="#D0473A" stroke-width="3"/>'
+    s+=T(hx,hy-96,"HELEN",22,"#141414")
+    # Degenerate man, slouched, shrugging, phone in hand
+    mx,my=500,190
+    s+=f'<path d="M{mx-30},{my+30} C{mx-56},{my+70} {mx-52},{my+140} {mx-34},{my+170} L{mx+34},{my+170} C{mx+52},{my+140} {mx+56},{my+70} {mx+30},{my+30} Z" fill="#9AA0A6"/>'
+    s+=f'<ellipse cx="{mx+10}" cy="{my+100}" rx="12" ry="8" fill="#C9A227" stroke="none"/><ellipse cx="{mx-14}" cy="{my+130}" rx="8" ry="6" fill="#C9A227" stroke="none"/>'
+    s+=f'<path d="M{mx-14},{my+170} L{mx-24},{my+250}"/><path d="M{mx+14},{my+170} L{mx+24},{my+250}"/>'
+    s+=f'<path d="M{mx-34},{my+60} L{mx-80},{my+50} L{mx-86},{my+14}"/><path d="M{mx+34},{my+60} L{mx+80},{my+50} L{mx+86},{my+14}"/>'
+    s+=f'<rect x="{mx+76}" y="{my-14}" width="22" height="36" rx="4" fill="#141414"/><rect x="{mx+79}" y="{my-10}" width="16" height="26" fill="#BFE3FF" stroke="none"/>'
+    s+=f'<circle cx="{mx}" cy="{my}" r="36" fill="#fff"/>'
+    s+=f'<path d="M{mx-34},{my-12} l6,-18 l8,12 l6,-20 l8,14 l8,-18 l6,16 l8,-12 l6,18" stroke-width="4"/>'
+    s+=f'<path d="M{mx-30},{my+16} q30,42 60,0" fill="#fff" stroke-width="3"/>'
+    s+=f'<path d="M{mx-18},{my+20} q18,8 36,0 q-4,16 -18,16 q-14,0 -18,-16 Z" fill="#7A1E1E"/>'
+    s+=f'<path d="M{mx-20},{my-2} L{mx-4},{my}" stroke-width="4"/><path d="M{mx+4},{my} L{mx+20},{my-2}" stroke-width="4"/>'
+    s+=dot(mx-12,my+2,3)+dot(mx+12,my+2,3)
+    s+=f'<path d="M{mx-46},{my-30} q6,-14 0,-24" stroke="#9BD13A" stroke-width="3"/><path d="M{mx+46},{my-30} q-6,-14 0,-24" stroke="#9BD13A" stroke-width="3"/>'
+    # speech bubble
+    s+=f'<path d="M{mx-120},{my-150} L{mx+120},{my-150} Q{mx+140},{my-150} {mx+140},{my-130} L{mx+140},{my-88} Q{mx+140},{my-68} {mx+120},{my-68} L{mx+10},{my-68} L{mx-6},{my-44} L{mx-14},{my-68} L{mx-120},{my-68} Q{mx-140},{my-68} {mx-140},{my-88} L{mx-140},{my-130} Q{mx-140},{my-150} {mx-120},{my-150} Z" fill="#fff"/>'
+    s+=T(mx,my-96,"SHE&#8217;S MID!",36,"#FF3B30")
+    s+=TAIL; open(OUT+"plaster-egg-helen-is-mid.svg","w").write(s)
+
+
 if __name__=="__main__":
-    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30","31","32","33","34","35","36","37"]
+    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30","31","32","33","34","35","36","37","38"]
     for b in which: globals()["batch"+b](OUT)
