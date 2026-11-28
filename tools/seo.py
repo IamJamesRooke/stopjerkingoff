@@ -13,8 +13,8 @@ from pathlib import Path
 SITE = "https://stopjerkingoff.com/"
 TITLE = "Stop Jerking Off"
 FULL_TITLE = "Stop Jerking Off: The Easy Peasy Way to Conquer Lust"
-DESCRIPTION = ("Conquer lust the easy way: stop masturbating and watching porn without willpower or shame. "
-               "A book inspired by EasyPeasy that helps you walk away for good.")
+DESCRIPTION = ('You\'ve said "never again" a hundred times. Porn, masturbation, the second look, the chase: stop'
+               ' fighting lust and see what it really is. No willpower. No shame.')
 IMAGE = SITE + "images/og-image.png?v=7"
 PUBLISHER = {"@type": "Organization", "@id": SITE + "#org", "name": TITLE, "url": SITE, "logo": SITE + "images/logo-512.png", "email": "hello@stopjerkingoff.com"}
 BOOK_ID = SITE + "#book"  # the book is anonymous
