@@ -26,6 +26,8 @@ Not hard to see how. The hand never works alone. Something's always playing whil
 
 Men have a name for the pictures stored in the head for this. The spank bank. A man who draws on it is still watching porn. He's just moved the screen inside his skull. It's the same thing, made at home. Think of a cigarette a man rolls himself, beside one from a factory. The factory one was built by people paid to hook him faster. Both are tobacco, and his lungs can't tell which is which.
 
+![](images/illustrations/back-door-rolled-and-factory-cigarettes.png){.illustration width=80%}
+
 
 And a memory wears thin. So the hand goes shopping for a stronger film, and it knows exactly where that film is kept. The man bolted the front door and left the back door wide open. Now he's shocked to find the same old pest in his kitchen.
 
