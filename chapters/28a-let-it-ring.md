@@ -10,7 +10,7 @@ You're sitting in it and the telephone rings. Same telephone the caller always u
 
 Notice two things. First, the ringing has no power. A bell is a noise in the air, and a noise can't lift a man out of a chair. It only moved you because you'd gotten in the habit of obeying it. Second, not answering takes no effort. You're not wrestling the phone. You're doing nothing, and doing it comfortably.
 
-Every cue you'll meet is that telephone. The empty house. The photo in the feed. The hotel room on a work trip. The bad day. A message from a woman you'd sworn off. Let it ring. It will stop.
+Every cue you'll meet is that telephone. The empty house. The photo in the feed. The hotel room on a work trip. The bad day. A message from a woman you'd sworn off. Let it ring. It will stop, usually sooner than you'd think. An itch you don't scratch for a few seconds starts to fade on its own.
 
 The caller gets four answers, and you've given the first: you said it once, and you said it outright. The other three keep it said. Give no reason. Don't let him down gently. Never answer again.
 
@@ -67,3 +67,5 @@ Which person? And who else needs to know?
 <!-- 2026-11-22 last book-wide pass: sentences over 25 words split. -->
 
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
+
+<!-- 2026-11-28 (James's proof loop: tempted, 'the idea of the itch stuck. Just waited a few seconds'; and the devil's-world theme). Light callback added. -->

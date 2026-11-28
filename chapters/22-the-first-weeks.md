@@ -37,7 +37,7 @@ Men on the Willpower Method get through this part too. The itch isn't what bring
 
 ## The turn signal and the wipers {-}
 
-For years you've answered the itch at set times and in set places, so the places themselves now ring the bell.
+For years you've answered the itch at set times and in set places, so the places themselves now ring the bell. The world will keep ringing it too. It doesn't stop selling because you stopped buying.
 
 - "I'm in bed, so it's time."
 - "I've woken up hard, so I must."
@@ -132,3 +132,5 @@ You know that voice very well. It sounds like your own.
 <!-- 2026-11-23 FLOW PASS (book-wide): 'On the worst night' followed from nothing; one linking sentence added at its head to tie it to the bell. Nothing moved or cut. -->
 
 <!-- 2026-11-23 DICTION PASS (James: lift every chapter to the standard of the Introduction's monster passage): stock phrases and vague nouns swapped for concrete pictures. Old wording is in git. -->
+
+<!-- 2026-11-28 (James's proof loop: tempted, 'the idea of the itch stuck. Just waited a few seconds'; and the devil's-world theme). Light callback added. -->
