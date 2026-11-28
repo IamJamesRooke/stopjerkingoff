@@ -3033,29 +3033,75 @@ def batch36(OUT):
     s+='<rect x="560" y="110" width="80" height="14" fill="#9C6B3C"/><rect x="570" y="70" width="18" height="40" fill="#2FB3A8"/><rect x="592" y="76" width="16" height="34" fill="#FFD23F"/><rect x="612" y="66" width="18" height="44" fill="#FF8FB1"/>'
     s+=TAIL; open(OUT+"stolen-childish-things.svg","w").write(s)
 
-# ---- Thirty-seventh batch (The Back Door: rolled by hand beside a factory cigarette) ----
 def batch37(OUT):
     W,H=680,440
+    # 1. A fish would tell you the worm was delicious (But It Feels Good)
     s=head(W,H,"#33C3D6")
-    s+='<rect x="30" y="360" width="620" height="22" rx="8" fill="#9C6B3C"/><line x1="70" y1="382" x2="70" y2="408"/><line x1="610" y1="382" x2="610" y2="408"/>'
-    # hand-rolled: lumpy, crooked paper, twisted end, loose tobacco, a few shreds on the table
-    s+='<path d="M70,330 C80,310 120,322 160,314 C200,306 240,318 282,312 L300,322 L286,332 L300,344 C260,356 220,346 180,352 C140,358 100,348 72,354 Z" fill="#FFF3D6"/>'
-    s+='<path d="M120,322 C124,334 118,344 124,350 M196,312 C200,326 192,340 198,350" stroke-width="3"/>'
-    s+='<path d="M70,334 C60,336 58,350 70,352" fill="#C2410C" stroke-width="4"/>'
-    s+='<path d="M296,324 l22,-8 M300,334 l24,2 M296,344 l20,12" stroke="#7A4A1A" stroke-width="4"/>'
-    s+='<path d="M170,368 q8,-6 14,0 M232,372 q8,-6 14,0" stroke="#7A4A1A" stroke-width="4"/>'
-    s+='<path d="M64,300 q-14,-18 0,-34 q14,-16 0,-34" stroke="#fff" stroke-width="7"/><path d="M64,300 q-14,-18 0,-34 q14,-16 0,-34" stroke="#bbb" stroke-width="3"/>'
-    # factory: straight, white, orange filter with gold band
-    s+='<rect x="372" y="320" width="170" height="40" rx="4" fill="#fff"/><rect x="542" y="320" width="100" height="40" rx="6" fill="#FFA630"/>'
-    s+=f'<rect x="536" y="320" width="12" height="40" fill="{YEL}"/><line x1="580" y1="324" x2="580" y2="356" stroke-width="3"/><line x1="598" y1="324" x2="598" y2="356" stroke-width="3"/>'
-    s+='<rect x="364" y="320" width="14" height="40" rx="4" fill="#C2410C"/>'
-    s+='<path d="M386,300 q-14,-18 0,-34 q14,-16 0,-34" stroke="#fff" stroke-width="7"/><path d="M386,300 q-14,-18 0,-34 q14,-16 0,-34" stroke="#bbb" stroke-width="3"/>'
-    # the lure: a fishing line and hook set in the filter
-    s+='<line x1="618" y1="0" x2="618" y2="232" stroke="#fff" stroke-width="4"/>'
-    s+=f'<path d="M618,232 L618,300 Q618,336 594,336 Q574,336 574,318" stroke-width="7"/><path d="M574,318 L564,304" stroke-width="7"/>'
-    s+=TAIL; open(OUT+"back-door-rolled-and-factory-cigarettes.svg","w").write(s)
+    s+='<path d="M30,110 q40,-14 80,0 t80,0 t80,0 t80,0 t80,0 t80,0 t80,0 t80,0" stroke="#fff" stroke-width="4"/>'
+    s+='<line x1="430" y1="20" x2="430" y2="250" stroke-width="3"/>'
+    s+='<path d="M430,250 L430,300 q0,26 -22,26 q-20,0 -20,-20" stroke="#999" stroke-width="6"/><path d="M388,306 l-10,-14 l16,4" stroke="#999" stroke-width="5"/>'
+    s+='<path d="M424,262 q-24,10 -6,22 q20,12 -2,24 q-18,10 0,20" stroke="#FF8FA3" stroke-width="12"/>'
+    s+='<g transform="translate(296,300)"><path d="M-120,0 C-90,-60 40,-60 90,0 C40,60 -90,60 -120,0 Z" fill="#FF7A59"/><path d="M-120,0 L-170,-40 L-160,0 L-170,40 Z" fill="#FF7A59"/>'
+    s+='<circle cx="50" cy="-12" r="14" fill="#fff"/>'+dot(55,-12,5)+'<path d="M40,-30 l18,4" stroke-width="3"/>'
+    s+='<path d="M76,8 q10,6 18,-2" stroke-width="4"/><path d="M-40,-30 q10,30 0,60 M-10,-34 q10,34 0,68" stroke-width="3"/></g>'
+    s+='<circle cx="330" cy="230" r="8" fill="#fff"/><circle cx="318" cy="206" r="6" fill="#fff"/><circle cx="326" cy="184" r="4" fill="#fff"/>'
+    s+=T(250,200,"YUM!",34,"#FFD23F")
+    s+=TAIL; open(OUT+"feels-good-fish-and-worm.svg","w").write(s)
 
+    # 2. One little vice: candy eaten in the open vs the locked door
+    s=head(W,H,"#FFF6E5")
+    s+='<line x1="340" y1="30" x2="340" y2="410" stroke-dasharray="10 12" stroke-width="4"/>'
+    s+=T(170,60,"CANDY",30)+T(510,60,"THIS",30)
+    s+='<line x1="30" y1="400" x2="320" y2="400"/><rect x="70" y="300" width="200" height="22" fill="#9C6B3C"/><line x1="90" y1="322" x2="90" y2="398"/><line x1="250" y1="322" x2="250" y2="398"/>'
+    s+=man(170,170,"happy","#2FB3A8")
+    s+='<path d="M154,210 L130,280"/><path d="M186,210 L214,188"/><rect x="206" y="160" width="40" height="18" rx="4" fill="#FF3B30" transform="rotate(-30 226 169)"/>'
+    s+='<circle cx="110" cy="290" r="9" fill="#FFD23F"/><circle cx="132" cy="292" r="9" fill="#FF8FB1"/><circle cx="230" cy="292" r="9" fill="#7FD3FF"/>'
+    s+='<line x1="360" y1="400" x2="650" y2="400"/>'+door(440,150,150,250,"#5A3E9B")
+    s+='<rect x="470" y="190" width="90" height="40" rx="6" fill="#fff"/>'+T(515,218,"LOCKED",18,"#FF3B30")
+    s+='<rect x="572" y="262" width="16" height="22" rx="3" fill="#FFD23F"/><path d="M576,262 v-8 a4,4 0 0 1 8,0 v8" stroke-width="3"/>'
+    s+=T(400,330,"shh",18)
+    s+=TAIL; open(OUT+"feels-good-candy-and-the-locked-door.svg","w").write(s)
 
+    # 3. Diagram: what the evening is made of (six bright seconds in a long grey bar)
+    s=head(W,H,"#2B3A8F")
+    s+=T(340,70,"ONE EVENING",30,"#fff")
+    s+='<rect x="40" y="170" width="300" height="80" fill="#8A8FA8"/>'+T(190,218,"THE HUNT: 40 MIN",20,"#fff")
+    s+='<rect x="340" y="170" width="14" height="80" fill="#FFD23F"/>'
+    s+='<rect x="354" y="170" width="130" height="80" fill="#5C6178"/>'+T(419,218,"FLAT",20,"#fff")
+    s+='<rect x="484" y="170" width="156" height="80" fill="#3E4256"/>'+T(562,218,"THE ITCH",20,"#fff")
+    s+='<path d="M347,166 L347,120 L300,120" stroke="#FFD23F" stroke-width="4"/>'+T(292,127,"THE RUSH: 6 SEC",20,"#FFD23F","end")
+    s+='<path d="M640,280 q30,20 0,40 l-24,-8" stroke="#fff" stroke-width="4"/>'+T(560,340,"and again tomorrow",18,"#fff")
+    s+=TAIL; open(OUT+"feels-good-one-evening-diagram.svg","w").write(s)
+
+    # 4. The first time, at least: BOOM, pop, fizzle
+    s=head(W,H,"#141E3C")
+    def burst(cx,cy,r,col,n):
+        import math
+        o=''
+        for i in range(n):
+            a=2*math.pi*i/n
+            o+=f'<line x1="{cx+r*0.3*math.cos(a):.0f}" y1="{cy+r*0.3*math.sin(a):.0f}" x2="{cx+r*math.cos(a):.0f}" y2="{cy+r*math.sin(a):.0f}" stroke="{col}" stroke-width="6"/>'
+        return o
+    s+=burst(130,170,100,"#FFD23F",16)+T(130,350,"1st: BOOM",26,"#FFD23F")
+    s+=burst(350,200,48,"#FF8FB1",10)+T(350,350,"2nd: pop",24,"#FF8FB1")
+    s+='<path d="M560,220 q6,-12 0,-24 q-6,-12 0,-24" stroke="#8A8FA8" stroke-width="4"/>'+'<circle cx="560" cy="232" r="5" fill="#8A8FA8" stroke="none"/>'+T(560,350,"3rd: fzzt",24,"#8A8FA8")
+    s+=TAIL; open(OUT+"feels-good-boom-pop-fizzle.svg","w").write(s)
+
+    # 5. Why quit? A man feeding coins into a QUIET machine; next door, a man has it free
+    s=head(W,H,"#9BD13A")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="40" y="110" width="110" height="200" rx="10" fill="#FF3B30"/>'+T(95,150,"QUIET",22,"#fff")+T(95,176,"6 SEC",18,"#FFD23F")
+    s+='<rect x="80" y="200" width="30" height="8" fill="#141414"/><rect x="60" y="250" width="70" height="30" rx="4" fill="#fff"/>'+T(95,272,"$$$",16)
+    s+='<line x1="70" y1="310" x2="70" y2="408"/><line x1="120" y1="310" x2="120" y2="408"/>'
+    s+=man(230,180,"squeeze","#2F6BFF")+legs(230,330,14)
+    s+='<path d="M214,220 L150,206"/><circle cx="146" cy="204" r="8" fill="#FFD23F"/><path d="M244,220 L270,290"/>'
+    s+=monster(300,150,"bang",0.55)
+    s+='<line x1="360" y1="40" x2="360" y2="410" stroke-width="4" stroke-dasharray="10 12"/>'
+    s+=f'<rect x="420" y="320" width="200" height="40" rx="10" fill="#FFD23F"/><rect x="416" y="290" width="26" height="70" rx="10" fill="#FFD23F"/><rect x="598" y="290" width="26" height="70" rx="10" fill="#FFD23F"/>'
+    s+=man(510,250,"happy","#fff")
+    s+='<path d="M494,290 L470,330"/><path d="M526,290 L556,330"/>'
+    s+='<rect x="440" y="80" width="170" height="70" rx="10" fill="#fff"/>'+T(525,110,"QUIET",22)+T(525,138,"FREE, ALL DAY",16,"#2F6BFF")
+    s+=TAIL; open(OUT+"feels-good-quiet-machine.svg","w").write(s)
 
 if __name__=="__main__":
     which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30","31","32","33","34","35","36","37"]

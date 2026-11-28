@@ -38,7 +38,7 @@ Now look at who's been giving the orders.
 
 A pipsqueak in your own back room. He bangs, he wails, he kicks his little feet, and you come running with his plate.
 
-He can't make you do a thing. The lies do that. They told you he was paying his way, and they made a pipsqueak look like a king.
+Why do you come running? The lies. They told you he was paying his way, and they made a pipsqueak look like a king.
 
 ![](images/illustrations/master-the-pipsqueak-king.png){.illustration width=80%}
 
