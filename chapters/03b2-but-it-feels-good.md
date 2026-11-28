@@ -44,34 +44,6 @@ Look at where the excitement sits. It isn't at the end. It's in the lead-up: the
 
 **The third is what the rush is for.** A body doesn't hand out its strongest pleasure for nothing. That rush was built to tie a man to a woman. The habit spends it on nobody, behind a locked door, then wipes it up.
 
-## "Better than the real thing" {-}
-
-In the moment, your brain may tell you this beats sex. Believe that it says so. It's an honest report.
-
-Now look at what it's reporting on. Last century a Dutch scientist named Niko Tinbergen offered nesting birds plaster eggs. He made them bigger than real eggs, with brighter color and bolder spots. Given the choice, most birds picked the fakes over their own. One fake was so big the songbird kept sliding off it, and she climbed back on anyway.
-
-![](images/illustrations/feels-good-the-plaster-egg.png){.illustration width=80%}
-
-Nothing was wrong with those birds. Their wiring said "big spotted egg, sit", and somebody built an egg that shouted louder than a real one.
-
-The screen is that egg. A real woman is one woman, with a mood and a mind and a no. The screen offers a hundred in ten minutes, each one new, and not one of them can turn you down. Nothing in your wiring was built for that, so it scores it off the chart.
-
-It can beat the real thing on one more count. It's made to order. You pick the woman, the act and the angle. In your head it's you in the picture, and everything goes exactly your way. Nothing real ever goes exactly your way.
-
-That's the giveaway. A woman who does just what you want, when you want it, with no will of her own, isn't a woman. She's a puppet, and you're working it. You wrote her lines. You're alone in that room, feeling what your body feels when somebody's with you.
-
-A plaster egg never hatches. The bird warms it for nothing, and her own go cold.
-
-## The naughty part {-}
-
-Part of the kick is that it's forbidden. The locked door. The ear cocked for footsteps. The getting away with it. That's real too. The Bible's book of Proverbs, nearly three thousand years old, has a woman called Folly calling to men in the street: "Stolen water is sweet." The very next line says her guests end up among the dead.
-
-Ask what's sweet about it. It isn't the water. It's the stealing. The secret is doing a job the thing itself can't do.
-
-And look at what that tells you. Nobody gets a thrill from sneaking a glass of orange juice. You only sneak what part of you has already judged.
-
-![](images/illustrations/feels-good-sneaking-orange-juice.png){.illustration width=80%}
-
 ## "The first time, at least" {-}
 
 Be exact about how good it was. The first one of the evening is the big one. Go back for a second, and it's a shadow. The third is a chore. Every man knows this, and nobody says it.
@@ -98,7 +70,9 @@ Get the claim exactly right. This book has never said it doesn't feel good. It s
 
 Where that pleasure belongs is a question for later, and it gets a straight answer. For now, see the few seconds for what they are. They're the one thing you've been defending, and they're how the trap is set.
 
-One more thing about that lead-up. It never stays the same size.
+In the moment, your brain makes one more claim, and it's a big one. It says this beats the real thing.
+
+<!-- 2026-11-28 SPLIT (James, reading ch 10: 'This might need to split into chapters because the ideas are expanded on'). 'Better than the real thing' moved to the new chapter The Plaster Egg and expanded; 'The naughty part' moved to the new chapter Stolen Water and expanded. -->
 
 <!-- 2026-11-22 NEW CHAPTER (James: 'The orgasm is real. The euphoria is real. It does feel good in the moment. Just like sugar tastes great for a few seconds before destroying you. That needs to be addressed.'). The book now says plainly that it feels good, and squares that with 'no benefits at all': relief, the rush (weighed against the hour before and the ten minutes after, and shrinking), and what the rush is for. The last two paragraphs (the lead-up) are moved here from the end of The Little Monster. No facts, studies or quotes were added. -->
 

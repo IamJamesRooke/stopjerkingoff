@@ -2924,6 +2924,115 @@ def batch35(OUT):
     s+='<rect x="150" y="160" width="20" height="130" fill="#C0C6D0"/><path d="M120,160 L200,160 L180,110 L140,110 Z" fill="#fff"/>'
     s+=TAIL; open(OUT+"book-on-table.svg","w").write(s)
 
+def woman(x,y,dress="#FFD23F",hair="#9C6B3C",face="happy"):
+    o=f'<path d="M{x-38},{y} C{x-40},{y-50} {x+40},{y-50} {x+36},{y} L{x+40},{y+46} L{x-40},{y+46} Z" fill="{hair}"/>'
+    o+=f'<path d="M{x-14},{y+38} C{x-30},{y+70} {x-40},{y+130} {x-48},{y+162} L{x+50},{y+162} C{x+42},{y+130} {x+30},{y+70} {x+16},{y+38} Z" fill="{dress}"/>'
+    o+=f'<circle cx="{x}" cy="{y}" r="34" fill="#fff"/><path d="M{x-36},{y-12} C{x-30},{y-42} {x+30},{y-42} {x+34},{y-10} C{x+10},{y-24} {x-16},{y-22} {x-36},{y-12} Z" fill="{hair}"/>'
+    if face=="happy": o+=f'<path d="M{x-12},{y-4} q5,-6 10,0" stroke-width="3.5"/><path d="M{x+4},{y-4} q5,-6 10,0" stroke-width="3.5"/><path d="M{x-8},{y+12} q8,9 16,0" stroke-width="3.5"/>'
+    elif face=="pout": o+=dot(x-6,y-4)+dot(x+8,y-4)+f'<ellipse cx="{x+1}" cy="{y+14}" rx="6" ry="5" fill="#FF5A7A" stroke-width="3"/>'
+    else: o+=dot(x-6,y-4)+dot(x+8,y-4)+f'<line x1="{x-4}" y1="{y+14}" x2="{x+8}" y2="{y+14}" stroke-width="3.5"/>'
+    return o
+def T(x,y,t,size=20,col="#141414",anchor="middle",rot=None):
+    r=f' transform="rotate({rot} {x} {y})"' if rot is not None else ''
+    return f'<text x="{x}" y="{y}" text-anchor="{anchor}" font-family="Arial" font-weight="bold" font-size="{size}" fill="{col}" stroke="none"{r}>{t}</text>'
+def batch36(OUT):
+    W,H=680,440
+    import math
+    # 1. Diagram: YOU are that bird
+    s=head(W,H,"#FFF6E5")
+    s+='<line x1="340" y1="30" x2="340" y2="410" stroke-dasharray="10 12" stroke-width="4"/>'
+    s+=T(170,60,"THE BIRD",30)+T(510,60,"YOU",30)
+    s+='<line x1="30" y1="380" x2="320" y2="380"/><line x1="360" y1="380" x2="650" y2="380"/>'
+    s+='<ellipse cx="190" cy="270" rx="96" ry="84" fill="#fff"/>'
+    for (x,y,r) in [(150,240,13),(210,220,10),(230,290,15),(165,305,10),(195,262,8),(255,250,8)]:
+        s+=f'<circle cx="{x}" cy="{y}" r="{r}" fill="{SHIRT}" stroke="none"/>'
+    s+='<g transform="rotate(-25 200 180)"><ellipse cx="200" cy="180" rx="26" ry="18" fill="#FF7A59"/><circle cx="222" cy="166" r="12" fill="#FF7A59"/><path d="M233,164 L246,168 L233,172 Z" fill="#FFD23F" stroke-width="3"/>'+dot(224,163,2.6)+'</g>'
+    s+='<ellipse cx="70" cy="372" rx="36" ry="10" fill="#C9A26B"/>'
+    for x in (58,82): s+=f'<ellipse cx="{x}" cy="364" rx="9" ry="12" fill="#BFE3FF"/>'
+    s+=T(70,336,"brr",16,"#2F6BFF")
+    s+=T(190,410,"the plaster egg",18)+T(70,410,"her own",15)
+    # right: man hunched on stool over a huge glowing phone
+    s+='<rect x="430" y="150" width="70" height="120" rx="10" fill="#141414"/><rect x="438" y="160" width="54" height="100" rx="4" fill="#FFF36B" stroke-width="3"/>'
+    for i in range(10):
+        a=i*math.pi/5; s+=f'<line x1="{465+70*math.cos(a):.0f}" y1="{210+70*math.sin(a):.0f}" x2="{465+86*math.cos(a):.0f}" y2="{210+86*math.sin(a):.0f}" stroke="#FFB800" stroke-width="5"/>'
+    s+=heart(465,215,0.9)+'<path d="M446,176 l6,6 m0,-6 l-6,6 M484,240 l6,6 m0,-6 l-6,6" stroke="#FF5FA2" stroke-width="3"/>'
+    s+=man(560,200,"blank","#7B4FD6").replace('r="34"','r="28"')+'<path d="M556,352 L540,380"/><path d="M572,352 L590,380"/><path d="M546,236 L500,230"/><path d="M570,236 L504,250"/>'
+    s+='<g transform="translate(622,282) scale(0.55)">'+woman(0,0,"#FFD23F","#3B2A1A","flat")+'<path d="M-20,162 L-24,180 M20,162 L24,180"/></g>'
+    s+=T(465,410,"the screen",18)+T(610,410,"real life",15)
+    s+=T(622,250,"hi?",16)
+    s+=TAIL; open(OUT+"egg-you-are-that-bird.svg","w").write(s)
+
+    # 2. Take two hundred: ring light, photographer, editing sliders
+    s=head(W,H,"#FF8FB1")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+=woman(170,170,"#7FD3FF","#3B2A1A","pout")+'<path d="M146,332 L136,408"/><path d="M190,332 L210,408"/>'
+    s+='<path d="M156,214 L120,250 L150,270"/><path d="M186,214 L214,160 L200,140"/>'
+    s+='<circle cx="320" cy="150" r="54" fill="none" stroke="#fff" stroke-width="16"/><circle cx="320" cy="150" r="54" fill="none"/><circle cx="320" cy="150" r="38" fill="none"/><line x1="320" y1="204" x2="320" y2="408"/><path d="M290,408 L320,370 L350,408"/>'
+    s+=man(470,190,"squeeze","#2FB3A8").replace('r="34"','r="28"')+'<path d="M466,342 L450,408"/><path d="M482,342 L500,408"/>'
+    s+='<rect x="400" y="200" width="50" height="34" rx="6" fill="#141414"/><circle cx="414" cy="217" r="10" fill="#7FD3FF"/><path d="M456,230 L440,222 M480,232 L452,210"/>'
+    s+='<rect x="520" y="90" width="130" height="50" rx="8" fill="#fff"/>'+T(585,124,"TAKE 214",22,"#FF3B30")
+    s+='<rect x="530" y="290" width="120" height="80" rx="6" fill="#141414"/><rect x="538" y="298" width="104" height="64" fill="#fff" stroke-width="2"/>'
+    for i,(lab,pos) in enumerate([("smooth",0.9),("slim",0.8),("glow",0.95)]):
+        y=312+i*18; s+=f'<line x1="548" y1="{y}" x2="632" y2="{y}" stroke-width="3"/><circle cx="{548+84*pos:.0f}" cy="{y}" r="5" fill="#FF3B30" stroke-width="2"/>'
+    s+=TAIL; open(OUT+"egg-take-two-hundred.svg","w").write(s)
+
+    # 3. You're the lab rat: a little man in a maze, a phone at the end, two white coats with clipboards
+    s=head(W,H,"#9BD13A")
+    s+='<rect x="60" y="200" width="400" height="200" fill="#FFF6E5"/>'
+    for d in ["M60,250 L160,250","M200,200 L200,300","M120,300 L280,300 L280,350","M240,250 L360,250","M320,300 L420,300","M400,200 L400,260","M160,350 L160,400","M360,350 L460,350"]:
+        s+=f'<path d="{d}" stroke-width="7"/>'
+    s+='<rect x="60" y="200" width="400" height="200" fill="none" stroke-width="7"/>'
+    s+='<rect x="420" y="364" width="22" height="32" rx="4" fill="#141414"/><rect x="424" y="368" width="14" height="22" fill="#FFF36B" stroke-width="2"/>'
+    s+='<circle cx="100" cy="330" r="12" fill="#fff"/>'+dot(97,328,2.2)+dot(104,328,2.2)+'<path d="M100,342 L100,372 M100,352 L90,346 M100,352 L112,358 M100,372 L92,388 M100,372 L108,388" stroke-width="4"/>'
+    for (x,lab) in [(520,"A"),(610,"B")]:
+        s+=man(x,140,"flat","#fff").replace('r="34"','r="26"')+f'<path d="M{x-4},290 L{x-12},404"/><path d="M{x+10},290 L{x+18},404"/>'
+        s+=f'<rect x="{x-30}" y="196" width="34" height="44" rx="4" fill="#9C6B3C"/><rect x="{x-26}" y="204" width="26" height="32" fill="#fff" stroke-width="2"/>'+T(x-13,228,lab,18,"#FF3B30")
+    s+=TAIL; open(OUT+"egg-lab-rat.svg","w").write(s)
+
+    # 4. The beetle in love with a beer bottle
+    s=head(W,H,"#FFD23F")
+    s+='<path d="M30,380 C200,370 420,390 650,372 L650,410 L30,410 Z" fill="#E8C27A"/>'
+    s+='<g transform="rotate(-8 360 330)"><path d="M180,300 L420,300 C450,300 470,310 480,320 L560,326 L560,346 L480,350 C470,360 450,370 420,370 L180,370 C170,370 164,360 164,335 C164,310 170,300 180,300 Z" fill="#8B4A1C"/>'
+    s+='<rect x="556" y="322" width="18" height="28" rx="3" fill="#C0C6D0"/>'
+    for i in range(7): s+=f'<circle cx="{186+i*0+0}" cy="{306+i*9}" r="3.5" fill="#5a2a0c" stroke="none"/>'
+    s+='<path d="M230,312 L400,312" stroke="#fff" stroke-width="5" opacity="0.6"/></g>'
+    s+='<g transform="translate(320,270) rotate(-10)"><ellipse cx="0" cy="0" rx="46" ry="24" fill="#B5651D"/><line x1="-40" y1="0" x2="40" y2="0" stroke-width="3"/><circle cx="52" cy="-6" r="14" fill="#B5651D"/>'+dot(56,-10,3)+'<path d="M60,-18 q14,-14 26,-10 M58,-14 q16,-4 24,6" stroke-width="3"/>'
+    for dx in (-24,0,24): s+=f'<path d="M{dx},20 L{dx-8},40"/>'
+    s+='</g>'
+    s+=heart(390,190,0.8)+heart(430,150,0.55)+heart(360,140,0.45)
+    s+='<g transform="translate(120,360) scale(0.6)"><ellipse cx="0" cy="0" rx="46" ry="24" fill="#B5651D"/><line x1="-40" y1="0" x2="40" y2="0" stroke-width="3"/><circle cx="-52" cy="-4" r="14" fill="#B5651D"/>'+dot(-56,-8,3)+'</g>'
+    s+=T(120,320,"hello?",18)
+    for x in (560,590): s+=f'<circle cx="{x}" cy="392" r="5" fill="#141414"/><circle cx="{x+10}" cy="392" r="4" fill="#141414"/>'
+    s+=TAIL; open(OUT+"egg-beetle-bottle.svg","w").write(s)
+
+    # 5. Cartoons: a grown man walks past the TV with his coffee
+    s=head(W,H,"#7FD3FF")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<rect x="80" y="250" width="200" height="30" fill="#9C6B3C"/><line x1="100" y1="280" x2="100" y2="408"/><line x1="260" y1="280" x2="260" y2="408"/>'
+    s+='<rect x="90" y="120" width="180" height="130" rx="12" fill="#141414"/><rect x="104" y="134" width="152" height="102" fill="#FFF36B" stroke-width="3"/>'
+    s+='<circle cx="150" cy="190" r="22" fill="#FF7A59"/>'+dot(144,186,3)+dot(156,186,3)+'<path d="M142,198 q8,8 16,0" stroke-width="3"/><path d="M134,170 L128,150 L144,166 M166,166 L172,150 L156,170" fill="#FF7A59" stroke-width="3"/>'
+    s+='<circle cx="212" cy="196" r="16" fill="#2FB3A8"/>'+dot(208,192,2.5)+dot(217,192,2.5)+T(232,168,"BOING!",16,"#FF3B30")
+    s+=man(460,170,"blank","#fff")+'<path d="M456,320 L430,406"/><path d="M474,320 L504,404"/>'
+    s+='<path d="M444,210 L420,286"/><path d="M474,210 L500,250 L520,240"/><rect x="514" y="222" width="22" height="28" rx="4" fill="#fff"/>'
+    s+='<path d="M454,208 L462,230 L470,208" fill="#FF3B30" stroke-width="3"/>'
+    s+='<rect x="400" y="290" width="44" height="34" rx="4" fill="#9C6B3C"/>'
+    s+=door(560,180,80,230,"#5A3E9B")
+    s+=TAIL; open(OUT+"stolen-cartoons.svg","w").write(s)
+
+    # 6. Put away childish things: a man boxes up his old toys
+    s=head(W,H,"#FF7A59")
+    s+='<line x1="30" y1="410" x2="650" y2="410"/>'
+    s+='<path d="M330,300 L530,300 L520,408 L340,408 Z" fill="#C9A26B"/><path d="M330,300 L300,260 L360,260 L370,300 M530,300 L560,260 L500,260 L490,300" fill="#E8C27A"/>'
+    s+=T(430,366,"CHILDISH THINGS",17)
+    s+='<rect x="380" y="270" width="36" height="36" fill="#FF3B30"/>'+T(398,296,"A",22,"#fff")
+    s+='<circle cx="460" cy="282" r="20" fill="#FFD23F"/><circle cx="446" cy="264" r="8" fill="#FFD23F"/><circle cx="474" cy="264" r="8" fill="#FFD23F"/>'+dot(454,280,2.5)+dot(466,280,2.5)
+    s+='<path d="M494,290 L510,240" stroke-width="5"/><circle cx="512" cy="232" r="10" fill="#7FD3FF"/>'
+    s+=man(200,170,"happy","#2F6BFF")+legs(200,320,16)
+    s+='<path d="M186,210 L240,250 L280,240"/><path d="M214,210 L270,226"/>'
+    s+='<path d="M262,226 L272,206 L304,206 L316,226 Z" fill="#FF3B30"/><rect x="256" y="224" width="68" height="18" rx="5" fill="#FF3B30"/><circle cx="272" cy="244" r="8" fill="#141414"/><circle cx="308" cy="244" r="8" fill="#141414"/>'
+    s+='<rect x="560" y="110" width="80" height="14" fill="#9C6B3C"/><rect x="570" y="70" width="18" height="40" fill="#2FB3A8"/><rect x="592" y="76" width="16" height="34" fill="#FFD23F"/><rect x="612" y="66" width="18" height="44" fill="#FF8FB1"/>'
+    s+=TAIL; open(OUT+"stolen-childish-things.svg","w").write(s)
+
 if __name__=="__main__":
-    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30","31","32","33","34","35"]
+    which=sys.argv[2:] or ["5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30","31","32","33","34","35","36"]
     for b in which: globals()["batch"+b](OUT)
