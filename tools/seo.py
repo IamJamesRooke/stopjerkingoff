@@ -15,7 +15,9 @@ TITLE = "Stop Jerking Off"
 FULL_TITLE = "Stop Jerking Off: The Easy Peasy Way to Conquer Lust"
 DESCRIPTION = ('You\'ve said "never again" a hundred times. Porn, masturbation, the second look, the chase: stop'
                ' fighting lust and see what it really is. No willpower. No shame.')
-IMAGE = SITE + "images/og-image.png?v=7"
+IMAGE = SITE + "images/og-image.png?v=8"
+IMAGE_ALT = ("You've said \"never again\" a hundred times. No willpower. No shame. "
+             "A drawing of a house at night: a man on the couch with his phone, and a little monster banging upstairs.")
 PUBLISHER = {"@type": "Organization", "@id": SITE + "#org", "name": TITLE, "url": SITE, "logo": SITE + "images/logo-512.png", "email": "hello@stopjerkingoff.com"}
 BOOK_ID = SITE + "#book"  # the book is anonymous
 # Search-engine ownership checks: paste the code from Google Search Console / Bing Webmaster Tools here.
@@ -52,7 +54,7 @@ def head_tags(url, title, is_home, noindex, desc=DESCRIPTION, extra_ld=None):
         f'<meta property="og:image" content="{IMAGE}" />',
         '<meta property="og:image:width" content="1200" />',
         '<meta property="og:image:height" content="630" />',
-        f'<meta property="og:image:alt" content="{e(FULL_TITLE)}" />',
+        f'<meta property="og:image:alt" content="{e(IMAGE_ALT)}" />',
         '<meta name="twitter:card" content="summary_large_image" />',
         f'<meta name="twitter:title" content="{e(title)}" />',
         f'<meta name="twitter:description" content="{e(desc)}" />',
