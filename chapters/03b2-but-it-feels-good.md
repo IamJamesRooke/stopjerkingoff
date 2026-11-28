@@ -30,6 +30,8 @@ A little vice stays little. One cola is one cola. This one doesn't hold still. I
 
 And a little vice is one you could drop on a Tuesday and never think about again. You've tried to drop this one. How many times?
 
+Don't take that as a pass on candy, or as a swap. Sugar is no friend either. It has its own hooks and its own bill. That's a fight for another book.
+
 It isn't candy. Candy never made you promise anything.
 
 ## Take the few seconds apart {-}
@@ -121,3 +123,5 @@ Right at the peak, your brain makes one more claim. It's the biggest one yet.
 <!-- 2026-11-28 Author polish pass (James: 'one polish pass' on the three chapters that replaced chapter 10). Small fixes only: see the commit. -->
 
 <!-- 2026-11-28 (James: 'Something is missing' in this chapter; 'drawings are cheap'). Missing piece: 'Why would I ever quit?' was asked and never answered. Now answered: you keep the feeling, you lose the banging, and the man who never started has the quiet all day for free. Five drawings added (fish and worm, candy vs locked door, one-evening diagram, boom-pop-fizzle, the quiet machine; batch37 in tools/draw_illustrations.py). Closing hook no longer states the next chapter's claim, so The Plaster Egg can open on it. -->
+
+<!-- 2026-11-28 (James: we're not saying candy is fine, don't substitute; sugar is its own problem, not this book's focus). One short paragraph added in 'One little vice'. The Jocko Willink 'sugar-coated lies' line he suggested could not be verified in a published source, so it is not quoted. -->
